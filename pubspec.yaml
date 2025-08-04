@@ -32,7 +32,7 @@ dev_dependencies:
 flutter_icons:
   android: true
   ios: true
-  image_path: "images/kskill_logo.png"
+  image_path: "images/kskillicon.png"
 
 flutter:
   uses-material-design: true

@@ -164,28 +164,46 @@ class _ProfileScreenState extends State<ProfileScreen>
     return SafeArea(
       child: Scaffold(
         backgroundColor: lightBackground,
+
+        // appBar: AppBar(
+        //   title: Text('Your Profile', style: TextStyle(color: Colors.white)),
+        //   backgroundColor: Colors.orangeAccent,
+        //   elevation: 0,
+        //   actions: [
+        //     IconButton(
+        //       icon: Icon(Icons.logout, color: Colors.red),
+        //       tooltip: 'Logout',
+        //       onPressed: _logout,
+        //     ),
+        //   ],
+        //   leading: IconButton(
+        //     icon: const Icon(Icons.arrow_back, color: Colors.white),
+        //     onPressed: () {
+        //       Navigator.pushNamedAndRemoveUntil(
+        //         context,
+        //         '/dashboard', // or '/home' - whatever your home route is
+        //         (route) => false, // Remove all previous routes
+        //       );
+        //     },
+        //   ),
+        // ),
         appBar: AppBar(
-          title: Text('Your Profile', style: TextStyle(color: Colors.white)),
+          title: const Text('Your Profile'),
           backgroundColor: Colors.orangeAccent,
+          foregroundColor: Colors.white,
           elevation: 0,
-          actions: [
-            IconButton(
-              icon: Icon(Icons.logout, color: Colors.red),
-              tooltip: 'Logout',
-              onPressed: _logout,
-            ),
-          ],
           leading: IconButton(
-            icon: const Icon(Icons.arrow_back, color: Colors.white),
+            icon: const Icon(Icons.arrow_back),
             onPressed: () {
               Navigator.pushNamedAndRemoveUntil(
                 context,
-                '/dashboard', // or '/home' - whatever your home route is
-                (route) => false, // Remove all previous routes
+                '/dashboard',
+                (route) => false,
               );
             },
           ),
         ),
+
         body: FutureBuilder<List<dynamic>>(
           future: profileFuture,
           builder: (context, snapshot) {
