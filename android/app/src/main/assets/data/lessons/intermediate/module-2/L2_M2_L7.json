@@ -1,0 +1,467 @@
+{
+  "level": "Intermediate",
+  "module": "Grammar Expansion",
+  "lesson_number": 7,
+  "lesson_title": "Sentence Types (Statement, Question, Command)",
+  "objectives": [
+    "Identify different types of sentences",
+    "Use the correct punctuation for each sentence type",
+    "Create sentences of different structures for better communication"
+  ],
+  "topics": [
+    {
+      "title": "Understanding Sentence Types",
+      "subtopics": [
+        {
+          "title": "Introduction to Sentence Types",
+          "sections": [
+            {
+              "text": "Sentences are groups of words that tell a complete idea. Not all sentences do the same work. Some tell us something, some ask something, some give an order, and some show strong feelings. Knowing different sentence types helps us speak and write clearly and correctly. There are mainly four types of sentences: Declarative, Interrogative, Imperative, and Exclamatory.",
+              "examples": [
+                {
+                  "label": "Tells something",
+                  "value": "The village is quiet at night."
+                },
+                {
+                  "label": "Asks something",
+                  "value": "Do you know the way to the market?"
+                },
+                {
+                  "label": "Gives an order",
+                  "value": "Finish your work quickly."
+                },
+                {
+                  "label": "Shows strong feeling",
+                  "value": "How delicious this mango is!"
+                },
+                {
+                  "label": "Tells a fact",
+                  "value": "Cows eat grass."
+                },
+                {
+                  "label": "Asks for information",
+                  "value": "What time is the bus?"
+                },
+                {
+                  "label": "Requests something",
+                  "value": "Please help me lift this sack."
+                },
+                {
+                  "label": "Expresses surprise",
+                  "value": "Wow, look at the size of that pumpkin!"
+                },
+                {
+                  "label": "States an opinion",
+                  "value": "I find morning walks very refreshing."
+                },
+                {
+                  "label": "Seeks confirmation",
+                  "value": "Have you seen my cow?"
+                },
+                {
+                  "label": "Gives advice",
+                  "value": "You should drink clean water."
+                },
+                {
+                  "label": "Expresses joy",
+                  "value": "What a wonderful surprise!"
+                },
+                {
+                  "label": "Gives instruction",
+                  "value": "Plant the seeds in a straight line."
+                },
+                {
+                  "label": "States a general truth",
+                  "value": "Plants need sunlight to grow."
+                },
+                {
+                  "label": "Asks about choice",
+                  "value": "Would you like tea or coffee?"
+                }
+              ],
+              "usage_examples": [
+                "We use sentences to share ideas.",
+                "Different sentences have different purposes.",
+                "Punctuation is important at the end.",
+                "This lesson covers four main types.",
+                "Clear writing uses different sentences."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Declarative Sentences (Statements)",
+      "subtopics": [
+        {
+          "title": "What are Declarative Sentences?",
+          "sections": [
+            {
+              "text": "A declarative sentence is the most common type of sentence. It simply makes a statement, tells a fact, or gives an opinion. It always ends with a full stop (.). It declares something to be true or tells a piece of information. They are used for everyday conversation and sharing facts.",
+              "examples": [
+                {
+                  "label": "Fact",
+                  "value": "Many people in our village are farmers."
+                },
+                {
+                  "label": "Fact",
+                  "value": "The school has a small library."
+                },
+                {
+                  "label": "Opinion",
+                  "value": "I believe honesty is the best policy."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The children play in the field every evening."
+                },
+                {
+                  "label": "Statement",
+                  "value": "My grandmother tells interesting stories."
+                },
+                {
+                  "label": "Fact",
+                  "value": "Rain is essential for good crops."
+                },
+                {
+                  "label": "Statement",
+                  "value": "We are learning about sentence types today."
+                },
+                {
+                  "label": "Opinion",
+                  "value": "I think summer is better than winter."
+                },
+                {
+                  "label": "Fact",
+                  "value": "The post office is next to the panchayat office."
+                },
+                {
+                  "label": "Statement",
+                  "value": "He repaired the broken chair yesterday."
+                },
+                {
+                  "label": "Fact",
+                  "value": "Dogs are loyal animals."
+                },
+                {
+                  "label": "Statement",
+                  "value": "She planted a mango sapling in her garden."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The road to the city is very bumpy."
+                },
+                {
+                  "label": "Opinion",
+                  "value": "Village life is peaceful and calm."
+                },
+                {
+                  "label": "Fact",
+                  "value": "The moon shines at night."
+                },
+                {
+                  "label": "Statement",
+                  "value": "I helped my father in the field this morning."
+                }
+              ],
+              "usage_examples": [
+                "My house is near the river.",
+                "The sky is blue.",
+                "I am learning English.",
+                "She is a good student.",
+                "The buffalo is a useful animal."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Interrogative Sentences (Questions)",
+      "subtopics": [
+        {
+          "title": "What are Interrogative Sentences?",
+          "sections": [
+            {
+              "text": "An interrogative sentence asks a question. It always ends with a question mark (?). We use them when we want to get information or when we want to know something. There are two main types: Yes/No questions and Wh-questions.",
+              "examples": [
+                {
+                  "label": "Yes/No Question",
+                  "value": "Are you going to the market?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Is this your pen?"
+                },
+                {
+                  "label": "Wh-Question (What)",
+                  "value": "What are you cooking for dinner?"
+                },
+                {
+                  "label": "Wh-Question (Where)",
+                  "value": "Where did you put the sickle?"
+                },
+                {
+                  "label": "Wh-Question (When)",
+                  "value": "When does the school start?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Have you finished your chores?"
+                },
+                {
+                  "label": "Wh-Question (Who)",
+                  "value": "Who is the village headman?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Will you come to my house tomorrow?"
+                },
+                {
+                  "label": "Wh-Question (Why)",
+                  "value": "Why is the baby crying?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Does your father own a tractor?"
+                },
+                {
+                  "label": "Wh-Question (How)",
+                  "value": "How old is that banyan tree?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Was it raining last night?"
+                },
+                {
+                  "label": "Wh-Question (Which)",
+                  "value": "Which is the shortest way to the river?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Have the guests arrived?"
+                },
+                {
+                  "label": "Wh-Question (Whose)",
+                  "value": "Whose books are these on the table?"
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Is this water safe to drink?"
+                }
+              ],
+              "usage_examples": [
+                "Have you eaten?",
+                "How is your family?",
+                "Which way is the school?",
+                "Can you speak English?",
+                "Why were you late?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-7/p"
+              },
+              "table": {
+                "title": "Question Words",
+                "headers": ["Question Word", "Purpose", "Example"],
+                "rows": [
+                  ["What", "Asks about things/actions", "What is that?"],
+                  ["Where", "Asks about place", "Where is the temple?"],
+                  ["When", "Asks about time", "When will you come?"],
+                  ["Who", "Asks about people", "Who is he?"],
+                  ["Why", "Asks for reason", "Why are you sad?"],
+                  ["How", "Asks about manner/way", "How are you?"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Imperative Sentences (Commands)",
+      "subtopics": [
+        {
+          "title": "What are Imperative Sentences?",
+          "sections": [
+            {
+              "text": "An imperative sentence gives a command, makes a request, or offers advice or instructions. The subject 'you' is usually understood but not said. It can end with a full stop (.) or sometimes an exclamation mark (!) if the command is very strong. These sentences are direct and tell someone to do something.",
+              "examples": [
+                {
+                  "label": "Command",
+                  "value": "Finish your homework before you play."
+                },
+                {
+                  "label": "Request",
+                  "value": "Please pass the salt."
+                },
+                {
+                  "label": "Instruction",
+                  "value": "Take this medicine after your meal."
+                },
+                {
+                  "label": "Advice",
+                  "value": "Work hard if you want to succeed."
+                },
+                {
+                  "label": "Command",
+                  "value": "Feed the cows now."
+                },
+                {
+                  "label": "Prohibition (negative command)",
+                  "value": "Don't make a noise in the library."
+                },
+                {
+                  "label": "Instruction",
+                  "value": "First, plough the field properly."
+                },
+                {
+                  "label": "Request",
+                  "value": "Kindly show me the way to the post office."
+                },
+                {
+                  "label": "Command (strong)",
+                  "value": "Stop that immediately!"
+                },
+                {
+                  "label": "Advice",
+                  "value": "Always tell the truth."
+                },
+                {
+                  "label": "Instruction",
+                  "value": "Write your name on the top of the page."
+                },
+                {
+                  "label": "Request",
+                  "value": "Please lend me your pen for a minute."
+                },
+                {
+                  "label": "Command",
+                  "value": "Bring the tools from the shed."
+                },
+                {
+                  "label": "Advice",
+                  "value": "Save some money for the future."
+                },
+                {
+                  "label": "Instruction",
+                  "value": "Water the plants every morning."
+                },
+                {
+                  "label": "Prohibition",
+                  "value": "Don't touch the electrical wires."
+                }
+              ],
+              "usage_examples": [
+                "Come here.",
+                "Be careful.",
+                "Show me your notebook.",
+                "Don't be lazy.",
+                "Help the poor."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Exclamatory Sentences (Exclamations)",
+      "subtopics": [
+        {
+          "title": "What are Exclamatory Sentences?",
+          "sections": [
+            {
+              "text": "An exclamatory sentence expresses strong emotion or surprise. It can show joy, anger, fear, excitement, or sadness. It always ends with an exclamation mark (!). These sentences are used to show how someone feels strongly about something. They make your speaking and writing more lively.",
+              "examples": [
+                {
+                  "label": "Surprise/Beauty",
+                  "value": "What a lovely song!"
+                },
+                {
+                  "label": "Excitement",
+                  "value": "We're going to the city tomorrow!"
+                },
+                {
+                  "label": "Fear/Warning",
+                  "value": "Look out, the bull is angry!"
+                },
+                {
+                  "label": "Joy",
+                  "value": "How wonderful to see rain after so long!"
+                },
+                {
+                  "label": "Anger/Frustration",
+                  "value": "I can't believe he lied again!"
+                },
+                {
+                  "label": "Awe",
+                  "value": "How vast the sky is!"
+                },
+                {
+                  "label": "Surprise",
+                  "value": "Good heavens, you scared me!"
+                },
+                {
+                  "label": "Excitement",
+                  "value": "The holidays are finally here!"
+                },
+                {
+                  "label": "Pain",
+                  "value": "My head hurts so much!"
+                },
+                {
+                  "label": "Relief",
+                  "value": "Phew, I found my lost keys!"
+                },
+                {
+                  "label": "Admiration",
+                  "value": "What a clever boy you are!"
+                },
+                {
+                  "label": "Disappointment",
+                  "value": "Alas, we lost the match!"
+                },
+                {
+                  "label": "Strong wish",
+                  "value": "If only I knew the answer!"
+                },
+                {
+                  "label": "Astonishment",
+                  "value": "I can't believe my eyes!"
+                },
+                {
+                  "label": "Sudden realization",
+                  "value": "So that's the secret!"
+                },
+                {
+                  "label": "Urgency",
+                  "value": "Hurry up, we're getting late!"
+                }
+              ],
+              "usage_examples": [
+                "What a clever idea!",
+                "How cold the water is!",
+                "I'm so excited!",
+                "That's incredible!",
+                "What a terrible accident!"
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

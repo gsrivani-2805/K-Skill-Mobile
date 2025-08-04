@@ -1,0 +1,333 @@
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 6,
+  "lesson_title": "Sentence Structure: Making Proper Sentences",
+  "objectives": [
+    "Understand the basic word order in English sentences: Subject + Verb + Object.",
+    "Learn to arrange words in the correct order to form clear sentences.",
+    "Practice building simple and meaningful sentences about daily life."
+  ],
+  "topics": [
+    {
+      "title": "1. What is Sentence Structure?",
+      "subtopics": [
+        {
+          "title": "1.1. Why Word Order Matters",
+          "sections": [
+            {
+              "text": "Every sentence has parts, and these parts must be in a certain order for the sentence to make sense. Just like building a house, you need to put the bricks, cement, and roof in the right place. In English, the order of words is very important. If the words are in the wrong order, the sentence will not be clear or might mean something else.",
+              "examples": [
+                {
+                  "label": "Correct Order",
+                  "value": "Ram eats mango."
+                },
+                {
+                  "label": "Wrong Order",
+                  "value": "Eats Ram mango."
+                },
+                {
+                  "label": "Wrong Order (Different Meaning)",
+                  "value": "Mango eats Ram. (This sounds like the mango is eating Ram!)"
+                }
+              ],
+              "usage_examples": [
+                "My father drives a tractor.",
+                "Students learn English.",
+                "The cow gives milk.",
+                "We play games.",
+                "The teacher reads a book."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. The Basic Sentence Pattern: Subject + Verb + Object (S + V + O)",
+      "subtopics": [
+        {
+          "title": "2.1. Subject (S): Who or What Does It?",
+          "sections": [
+            {
+              "text": "The Subject (S) is the person, animal, or thing that the sentence is about. It is the one performing the action. We learned about subjects in the last lesson (Lesson 5). It usually comes at the beginning of the sentence.",
+              "examples": [
+                {
+                  "label": "Person as Subject",
+                  "value": "**The farmer** works hard."
+                },
+                {
+                  "label": "Animal as Subject",
+                  "value": "**The dog** barks loudly."
+                },
+                {
+                  "label": "Thing as Subject",
+                  "value": "**The sun** shines brightly."
+                }
+              ],
+              "usage_examples": [
+                "**My mother** cooks.",
+                "**We** study.",
+                "**The children** play.",
+                "**The well** provides water.",
+                "**Ram** reads."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Verb (V): What is the Action?",
+          "sections": [
+            {
+              "text": "The Verb (V) is the action word in the sentence. It tells us what the subject is doing or what is happening. The verb comes right after the subject.",
+              "examples": [
+                {
+                  "label": "Action Verb",
+                  "value": "The farmer **works** hard."
+                },
+                {
+                  "label": "Action Verb",
+                  "value": "The dog **barks** loudly."
+                },
+                {
+                  "label": "Action Verb",
+                  "value": "The sun **shines** brightly."
+                }
+              ],
+              "usage_examples": [
+                "My mother **cooks**.",
+                "We **study**.",
+                "The children **play**.",
+                "The well **provides** water.",
+                "Ram **reads**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.3. Object (O): Who or What Receives the Action?",
+          "sections": [
+            {
+              "text": "The Object (O) is the person, animal, or thing that receives the action of the verb. Not all sentences have an object, but many do. The object usually comes after the verb.",
+              "examples": [
+                {
+                  "label": "Receiving Action",
+                  "value": "The farmer works **the field**. (The field receives the action of working/plowing)"
+                },
+                {
+                  "label": "Receiving Action",
+                  "value": "I eat **rice**. (Rice receives the action of eating)"
+                },
+                {
+                  "label": "Receiving Action",
+                  "value": "She reads **a book**. (A book receives the action of reading)"
+                }
+              ],
+              "usage_examples": [
+                "My mother cooks **food**.",
+                "We study **English**.",
+                "The children play **games**.",
+                "The cow gives **milk**.",
+                "Ram reads **stories**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.4. Putting S+V+O Together",
+          "sections": [
+            {
+              "text": "The most common and basic English sentence pattern is Subject + Verb + Object (S + V + O). This means: First, say who or what; Second, say what they do; Third, say what or who receives the action.",
+              "examples": [
+                {
+                  "label": "S + V + O Example 1",
+                  "value": "**Farmers (S) grow (V) crops (O).**"
+                },
+                {
+                  "label": "S + V + O Example 2",
+                  "value": "**Children (S) play (V) games (O).**"
+                },
+                {
+                  "label": "S + V + O Example 3",
+                  "value": "**My mother (S) cooks (V) food (O).**"
+                },
+                {
+                  "label": "S + V + O Example 4",
+                  "value": "**I (S) drink (V) milk (O).**"
+                },
+                {
+                  "label": "S + V + O Example 5",
+                  "value": "**He (S) drives (V) a tractor (O).**"
+                }
+              ],
+              "usage_examples": [
+                "The teacher teaches English.",
+                "My father buys vegetables.",
+                "We watch movies.",
+                "Sita drew a picture.",
+                "The dog chased the cat.",
+                "Students write notes.",
+                "The shopkeeper sells groceries."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              },
+              "table": {
+                "title": "S + V + O Pattern Examples",
+                "headers": ["Subject (S)", "Verb (V)", "Object (O)"],
+                "rows": [
+                  ["The farmer", "plows", "the field."],
+                  ["I", "eat", "rice."],
+                  ["She", "reads", "a book."],
+                  ["We", "play", "kabaddi."],
+                  ["He", "drinks", "water."],
+                  ["The peon", "rings", "the bell."],
+                  ["My sister", "draws", "pictures."]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Sentences Without a Direct Object (S + V)",
+      "subtopics": [
+        {
+          "title": "3.1. When an Action Doesn't Need an Object",
+          "sections": [
+            {
+              "text": "Sometimes, a verb does not need an object because the action is complete by itself. In such cases, the sentence pattern is simply Subject + Verb (S + V). The verb here is called an 'intransitive verb'.",
+              "examples": [
+                {
+                  "label": "S + V Example 1",
+                  "value": "**Birds (S) fly (V).** (The action of flying is complete.)"
+                },
+                {
+                  "label": "S + V Example 2",
+                  "value": "**Children (S) laugh (V).** (The action of laughing is complete.)"
+                },
+                {
+                  "label": "S + V Example 3",
+                  "value": "**The sun (S) shines (V).** (The action of shining is complete.)"
+                }
+              ],
+              "usage_examples": [
+                "My baby **sleeps**.",
+                "The dog **barks**.",
+                "Rain **falls**.",
+                "The bell **rings**.",
+                "I **swim**.",
+                "He **runs**.",
+                "She **smiles**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              },
+              "table": {
+                "title": "S + V Pattern Examples",
+                "headers": ["Subject (S)", "Verb (V)"],
+                "rows": [
+                  ["The girl", "sings."],
+                  ["My father", "rests."],
+                  ["Water", "flows."],
+                  ["Students", "learn."],
+                  ["They", "listen."]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Building Correct Sentences",
+      "subtopics": [
+        {
+          "title": "4.1. Arranging Words in Order",
+          "sections": [
+            {
+              "text": "When you want to make a sentence, always think: Who or what is doing the action? (Subject) -> What is the action? (Verb) -> Who or what is receiving the action? (Object, if needed). This order will help you speak and write correctly.",
+              "examples": [
+                {
+                  "label": "Scrambled Words",
+                  "value": "market / to / goes / he / the"
+                },
+                {
+                  "label": "Correct Sentence",
+                  "value": "**He goes to the market.** (S + V + additional information)"
+                },
+                {
+                  "label": "Scrambled Words",
+                  "value": "cricket / play / we / evening / in / the"
+                },
+                {
+                  "label": "Correct Sentence",
+                  "value": "**We play cricket in the evening.** (S + V + O + additional information)"
+                }
+              ],
+              "usage_examples": [
+                "Make sure your **subject** comes first.",
+                "Place the **verb** right after the subject.",
+                "If there is an **object**, it comes after the verb.",
+                "Always start your sentence with a capital letter and end with a full stop (.).",
+                "Let's practice arranging these words to make a good sentence."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "4.2. Common Mistakes to Avoid",
+          "sections": [
+            {
+              "text": "Sometimes, we make small mistakes in word order. Being aware of these common errors can help you improve your sentences.",
+              "examples": [
+                {
+                  "label": "Mistake: Verb before Subject",
+                  "value": "Eats Ram food. (Incorrect)"
+                },
+                {
+                  "label": "Corrected",
+                  "value": "Ram eats food. (Correct: Subject before Verb)"
+                },
+                {
+                  "label": "Mistake: Object before Verb",
+                  "value": "I a book read. (Incorrect)"
+                },
+                {
+                  "label": "Corrected",
+                  "value": "I read a book. (Correct: Verb before Object)"
+                }
+              ],
+              "usage_examples": [
+                "Always remember: **Subject first, then Verb, then Object**.",
+                "Don't put adjectives (describing words) after the noun they describe. Example: 'a flower red' is wrong; 'a red flower' is correct.",
+                "Practice saying sentences aloud to hear if they sound right.",
+                "If you are talking about 'my book', say 'my book', not 'book my'.",
+                "Try to speak in full sentences to build good habits."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-6/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

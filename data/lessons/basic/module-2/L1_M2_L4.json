@@ -1,0 +1,607 @@
+
+{
+  "level": "Beginner",
+  "module": "BASIC VOCABULARY",
+  "lesson_number": 4,
+  "lesson_title": "Food, Animals, and Clothes",
+  "objectives": [
+    "Learn names for common foods we eat, animals we see, and clothes we wear.",
+    "Use these new words to talk about our daily life.",
+    "Understand the difference between farm animals and wild animals."
+  ],
+  "topics": [
+    {
+      "title": "1. Food We Eat",
+      "subtopics": [
+        {
+          "title": "All About Food",
+          "sections": [
+            {
+              "text": "These are words for different kinds of food we eat, their taste, and how we describe them. Food gives us energy to live, work, and play.",
+              "examples": [
+                {
+                  "label": "Rice",
+                  "value": "Small, white or brown grains that we cook and eat as a main food."
+                },
+                {
+                  "label": "Wheat",
+                  "value": "A grain used to make flour for roti, chapati, or bread."
+                },
+                {
+                  "label": "Dal (Pulses)",
+                  "value": "Dried lentils or peas that we cook to make a thick soup or curry."
+                },
+                {
+                  "label": "Roti / Chapati",
+                  "value": "A flat, round bread made from wheat flour, cooked on a pan."
+                },
+                {
+                  "label": "Bread",
+                  "value": "A food made from flour, water, and yeast, baked in an oven."
+                },
+                {
+                  "label": "Vegetable",
+                  "value": "A plant or part of a plant used as food, such as potato, onion, or carrot."
+                },
+                {
+                  "label": "Fruit",
+                  "value": "The sweet, fleshy part of a tree or plant that can be eaten as food."
+                },
+                {
+                  "label": "Mango",
+                  "value": "A sweet, juicy fruit that is known as the 'king of fruits'."
+                },
+                {
+                  "label": "Banana",
+                  "value": "A long, yellow, sweet fruit that is easy to peel and eat."
+                },
+                {
+                  "label": "Apple",
+                  "value": "A round, sweet fruit, usually red or green, with white flesh."
+                },
+                {
+                  "label": "Orange",
+                  "value": "A round, juicy citrus fruit with a tough, orange-colored skin."
+                },
+                {
+                  "label": "Milk",
+                  "value": "A white liquid produced by cows and other mammals, which we drink."
+                },
+                {
+                  "label": "Water",
+                  "value": "A clear liquid, without color or taste, that we need to drink to live."
+                },
+                {
+                  "label": "Tea",
+                  "value": "A hot drink made by pouring boiling water onto dried leaves."
+                },
+                {
+                  "label": "Sugar",
+                  "value": "A sweet substance, usually in the form of white or brown crystals, used to sweeten food and drinks."
+                },
+                {
+                  "label": "Salt",
+                  "value": "A white substance used to add flavor to food."
+                },
+                {
+                  "label": "Spice",
+                  "value": "A substance like chili, turmeric, or cumin used to add flavor and aroma to food."
+                },
+                {
+                  "label": "Oil",
+                  "value": "A fatty liquid used for cooking and frying."
+                },
+                {
+                  "label": "Sweet",
+                  "value": "Having the taste of sugar or honey."
+                },
+                {
+                  "label": "Sour",
+                  "value": "Having a sharp taste like a lemon."
+                },
+                {
+                  "label": "Salty",
+                  "value": "Tasting of salt."
+                },
+                {
+                  "label": "Spicy",
+                  "value": "Having a strong, hot flavor from spices."
+                },
+                {
+                  "label": "Fresh",
+                  "value": "Food that is newly made or collected, not old."
+                },
+                {
+                  "label": "Stale",
+                  "value": "Food that is no longer fresh and good to eat."
+                },
+                {
+                  "label": "Hot",
+                  "value": "Food that has a high temperature."
+                },
+                {
+                  "label": "Cold",
+                  "value": "Food that has a low temperature."
+                },
+                {
+                  "label": "Curry",
+                  "value": "A dish of meat or vegetables cooked in a spicy sauce."
+                },
+                {
+                  "label": "Salad",
+                  "value": "A mixture of raw vegetables such as lettuce, tomato, and cucumber."
+                },
+                {
+                  "label": "Snack",
+                  "value": "A small amount of food eaten between main meals."
+                },
+                {
+                  "label": "Meal",
+                  "value": "An occasion when food is eaten, such as breakfast, lunch, or dinner."
+                }
+              ],
+              "usage_examples": [
+                "My mother cooks rice and dal for lunch.",
+                "The farmer grows wheat in his field.",
+                "Roti is a common part of our daily meal.",
+                "We must eat fresh fruits and vegetables every day.",
+                "The mango is a very sweet fruit.",
+                "I drink a glass of milk in the morning.",
+                "Always drink clean water.",
+                "My father likes to drink tea after his meal.",
+                "Don't put too much salt in the curry.",
+                "Indian food is known for its spices.",
+                "This sweet dish is very tasty.",
+                "The lemon juice is very sour.",
+                "The curry is too spicy for me.",
+                "Be careful, the soup is very hot.",
+                "We had a heavy meal at the festival."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-4/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Animals Around Us",
+      "subtopics": [
+        {
+          "title": "All About Animals",
+          "sections": [
+            {
+              "text": "These are words for animals we see on farms, in our homes, and in the wild. We also learn words to describe them.",
+              "examples": [
+                {
+                  "label": "Cow",
+                  "value": "A large farm animal that gives us milk."
+                },
+                {
+                  "label": "Buffalo",
+                  "value": "A large, dark farm animal that gives milk and is used for work."
+                },
+                {
+                  "label": "Goat",
+                  "value": "A small farm animal that gives milk and meat."
+                },
+                {
+                  "label": "Sheep",
+                  "value": "A farm animal with a thick woolly coat, kept for its wool and meat."
+                },
+                {
+                  "label": "Horse",
+                  "value": "A large animal with a long mane and tail, used for riding and pulling carts."
+                },
+                {
+                  "label": "Donkey",
+                  "value": "An animal like a small horse with long ears, used for carrying loads."
+                },
+                {
+                  "label": "Chicken",
+                  "value": "A farm bird raised for its meat and eggs."
+                },
+                {
+                  "label": "Dog",
+                  "value": "A common pet animal known for being loyal and guarding homes."
+                },
+                {
+                  "label": "Cat",
+                  "value": "A small, furry animal often kept as a pet, known for catching mice."
+                },
+                {
+                  "label": "Tiger",
+                  "value": "A large, powerful wild cat with black stripes on orange fur."
+                },
+                {
+                  "label": "Lion",
+                  "value": "A large, wild cat from Africa and India, known as the 'king of the jungle'."
+                },
+                {
+                  "label": "Elephant",
+                  "value": "The largest land animal, with a long trunk and big ears."
+                },
+                {
+                  "label": "Deer",
+                  "value": "A graceful wild animal that eats grass. Male deer have antlers."
+                },
+                {
+                  "label": "Monkey",
+                  "value": "A clever animal that lives in trees and loves to jump."
+                },
+                {
+                  "label": "Snake",
+                  "value": "A long, thin reptile with no legs."
+                },
+                {
+                  "label": "Crow",
+                  "value": "A large, black bird with a loud, harsh call."
+                },
+                {
+                  "label": "Parrot",
+                  "value": "A colorful bird that can be taught to copy human speech."
+                },
+                {
+                  "label": "Ant",
+                  "value": "A very small insect that lives in large groups."
+                },
+                {
+                  "label": "Butterfly",
+                  "value": "An insect with large, often colorful wings."
+                },
+                {
+                  "label": "Domestic",
+                  "value": "An animal that is tamed and kept by humans, like farm animals."
+                },
+                {
+                  "label": "Wild",
+                  "value": "An animal that lives in nature and is not tamed."
+                },
+                {
+                  "label": "Big",
+                  "value": "Large in size."
+                },
+                {
+                  "label": "Small",
+                  "value": "Little in size."
+                },
+                {
+                  "label": "Fast",
+                  "value": "Moving at a high speed."
+                },
+                {
+                  "label": "Slow",
+                  "value": "Moving at a low speed."
+                },
+                {
+                  "label": "Loud",
+                  "value": "Making a lot of noise."
+                },
+                {
+                  "label": "Quiet",
+                  "value": "Making very little or no noise."
+                },
+                {
+                  "label": "Tail",
+                  "value": "The part of an animal's body that sticks out from its rear end."
+                },
+                {
+                  "label": "Wings",
+                  "value": "The parts of a bird or insect's body that it uses for flying."
+                },
+                {
+                  "label": "Fur",
+                  "value": "The thick hair that covers the bodies of many animals like cats and dogs."
+                }
+              ],
+              "usage_examples": [
+                "The cow is a domestic animal.",
+                "The farmer uses a donkey to carry sacks of grain.",
+                "The tiger is a wild animal.",
+                "We saw a deer in the forest.",
+                "A parrot can talk like humans.",
+                "The butterfly has beautiful wings.",
+                "An elephant is a very big animal.",
+                "An ant is a very small insect.",
+                "A cheetah is a very fast runner.",
+                "A tortoise moves very slow.",
+                "The lion's roar is very loud.",
+                "The cat is very quiet when it hunts.",
+                "The dog is wagging its tail.",
+                "The cat has soft, white fur."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-4/p2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Clothes We Wear",
+      "subtopics": [
+        {
+          "title": "All About Clothing",
+          "sections": [
+            {
+              "text": "These are words for the clothes we wear on different parts of our body, for different seasons, and to describe them.",
+              "examples": [
+                {
+                  "label": "Shirt",
+                  "value": "A piece of clothing for the upper body, with sleeves and a collar."
+                },
+                {
+                  "label": "T-shirt",
+                  "value": "A simple, short-sleeved shirt with no collar."
+                },
+                {
+                  "label": "Kurta",
+                  "value": "A loose, collarless shirt worn by men and women in India."
+                },
+                {
+                  "label": "Pants / Trousers",
+                  "value": "A piece of clothing that covers both legs."
+                },
+                {
+                  "label": "Shorts",
+                  "value": "Short pants that end above the knees."
+                },
+                {
+                  "label": "Dhoti",
+                  "value": "A traditional lower garment worn by men in India."
+                },
+                {
+                  "label": "Skirt",
+                  "value": "A piece of clothing for women and girls that hangs down from the waist."
+                },
+                {
+                  "label": "Sari",
+                  "value": "A long piece of cloth worn by women in India."
+                },
+                {
+                  "label": "Sweater",
+                  "value": "A warm piece of clothing, usually knitted, worn in winter."
+                },
+                {
+                  "label": "Jacket",
+                  "value": "A piece of clothing with sleeves, worn over other clothes when it is cold."
+                },
+                {
+                  "label": "Raincoat",
+                  "value": "A waterproof coat worn during the rainy season to stay dry."
+                },
+                {
+                  "label": "Shoes",
+                  "value": "Footwear worn to protect our feet when we go outside."
+                },
+                {
+                  "label": "Socks",
+                  "value": "A piece of clothing worn on the feet, inside shoes."
+                },
+                {
+                  "label": "Sandals / Chappals",
+                  "value": "Open footwear with straps to hold them on the feet."
+                },
+                {
+                  "label": "Cap / Hat",
+                  "value": "A covering for the head, worn for protection from the sun or cold."
+                },
+                {
+                  "label": "Belt",
+                  "value": "A strip of leather or cloth worn around the waist to hold up pants."
+                },
+                {
+                  "label": "Scarf / Dupatta",
+                  "value": "A long piece of cloth worn around the neck, head, or shoulders."
+                },
+                {
+                  "label": "Pocket",
+                  "value": "A small bag sewn into or on clothing, used for carrying small items."
+                },
+                {
+                  "label": "Button",
+                  "value": "A small, round object on a shirt or jacket used to fasten it."
+                },
+                {
+                  "label": "Zipper",
+                  "value": "A device used to fasten clothes, consisting of two rows of teeth that are interlocked by a sliding tab."
+                },
+                {
+                  "label": "New",
+                  "value": "Something that has not been worn before."
+                },
+                {
+                  "label": "Old",
+                  "value": "Something that has been worn for a long time."
+                },
+                {
+                  "label": "Clean",
+                  "value": "Clothing that is free from dirt."
+                },
+                {
+                  "label": "Dirty",
+                  "value": "Clothing that is not clean."
+                },
+                {
+                  "label": "Loose",
+                  "value": "Clothing that is not tight-fitting."
+                },
+                {
+                  "label": "Tight",
+                  "value": "Clothing that fits the body closely."
+                },
+                {
+                  "label": "Colorful",
+                  "value": "Having many bright colors."
+                },
+                {
+                  "label": "Plain",
+                  "value": "Having only one color and no pattern."
+                },
+                {
+                  "label": "Cotton",
+                  "value": "A type of fabric that is light and good for summer."
+                },
+                {
+                  "label": "Woolen",
+                  "value": "Made of wool, from sheep, which is warm and good for winter."
+                }
+              ],
+              "usage_examples": [
+                "I wear a clean shirt to school.",
+                "My father wears pants to work.",
+                "My mother wears a beautiful sari during festivals.",
+                "In winter, I wear a warm sweater.",
+                "Put on your raincoat, it's raining outside.",
+                "Always wear shoes when you go out.",
+                "My socks have a hole in them.",
+                "I wear a cap to protect my head from the sun.",
+                "I keep my money in my pocket.",
+                "One button of my shirt is missing.",
+                "I have a new dress for my birthday.",
+                "Your clothes are dirty, please change them.",
+                "I like to wear loose clothes in summer.",
+                "The child wore a colorful frock.",
+                "A woolen sweater keeps us warm."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-4/p3"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Related Actions (Verbs)",
+      "subtopics": [
+        {
+          "title": "Actions with Food, Animals, and Clothes",
+          "sections": [
+            {
+              "text": "These are common actions (verbs) related to our food, the animals around us, and the clothes we wear.",
+              "examples": [
+                {
+                  "label": "Eat",
+                  "value": "To put food into your mouth and swallow it."
+                },
+                {
+                  "label": "Drink",
+                  "value": "To take liquid into your mouth and swallow it."
+                },
+                {
+                  "label": "Cook",
+                  "value": "To prepare food by using heat."
+                },
+                {
+                  "label": "Cut",
+                  "value": "To divide something into pieces using a knife."
+                },
+                {
+                  "label": "Grow",
+                  "value": "To cultivate plants or crops."
+                },
+                {
+                  "label": "Taste",
+                  "value": "To notice the flavor of food or drink."
+                },
+                {
+                  "label": "Smell",
+                  "value": "To notice the aroma of something with your nose."
+                },
+                {
+                  "label": "Run",
+                  "value": "The action of animals like dogs and horses moving fast."
+                },
+                {
+                  "label": "Fly",
+                  "value": "The action of birds and insects moving through the air."
+                },
+                {
+                  "label": "Swim",
+                  "value": "The action of fish moving in water."
+                },
+                {
+                  "label": "Crawl",
+                  "value": "The action of insects or snakes moving along the ground."
+                },
+                {
+                  "label": "Jump",
+                  "value": "The action of monkeys or goats pushing off the ground."
+                },
+                {
+                  "label": "Bark",
+                  "value": "The sound a dog makes."
+                },
+                {
+                  "label": "Roar",
+                  "value": "The loud, deep sound a lion or tiger makes."
+                },
+                {
+                  "label": "Graze",
+                  "value": "The action of cows or goats eating grass."
+                },
+                {
+                  "label": "Hunt",
+                  "value": "The action of wild animals chasing and catching other animals for food."
+                },
+                {
+                  "label": "Wear",
+                  "value": "To have clothes on your body."
+                },
+                {
+                  "label": "Wash",
+                  "value": "To clean clothes with water and soap."
+                },
+                {
+                  "label": "Dry",
+                  "value": "To make wet clothes free from water."
+                },
+                {
+                  "label": "Fold",
+                  "value": "To bend a piece of clothing so that one part covers another."
+                },
+                {
+                  "label": "Mend / Sew",
+                  "value": "To repair a hole or tear in clothes, usually with a needle and thread."
+                },
+                {
+                  "label": "Button",
+                  "value": "To fasten a shirt or jacket using buttons."
+                },
+                {
+                  "label": "Zip",
+                  "value": "To fasten a piece of clothing using a zipper."
+                },
+                {
+                  "label": "Polish",
+                  "value": "To make shoes shiny by rubbing them with polish."
+                }
+              ],
+              "usage_examples": [
+                "We should eat healthy food.",
+                "My mother cooks delicious meals for us.",
+                "Farmers grow rice and wheat in the fields.",
+                "The dog started to bark at the stranger.",
+                "Birds fly high in the sky.",
+                "The cows are grazing in the field.",
+                "The tiger hunts for its food at night.",
+                "I wear clean clothes to school.",
+                "My mother will wash the dirty clothes on Sunday.",
+                "Please fold your clothes neatly.",
+                "My grandmother can mend my torn shirt.",
+                "Don't forget to polish your school shoes."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-4/p4"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

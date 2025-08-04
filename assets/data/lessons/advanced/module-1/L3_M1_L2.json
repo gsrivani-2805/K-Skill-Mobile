@@ -1,0 +1,379 @@
+{
+  "level": "Advanced",
+  "module": "Grammar Mastery",
+  "lesson_number": 2,
+  "lesson_title": "Active and Passive Voice",
+  "objectives": [
+    "Understand the difference between active and passive voice",
+    "Identify the subject, verb, and object in a sentence",
+    "Learn how to change sentences from active to passive voice",
+    "Know when to use the passive voice effectively"
+  ],
+  "topics": [
+    {
+      "title": "Understanding Active and Passive Voice",
+      "subtopics": [
+        {
+          "title": "What is Active Voice?",
+          "sections": [
+            {
+              "text": "In the active voice, the subject of the sentence performs the action. The structure is clear and direct: Subject + Verb + Object. Most sentences we use in our daily life are in the active voice because it is simple and strong.",
+              "examples": [
+                {
+                  "label": "Example 1",
+                  "value": "The farmer plows the field."
+                },
+                {
+                  "label": "Example 2",
+                  "value": "Sita sings a song."
+                },
+                {
+                  "label": "Example 3",
+                  "value": "The cow eats grass."
+                },
+                {
+                  "label": "Example 4",
+                  "value": "I wrote a letter."
+                },
+                {
+                  "label": "Example 5",
+                  "value": "They are playing cricket."
+                },
+                {
+                  "label": "Example 6",
+                  "value": "The teacher teaches the students."
+                },
+                {
+                  "label": "Example 7",
+                  "value": "My mother cooks food."
+                },
+                {
+                  "label": "Example 8",
+                  "value": "The boy broke the window."
+                },
+                {
+                  "label": "Example 9",
+                  "value": "We will celebrate the festival."
+                },
+                {
+                  "label": "Example 10",
+                  "value": "The carpenter makes furniture."
+                },
+                {
+                  "label": "Example 11",
+                  "value": "The children fly kites."
+                },
+                {
+                  "label": "Example 12",
+                  "value": "The government has built a new road."
+                },
+                {
+                  "label": "Example 13",
+                  "value": "The postman delivers letters."
+                },
+                {
+                  "label": "Example 14",
+                  "value": "A dog chased the cat."
+                },
+                {
+                  "label": "Example 15",
+                  "value": "The mechanic is repairing the tractor."
+                },
+                {
+                  "label": "Example 16",
+                  "value": "She will buy a new saree."
+                },
+                {
+                  "label": "Example 17",
+                  "value": "He can lift this heavy box."
+                },
+                {
+                  "label": "Example 18",
+                  "value": "The students completed the project."
+                },
+                {
+                  "label": "Example 19",
+                  "value": "Birds build nests."
+                },
+                {
+                  "label": "Example 20",
+                  "value": "The driver stopped the bus."
+                },
+                {
+                  "label": "Example 21",
+                  "value": "I am reading a book."
+                },
+                {
+                  "label": "Example 22",
+                  "value": "The woman is washing the clothes."
+                },
+                {
+                  "label": "Example 23",
+                  "value": "My father reads the newspaper every day."
+                },
+                {
+                  "label": "Example 24",
+                  "value": "The villagers are digging a new well."
+                },
+                {
+                  "label": "Example 25",
+                  "value": "The cat drank all the milk."
+                },
+                {
+                  "label": "Example 26",
+                  "value": "He has solved the problem."
+                },
+                {
+                  "label": "Example 27",
+                  "value": "The doctor gave the medicine."
+                },
+                {
+                  "label": "Example 28",
+                  "value": "We should respect our elders."
+                },
+                {
+                  "label": "Example 29",
+                  "value": "The fisherman caught a big fish."
+                },
+                {
+                  "label": "Example 30",
+                  "value": "She helps her mother in the kitchen."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "What is Passive Voice?",
+          "sections": [
+            {
+              "text": "In the passive voice, the subject of the sentence receives the action. The focus is on the action itself, not on who performed it. The structure is: Object + Helping Verb (be) + Past Participle (V3) of the main verb + by + Subject.",
+              "examples": [
+                {
+                  "label": "Example 1",
+                  "value": "The field is plowed by the farmer."
+                },
+                {
+                  "label": "Example 2",
+                  "value": "A song is sung by Sita."
+                },
+                {
+                  "label": "Example 3",
+                  "value": "Grass is eaten by the cow."
+                },
+                {
+                  "label": "Example 4",
+                  "value": "A letter was written by me."
+                },
+                {
+                  "label": "Example 5",
+                  "value": "Cricket is being played by them."
+                },
+                {
+                  "label": "Example 6",
+                  "value": "The students are taught by the teacher."
+                },
+                {
+                  "label": "Example 7",
+                  "value": "Food is cooked by my mother."
+                },
+                {
+                  "label": "Example 8",
+                  "value": "The window was broken by the boy."
+                },
+                {
+                  "label": "Example 9",
+                  "value": "The festival will be celebrated by us."
+                },
+                {
+                  "label": "Example 10",
+                  "value": "Furniture is made by the carpenter."
+                },
+                {
+                  "label": "Example 11",
+                  "value": "Kites are flown by the children."
+                },
+                {
+                  "label": "Example 12",
+                  "value": "A new road has been built by the government."
+                },
+                {
+                  "label": "Example 13",
+                  "value": "Letters are delivered by the postman."
+                },
+                {
+                  "label": "Example 14",
+                  "value": "The cat was chased by a dog."
+                },
+                {
+                  "label": "Example 15",
+                  "value": "The tractor is being repaired by the mechanic."
+                },
+                {
+                  "label": "Example 16",
+                  "value": "A new saree will be bought by her."
+                },
+                {
+                  "label": "Example 17",
+                  "value": "This heavy box can be lifted by him."
+                },
+                {
+                  "label": "Example 18",
+                  "value": "The project was completed by the students."
+                },
+                {
+                  "label": "Example 19",
+                  "value": "Nests are built by birds."
+                },
+                {
+                  "label": "Example 20",
+                  "value": "The bus was stopped by the driver."
+                },
+                {
+                  "label": "Example 21",
+                  "value": "A book is being read by me."
+                },
+                {
+                  "label": "Example 22",
+                  "value": "The clothes are being washed by the woman."
+                },
+                {
+                  "label": "Example 23",
+                  "value": "The newspaper is read by my father every day."
+                },
+                {
+                  "label": "Example 24",
+                  "value": "A new well is being dug by the villagers."
+                },
+                {
+                  "label": "Example 25",
+                  "value": "All the milk was drunk by the cat."
+                },
+                {
+                  "label": "Example 26",
+                  "value": "The problem has been solved by him."
+                },
+                {
+                  "label": "Example 27",
+                  "value": "The medicine was given by the doctor."
+                },
+                {
+                  "label": "Example 28",
+                  "value": "Our elders should be respected by us."
+                },
+                {
+                  "label": "Example 29",
+                  "value": "A big fish was caught by the fisherman."
+                },
+                {
+                  "label": "Example 30",
+                  "value": "Her mother is helped by her in the kitchen."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "How and When to Use Passive Voice",
+      "subtopics": [
+        {
+          "title": "Changing Active to Passive Voice",
+          "sections": [
+            {
+              "text": "To change a sentence from active to passive voice, follow these simple steps:\n1.  Identify the subject, the verb, and the object.\n2.  Move the object of the active sentence to the place of the subject.\n3.  Add the correct form of the auxiliary verb 'to be' (is, am, are, was, were, being, been) according to the tense and the new subject.\n4.  Change the main verb to its past participle form (V3).\n5.  Add the preposition 'by' and then move the subject of the active sentence to the end.",
+              "examples": [
+                {
+                  "label": "Active (Simple Present)",
+                  "value": "He writes a letter. (Subject: He, Verb: writes, Object: a letter)"
+                },
+                {
+                  "label": "Passive (Simple Present)",
+                  "value": "A letter is written by him."
+                },
+                {
+                  "label": "Active (Simple Past)",
+                  "value": "She helped them. (Subject: She, Verb: helped, Object: them)"
+                },
+                {
+                  "label": "Passive (Simple Past)",
+                  "value": "They were helped by her."
+                },
+                {
+                  "label": "Active (Present Continuous)",
+                  "value": "We are watching a movie. (Subject: We, Verb: are watching, Object: a movie)"
+                },
+                {
+                  "label": "Passive (Present Continuous)",
+                  "value": "A movie is being watched by us."
+                },
+                {
+                  "label": "Active (Present Perfect)",
+                  "value": "They have cleaned the room. (Subject: They, Verb: have cleaned, Object: the room)"
+                },
+                {
+                  "label": "Passive (Present Perfect)",
+                  "value": "The room has been cleaned by them."
+                },
+                {
+                  "label": "Active (Future Simple)",
+                  "value": "The teacher will teach a new lesson. (Subject: The teacher, Verb: will teach, Object: a new lesson)"
+                },
+                {
+                  "label": "Passive (Future Simple)",
+                  "value": "A new lesson will be taught by the teacher."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-2/p"
+              },
+              "table": {
+                "title": "Tense Conversion for Passive Voice",
+                "headers": ["Tense", "Passive Voice Structure"],
+                "rows": [
+                  ["Simple Present", "is/am/are + V3"],
+                  ["Simple Past", "was/were + V3"],
+                  ["Simple Future", "will be + V3"],
+                  ["Present Continuous", "is/am/are + being + V3"],
+                  ["Past Continuous", "was/were + being + V3"],
+                  ["Present Perfect", "has/have + been + V3"],
+                  ["Past Perfect", "had + been + V3"],
+                  ["Future Perfect", "will have been + V3"],
+                  ["Modals (can, must, should)", "modal + be + V3"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Usage Tips",
+          "sections": [
+            {
+              "text": "Here are some tips on when and how to use active and passive voice:",
+              "usage_examples": [
+                "Tip 1: Use the active voice most of the time. It makes your writing clear, direct, and strong. For example, \"The dog chased the squirrel\" is stronger than \"The squirrel was chased by the dog.\"",
+                "Tip 2: Use the passive voice when the action is more important than the person who does the action. For example, \"The road was repaired last week.\" (Here, the repair is more important than who repaired it).",
+                "Tip 3: Use the passive voice when the doer of the action (the agent) is unknown or unimportant. For example, \"My bicycle was stolen.\" (We don't know who stole it).",
+                "Tip 4: The passive voice is often used in scientific reports, news reports, and formal notices to sound objective and impersonal. For example, \"The water was heated to 100 degrees Celsius.\"",
+                "Tip 5: Remember the main structure for passive voice: Object + 'be' verb + Past Participle (V3) + 'by' + Subject.",
+                "Tip 6: Always remember to change the main verb to its third form (Past Participle) in the passive voice. For example, write -> written, eat -> eaten, break -> broken.",
+                "Tip 7: The 'by' phrase (which tells who did the action) can be left out if the doer is obvious, unknown, or unimportant. For example, \"English is spoken all over the world\" (instead of \"...by people\")."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

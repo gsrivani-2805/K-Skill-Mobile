@@ -1,0 +1,4026 @@
+{
+  "title": "Philosophy & Ethics",
+  "icon": "🤔",
+  "words": [
+    {
+      "word": "Philosophy",
+      "pronunciation": "/fɪˈlɒsəfi/",
+      "definition": "The study of basic ideas about knowledge, truth, right and wrong, and the nature of the universe.",
+      "sentences": [
+        "She enjoys reading books on ancient philosophy.",
+        "His philosophy of life is to always be kind.",
+        "Philosophy helps us think deeply about big questions."
+      ]
+    },
+    {
+      "word": "Ethics",
+      "pronunciation": "/ˈɛθɪks/",
+      "definition": "Moral principles that govern a person's behavior or the conducting of an activity.",
+      "sentences": [
+        "The company has strong ethics about fair trade.",
+        "We discussed the ethics of using artificial intelligence.",
+        "Ethics guide us in making good choices."
+      ]
+    },
+    {
+      "word": "Morality",
+      "pronunciation": "/məˈræləti/",
+      "definition": "Principles concerning the distinction between right and wrong or good and bad behavior.",
+      "sentences": [
+        "His actions showed a strong sense of morality.",
+        "The story teaches a lesson about morality.",
+        "Morality helps shape our character."
+      ]
+    },
+    {
+      "word": "Virtue",
+      "pronunciation": "/ˈvɜːrtʃuː/",
+      "definition": "Behavior showing high moral standards.",
+      "sentences": [
+        "Honesty is a great virtue.",
+        "She lives a life of virtue.",
+        "Patience is a virtue that helps in many situations."
+      ]
+    },
+    {
+      "word": "Vice",
+      "pronunciation": "/vaɪs/",
+      "definition": "Immoral or wicked behavior.",
+      "sentences": [
+        "Greed is a common vice.",
+        "He tried to overcome his vices.",
+        "The play explored human vices and virtues."
+      ]
+    },
+    {
+      "word": "Good",
+      "pronunciation": "/ɡʊd/",
+      "definition": "Morally right; righteous.",
+      "sentences": [
+        "Helping others is a good thing to do.",
+        "She always tries to do good.",
+        "We should strive for the common good."
+      ]
+    },
+    {
+      "word": "Evil",
+      "pronunciation": "/ˈiːvl/",
+      "definition": "Profoundly immoral and wicked.",
+      "sentences": [
+        "The villain in the story was truly evil.",
+        "Many stories explore the fight between good and evil.",
+        "His actions were considered evil by the community."
+      ]
+    },
+    {
+      "word": "Justice",
+      "pronunciation": "/ˈdʒʌstɪs/",
+      "definition": "Fairness in the way people are treated.",
+      "sentences": [
+        "Everyone deserves justice.",
+        "The court seeks to ensure justice for all.",
+        "They fought for social justice."
+      ]
+    },
+    {
+      "word": "Truth",
+      "pronunciation": "/truːθ/",
+      "definition": "The quality or state of being true.",
+      "sentences": [
+        "Always tell the truth.",
+        "The scientist sought to discover the truth.",
+        "Truth is important for trust."
+      ]
+    },
+    {
+      "word": "Knowledge",
+      "pronunciation": "/ˈnɒlɪdʒ/",
+      "definition": "Facts, information, and skills acquired by a person through experience or education.",
+      "sentences": [
+        "Reading books helps you gain knowledge.",
+        "She has a lot of knowledge about history.",
+        "Knowledge is power."
+      ]
+    },
+    {
+      "word": "Wisdom",
+      "pronunciation": "/ˈwɪzdəm/",
+      "definition": "The quality of having experience, knowledge, and good judgment.",
+      "sentences": [
+        "An elder often shares their wisdom.",
+        "His decisions were based on wisdom.",
+        "Wisdom comes with age and experience."
+      ]
+    },
+    {
+      "word": "Reason",
+      "pronunciation": "/ˈriːzn/",
+      "definition": "The power of the mind to think, understand, and form judgments logically.",
+      "sentences": [
+        "Use your reason to solve the problem.",
+        "He acted without reason.",
+        "Reason helps us make logical choices."
+      ]
+    },
+    {
+      "word": "Logic",
+      "pronunciation": "/ˈlɒdʒɪk/",
+      "definition": "A system or set of principles underlying the arrangements of elements in a computer or electronic device so as to perform a specified task.",
+      "sentences": [
+        "His argument followed a clear logic.",
+        "There's no logic in that statement.",
+        "We used logic to solve the puzzle."
+      ]
+    },
+    {
+      "word": "Reality",
+      "pronunciation": "/riˈæləti/",
+      "definition": "The state of things as they actually exist, as opposed to an idealistic or notional idea of them.",
+      "sentences": [
+        "Sometimes dreams are better than reality.",
+        "We must face the reality of the situation.",
+        "Virtual reality is a new technology."
+      ]
+    },
+    {
+      "word": "Existence",
+      "pronunciation": "/ɪɡˈzɪstəns/",
+      "definition": "The fact or state of living or having objective reality.",
+      "sentences": [
+        "The meaning of human existence is a big question.",
+        "She questioned the existence of ghosts.",
+        "Life is a journey of existence."
+      ]
+    },
+    {
+      "word": "Consciousness",
+      "pronunciation": "/ˈkɒnʃəsnəs/",
+      "definition": "The state of being aware of one's own existence and surroundings.",
+      "sentences": [
+        "He slowly regained consciousness after the accident.",
+        "The nature of consciousness is a deep philosophical topic.",
+        "Animals have a form of consciousness."
+      ]
+    },
+    {
+      "word": "Mind",
+      "pronunciation": "/maɪnd/",
+      "definition": "The element of a person that enables them to be aware of the world and their experiences, to think, and to feel; the faculty of consciousness and thought.",
+      "sentences": [
+        "A healthy mind is important for a healthy life.",
+        "He has a brilliant mind.",
+        "The mind can be very powerful."
+      ]
+    },
+    {
+      "word": "Soul",
+      "pronunciation": "/soʊl/",
+      "definition": "The spiritual or immaterial part of a human being, regarded as immortal.",
+      "sentences": [
+        "Many religions believe in a soul.",
+        "She poured her heart and soul into the project.",
+        "Music can touch your soul."
+      ]
+    },
+    {
+      "word": "Spirit",
+      "pronunciation": "/ˈspɪrɪt/",
+      "definition": "The nonphysical part of a person, often associated with emotions, character, or soul.",
+      "sentences": [
+        "Her spirit remained strong despite challenges.",
+        "The team showed great team spirit.",
+        "He has a kind and generous spirit."
+      ]
+    },
+    {
+      "word": "Free Will",
+      "pronunciation": "/friː wɪl/",
+      "definition": "The power of acting without the constraint of necessity or fate; the ability to make choices.",
+      "sentences": [
+        "Do we truly have free will or are our choices predetermined?",
+        "The concept of free will is debated in philosophy.",
+        "He believes in the importance of individual free will."
+      ]
+    },
+    {
+      "word": "Determinism",
+      "pronunciation": "/dɪˈtɜːrmɪnɪzəm/",
+      "definition": "The belief that all events, including human action, are ultimately determined by causes external to the will.",
+      "sentences": [
+        "Determinism suggests that our choices are not truly free.",
+        "Some philosophers argue for determinism.",
+        "The idea of determinism conflicts with free will."
+      ]
+    },
+    {
+      "word": "Fate",
+      "pronunciation": "/feɪt/",
+      "definition": "The development of events beyond a person's control, regarded as determined by a supernatural power.",
+      "sentences": [
+        "It was fate that they met.",
+        "She believes in destiny and fate.",
+        "He accepted his fate with courage."
+      ]
+    },
+    {
+      "word": "Destiny",
+      "pronunciation": "/ˈdɛstɪni/",
+      "definition": "The events that will necessarily happen to a particular person or thing in the future.",
+      "sentences": [
+        "He believes it is his destiny to become a leader.",
+        "Their meeting seemed like destiny.",
+        "She felt she was fulfilling her destiny."
+      ]
+    },
+    {
+      "word": "Purpose",
+      "pronunciation": "/ˈpɜːrpəs/",
+      "definition": "The reason for which something is done or created or for which something exists.",
+      "sentences": [
+        "What is the purpose of life?",
+        "His purpose in life is to help others.",
+        "The purpose of the meeting was to make a decision."
+      ]
+    },
+    {
+      "word": "Meaning",
+      "pronunciation": "/ˈmiːnɪŋ/",
+      "definition": "What is meant by a word, text, concept, or action.",
+      "sentences": [
+        "The meaning of the poem was deep.",
+        "He searched for meaning in his work.",
+        "Do you understand the meaning of that word?"
+      ]
+    },
+    {
+      "word": "Happiness",
+      "pronunciation": "/ˈhæpɪnəs/",
+      "definition": "The state of being happy.",
+      "sentences": [
+        "True happiness comes from within.",
+        "She wished them all happiness.",
+        "Finding happiness is a goal for many."
+      ]
+    },
+    {
+      "word": "Suffering",
+      "pronunciation": "/ˈsʌfərɪŋ/",
+      "definition": "The state of undergoing pain, distress, or hardship.",
+      "sentences": [
+        "The war caused immense suffering.",
+        "She tried to relieve their suffering.",
+        "Suffering is a part of the human experience."
+      ]
+    },
+    {
+      "word": "Pleasure",
+      "pronunciation": "/ˈplɛʒər/",
+      "definition": "A feeling of happy satisfaction and enjoyment.",
+      "sentences": [
+        "It was a great pleasure to meet you.",
+        "He finds pleasure in simple things.",
+        "The concert brought much pleasure to the audience."
+      ]
+    },
+    {
+      "word": "Pain",
+      "pronunciation": "/peɪn/",
+      "definition": "Highly unpleasant physical sensation caused by illness or injury.",
+      "sentences": [
+        "He felt a sharp pain in his leg.",
+        "Emotional pain can be very difficult.",
+        "The medicine helped relieve the pain."
+      ]
+    },
+    {
+      "word": "Goodness",
+      "pronunciation": "/ˈɡʊdnəs/",
+      "definition": "The quality of being morally good or virtuous.",
+      "sentences": [
+        "Her actions were filled with goodness.",
+        "He saw the goodness in everyone.",
+        "The story emphasized the importance of goodness."
+      ]
+    },
+    {
+      "word": "Badness",
+      "pronunciation": "/ˈbædnəs/",
+      "definition": "The quality of being bad or wicked.",
+      "sentences": [
+        "The badness of his character was clear.",
+        "The story explored the badness of human nature.",
+        "He tried to overcome his inherent badness."
+      ]
+    },
+    {
+      "word": "Right",
+      "pronunciation": "/raɪt/",
+      "definition": "Morally good, justified, or acceptable.",
+      "sentences": [
+        "It's important to do the right thing.",
+        "She always knows the right answer.",
+        "He fought for what he believed was right."
+      ]
+    },
+    {
+      "word": "Wrong",
+      "pronunciation": "/rɒŋ/",
+      "definition": "Not correct or true; incorrect.",
+      "sentences": [
+        "Stealing is wrong.",
+        "He knew he made the wrong choice.",
+        "It's wrong to hurt others."
+      ]
+    },
+    {
+      "word": "Duty",
+      "pronunciation": "/ˈdjuːti/",
+      "definition": "A moral or legal obligation; a responsibility.",
+      "sentences": [
+        "It is our duty to protect the environment.",
+        "He performed his duty faithfully.",
+        "Serving the community is a civic duty."
+      ]
+    },
+    {
+      "word": "Obligation",
+      "pronunciation": "/ˌɒblɪˈɡeɪʃən/",
+      "definition": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+      "sentences": [
+        "He felt an obligation to help his family.",
+        "We have a moral obligation to care for the elderly.",
+        "Signing the contract created a legal obligation."
+      ]
+    },
+    {
+      "word": "Responsibility",
+      "pronunciation": "/rɪˌspɒnsəˈbɪləti/",
+      "definition": "The state or fact of having a duty to deal with something or of having control over someone.",
+      "sentences": [
+        "Taking responsibility for your actions is important.",
+        "Parents have a great responsibility.",
+        "He accepted the responsibility of leading the team."
+      ]
+    },
+    {
+      "word": "Consequence",
+      "pronunciation": "/ˈkɒnsɪkwəns/",
+      "definition": "A result or effect of an action or condition.",
+      "sentences": [
+        "Every action has a consequence.",
+        "The consequences of his decision were severe.",
+        "Think about the consequences before you act."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "pronunciation": "/ˈfriːdəm/",
+      "definition": "The state of being free; not controlled by others.",
+      "sentences": [
+        "People fought for their freedom.",
+        "Freedom of speech is important in a democracy.",
+        "He enjoyed the freedom of traveling alone."
+      ]
+    },
+    {
+      "word": "Liberty",
+      "pronunciation": "/ˈlɪbərti/",
+      "definition": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+      "sentences": [
+        "The statue symbolizes liberty.",
+        "They cherished their liberty.",
+        "Liberty is a core value in many nations."
+      ]
+    },
+    {
+      "word": "Rights",
+      "pronunciation": "/raɪts/",
+      "definition": "Things that people are allowed to have or do, protected by law.",
+      "sentences": [
+        "All citizens have basic human rights.",
+        "The right to vote is an important right.",
+        "They protested for equal rights."
+      ]
+    },
+    {
+      "word": "Equality",
+      "pronunciation": "/ɪˈkwɒləti/",
+      "definition": "The state of being equal, especially in rights, status, or opportunities.",
+      "sentences": [
+        "They believe in equality for all people.",
+        "The movement fought for gender equality.",
+        "Equality means everyone is treated the same."
+      ]
+    },
+    {
+      "word": "Inequality",
+      "pronunciation": "/ˌɪnɪˈkwɒləti/",
+      "definition": "Lack of equality; disparity.",
+      "sentences": [
+        "Economic inequality is a global issue.",
+        "They are working to reduce inequality.",
+        "Inequality can lead to social problems."
+      ]
+    },
+    {
+      "word": "Fairness",
+      "pronunciation": "/ˈfɛərnəs/",
+      "definition": "Impartial and just treatment or behavior without favoritism or discrimination.",
+      "sentences": [
+        "Fairness is important in sports.",
+        "The judge ensured fairness in the trial.",
+        "She always acts with fairness."
+      ]
+    },
+    {
+      "word": "Bias",
+      "pronunciation": "/ˈbaɪəs/",
+      "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "sentences": [
+        "The news report showed clear bias.",
+        "Try to avoid bias in your judgment.",
+        "Everyone has some level of bias."
+      ]
+    },
+    {
+      "word": "Prejudice",
+      "pronunciation": "/ˈprɛdʒʊdɪs/",
+      "definition": "Preconceived opinion that is not based on reason or actual experience.",
+      "sentences": [
+        "Prejudice can lead to unfair treatment.",
+        "It's important to overcome prejudice.",
+        "Education can help reduce prejudice."
+      ]
+    },
+    {
+      "word": "Discrimination",
+      "pronunciation": "/dɪˌskrɪmɪˈneɪʃən/",
+      "definition": "The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "sentences": [
+        "Discrimination based on race is illegal.",
+        "They faced discrimination in the workplace.",
+        "Laws aim to prevent discrimination."
+      ]
+    },
+    {
+      "word": "Empathy",
+      "pronunciation": "/ˈɛmpəθi/",
+      "definition": "The ability to understand and share the feelings of another.",
+      "sentences": [
+        "Showing empathy is a sign of kindness.",
+        "Empathy helps us connect with others.",
+        "She felt great empathy for the victims."
+      ]
+    },
+    {
+      "word": "Sympathy",
+      "pronunciation": "/ˈsɪmpəθi/",
+      "definition": "Feelings of pity and sorrow for someone else's misfortune.",
+      "sentences": [
+        "He expressed his sympathy for her loss.",
+        "She felt great sympathy for the suffering animals.",
+        "Sympathy is a natural human emotion."
+      ]
+    },
+    {
+      "word": "Compassion",
+      "pronunciation": "/kəmˈpæʃən/",
+      "definition": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+      "sentences": [
+        "Her compassion for the poor was evident.",
+        "Compassion drives many humanitarian efforts.",
+        "He acted with great compassion."
+      ]
+    },
+    {
+      "word": "Altruism",
+      "pronunciation": "/ˈæltruɪzəm/",
+      "definition": "The belief in or practice of selfless concern for the well-being of others.",
+      "sentences": [
+        "His act of altruism saved many lives.",
+        "Altruism is a key concept in ethics.",
+        "Many charities are based on altruism."
+      ]
+    },
+    {
+      "word": "Egoism",
+      "pronunciation": "/ˈiːɡoʊɪzəm/",
+      "definition": "An ethical theory that treats self-interest as the foundation of morality.",
+      "sentences": [
+        "Some philosophers argue against egoism.",
+        "His decisions were driven by pure egoism.",
+        "Egoism focuses on personal gain."
+      ]
+    },
+    {
+      "word": "Hedonism",
+      "pronunciation": "/ˈhiːdənɪzəm/",
+      "definition": "The pursuit of pleasure; the ethical theory that pleasure (in the sense of the satisfaction of desires) is the highest good and proper aim of human life.",
+      "sentences": [
+        "Hedonism suggests that pleasure is the ultimate goal.",
+        "He lived a life of hedonism.",
+        "Some ancient Greek philosophers discussed hedonism."
+      ]
+    },
+    {
+      "word": "Stoicism",
+      "pronunciation": "/ˈstoʊɪsɪzəm/",
+      "definition": "The endurance of pain or hardship without the display of feelings and without complaint.",
+      "sentences": [
+        "His stoicism helped him through difficult times.",
+        "Stoicism teaches emotional resilience.",
+        "The ancient Stoics valued self-control."
+      ]
+    },
+    {
+      "word": "Rationalism",
+      "pronunciation": "/ˈræʃənəlɪzəm/",
+      "definition": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+      "sentences": [
+        "Rationalism emphasizes the power of human reason.",
+        "Descartes was a famous rationalist.",
+        "Rationalism seeks truth through logic."
+      ]
+    },
+    {
+      "word": "Empiricism",
+      "pronunciation": "/ɪmˈpɪrɪsɪzəm/",
+      "definition": "The theory that all knowledge is derived from sense-experience.",
+      "sentences": [
+        "Empiricism suggests that experience is the source of knowledge.",
+        "John Locke was a key figure in empiricism.",
+        "Scientific method is based on empiricism."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Idealism",
+      "pronunciation": "/aɪˈdiːəlɪzəm/",
+      "definition": "The practice of forming or pursuing ideals, especially unrealistically.",
+      "sentences": [
+        "His youthful idealism inspired many.",
+        "Idealism often clashes with reality.",
+        "She approached life with great idealism."
+      ]
+    },
+    {
+      "word": "Realism",
+      "pronunciation": "/ˈriːəlɪzəm/",
+      "definition": "The attitude or practice of accepting a situation as it is and being prepared to deal with it accordingly.",
+      "sentences": [
+        "We need to approach the problem with realism.",
+        "His realism helped him make practical decisions.",
+        "The artist painted with great realism."
+      ]
+    },
+    {
+      "word": "Existentialism",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəlɪzəm/",
+      "definition": "A philosophical theory or approach which emphasizes the existence of the individual person as a free and responsible agent determining their own development through acts of the will.",
+      "sentences": [
+        "Existentialism explores the meaning of individual existence.",
+        "Sartre was a prominent existentialist philosopher.",
+        "The novel delves into themes of existentialism."
+      ]
+    },
+    {
+      "word": "Absurdism",
+      "pronunciation": "/ˈæbsɜːrdɪzəm/",
+      "definition": "The belief that human beings exist in a purposeless, chaotic universe.",
+      "sentences": [
+        "Absurdism suggests that life has no inherent meaning.",
+        "Camus wrote about the philosophy of absurdism.",
+        "The play explored themes of absurdism."
+      ]
+    },
+    {
+      "word": "Nihilism",
+      "pronunciation": "/ˈnaɪhɪlɪzəm/",
+      "definition": "The rejection of all religious and moral principles, often in the belief that life is meaningless.",
+      "sentences": [
+        "Nihilism can lead to a sense of despair.",
+        "Some characters in the book expressed nihilism.",
+        "He struggled with feelings of nihilism."
+      ]
+    },
+    {
+      "word": "Utilitarianism",
+      "pronunciation": "/juːˌtɪlɪˈtɛəriənɪzəm/",
+      "definition": "The belief that the best moral action is the one that maximizes utility, often defined as maximizing overall well-being or happiness.",
+      "sentences": [
+        "Utilitarianism focuses on the greatest good for the greatest number.",
+        "The decision was made based on utilitarianism.",
+        "Bentham and Mill were proponents of utilitarianism."
+      ]
+    },
+    {
+      "word": "Deontology",
+      "pronunciation": "/ˌdiːɒnˈtɒlədʒi/",
+      "definition": "The study of the nature of duty and obligation; an ethical theory that emphasizes duties or rules.",
+      "sentences": [
+        "Deontology suggests that some actions are inherently right or wrong.",
+        "Kant's ethics are a classic example of deontology.",
+        "He followed a strict deontology in his professional life."
+      ]
+    },
+    {
+      "word": "Virtue Ethics",
+      "pronunciation": "/ˈvɜːrtʃuː ˈɛθɪks/",
+      "definition": "An ethical theory that emphasizes the role of character and virtue in moral philosophy rather than either doing one's duty or acting in order to bring about good consequences.",
+      "sentences": [
+        "Virtue ethics asks what kind of person you should be.",
+        "Aristotle's ethics are a form of virtue ethics.",
+        "Virtue ethics focuses on developing good habits."
+      ]
+    },
+    {
+      "word": "Relativism",
+      "pronunciation": "/ˈrɛlətɪvɪzəm/",
+      "definition": "The doctrine that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.",
+      "sentences": [
+        "Moral relativism suggests that right and wrong depend on context.",
+        "He argued against cultural relativism.",
+        "Relativism can lead to diverse viewpoints."
+      ]
+    },
+    {
+      "word": "Absolutism",
+      "pronunciation": "/ˈæbsəluːtɪzəm/",
+      "definition": "The acceptance of or belief in absolute principles in political, philosophical, ethical, or theological matters.",
+      "sentences": [
+        "Moral absolutism states that some actions are always wrong.",
+        "He believes in ethical absolutism.",
+        "Absolutism contrasts with relativism."
+      ]
+    },
+    {
+      "word": "Epistemology",
+      "pronunciation": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "The theory of knowledge, especially with regard to its methods, validity, and scope.",
+      "sentences": [
+        "Epistemology explores how we know what we know.",
+        "She studied epistemology in her philosophy class.",
+        "The question of certainty is central to epistemology."
+      ]
+    },
+    {
+      "word": "Metaphysics",
+      "pronunciation": "/ˌmɛtəˈfɪzɪks/",
+      "definition": "The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.",
+      "sentences": [
+        "Metaphysics asks fundamental questions about reality.",
+        "He was interested in the metaphysics of existence.",
+        "Metaphysics is a deep and complex field."
+      ]
+    },
+    {
+      "word": "Aesthetics",
+      "pronunciation": "/ɛsˈθɛtɪks/",
+      "definition": "A set of principles concerned with the nature and appreciation of beauty, especially in art.",
+      "sentences": [
+        "The artist focused on the aesthetics of the design.",
+        "They discussed the aesthetics of the building.",
+        "Aesthetics helps us understand beauty."
+      ]
+    },
+    {
+      "word": "Logic",
+      "pronunciation": "/ˈlɒdʒɪk/",
+      "definition": "The study of reasoning, especially the validity of arguments.",
+      "sentences": [
+        "His argument followed a clear logic.",
+        "There's no logic in that statement.",
+        "We used logic to solve the puzzle."
+      ]
+    },
+    {
+      "word": "Argument",
+      "pronunciation": "/ˈɑːrɡjʊmənt/",
+      "definition": "A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.",
+      "sentences": [
+        "She presented a strong argument for her case.",
+        "His argument was based on facts.",
+        "They had a heated argument about politics."
+      ]
+    },
+    {
+      "word": "Premise",
+      "pronunciation": "/ˈprɛmɪs/",
+      "definition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+      "sentences": [
+        "His argument was based on a false premise.",
+        "The premise of the movie was interesting.",
+        "The first premise of the argument was accepted."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒən/",
+      "definition": "The end or finish of an event or process; a judgment or decision reached by reasoning.",
+      "sentences": [
+        "The conclusion of the story was surprising.",
+        "After much thought, he reached a conclusion.",
+        "The evidence led to a clear conclusion."
+      ]
+    },
+    {
+      "word": "Deduction",
+      "pronunciation": "/dɪˈdʌkʃən/",
+      "definition": "The inference of particular instances by reference to a general law or principle.",
+      "sentences": [
+        "Sherlock Holmes used deduction to solve crimes.",
+        "Deduction moves from general to specific.",
+        "Her deduction was correct."
+      ]
+    },
+    {
+      "word": "Induction",
+      "pronunciation": "/ɪnˈdʌkʃən/",
+      "definition": "The inference of a general law from particular instances.",
+      "sentences": [
+        "Scientific theories are often formed by induction.",
+        "Induction moves from specific to general.",
+        "He used induction to draw his conclusions."
+      ]
+    },
+    {
+      "word": "Fallacy",
+      "pronunciation": "/ˈfæləsi/",
+      "definition": "A mistaken belief, especially one based on unsound argument.",
+      "sentences": [
+        "His argument contained a logical fallacy.",
+        "It's important to recognize common fallacies.",
+        "The idea that money buys happiness is a fallacy."
+      ]
+    },
+    {
+      "word": "Paradox",
+      "pronunciation": "/ˈpærədɒks/",
+      "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+      "sentences": [
+        "It's a paradox that doing less can achieve more.",
+        "The statement presents a paradox.",
+        "Life is full of paradoxes."
+      ]
+    },
+    {
+      "word": "Dilemma",
+      "pronunciation": "/dɪˈlɛmə/",
+      "definition": "A situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.",
+      "sentences": [
+        "She faced a moral dilemma.",
+        "The company was in a difficult dilemma.",
+        "He found himself in a classic ethical dilemma."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "pronunciation": "/haɪˈpɒθɪsɪs/",
+      "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "sentences": [
+        "The scientist formed a hypothesis.",
+        "They tested their hypothesis with an experiment.",
+        "A hypothesis needs to be testable."
+      ]
+    },
+    {
+      "word": "Theory",
+      "pronunciation": "/ˈθɪəri/",
+      "definition": "A system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+      "sentences": [
+        "The theory of relativity is famous.",
+        "He developed a new theory about the universe.",
+        "The theory needs more evidence."
+      ]
+    },
+    {
+      "word": "Concept",
+      "pronunciation": "/ˈkɒnsɛpt/",
+      "definition": "An abstract idea; a general notion.",
+      "sentences": [
+        "The concept of freedom is important.",
+        "He explained the difficult concept clearly.",
+        "It's a new concept for many people."
+      ]
+    },
+    {
+      "word": "Abstract",
+      "pronunciation": "/ˈæbstrækt/",
+      "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+      "sentences": [
+        "Love is an abstract concept.",
+        "Abstract art can be hard to understand.",
+        "He discussed abstract ideas."
+      ]
+    },
+    {
+      "word": "Concrete",
+      "pronunciation": "/ˈkɒŋkriːt/",
+      "definition": "Existing in a material or physical form; not abstract.",
+      "sentences": [
+        "Give me a concrete example.",
+        "The building was made of concrete.",
+        "We need concrete evidence."
+      ]
+    },
+    {
+      "word": "Universal",
+      "pronunciation": "/ˌjuːnɪˈvɜːrsəl/",
+      "definition": "Relating to or affecting all people or things in the world or in a particular group.",
+      "sentences": [
+        "Human rights are considered universal.",
+        "The message of peace is universal.",
+        "Gravity is a universal force."
+      ]
+    },
+    {
+      "word": "Particular",
+      "pronunciation": "/pərˈtɪkjʊlər/",
+      "definition": "Used to single out an individual member of a specified group or class.",
+      "sentences": [
+        "He had a particular interest in philosophy.",
+        "This particular book is very old.",
+        "Pay attention to the particular details."
+      ]
+    },
+    {
+      "word": "Subjective",
+      "pronunciation": "/səbˈdʒɛktɪv/",
+      "definition": "Based on or influenced by personal feelings, tastes, or opinions.",
+      "sentences": [
+        "Beauty is subjective.",
+        "His opinion was very subjective.",
+        "Art appreciation is often subjective."
+      ]
+    },
+    {
+      "word": "Objective",
+      "pronunciation": "/əbˈdʒɛktɪv/",
+      "definition": "Not influenced by personal feelings or opinions in considering and representing facts.",
+      "sentences": [
+        "Try to be objective in your analysis.",
+        "The judge must remain objective.",
+        "Science aims for objective truth."
+      ]
+    },
+    {
+      "word": "Rational",
+      "pronunciation": "/ˈræʃənəl/",
+      "definition": "Based on or in accordance with reason or logic.",
+      "sentences": [
+        "Make a rational decision.",
+        "Humans are considered rational beings.",
+        "His explanation was very rational."
+      ]
+    },
+    {
+      "word": "Irrational",
+      "pronunciation": "/ɪˈræʃənəl/",
+      "definition": "Not logical or reasonable.",
+      "sentences": [
+        "His fear was completely irrational.",
+        "Don't make an irrational choice.",
+        "Irrational thoughts can be hard to control."
+      ]
+    },
+    {
+      "word": "Intuition",
+      "pronunciation": "/ˌɪntuˈɪʃən/",
+      "definition": "The ability to understand something immediately, without the need for conscious reasoning.",
+      "sentences": [
+        "She had a strong intuition that something was wrong.",
+        "Sometimes you just have to trust your intuition.",
+        "His intuition guided his decision."
+      ]
+    },
+    {
+      "word": "Conscience",
+      "pronunciation": "/ˈkɒnʃəns/",
+      "definition": "An inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.",
+      "sentences": [
+        "His conscience told him to apologize.",
+        "Always listen to your conscience.",
+        "A clear conscience allows you to sleep well."
+      ]
+    },
+    {
+      "word": "Moral Dilemma",
+      "pronunciation": "/ˈmɒrəl dɪˈlɛmə/",
+      "definition": "A conflict in which you have to choose between two or more actions and have moral reasons for choosing each action.",
+      "sentences": [
+        "The story presented a complex moral dilemma.",
+        "He faced a moral dilemma about telling the truth.",
+        "Moral dilemmas are often difficult to resolve."
+      ]
+    },
+    {
+      "word": "Ethical Framework",
+      "pronunciation": "/ˈɛθɪkəl ˈfreɪmwɜːrk/",
+      "definition": "A set of rules or principles that a person or group uses to decide what is right or wrong.",
+      "sentences": [
+        "The company adopted a new ethical framework.",
+        "Different philosophies offer different ethical frameworks.",
+        "An ethical framework helps guide decision-making."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Principle",
+      "pronunciation": "/ˈprɪnsəpəl/",
+      "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.",
+      "sentences": [
+        "She lives by strong moral principles.",
+        "The principle of equality is important.",
+        "He refused to compromise on his principles."
+      ]
+    },
+    {
+      "word": "Belief",
+      "pronunciation": "/bɪˈliːf/",
+      "definition": "An acceptance that a statement is true or that something exists.",
+      "sentences": [
+        "His belief in justice was strong.",
+        "Many people hold different religious beliefs.",
+        "Her belief in herself helped her succeed."
+      ]
+    },
+    {
+      "word": "Faith",
+      "pronunciation": "/feɪθ/",
+      "definition": "Strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof.",
+      "sentences": [
+        "She has strong faith in her religion.",
+        "He lost faith in the system.",
+        "Have faith that things will get better."
+      ]
+    },
+    {
+      "word": "Doubt",
+      "pronunciation": "/daʊt/",
+      "definition": "A feeling of uncertainty or lack of conviction.",
+      "sentences": [
+        "He had no doubt about her honesty.",
+        "She expressed her doubt about the plan.",
+        "It's natural to have doubts sometimes."
+      ]
+    },
+    {
+      "word": "Certainty",
+      "pronunciation": "/ˈsɜːrtənti/",
+      "definition": "Firm conviction that something is the case.",
+      "sentences": [
+        "There is no certainty in life.",
+        "He spoke with absolute certainty.",
+        "The scientist sought certainty in his results."
+      ]
+    },
+    {
+      "word": "Uncertainty",
+      "pronunciation": "/ʌnˈsɜːrtənti/",
+      "definition": "The state of being uncertain.",
+      "sentences": [
+        "The future is full of uncertainty.",
+        "They faced a period of great uncertainty.",
+        "Uncertainty can be unsettling."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Dogma",
+      "pronunciation": "/ˈdɒɡmə/",
+      "definition": "A principle or set of principles laid down by an authority as incontrovertibly true.",
+      "sentences": [
+        "He questioned the dogma of the old beliefs.",
+        "The church's dogma is very strict.",
+        "Dogma can sometimes prevent new ideas."
+      ]
+    },
+    {
+      "word": "Doctrine",
+      "pronunciation": "/ˈdɒktrɪn/",
+      "definition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
+      "sentences": [
+        "The political party's doctrine was clear.",
+        "Religious doctrine guides many people's lives.",
+        "He studied the doctrine of ancient philosophers."
+      ]
+    },
+    {
+      "word": "Agnosticism",
+      "pronunciation": "/æɡˈnɒstɪsɪzəm/",
+      "definition": "The view that the existence of God, of the divine or the supernatural is unknown or unknowable.",
+      "sentences": [
+        "Agnosticism is a position of doubt about God's existence.",
+        "He identifies as an agnostic.",
+        "Agnosticism is different from atheism."
+      ]
+    },
+    {
+      "word": "Atheism",
+      "pronunciation": "/ˈeɪθiɪzəm/",
+      "definition": "The disbelief or lack of belief in the existence of God or gods.",
+      "sentences": [
+        "Atheism is the rejection of belief in deities.",
+        "She openly expresses her atheism.",
+        "Atheism has a long history in philosophy."
+      ]
+    },
+    {
+      "word": "Theism",
+      "pronunciation": "/ˈθiːɪzəm/",
+      "definition": "Belief in the existence of a god or gods, especially belief in one God as creator and ruler of the universe, without rejection of revelation.",
+      "sentences": [
+        "Theism is a common religious belief.",
+        "He was raised in a family that practiced theism.",
+        "Theism involves belief in a divine being."
+      ]
+    },
+    {
+      "word": "Spirituality",
+      "pronunciation": "/ˌspɪrɪtʃuˈæləti/",
+      "definition": "The quality of being concerned with the human spirit or soul as opposed to material or worldly things.",
+      "sentences": [
+        "She found peace through spirituality.",
+        "Spirituality can be expressed in many ways.",
+        "He explored different paths of spirituality."
+      ]
+    },
+    {
+      "word": "Religion",
+      "pronunciation": "/rɪˈlɪdʒən/",
+      "definition": "The belief in and worship of a superhuman controlling power, especially a personal God or gods.",
+      "sentences": [
+        "Many people find comfort in religion.",
+        "He studies world religions.",
+        "Religion plays a big role in many cultures."
+      ]
+    },
+    {
+      "word": "Secularism",
+      "pronunciation": "/ˈsɛkjʊlərɪzəm/",
+      "definition": "The principle of separation of the state from religious institutions.",
+      "sentences": [
+        "Secularism ensures religious freedom for all.",
+        "Many modern states practice secularism.",
+        "Secularism aims for a neutral government."
+      ]
+    },
+    {
+      "word": "Humanism",
+      "pronunciation": "/ˈhjuːmənɪzəm/",
+      "definition": "An outlook or system of thought attaching prime importance to human rather than divine or supernatural matters.",
+      "sentences": [
+        "Humanism emphasizes human values and reason.",
+        "He believes in the principles of humanism.",
+        "Renaissance humanism focused on human potential."
+      ]
+    },
+    {
+      "word": "Existential Crisis",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkraɪsɪs/",
+      "definition": "A moment when individuals question the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "He went through an existential crisis in his twenties.",
+        "An existential crisis can be a challenging time.",
+        "The character in the novel faced an existential crisis."
+      ]
+    },
+    {
+      "word": "Cognition",
+      "pronunciation": "/kɒɡˈnɪʃən/",
+      "definition": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+      "sentences": [
+        "Cognition is the process of thinking and knowing.",
+        "Scientists study human cognition.",
+        "Learning improves cognition."
+      ]
+    },
+    {
+      "word": "Perception",
+      "pronunciation": "/pərˈsɛpʃən/",
+      "definition": "The ability to see, hear, or become aware of something through the senses.",
+      "sentences": [
+        "His perception of the situation was different.",
+        "Our perception shapes our reality.",
+        "Visual perception is how we see the world."
+      ]
+    },
+    {
+      "word": "Consciousness",
+      "pronunciation": "/ˈkɒnʃəsnəs/",
+      "definition": "The state of being aware of one's own existence and surroundings.",
+      "sentences": [
+        "He slowly regained consciousness after the accident.",
+        "The nature of consciousness is a deep philosophical topic.",
+        "Animals have a form of consciousness."
+      ]
+    },
+    {
+      "word": "Subconscious",
+      "pronunciation": "/ˌsʌbˈkɒnʃəs/",
+      "definition": "Of or concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+      "sentences": [
+        "Dreams often reveal our subconscious thoughts.",
+        "His subconscious fear affected his behavior.",
+        "The subconscious mind plays a role in our decisions."
+      ]
+    },
+    {
+      "word": "Unconscious",
+      "pronunciation": "/ʌnˈkɒnʃəs/",
+      "definition": "Not awake and aware of and responding to one's environment.",
+      "sentences": [
+        "He was knocked unconscious by the fall.",
+        "The unconscious mind holds hidden memories.",
+        "She was unconscious for several minutes."
+      ]
+    },
+    {
+      "word": "Self-awareness",
+      "pronunciation": "/ˌsɛlf əˈwɛərnəs/",
+      "definition": "Conscious knowledge of one's own character, feelings, motives, and desires.",
+      "sentences": [
+        "Self-awareness is key to personal growth.",
+        "Developing self-awareness takes time.",
+        "He showed great self-awareness in his reflection."
+      ]
+    },
+    {
+      "word": "Identity",
+      "pronunciation": "/aɪˈdɛntɪti/",
+      "definition": "The fact of being who or what a person or thing is.",
+      "sentences": [
+        "He struggled with his identity as a teenager.",
+        "Cultural identity is important for many communities.",
+        "She searched for her true identity."
+      ]
+    },
+    {
+      "word": "Personal Identity",
+      "pronunciation": "/ˈpɜːrsənəl aɪˈdɛntɪti/",
+      "definition": "The unique numerical identity of a person over time.",
+      "sentences": [
+        "Philosophers debate the nature of personal identity.",
+        "What makes up our personal identity?",
+        "Memory plays a role in personal identity."
+      ]
+    },
+    {
+      "word": "Existential Question",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkwɛstʃən/",
+      "definition": "A question about the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "Why are we here? That's an existential question.",
+        "Children often ask existential questions.",
+        "He pondered the great existential questions."
+      ]
+    },
+    {
+      "word": "Meaning of Life",
+      "pronunciation": "/ˈmiːnɪŋ əv laɪf/",
+      "definition": "The philosophical question concerning the significance of living or existence in general.",
+      "sentences": [
+        "Many philosophers have debated the meaning of life.",
+        "He searched for the meaning of life.",
+        "Is there a universal meaning of life?"
+      ]
+    },
+    {
+      "word": "Purpose",
+      "pronunciation": "/ˈpɜːrpəs/",
+      "definition": "The reason for which something is done or created or for which something exists.",
+      "sentences": [
+        "What is the purpose of life?",
+        "His purpose in life is to help others.",
+        "The purpose of the meeting was to make a decision."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Goodness",
+      "pronunciation": "/ˈɡʊdnəs/",
+      "definition": "The quality of being morally good or virtuous.",
+      "sentences": [
+        "Her actions were filled with goodness.",
+        "He saw the goodness in everyone.",
+        "The story emphasized the importance of goodness."
+      ]
+    },
+    {
+      "word": "Evil",
+      "pronunciation": "/ˈiːvl/",
+      "definition": "Profoundly immoral and wicked.",
+      "sentences": [
+        "The villain in the story was truly evil.",
+        "Many stories explore the fight between good and evil.",
+        "His actions were considered evil by the community."
+      ]
+    },
+    {
+      "word": "Right",
+      "pronunciation": "/raɪt/",
+      "definition": "Morally good, justified, or acceptable.",
+      "sentences": [
+        "It's important to do the right thing.",
+        "She always knows the right answer.",
+        "He fought for what he believed was right."
+      ]
+    },
+    {
+      "word": "Wrong",
+      "pronunciation": "/rɒŋ/",
+      "definition": "Not correct or true; incorrect.",
+      "sentences": [
+        "Stealing is wrong.",
+        "He knew he made the wrong choice.",
+        "It's wrong to hurt others."
+      ]
+    },
+    {
+      "word": "Duty",
+      "pronunciation": "/ˈdjuːti/",
+      "definition": "A moral or legal obligation; a responsibility.",
+      "sentences": [
+        "It is our duty to protect the environment.",
+        "He performed his duty faithfully.",
+        "Serving the community is a civic duty."
+      ]
+    },
+    {
+      "word": "Obligation",
+      "pronunciation": "/ˌɒblɪˈɡeɪʃən/",
+      "definition": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+      "sentences": [
+        "He felt an obligation to help his family.",
+        "We have a moral obligation to care for the elderly.",
+        "Signing the contract created a legal obligation."
+      ]
+    },
+    {
+      "word": "Responsibility",
+      "pronunciation": "/rɪˌspɒnsəˈbɪləti/",
+      "definition": "The state or fact of having a duty to deal with something or of having control over someone.",
+      "sentences": [
+        "Taking responsibility for your actions is important.",
+        "Parents have a great responsibility.",
+        "He accepted the responsibility of leading the team."
+      ]
+    },
+    {
+      "word": "Consequence",
+      "pronunciation": "/ˈkɒnsɪkwəns/",
+      "definition": "A result or effect of an action or condition.",
+      "sentences": [
+        "Every action has a consequence.",
+        "The consequences of his decision were severe.",
+        "Think about the consequences before you act."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "pronunciation": "/ˈfriːdəm/",
+      "definition": "The state of being free; not controlled by others.",
+      "sentences": [
+        "People fought for their freedom.",
+        "Freedom of speech is important in a democracy.",
+        "He enjoyed the freedom of traveling alone."
+      ]
+    },
+    {
+      "word": "Liberty",
+      "pronunciation": "/ˈlɪbərti/",
+      "definition": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+      "sentences": [
+        "The statue symbolizes liberty.",
+        "They cherished their liberty.",
+        "Liberty is a core value in many nations."
+      ]
+    },
+    {
+      "word": "Rights",
+      "pronunciation": "/raɪts/",
+      "definition": "Things that people are allowed to have or do, protected by law.",
+      "sentences": [
+        "All citizens have basic human rights.",
+        "The right to vote is an important right.",
+        "They protested for equal rights."
+      ]
+    },
+    {
+      "word": "Equality",
+      "pronunciation": "/ɪˈkwɒləti/",
+      "definition": "The state of being equal, especially in rights, status, or opportunities.",
+      "sentences": [
+        "They believe in equality for all people.",
+        "The movement fought for gender equality.",
+        "Equality means everyone is treated the same."
+      ]
+    },
+    {
+      "word": "Inequality",
+      "pronunciation": "/ˌɪnɪˈkwɒləti/",
+      "definition": "Lack of equality; disparity.",
+      "sentences": [
+        "Economic inequality is a global issue.",
+        "They are working to reduce inequality.",
+        "Inequality can lead to social problems."
+      ]
+    },
+    {
+      "word": "Fairness",
+      "pronunciation": "/ˈfɛərnəs/",
+      "definition": "Impartial and just treatment or behavior without favoritism or discrimination.",
+      "sentences": [
+        "Fairness is important in sports.",
+        "The judge ensured fairness in the trial.",
+        "She always acts with fairness."
+      ]
+    },
+    {
+      "word": "Bias",
+      "pronunciation": "/ˈbaɪəs/",
+      "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "sentences": [
+        "The news report showed clear bias.",
+        "Try to avoid bias in your judgment.",
+        "Everyone has some level of bias."
+      ]
+    },
+    {
+      "word": "Prejudice",
+      "pronunciation": "/ˈprɛdʒʊdɪs/",
+      "definition": "Preconceived opinion that is not based on reason or actual experience.",
+      "sentences": [
+        "Prejudice can lead to unfair treatment.",
+        "It's important to overcome prejudice.",
+        "Education can help reduce prejudice."
+      ]
+    },
+    {
+      "word": "Discrimination",
+      "pronunciation": "/dɪˌskrɪmɪˈneɪʃən/",
+      "definition": "The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "sentences": [
+        "Discrimination based on race is illegal.",
+        "They faced discrimination in the workplace.",
+        "Laws aim to prevent discrimination."
+      ]
+    },
+    {
+      "word": "Empathy",
+      "pronunciation": "/ˈɛmpəθi/",
+      "definition": "The ability to understand and share the feelings of another.",
+      "sentences": [
+        "Showing empathy is a sign of kindness.",
+        "Empathy helps us connect with others.",
+        "She felt great empathy for the victims."
+      ]
+    },
+    {
+      "word": "Sympathy",
+      "pronunciation": "/ˈsɪmpəθi/",
+      "definition": "Feelings of pity and sorrow for someone else's misfortune.",
+      "sentences": [
+        "He expressed his sympathy for her loss.",
+        "She felt great sympathy for the suffering animals.",
+        "Sympathy is a natural human emotion."
+      ]
+    },
+    {
+      "word": "Compassion",
+      "pronunciation": "/kəmˈpæʃən/",
+      "definition": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+      "sentences": [
+        "Her compassion for the poor was evident.",
+        "Compassion drives many humanitarian efforts.",
+        "He acted with great compassion."
+      ]
+    },
+    {
+      "word": "Altruism",
+      "pronunciation": "/ˈæltruɪzəm/",
+      "definition": "The belief in or practice of selfless concern for the well-being of others.",
+      "sentences": [
+        "His act of altruism saved many lives.",
+        "Altruism is a key concept in ethics.",
+        "Many charities are based on altruism."
+      ]
+    },
+    {
+      "word": "Egoism",
+      "pronunciation": "/ˈiːɡoʊɪzəm/",
+      "definition": "An ethical theory that treats self-interest as the foundation of morality.",
+      "sentences": [
+        "Some philosophers argue against egoism.",
+        "His decisions were driven by pure egoism.",
+        "Egoism focuses on personal gain."
+      ]
+    },
+    {
+      "word": "Hedonism",
+      "pronunciation": "/ˈhiːdənɪzəm/",
+      "definition": "The pursuit of pleasure; the ethical theory that pleasure (in the sense of the satisfaction of desires) is the highest good and proper aim of human life.",
+      "sentences": [
+        "Hedonism suggests that pleasure is the ultimate goal.",
+        "He lived a life of hedonism.",
+        "Some ancient Greek philosophers discussed hedonism."
+      ]
+    },
+    {
+      "word": "Stoicism",
+      "pronunciation": "/ˈstoʊɪsɪzəm/",
+      "definition": "The endurance of pain or hardship without the display of feelings and without complaint.",
+      "sentences": [
+        "His stoicism helped him through difficult times.",
+        "Stoicism teaches emotional resilience.",
+        "The ancient Stoics valued self-control."
+      ]
+    },
+    {
+      "word": "Rationalism",
+      "pronunciation": "/ˈræʃənəlɪzəm/",
+      "definition": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+      "sentences": [
+        "Rationalism emphasizes the power of human reason.",
+        "Descartes was a famous rationalist.",
+        "Rationalism seeks truth through logic."
+      ]
+    },
+    {
+      "word": "Empiricism",
+      "pronunciation": "/ɪmˈpɪrɪsɪzəm/",
+      "definition": "The theory that all knowledge is derived from sense-experience.",
+      "sentences": [
+        "Empiricism suggests that experience is the source of knowledge.",
+        "John Locke was a key figure in empiricism.",
+        "Scientific method is based on empiricism."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Idealism",
+      "pronunciation": "/aɪˈdiːəlɪzəm/",
+      "definition": "The practice of forming or pursuing ideals, especially unrealistically.",
+      "sentences": [
+        "His youthful idealism inspired many.",
+        "Idealism often clashes with reality.",
+        "She approached life with great idealism."
+      ]
+    },
+    {
+      "word": "Realism",
+      "pronunciation": "/ˈriːəlɪzəm/",
+      "definition": "The attitude or practice of accepting a situation as it is and being prepared to deal with it accordingly.",
+      "sentences": [
+        "We need to approach the problem with realism.",
+        "His realism helped him make practical decisions.",
+        "The artist painted with great realism."
+      ]
+    },
+    {
+      "word": "Existentialism",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəlɪzəm/",
+      "definition": "A philosophical theory or approach which emphasizes the existence of the individual person as a free and responsible agent determining their own development through acts of the will.",
+      "sentences": [
+        "Existentialism explores the meaning of individual existence.",
+        "Sartre was a prominent existentialist philosopher.",
+        "The novel delves into themes of existentialism."
+      ]
+    },
+    {
+      "word": "Absurdism",
+      "pronunciation": "/ˈæbsɜːrdɪzəm/",
+      "definition": "The belief that human beings exist in a purposeless, chaotic universe.",
+      "sentences": [
+        "Absurdism suggests that life has no inherent meaning.",
+        "Camus wrote about the philosophy of absurdism.",
+        "The play explored themes of absurdism."
+      ]
+    },
+    {
+      "word": "Nihilism",
+      "pronunciation": "/ˈnaɪhɪlɪzəm/",
+      "definition": "The rejection of all religious and moral principles, often in the belief that life is meaningless.",
+      "sentences": [
+        "Nihilism can lead to a sense of despair.",
+        "Some characters in the book expressed nihilism.",
+        "He struggled with feelings of nihilism."
+      ]
+    },
+    {
+      "word": "Utilitarianism",
+      "pronunciation": "/juːˌtɪlɪˈtɛəriənɪzəm/",
+      "definition": "The belief that the best moral action is the one that maximizes utility, often defined as maximizing overall well-being or happiness.",
+      "sentences": [
+        "Utilitarianism focuses on the greatest good for the greatest number.",
+        "The decision was made based on utilitarianism.",
+        "Bentham and Mill were proponents of utilitarianism."
+      ]
+    },
+    {
+      "word": "Deontology",
+      "pronunciation": "/ˌdiːɒnˈtɒlədʒi/",
+      "definition": "The study of the nature of duty and obligation; an ethical theory that emphasizes duties or rules.",
+      "sentences": [
+        "Deontology suggests that some actions are inherently right or wrong.",
+        "Kant's ethics are a classic example of deontology.",
+        "He followed a strict deontology in his professional life."
+      ]
+    },
+    {
+      "word": "Virtue Ethics",
+      "pronunciation": "/ˈvɜːrtʃuː ˈɛθɪks/",
+      "definition": "An ethical theory that emphasizes the role of character and virtue in moral philosophy rather than either doing one's duty or acting in order to bring about good consequences.",
+      "sentences": [
+        "Virtue ethics asks what kind of person you should be.",
+        "Aristotle's ethics are a form of virtue ethics.",
+        "Virtue ethics focuses on developing good habits."
+      ]
+    },
+    {
+      "word": "Relativism",
+      "pronunciation": "/ˈrɛlətɪvɪzəm/",
+      "definition": "The doctrine that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.",
+      "sentences": [
+        "Moral relativism suggests that right and wrong depend on context.",
+        "He argued against cultural relativism.",
+        "Relativism can lead to diverse viewpoints."
+      ]
+    },
+    {
+      "word": "Absolutism",
+      "pronunciation": "/ˈæbsəluːtɪzəm/",
+      "definition": "The acceptance of or belief in absolute principles in political, philosophical, ethical, or theological matters.",
+      "sentences": [
+        "Moral absolutism states that some actions are always wrong.",
+        "He believes in ethical absolutism.",
+        "Absolutism contrasts with relativism."
+      ]
+    },
+    {
+      "word": "Epistemology",
+      "pronunciation": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "The theory of knowledge, especially with regard to its methods, validity, and scope.",
+      "sentences": [
+        "Epistemology explores how we know what we know.",
+        "She studied epistemology in her philosophy class.",
+        "The question of certainty is central to epistemology."
+      ]
+    },
+    {
+      "word": "Metaphysics",
+      "pronunciation": "/ˌmɛtəˈfɪzɪks/",
+      "definition": "The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.",
+      "sentences": [
+        "Metaphysics asks fundamental questions about reality.",
+        "He was interested in the metaphysics of existence.",
+        "Metaphysics is a deep and complex field."
+      ]
+    },
+    {
+      "word": "Aesthetics",
+      "pronunciation": "/ɛsˈθɛtɪks/",
+      "definition": "A set of principles concerned with the nature and appreciation of beauty, especially in art.",
+      "sentences": [
+        "The artist focused on the aesthetics of the design.",
+        "They discussed the aesthetics of the building.",
+        "Aesthetics helps us understand beauty."
+      ]
+    },
+    {
+      "word": "Logic",
+      "pronunciation": "/ˈlɒdʒɪk/",
+      "definition": "The study of reasoning, especially the validity of arguments.",
+      "sentences": [
+        "His argument followed a clear logic.",
+        "There's no logic in that statement.",
+        "We used logic to solve the puzzle."
+      ]
+    },
+    {
+      "word": "Argument",
+      "pronunciation": "/ˈɑːrɡjʊmənt/",
+      "definition": "A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.",
+      "sentences": [
+        "She presented a strong argument for her case.",
+        "His argument was based on facts.",
+        "They had a heated argument about politics."
+      ]
+    },
+    {
+      "word": "Premise",
+      "pronunciation": "/ˈprɛmɪs/",
+      "definition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+      "sentences": [
+        "His argument was based on a false premise.",
+        "The premise of the movie was interesting.",
+        "The first premise of the argument was accepted."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒən/",
+      "definition": "The end or finish of an event or process; a judgment or decision reached by reasoning.",
+      "sentences": [
+        "The conclusion of the story was surprising.",
+        "After much thought, he reached a conclusion.",
+        "The evidence led to a clear conclusion."
+      ]
+    },
+    {
+      "word": "Deduction",
+      "pronunciation": "/dɪˈdʌkʃən/",
+      "definition": "The inference of particular instances by reference to a general law or principle.",
+      "sentences": [
+        "Sherlock Holmes used deduction to solve crimes.",
+        "Deduction moves from general to specific.",
+        "Her deduction was correct."
+      ]
+    },
+    {
+      "word": "Induction",
+      "pronunciation": "/ɪnˈdʌkʃən/",
+      "definition": "The inference of a general law from particular instances.",
+      "sentences": [
+        "Scientific theories are often formed by induction.",
+        "Induction moves from specific to general.",
+        "He used induction to draw his conclusions."
+      ]
+    },
+    {
+      "word": "Fallacy",
+      "pronunciation": "/ˈfæləsi/",
+      "definition": "A mistaken belief, especially one based on unsound argument.",
+      "sentences": [
+        "His argument contained a logical fallacy.",
+        "It's important to recognize common fallacies.",
+        "The idea that money buys happiness is a fallacy."
+      ]
+    },
+    {
+      "word": "Paradox",
+      "pronunciation": "/ˈpærədɒks/",
+      "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+      "sentences": [
+        "It's a paradox that doing less can achieve more.",
+        "The statement presents a paradox.",
+        "Life is full of paradoxes."
+      ]
+    },
+    {
+      "word": "Dilemma",
+      "pronunciation": "/dɪˈlɛmə/",
+      "definition": "A situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.",
+      "sentences": [
+        "She faced a moral dilemma.",
+        "The company was in a difficult dilemma.",
+        "He found himself in a classic ethical dilemma."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "pronunciation": "/haɪˈpɒθɪsɪs/",
+      "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "sentences": [
+        "The scientist formed a hypothesis.",
+        "They tested their hypothesis with an experiment.",
+        "A hypothesis needs to be testable."
+      ]
+    },
+    {
+      "word": "Theory",
+      "pronunciation": "/ˈθɪəri/",
+      "definition": "A system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+      "sentences": [
+        "The theory of relativity is famous.",
+        "He developed a new theory about the universe.",
+        "The theory needs more evidence."
+      ]
+    },
+    {
+      "word": "Concept",
+      "pronunciation": "/ˈkɒnsɛpt/",
+      "definition": "An abstract idea; a general notion.",
+      "sentences": [
+        "The concept of freedom is important.",
+        "He explained the difficult concept clearly.",
+        "It's a new concept for many people."
+      ]
+    },
+    {
+      "word": "Abstract",
+      "pronunciation": "/ˈæbstrækt/",
+      "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+      "sentences": [
+        "Love is an abstract concept.",
+        "Abstract art can be hard to understand.",
+        "He discussed abstract ideas."
+      ]
+    },
+    {
+      "word": "Concrete",
+      "pronunciation": "/ˈkɒŋkriːt/",
+      "definition": "Existing in a material or physical form; not abstract.",
+      "sentences": [
+        "Give me a concrete example.",
+        "The building was made of concrete.",
+        "We need concrete evidence."
+      ]
+    },
+    {
+      "word": "Universal",
+      "pronunciation": "/ˌjuːnɪˈvɜːrsəl/",
+      "definition": "Relating to or affecting all people or things in the world or in a particular group.",
+      "sentences": [
+        "Human rights are considered universal.",
+        "The message of peace is universal.",
+        "Gravity is a universal force."
+      ]
+    },
+    {
+      "word": "Particular",
+      "pronunciation": "/pərˈtɪkjʊlər/",
+      "definition": "Used to single out an individual member of a specified group or class.",
+      "sentences": [
+        "He had a particular interest in philosophy.",
+        "This particular book is very old.",
+        "Pay attention to the particular details."
+      ]
+    },
+    {
+      "word": "Subjective",
+      "pronunciation": "/səbˈdʒɛktɪv/",
+      "definition": "Based on or influenced by personal feelings, tastes, or opinions.",
+      "sentences": [
+        "Beauty is subjective.",
+        "His opinion was very subjective.",
+        "Art appreciation is often subjective."
+      ]
+    },
+    {
+      "word": "Objective",
+      "pronunciation": "/əbˈdʒɛktɪv/",
+      "definition": "Not influenced by personal feelings or opinions in considering and representing facts.",
+      "sentences": [
+        "Try to be objective in your analysis.",
+        "The judge must remain objective.",
+        "Science aims for objective truth."
+      ]
+    },
+    {
+      "word": "Rational",
+      "pronunciation": "/ˈræʃənəl/",
+      "definition": "Based on or in accordance with reason or logic.",
+      "sentences": [
+        "Make a rational decision.",
+        "Humans are considered rational beings.",
+        "His explanation was very rational."
+      ]
+    },
+    {
+      "word": "Irrational",
+      "pronunciation": "/ɪˈræʃənəl/",
+      "definition": "Not logical or reasonable.",
+      "sentences": [
+        "His fear was completely irrational.",
+        "Don't make an irrational choice.",
+        "Irrational thoughts can be hard to control."
+      ]
+    },
+    {
+      "word": "Intuition",
+      "pronunciation": "/ˌɪntuˈɪʃən/",
+      "definition": "The ability to understand something immediately, without the need for conscious reasoning.",
+      "sentences": [
+        "She had a strong intuition that something was wrong.",
+        "Sometimes you just have to trust your intuition.",
+        "His intuition guided his decision."
+      ]
+    },
+    {
+      "word": "Conscience",
+      "pronunciation": "/ˈkɒnʃəns/",
+      "definition": "An inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.",
+      "sentences": [
+        "His conscience told him to apologize.",
+        "Always listen to your conscience.",
+        "A clear conscience allows you to sleep well."
+      ]
+    },
+    {
+      "word": "Moral Dilemma",
+      "pronunciation": "/ˈmɒrəl dɪˈlɛmə/",
+      "definition": "A conflict in which you have to choose between two or more actions and have moral reasons for choosing each action.",
+      "sentences": [
+        "The story presented a complex moral dilemma.",
+        "He faced a moral dilemma about telling the truth.",
+        "Moral dilemmas are often difficult to resolve."
+      ]
+    },
+    {
+      "word": "Ethical Framework",
+      "pronunciation": "/ˈɛθɪkəl ˈfreɪmwɜːrk/",
+      "definition": "A set of rules or principles that a person or group uses to decide what is right or wrong.",
+      "sentences": [
+        "The company adopted a new ethical framework.",
+        "Different philosophies offer different ethical frameworks.",
+        "An ethical framework helps guide decision-making."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Principle",
+      "pronunciation": "/ˈprɪnsəpəl/",
+      "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.",
+      "sentences": [
+        "She lives by strong moral principles.",
+        "The principle of equality is important.",
+        "He refused to compromise on his principles."
+      ]
+    },
+    {
+      "word": "Belief",
+      "pronunciation": "/bɪˈliːf/",
+      "definition": "An acceptance that a statement is true or that something exists.",
+      "sentences": [
+        "His belief in justice was strong.",
+        "Many people hold different religious beliefs.",
+        "Her belief in herself helped her succeed."
+      ]
+    },
+    {
+      "word": "Faith",
+      "pronunciation": "/feɪθ/",
+      "definition": "Strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof.",
+      "sentences": [
+        "She has strong faith in her religion.",
+        "He lost faith in the system.",
+        "Have faith that things will get better."
+      ]
+    },
+    {
+      "word": "Doubt",
+      "pronunciation": "/daʊt/",
+      "definition": "A feeling of uncertainty or lack of conviction.",
+      "sentences": [
+        "He had no doubt about her honesty.",
+        "She expressed her doubt about the plan.",
+        "It's natural to have doubts sometimes."
+      ]
+    },
+    {
+      "word": "Certainty",
+      "pronunciation": "/ˈsɜːrtənti/",
+      "definition": "Firm conviction that something is the case.",
+      "sentences": [
+        "There is no certainty in life.",
+        "He spoke with absolute certainty.",
+        "The scientist sought certainty in his results."
+      ]
+    },
+    {
+      "word": "Uncertainty",
+      "pronunciation": "/ʌnˈsɜːrtənti/",
+      "definition": "The state of being uncertain.",
+      "sentences": [
+        "The future is full of uncertainty.",
+        "They faced a period of great uncertainty.",
+        "Uncertainty can be unsettling."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Dogma",
+      "pronunciation": "/ˈdɒɡmə/",
+      "definition": "A principle or set of principles laid down by an authority as incontrovertibly true.",
+      "sentences": [
+        "He questioned the dogma of the old beliefs.",
+        "The church's dogma is very strict.",
+        "Dogma can sometimes prevent new ideas."
+      ]
+    },
+    {
+      "word": "Doctrine",
+      "pronunciation": "/ˈdɒktrɪn/",
+      "definition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
+      "sentences": [
+        "The political party's doctrine was clear.",
+        "Religious doctrine guides many people's lives.",
+        "He studied the doctrine of ancient philosophers."
+      ]
+    },
+    {
+      "word": "Agnosticism",
+      "pronunciation": "/æɡˈnɒstɪsɪzəm/",
+      "definition": "The view that the existence of God, of the divine or the supernatural is unknown or unknowable.",
+      "sentences": [
+        "Agnosticism is a position of doubt about God's existence.",
+        "He identifies as an agnostic.",
+        "Agnosticism is different from atheism."
+      ]
+    },
+    {
+      "word": "Atheism",
+      "pronunciation": "/ˈeɪθiɪzəm/",
+      "definition": "The disbelief or lack of belief in the existence of God or gods.",
+      "sentences": [
+        "Atheism is the rejection of belief in deities.",
+        "She openly expresses her atheism.",
+        "Atheism has a long history in philosophy."
+      ]
+    },
+    {
+      "word": "Theism",
+      "pronunciation": "/ˈθiːɪzəm/",
+      "definition": "Belief in the existence of a god or gods, especially belief in one God as creator and ruler of the universe, without rejection of revelation.",
+      "sentences": [
+        "Theism is a common religious belief.",
+        "He was raised in a family that practiced theism.",
+        "Theism involves belief in a divine being."
+      ]
+    },
+    {
+      "word": "Spirituality",
+      "pronunciation": "/ˌspɪrɪtʃuˈæləti/",
+      "definition": "The quality of being concerned with the human spirit or soul as opposed to material or worldly things.",
+      "sentences": [
+        "She found peace through spirituality.",
+        "Spirituality can be expressed in many ways.",
+        "He explored different paths of spirituality."
+      ]
+    },
+    {
+      "word": "Religion",
+      "pronunciation": "/rɪˈlɪdʒən/",
+      "definition": "The belief in and worship of a superhuman controlling power, especially a personal God or gods.",
+      "sentences": [
+        "Many people find comfort in religion.",
+        "He studies world religions.",
+        "Religion plays a big role in many cultures."
+      ]
+    },
+    {
+      "word": "Secularism",
+      "pronunciation": "/ˈsɛkjʊlərɪzəm/",
+      "definition": "The principle of separation of the state from religious institutions.",
+      "sentences": [
+        "Secularism ensures religious freedom for all.",
+        "Many modern states practice secularism.",
+        "Secularism aims for a neutral government."
+      ]
+    },
+    {
+      "word": "Humanism",
+      "pronunciation": "/ˈhjuːmənɪzəm/",
+      "definition": "An outlook or system of thought attaching prime importance to human rather than divine or supernatural matters.",
+      "sentences": [
+        "Humanism emphasizes human values and reason.",
+        "He believes in the principles of humanism.",
+        "Renaissance humanism focused on human potential."
+      ]
+    },
+    {
+      "word": "Existential Crisis",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkraɪsɪs/",
+      "definition": "A moment when individuals question the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "He went through an existential crisis in his twenties.",
+        "An existential crisis can be a challenging time.",
+        "The character in the novel faced an existential crisis."
+      ]
+    },
+    {
+      "word": "Cognition",
+      "pronunciation": "/kɒɡˈnɪʃən/",
+      "definition": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+      "sentences": [
+        "Cognition is the process of thinking and knowing.",
+        "Scientists study human cognition.",
+        "Learning improves cognition."
+      ]
+    },
+    {
+      "word": "Perception",
+      "pronunciation": "/pərˈsɛpʃən/",
+      "definition": "The ability to see, hear, or become aware of something through the senses.",
+      "sentences": [
+        "His perception of the situation was different.",
+        "Our perception shapes our reality.",
+        "Visual perception is how we see the world."
+      ]
+    },
+    {
+      "word": "Consciousness",
+      "pronunciation": "/ˈkɒnʃəsnəs/",
+      "definition": "The state of being aware of one's own existence and surroundings.",
+      "sentences": [
+        "He slowly regained consciousness after the accident.",
+        "The nature of consciousness is a deep philosophical topic.",
+        "Animals have a form of consciousness."
+      ]
+    },
+    {
+      "word": "Subconscious",
+      "pronunciation": "/ˌsʌbˈkɒnʃəs/",
+      "definition": "Of or concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+      "sentences": [
+        "Dreams often reveal our subconscious thoughts.",
+        "His subconscious fear affected his behavior.",
+        "The subconscious mind plays a role in our decisions."
+      ]
+    },
+    {
+      "word": "Unconscious",
+      "pronunciation": "/ʌnˈkɒnʃəs/",
+      "definition": "Not awake and aware of and responding to one's environment.",
+      "sentences": [
+        "He was knocked unconscious by the fall.",
+        "The unconscious mind holds hidden memories.",
+        "She was unconscious for several minutes."
+      ]
+    },
+    {
+      "word": "Self-awareness",
+      "pronunciation": "/ˌsɛlf əˈwɛərnəs/",
+      "definition": "Conscious knowledge of one's own character, feelings, motives, and desires.",
+      "sentences": [
+        "Self-awareness is key to personal growth.",
+        "Developing self-awareness takes time.",
+        "He showed great self-awareness in his reflection."
+      ]
+    },
+    {
+      "word": "Identity",
+      "pronunciation": "/aɪˈdɛntɪti/",
+      "definition": "The fact of being who or what a person or thing is.",
+      "sentences": [
+        "He struggled with his identity as a teenager.",
+        "Cultural identity is important for many communities.",
+        "She searched for her true identity."
+      ]
+    },
+    {
+      "word": "Personal Identity",
+      "pronunciation": "/ˈpɜːrsənəl aɪˈdɛntɪti/",
+      "definition": "The unique numerical identity of a person over time.",
+      "sentences": [
+        "Philosophers debate the nature of personal identity.",
+        "What makes up our personal identity?",
+        "Memory plays a role in personal identity."
+      ]
+    },
+    {
+      "word": "Existential Question",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkwɛstʃən/",
+      "definition": "A question about the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "Why are we here? That's an existential question.",
+        "Children often ask existential questions.",
+        "He pondered the great existential questions."
+      ]
+    },
+    {
+      "word": "Meaning of Life",
+      "pronunciation": "/ˈmiːnɪŋ əv laɪf/",
+      "definition": "The philosophical question concerning the significance of living or existence in general.",
+      "sentences": [
+        "Many philosophers have debated the meaning of life.",
+        "He searched for the meaning of life.",
+        "Is there a universal meaning of life?"
+      ]
+    },
+    {
+      "word": "Purpose",
+      "pronunciation": "/ˈpɜːrpəs/",
+      "definition": "The reason for which something is done or created or for which something exists.",
+      "sentences": [
+        "What is the purpose of life?",
+        "His purpose in life is to help others.",
+        "The purpose of the meeting was to make a decision."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Goodness",
+      "pronunciation": "/ˈɡʊdnəs/",
+      "definition": "The quality of being morally good or virtuous.",
+      "sentences": [
+        "Her actions were filled with goodness.",
+        "He saw the goodness in everyone.",
+        "The story emphasized the importance of goodness."
+      ]
+    },
+    {
+      "word": "Evil",
+      "pronunciation": "/ˈiːvl/",
+      "definition": "Profoundly immoral and wicked.",
+      "sentences": [
+        "The villain in the story was truly evil.",
+        "Many stories explore the fight between good and evil.",
+        "His actions were considered evil by the community."
+      ]
+    },
+    {
+      "word": "Right",
+      "pronunciation": "/raɪt/",
+      "definition": "Morally good, justified, or acceptable.",
+      "sentences": [
+        "It's important to do the right thing.",
+        "She always knows the right answer.",
+        "He fought for what he believed was right."
+      ]
+    },
+    {
+      "word": "Wrong",
+      "pronunciation": "/rɒŋ/",
+      "definition": "Not correct or true; incorrect.",
+      "sentences": [
+        "Stealing is wrong.",
+        "He knew he made the wrong choice.",
+        "It's wrong to hurt others."
+      ]
+    },
+    {
+      "word": "Duty",
+      "pronunciation": "/ˈdjuːti/",
+      "definition": "A moral or legal obligation; a responsibility.",
+      "sentences": [
+        "It is our duty to protect the environment.",
+        "He performed his duty faithfully.",
+        "Serving the community is a civic duty."
+      ]
+    },
+    {
+      "word": "Obligation",
+      "pronunciation": "/ˌɒblɪˈɡeɪʃən/",
+      "definition": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+      "sentences": [
+        "He felt an obligation to help his family.",
+        "We have a moral obligation to care for the elderly.",
+        "Signing the contract created a legal obligation."
+      ]
+    },
+    {
+      "word": "Responsibility",
+      "pronunciation": "/rɪˌspɒnsəˈbɪləti/",
+      "definition": "The state or fact of having a duty to deal with something or of having control over someone.",
+      "sentences": [
+        "Taking responsibility for your actions is important.",
+        "Parents have a great responsibility.",
+        "He accepted the responsibility of leading the team."
+      ]
+    },
+    {
+      "word": "Consequence",
+      "pronunciation": "/ˈkɒnsɪkwəns/",
+      "definition": "A result or effect of an action or condition.",
+      "sentences": [
+        "Every action has a consequence.",
+        "The consequences of his decision were severe.",
+        "Think about the consequences before you act."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "pronunciation": "/ˈfriːdəm/",
+      "definition": "The state of being free; not controlled by others.",
+      "sentences": [
+        "People fought for their freedom.",
+        "Freedom of speech is important in a democracy.",
+        "He enjoyed the freedom of traveling alone."
+      ]
+    },
+    {
+      "word": "Liberty",
+      "pronunciation": "/ˈlɪbərti/",
+      "definition": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+      "sentences": [
+        "The statue symbolizes liberty.",
+        "They cherished their liberty.",
+        "Liberty is a core value in many nations."
+      ]
+    },
+    {
+      "word": "Rights",
+      "pronunciation": "/raɪts/",
+      "definition": "Things that people are allowed to have or do, protected by law.",
+      "sentences": [
+        "All citizens have basic human rights.",
+        "The right to vote is an important right.",
+        "They protested for equal rights."
+      ]
+    },
+    {
+      "word": "Equality",
+      "pronunciation": "/ɪˈkwɒləti/",
+      "definition": "The state of being equal, especially in rights, status, or opportunities.",
+      "sentences": [
+        "They believe in equality for all people.",
+        "The movement fought for gender equality.",
+        "Equality means everyone is treated the same."
+      ]
+    },
+    {
+      "word": "Inequality",
+      "pronunciation": "/ˌɪnɪˈkwɒləti/",
+      "definition": "Lack of equality; disparity.",
+      "sentences": [
+        "Economic inequality is a global issue.",
+        "They are working to reduce inequality.",
+        "Inequality can lead to social problems."
+      ]
+    },
+    {
+      "word": "Fairness",
+      "pronunciation": "/ˈfɛərnəs/",
+      "definition": "Impartial and just treatment or behavior without favoritism or discrimination.",
+      "sentences": [
+        "Fairness is important in sports.",
+        "The judge ensured fairness in the trial.",
+        "She always acts with fairness."
+      ]
+    },
+    {
+      "word": "Bias",
+      "pronunciation": "/ˈbaɪəs/",
+      "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "sentences": [
+        "The news report showed clear bias.",
+        "Try to avoid bias in your judgment.",
+        "Everyone has some level of bias."
+      ]
+    },
+    {
+      "word": "Prejudice",
+      "pronunciation": "/ˈprɛdʒʊdɪs/",
+      "definition": "Preconceived opinion that is not based on reason or actual experience.",
+      "sentences": [
+        "Prejudice can lead to unfair treatment.",
+        "It's important to overcome prejudice.",
+        "Education can help reduce prejudice."
+      ]
+    },
+    {
+      "word": "Discrimination",
+      "pronunciation": "/dɪˌskrɪmɪˈneɪʃən/",
+      "definition": "The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "sentences": [
+        "Discrimination based on race is illegal.",
+        "They faced discrimination in the workplace.",
+        "Laws aim to prevent discrimination."
+      ]
+    },
+    {
+      "word": "Empathy",
+      "pronunciation": "/ˈɛmpəθi/",
+      "definition": "The ability to understand and share the feelings of another.",
+      "sentences": [
+        "Showing empathy is a sign of kindness.",
+        "Empathy helps us connect with others.",
+        "She felt great empathy for the victims."
+      ]
+    },
+    {
+      "word": "Sympathy",
+      "pronunciation": "/ˈsɪmpəθi/",
+      "definition": "Feelings of pity and sorrow for someone else's misfortune.",
+      "sentences": [
+        "He expressed his sympathy for her loss.",
+        "She felt great sympathy for the suffering animals.",
+        "Sympathy is a natural human emotion."
+      ]
+    },
+    {
+      "word": "Compassion",
+      "pronunciation": "/kəmˈpæʃən/",
+      "definition": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+      "sentences": [
+        "Her compassion for the poor was evident.",
+        "Compassion drives many humanitarian efforts.",
+        "He acted with great compassion."
+      ]
+    },
+    {
+      "word": "Altruism",
+      "pronunciation": "/ˈæltruɪzəm/",
+      "definition": "The belief in or practice of selfless concern for the well-being of others.",
+      "sentences": [
+        "His act of altruism saved many lives.",
+        "Altruism is a key concept in ethics.",
+        "Many charities are based on altruism."
+      ]
+    },
+    {
+      "word": "Egoism",
+      "pronunciation": "/ˈiːɡoʊɪzəm/",
+      "definition": "An ethical theory that treats self-interest as the foundation of morality.",
+      "sentences": [
+        "Some philosophers argue against egoism.",
+        "His decisions were driven by pure egoism.",
+        "Egoism focuses on personal gain."
+      ]
+    },
+    {
+      "word": "Hedonism",
+      "pronunciation": "/ˈhiːdənɪzəm/",
+      "definition": "The pursuit of pleasure; the ethical theory that pleasure (in the sense of the satisfaction of desires) is the highest good and proper aim of human life.",
+      "sentences": [
+        "Hedonism suggests that pleasure is the ultimate goal.",
+        "He lived a life of hedonism.",
+        "Some ancient Greek philosophers discussed hedonism."
+      ]
+    },
+    {
+      "word": "Stoicism",
+      "pronunciation": "/ˈstoʊɪsɪzəm/",
+      "definition": "The endurance of pain or hardship without the display of feelings and without complaint.",
+      "sentences": [
+        "His stoicism helped him through difficult times.",
+        "Stoicism teaches emotional resilience.",
+        "The ancient Stoics valued self-control."
+      ]
+    },
+    {
+      "word": "Rationalism",
+      "pronunciation": "/ˈræʃənəlɪzəm/",
+      "definition": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+      "sentences": [
+        "Rationalism emphasizes the power of human reason.",
+        "Descartes was a famous rationalist.",
+        "Rationalism seeks truth through logic."
+      ]
+    },
+    {
+      "word": "Empiricism",
+      "pronunciation": "/ɪmˈpɪrɪsɪzəm/",
+      "definition": "The theory that all knowledge is derived from sense-experience.",
+      "sentences": [
+        "Empiricism suggests that experience is the source of knowledge.",
+        "John Locke was a key figure in empiricism.",
+        "Scientific method is based on empiricism."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Idealism",
+      "pronunciation": "/aɪˈdiːəlɪzəm/",
+      "definition": "The practice of forming or pursuing ideals, especially unrealistically.",
+      "sentences": [
+        "His youthful idealism inspired many.",
+        "Idealism often clashes with reality.",
+        "She approached life with great idealism."
+      ]
+    },
+    {
+      "word": "Realism",
+      "pronunciation": "/ˈriːəlɪzəm/",
+      "definition": "The attitude or practice of accepting a situation as it is and being prepared to deal with it accordingly.",
+      "sentences": [
+        "We need to approach the problem with realism.",
+        "His realism helped him make practical decisions.",
+        "The artist painted with great realism."
+      ]
+    },
+    {
+      "word": "Existentialism",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəlɪzəm/",
+      "definition": "A philosophical theory or approach which emphasizes the existence of the individual person as a free and responsible agent determining their own development through acts of the will.",
+      "sentences": [
+        "Existentialism explores the meaning of individual existence.",
+        "Sartre was a prominent existentialist philosopher.",
+        "The novel delves into themes of existentialism."
+      ]
+    },
+    {
+      "word": "Absurdism",
+      "pronunciation": "/ˈæbsɜːrdɪzəm/",
+      "definition": "The belief that human beings exist in a purposeless, chaotic universe.",
+      "sentences": [
+        "Absurdism suggests that life has no inherent meaning.",
+        "Camus wrote about the philosophy of absurdism.",
+        "The play explored themes of absurdism."
+      ]
+    },
+    {
+      "word": "Nihilism",
+      "pronunciation": "/ˈnaɪhɪlɪzəm/",
+      "definition": "The rejection of all religious and moral principles, often in the belief that life is meaningless.",
+      "sentences": [
+        "Nihilism can lead to a sense of despair.",
+        "Some characters in the book expressed nihilism.",
+        "He struggled with feelings of nihilism."
+      ]
+    },
+    {
+      "word": "Utilitarianism",
+      "pronunciation": "/juːˌtɪlɪˈtɛəriənɪzəm/",
+      "definition": "The belief that the best moral action is the one that maximizes utility, often defined as maximizing overall well-being or happiness.",
+      "sentences": [
+        "Utilitarianism focuses on the greatest good for the greatest number.",
+        "The decision was made based on utilitarianism.",
+        "Bentham and Mill were proponents of utilitarianism."
+      ]
+    },
+    {
+      "word": "Deontology",
+      "pronunciation": "/ˌdiːɒnˈtɒlədʒi/",
+      "definition": "The study of the nature of duty and obligation; an ethical theory that emphasizes duties or rules.",
+      "sentences": [
+        "Deontology suggests that some actions are inherently right or wrong.",
+        "Kant's ethics are a classic example of deontology.",
+        "He followed a strict deontology in his professional life."
+      ]
+    },
+    {
+      "word": "Virtue Ethics",
+      "pronunciation": "/ˈvɜːrtʃuː ˈɛθɪks/",
+      "definition": "An ethical theory that emphasizes the role of character and virtue in moral philosophy rather than either doing one's duty or acting in order to bring about good consequences.",
+      "sentences": [
+        "Virtue ethics asks what kind of person you should be.",
+        "Aristotle's ethics are a form of virtue ethics.",
+        "Virtue ethics focuses on developing good habits."
+      ]
+    },
+    {
+      "word": "Relativism",
+      "pronunciation": "/ˈrɛlətɪvɪzəm/",
+      "definition": "The doctrine that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.",
+      "sentences": [
+        "Moral relativism suggests that right and wrong depend on context.",
+        "He argued against cultural relativism.",
+        "Relativism can lead to diverse viewpoints."
+      ]
+    },
+    {
+      "word": "Absolutism",
+      "pronunciation": "/ˈæbsəluːtɪzəm/",
+      "definition": "The acceptance of or belief in absolute principles in political, philosophical, ethical, or theological matters.",
+      "sentences": [
+        "Moral absolutism states that some actions are always wrong.",
+        "He believes in ethical absolutism.",
+        "Absolutism contrasts with relativism."
+      ]
+    },
+    {
+      "word": "Epistemology",
+      "pronunciation": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "The theory of knowledge, especially with regard to its methods, validity, and scope.",
+      "sentences": [
+        "Epistemology explores how we know what we know.",
+        "She studied epistemology in her philosophy class.",
+        "The question of certainty is central to epistemology."
+      ]
+    },
+    {
+      "word": "Metaphysics",
+      "pronunciation": "/ˌmɛtəˈfɪzɪks/",
+      "definition": "The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.",
+      "sentences": [
+        "Metaphysics asks fundamental questions about reality.",
+        "He was interested in the metaphysics of existence.",
+        "Metaphysics is a deep and complex field."
+      ]
+    },
+    {
+      "word": "Aesthetics",
+      "pronunciation": "/ɛsˈθɛtɪks/",
+      "definition": "A set of principles concerned with the nature and appreciation of beauty, especially in art.",
+      "sentences": [
+        "The artist focused on the aesthetics of the design.",
+        "They discussed the aesthetics of the building.",
+        "Aesthetics helps us understand beauty."
+      ]
+    },
+    {
+      "word": "Logic",
+      "pronunciation": "/ˈlɒdʒɪk/",
+      "definition": "The study of reasoning, especially the validity of arguments.",
+      "sentences": [
+        "His argument followed a clear logic.",
+        "There's no logic in that statement.",
+        "We used logic to solve the puzzle."
+      ]
+    },
+    {
+      "word": "Argument",
+      "pronunciation": "/ˈɑːrɡjʊmənt/",
+      "definition": "A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.",
+      "sentences": [
+        "She presented a strong argument for her case.",
+        "His argument was based on facts.",
+        "They had a heated argument about politics."
+      ]
+    },
+    {
+      "word": "Premise",
+      "pronunciation": "/ˈprɛmɪs/",
+      "definition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+      "sentences": [
+        "His argument was based on a false premise.",
+        "The premise of the movie was interesting.",
+        "The first premise of the argument was accepted."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒən/",
+      "definition": "The end or finish of an event or process; a judgment or decision reached by reasoning.",
+      "sentences": [
+        "The conclusion of the story was surprising.",
+        "After much thought, he reached a conclusion.",
+        "The evidence led to a clear conclusion."
+      ]
+    },
+    {
+      "word": "Deduction",
+      "pronunciation": "/dɪˈdʌkʃən/",
+      "definition": "The inference of particular instances by reference to a general law or principle.",
+      "sentences": [
+        "Sherlock Holmes used deduction to solve crimes.",
+        "Deduction moves from general to specific.",
+        "Her deduction was correct."
+      ]
+    },
+    {
+      "word": "Induction",
+      "pronunciation": "/ɪnˈdʌkʃən/",
+      "definition": "The inference of a general law from particular instances.",
+      "sentences": [
+        "Scientific theories are often formed by induction.",
+        "Induction moves from specific to general.",
+        "He used induction to draw his conclusions."
+      ]
+    },
+    {
+      "word": "Fallacy",
+      "pronunciation": "/ˈfæləsi/",
+      "definition": "A mistaken belief, especially one based on unsound argument.",
+      "sentences": [
+        "His argument contained a logical fallacy.",
+        "It's important to recognize common fallacies.",
+        "The idea that money buys happiness is a fallacy."
+      ]
+    },
+    {
+      "word": "Paradox",
+      "pronunciation": "/ˈpærədɒks/",
+      "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+      "sentences": [
+        "It's a paradox that doing less can achieve more.",
+        "The statement presents a paradox.",
+        "Life is full of paradoxes."
+      ]
+    },
+    {
+      "word": "Dilemma",
+      "pronunciation": "/dɪˈlɛmə/",
+      "definition": "A situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.",
+      "sentences": [
+        "She faced a moral dilemma.",
+        "The company was in a difficult dilemma.",
+        "He found himself in a classic ethical dilemma."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "pronunciation": "/haɪˈpɒθɪsɪs/",
+      "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "sentences": [
+        "The scientist formed a hypothesis.",
+        "They tested their hypothesis with an experiment.",
+        "A hypothesis needs to be testable."
+      ]
+    },
+    {
+      "word": "Theory",
+      "pronunciation": "/ˈθɪəri/",
+      "definition": "A system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+      "sentences": [
+        "The theory of relativity is famous.",
+        "He developed a new theory about the universe.",
+        "The theory needs more evidence."
+      ]
+    },
+    {
+      "word": "Concept",
+      "pronunciation": "/ˈkɒnsɛpt/",
+      "definition": "An abstract idea; a general notion.",
+      "sentences": [
+        "The concept of freedom is important.",
+        "He explained the difficult concept clearly.",
+        "It's a new concept for many people."
+      ]
+    },
+    {
+      "word": "Abstract",
+      "pronunciation": "/ˈæbstrækt/",
+      "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+      "sentences": [
+        "Love is an abstract concept.",
+        "Abstract art can be hard to understand.",
+        "He discussed abstract ideas."
+      ]
+    },
+    {
+      "word": "Concrete",
+      "pronunciation": "/ˈkɒŋkriːt/",
+      "definition": "Existing in a material or physical form; not abstract.",
+      "sentences": [
+        "Give me a concrete example.",
+        "The building was made of concrete.",
+        "We need concrete evidence."
+      ]
+    },
+    {
+      "word": "Universal",
+      "pronunciation": "/ˌjuːnɪˈvɜːrsəl/",
+      "definition": "Relating to or affecting all people or things in the world or in a particular group.",
+      "sentences": [
+        "Human rights are considered universal.",
+        "The message of peace is universal.",
+        "Gravity is a universal force."
+      ]
+    },
+    {
+      "word": "Particular",
+      "pronunciation": "/pərˈtɪkjʊlər/",
+      "definition": "Used to single out an individual member of a specified group or class.",
+      "sentences": [
+        "He had a particular interest in philosophy.",
+        "This particular book is very old.",
+        "Pay attention to the particular details."
+      ]
+    },
+    {
+      "word": "Subjective",
+      "pronunciation": "/səbˈdʒɛktɪv/",
+      "definition": "Based on or influenced by personal feelings, tastes, or opinions.",
+      "sentences": [
+        "Beauty is subjective.",
+        "His opinion was very subjective.",
+        "Art appreciation is often subjective."
+      ]
+    },
+    {
+      "word": "Objective",
+      "pronunciation": "/əbˈdʒɛktɪv/",
+      "definition": "Not influenced by personal feelings or opinions in considering and representing facts.",
+      "sentences": [
+        "Try to be objective in your analysis.",
+        "The judge must remain objective.",
+        "Science aims for objective truth."
+      ]
+    },
+    {
+      "word": "Rational",
+      "pronunciation": "/ˈræʃənəl/",
+      "definition": "Based on or in accordance with reason or logic.",
+      "sentences": [
+        "Make a rational decision.",
+        "Humans are considered rational beings.",
+        "His explanation was very rational."
+      ]
+    },
+    {
+      "word": "Irrational",
+      "pronunciation": "/ɪˈræʃənəl/",
+      "definition": "Not logical or reasonable.",
+      "sentences": [
+        "His fear was completely irrational.",
+        "Don't make an irrational choice.",
+        "Irrational thoughts can be hard to control."
+      ]
+    },
+    {
+      "word": "Intuition",
+      "pronunciation": "/ˌɪntuˈɪʃən/",
+      "definition": "The ability to understand something immediately, without the need for conscious reasoning.",
+      "sentences": [
+        "She had a strong intuition that something was wrong.",
+        "Sometimes you just have to trust your intuition.",
+        "His intuition guided his decision."
+      ]
+    },
+    {
+      "word": "Conscience",
+      "pronunciation": "/ˈkɒnʃəns/",
+      "definition": "An inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.",
+      "sentences": [
+        "His conscience told him to apologize.",
+        "Always listen to your conscience.",
+        "A clear conscience allows you to sleep well."
+      ]
+    },
+    {
+      "word": "Moral Dilemma",
+      "pronunciation": "/ˈmɒrəl dɪˈlɛmə/",
+      "definition": "A conflict in which you have to choose between two or more actions and have moral reasons for choosing each action.",
+      "sentences": [
+        "The story presented a complex moral dilemma.",
+        "He faced a moral dilemma about telling the truth.",
+        "Moral dilemmas are often difficult to resolve."
+      ]
+    },
+    {
+      "word": "Ethical Framework",
+      "pronunciation": "/ˈɛθɪkəl ˈfreɪmwɜːrk/",
+      "definition": "A set of rules or principles that a person or group uses to decide what is right or wrong.",
+      "sentences": [
+        "The company adopted a new ethical framework.",
+        "Different philosophies offer different ethical frameworks.",
+        "An ethical framework helps guide decision-making."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Principle",
+      "pronunciation": "/ˈprɪnsəpəl/",
+      "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.",
+      "sentences": [
+        "She lives by strong moral principles.",
+        "The principle of equality is important.",
+        "He refused to compromise on his principles."
+      ]
+    },
+    {
+      "word": "Belief",
+      "pronunciation": "/bɪˈliːf/",
+      "definition": "An acceptance that a statement is true or that something exists.",
+      "sentences": [
+        "His belief in justice was strong.",
+        "Many people hold different religious beliefs.",
+        "Her belief in herself helped her succeed."
+      ]
+    },
+    {
+      "word": "Faith",
+      "pronunciation": "/feɪθ/",
+      "definition": "Strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof.",
+      "sentences": [
+        "She has strong faith in her religion.",
+        "He lost faith in the system.",
+        "Have faith that things will get better."
+      ]
+    },
+    {
+      "word": "Doubt",
+      "pronunciation": "/daʊt/",
+      "definition": "A feeling of uncertainty or lack of conviction.",
+      "sentences": [
+        "He had no doubt about her honesty.",
+        "She expressed her doubt about the plan.",
+        "It's natural to have doubts sometimes."
+      ]
+    },
+    {
+      "word": "Certainty",
+      "pronunciation": "/ˈsɜːrtənti/",
+      "definition": "Firm conviction that something is the case.",
+      "sentences": [
+        "There is no certainty in life.",
+        "He spoke with absolute certainty.",
+        "The scientist sought certainty in his results."
+      ]
+    },
+    {
+      "word": "Uncertainty",
+      "pronunciation": "/ʌnˈsɜːrtənti/",
+      "definition": "The state of being uncertain.",
+      "sentences": [
+        "The future is full of uncertainty.",
+        "They faced a period of great uncertainty.",
+        "Uncertainty can be unsettling."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Dogma",
+      "pronunciation": "/ˈdɒɡmə/",
+      "definition": "A principle or set of principles laid down by an authority as incontrovertibly true.",
+      "sentences": [
+        "He questioned the dogma of the old beliefs.",
+        "The church's dogma is very strict.",
+        "Dogma can sometimes prevent new ideas."
+      ]
+    },
+    {
+      "word": "Doctrine",
+      "pronunciation": "/ˈdɒktrɪn/",
+      "definition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
+      "sentences": [
+        "The political party's doctrine was clear.",
+        "Religious doctrine guides many people's lives.",
+        "He studied the doctrine of ancient philosophers."
+      ]
+    },
+    {
+      "word": "Agnosticism",
+      "pronunciation": "/æɡˈnɒstɪsɪzəm/",
+      "definition": "The view that the existence of God, of the divine or the supernatural is unknown or unknowable.",
+      "sentences": [
+        "Agnosticism is a position of doubt about God's existence.",
+        "He identifies as an agnostic.",
+        "Agnosticism is different from atheism."
+      ]
+    },
+    {
+      "word": "Atheism",
+      "pronunciation": "/ˈeɪθiɪzəm/",
+      "definition": "The disbelief or lack of belief in the existence of God or gods.",
+      "sentences": [
+        "Atheism is the rejection of belief in deities.",
+        "She openly expresses her atheism.",
+        "Atheism has a long history in philosophy."
+      ]
+    },
+    {
+      "word": "Theism",
+      "pronunciation": "/ˈθiːɪzəm/",
+      "definition": "Belief in the existence of a god or gods, especially belief in one God as creator and ruler of the universe, without rejection of revelation.",
+      "sentences": [
+        "Theism is a common religious belief.",
+        "He was raised in a family that practiced theism.",
+        "Theism involves belief in a divine being."
+      ]
+    },
+    {
+      "word": "Spirituality",
+      "pronunciation": "/ˌspɪrɪtʃuˈæləti/",
+      "definition": "The quality of being concerned with the human spirit or soul as opposed to material or worldly things.",
+      "sentences": [
+        "She found peace through spirituality.",
+        "Spirituality can be expressed in many ways.",
+        "He explored different paths of spirituality."
+      ]
+    },
+    {
+      "word": "Religion",
+      "pronunciation": "/rɪˈlɪdʒən/",
+      "definition": "The belief in and worship of a superhuman controlling power, especially a personal God or gods.",
+      "sentences": [
+        "Many people find comfort in religion.",
+        "He studies world religions.",
+        "Religion plays a big role in many cultures."
+      ]
+    },
+    {
+      "word": "Secularism",
+      "pronunciation": "/ˈsɛkjʊlərɪzəm/",
+      "definition": "The principle of separation of the state from religious institutions.",
+      "sentences": [
+        "Secularism ensures religious freedom for all.",
+        "Many modern states practice secularism.",
+        "Secularism aims for a neutral government."
+      ]
+    },
+    {
+      "word": "Humanism",
+      "pronunciation": "/ˈhjuːmənɪzəm/",
+      "definition": "An outlook or system of thought attaching prime importance to human rather than divine or supernatural matters.",
+      "sentences": [
+        "Humanism emphasizes human values and reason.",
+        "He believes in the principles of humanism.",
+        "Renaissance humanism focused on human potential."
+      ]
+    },
+    {
+      "word": "Existential Crisis",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkraɪsɪs/",
+      "definition": "A moment when individuals question the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "He went through an existential crisis in his twenties.",
+        "An existential crisis can be a challenging time.",
+        "The character in the novel faced an existential crisis."
+      ]
+    },
+    {
+      "word": "Cognition",
+      "pronunciation": "/kɒɡˈnɪʃən/",
+      "definition": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+      "sentences": [
+        "Cognition is the process of thinking and knowing.",
+        "Scientists study human cognition.",
+        "Learning improves cognition."
+      ]
+    },
+    {
+      "word": "Perception",
+      "pronunciation": "/pərˈsɛpʃən/",
+      "definition": "The ability to see, hear, or become aware of something through the senses.",
+      "sentences": [
+        "His perception of the situation was different.",
+        "Our perception shapes our reality.",
+        "Visual perception is how we see the world."
+      ]
+    },
+    {
+      "word": "Consciousness",
+      "pronunciation": "/ˈkɒnʃəsnəs/",
+      "definition": "The state of being aware of one's own existence and surroundings.",
+      "sentences": [
+        "He slowly regained consciousness after the accident.",
+        "The nature of consciousness is a deep philosophical topic.",
+        "Animals have a form of consciousness."
+      ]
+    },
+    {
+      "word": "Subconscious",
+      "pronunciation": "/ˌsʌbˈkɒnʃəs/",
+      "definition": "Of or concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+      "sentences": [
+        "Dreams often reveal our subconscious thoughts.",
+        "His subconscious fear affected his behavior.",
+        "The subconscious mind plays a role in our decisions."
+      ]
+    },
+    {
+      "word": "Unconscious",
+      "pronunciation": "/ʌnˈkɒnʃəs/",
+      "definition": "Not awake and aware of and responding to one's environment.",
+      "sentences": [
+        "He was knocked unconscious by the fall.",
+        "The unconscious mind holds hidden memories.",
+        "She was unconscious for several minutes."
+      ]
+    },
+    {
+      "word": "Self-awareness",
+      "pronunciation": "/ˌsɛlf əˈwɛərnəs/",
+      "definition": "Conscious knowledge of one's own character, feelings, motives, and desires.",
+      "sentences": [
+        "Self-awareness is key to personal growth.",
+        "Developing self-awareness takes time.",
+        "He showed great self-awareness in his reflection."
+      ]
+    },
+    {
+      "word": "Identity",
+      "pronunciation": "/aɪˈdɛntɪti/",
+      "definition": "The fact of being who or what a person or thing is.",
+      "sentences": [
+        "He struggled with his identity as a teenager.",
+        "Cultural identity is important for many communities.",
+        "She searched for her true identity."
+      ]
+    },
+    {
+      "word": "Personal Identity",
+      "pronunciation": "/ˈpɜːrsənəl aɪˈdɛntɪti/",
+      "definition": "The unique numerical identity of a person over time.",
+      "sentences": [
+        "Philosophers debate the nature of personal identity.",
+        "What makes up our personal identity?",
+        "Memory plays a role in personal identity."
+      ]
+    },
+    {
+      "word": "Existential Question",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkwɛstʃən/",
+      "definition": "A question about the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "Why are we here? That's an existential question.",
+        "Children often ask existential questions.",
+        "He pondered the great existential questions."
+      ]
+    },
+    {
+      "word": "Meaning of Life",
+      "pronunciation": "/ˈmiːnɪŋ əv laɪf/",
+      "definition": "The philosophical question concerning the significance of living or existence in general.",
+      "sentences": [
+        "Many philosophers have debated the meaning of life.",
+        "He searched for the meaning of life.",
+        "Is there a universal meaning of life?"
+      ]
+    },
+    {
+      "word": "Purpose",
+      "pronunciation": "/ˈpɜːrpəs/",
+      "definition": "The reason for which something is done or created or for which something exists.",
+      "sentences": [
+        "What is the purpose of life?",
+        "His purpose in life is to help others.",
+        "The purpose of the meeting was to make a decision."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Goodness",
+      "pronunciation": "/ˈɡʊdnəs/",
+      "definition": "The quality of being morally good or virtuous.",
+      "sentences": [
+        "Her actions were filled with goodness.",
+        "He saw the goodness in everyone.",
+        "The story emphasized the importance of goodness."
+      ]
+    },
+    {
+      "word": "Evil",
+      "pronunciation": "/ˈiːvl/",
+      "definition": "Profoundly immoral and wicked.",
+      "sentences": [
+        "The villain in the story was truly evil.",
+        "Many stories explore the fight between good and evil.",
+        "His actions were considered evil by the community."
+      ]
+    },
+    {
+      "word": "Right",
+      "pronunciation": "/raɪt/",
+      "definition": "Morally good, justified, or acceptable.",
+      "sentences": [
+        "It's important to do the right thing.",
+        "She always knows the right answer.",
+        "He fought for what he believed was right."
+      ]
+    },
+    {
+      "word": "Wrong",
+      "pronunciation": "/rɒŋ/",
+      "definition": "Not correct or true; incorrect.",
+      "sentences": [
+        "Stealing is wrong.",
+        "He knew he made the wrong choice.",
+        "It's wrong to hurt others."
+      ]
+    },
+    {
+      "word": "Duty",
+      "pronunciation": "/ˈdjuːti/",
+      "definition": "A moral or legal obligation; a responsibility.",
+      "sentences": [
+        "It is our duty to protect the environment.",
+        "He performed his duty faithfully.",
+        "Serving the community is a civic duty."
+      ]
+    },
+    {
+      "word": "Obligation",
+      "pronunciation": "/ˌɒblɪˈɡeɪʃən/",
+      "definition": "An act or course of action to which a person is morally or legally bound; a duty or commitment.",
+      "sentences": [
+        "He felt an obligation to help his family.",
+        "We have a moral obligation to care for the elderly.",
+        "Signing the contract created a legal obligation."
+      ]
+    },
+    {
+      "word": "Responsibility",
+      "pronunciation": "/rɪˌspɒnsəˈbɪləti/",
+      "definition": "The state or fact of having a duty to deal with something or of having control over someone.",
+      "sentences": [
+        "Taking responsibility for your actions is important.",
+        "Parents have a great responsibility.",
+        "He accepted the responsibility of leading the team."
+      ]
+    },
+    {
+      "word": "Consequence",
+      "pronunciation": "/ˈkɒnsɪkwəns/",
+      "definition": "A result or effect of an action or condition.",
+      "sentences": [
+        "Every action has a consequence.",
+        "The consequences of his decision were severe.",
+        "Think about the consequences before you act."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "pronunciation": "/ˈfriːdəm/",
+      "definition": "The state of being free; not controlled by others.",
+      "sentences": [
+        "People fought for their freedom.",
+        "Freedom of speech is important in a democracy.",
+        "He enjoyed the freedom of traveling alone."
+      ]
+    },
+    {
+      "word": "Liberty",
+      "pronunciation": "/ˈlɪbərti/",
+      "definition": "The state of being free within society from oppressive restrictions imposed by authority on one's way of life, behavior, or political views.",
+      "sentences": [
+        "The statue symbolizes liberty.",
+        "They cherished their liberty.",
+        "Liberty is a core value in many nations."
+      ]
+    },
+    {
+      "word": "Rights",
+      "pronunciation": "/raɪts/",
+      "definition": "Things that people are allowed to have or do, protected by law.",
+      "sentences": [
+        "All citizens have basic human rights.",
+        "The right to vote is an important right.",
+        "They protested for equal rights."
+      ]
+    },
+    {
+      "word": "Equality",
+      "pronunciation": "/ɪˈkwɒləti/",
+      "definition": "The state of being equal, especially in rights, status, or opportunities.",
+      "sentences": [
+        "They believe in equality for all people.",
+        "The movement fought for gender equality.",
+        "Equality means everyone is treated the same."
+      ]
+    },
+    {
+      "word": "Inequality",
+      "pronunciation": "/ˌɪnɪˈkwɒləti/",
+      "definition": "Lack of equality; disparity.",
+      "sentences": [
+        "Economic inequality is a global issue.",
+        "They are working to reduce inequality.",
+        "Inequality can lead to social problems."
+      ]
+    },
+    {
+      "word": "Fairness",
+      "pronunciation": "/ˈfɛərnəs/",
+      "definition": "Impartial and just treatment or behavior without favoritism or discrimination.",
+      "sentences": [
+        "Fairness is important in sports.",
+        "The judge ensured fairness in the trial.",
+        "She always acts with fairness."
+      ]
+    },
+    {
+      "word": "Bias",
+      "pronunciation": "/ˈbaɪəs/",
+      "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "sentences": [
+        "The news report showed clear bias.",
+        "Try to avoid bias in your judgment.",
+        "Everyone has some level of bias."
+      ]
+    },
+    {
+      "word": "Prejudice",
+      "pronunciation": "/ˈprɛdʒʊdɪs/",
+      "definition": "Preconceived opinion that is not based on reason or actual experience.",
+      "sentences": [
+        "Prejudice can lead to unfair treatment.",
+        "It's important to overcome prejudice.",
+        "Education can help reduce prejudice."
+      ]
+    },
+    {
+      "word": "Discrimination",
+      "pronunciation": "/dɪˌskrɪmɪˈneɪʃən/",
+      "definition": "The unjust or prejudicial treatment of different categories of people or things, especially on the grounds of race, age, or sex.",
+      "sentences": [
+        "Discrimination based on race is illegal.",
+        "They faced discrimination in the workplace.",
+        "Laws aim to prevent discrimination."
+      ]
+    },
+    {
+      "word": "Empathy",
+      "pronunciation": "/ˈɛmpəθi/",
+      "definition": "The ability to understand and share the feelings of another.",
+      "sentences": [
+        "Showing empathy is a sign of kindness.",
+        "Empathy helps us connect with others.",
+        "She felt great empathy for the victims."
+      ]
+    },
+    {
+      "word": "Sympathy",
+      "pronunciation": "/ˈsɪmpəθi/",
+      "definition": "Feelings of pity and sorrow for someone else's misfortune.",
+      "sentences": [
+        "He expressed his sympathy for her loss.",
+        "She felt great sympathy for the suffering animals.",
+        "Sympathy is a natural human emotion."
+      ]
+    },
+    {
+      "word": "Compassion",
+      "pronunciation": "/kəmˈpæʃən/",
+      "definition": "Sympathetic pity and concern for the sufferings or misfortunes of others.",
+      "sentences": [
+        "Her compassion for the poor was evident.",
+        "Compassion drives many humanitarian efforts.",
+        "He acted with great compassion."
+      ]
+    },
+    {
+      "word": "Altruism",
+      "pronunciation": "/ˈæltruɪzəm/",
+      "definition": "The belief in or practice of selfless concern for the well-being of others.",
+      "sentences": [
+        "His act of altruism saved many lives.",
+        "Altruism is a key concept in ethics.",
+        "Many charities are based on altruism."
+      ]
+    },
+    {
+      "word": "Egoism",
+      "pronunciation": "/ˈiːɡoʊɪzəm/",
+      "definition": "An ethical theory that treats self-interest as the foundation of morality.",
+      "sentences": [
+        "Some philosophers argue against egoism.",
+        "His decisions were driven by pure egoism.",
+        "Egoism focuses on personal gain."
+      ]
+    },
+    {
+      "word": "Hedonism",
+      "pronunciation": "/ˈhiːdənɪzəm/",
+      "definition": "The pursuit of pleasure; the ethical theory that pleasure (in the sense of the satisfaction of desires) is the highest good and proper aim of human life.",
+      "sentences": [
+        "Hedonism suggests that pleasure is the ultimate goal.",
+        "He lived a life of hedonism.",
+        "Some ancient Greek philosophers discussed hedonism."
+      ]
+    },
+    {
+      "word": "Stoicism",
+      "pronunciation": "/ˈstoʊɪsɪzəm/",
+      "definition": "The endurance of pain or hardship without the display of feelings and without complaint.",
+      "sentences": [
+        "His stoicism helped him through difficult times.",
+        "Stoicism teaches emotional resilience.",
+        "The ancient Stoics valued self-control."
+      ]
+    },
+    {
+      "word": "Rationalism",
+      "pronunciation": "/ˈræʃənəlɪzəm/",
+      "definition": "A belief or theory that opinions and actions should be based on reason and knowledge rather than on religious belief or emotional response.",
+      "sentences": [
+        "Rationalism emphasizes the power of human reason.",
+        "Descartes was a famous rationalist.",
+        "Rationalism seeks truth through logic."
+      ]
+    },
+    {
+      "word": "Empiricism",
+      "pronunciation": "/ɪmˈpɪrɪsɪzəm/",
+      "definition": "The theory that all knowledge is derived from sense-experience.",
+      "sentences": [
+        "Empiricism suggests that experience is the source of knowledge.",
+        "John Locke was a key figure in empiricism.",
+        "Scientific method is based on empiricism."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Idealism",
+      "pronunciation": "/aɪˈdiːəlɪzəm/",
+      "definition": "The practice of forming or pursuing ideals, especially unrealistically.",
+      "sentences": [
+        "His youthful idealism inspired many.",
+        "Idealism often clashes with reality.",
+        "She approached life with great idealism."
+      ]
+    },
+    {
+      "word": "Realism",
+      "pronunciation": "/ˈriːəlɪzəm/",
+      "definition": "The attitude or practice of accepting a situation as it is and being prepared to deal with it accordingly.",
+      "sentences": [
+        "We need to approach the problem with realism.",
+        "His realism helped him make practical decisions.",
+        "The artist painted with great realism."
+      ]
+    },
+    {
+      "word": "Existentialism",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəlɪzəm/",
+      "definition": "A philosophical theory or approach which emphasizes the existence of the individual person as a free and responsible agent determining their own development through acts of the will.",
+      "sentences": [
+        "Existentialism explores the meaning of individual existence.",
+        "Sartre was a prominent existentialist philosopher.",
+        "The novel delves into themes of existentialism."
+      ]
+    },
+    {
+      "word": "Absurdism",
+      "pronunciation": "/ˈæbsɜːrdɪzəm/",
+      "definition": "The belief that human beings exist in a purposeless, chaotic universe.",
+      "sentences": [
+        "Absurdism suggests that life has no inherent meaning.",
+        "Camus wrote about the philosophy of absurdism.",
+        "The play explored themes of absurdism."
+      ]
+    },
+    {
+      "word": "Nihilism",
+      "pronunciation": "/ˈnaɪhɪlɪzəm/",
+      "definition": "The rejection of all religious and moral principles, often in the belief that life is meaningless.",
+      "sentences": [
+        "Nihilism can lead to a sense of despair.",
+        "Some characters in the book expressed nihilism.",
+        "He struggled with feelings of nihilism."
+      ]
+    },
+    {
+      "word": "Utilitarianism",
+      "pronunciation": "/juːˌtɪlɪˈtɛəriənɪzəm/",
+      "definition": "The belief that the best moral action is the one that maximizes utility, often defined as maximizing overall well-being or happiness.",
+      "sentences": [
+        "Utilitarianism focuses on the greatest good for the greatest number.",
+        "The decision was made based on utilitarianism.",
+        "Bentham and Mill were proponents of utilitarianism."
+      ]
+    },
+    {
+      "word": "Deontology",
+      "pronunciation": "/ˌdiːɒnˈtɒlədʒi/",
+      "definition": "The study of the nature of duty and obligation; an ethical theory that emphasizes duties or rules.",
+      "sentences": [
+        "Deontology suggests that some actions are inherently right or wrong.",
+        "Kant's ethics are a classic example of deontology.",
+        "He followed a strict deontology in his professional life."
+      ]
+    },
+    {
+      "word": "Virtue Ethics",
+      "pronunciation": "/ˈvɜːrtʃuː ˈɛθɪks/",
+      "definition": "An ethical theory that emphasizes the role of character and virtue in moral philosophy rather than either doing one's duty or acting in order to bring about good consequences.",
+      "sentences": [
+        "Virtue ethics asks what kind of person you should be.",
+        "Aristotle's ethics are a form of virtue ethics.",
+        "Virtue ethics focuses on developing good habits."
+      ]
+    },
+    {
+      "word": "Relativism",
+      "pronunciation": "/ˈrɛlətɪvɪzəm/",
+      "definition": "The doctrine that knowledge, truth, and morality exist in relation to culture, society, or historical context, and are not absolute.",
+      "sentences": [
+        "Moral relativism suggests that right and wrong depend on context.",
+        "He argued against cultural relativism.",
+        "Relativism can lead to diverse viewpoints."
+      ]
+    },
+    {
+      "word": "Absolutism",
+      "pronunciation": "/ˈæbsəluːtɪzəm/",
+      "definition": "The acceptance of or belief in absolute principles in political, philosophical, ethical, or theological matters.",
+      "sentences": [
+        "Moral absolutism states that some actions are always wrong.",
+        "He believes in ethical absolutism.",
+        "Absolutism contrasts with relativism."
+      ]
+    },
+    {
+      "word": "Epistemology",
+      "pronunciation": "/ɪˌpɪstɪˈmɒlədʒi/",
+      "definition": "The theory of knowledge, especially with regard to its methods, validity, and scope.",
+      "sentences": [
+        "Epistemology explores how we know what we know.",
+        "She studied epistemology in her philosophy class.",
+        "The question of certainty is central to epistemology."
+      ]
+    },
+    {
+      "word": "Metaphysics",
+      "pronunciation": "/ˌmɛtəˈfɪzɪks/",
+      "definition": "The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.",
+      "sentences": [
+        "Metaphysics asks fundamental questions about reality.",
+        "He was interested in the metaphysics of existence.",
+        "Metaphysics is a deep and complex field."
+      ]
+    },
+    {
+      "word": "Aesthetics",
+      "pronunciation": "/ɛsˈθɛtɪks/",
+      "definition": "A set of principles concerned with the nature and appreciation of beauty, especially in art.",
+      "sentences": [
+        "The artist focused on the aesthetics of the design.",
+        "They discussed the aesthetics of the building.",
+        "Aesthetics helps us understand beauty."
+      ]
+    },
+    {
+      "word": "Logic",
+      "pronunciation": "/ˈlɒdʒɪk/",
+      "definition": "The study of reasoning, especially the validity of arguments.",
+      "sentences": [
+        "His argument followed a clear logic.",
+        "There's no logic in that statement.",
+        "We used logic to solve the puzzle."
+      ]
+    },
+    {
+      "word": "Argument",
+      "pronunciation": "/ˈɑːrɡjʊmənt/",
+      "definition": "A reason or set of reasons given with the aim of persuading others that an action or idea is right or wrong.",
+      "sentences": [
+        "She presented a strong argument for her case.",
+        "His argument was based on facts.",
+        "They had a heated argument about politics."
+      ]
+    },
+    {
+      "word": "Premise",
+      "pronunciation": "/ˈprɛmɪs/",
+      "definition": "A previous statement or proposition from which another is inferred or follows as a conclusion.",
+      "sentences": [
+        "His argument was based on a false premise.",
+        "The premise of the movie was interesting.",
+        "The first premise of the argument was accepted."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒən/",
+      "definition": "The end or finish of an event or process; a judgment or decision reached by reasoning.",
+      "sentences": [
+        "The conclusion of the story was surprising.",
+        "After much thought, he reached a conclusion.",
+        "The evidence led to a clear conclusion."
+      ]
+    },
+    {
+      "word": "Deduction",
+      "pronunciation": "/dɪˈdʌkʃən/",
+      "definition": "The inference of particular instances by reference to a general law or principle.",
+      "sentences": [
+        "Sherlock Holmes used deduction to solve crimes.",
+        "Deduction moves from general to specific.",
+        "Her deduction was correct."
+      ]
+    },
+    {
+      "word": "Induction",
+      "pronunciation": "/ɪnˈdʌkʃən/",
+      "definition": "The inference of a general law from particular instances.",
+      "sentences": [
+        "Scientific theories are often formed by induction.",
+        "Induction moves from specific to general.",
+        "He used induction to draw his conclusions."
+      ]
+    },
+    {
+      "word": "Fallacy",
+      "pronunciation": "/ˈfæləsi/",
+      "definition": "A mistaken belief, especially one based on unsound argument.",
+      "sentences": [
+        "His argument contained a logical fallacy.",
+        "It's important to recognize common fallacies.",
+        "The idea that money buys happiness is a fallacy."
+      ]
+    },
+    {
+      "word": "Paradox",
+      "pronunciation": "/ˈpærədɒks/",
+      "definition": "A seemingly absurd or self-contradictory statement or proposition that when investigated or explained may prove to be well founded or true.",
+      "sentences": [
+        "It's a paradox that doing less can achieve more.",
+        "The statement presents a paradox.",
+        "Life is full of paradoxes."
+      ]
+    },
+    {
+      "word": "Dilemma",
+      "pronunciation": "/dɪˈlɛmə/",
+      "definition": "A situation in which a difficult choice has to be made between two or more alternatives, especially equally undesirable ones.",
+      "sentences": [
+        "She faced a moral dilemma.",
+        "The company was in a difficult dilemma.",
+        "He found himself in a classic ethical dilemma."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "pronunciation": "/haɪˈpɒθɪsɪs/",
+      "definition": "A supposition or proposed explanation made on the basis of limited evidence as a starting point for further investigation.",
+      "sentences": [
+        "The scientist formed a hypothesis.",
+        "They tested their hypothesis with an experiment.",
+        "A hypothesis needs to be testable."
+      ]
+    },
+    {
+      "word": "Theory",
+      "pronunciation": "/ˈθɪəri/",
+      "definition": "A system of ideas intended to explain something, especially one based on general principles independent of the thing to be explained.",
+      "sentences": [
+        "The theory of relativity is famous.",
+        "He developed a new theory about the universe.",
+        "The theory needs more evidence."
+      ]
+    },
+    {
+      "word": "Concept",
+      "pronunciation": "/ˈkɒnsɛpt/",
+      "definition": "An abstract idea; a general notion.",
+      "sentences": [
+        "The concept of freedom is important.",
+        "He explained the difficult concept clearly.",
+        "It's a new concept for many people."
+      ]
+    },
+    {
+      "word": "Abstract",
+      "pronunciation": "/ˈæbstrækt/",
+      "definition": "Existing in thought or as an idea but not having a physical or concrete existence.",
+      "sentences": [
+        "Love is an abstract concept.",
+        "Abstract art can be hard to understand.",
+        "He discussed abstract ideas."
+      ]
+    },
+    {
+      "word": "Concrete",
+      "pronunciation": "/ˈkɒŋkriːt/",
+      "definition": "Existing in a material or physical form; not abstract.",
+      "sentences": [
+        "Give me a concrete example.",
+        "The building was made of concrete.",
+        "We need concrete evidence."
+      ]
+    },
+    {
+      "word": "Universal",
+      "pronunciation": "/ˌjuːnɪˈvɜːrsəl/",
+      "definition": "Relating to or affecting all people or things in the world or in a particular group.",
+      "sentences": [
+        "Human rights are considered universal.",
+        "The message of peace is universal.",
+        "Gravity is a universal force."
+      ]
+    },
+    {
+      "word": "Particular",
+      "pronunciation": "/pərˈtɪkjʊlər/",
+      "definition": "Used to single out an individual member of a specified group or class.",
+      "sentences": [
+        "He had a particular interest in philosophy.",
+        "This particular book is very old.",
+        "Pay attention to the particular details."
+      ]
+    },
+    {
+      "word": "Subjective",
+      "pronunciation": "/səbˈdʒɛktɪv/",
+      "definition": "Based on or influenced by personal feelings, tastes, or opinions.",
+      "sentences": [
+        "Beauty is subjective.",
+        "His opinion was very subjective.",
+        "Art appreciation is often subjective."
+      ]
+    },
+    {
+      "word": "Objective",
+      "pronunciation": "/əbˈdʒɛktɪv/",
+      "definition": "Not influenced by personal feelings or opinions in considering and representing facts.",
+      "sentences": [
+        "Try to be objective in your analysis.",
+        "The judge must remain objective.",
+        "Science aims for objective truth."
+      ]
+    },
+    {
+      "word": "Rational",
+      "pronunciation": "/ˈræʃənəl/",
+      "definition": "Based on or in accordance with reason or logic.",
+      "sentences": [
+        "Make a rational decision.",
+        "Humans are considered rational beings.",
+        "His explanation was very rational."
+      ]
+    },
+    {
+      "word": "Irrational",
+      "pronunciation": "/ɪˈræʃənəl/",
+      "definition": "Not logical or reasonable.",
+      "sentences": [
+        "His fear was completely irrational.",
+        "Don't make an irrational choice.",
+        "Irrational thoughts can be hard to control."
+      ]
+    },
+    {
+      "word": "Intuition",
+      "pronunciation": "/ˌɪntuˈɪʃən/",
+      "definition": "The ability to understand something immediately, without the need for conscious reasoning.",
+      "sentences": [
+        "She had a strong intuition that something was wrong.",
+        "Sometimes you just have to trust your intuition.",
+        "His intuition guided his decision."
+      ]
+    },
+    {
+      "word": "Conscience",
+      "pronunciation": "/ˈkɒnʃəns/",
+      "definition": "An inner feeling or voice viewed as acting as a guide to the rightness or wrongness of one's behavior.",
+      "sentences": [
+        "His conscience told him to apologize.",
+        "Always listen to your conscience.",
+        "A clear conscience allows you to sleep well."
+      ]
+    },
+    {
+      "word": "Moral Dilemma",
+      "pronunciation": "/ˈmɒrəl dɪˈlɛmə/",
+      "definition": "A conflict in which you have to choose between two or more actions and have moral reasons for choosing each action.",
+      "sentences": [
+        "The story presented a complex moral dilemma.",
+        "He faced a moral dilemma about telling the truth.",
+        "Moral dilemmas are often difficult to resolve."
+      ]
+    },
+    {
+      "word": "Ethical Framework",
+      "pronunciation": "/ˈɛθɪkəl ˈfreɪmwɜːrk/",
+      "definition": "A set of rules or principles that a person or group uses to decide what is right or wrong.",
+      "sentences": [
+        "The company adopted a new ethical framework.",
+        "Different philosophies offer different ethical frameworks.",
+        "An ethical framework helps guide decision-making."
+      ]
+    },
+    {
+      "word": "Value",
+      "pronunciation": "/ˈvæljuː/",
+      "definition": "The regard that something is held to deserve; the importance, worth, or usefulness of something.",
+      "sentences": [
+        "Honesty is a core value in our family.",
+        "They share similar values.",
+        "What do you value most in life?"
+      ]
+    },
+    {
+      "word": "Principle",
+      "pronunciation": "/ˈprɪnsəpəl/",
+      "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.",
+      "sentences": [
+        "She lives by strong moral principles.",
+        "The principle of equality is important.",
+        "He refused to compromise on his principles."
+      ]
+    },
+    {
+      "word": "Belief",
+      "pronunciation": "/bɪˈliːf/",
+      "definition": "An acceptance that a statement is true or that something exists.",
+      "sentences": [
+        "His belief in justice was strong.",
+        "Many people hold different religious beliefs.",
+        "Her belief in herself helped her succeed."
+      ]
+    },
+    {
+      "word": "Faith",
+      "pronunciation": "/feɪθ/",
+      "definition": "Strong belief in God or in the doctrines of a religion, based on spiritual apprehension rather than proof.",
+      "sentences": [
+        "She has strong faith in her religion.",
+        "He lost faith in the system.",
+        "Have faith that things will get better."
+      ]
+    },
+    {
+      "word": "Doubt",
+      "pronunciation": "/daʊt/",
+      "definition": "A feeling of uncertainty or lack of conviction.",
+      "sentences": [
+        "He had no doubt about her honesty.",
+        "She expressed her doubt about the plan.",
+        "It's natural to have doubts sometimes."
+      ]
+    },
+    {
+      "word": "Certainty",
+      "pronunciation": "/ˈsɜːrtənti/",
+      "definition": "Firm conviction that something is the case.",
+      "sentences": [
+        "There is no certainty in life.",
+        "He spoke with absolute certainty.",
+        "The scientist sought certainty in his results."
+      ]
+    },
+    {
+      "word": "Uncertainty",
+      "pronunciation": "/ʌnˈsɜːrtənti/",
+      "definition": "The state of being uncertain.",
+      "sentences": [
+        "The future is full of uncertainty.",
+        "They faced a period of great uncertainty.",
+        "Uncertainty can be unsettling."
+      ]
+    },
+    {
+      "word": "Skepticism",
+      "pronunciation": "/ˈskɛptɪsɪzəm/",
+      "definition": "Doubt as to the truth of something.",
+      "sentences": [
+        "He expressed skepticism about the new theory.",
+        "Healthy skepticism is important in science.",
+        "Her skepticism led her to question everything."
+      ]
+    },
+    {
+      "word": "Dogma",
+      "pronunciation": "/ˈdɒɡmə/",
+      "definition": "A principle or set of principles laid down by an authority as incontrovertibly true.",
+      "sentences": [
+        "He questioned the dogma of the old beliefs.",
+        "The church's dogma is very strict.",
+        "Dogma can sometimes prevent new ideas."
+      ]
+    },
+    {
+      "word": "Doctrine",
+      "pronunciation": "/ˈdɒktrɪn/",
+      "definition": "A belief or set of beliefs held and taught by a Church, political party, or other group.",
+      "sentences": [
+        "The political party's doctrine was clear.",
+        "Religious doctrine guides many people's lives.",
+        "He studied the doctrine of ancient philosophers."
+      ]
+    },
+    {
+      "word": "Agnosticism",
+      "pronunciation": "/æɡˈnɒstɪsɪzəm/",
+      "definition": "The view that the existence of God, of the divine or the supernatural is unknown or unknowable.",
+      "sentences": [
+        "Agnosticism is a position of doubt about God's existence.",
+        "He identifies as an agnostic.",
+        "Agnosticism is different from atheism."
+      ]
+    },
+    {
+      "word": "Atheism",
+      "pronunciation": "/ˈeɪθiɪzəm/",
+      "definition": "The disbelief or lack of belief in the existence of God or gods.",
+      "sentences": [
+        "Atheism is the rejection of belief in deities.",
+        "She openly expresses her atheism.",
+        "Atheism has a long history in philosophy."
+      ]
+    },
+    {
+      "word": "Theism",
+      "pronunciation": "/ˈθiːɪzəm/",
+      "definition": "Belief in the existence of a god or gods, especially belief in one God as creator and ruler of the universe, without rejection of revelation.",
+      "sentences": [
+        "Theism is a common religious belief.",
+        "He was raised in a family that practiced theism.",
+        "Theism involves belief in a divine being."
+      ]
+    },
+    {
+      "word": "Spirituality",
+      "pronunciation": "/ˌspɪrɪtʃuˈæləti/",
+      "definition": "The quality of being concerned with the human spirit or soul as opposed to material or worldly things.",
+      "sentences": [
+        "She found peace through spirituality.",
+        "Spirituality can be expressed in many ways.",
+        "He explored different paths of spirituality."
+      ]
+    },
+    {
+      "word": "Religion",
+      "pronunciation": "/rɪˈlɪdʒən/",
+      "definition": "The belief in and worship of a superhuman controlling power, especially a personal God or gods.",
+      "sentences": [
+        "Many people find comfort in religion.",
+        "He studies world religions.",
+        "Religion plays a big role in many cultures."
+      ]
+    },
+    {
+      "word": "Secularism",
+      "pronunciation": "/ˈsɛkjʊlərɪzəm/",
+      "definition": "The principle of separation of the state from religious institutions.",
+      "sentences": [
+        "Secularism ensures religious freedom for all.",
+        "Many modern states practice secularism.",
+        "Secularism aims for a neutral government."
+      ]
+    },
+    {
+      "word": "Humanism",
+      "pronunciation": "/ˈhjuːmənɪzəm/",
+      "definition": "An outlook or system of thought attaching prime importance to human rather than divine or supernatural matters.",
+      "sentences": [
+        "Humanism emphasizes human values and reason.",
+        "He believes in the principles of humanism.",
+        "Renaissance humanism focused on human potential."
+      ]
+    },
+    {
+      "word": "Existential Crisis",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkraɪsɪs/",
+      "definition": "A moment when individuals question the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "He went through an existential crisis in his twenties.",
+        "An existential crisis can be a challenging time.",
+        "The character in the novel faced an existential crisis."
+      ]
+    },
+    {
+      "word": "Cognition",
+      "pronunciation": "/kɒɡˈnɪʃən/",
+      "definition": "The mental action or process of acquiring knowledge and understanding through thought, experience, and the senses.",
+      "sentences": [
+        "Cognition is the process of thinking and knowing.",
+        "Scientists study human cognition.",
+        "Learning improves cognition."
+      ]
+    },
+    {
+      "word": "Perception",
+      "pronunciation": "/pərˈsɛpʃən/",
+      "definition": "The ability to see, hear, or become aware of something through the senses.",
+      "sentences": [
+        "His perception of the situation was different.",
+        "Our perception shapes our reality.",
+        "Visual perception is how we see the world."
+      ]
+    },
+    {
+      "word": "Consciousness",
+      "pronunciation": "/ˈkɒnʃəsnəs/",
+      "definition": "The state of being aware of one's own existence and surroundings.",
+      "sentences": [
+        "He slowly regained consciousness after the accident.",
+        "The nature of consciousness is a deep philosophical topic.",
+        "Animals have a form of consciousness."
+      ]
+    },
+    {
+      "word": "Subconscious",
+      "pronunciation": "/ˌsʌbˈkɒnʃəs/",
+      "definition": "Of or concerning the part of the mind of which one is not fully aware but which influences one's actions and feelings.",
+      "sentences": [
+        "Dreams often reveal our subconscious thoughts.",
+        "His subconscious fear affected his behavior.",
+        "The subconscious mind plays a role in our decisions."
+      ]
+    },
+    {
+      "word": "Unconscious",
+      "pronunciation": "/ʌnˈkɒnʃəs/",
+      "definition": "Not awake and aware of and responding to one's environment.",
+      "sentences": [
+        "He was knocked unconscious by the fall.",
+        "The unconscious mind holds hidden memories.",
+        "She was unconscious for several minutes."
+      ]
+    },
+    {
+      "word": "Self-awareness",
+      "pronunciation": "/ˌsɛlf əˈwɛərnəs/",
+      "definition": "Conscious knowledge of one's own character, feelings, motives, and desires.",
+      "sentences": [
+        "Self-awareness is key to personal growth.",
+        "Developing self-awareness takes time.",
+        "He showed great self-awareness in his reflection."
+      ]
+    },
+    {
+      "word": "Identity",
+      "pronunciation": "/aɪˈdɛntɪti/",
+      "definition": "The fact of being who or what a person or thing is.",
+      "sentences": [
+        "He struggled with his identity as a teenager.",
+        "Cultural identity is important for many communities.",
+        "She searched for her true identity."
+      ]
+    },
+    {
+      "word": "Personal Identity",
+      "pronunciation": "/ˈpɜːrsənəl aɪˈdɛntɪti/",
+      "definition": "The unique numerical identity of a person over time.",
+      "sentences": [
+        "Philosophers debate the nature of personal identity.",
+        "What makes up our personal identity?",
+        "Memory plays a role in personal identity."
+      ]
+    },
+    {
+      "word": "Existential Question",
+      "pronunciation": "/ˌɛɡzɪˈstɛnʃəl ˈkwɛstʃən/",
+      "definition": "A question about the meaning, purpose, or value of human existence.",
+      "sentences": [
+        "Why are we here? That's an existential question.",
+        "Children often ask existential questions.",
+        "He pondered the great existential questions."
+      ]
+    }
+  ]
+}

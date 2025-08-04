@@ -1,0 +1,564 @@
+{
+  "level": "Intermediate",
+  "module": "Grammar Expansion",
+  "lesson_number": 1,
+  "lesson_title": "Adverbs",
+  "objectives": [
+    "Modify verbs, adjectives, and other adverbs using adverbs effectively",
+    "Understand and use different types of adverbs (manner, place, time, frequency)",
+    "Form adverbs from adjectives correctly",
+    "Understand and use comparative and superlative forms of adverbs"
+  ],
+  "topics": [
+    {
+      "title": "Adverbs: Modifying Words",
+      "subtopics": [
+        {
+          "title": "What are Adverbs?",
+          "sections": [
+            {
+              "text": "Adverbs are words that describe verbs, adjectives, or other adverbs. They tell us how, when, where, or to what extent (how much) an action happens. Most adverbs are formed by adding '-ly' to an adjective (e.g., 'quick' becomes 'quickly'). For example, in 'He works carefully in the field', 'carefully' is an adverb telling us how he works.",
+              "examples": [
+                {
+                  "label": "How (describes verb)",
+                  "value": "She sings sweetly."
+                },
+                {
+                  "label": "When (describes verb)",
+                  "value": "I woke up early."
+                },
+                {
+                  "label": "Where (describes verb)",
+                  "value": "They played outside."
+                },
+                {
+                  "label": "How much (describes adjective)",
+                  "value": "He is very kind."
+                },
+                {
+                  "label": "How much (describes adverb)",
+                  "value": "She learns extremely fast."
+                },
+                {
+                  "label": "How (describes action)",
+                  "value": "The farmer plowed slowly."
+                },
+                {
+                  "label": "When (time)",
+                  "value": "We will meet soon."
+                },
+                {
+                  "label": "Where (place)",
+                  "value": "The children gathered here."
+                },
+                {
+                  "label": "How often (frequency)",
+                  "value": "She always helps others."
+                },
+                {
+                  "label": "To what extent (degree)",
+                  "value": "The water is almost boiling."
+                },
+                {
+                  "label": "How (describes verb)",
+                  "value": "The buffalo eats hungrily."
+                },
+                {
+                  "label": "When (time)",
+                  "value": "We eat dinner daily."
+                },
+                {
+                  "label": "Where (place)",
+                  "value": "The well is nearby."
+                },
+                {
+                  "label": "How much (describes adjective)",
+                  "value": "The mango is quite sweet."
+                },
+                {
+                  "label": "How (describes action)",
+                  "value": "He draws beautifully."
+                },
+                {
+                  "label": "How (describes action)",
+                  "value": "The old woman walks slowly."
+                },
+                {
+                  "label": "Where (describes verb)",
+                  "value": "The bird flew upwards."
+                },
+                {
+                  "label": "To what extent (describes adjective)",
+                  "value": "It is terribly cold today."
+                },
+                {
+                  "label": "How (describes verb)",
+                  "value": "The tortoise moved steadily."
+                },
+                {
+                  "label": "When (describes verb)",
+                  "value": "They will arrive later."
+                },
+                {
+                  "label": "How much (describes adverb)",
+                  "value": "He spoke very quietly."
+                }
+              ],
+              "usage_examples": [
+                "Adverbs tell us how an action happens.",
+                "They often end with '-ly'.",
+                "They can describe adjectives too.",
+                "They make sentences more exact.",
+                "Listen carefully for adverbs."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Adverb Formation (Adding '-ly', Irregular)",
+          "sections": [
+            {
+              "text": "Most adverbs of manner are formed by adding '-ly' to an adjective (e.g., 'slow' -> 'slowly'). If an adjective ends in 'y', change 'y' to 'i' and add '-ly' (e.g., 'happy' -> 'happily'). Some adverbs are irregular and do not follow this rule (e.g., 'good' -> 'well', 'fast' -> 'fast').",
+              "examples": [
+                {
+                  "label": "Adjective + ly",
+                  "value": "quick -> quickly (He runs quickly.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "careful -> carefully (Work carefully.)"
+                },
+                {
+                  "label": "Adjective ending in 'y'",
+                  "value": "easy -> easily (She learns easily.)"
+                },
+                {
+                  "label": "Adjective ending in 'y'",
+                  "value": "heavy -> heavily (It rained heavily.)"
+                },
+                {
+                  "label": "Irregular",
+                  "value": "good -> well (He plays well.)"
+                },
+                {
+                  "label": "Irregular",
+                  "value": "fast -> fast (The deer runs fast.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "bright -> brightly (The sun shines brightly.)"
+                },
+                {
+                  "label": "Adjective ending in 'le'",
+                  "value": "simple -> simply (Explain it simply.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "loud -> loudly (He spoke loudly.)"
+                },
+                {
+                  "label": "Adjective ending in 'y'",
+                  "value": "angry -> angrily (He shouted angrily.)"
+                },
+                {
+                  "label": "Irregular",
+                  "value": "hard -> hard (Farmers work hard.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "soft -> softly (The wind blew softly.)"
+                },
+                {
+                  "label": "Adjective ending in 'ic'",
+                  "value": "basic -> basically (Basically, we need water.)"
+                },
+                {
+                  "label": "Adjective ending in 'y'",
+                  "value": "busy -> busily (The bees buzzed busily.)"
+                },
+                {
+                  "label": "Irregular",
+                  "value": "late -> late (He arrived late.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "slow -> slowly (The bullock cart moved slowly.)"
+                },
+                {
+                  "label": "Adjective ending in 'y'",
+                  "value": "happy -> happily (They lived happily ever after.)"
+                },
+                {
+                  "label": "Adjective ending in 'e'",
+                  "value": "true -> truly (I am truly sorry.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "brave -> bravely (They fought bravely for their village.)"
+                },
+                {
+                  "label": "Adjective + ly",
+                  "value": "honest -> honestly (She answered the question honestly.)"
+                },
+                {
+                  "label": "Adjective ending in 'le'",
+                  "value": "terrible -> terribly (The journey was terribly long.)"
+                }
+              ],
+              "usage_examples": [
+                "Walk slowly, don't run.",
+                "Speak clearly so everyone understands.",
+                "He sang beautifully at the festival.",
+                "She drives fast but carefully.",
+                "He works hard in the field every day."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-1/p"
+              },
+              "table": {
+                "title": "Adjective to Adverb Formation",
+                "headers": ["Adjective", "Adverb", "Rule"],
+                "rows": [
+                  ["slow", "slowly", "Add -ly"],
+                  ["happy", "happily", "Change y to i, add -ly"],
+                  ["gentle", "gently", "Change le to ly"],
+                  ["good", "well", "Irregular"],
+                  ["fast", "fast", "Same form"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Types of Adverbs (Manner, Place, Time, Frequency)",
+          "sections": [
+            {
+              "text": "Adverbs answer different questions. Adverbs of Manner tell how something is done (e.g., bravely, quickly). Adverbs of Place tell where (e.g., here, outside). Adverbs of Time tell when (e.g., now, yesterday). Adverbs of Frequency tell how often (e.g., always, sometimes).",
+              "examples": [
+                {
+                  "label": "Manner (How)",
+                  "value": "He spoke softly. (Words: softly, bravely, quickly, cheerfully, patiently, honestly, anxiously)"
+                },
+                {
+                  "label": "Place (Where)",
+                  "value": "The children are playing outside. (Words: outside, here, nearby, everywhere, somewhere, there, towards)"
+                },
+                {
+                  "label": "Time (When)",
+                  "value": "We will eat dinner soon. (Words: soon, yesterday, tomorrow, now, last month, recently, already, then)"
+                },
+                {
+                  "label": "Frequency (How often)",
+                  "value": "I always wake up early. (Words: always, sometimes, often, rarely, daily, never, usually, seldom)"
+                },
+                {
+                  "label": "Manner",
+                  "value": "She smiled cheerfully."
+                },
+                {
+                  "label": "Place",
+                  "value": "They live nearby."
+                },
+                {
+                  "label": "Time",
+                  "value": "He visited us yesterday."
+                },
+                {
+                  "label": "Frequency",
+                  "value": "We sometimes go to the city."
+                },
+                {
+                  "label": "Manner",
+                  "value": "The old man walked slowly to the well."
+                },
+                {
+                  "label": "Place",
+                  "value": "Birds fly everywhere in the sky."
+                },
+                {
+                  "label": "Time",
+                  "value": "The festival will begin tomorrow."
+                },
+                {
+                  "label": "Frequency",
+                  "value": "My father often works till late in the field."
+                },
+                {
+                  "label": "Manner",
+                  "value": "He listened patiently to the old man's story."
+                },
+                {
+                  "label": "Place",
+                  "value": "The cattle are grazing somewhere in the pasture."
+                },
+                {
+                  "label": "Time",
+                  "value": "The crops were harvested last month."
+                },
+                {
+                  "label": "Frequency",
+                  "value": "They rarely visit the big market now."
+                },
+                {
+                  "label": "Manner",
+                  "value": "The children waited anxiously for the rain."
+                },
+                {
+                  "label": "Place",
+                  "value": "The dog ran towards the farm."
+                },
+                {
+                  "label": "Time",
+                  "value": "I saw him recently in the market."
+                },
+                {
+                  "label": "Frequency",
+                  "value": "He seldom complains about the hard work."
+                },
+                {
+                  "label": "Time",
+                  "value": "She has already finished her chores."
+                }
+              ],
+              "usage_examples": [
+                "He sings loudly.",
+                "Come here quickly.",
+                "We play daily in the evening.",
+                "She never forgets her duties.",
+                "The rain falls gently on the leaves."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Position of Adverbs",
+          "sections": [
+            {
+              "text": "The position of adverbs can change. Adverbs of manner usually go after the main verb or after the object. Adverbs of place and time usually go at the end of the sentence. Adverbs of frequency often go before the main verb, but after 'be' verbs.",
+              "examples": [
+                {
+                  "label": "Manner (after verb)",
+                  "value": "He works carefully."
+                },
+                {
+                  "label": "Manner (after object)",
+                  "value": "He does his work carefully."
+                },
+                {
+                  "label": "Place (at end)",
+                  "value": "We played outside."
+                },
+                {
+                  "label": "Time (at end)",
+                  "value": "I will go tomorrow."
+                },
+                {
+                  "label": "Frequency (before main verb)",
+                  "value": "She always helps me."
+                },
+                {
+                  "label": "Frequency (after 'be' verb)",
+                  "value": "He is always happy."
+                },
+                {
+                  "label": "Manner (after verb)",
+                  "value": "The dog barked loudly."
+                },
+                {
+                  "label": "Place (at end)",
+                  "value": "Put the basket here."
+                },
+                {
+                  "label": "Time (at end)",
+                  "value": "The festival ended last week."
+                },
+                {
+                  "label": "Frequency (before main verb)",
+                  "value": "They often visit the temple."
+                },
+                {
+                  "label": "Manner (after object)",
+                  "value": "He wrote the letter neatly."
+                },
+                {
+                  "label": "Place (at beginning, for emphasis)",
+                  "value": "Downstairs, the family was having dinner."
+                },
+                {
+                  "label": "Time (at beginning, for emphasis)",
+                  "value": "Yesterday, we went to the market."
+                },
+                {
+                  "label": "Frequency (with modal verb)",
+                  "value": "You should always respect elders."
+                },
+                {
+                  "label": "Manner (describing another adverb)",
+                  "value": "She drives surprisingly well."
+                },
+                {
+                  "label": "Time (at beginning)",
+                  "value": "Finally, the rains came."
+                },
+                {
+                  "label": "Frequency (before main verb)",
+                  "value": "I usually drink tea in the morning."
+                },
+                {
+                  "label": "Manner (after object)",
+                  "value": "She waters the plants regularly."
+                },
+                {
+                  "label": "Frequency (after 'be' verb)",
+                  "value": "You are never on time."
+                },
+                {
+                  "label": "Place (at end)",
+                  "value": "They built their hut nearby."
+                }
+              ],
+              "usage_examples": [
+                "He drives slowly on the village road.",
+                "Come here, please.",
+                "We meet friends every Sunday.",
+                "She often helps her mother.",
+                "They rarely visit the city."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Comparative and Superlative Adverbs",
+          "sections": [
+            {
+              "text": "Comparative adverbs compare two actions. For short adverbs (often same form as adjective or ending in -ly), we add '-er' or use 'more'. Superlative adverbs compare three or more actions, using '-est' or 'most'. Irregular adverbs also exist (e.g., 'well' -> 'better' -> 'best').",
+              "examples": [
+                {
+                  "label": "Comparative (short)",
+                  "value": "He runs faster than me."
+                },
+                {
+                  "label": "Superlative (short)",
+                  "value": "He runs the fastest in our class."
+                },
+                {
+                  "label": "Comparative (long, +more)",
+                  "value": "She sings more beautifully than her sister."
+                },
+                {
+                  "label": "Superlative (long, +most)",
+                  "value": "She sings the most beautifully of all."
+                },
+                {
+                  "label": "Irregular (well)",
+                  "value": "You speak English better now."
+                },
+                {
+                  "label": "Irregular (well)",
+                  "value": "Of all the students, he speaks English the best."
+                },
+                {
+                  "label": "Comparative (short)",
+                  "value": "He came earlier than expected."
+                },
+                {
+                  "label": "Superlative (short)",
+                  "value": "She arrived the earliest today."
+                },
+                {
+                  "label": "Comparative (long, +more)",
+                  "value": "The new machine works more efficiently."
+                },
+                {
+                  "label": "Superlative (long, +most)",
+                  "value": "Of all the machines, this one works the most efficiently."
+                },
+                {
+                  "label": "Irregular (badly -> worse)",
+                  "value": "The old engine runs worse than the new one."
+                },
+                {
+                  "label": "Irregular (badly -> worst)",
+                  "value": "This car runs the worst of all."
+                },
+                {
+                  "label": "Comparative (short)",
+                  "value": "He jumps higher than anyone else."
+                },
+                {
+                  "label": "Superlative (short)",
+                  "value": "He jumps the highest in the village sports."
+                },
+                {
+                  "label": "Comparative (long, +more)",
+                  "value": "He drives more carefully now after the accident."
+                },
+                {
+                  "label": "Superlative (long, +most)",
+                  "value": "Among all the drivers, he drives the most carefully."
+                },
+                {
+                  "label": "Comparative (short)",
+                  "value": "You need to work harder to succeed."
+                },
+                {
+                  "label": "Superlative (short)",
+                  "value": "She works the hardest in the whole village."
+                },
+                {
+                  "label": "Irregular (far -> further)",
+                  "value": "Can you throw the stone further?"
+                },
+                {
+                  "label": "Irregular (far -> furthest)",
+                  "value": "He threw the stone the furthest of all the children."
+                },
+                {
+                  "label": "Comparative (long, +more)",
+                  "value": "Please speak more clearly."
+                },
+                {
+                  "label": "Superlative (long, +most)",
+                  "value": "He explained the problem the most clearly."
+                }
+              ],
+              "usage_examples": [
+                "He works harder than his brother.",
+                "She finished her work the fastest.",
+                "You should speak more clearly.",
+                "Of all the birds, this one sings the most sweetly.",
+                "He always arrives latest for the gathering."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-1/p"
+              },
+              "table": {
+                "title": "Common Comparative and Superlative Adverbs",
+                "headers": ["Adverb", "Comparative", "Superlative"],
+                "rows": [
+                  ["fast", "faster", "fastest"],
+                  ["hard", "harder", "hardest"],
+                  ["early", "earlier", "earliest"],
+                  ["quickly", "more quickly", "most quickly"],
+                  ["beautifully", "more beautifully", "most beautifully"],
+                  ["well", "better", "best"],
+                  ["badly", "worse", "worst"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

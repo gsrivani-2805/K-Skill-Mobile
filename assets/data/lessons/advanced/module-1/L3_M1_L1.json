@@ -1,0 +1,602 @@
+{
+  "level": "Advanced",
+  "module": "Grammar Mastery",
+  "lesson_number": 1,
+  "lesson_title": "Direct and Indirect Speech",
+  "objectives": [
+    "Understand the difference between direct and indirect speech",
+    "Learn the rules for converting direct speech into indirect speech",
+    "Practice changing tenses, pronouns, and time/place words correctly",
+    "Apply conversion rules to different sentence types like statements, questions, and commands"
+  ],
+  "topics": [
+    {
+      "title": "Introduction to Direct and Indirect Speech",
+      "subtopics": [
+        {
+          "title": "What is Direct Speech?",
+          "sections": [
+            {
+              "text": "Direct Speech is the exact words someone said. We use quotation marks ( \"...\" ) to show the speaker's actual words. It's like quoting someone directly. The verb that introduces the speech, like 'said' or 'asked', is called the reporting verb.",
+              "examples": [
+                {
+                  "label": "Simple Statement",
+                  "value": "He said, \"I am going to the market.\""
+                },
+                {
+                  "label": "Question",
+                  "value": "She asked, \"Where are you going?\""
+                },
+                {
+                  "label": "Command",
+                  "value": "The teacher said, \"Open your books.\""
+                },
+                {
+                  "label": "Statement with name",
+                  "value": "Raju said, \"My father is a farmer.\""
+                },
+                {
+                  "label": "To a person",
+                  "value": "She said to me, \"You are my best friend.\""
+                },
+                {
+                  "label": "Simple fact",
+                  "value": "The farmer said, \"The crops need rain.\""
+                },
+                {
+                  "label": "Question about time",
+                  "value": "He asked, \"What time is it?\""
+                },
+                {
+                  "label": "Request",
+                  "value": "My brother said to me, \"Please help me with my homework.\""
+                },
+                {
+                  "label": "Future plan",
+                  "value": "They said, \"We will visit the temple tomorrow.\""
+                },
+                {
+                  "label": "Past event",
+                  "value": "She said, \"I saw a snake yesterday.\""
+                },
+                {
+                  "label": "Ability",
+                  "value": "He said, \"I can swim across the river.\""
+                },
+                {
+                  "label": "Opinion",
+                  "value": "The villager said, \"This year's harvest is good.\""
+                },
+                {
+                  "label": "Shouting",
+                  "value": "The man shouted, \"Help! There is a fire!\""
+                },
+                {
+                  "label": "Replying",
+                  "value": "The student replied, \"I have finished my work.\""
+                },
+                {
+                  "label": "Expressing a feeling",
+                  "value": "Mother said, \"I am very proud of you.\""
+                },
+                {
+                  "label": "A universal truth",
+                  "value": "The science teacher said, \"Water boils at 100 degrees Celsius.\""
+                }
+              ],
+              "usage_examples": [
+                "Tip: Always use quotation marks to enclose the speaker's exact words.",
+                "Tip: The first word inside the quotation marks always starts with a capital letter.",
+                "Tip: A comma is usually placed before the starting quotation mark.",
+                "Tip: Direct speech makes stories and conversations feel more real and immediate."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "What is Indirect Speech?",
+          "sections": [
+            {
+              "text": "Indirect Speech (also called Reported Speech) is when we report what someone said without using their exact words. We do not use quotation marks. We often use the word 'that' to introduce the reported words. In indirect speech, tenses, pronouns, and words showing time and place often change.",
+              "examples": [
+                {
+                  "label": "Direct",
+                  "value": "He said, \"I am going to the market.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "He said that he was going to the market."
+                },
+                {
+                  "label": "Direct",
+                  "value": "She asked, \"Where are you going?\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "She asked where I was going."
+                },
+                {
+                  "label": "Direct",
+                  "value": "The teacher said, \"Open your books.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "The teacher ordered the students to open their books."
+                },
+                {
+                  "label": "Direct",
+                  "value": "Raju said, \"My father is a farmer.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "Raju said that his father was a farmer."
+                },
+                {
+                  "label": "Direct",
+                  "value": "She said to me, \"You are my best friend.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "She told me that I was her best friend."
+                },
+                {
+                  "label": "Direct",
+                  "value": "They said, \"We will visit the temple tomorrow.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "They said that they would visit the temple the next day."
+                },
+                {
+                  "label": "Direct",
+                  "value": "The children said, \"We are playing now.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "The children said that they were playing then."
+                },
+                {
+                  "label": "Direct",
+                  "value": "He said, \"I can help you.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "He said that he could help me."
+                }
+              ],
+              "usage_examples": [
+                "Tip: Quotation marks are removed in indirect speech.",
+                "Tip: The word 'that' is often used to connect the reporting verb with the reported speech.",
+                "Tip: The tense of the verb in the reported speech usually changes (moves back in time).",
+                "Tip: Pronouns and time/place words also change to reflect the new perspective.",
+                "Tip: Indirect speech is very common when telling a story or reporting a past conversation."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Key Conversion Rules",
+      "subtopics": [
+        {
+          "title": "Changing Tenses",
+          "sections": [
+            {
+              "text": "When the reporting verb (e.g., 'said', 'told') is in the past tense, the tense of the verb inside the quotation marks usually changes. This is called 'backshifting'. For example, Present Simple becomes Past Simple. However, if the reported statement is a universal truth or a fact, the tense does not change.",
+              "examples": [
+                {
+                  "label": "Present Simple -> Past Simple",
+                  "value": "He said, \"I work in a field.\" -> He said that he worked in a field."
+                },
+                {
+                  "label": "Present Simple -> Past Simple",
+                  "value": "She said, \"My sister cooks well.\" -> She said that her sister cooked well."
+                },
+                {
+                  "label": "Present Continuous -> Past Continuous",
+                  "value": "She said, \"I am washing clothes.\" -> She said that she was washing clothes."
+                },
+                {
+                  "label": "Present Continuous -> Past Continuous",
+                  "value": "The boys said, \"We are playing cricket.\" -> The boys said that they were playing cricket."
+                },
+                {
+                  "label": "Present Perfect -> Past Perfect",
+                  "value": "They said, \"We have finished our work.\" -> They said that they had finished their work."
+                },
+                {
+                  "label": "Present Perfect -> Past Perfect",
+                  "value": "She said, \"He has not come yet.\" -> She said that he had not come yet."
+                },
+                {
+                  "label": "Past Simple -> Past Perfect",
+                  "value": "He said, \"I bought a cow yesterday.\" -> He said that he had bought a cow the previous day."
+                },
+                {
+                  "label": "Past Simple -> Past Perfect",
+                  "value": "She said, \"The train arrived on time.\" -> She said that the train had arrived on time."
+                },
+                {
+                  "label": "Future (will) -> Conditional (would)",
+                  "value": "She said, \"I will go to the city.\" -> She said that she would go to the city."
+                },
+                {
+                  "label": "Can -> Could",
+                  "value": "He said, \"I can swim.\" -> He said that he could swim."
+                },
+                {
+                  "label": "May -> Might",
+                  "value": "She said, \"It may rain today.\" -> She said that it might rain that day."
+                },
+                {
+                  "label": "Must -> Had to",
+                  "value": "He said, \"I must complete my homework.\" -> He said that he had to complete his homework."
+                },
+                {
+                  "label": "Universal Truth (No change)",
+                  "value": "The teacher said, \"The sun rises in the east.\" -> The teacher said that the sun rises in the east."
+                },
+                {
+                  "label": "Habitual Fact (No change)",
+                  "value": "He said, \"I walk for an hour every morning.\" -> He said that he walks for an hour every morning."
+                }
+              ],
+              "usage_examples": [
+                "Tip: Think of it as 'moving one step back' in time.",
+                "Tip: If the reporting verb is in the present (e.g., 'He says'), the tense does not change.",
+                "Tip: Universal truths, scientific facts, and habits remain in the present tense."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Tense Changes in Indirect Speech",
+                "headers": ["Direct Speech Tense", "Indirect Speech Tense"],
+                "rows": [
+                  ["Present Simple (is/am/are, go/goes)", "Past Simple (was/were, went)"],
+                  ["Present Continuous (is/am/are going)", "Past Continuous (was/were going)"],
+                  ["Present Perfect (has/have gone)", "Past Perfect (had gone)"],
+                  ["Past Simple (went)", "Past Perfect (had gone)"],
+                  ["Future (will go)", "Conditional (would go)"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Changing Pronouns",
+          "sections": [
+            {
+              "text": "Pronouns in direct speech change in indirect speech to match the subject and object of the sentence. First-person pronouns (I, me, my, we, us, our) change according to the subject of the reporting verb. Second-person pronouns (you, your) change according to the object of the reporting verb.",
+              "examples": [
+                {
+                  "label": "First Person (I -> he/she)",
+                  "value": "Ram said, \"I am busy.\" -> Ram said that he was busy."
+                },
+                {
+                  "label": "First Person (I -> he/she)",
+                  "value": "Geeta said, \"I am writing a letter.\" -> Geeta said that she was writing a letter."
+                },
+                {
+                  "label": "First Person (my -> his/her)",
+                  "value": "Sita said, \"I love my village.\" -> Sita said that she loved her village."
+                },
+                {
+                  "label": "First Person (me -> him/her)",
+                  "value": "He said, \"My father gave me a pen.\" -> He said that his father had given him a pen."
+                },
+                {
+                  "label": "First Person (we -> they)",
+                  "value": "They said, \"We are playing.\" -> They said that they were playing."
+                },
+                {
+                  "label": "First Person (our -> their)",
+                  "value": "The villagers said, \"We love our village.\" -> The villagers said that they loved their village."
+                },
+                {
+                  "label": "Second Person (you -> me/him/her)",
+                  "value": "He said to me, \"You are kind.\" -> He told me that I was kind."
+                },
+                {
+                  "label": "Second Person (you -> me/him/her)",
+                  "value": "She said to him, \"You look tired.\" -> She told him that he looked tired."
+                },
+                {
+                  "label": "Second Person (your -> my/his/her)",
+                  "value": "She said to him, \"I have your book.\" -> She told him that she had his book."
+                },
+                {
+                  "label": "Second Person (your -> my/his/her)",
+                  "value": "The teacher said to me, \"Your work is good.\" -> The teacher told me that my work was good."
+                },
+                {
+                  "label": "Mixed Pronouns",
+                  "value": "I said to you, \"I will help you.\" -> I told you that I would help you."
+                },
+                {
+                  "label": "Mixed Pronouns 2",
+                  "value": "She said to them, \"You can use my pen.\" -> She told them that they could use her pen."
+                }
+              ],
+              "usage_examples": [
+                "Tip: Always think from the perspective of the person reporting the speech.",
+                "Tip: 'I' changes to 'he' or 'she' depending on who said it.",
+                "Tip: 'You' changes depending on who the speech was directed to.",
+                "Tip: Third-person pronouns (he, she, it, they) do not change."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Changing Time and Place Words",
+          "sections": [
+            {
+              "text": "Words that show nearness in time and place in direct speech change to words that show distance in indirect speech. This is because the time and place have changed from when the words were originally spoken.",
+              "examples": [
+                {
+                  "label": "now -> then",
+                  "value": "He said, \"I am busy now.\" -> He said that he was busy then."
+                },
+                {
+                  "label": "today -> that day",
+                  "value": "She said, \"I will come today.\" -> She said that she would come that day."
+                },
+                {
+                  "label": "tonight -> that night",
+                  "value": "He said, \"We are having a party tonight.\" -> He said that they were having a party that night."
+                },
+                {
+                  "label": "yesterday -> the previous day / the day before",
+                  "value": "They said, \"We played a match yesterday.\" -> They said that they had played a match the previous day."
+                },
+                {
+                  "label": "tomorrow -> the next day / the following day",
+                  "value": "He said, \"I will leave tomorrow.\" -> He said that he would leave the next day."
+                },
+                {
+                  "label": "last week -> the previous week",
+                  "value": "She said, \"I was in the city last week.\" -> She said that she had been in the city the previous week."
+                },
+                {
+                  "label": "next month -> the following month",
+                  "value": "They said, \"The exams will start next month.\" -> They said that the exams would start the following month."
+                },
+                {
+                  "label": "here -> there",
+                  "value": "She said, \"Come here.\" -> She ordered me to go there."
+                },
+                {
+                  "label": "this -> that",
+                  "value": "He said, \"I like this book.\" -> He said that he liked that book."
+                },
+                {
+                  "label": "these -> those",
+                  "value": "She said, \"I want these mangoes.\" -> She said that she wanted those mangoes."
+                },
+                {
+                  "label": "ago -> before",
+                  "value": "He said, \"I met him two days ago.\" -> He said that he had met him two days before."
+                },
+                {
+                  "label": "thus -> so",
+                  "value": "He said, \"Thus, I passed the exam.\" -> He said that he had passed the exam so."
+                }
+              ],
+              "usage_examples": [
+                "Tip: Think of 'here and now' becoming 'there and then'.",
+                "Tip: These changes are logical because you are reporting the speech at a later time and possibly a different place."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Changes in Time and Place Words",
+                "headers": ["Direct Speech", "Indirect Speech"],
+                "rows": [
+                  ["now", "then"],
+                  ["today", "that day"],
+                  ["tonight", "that night"],
+                  ["yesterday", "the previous day / the day before"],
+                  ["tomorrow", "the next day / the following day"],
+                  ["here", "there"],
+                  ["this", "that"],
+                  ["these", "those"],
+                  ["ago", "before"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Converting Different Sentence Types",
+      "subtopics": [
+        {
+          "title": "Converting Statements",
+          "sections": [
+            {
+              "text": "To convert a statement (an assertive sentence), change the reporting verb 'said to' to 'told'. If there is no object after 'said', it remains 'said'. Use the conjunction 'that' to connect the reporting clause and the reported speech. Then apply all the general rules of changing tenses, pronouns, and time/place words.",
+              "examples": [
+                {
+                  "label": "Direct",
+                  "value": "The farmer said, \"I am sowing the seeds.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "The farmer said that he was sowing the seeds."
+                },
+                {
+                  "label": "Direct",
+                  "value": "My mother said to me, \"You should work hard.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "My mother advised me that I should work hard."
+                },
+                {
+                  "label": "Direct",
+                  "value": "The boy said, \"I have done my homework.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "The boy said that he had done his homework."
+                },
+                {
+                  "label": "Direct",
+                  "value": "She said to her friend, \"I will wait for you here.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "She told her friend that she would wait for her there."
+                },
+                {
+                  "label": "Direct",
+                  "value": "Ravi said, \"I went to the fair yesterday.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "Ravi said that he had gone to the fair the previous day."
+                },
+                {
+                  "label": "Direct",
+                  "value": "The children said, \"Our teacher is very kind.\""
+                },
+                {
+                  "label": "Indirect",
+                  "value": "The children said that their teacher was very kind."
+                }
+              ],
+              "usage_examples": [
+                "Tip: Remember, 'said to' changes to 'told'. You cannot say 'told to me'.",
+                "Tip: The use of 'that' is sometimes optional in informal English, but it's good practice to use it."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Converting Questions",
+          "sections": [
+            {
+              "text": "To convert a question (an interrogative sentence), the reporting verb is changed to 'asked' or 'enquired'. The question is changed into a statement (subject comes before the verb). For Yes/No questions, we use 'if' or 'whether'. For Wh-questions (what, where, when, who, why, how), we use the same question word to connect. The question mark (?) is removed.",
+              "examples": [
+                {
+                  "label": "Yes/No Question",
+                  "value": "He said to me, \"Are you a student?\" -> He asked me if I was a student."
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "She said, \"Can you help me?\" -> She asked if I could help her."
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "The boy said to the girl, \"Do you live here?\" -> The boy asked the girl if she lived there."
+                },
+                {
+                  "label": "Wh-Question",
+                  "value": "The man asked, \"Where is the market?\" -> The man enquired where the market was."
+                },
+                {
+                  "label": "Wh-Question",
+                  "value": "I said to him, \"Why are you late?\" -> I asked him why he was late."
+                },
+                {
+                  "label": "Wh-Question",
+                  "value": "The teacher asked the boy, \"What is your name?\" -> The teacher asked the boy what his name was."
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "He said, \"Will you come tomorrow?\" -> He asked if I would come the next day."
+                },
+                {
+                  "label": "Wh-Question",
+                  "value": "She said to me, \"How did you solve this problem?\" -> She asked me how I had solved that problem."
+                },
+                {
+                  "label": "Yes/No Question",
+                  "value": "Rina said to me, \"Have you seen this movie?\" -> Rina asked me if I had seen that movie."
+                }
+              ],
+              "usage_examples": [
+                "Tip: The biggest change is turning the question into a statement. The verb comes after the subject (e.g., 'where the market was', not 'where was the market').",
+                "Tip: 'if' is more common in everyday speech; 'whether' is slightly more formal.",
+                "Tip: No question mark is used at the end of the indirect question."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Converting Commands and Requests",
+          "sections": [
+            {
+              "text": "To convert commands and requests (imperative sentences), the reporting verb is changed to a word that shows the mood, like 'ordered', 'commanded', 'requested', 'advised', 'suggested', 'forbade', etc. We use the infinitive 'to' + the base form of the verb. For negative commands ('Don't...'), we use 'not to'.",
+              "examples": [
+                {
+                  "label": "Command",
+                  "value": "The captain said to the soldiers, \"Fire!\" -> The captain commanded the soldiers to fire."
+                },
+                {
+                  "label": "Request",
+                  "value": "She said to me, \"Please give me a glass of water.\" -> She requested me to give her a glass of water."
+                },
+                {
+                  "label": "Advice",
+                  "value": "My father said, \"Work hard.\" -> My father advised me to work hard."
+                },
+                {
+                  "label": "Advice",
+                  "value": "The doctor said to the patient, \"Take your medicines on time.\" -> The doctor advised the patient to take his medicines on time."
+                },
+                {
+                  "label": "Prohibition (Negative Command)",
+                  "value": "The teacher said to the students, \"Don't make a noise.\" -> The teacher forbade the students to make a noise. / The teacher ordered the students not to make a noise."
+                },
+                {
+                  "label": "Warning",
+                  "value": "My mother said to me, \"Don't go out in the sun.\" -> My mother warned me not to go out in the sun."
+                },
+                {
+                  "label": "Suggestion",
+                  "value": "He said, \"Let's go for a walk.\" -> He suggested that they should go for a walk."
+                },
+                {
+                  "label": "Simple Instruction",
+                  "value": "He said to his friend, \"Wait here till I return.\" -> He asked his friend to wait there till he returned."
+                },
+                {
+                  "label": "Begging",
+                  "value": "The beggar said, \"Please give me some food.\" -> The beggar begged for some food."
+                }
+              ],
+              "usage_examples": [
+                "Tip: Choose the reporting verb carefully to match the tone of the original sentence (e.g., 'requested' for 'please').",
+                "Tip: The verb in the reported speech changes to the 'to-infinitive' form (e.g., 'open' becomes 'to open').",
+                "Tip: 'Forbade' is a strong word for 'don't'; 'asked... not to' or 'ordered... not to' are also common."
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

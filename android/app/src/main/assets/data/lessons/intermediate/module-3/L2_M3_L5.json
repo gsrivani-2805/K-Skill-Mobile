@@ -1,0 +1,551 @@
+{
+  "level": "Intermediate",
+  "module": "Listening & Reading",
+  "lesson_number": 5,
+  "lesson_title": "Main Idea and Story Details",
+  "objectives": [
+    "Identify the most important message or main idea in a text",
+    "Distinguish between the main idea and supporting details",
+    "Summarize texts effectively using key information"
+  ],
+  "topics": [
+    {
+      "title": "Understanding the Main Idea",
+      "subtopics": [
+        {
+          "title": "What is the Main Idea?",
+          "sections": [
+            {
+              "text": "The main idea is the most important message or central point of a text, like a story, a paragraph, or an article. It is what the writer wants you to understand most. Think of it as the 'big picture' or the 'heart' of the text. If you can tell someone what a story is mostly about in one or two sentences, you have found its main idea.",
+              "examples": [
+                {
+                  "label": "Simple example (Story)",
+                  "value": "Story about a clever fox. Main Idea: A fox uses its cleverness to escape danger."
+                },
+                {
+                  "label": "Simple example (Paragraph)",
+                  "value": "Paragraph about rice farming. Main Idea: Rice farming requires a lot of water and hard work."
+                },
+                {
+                  "label": "From a news report",
+                  "value": "News about a new school. Main Idea: A new school building has opened in the village."
+                },
+                {
+                  "label": "From an announcement",
+                  "value": "Announcement about a health camp. Main Idea: There will be a free health check-up camp soon."
+                },
+                {
+                  "label": "From a conversation",
+                  "value": "Someone talking about rain. Main Idea: The crops need rain to grow well this year."
+                },
+                {
+                  "label": "From a folk tale",
+                  "value": "Tale of an honest woodcutter. Main Idea: Honesty is rewarded in the end."
+                },
+                {
+                  "label": "From a description",
+                  "value": "Description of a village festival. Main Idea: The village festival is a time of great joy and gathering."
+                },
+                {
+                  "label": "From advice",
+                  "value": "Advice on staying healthy. Main Idea: Eating clean food and drinking pure water keeps you healthy."
+                },
+                {
+                  "label": "From a problem",
+                  "value": "Text about well drying up. Main Idea: The village is facing a water shortage because the well is dry."
+                },
+                {
+                  "label": "From a historical account",
+                  "value": "Story of building a temple. Main Idea: The villagers worked together to build a beautiful temple."
+                },
+                {
+                  "label": "From a daily activity",
+                  "value": "Text about helping parents. Main Idea: Children should help their parents with daily chores."
+                },
+                {
+                  "label": "From a natural phenomenon",
+                  "value": "Text about monsoon. Main Idea: The monsoon season brings essential rain for farming."
+                },
+                {
+                  "label": "From a character's journey",
+                  "value": "Story of a young boy's learning. Main Idea: A young boy learns important life lessons through experience."
+                },
+                {
+                  "label": "From a shared problem",
+                  "value": "Text about floods. Main Idea: Floods cause great damage to crops and homes in the area."
+                },
+                {
+                  "label": "From a general observation",
+                  "value": "Text about animals. Main Idea: Animals provide many benefits to human life."
+                }
+              ],
+              "usage_examples": [
+                "What is the story mainly about?",
+                "Find the big idea.",
+                "It's the most important point.",
+                "Summarize it in one sentence.",
+                "The main idea is the core message."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "How to Find the Main Idea",
+          "sections": [
+            {
+              "text": "To find the main idea, ask yourself: 'What is the topic of this text?' and 'What is the most important thing the writer says about this topic?' Often, the main idea is found in the first sentence of a paragraph (called the topic sentence) or in the last sentence. Sometimes, you have to read the whole text and think about what connects all the details.",
+              "examples": [
+                {
+                  "label": "Look at the title",
+                  "value": "Title: 'The Importance of Clean Water'. Main idea is about clean water's importance."
+                },
+                {
+                  "label": "Read first sentence",
+                  "value": "Many people in our village faced a water problem. (This often tells the main idea)."
+                },
+                {
+                  "label": "Read last sentence",
+                  "value": "So, clean water is vital for a healthy life. (Sometimes the main idea is a conclusion)."
+                },
+                {
+                  "label": "Look for repeated words/ideas",
+                  "value": "If 'farmers' and 'crops' are repeated, the main idea is probably about farming."
+                },
+                {
+                  "label": "Ask what the text mostly describes",
+                  "value": "If it describes a festival, the main idea is about the festival."
+                },
+                {
+                  "label": "Check for topic sentence (often first)",
+                  "value": "Pollution is a major issue in many cities. It affects air, water, and land. Main idea: Pollution is a big problem."
+                },
+                {
+                  "label": "Check for concluding sentence (often last)",
+                  "value": "Thus, unity and hard work are essential for village development. Main idea: Unity and hard work lead to village growth."
+                },
+                {
+                  "label": "Synthesize from details (if no clear topic sentence)",
+                  "value": "A boy helped his mother, then his father, then his neighbor. Main idea: The boy is very helpful."
+                },
+                {
+                  "label": "Look for general statements",
+                  "value": "General statements often present the main idea, while specific details support it."
+                },
+                {
+                  "label": "Consider the purpose of the text",
+                  "value": "Is it to inform, entertain, or persuade? The purpose often points to the main idea."
+                },
+                {
+                  "label": "Ask what the author wants you to remember",
+                  "value": "If you remember that farming is difficult, that's the main idea."
+                },
+                {
+                  "label": "Identify the 'who' and 'what' of the entire passage",
+                  "value": "Who is it about? What did they do or what happened to them?"
+                },
+                {
+                  "label": "Distinguish from small details",
+                  "value": "Don't confuse a small fact with the big picture of the text."
+                },
+                {
+                  "label": "Look for summary words",
+                  "value": "Words like 'in conclusion', 'therefore', 'the main point is' can signal the main idea."
+                },
+                {
+                  "label": "If a question is asked, the answer might be the main idea",
+                  "value": "How can we keep our village clean? The text then gives methods; the main idea is 'ways to keep village clean'."
+                }
+              ],
+              "usage_examples": [
+                "Read the first line.",
+                "See what words are repeated.",
+                "What is the main topic?",
+                "The title helps a lot.",
+                "It's the central message."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Understanding Supporting Details",
+      "subtopics": [
+        {
+          "title": "What are Supporting Details?",
+          "sections": [
+            {
+              "text": "Supporting details are the smaller pieces of information that explain, prove, or give more information about the main idea. They are like the bricks that build a wall, where the main idea is the whole wall. Supporting details answer questions like 'who?', 'what?', 'when?', 'where?', 'why?', and 'how?' about the main idea. Without details, the main idea is not fully clear.",
+              "examples": [
+                {
+                  "label": "Main Idea",
+                  "value": "Our village received a good monsoon this year."
+                },
+                {
+                  "label": "Detail (What)",
+                  "value": "The fields are green."
+                },
+                {
+                  "label": "Detail (What)",
+                  "value": "The well is full of water."
+                },
+                {
+                  "label": "Detail (How it helps)",
+                  "value": "Farmers are happy and expect good crops."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "Children enjoyed the school trip."
+                },
+                {
+                  "label": "Detail (Where)",
+                  "value": "They went to the city park."
+                },
+                {
+                  "label": "Detail (What activities)",
+                  "value": "They played many games."
+                },
+                {
+                  "label": "Detail (What they saw)",
+                  "value": "They saw a big zoo there."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "The new government scheme helps farmers."
+                },
+                {
+                  "label": "Detail (How)",
+                  "value": "It provides free seeds."
+                },
+                {
+                  "label": "Detail (How)",
+                  "value": "It gives loans at low interest."
+                },
+                {
+                  "label": "Detail (Who benefits)",
+                  "value": "Small farmers can get tractors."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "Life in the village is peaceful."
+                },
+                {
+                  "label": "Detail (Why)",
+                  "value": "There is no noise from vehicles."
+                },
+                {
+                  "label": "Detail (Why)",
+                  "value": "People live close to nature."
+                },
+                {
+                  "label": "Detail (Why)",
+                  "value": "Neighbors help each other."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "Learning English is important."
+                },
+                {
+                  "label": "Detail (Why)",
+                  "value": "It helps in getting jobs."
+                },
+                {
+                  "label": "Detail (Why)",
+                  "value": "You can talk to more people."
+                }
+              ],
+              "usage_examples": [
+                "Details explain the main idea.",
+                "They tell us more information.",
+                "Look for 'who, what, when, where, why, how'.",
+                "Don't confuse details with the big message.",
+                "They support the main point."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "How to Identify Supporting Details",
+          "sections": [
+            {
+              "text": "Once you have found the main idea, look for sentences that give examples, reasons, facts, or more descriptions related to that main idea. These sentences are the supporting details. They make the main idea stronger and easier to understand. If you remove a supporting detail, the main idea still stands, but it might not be as clear or convincing.",
+              "examples": [
+                {
+                  "label": "Main Idea",
+                  "value": "Our village has a rich history."
+                },
+                {
+                  "label": "Detail (Example)",
+                  "value": "The old temple is from 500 years ago."
+                },
+                {
+                  "label": "Detail (Fact)",
+                  "value": "Many kings visited this village long ago."
+                },
+                {
+                  "label": "Detail (Description)",
+                  "value": "There are ancient coins found near the river."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "The buffalo is a very useful animal for farmers."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "It helps to plough the fields."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "It gives milk every day."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "Its dung can be used as fertilizer."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "Students should participate in sports."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "It helps them stay healthy."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "It teaches teamwork."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "It makes their minds fresh."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "The recent flood caused much damage."
+                },
+                {
+                  "label": "Detail (Example)",
+                  "value": "Many homes were destroyed."
+                },
+                {
+                  "label": "Detail (Fact)",
+                  "value": "Crops in the fields were washed away."
+                },
+                {
+                  "label": "Detail (Description)",
+                  "value": "The roads were broken and blocked."
+                },
+                {
+                  "label": "Main Idea",
+                  "value": "Cleanliness is very important for a healthy village."
+                },
+                {
+                  "label": "Detail (Reason)",
+                  "value": "It prevents diseases from spreading."
+                },
+                {
+                  "label": "Detail (Example)",
+                  "value": "Cleaning the pond provides safe water."
+                }
+              ],
+              "usage_examples": [
+                "Find sentences that give examples.",
+                "Look for reasons why something is true.",
+                "Identify facts that support the main point.",
+                "These details make the main idea stronger.",
+                "They add important information."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Summarizing Effectively",
+      "subtopics": [
+        {
+          "title": "What is Summarizing?",
+          "sections": [
+            {
+              "text": "Summarizing means telling the main idea and the most important supporting details of a text in your own words, but in a much shorter way. It's like taking a big pot of cooked dal and reducing it to a smaller, tastier paste – you keep the main flavor but remove the extra water. A good summary includes only the most important information and leaves out small, less important details.",
+              "examples": [
+                {
+                  "label": "Purpose",
+                  "value": "To tell the core message of a long story in a few lines."
+                },
+                {
+                  "label": "Result",
+                  "value": "A shorter version of the original text."
+                },
+                {
+                  "label": "Key elements",
+                  "value": "Includes main idea and key supporting details."
+                },
+                {
+                  "label": "Excludes",
+                  "value": "Does not include small examples or repeated information."
+                },
+                {
+                  "label": "Example of a short summary",
+                  "value": "The village well dried up due to drought, causing problems, but villagers worked together to dig a new well, solving the water crisis."
+                },
+                {
+                  "label": "Original Text",
+                  "value": "The sun rose high. The birds chirped sweetly. Ramu, a farmer, woke up. He ate his breakfast. Then, he went to his field. He saw his crops were growing well. He worked there until noon. Then he came back for lunch. He was happy."
+                },
+                {
+                  "label": "Summary",
+                  "value": "Ramu, a farmer, started his day, worked in his fields, and was happy seeing his healthy crops."
+                },
+                {
+                  "label": "Original Text",
+                  "value": "The school announced a sports day. Many games like kabaddi, running, and jumping will be held. All students from classes 6 to 12 must participate. The event is next Saturday at the school ground. Prizes will be given to winners."
+                },
+                {
+                  "label": "Summary",
+                  "value": "The school will hold its sports day next Saturday at the school ground, with various games for students from classes 6 to 12, and prizes for winners."
+                },
+                {
+                  "label": "Original Text",
+                  "value": "There was once a greedy man who always wanted more. He cheated people and never shared. One day, he found a magic pot that gave him endless gold. But he was so busy collecting gold that he forgot to eat and sleep, and he became very weak and ill. Finally, he realized that too much greed is bad."
+                },
+                {
+                  "label": "Summary",
+                  "value": "A greedy man found a magic pot of gold, but his endless desire for more made him sick, teaching him that greed is harmful."
+                },
+                {
+                  "label": "Original Text",
+                  "value": "The village panchayat decided to clean the village pond. All men, women, and children volunteered. They worked tirelessly for three days. They removed all the mud, plastic, and dirt. Now the pond is clean, and the water is pure, bringing happiness to everyone."
+                },
+                {
+                  "label": "Summary",
+                  "value": "The villagers successfully cleaned their pond through three days of teamwork, making the water pure and bringing joy to the community."
+                },
+                {
+                  "label": "Original Text",
+                  "value": "Mangoes are a popular fruit in our village. They are sweet and juicy. Many farmers grow them. They are harvested in summer. People love to eat them fresh or make pickles from them. Mangoes are good for health and provide energy."
+                },
+                {
+                  "label": "Summary",
+                  "value": "Mangoes are a sweet, juicy, and healthy fruit grown by many farmers in our village, popular for eating fresh and making pickles."
+                }
+              ],
+              "usage_examples": [
+                "Tell the main points in short.",
+                "Use your own words.",
+                "Don't add small details.",
+                "It's like a short version.",
+                "A summary helps you remember."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Strategies for Summary Writing",
+          "sections": [
+            {
+              "text": "When you write a summary, first read the whole text carefully to understand it. Then, find the main idea. After that, identify the most important supporting details (who, what, when, where, why, how). Finally, write a few sentences using your own words, combining the main idea and these key details. Make sure your summary is much shorter than the original text and covers all the essential points.",
+              "examples": [
+                {
+                  "label": "Step 1: Read fully",
+                  "value": "Read the entire story about the brave farmer from beginning to end."
+                },
+                {
+                  "label": "Step 2: Find main idea",
+                  "value": "The farmer's bravery saved the village from a dangerous animal."
+                },
+                {
+                  "label": "Step 3: Identify key details",
+                  "value": "Who: Farmer Ramu. What: Fought a wild boar. Where: Near the fields. Why: Boar was destroying crops."
+                },
+                {
+                  "label": "Step 4: Write summary",
+                  "value": "Farmer Ramu bravely fought a wild boar near the fields that was destroying crops, thus saving his village."
+                },
+                {
+                  "label": "Step 1: Understand context",
+                  "value": "Understand if the text is a factual report, a personal story, or a piece of advice."
+                },
+                {
+                  "label": "Step 2: Highlight/Underline",
+                  "value": "Use a pencil to mark the topic sentence and important facts."
+                },
+                {
+                  "label": "Step 3: Make mental notes (or actual notes)",
+                  "value": "Think 'who, what, where, when, why, how' for the most important parts."
+                },
+                {
+                  "label": "Step 4: Draft your summary",
+                  "value": "Write a first version of your summary, focusing on conciseness."
+                },
+                {
+                  "label": "Step 5: Review and refine",
+                  "value": "Check if it makes sense, is short, and includes all necessary points without extra details."
+                },
+                {
+                  "label": "Step 6: Use transition words (optional for simple)",
+                  "value": "Words like 'first', 'then', 'as a result' can connect ideas smoothly."
+                },
+                {
+                  "label": "Avoid copying sentences",
+                  "value": "Always try to rephrase in your own language."
+                },
+                {
+                  "label": "Check length",
+                  "value": "A summary should generally be 1/3 or 1/4 the length of the original."
+                },
+                {
+                  "label": "Focus on main characters and actions",
+                  "value": "Do not include dialogues or very specific descriptions of places."
+                },
+                {
+                  "label": "Remove opinions (if the original is factual)",
+                  "value": "Stick to facts presented in the text."
+                },
+                {
+                  "label": "Practice with various texts",
+                  "value": "Summarize announcements, small stories, and news reports."
+                }
+              ],
+              "usage_examples": [
+                "Read the text completely.",
+                "Find the main point.",
+                "Pick the important details.",
+                "Write it in your own words.",
+                "Make it short and clear."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-5/p"
+              },
+              "table": {
+                "title": "Summary Writing Steps",
+                "headers": ["Step", "Action", "Goal"],
+                "rows": [
+                  ["1", "Read the text", "Understand everything"],
+                  ["2", "Find Main Idea", "Identify the core message"],
+                  ["3", "Identify Supporting Details", "Find key facts (who, what, when, where, why, how)"],
+                  ["4", "Write in your words", "Combine main idea & details briefly"],
+                  ["5", "Check", "Ensure it's shorter, clear, and complete"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

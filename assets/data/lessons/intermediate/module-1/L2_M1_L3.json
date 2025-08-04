@@ -1,0 +1,1335 @@
+{
+  "level": "Intermediate",
+  "module": "Sentence Formation & Tenses",
+  "lesson_number": 3,
+  "lesson_title": "Simple Past Tense: Talking About Things That Happened",
+  "objectives": [
+    "Learn to talk about actions and events that finished in the past.",
+    "Understand how to change verbs into their past forms (regular and irregular verbs).",
+    "Practice making negative sentences and questions about past events."
+  ],
+  "topics": [
+    {
+      "title": "What is Simple Past Tense?",
+      "subtopics": [
+        {
+          "title": "Understanding Completed Actions",
+          "sections": [
+            {
+              "text": "The Simple Past Tense helps us talk about things that happened and finished at a certain time before now. It tells us about actions or events that are completely over. The exact time might be mentioned (like 'yesterday' or 'last week') or it might be clear from the conversation. [1, 2, 6, 8, 11]",
+              "examples": [
+                {
+                  "label": "I walked to school yesterday.",
+                  "value": "The action of walking finished yesterday. [6]"
+                },
+                {
+                  "label": "She cooked dinner last night.",
+                  "value": "The cooking finished last night."
+                },
+                {
+                  "label": "They visited their relatives last month.",
+                  "value": "The visit is over. [1, 6]"
+                },
+                {
+                  "label": "The rain stopped an hour ago.",
+                  "value": "The raining finished an hour ago. [6, 8]"
+                },
+                {
+                  "label": "My father worked in the field all day.",
+                  "value": "The work finished when the day ended. [1]"
+                },
+                {
+                  "label": "We saw a good movie last week.",
+                  "value": "The action of seeing is complete. [1, 8]"
+                },
+                {
+                  "label": "The old woman told us a story.",
+                  "value": "The storytelling is finished."
+                },
+                {
+                  "label": "The children played in the park.",
+                  "value": "The playing activity is over. [9]"
+                },
+                {
+                  "label": "He lived in this village for many years.",
+                  "value": "He doesn't live here now; his living here is finished. [1]"
+                },
+                {
+                  "label": "I finished my homework quickly.",
+                  "value": "The homework is done. [1]"
+                },
+                {
+                  "label": "The farmer harvested the crops in autumn.",
+                  "value": "The harvesting is a completed event."
+                },
+                {
+                  "label": "The teacher explained the lesson yesterday.",
+                  "value": "The explanation is over."
+                }
+              ],
+              "usage_examples": [
+                "Yesterday, I went to the market.",
+                "Last week, we harvested the crops.",
+                "My grandfather told me stories.",
+                "The birds sang beautifully this morning.",
+                "We ate simple food for lunch.",
+                "He played hide and seek with his friends.",
+                "She drew a picture of our village.",
+                "The sun shone brightly all day.",
+                "They learned many new things.",
+                "I bought a new book."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making Positive Sentences (Affirmative)",
+      "subtopics": [
+        {
+          "title": "Rule 1: For Regular Verbs (Add -ed)",
+          "sections": [
+            {
+              "text": "For most verbs, we simply add '-ed' to the end of the verb to make it past tense. These are called 'regular verbs'. The spelling rules for adding '-ed' are similar to adding '-s' for Simple Present, but for past tense. [1, 2, 4, 6, 7, 9, 12, 13]",
+              "examples": [
+                {
+                  "label": "walk -> walked",
+                  "value": "I walked to the river. [6]"
+                },
+                {
+                  "label": "play -> played",
+                  "value": "They played cricket. [1, 7]"
+                },
+                {
+                  "label": "finish -> finished",
+                  "value": "She finished her work. [9]"
+                },
+                {
+                  "label": "clean -> cleaned",
+                  "value": "We cleaned the house."
+                },
+                {
+                  "label": "watch -> watched",
+                  "value": "He watched the children play. [9]"
+                },
+                {
+                  "label": "Spelling Rule: Verb ends in -e, add -d.",
+                  "value": "love -> loved, live -> lived, bake -> baked. [4, 7, 9, 12, 13]"
+                },
+                {
+                  "label": "She lived in that small hut.",
+                  "value": "The verb 'live' ends in 'e', so we add 'd'."
+                },
+                {
+                  "label": "My mother baked bread yesterday.",
+                  "value": "The verb 'bake' ends in 'e', so we add 'd'. [9]"
+                },
+                {
+                  "label": "Spelling Rule: Verb ends in consonant + -y, change -y to -i and add -ed.",
+                  "value": "study -> studied, cry -> cried, carry -> carried. [4, 9, 12, 13]"
+                },
+                {
+                  "label": "The students studied hard for the exam.",
+                  "value": "The verb 'study' ends in 'y' after 'd', so 'y' changes to 'i' and we add 'ed'. [9]"
+                },
+                {
+                  "label": "The baby cried all night.",
+                  "value": "The verb 'cry' ends in 'y' after 'r', so 'y' changes to 'i' and we add 'ed'. [12]"
+                },
+                {
+                  "label": "Spelling Rule: Verb ends in a single vowel + single consonant (except w, x, y), double the consonant and add -ed.",
+                  "value": "stop -> stopped, plan -> planned, pat -> patted. [2, 9, 12, 13]"
+                },
+                {
+                  "label": "He stopped the cart near the well.",
+                  "value": "The verb 'stop' has a 'o' (vowel) then 'p' (consonant), so we double 'p'."
+                },
+                {
+                  "label": "We planned our journey to the next village.",
+                  "value": "The verb 'plan' has 'a' (vowel) then 'n' (consonant), so we double 'n'. [12]"
+                }
+              ],
+              "usage_examples": [
+                "I helped my father in the farm.",
+                "They played games until evening.",
+                "She wanted a new dress.",
+                "We jumped over the ditch.",
+                "He cooked a delicious meal.",
+                "The children laughed loudly.",
+                "My grandmother knitted a sweater.",
+                "The dog barked at the stranger.",
+                "They learned to read.",
+                "We enjoyed the village fair."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Regular Verb Past Simple Forms",
+                "headers": [
+                  "Base Form",
+                  "Past Simple Form",
+                  "Example"
+                ],
+                "rows": [
+                  [
+                    "walk",
+                    "walked",
+                    "I walked to school."
+                  ],
+                  [
+                    "live",
+                    "lived",
+                    "She lived here."
+                  ],
+                  [
+                    "study",
+                    "studied",
+                    "They studied hard."
+                  ],
+                  [
+                    "stop",
+                    "stopped",
+                    "He stopped the car."
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Rule 2: For Irregular Verbs (Change Form)",
+          "sections": [
+            {
+              "text": "Many verbs in English do not follow the '-ed' rule. They change their form in different ways to become past tense. These are called 'irregular verbs'. You need to learn these forms by heart. [2, 4, 7, 8, 10, 15, 16, 17]",
+              "examples": [
+                {
+                  "label": "go -> went",
+                  "value": "I went to the city yesterday. [8, 10, 21]"
+                },
+                {
+                  "label": "eat -> ate",
+                  "value": "We ate fresh vegetables. [10]"
+                },
+                {
+                  "label": "see -> saw",
+                  "value": "He saw a beautiful bird. [1, 8, 21]"
+                },
+                {
+                  "label": "tell -> told",
+                  "value": "She told us a secret. [1]"
+                },
+                {
+                  "label": "come -> came",
+                  "value": "My friend came to my house. [10]"
+                },
+                {
+                  "label": "take -> took",
+                  "value": "They took many photos. [21]"
+                },
+                {
+                  "label": "give -> gave",
+                  "value": "The teacher gave us homework. [10, 21]"
+                },
+                {
+                  "label": "drink -> drank",
+                  "value": "I drank water from the well. [10]"
+                },
+                {
+                  "label": "make -> made",
+                  "value": "My mother made a new dress. [10]"
+                },
+                {
+                  "label": "buy -> bought",
+                  "value": "He bought some rice from the shop. [10]"
+                },
+                {
+                  "label": "know -> knew",
+                  "value": "I knew the answer yesterday. [10]"
+                },
+                {
+                  "label": "sing -> sang",
+                  "value": "The children sang a song at the school event."
+                },
+                {
+                  "label": "read -> read (same spelling, different sound)",
+                  "value": "I read a book last night."
+                },
+                {
+                  "label": "write -> wrote",
+                  "value": "She wrote a letter to her brother. [10]"
+                },
+                {
+                  "label": "run -> ran",
+                  "value": "The boy ran fast in the race. [4, 10]"
+                }
+              ],
+              "usage_examples": [
+                "Yesterday, I went to the market.",
+                "Last week, we harvested the crops.",
+                "My grandfather told me stories.",
+                "The birds sang beautifully this morning.",
+                "We ate simple food for lunch.",
+                "He played hide and seek with his friends.",
+                "She drew a picture of our village.",
+                "The sun shone brightly all day.",
+                "They learned many new things.",
+                "I bought a new book."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Common Irregular Verb Past Simple Forms",
+                "headers": [
+                  "Base Form (V1)",
+                  "Past Simple (V2)"
+                ],
+                "rows": [
+                  [
+                    "go",
+                    "went"
+                  ],
+                  [
+                    "eat",
+                    "ate"
+                  ],
+                  [
+                    "see",
+                    "saw"
+                  ],
+                  [
+                    "come",
+                    "came"
+                  ],
+                  [
+                    "give",
+                    "gave"
+                  ],
+                  [
+                    "drink",
+                    "drank"
+                  ],
+                  [
+                    "make",
+                    "made"
+                  ],
+                  [
+                    "buy",
+                    "bought"
+                  ],
+                  [
+                    "read",
+                    "read"
+                  ],
+                  [
+                    "write",
+                    "wrote"
+                  ],
+                  [
+                    "sleep",
+                    "slept"
+                  ],
+                  [
+                    "think",
+                    "thought"
+                  ],
+                  [
+                    "find",
+                    "found"
+                  ],
+                  [
+                    "begin",
+                    "began"
+                  ],
+                  [
+                    "stand",
+                    "stood"
+                  ],
+                  [
+                    "speak",
+                    "spoke"
+                  ],
+                  [
+                    "bring",
+                    "brought"
+                  ],
+                  [
+                    "feel",
+                    "felt"
+                  ],
+                  [
+                    "tell",
+                    "told"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making Negative Sentences",
+      "subtopics": [
+        {
+          "title": "Using 'did not' / 'didn't'",
+          "sections": [
+            {
+              "text": "To make a sentence negative in the Simple Past Tense, we use 'did not' or its short form 'didn't' before the main verb. Important: The main verb always goes back to its base form (no -ed, no special irregular form) after 'did not' or 'didn't'. [1, 2, 3, 5, 7, 8, 21]",
+              "examples": [
+                {
+                  "label": "Positive: I went to the market. Negative: I did not (didn't) go to the market.",
+                  "value": "'Went' changes back to 'go' after 'didn't'. [1, 21]"
+                },
+                {
+                  "label": "Positive: She ate rice. Negative: She did not (didn't) eat rice.",
+                  "value": "'Ate' changes back to 'eat' after 'didn't'. [3]"
+                },
+                {
+                  "label": "Positive: We played cricket. Negative: We did not (didn't) play cricket.",
+                  "value": "'Played' changes back to 'play' after 'didn't'. [1]"
+                },
+                {
+                  "label": "Positive: He saw me. Negative: He did not (didn't) see me.",
+                  "value": "'Saw' changes back to 'see' after 'didn't'."
+                },
+                {
+                  "label": "Positive: They cleaned the room. Negative: They did not (didn't) clean the room.",
+                  "value": "'Cleaned' changes back to 'clean' after 'didn't'."
+                },
+                {
+                  "label": "Positive: My father bought a cow. Negative: My father didn't buy a cow.",
+                  "value": "'Bought' changes back to 'buy' after 'didn't'."
+                },
+                {
+                  "label": "Positive: It rained yesterday. Negative: It didn't rain yesterday.",
+                  "value": "'Rained' changes back to 'rain' after 'didn't'."
+                },
+                {
+                  "label": "Positive: The dog barked. Negative: The dog didn't bark.",
+                  "value": "'Barked' changes back to 'bark' after 'didn't'."
+                },
+                {
+                  "label": "Positive: The teacher taught us. Negative: The teacher didn't teach us.",
+                  "value": "'Taught' changes back to 'teach' after 'didn't'. [5]"
+                },
+                {
+                  "label": "Positive: They came home early. Negative: They didn't come home early.",
+                  "value": "'Came' changes back to 'come' after 'didn't'. [5]"
+                }
+              ],
+              "usage_examples": [
+                "I didn't finish my work.",
+                "She didn't like the food.",
+                "We didn't go to the city.",
+                "He didn't help me.",
+                "They didn't understand the lesson.",
+                "The bus didn't arrive on time.",
+                "My mother didn't cook today.",
+                "The well didn't have water.",
+                "He didn't speak loudly.",
+                "I didn't sleep well last night."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Negative Sentence Structure: Simple Past",
+                "headers": [
+                  "Subject",
+                  "did not / didn't",
+                  "Main Verb (Base Form)"
+                ],
+                "rows": [
+                  [
+                    "I",
+                    "didn't",
+                    "go"
+                  ],
+                  [
+                    "You",
+                    "didn't",
+                    "eat"
+                  ],
+                  [
+                    "He",
+                    "didn't",
+                    "study"
+                  ],
+                  [
+                    "She",
+                    "didn't",
+                    "play"
+                  ],
+                  [
+                    "It",
+                    "didn't",
+                    "work"
+                  ],
+                  [
+                    "We",
+                    "didn't",
+                    "help"
+                  ],
+                  [
+                    "They",
+                    "didn't",
+                    "live"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Making Question Sentences (Interrogative)",
+      "subtopics": [
+        {
+          "title": "Using 'Did...?'",
+          "sections": [
+            {
+              "text": "To ask a question in the Simple Past Tense, we put 'Did' at the beginning of the sentence. Just like with negatives, the main verb goes back to its base form after 'Did'. [1, 2, 3, 8, 19, 20, 21]",
+              "examples": [
+                {
+                  "label": "Statement: You ate lunch. Question: Did you eat lunch?",
+                  "value": "'Ate' changes back to 'eat' after 'Did'. [3]"
+                },
+                {
+                  "label": "Statement: He went to school. Question: Did he go to school?",
+                  "value": "'Went' changes back to 'go' after 'Did'. [1, 21]"
+                },
+                {
+                  "label": "Statement: They finished their work. Question: Did they finish their work?",
+                  "value": "'Finished' changes back to 'finish' after 'Did'."
+                },
+                {
+                  "label": "Statement: She saw the movie. Question: Did she see the movie?",
+                  "value": "'Saw' changes back to 'see' after 'Did'."
+                },
+                {
+                  "label": "Statement: It rained yesterday. Question: Did it rain yesterday?",
+                  "value": "'Rained' changes back to 'rain' after 'Did'. [19]"
+                },
+                {
+                  "label": "Statement: Your brother played kabaddi. Question: Did your brother play kabaddi?",
+                  "value": "'Played' changes back to 'play' after 'Did'. [1]"
+                },
+                {
+                  "label": "Statement: We studied for the test. Question: Did we study for the test?",
+                  "value": "'Studied' changes back to 'study' after 'Did'. [12]"
+                },
+                {
+                  "label": "Statement: The children drank water. Question: Did the children drink water?",
+                  "value": "'Drank' changes back to 'drink' after 'Did'."
+                },
+                {
+                  "label": "Statement: He told you the way. Question: Did he tell you the way?",
+                  "value": "'Told' changes back to 'tell' after 'Did'."
+                },
+                {
+                  "label": "Statement: They brought food. Question: Did they bring food?",
+                  "value": "'Brought' changes back to 'bring' after 'Did'."
+                }
+              ],
+              "usage_examples": [
+                "Did you understand the story?",
+                "Did she call you yesterday?",
+                "Did they help with the harvesting?",
+                "Did he visit his grandparents?",
+                "Did it get very hot?",
+                "Did we learn this before?",
+                "Did the school open today?",
+                "Did your father work in the morning?",
+                "Did they find the lost goat?",
+                "Did the shop close early?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Question Sentence Structure: Simple Past",
+                "headers": [
+                  "Did",
+                  "Subject",
+                  "Main Verb (Base Form)",
+                  "Rest of Sentence?"
+                ],
+                "rows": [
+                  [
+                    "Did",
+                    "I",
+                    "go",
+                    "to the market?"
+                  ],
+                  [
+                    "Did",
+                    "you",
+                    "eat",
+                    "mangoes?"
+                  ],
+                  [
+                    "Did",
+                    "he",
+                    "study",
+                    "English?"
+                  ],
+                  [
+                    "Did",
+                    "she",
+                    "play",
+                    "cricket?"
+                  ],
+                  [
+                    "Did",
+                    "it",
+                    "rain",
+                    "yesterday?"
+                  ],
+                  [
+                    "Did",
+                    "we",
+                    "learn",
+                    "this?"
+                  ],
+                  [
+                    "Did",
+                    "they",
+                    "sleep",
+                    "well?"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "When to Use Simple Past Tense",
+      "subtopics": [
+        {
+          "title": "1. For Actions Completed at a Specific Time in the Past",
+          "sections": [
+            {
+              "text": "This is the most common use. We use Simple Past Tense for actions that started and finished at a clear time in the past. We often use time words like 'yesterday', 'last night', 'last week', 'last year', 'two days ago', 'in 2020', etc. [1, 2, 6, 8, 11, 21]",
+              "examples": [
+                {
+                  "label": "I visited my uncle last month.",
+                  "value": "The visit is finished, and the time 'last month' is specific. [6]"
+                },
+                {
+                  "label": "She finished her studies in 2022.",
+                  "value": "The action of finishing is done in a specific past year. [9]"
+                },
+                {
+                  "label": "They built this house a long time ago.",
+                  "value": "The building is complete, and 'a long time ago' points to a past time. [6, 8]"
+                },
+                {
+                  "label": "We celebrated the festival yesterday.",
+                  "value": "The celebration is over. [6]"
+                },
+                {
+                  "label": "He bought a new bicycle last Sunday.",
+                  "value": "The buying action is finished on a specific past day. [1]"
+                },
+                {
+                  "label": "The rain stopped an hour ago.",
+                  "value": "The raining finished at a specific time in the past. [6]"
+                },
+                {
+                  "label": "My father returned from the city in the evening.",
+                  "value": "The return is completed in the past."
+                },
+                {
+                  "label": "The children went to bed early last night.",
+                  "value": "The action of going to bed is finished at a past time."
+                },
+                {
+                  "label": "The guests arrived a few minutes ago.",
+                  "value": "Their arrival is a completed past event. [6]"
+                },
+                {
+                  "label": "The lesson ended at 4 PM.",
+                  "value": "The ending of the lesson is a fixed past event."
+                }
+              ],
+              "usage_examples": [
+                "I woke up late this morning.",
+                "She cooked rice for lunch.",
+                "We helped the farmer.",
+                "He walked to the forest.",
+                "They played in the rain.",
+                "My mother washed clothes.",
+                "The electricity came back.",
+                "The birds flew away.",
+                "I wrote a letter.",
+                "You sang a beautiful song."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "2. For a Series of Completed Actions in the Past",
+          "sections": [
+            {
+              "text": "We can use the Simple Past Tense to talk about several actions that happened one after another in the past. This is very common when telling a story or describing a sequence of events. [1, 11]",
+              "examples": [
+                {
+                  "label": "I woke up, ate breakfast, and went to school.",
+                  "value": "These are three actions that happened one after another in the past. [11]"
+                },
+                {
+                  "label": "She opened the door, smiled, and greeted us.",
+                  "value": "A sequence of actions in the past."
+                },
+                {
+                  "label": "He collected water, watered the plants, and sat under the tree.",
+                  "value": "A series of farming-related actions."
+                },
+                {
+                  "label": "We finished our meal, paid the bill, and left the restaurant.",
+                  "value": "A sequence of actions in a specific order. [1]"
+                },
+                {
+                  "label": "The child woke up, cried, and then slept again.",
+                  "value": "Actions happening in a specific order."
+                },
+                {
+                  "label": "They walked to the river, fished for an hour, and returned home.",
+                  "value": "A sequence of activities."
+                },
+                {
+                  "label": "My sister came home, changed her clothes, and started studying.",
+                  "value": "Three actions in order."
+                },
+                {
+                  "label": "The farmer plowed the field, sowed the seeds, and waited for rain.",
+                  "value": "A sequence of agricultural activities."
+                },
+                {
+                  "label": "He opened his book, read a few pages, and closed it.",
+                  "value": "A short sequence of reading actions."
+                },
+                {
+                  "label": "She gathered the firewood, lit the stove, and started cooking.",
+                  "value": "A practical daily life sequence."
+                }
+              ],
+              "usage_examples": [
+                "I got up, brushed my teeth, and ate.",
+                "She entered the room, sat down, and listened.",
+                "We watched the show, clapped, and went home.",
+                "He picked up the ball, ran, and threw it.",
+                "The cat jumped, caught the mouse, and ran away.",
+                "They worked all day, ate dinner, and slept.",
+                "My brother came, spoke to me, and left.",
+                "The water boiled, I added rice, and cooked it.",
+                "He found his keys, opened the door, and went inside.",
+                "She prayed, ate, and then went to sleep."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "3. For Past Habits (Less Common for Beginners, but useful)",
+          "sections": [
+            {
+              "text": "Sometimes, we use the Simple Past Tense to talk about habits that happened regularly in the past, but do not happen anymore. Words like 'always', 'often', 'usually', 'never' can be used with this. This is similar to 'used to'. [1, 6, 8, 11]",
+              "examples": [
+                {
+                  "label": "When I was a child, I often played in the fields.",
+                  "value": "This describes a past habit that no longer happens. [8]"
+                },
+                {
+                  "label": "My grandfather always told us stories.",
+                  "value": "This was a regular habit of his in the past."
+                },
+                {
+                  "label": "She usually walked to school when she was young.",
+                  "value": "This was her regular routine in the past. [6]"
+                },
+                {
+                  "label": "We often visited our grandmother on weekends.",
+                  "value": "This was a recurring activity in the past."
+                },
+                {
+                  "label": "He never ate meat when he was a boy.",
+                  "value": "This describes a past habit (or lack thereof)."
+                },
+                {
+                  "label": "The old men always sat under the banyan tree.",
+                  "value": "This was a regular sight/habit in the past."
+                },
+                {
+                  "label": "I always helped my mother with chores.",
+                  "value": "This describes a past routine."
+                },
+                {
+                  "label": "They often went fishing in the river.",
+                  "value": "This was a frequent past activity."
+                },
+                {
+                  "label": "She frequently visited the temple.",
+                  "value": "This was a regular past action."
+                },
+                {
+                  "label": "He always brought his own lunch.",
+                  "value": "This was a consistent past habit. [8]"
+                }
+              ],
+              "usage_examples": [
+                "I often played cricket with friends.",
+                "She always helped her family.",
+                "We usually walked to the market.",
+                "He never forgot his books.",
+                "They always shared their food.",
+                "My father often went to the forest.",
+                "I usually drank milk in the morning.",
+                "She always woke up early.",
+                "We often sang folk songs.",
+                "He always listened to elders."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Common Mistakes and How to Avoid Them",
+      "subtopics": [
+        {
+          "title": "Mistake 1: Not Using Base Form After 'did/didn't'",
+          "sections": [
+            {
+              "text": "A very common mistake is using the past tense form of the main verb after 'did' or 'didn't'. Remember, 'did' already shows that it's past tense, so the main verb must be in its base form. [1, 2, 3, 5, 7, 19, 20]",
+              "examples": [
+                {
+                  "label": "Incorrect: I didn't went to school.",
+                  "value": "Correct: I didn't go to school. ('went' should be 'go' after 'didn't'). [21]"
+                },
+                {
+                  "label": "Incorrect: She didn't ate anything.",
+                  "value": "Correct: She didn't eat anything. ('ate' should be 'eat' after 'didn't')."
+                },
+                {
+                  "label": "Incorrect: Did he saw you?",
+                  "value": "Correct: Did he see you? ('saw' should be 'see' after 'Did')."
+                },
+                {
+                  "label": "Incorrect: They didn't played well.",
+                  "value": "Correct: They didn't play well. ('played' should be 'play' after 'didn't')."
+                },
+                {
+                  "label": "Incorrect: Did you wrote the letter?",
+                  "value": "Correct: Did you write the letter? ('wrote' should be 'write' after 'Did')."
+                },
+                {
+                  "label": "Incorrect: My father didn't came home.",
+                  "value": "Correct: My father didn't come home. ('came' should be 'come' after 'didn't')."
+                },
+                {
+                  "label": "Incorrect: Did it rained yesterday?",
+                  "value": "Correct: Did it rain yesterday? ('rained' should be 'rain' after 'Did')."
+                },
+                {
+                  "label": "Incorrect: She didn't learned English.",
+                  "value": "Correct: She didn't learn English. ('learned' should be 'learn' after 'didn't')."
+                },
+                {
+                  "label": "Incorrect: Did they broke the glass?",
+                  "value": "Correct: Did they break the glass? ('broke' should be 'break' after 'Did')."
+                },
+                {
+                  "label": "Incorrect: We didn't had enough time.",
+                  "value": "Correct: We didn't have enough time. ('had' should be 'have' after 'didn't')."
+                }
+              ],
+              "usage_examples": [
+                "Incorrect: I didn't spoke. -> Correct: I didn't speak.",
+                "Incorrect: Did she went? -> Correct: Did she go?",
+                "Incorrect: He didn't took. -> Correct: He didn't take.",
+                "Incorrect: Did they given? -> Correct: Did they give?",
+                "Incorrect: We didn't knowed. -> Correct: We didn't know.",
+                "Incorrect: Did you seed? -> Correct: Did you see?",
+                "Incorrect: My friend didn't helped. -> Correct: My friend didn't help.",
+                "Incorrect: Did the boy cried? -> Correct: Did the boy cry?",
+                "Incorrect: They didn't found. -> Correct: They didn't find.",
+                "Incorrect: Did it worked? -> Correct: Did it work?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mistake 2: Confusing Regular and Irregular Verbs",
+          "sections": [
+            {
+              "text": "Sometimes students try to add '-ed' to irregular verbs or change regular verbs in irregular ways. Always remember which verbs are regular (add -ed) and which are irregular (change their form). Learning common irregular verbs is very important. [1, 2, 4, 10, 14]",
+              "examples": [
+                {
+                  "label": "Incorrect: I goed to the village.",
+                  "value": "Correct: I went to the village. ('go' is irregular, past form is 'went')."
+                },
+                {
+                  "label": "Incorrect: She buyed a new pot.",
+                  "value": "Correct: She bought a new pot. ('buy' is irregular, past form is 'bought')."
+                },
+                {
+                  "label": "Incorrect: He runned very fast.",
+                  "value": "Correct: He ran very fast. ('run' is irregular, past form is 'ran')."
+                },
+                {
+                  "label": "Incorrect: We eated lunch.",
+                  "value": "Correct: We ate lunch. ('eat' is irregular, past form is 'ate')."
+                },
+                {
+                  "label": "Incorrect: The dog runned away.",
+                  "value": "Correct: The dog ran away. ('run' is irregular, past form is 'ran')."
+                },
+                {
+                  "label": "Incorrect: She drinked water.",
+                  "value": "Correct: She drank water. ('drink' is irregular, past form is 'drank')."
+                },
+                {
+                  "label": "Incorrect: My father gived me money.",
+                  "value": "Correct: My father gave me money. ('give' is irregular, past form is 'gave')."
+                },
+                {
+                  "label": "Incorrect: They fighted a lot.",
+                  "value": "Correct: They fought a lot. ('fight' is irregular, past form is 'fought')."
+                },
+                {
+                  "label": "Incorrect: The boy seed a bird.",
+                  "value": "Correct: The boy saw a bird. ('see' is irregular, past form is 'saw')."
+                },
+                {
+                  "label": "Incorrect: He knowed the answer.",
+                  "value": "Correct: He knew the answer. ('know' is irregular, past form is 'knew')."
+                }
+              ],
+              "usage_examples": [
+                "Incorrect: I builded a house. -> Correct: I built a house.",
+                "Incorrect: She catched the ball. -> Correct: She caught the ball.",
+                "Incorrect: He teached us. -> Correct: He taught us.",
+                "Incorrect: We falled down. -> Correct: We fell down.",
+                "Incorrect: They thinked about it. -> Correct: They thought about it.",
+                "Incorrect: My mother sleeped well. -> Correct: My mother slept well.",
+                "Incorrect: He writed a story. -> Correct: He wrote a story.",
+                "Incorrect: She singed a song. -> Correct: She sang a song.",
+                "Incorrect: The child beginned to cry. -> Correct: The child began to cry.",
+                "Incorrect: I buyed vegetables. -> Correct: I bought vegetables."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Past Continuous Tense: Talking About Ongoing Past Actions",
+      "subtopics": [
+        {
+          "title": "What is Past Continuous Tense?",
+          "sections": [
+            {
+              "text": "The Past Continuous Tense (also known as Past Progressive) is used to describe actions or events that were in progress at a specific time in the past. [16, 30] It shows that an action was ongoing and had not finished when another event happened. [2, 12, 13, 32]",
+              "examples": [
+                {
+                  "label": "I was reading when you called.",
+                  "value": "The action of 'reading' was in progress when the 'calling' happened. [6, 16]"
+                },
+                {
+                  "label": "They were playing in the garden.",
+                  "value": "This describes an ongoing activity in the past. [26]"
+                },
+                {
+                  "label": "The sun was shining and the birds were singing.",
+                  "value": "This sets the scene by describing ongoing background actions. [12, 19]"
+                }
+              ],
+              "usage_examples": [
+                "I was studying last night.",
+                "He was working in the field.",
+                "They were watching the clouds.",
+                "She was cooking when the guests arrived.",
+                "The children were laughing loudly."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Forming the Past Continuous Tense",
+          "sections": [
+            {
+              "text": "To form the Past Continuous tense, we use the past tense of the verb 'to be' (was/were) followed by the main verb's present participle (-ing form). [2, 6, 12, 14, 30]",
+              "examples": [
+                {
+                  "label": "Positive: He was working.",
+                  "value": "Use 'was' for singular subjects (I, he, she, it)."
+                },
+                {
+                  "label": "Positive: They were playing.",
+                  "value": "Use 'were' for plural subjects (we, you, they). [26]"
+                },
+                {
+                  "label": "Negative: He was not (wasn't) working.",
+                  "value": "Add 'not' after 'was' or 'were'. [30]"
+                },
+                {
+                  "label": "Negative: They were not (weren't) playing.",
+                  "value": "The contracted forms are 'wasn't' and 'weren't'."
+                },
+                {
+                  "label": "Question: Was he working?",
+                  "value": "Invert the subject and 'was' or 'were'. [13]"
+                },
+                {
+                  "label": "Question: Were they playing?",
+                  "value": "The sentence begins with 'Was' or 'Were'."
+                }
+              ],
+              "usage_examples": [
+                "I was reading a book.",
+                "She wasn't sleeping.",
+                "Were you listening to me?",
+                "The cows were grazing in the field.",
+                "He wasn't feeling well yesterday."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Past Continuous Sentence Structure",
+                "headers": [
+                  "Type",
+                  "Structure"
+                ],
+                "rows": [
+                  [
+                    "Positive (+)",
+                    "Subject + was/were + Verb-ing"
+                  ],
+                  [
+                    "Negative (-)",
+                    "Subject + was/were + not + Verb-ing"
+                  ],
+                  [
+                    "Question (?)",
+                    "Was/Were + Subject + Verb-ing?"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "When to Use Past Continuous Tense",
+          "sections": [
+            {
+              "text": "We use the past continuous to talk about a longer, ongoing action that was interrupted by a shorter action (which is in the simple past). [2, 6, 14, 19] It is also used to describe two or more actions happening at the same time in the past, or to set the scene in a story. [6, 14, 16]",
+              "examples": [
+                {
+                  "label": "I was having a beautiful dream when the alarm clock rang.",
+                  "value": "The long action 'having a dream' was interrupted by the short action 'rang'. [12]"
+                },
+                {
+                  "label": "While my mother was cooking, my father was reading a newspaper.",
+                  "value": "Two parallel actions happening at the same time. [16]"
+                },
+                {
+                  "label": "He was always leaving the tap running.",
+                  "value": "Describes a repeated, often annoying, habit in the past. [19]"
+                },
+                {
+                  "label": "What were you doing at 8 PM last night?",
+                  "value": "Asks about an action in progress at a specific past time."
+                }
+              ],
+              "usage_examples": [
+                "I was walking home when I saw the accident.",
+                "She was crying while she was telling the story.",
+                "It was raining heavily yesterday evening.",
+                "They were discussing the problem when I entered the room.",
+                "The birds were chirping outside my window this morning."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Past Perfect Tense: The 'Earlier' Past",
+      "subtopics": [
+        {
+          "title": "What is Past Perfect Tense?",
+          "sections": [
+            {
+              "text": "The Past Perfect Tense is used to show that one action in the past happened before another action in the past. It clarifies the sequence of events. [3, 4, 7, 15, 17, 18] It is formed with the auxiliary verb 'had' and the past participle (the third form of the verb, e.g., seen, eaten, gone). [3, 9, 23, 24, 28]",
+              "examples": [
+                {
+                  "label": "When the police arrived, the thief had escaped.",
+                  "value": "First, the thief escaped. Second, the police arrived. The past perfect shows the earlier action. [15]"
+                },
+                {
+                  "label": "She had finished her homework before her friends called.",
+                  "value": "Finishing homework happened before the friends called. [23]"
+                },
+                {
+                  "label": "I didn't go to the movie because I had already seen it.",
+                  "value": "Seeing the movie happened before the chance to go again."
+                }
+              ],
+              "usage_examples": [
+                "The train had left when I reached the station.",
+                "He had eaten lunch before I arrived.",
+                "They had never seen such a beautiful place before.",
+                "By the time we got there, the shop had closed.",
+                "She told me she had bought a new cow."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Forming the Past Perfect Tense",
+          "sections": [
+            {
+              "text": "The structure for the Past Perfect tense is simple because 'had' is used for all subjects (singular and plural). You combine 'had' with the past participle of the main verb. [3, 4, 9, 23]",
+              "examples": [
+                {
+                  "label": "Positive: She had completed her assignment.",
+                  "value": "The structure is Subject + had + past participle. [23]"
+                },
+                {
+                  "label": "Negative: She had not (hadn't) completed her assignment.",
+                  "value": "Add 'not' after 'had'. The contraction is 'hadn't'. [3, 23]"
+                },
+                {
+                  "label": "Question: Had she completed her assignment?",
+                  "value": "Invert the subject and 'had'. [3, 23]"
+                },
+                {
+                  "label": "I had eaten. They had eaten.",
+                  "value": "The form is the same for all subjects. [24]"
+                },
+                {
+                  "label": "He hadn't gone. We hadn't gone.",
+                  "value": "The negative form is the same for all subjects."
+                }
+              ],
+              "usage_examples": [
+                "I had finished my work.",
+                "He hadn't called me back.",
+                "Had they left already?",
+                "We had walked for many miles.",
+                "It hadn't rained for a long time."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Past Perfect Sentence Structure",
+                "headers": [
+                  "Type",
+                  "Structure"
+                ],
+                "rows": [
+                  [
+                    "Positive (+)",
+                    "Subject + had + Past Participle (V3)"
+                  ],
+                  [
+                    "Negative (-)",
+                    "Subject + had + not + Past Participle (V3)"
+                  ],
+                  [
+                    "Question (?)",
+                    "Had + Subject + Past Participle (V3)?"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Past Perfect Continuous Tense: Duration Before a Past Event",
+      "subtopics": [
+        {
+          "title": "What is Past Perfect Continuous Tense?",
+          "sections": [
+            {
+              "text": "The Past Perfect Continuous Tense (also Past Perfect Progressive) is used to show that an action started in the past and continued up until another point in the past. [1, 5, 8, 27, 29] It emphasizes the duration of the activity. [10, 21, 25] The formula is had + been + the verb's present participle (-ing). [5, 10, 29]",
+              "examples": [
+                {
+                  "label": "He was tired because he had been working all day.",
+                  "value": "This shows the cause ('working all day') of a past situation ('was tired'). [5]"
+                },
+                {
+                  "label": "They had been playing cricket for two hours when it started to rain.",
+                  "value": "This emphasizes how long the 'playing' action was in progress before it was interrupted. [27]"
+                },
+                {
+                  "label": "I had been waiting for a long time before the bus arrived.",
+                  "value": "The focus is on the duration of the 'waiting' before the other past event. [8]"
+                }
+              ],
+              "usage_examples": [
+                "She had been living in the village for ten years before she moved.",
+                "I had been studying for hours, so I was very tired.",
+                "The ground was wet because it had been raining.",
+                "We had been looking for the lost calf all morning.",
+                "He had been feeling unwell for days before he went to the doctor."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Forming the Past Perfect Continuous Tense",
+          "sections": [
+            {
+              "text": "To form the Past Perfect Continuous tense, you use 'had been' followed by the verb's present participle (-ing form). This structure is the same for all subjects. [1, 5, 10, 25]",
+              "examples": [
+                {
+                  "label": "Positive: I had been thinking.",
+                  "value": "The structure is Subject + had been + verb-ing. [10]"
+                },
+                {
+                  "label": "Negative: She had not (hadn't) been thinking.",
+                  "value": "Add 'not' after 'had'. The contraction is 'hadn't'. [1, 10, 27]"
+                },
+                {
+                  "label": "Question: Had they been thinking?",
+                  "value": "Start the question with 'Had', followed by the subject, then 'been' and the verb-ing. [1, 27]"
+                },
+                {
+                  "label": "He had been farming.",
+                  "value": "This describes a continuous activity in the deeper past."
+                },
+                {
+                  "label": "We hadn't been expecting visitors.",
+                  "value": "This is the negative form."
+                }
+              ],
+              "usage_examples": [
+                "The children had been playing.",
+                "He hadn't been sleeping well.",
+                "Had you been waiting long?",
+                "We had been travelling all day.",
+                "The fire had been burning for hours."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-3/p"
+              },
+              "table": {
+                "title": "Past Perfect Continuous Sentence Structure",
+                "headers": [
+                  "Type",
+                  "Structure"
+                ],
+                "rows": [
+                  [
+                    "Positive (+)",
+                    "Subject + had been + Verb-ing"
+                  ],
+                  [
+                    "Negative (-)",
+                    "Subject + had not been + Verb-ing"
+                  ],
+                  [
+                    "Question (?)",
+                    "Had + Subject + been + Verb-ing?"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

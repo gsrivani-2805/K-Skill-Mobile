@@ -1,0 +1,287 @@
+
+{
+  "level": "Advanced",
+  "module": "Public Speaking & Presentation",
+  "lesson_number": 2,
+  "lesson_title": "Prepare & Deliver a Speech",
+  "objectives": [
+    "Understand the key elements of effective speech preparation",
+    "Learn how to structure a speech with clear introduction, body, and conclusion",
+    "Develop techniques for confident and engaging speech delivery",
+    "Practice methods to overcome nervousness and connect with the audience"
+  ],
+  "topics": [
+    {
+      "title": "Understanding Speech Preparation",
+      "subtopics": [
+        {
+          "title": "What Makes a Good Speech?",
+          "sections": [
+            {
+              "text": "A good speech is well-prepared, clearly organized, and delivered with confidence. It has a clear purpose, connects with the audience, and delivers its message effectively. The key elements include knowing your audience, having a strong structure, using appropriate language, and practicing your delivery. A successful speech informs, persuades, or entertains while keeping the audience engaged throughout.",
+              "examples": [
+                {
+                  "label": "Informative speech example",
+                  "value": "A speech about climate change that explains the causes, effects, and solutions in simple terms that everyone can understand."
+                },
+                {
+                  "label": "Persuasive speech example",
+                  "value": "A speech convincing students to participate in community service by showing how it benefits both the community and the volunteers."
+                },
+                {
+                  "label": "Entertainment speech example",
+                  "value": "A humorous speech about school life that makes the audience laugh while sharing relatable experiences."
+                },
+                {
+                  "label": "Ceremonial speech example",
+                  "value": "A graduation speech that inspires students to pursue their dreams and face future challenges with confidence."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Speech Structure and Organization",
+      "subtopics": [
+        {
+          "title": "The Three-Part Structure",
+          "sections": [
+            {
+              "text": "Every effective speech follows a basic three-part structure: Introduction, Body, and Conclusion. The introduction grabs attention and previews your topic, the body presents your main points with supporting details, and the conclusion summarizes key points and leaves a lasting impression. This structure helps both the speaker stay organized and the audience follow along easily.",
+              "examples": [
+                {
+                  "label": "Introduction (10-15% of speech)",
+                  "value": "Start with a hook: 'Imagine a world without trees.' Then introduce your topic: 'Today I'll explain why forests are essential for our planet's survival.'"
+                },
+                {
+                  "label": "Body (70-80% of speech)",
+                  "value": "Main Point 1: Forests produce oxygen. Main Point 2: Forests prevent soil erosion. Main Point 3: Forests provide habitat for wildlife. Each point supported with facts and examples."
+                },
+                {
+                  "label": "Conclusion (10-15% of speech)",
+                  "value": "Summarize: 'We've seen how forests provide oxygen, prevent erosion, and support wildlife.' End with impact: 'The future of our planet depends on protecting these vital ecosystems.'"
+                },
+                {
+                  "label": "Complete structure example",
+                  "value": "Speech on healthy eating: Introduction hooks with a shocking statistic about diet-related diseases, body covers three benefits of healthy eating with examples, conclusion summarizes and challenges audience to make one healthy change today."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Developing Main Points",
+          "sections": [
+            {
+              "text": "The body of your speech should contain 2-4 main points, depending on your time limit. Each main point should be clearly stated, supported with evidence (facts, statistics, examples, or stories), and connected to your overall message. Use transitions between points to help your audience follow your logic and stay engaged.",
+              "examples": [
+                {
+                  "label": "Main point with evidence",
+                  "value": "Main point: 'Exercise improves mental health.' Evidence: 'Studies show that 30 minutes of daily exercise reduces anxiety by 25% and improves mood significantly.'"
+                },
+                {
+                  "label": "Using personal stories",
+                  "value": "Main point: 'Reading broadens perspectives.' Story: 'When I read about different cultures, I realized how similar we all are despite our differences.'"
+                },
+                {
+                  "label": "Transition between points",
+                  "value": "'Now that we've seen how exercise benefits our minds, let's explore how it strengthens our bodies.'"
+                },
+                {
+                  "label": "Supporting with statistics",
+                  "value": "Main point: 'Recycling helps the environment.' Statistic: 'Recycling one ton of paper saves 17 trees and reduces water pollution by 35%.'"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Preparation Techniques",
+      "subtopics": [
+        {
+          "title": "Research and Content Development",
+          "sections": [
+            {
+              "text": "Good preparation starts with thorough research on your topic. Gather information from reliable sources, collect interesting facts and statistics, and find relevant examples or stories. Organize your research around your main points and choose the most compelling evidence to support your message. Remember to verify your information and note your sources.",
+              "examples": [
+                {
+                  "label": "Using multiple sources",
+                  "value": "For a speech on renewable energy, research government reports, scientific studies, news articles, and expert interviews to get comprehensive information."
+                },
+                {
+                  "label": "Finding compelling statistics",
+                  "value": "'Solar energy costs have dropped by 70% in the last decade' is more impactful than saying 'Solar energy is becoming cheaper.'"
+                },
+                {
+                  "label": "Collecting relevant examples",
+                  "value": "For a speech about perseverance, research stories of famous people who overcame failures, like Thomas Edison's many attempts before inventing the light bulb."
+                },
+                {
+                  "label": "Organizing research notes",
+                  "value": "Create separate files or sections for introduction material, each main point, supporting evidence, and conclusion ideas."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Writing and Outlining",
+          "sections": [
+            {
+              "text": "Create a detailed outline before writing your full speech. Start with your main points, add supporting details under each point, then write your introduction and conclusion. Use keywords and phrases rather than full sentences in your outline - this will help during delivery. Practice with your outline until you can speak naturally without reading word-for-word.",
+              "examples": [
+                {
+                  "label": "Basic outline format",
+                  "value": "I. Introduction: Hook, Topic, Preview. II. Body: Point 1 (evidence), Point 2 (evidence), Point 3 (evidence). III. Conclusion: Summary, Call to action."
+                },
+                {
+                  "label": "Detailed point development",
+                  "value": "Main Point 1: Benefits of reading. A. Improves vocabulary. B. Reduces stress. C. Increases empathy. Supporting evidence for each sub-point."
+                },
+                {
+                  "label": "Using keywords instead of sentences",
+                  "value": "Instead of writing 'Exercise is very important for our health,' write 'Exercise → health benefits' as a reminder."
+                },
+                {
+                  "label": "Timing notes in outline",
+                  "value": "Add time markers: 'Introduction (2 minutes), Point 1 (3 minutes), Point 2 (4 minutes)' to stay on schedule."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Delivery Techniques",
+      "subtopics": [
+        {
+          "title": "Voice and Body Language",
+          "sections": [
+            {
+              "text": "Effective delivery combines good vocal techniques with confident body language. Speak clearly and at an appropriate volume, vary your tone to maintain interest, and use pauses effectively. Stand tall, make eye contact with different parts of your audience, and use natural gestures to emphasize your points. Your body language should support and enhance your spoken message.",
+              "examples": [
+                {
+                  "label": "Voice projection",
+                  "value": "Speak loud enough for the person in the back row to hear clearly, but don't shout. Practice projecting your voice from your diaphragm."
+                },
+                {
+                  "label": "Using pauses effectively",
+                  "value": "After saying 'This next point might surprise you...' pause for 2-3 seconds to build anticipation before revealing your point."
+                },
+                {
+                  "label": "Eye contact technique",
+                  "value": "Divide your audience into sections and spend 3-5 seconds looking at each section, making brief eye contact with individual listeners."
+                },
+                {
+                  "label": "Natural gestures",
+                  "value": "When saying 'The problem is huge,' spread your arms wide. When counting points, use your fingers. Let gestures flow naturally from your words."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              },
+              "table": {
+                "title": "Voice and Body Language Tips",
+                "headers": ["Aspect", "Do This", "Avoid This"],
+                "rows": [
+                  ["Voice Volume", "Speak clearly, project from diaphragm", "Speaking too softly or shouting"],
+                  ["Eye Contact", "Look at different sections of audience", "Staring at one spot or avoiding eye contact"],
+                  ["Gestures", "Use natural hand movements", "Excessive or distracting movements"],
+                  ["Posture", "Stand straight, shoulders back", "Slouching or swaying"],
+                  ["Facial Expression", "Match expressions to content", "Blank or inappropriate expressions"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Managing Nervousness",
+          "sections": [
+            {
+              "text": "It's normal to feel nervous before giving a speech. Use this nervous energy positively by channeling it into enthusiasm for your topic. Practice relaxation techniques, prepare thoroughly so you feel confident about your content, and remember that your audience wants you to succeed. Focus on your message and your audience rather than your own anxiety.",
+              "examples": [
+                {
+                  "label": "Deep breathing technique",
+                  "value": "Before speaking, take three slow, deep breaths. Inhale for 4 counts, hold for 4 counts, exhale for 4 counts. This calms your nervous system."
+                },
+                {
+                  "label": "Positive visualization",
+                  "value": "Imagine yourself giving a successful speech. Picture the audience nodding, smiling, and applauding at the end."
+                },
+                {
+                  "label": "Preparation builds confidence",
+                  "value": "Practice your speech 5-10 times out loud. The more familiar you are with your content, the less nervous you'll feel."
+                },
+                {
+                  "label": "Reframe nervousness",
+                  "value": "Instead of thinking 'I'm scared,' tell yourself 'I'm excited to share this important message with my audience.'"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              },
+              "table": {
+                "title": "Nervousness Management Strategies",
+                "headers": ["Strategy", "How to Do It", "When to Use"],
+                "rows": [
+                  ["Deep Breathing", "4 counts in, hold 4, out 4", "Minutes before speaking"],
+                  ["Positive Self-Talk", "Replace negative thoughts with positive ones", "Days before and during speech"],
+                  ["Physical Preparation", "Good posture, relaxed shoulders", "Just before speaking"],
+                  ["Focus on Message", "Think about helping audience, not performance", "During the speech"],
+                  ["Practice", "Rehearse speech multiple times", "Days/weeks before speech"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Speech Writing Tips",
+      "subtopics": [
+        {
+          "title": "Best Practices for Speech Preparation and Delivery",
+          "sections": [
+            {
+              "text": "Follow these comprehensive guidelines to prepare and deliver speeches that are engaging, memorable, and effective in achieving your communication goals.",
+              "usage_examples": [
+                "Tip 1: Know your audience before you start preparing. Consider their age, interests, knowledge level, and what they need to hear from you.",
+                "Tip 2: Choose a topic you're genuinely interested in or passionate about. Your enthusiasm will naturally show in your delivery and engage your audience.",
+                "Tip 3: Start with a strong hook in your introduction - a surprising fact, thought-provoking question, or interesting story that relates to your topic.",
+                "Tip 4: Use the 'Rule of Three' - organize your main content into three key points, as this number is easy for audiences to remember.",
+                "Tip 5: Practice your speech out loud multiple times, not just in your head. Record yourself or practice in front of a mirror to improve your delivery.",
+                "Tip 6: Prepare for the unexpected - have a backup plan if technology fails, and know how to handle interruptions or difficult questions gracefully.",
+                "Tip 7: End with a strong conclusion that reinforces your main message and gives your audience something specific to think about or do.",
+                "Tip 8: After your speech, reflect on what went well and what you could improve. Ask for feedback from trusted listeners to continue developing your skills."
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

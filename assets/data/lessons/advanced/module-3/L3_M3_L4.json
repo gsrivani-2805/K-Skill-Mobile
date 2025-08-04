@@ -1,0 +1,316 @@
+{
+  "level": "Advanced",
+  "module": "Public Speaking & Presentation",
+  "lesson_number": 4,
+  "lesson_title": "Debate on Common Issues",
+  "objectives": [
+    "Understand the structure and purpose of a debate",
+    "Learn to present arguments with evidence and reasoning",
+    "Develop skills to counter opposing viewpoints respectfully",
+    "Practice active listening and responding to different perspectives"
+  ],
+  "topics": [
+    {
+      "title": "Introduction to Debate",
+      "subtopics": [
+        {
+          "title": "What is a Debate?",
+          "sections": [
+            {
+              "text": "A debate is a structured discussion where two or more people present different viewpoints on a specific topic or issue. The purpose is not to fight or argue angrily, but to present logical reasons, evidence, and examples to support your position while listening to and responding to opposing views. Good debates help us understand complex issues better and develop critical thinking skills.",
+              "examples": [
+                {
+                  "label": "School uniforms debate",
+                  "value": "Should students be required to wear school uniforms? One side argues uniforms promote equality, while the other side argues they limit self-expression."
+                },
+                {
+                  "label": "Technology in education",
+                  "value": "Are smartphones helpful or harmful in classrooms? Supporters say they enhance learning, while critics say they cause distraction."
+                },
+                {
+                  "label": "Environmental protection",
+                  "value": "Should plastic bags be completely banned? Environmentalists support the ban, while some argue it affects small businesses and consumer convenience."
+                },
+                {
+                  "label": "Social media impact",
+                  "value": "Does social media connect people or isolate them? Some believe it brings global connectivity, others argue it reduces face-to-face interaction."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Structure of a Debate",
+      "subtopics": [
+        {
+          "title": "The Opening Statement",
+          "sections": [
+            {
+              "text": "The opening statement is your first chance to present your main argument. It should clearly state your position, provide 2-3 main supporting points, and give the audience a roadmap of what you will discuss. Keep it concise but compelling.",
+              "examples": [
+                {
+                  "label": "Topic: Should homework be reduced?",
+                  "value": "Good morning everyone. I strongly believe that homework should be reduced in schools. Today I will show you three reasons: first, excessive homework causes stress and health problems; second, it reduces time for family bonding and extracurricular activities; and third, quality learning happens better through focused classroom teaching than repetitive home assignments."
+                },
+                {
+                  "label": "Topic: Is online learning better than classroom learning?",
+                  "value": "Thank you for this opportunity. I argue that traditional classroom learning is superior to online learning. I will demonstrate this through three key points: classroom learning provides better social interaction, teachers can give immediate personalized attention, and students have fewer technical distractions."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Presenting Arguments with Evidence",
+          "sections": [
+            {
+              "text": "Strong arguments combine logical reasoning with concrete evidence. Use statistics, expert opinions, real-life examples, and personal experiences to support your points. Always explain how your evidence connects to your main argument.",
+              "examples": [
+                {
+                  "label": "Using statistics",
+                  "value": "According to a recent study by the Education Ministry, 70% of students reported feeling stressed due to excessive homework load. This clearly shows that current homework practices are harming student well-being."
+                },
+                {
+                  "label": "Using expert opinion",
+                  "value": "Dr. Smith, a child psychologist with 20 years of experience, states that children need at least 2 hours of free play time daily for healthy development. Current homework loads often prevent this essential activity."
+                },
+                {
+                  "label": "Using real-life examples",
+                  "value": "In Finland, students receive minimal homework yet consistently rank among the top performers globally in education. This proves that less homework can lead to better learning outcomes."
+                },
+                {
+                  "label": "Using personal experience",
+                  "value": "As someone who struggled with 4-5 hours of daily homework in high school, I can personally testify how it affected my sleep, health, and relationship with my family."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Addressing Counter-Arguments",
+          "sections": [
+            {
+              "text": "A strong debater acknowledges opposing viewpoints and explains why their position is still better. This shows you understand the complexity of the issue and makes your argument more convincing. Use phrases that show respect for the other side while maintaining your stance.",
+              "examples": [
+                {
+                  "label": "Acknowledging the opposition",
+                  "value": "My opponents make a valid point that homework helps reinforce classroom learning. However, this benefit is outweighed by the negative impact on student mental health and family time."
+                },
+                {
+                  "label": "Providing alternative solutions",
+                  "value": "While I understand the concern about students falling behind without homework, I propose that interactive classroom activities and project-based learning can achieve the same educational goals more effectively."
+                },
+                {
+                  "label": "Questioning opposing evidence",
+                  "value": "The opposing side cites a study showing homework improves grades. However, this study focused only on test scores and ignored important factors like student stress levels, creativity, and overall development."
+                },
+                {
+                  "label": "Showing broader perspective",
+                  "value": "Yes, some homework is necessary, but the current system is excessive. Even homework supporters should agree that 5 hours of daily homework for a 12-year-old is unreasonable."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Language and Phrases for Debating",
+      "subtopics": [
+        {
+          "title": "Phrases for Presenting Your Argument",
+          "sections": [
+            {
+              "text": "Use confident and clear language to present your viewpoints. These phrases help you sound organized and persuasive while maintaining a respectful tone.",
+              "examples": [
+                {
+                  "label": "I strongly believe that...",
+                  "value": "I strongly believe that social media has more negative effects than positive ones on young people."
+                },
+                {
+                  "label": "The evidence clearly shows...",
+                  "value": "The evidence clearly shows that countries with stricter gun laws have lower crime rates."
+                },
+                {
+                  "label": "My first point is...",
+                  "value": "My first point is that renewable energy creates more long-term jobs than fossil fuel industries."
+                },
+                {
+                  "label": "Furthermore / Moreover",
+                  "value": "Furthermore, investing in renewable energy will make our country energy independent."
+                },
+                {
+                  "label": "This demonstrates that...",
+                  "value": "This demonstrates that environmental protection and economic growth can work together."
+                },
+                {
+                  "label": "In conclusion...",
+                  "value": "In conclusion, the benefits of renewable energy far outweigh any short-term costs."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              },
+              "table": {
+                "title": "Argument Presentation Phrases",
+                "headers": ["Phrase", "When to Use", "Example"],
+                "rows": [
+                  ["I firmly believe", "To state your main position", "I firmly believe that education should be free for all children."],
+                  ["Let me explain why", "To introduce your reasoning", "Let me explain why this policy will benefit everyone."],
+                  ["The facts show", "To introduce evidence", "The facts show that vaccination has eliminated many diseases."],
+                  ["This proves that", "To connect evidence to argument", "This proves that early intervention saves lives."],
+                  ["Therefore", "To show logical conclusion", "Therefore, we must act quickly to address climate change."]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Phrases for Responding to Opposition",
+          "sections": [
+            {
+              "text": "When responding to opposing arguments, maintain respect while clearly stating your disagreement. These phrases help you address counter-arguments professionally and persuasively.",
+              "examples": [
+                {
+                  "label": "I respectfully disagree because...",
+                  "value": "I respectfully disagree because the studies they mentioned are outdated and don't reflect current realities."
+                },
+                {
+                  "label": "While I understand their concern...",
+                  "value": "While I understand their concern about costs, we must consider the long-term savings and benefits."
+                },
+                {
+                  "label": "That's an interesting point, however...",
+                  "value": "That's an interesting point, however, the evidence suggests a different conclusion."
+                },
+                {
+                  "label": "On the contrary...",
+                  "value": "On the contrary, recent research shows that this approach actually increases student engagement."
+                },
+                {
+                  "label": "I would argue that...",
+                  "value": "I would argue that the benefits they mentioned are minimal compared to the serious risks involved."
+                },
+                {
+                  "label": "Let me address that concern...",
+                  "value": "Let me address that concern by showing you three examples where this policy worked successfully."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              },
+              "table": {
+                "title": "Opposition Response Phrases",
+                "headers": ["Phrase", "Purpose", "Example"],
+                "rows": [
+                  ["I see their point, but", "Acknowledge then disagree", "I see their point, but the data doesn't support that conclusion."],
+                  ["That raises a good question", "Show respect before rebuttal", "That raises a good question, which I can answer with recent evidence."],
+                  ["However, we must consider", "Introduce alternative perspective", "However, we must consider the impact on future generations."],
+                  ["The reality is", "Present contrasting facts", "The reality is that this solution has failed in other countries."],
+                  ["I challenge that assumption", "Question opposing premise", "I challenge that assumption because it ignores key factors."]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Common Debate Topics and Approaches",
+      "subtopics": [
+        {
+          "title": "Technology and Society",
+          "sections": [
+            {
+              "text": "Technology topics are very relevant to modern life and allow for rich debates. These issues affect everyone and often have both positive and negative aspects that can be explored from multiple angles.",
+              "usage_examples": [
+                "Topic: Should children under 13 be allowed to use social media? Consider safety, social development, digital literacy, and parental rights.",
+                "Topic: Is artificial intelligence a threat to human jobs? Examine automation benefits, economic disruption, retraining needs, and new job creation.",
+                "Topic: Should schools replace textbooks with tablets? Discuss cost, environmental impact, learning effectiveness, and digital divide issues.",
+                "Topic: Is online shopping better than traditional shopping? Compare convenience, local economy impact, environmental effects, and social interaction.",
+                "Topic: Should video games be considered a sport? Analyze skill requirements, physical activity, mental benefits, and traditional sport definitions."
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Education and Youth",
+          "sections": [
+            {
+              "text": "Education debates are particularly engaging for students as they directly affect their lives. These topics allow debaters to use personal experience while also considering broader societal implications.",
+              "usage_examples": [
+                "Topic: Should students choose their own subjects instead of following a fixed curriculum? Consider individual interests, basic knowledge requirements, career preparation, and educational equity.",
+                "Topic: Is competitive grading helpful or harmful to student learning? Examine motivation factors, stress levels, collaboration vs competition, and real-world preparation.",
+                "Topic: Should physical education be mandatory in schools? Discuss health benefits, time allocation, individual preferences, and obesity concerns.",
+                "Topic: Are standardized tests an accurate measure of student ability? Analyze fairness, teaching methods impact, diverse intelligence types, and university admission processes.",
+                "Topic: Should students be paid for good grades? Consider motivation, intrinsic vs extrinsic rewards, equality issues, and long-term learning attitudes."
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Environment and Lifestyle",
+          "sections": [
+            {
+              "text": "Environmental debates help students understand global challenges and their role in solutions. These topics connect local actions with global consequences and encourage critical thinking about sustainable living.",
+              "usage_examples": [
+                "Topic: Should plastic water bottles be banned completely? Examine environmental impact, convenience factors, economic effects on businesses, and alternative solutions.",
+                "Topic: Is vegetarianism better for the environment than eating meat? Consider carbon footprint, land use, personal choice, cultural factors, and nutritional needs.",
+                "Topic: Should cities ban private cars to reduce pollution? Analyze air quality, public transportation, economic impact, personal freedom, and accessibility for disabled people.",
+                "Topic: Is it worth spending money on space exploration when we have problems on Earth? Compare scientific advancement, resource allocation, inspiration value, and immediate needs.",
+                "Topic: Should fast fashion be banned to protect the environment? Discuss environmental costs, worker rights, consumer affordability, and fashion industry responsibility."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Debate Skills and Etiquette",
+      "subtopics": [
+        {
+          "title": "Essential Debate Skills",
+          "sections": [
+            {
+              "text": "Successful debating requires a combination of preparation, communication skills, and emotional intelligence. These skills help you present your ideas effectively while engaging respectfully with others.",
+              "usage_examples": [
+                "Skill 1: Research thoroughly - Know your topic from multiple angles, understand statistics and expert opinions, and prepare responses to likely counter-arguments.",
+                "Skill 2: Listen actively - Pay attention to what opponents actually say, not what you expect them to say. Take notes during their speeches.",
+                "Skill 3: Stay calm and composed - Don't let emotions control your response. Take a breath before responding to strong criticism or personal attacks.",
+                "Skill 4: Use clear structure - Organize your thoughts with clear transitions. Number your points (first, second, third) so the audience can follow easily.",
+                "Skill 5: Make eye contact - Connect with your audience and show confidence. Look at different people around the room, not just at your notes.",
+                "Skill 6: Use appropriate body language - Stand straight, use hand gestures naturally, and avoid distracting movements that take attention from your words.",
+                "Skill 7: Time management - Practice your speeches to fit within time limits. Save time for addressing opposition points.",
+                "Skill 8: Ask strategic questions - Use questions to highlight weaknesses in opposing arguments or to clarify confusing points they've made."
+              ],
+              "media": {
+                "image": "images/advanced/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

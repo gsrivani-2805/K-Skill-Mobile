@@ -1,0 +1,2646 @@
+{
+  "title": "Climate & Weather",
+  "icon": "🌤️",
+  "words": [
+    {
+      "word": "Weather",
+      "pronunciation": "/ˈwɛðər/",
+      "definition": "The state of the atmosphere at a place and time, like if it's sunny, rainy, or windy.",
+      "sentences": [
+        "The weather today is sunny and warm.",
+        "We checked the weather forecast before our picnic.",
+        "Bad weather can sometimes cancel school."
+      ]
+    },
+    {
+      "word": "Climate",
+      "pronunciation": "/ˈklaɪmɪt/",
+      "definition": "The usual weather conditions in a place over a long period of time.",
+      "sentences": [
+        "The desert has a very dry climate.",
+        "The climate in tropical regions is often hot and humid.",
+        "Scientists study how the Earth's climate is changing."
+      ]
+    },
+    {
+      "word": "Temperature",
+      "pronunciation": "/ˈtɛmprətʃər/",
+      "definition": "How hot or cold something is, measured with a thermometer.",
+      "sentences": [
+        "The temperature dropped a lot last night.",
+        "What is the average temperature in summer here?",
+        "We need to keep the food at a safe temperature."
+      ]
+    },
+    {
+      "word": "Humidity",
+      "pronunciation": "/hjuːˈmɪdɪti/",
+      "definition": "The amount of water vapor in the air.",
+      "sentences": [
+        "The humidity makes it feel even hotter outside.",
+        "High humidity can make your hair frizzy.",
+        "Plants grow well in places with high humidity."
+      ]
+    },
+    {
+      "word": "Wind",
+      "pronunciation": "/wɪnd/",
+      "definition": "Moving air.",
+      "sentences": [
+        "The strong wind blew my hat off.",
+        "The wind rustled through the leaves.",
+        "We flew a kite in the gentle wind."
+      ]
+    },
+    {
+      "word": "Rain",
+      "pronunciation": "/reɪn/",
+      "definition": "Water falling from clouds to the Earth in drops.",
+      "sentences": [
+        "It started to rain just as we left the house.",
+        "The plants need rain to grow.",
+        "We heard the rain tapping on the window."
+      ]
+    },
+    {
+      "word": "Snow",
+      "pronunciation": "/snoʊ/",
+      "definition": "Soft, white pieces of frozen water that fall from the sky in cold weather.",
+      "sentences": [
+        "Children love to play in the snow.",
+        "It might snow tomorrow, according to the forecast.",
+        "The ground was covered in a blanket of snow."
+      ]
+    },
+    {
+      "word": "Sun",
+      "pronunciation": "/sʌn/",
+      "definition": "The star that the Earth goes around, which gives us light and heat.",
+      "sentences": [
+        "The sun is shining brightly today.",
+        "We felt the warm sun on our faces.",
+        "Don't forget your sunscreen when you're in the sun."
+      ]
+    },
+    {
+      "word": "Cloud",
+      "pronunciation": "/klaʊd/",
+      "definition": "A white or gray mass in the sky, made of tiny water drops or ice crystals.",
+      "sentences": [
+        "There's a big fluffy cloud shaped like a rabbit.",
+        "The sky was full of dark clouds before the storm.",
+        "We watched the clouds drift across the sky."
+      ]
+    },
+    {
+      "word": "Storm",
+      "pronunciation": "/stɔːrm/",
+      "definition": "Bad weather with strong winds, heavy rain, or snow.",
+      "sentences": [
+        "A big storm hit our town last night.",
+        "We stayed inside during the thunder storm.",
+        "The ship was caught in a violent storm at sea."
+      ]
+    },
+    {
+      "word": "Thunder",
+      "pronunciation": "/ˈθʌndər/",
+      "definition": "The loud noise you hear after lightning during a storm.",
+      "sentences": [
+        "The thunder made the windows shake.",
+        "We heard distant thunder before the rain started.",
+        "Don't be scared of the thunder."
+      ]
+    },
+    {
+      "word": "Lightning",
+      "pronunciation": "/ˈlaɪtnɪŋ/",
+      "definition": "A bright flash of electricity in the sky during a storm.",
+      "sentences": [
+        "The lightning lit up the night sky.",
+        "Never stand under a tree during lightning.",
+        "We counted the seconds between the lightning and the thunder."
+      ]
+    },
+    {
+      "word": "Forecast",
+      "pronunciation": "/ˈfɔːrkæst/",
+      "definition": "A prediction of what the weather will be like in the future.",
+      "sentences": [
+        "The weather forecast says it will be sunny tomorrow.",
+        "We checked the forecast before planning our trip.",
+        "The forecast was wrong; it rained all day."
+      ]
+    },
+    {
+      "word": "Drought",
+      "pronunciation": "/draʊt/",
+      "definition": "A long period of time with very little or no rain.",
+      "sentences": [
+        "The drought caused many plants to die.",
+        "Farmers worry about drought affecting their crops.",
+        "Water restrictions were put in place due to the drought."
+      ]
+    },
+    {
+      "word": "Flood",
+      "pronunciation": "/flʌd/",
+      "definition": "A large amount of water covering an area that is usually dry.",
+      "sentences": [
+        "Heavy rain caused a flood in the town.",
+        "The river overflowed and caused a flood.",
+        "Many homes were damaged by the flood."
+      ]
+    },
+    {
+      "word": "Hurricane",
+      "pronunciation": "/ˈhɜːrɪkeɪn/",
+      "definition": "A very strong tropical storm with powerful winds and heavy rain.",
+      "sentences": [
+        "The hurricane caused a lot of damage to the coast.",
+        "People prepared for the hurricane by boarding up windows.",
+        "A hurricane is a dangerous type of storm."
+      ]
+    },
+    {
+      "word": "Tornado",
+      "pronunciation": "/tɔːrˈneɪdoʊ/",
+      "definition": "A violent, rotating column of air extending from a thunderstorm to the ground.",
+      "sentences": [
+        "The tornado ripped through the small village.",
+        "People took shelter as the tornado approached.",
+        "Tornadoes can cause a lot of destruction."
+      ]
+    },
+    {
+      "word": "Blizzard",
+      "pronunciation": "/ˈblɪzərd/",
+      "definition": "A severe snowstorm with strong winds and very low visibility.",
+      "sentences": [
+        "The blizzard closed all the roads.",
+        "We stayed warm inside during the blizzard.",
+        "A sudden blizzard trapped travelers on the highway."
+      ]
+    },
+    {
+      "word": "Hail",
+      "pronunciation": "/heɪl/",
+      "definition": "Small balls of ice that fall from the sky like rain.",
+      "sentences": [
+        "We heard the hail hitting the roof loudly.",
+        "The hail damaged the cars in the parking lot.",
+        "It's hailing, so don't go outside without a hat."
+      ]
+    },
+    {
+      "word": "Fog",
+      "pronunciation": "/fɒɡ/",
+      "definition": "A thick cloud of tiny water droplets suspended in the atmosphere at or near the Earth's surface, making it hard to see.",
+      "sentences": [
+        "The fog was so thick we couldn't see the road.",
+        "The ship's horn blew loudly in the fog.",
+        "Driving in heavy fog can be dangerous."
+      ]
+    },
+    {
+      "word": "Dew",
+      "pronunciation": "/duː/",
+      "definition": "Tiny drops of water that form on cool surfaces at night, especially outside on grass.",
+      "sentences": [
+        "The grass was wet with dew in the morning.",
+        "I saw dew drops on the spiderweb.",
+        "Dew often forms on clear, cool nights."
+      ]
+    },
+    {
+      "word": "Frost",
+      "pronunciation": "/frɒst/",
+      "definition": "A thin layer of ice crystals that forms on surfaces when the temperature is below freezing.",
+      "sentences": [
+        "The car windows were covered in frost.",
+        "Frost covered the ground like a white blanket.",
+        "Be careful, there might be frost on the roads."
+      ]
+    },
+    {
+      "word": "Rainbow",
+      "pronunciation": "/ˈreɪnboʊ/",
+      "definition": "An arch of colors seen in the sky, caused by sunlight shining through drops of water.",
+      "sentences": [
+        "We saw a beautiful rainbow after the rain.",
+        "Rainbows have seven main colors.",
+        "Finding the end of a rainbow is impossible."
+      ]
+    },
+    {
+      "word": "Atmosphere",
+      "pronunciation": "/ˈætməsfɪər/",
+      "definition": "The layer of gases surrounding the Earth or another planet.",
+      "sentences": [
+        "The Earth's atmosphere protects us from harmful rays.",
+        "Weather events happen in the atmosphere.",
+        "Pollution can harm the atmosphere."
+      ]
+    },
+    {
+      "word": "Ozone Layer",
+      "pronunciation": "/ˈoʊzoʊn ˈleɪər/",
+      "definition": "A layer in the Earth's atmosphere that absorbs most of the Sun's harmful ultraviolet radiation.",
+      "sentences": [
+        "The ozone layer is important for protecting life on Earth.",
+        "Scientists monitor the health of the ozone layer.",
+        "Chemicals released by humans can damage the ozone layer."
+      ]
+    },
+    {
+      "word": "Greenhouse Effect",
+      "pronunciation": "/ˈɡriːnˌhaʊs ɪˈfɛkt/",
+      "definition": "The warming of Earth's surface and atmosphere caused by gases that trap heat.",
+      "sentences": [
+        "The greenhouse effect keeps our planet warm enough to live on.",
+        "Too much greenhouse effect can lead to global warming.",
+        "Carbon dioxide is a major greenhouse gas."
+      ]
+    },
+    {
+      "word": "Global Warming",
+      "pronunciation": "/ˈɡloʊbəl ˈwɔːrmɪŋ/",
+      "definition": "A gradual increase in the overall temperature of the Earth's atmosphere, generally attributed to the greenhouse effect caused by increased levels of carbon dioxide.",
+      "sentences": [
+        "Global warming is causing ice caps to melt.",
+        "Many people are concerned about the effects of global warming.",
+        "Reducing pollution can help slow down global warming."
+      ]
+    },
+    {
+      "word": "Climate Change",
+      "pronunciation": "/ˈklaɪmɪt ʧeɪndʒ/",
+      "definition": "A long-term change in the Earth's overall weather patterns, including changes in temperature, rainfall, and extreme weather events.",
+      "sentences": [
+        "Climate change is affecting weather patterns around the world.",
+        "Scientists are studying the causes and effects of climate change.",
+        "We need to work together to address climate change."
+      ]
+    },
+    {
+      "word": "Pollution",
+      "pronunciation": "/pəˈluːʃən/",
+      "definition": "Harmful substances in the environment, like dirty air or water.",
+      "sentences": [
+        "Air pollution can cause breathing problems.",
+        "We should try to reduce pollution to protect the planet.",
+        "Factories often cause water pollution."
+      ]
+    },
+    {
+      "word": "Carbon Dioxide (CO2)",
+      "pronunciation": "/ˈkɑːrbən daɪˈɒksaɪd/",
+      "definition": "A gas that is naturally in the air, but too much of it from human activities contributes to global warming.",
+      "sentences": [
+        "Plants use carbon dioxide to grow.",
+        "Burning fossil fuels releases a lot of carbon dioxide.",
+        "Scientists measure the amount of carbon dioxide in the atmosphere."
+      ]
+    },
+    {
+      "word": "Fossil Fuels",
+      "pronunciation": "/ˈfɒsl̩ fjuːəlz/",
+      "definition": "Natural fuels like coal, oil, and natural gas, formed from the remains of ancient plants and animals.",
+      "sentences": [
+        "Burning fossil fuels creates energy but also pollution.",
+        "Many cars run on fossil fuels.",
+        "We are trying to find cleaner alternatives to fossil fuels."
+      ]
+    },
+    {
+      "word": "Renewable Energy",
+      "pronunciation": "/rɪˈnuːəbl̩ ˈɛnərdʒi/",
+      "definition": "Energy from sources that are naturally replenished, like solar, wind, and hydropower.",
+      "sentences": [
+        "Solar panels use renewable energy from the sun.",
+        "Renewable energy sources are better for the environment.",
+        "Many countries are investing in renewable energy."
+      ]
+    },
+    {
+      "word": "Solar Energy",
+      "pronunciation": "/ˈsoʊlər ˈɛnərdʒi/",
+      "definition": "Energy obtained from the sun's light and heat.",
+      "sentences": [
+        "Our house has solar panels to generate solar energy.",
+        "Solar energy is a clean source of power.",
+        "Calculators often use small solar energy cells."
+      ]
+    },
+    {
+      "word": "Wind Energy",
+      "pronunciation": "/wɪnd ˈɛnərdʒi/",
+      "definition": "Energy obtained from the wind, usually using wind turbines.",
+      "sentences": [
+        "Wind farms use wind energy to produce electricity.",
+        "Wind energy is becoming more common.",
+        "The large windmills generate wind energy."
+      ]
+    },
+    {
+      "word": "Hydropower",
+      "pronunciation": "/ˈhaɪdroʊˌpaʊər/",
+      "definition": "Electricity generated from the force of moving water.",
+      "sentences": [
+        "Dams are often used to create hydropower.",
+        "Hydropower is a clean and reliable source of energy.",
+        "Many countries get a lot of their electricity from hydropower."
+      ]
+    },
+    {
+      "word": "Recycle",
+      "pronunciation": "/riːˈsaɪkl̩/",
+      "definition": "To convert waste into reusable material.",
+      "sentences": [
+        "Remember to recycle your plastic bottles.",
+        "Recycling helps protect the environment.",
+        "We have separate bins for recycling paper and glass."
+      ]
+    },
+    {
+      "word": "Compost",
+      "pronunciation": "/ˈkɒmpoʊst/",
+      "definition": "Decayed organic material used as a fertilizer for growing plants.",
+      "sentences": [
+        "We put our food scraps in the compost bin.",
+        "Compost enriches the soil in our garden.",
+        "Making compost helps reduce waste."
+      ]
+    },
+    {
+      "word": "Conservation",
+      "pronunciation": "/ˌkɒnsərˈveɪʃən/",
+      "definition": "The protection of animals, plants, and natural resources.",
+      "sentences": [
+        "Wildlife conservation is important for protecting endangered species.",
+        "Water conservation helps save a precious resource.",
+        "We learned about conservation in science class."
+      ]
+    },
+    {
+      "word": "Ecosystem",
+      "pronunciation": "/ˈiːkoʊˌsɪstəm/",
+      "definition": "A community of living organisms interacting with their physical environment.",
+      "sentences": [
+        "The rainforest is a rich ecosystem with many different animals.",
+        "Pollution can harm a delicate ecosystem.",
+        "We studied the pond ecosystem in biology."
+      ]
+    },
+    {
+      "word": "Habitat",
+      "pronunciation": "/ˈhæbɪtæt/",
+      "definition": "The natural home or environment of an animal, plant, or other organism.",
+      "sentences": [
+        "The polar bear's habitat is the Arctic.",
+        "Deforestation destroys the habitat of many animals.",
+        "We visited a nature reserve to see animals in their natural habitat."
+      ]
+    },
+    {
+      "word": "Biodiversity",
+      "pronunciation": "/ˌbaɪoʊdaɪˈvɜːrsɪti/",
+      "definition": "The variety of life on Earth, including different plants, animals, and ecosystems.",
+      "sentences": [
+        "Protecting biodiversity is crucial for a healthy planet.",
+        "Rainforests are rich in biodiversity.",
+        "Climate change threatens global biodiversity."
+      ]
+    },
+    {
+      "word": "Extinction",
+      "pronunciation": "/ɪkˈstɪŋkʃən/",
+      "definition": "The state or process of a species, family, or other group of animals or plants ceasing to exist.",
+      "sentences": [
+        "Dinosaurs faced extinction millions of years ago.",
+        "Pollution and habitat loss can lead to extinction.",
+        "Many efforts are made to prevent species from facing extinction."
+      ]
+    },
+    {
+      "word": "Sustainable",
+      "pronunciation": "/səˈsteɪnəbl̩/",
+      "definition": "Able to be maintained at a certain rate or level; causing little or no damage to the environment and therefore able to continue for a long time.",
+      "sentences": [
+        "We need to find more sustainable ways to produce food.",
+        "Sustainable living means using resources wisely.",
+        "The company focuses on sustainable practices."
+      ]
+    },
+    {
+      "word": "Carbon Footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtˌprɪnt/",
+      "definition": "The total amount of greenhouse gases (especially carbon dioxide) produced by human activities.",
+      "sentences": [
+        "Riding a bike instead of driving reduces your carbon footprint.",
+        "We can lower our carbon footprint by using less electricity.",
+        "Measuring your carbon footprint helps you understand your environmental impact."
+      ]
+    },
+    {
+      "word": "Recycling",
+      "pronunciation": "/riːˈsaɪklɪŋ/",
+      "definition": "The process of converting waste materials into new materials and objects.",
+      "sentences": [
+        "Recycling plastic bottles helps save resources.",
+        "Our town has a good recycling program.",
+        "Learning about recycling is part of being environmentally friendly."
+      ]
+    },
+    {
+      "word": "Upcycling",
+      "pronunciation": "/ˈʌpˌsaɪklɪŋ/",
+      "definition": "To reuse discarded objects or material in such a way as to create a product of higher quality or value than the original.",
+      "sentences": [
+        "She made a beautiful lamp by upcycling old glass bottles.",
+        "Upcycling is a creative way to reduce waste.",
+        "We learned how to upcycle old clothes into new fashion items."
+      ]
+    },
+    {
+      "word": "Green Technology",
+      "pronunciation": "/ɡriːn tɛkˈnɒlədʒi/",
+      "definition": "Technology whose use is intended to mitigate or reverse the effects of human activity on the environment.",
+      "sentences": [
+        "Green technology aims to reduce pollution and conserve energy.",
+        "Many companies are investing in green technology.",
+        "Solar panels are an example of green technology."
+      ]
+    },
+    {
+      "word": "Eco-friendly",
+      "pronunciation": "/ˈiːkoʊˌfrɛndli/",
+      "definition": "Not harmful to the environment.",
+      "sentences": [
+        "We use eco-friendly cleaning products at home.",
+        "Buying eco-friendly products helps protect the planet.",
+        "The new car is very eco-friendly."
+      ]
+    },
+    {
+      "word": "Renewable Resources",
+      "pronunciation": "/rɪˈnuːəbl̩ rɪˈsɔːrsɪz/",
+      "definition": "Natural resources that can be replaced or replenished naturally over time, such as sunlight, wind, and water.",
+      "sentences": [
+        "Solar and wind power are examples of renewable resources.",
+        "We should rely more on renewable resources for energy.",
+        "Trees are a renewable resource if managed properly."
+      ]
+    },
+    {
+      "word": "Non-renewable Resources",
+      "pronunciation": "/ˌnɒn rɪˈnuːəbl̩ rɪˈsɔːrsɪz/",
+      "definition": "Natural resources that exist in finite quantities and are not replenished on a human timescale, such as fossil fuels and minerals.",
+      "sentences": [
+        "Oil and coal are non-renewable resources.",
+        "We need to use non-renewable resources carefully.",
+        "Once non-renewable resources are used up, they are gone forever."
+      ]
+    },
+    {
+      "word": "Deforestation",
+      "pronunciation": "/ˌdiːˌfɒrɪˈsteɪʃən/",
+      "definition": "The clearing of forests for other land uses, such as agriculture or urban development.",
+      "sentences": [
+        "Deforestation is a major cause of habitat loss.",
+        "We need to stop deforestation to protect rainforests.",
+        "Deforestation contributes to climate change."
+      ]
+    },
+    {
+      "word": "Desertification",
+      "pronunciation": "/ˌdɛzərtɪfɪˈkeɪʃən/",
+      "definition": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.",
+      "sentences": [
+        "Climate change can lead to desertification in some regions.",
+        "Poor farming practices can cause desertification.",
+        "Stopping desertification is important for food security."
+      ]
+    },
+    {
+      "word": "Smog",
+      "pronunciation": "/smɒɡ/",
+      "definition": "A type of air pollution caused by a mixture of smoke and fog, often seen in cities.",
+      "sentences": [
+        "The city was covered in a thick layer of smog.",
+        "Smog can cause respiratory problems.",
+        "Driving less helps reduce smog."
+      ]
+    },
+    {
+      "word": "Acid Rain",
+      "pronunciation": "/ˈæsɪd reɪn/",
+      "definition": "Rain that is unusually acidic due to atmospheric pollution, which can damage forests, lakes, and buildings.",
+      "sentences": [
+        "Acid rain can harm trees and fish in lakes.",
+        "Pollution from factories contributes to acid rain.",
+        "Efforts are being made to reduce acid rain."
+      ]
+    },
+    {
+      "word": "Greenhouse Gases",
+      "pronunciation": "/ˈɡriːnˌhaʊs ˈɡæsɪz/",
+      "definition": "Gases in Earth's atmosphere that trap heat, such as carbon dioxide and methane.",
+      "sentences": [
+        "Reducing greenhouse gases is key to fighting global warming.",
+        "Burning fossil fuels releases many greenhouse gases.",
+        "Scientists monitor the levels of greenhouse gases in the air."
+      ]
+    },
+    {
+      "word": "Carbon Footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtˌprɪnt/",
+      "definition": "The total amount of greenhouse gases produced by an individual, event, organization, or product.",
+      "sentences": [
+        "We can reduce our carbon footprint by using less electricity.",
+        "Eating less meat can lower your carbon footprint.",
+        "The company aims to reduce its carbon footprint by 20%."
+      ]
+    },
+    {
+      "word": "Recycling",
+      "pronunciation": "/riːˈsaɪklɪŋ/",
+      "definition": "The process of converting waste materials into new materials and objects.",
+      "sentences": [
+        "Recycling helps save natural resources.",
+        "Our school has a strong recycling program.",
+        "Remember to separate your trash for recycling."
+      ]
+    },
+    {
+      "word": "Composting",
+      "pronunciation": "/ˈkɒmpoʊstɪŋ/",
+      "definition": "The process of decaying organic material to create nutrient-rich soil.",
+      "sentences": [
+        "Composting kitchen scraps helps reduce landfill waste.",
+        "We started composting in our backyard.",
+        "Composting is good for your garden and the environment."
+      ]
+    },
+    {
+      "word": "Conservation",
+      "pronunciation": "/ˌkɒnsərˈveɪʃən/",
+      "definition": "The careful preservation and protection of something, especially planned management of a natural resource to prevent exploitation, destruction, or neglect.",
+      "sentences": [
+        "Water conservation is important during a drought.",
+        "Wildlife conservation efforts protect endangered animals.",
+        "We learned about energy conservation in science class."
+      ]
+    },
+    {
+      "word": "Ecosystem",
+      "pronunciation": "/ˈiːkoʊˌsɪstəm/",
+      "definition": "A biological community of interacting organisms and their physical environment.",
+      "sentences": [
+        "The Amazon rainforest is a vast and complex ecosystem.",
+        "Pollution can disrupt the balance of an ecosystem.",
+        "Understanding how an ecosystem works is vital for its protection."
+      ]
+    },
+    {
+      "word": "Habitat",
+      "pronunciation": "/ˈhæbɪtæt/",
+      "definition": "The natural home or environment of an animal, plant, or other organism.",
+      "sentences": [
+        "The panda's natural habitat is bamboo forests.",
+        "Loss of habitat is a major threat to many species.",
+        "Protecting habitats is crucial for biodiversity."
+      ]
+    },
+    {
+      "word": "Biodiversity",
+      "pronunciation": "/ˌbaɪoʊdaɪˈvɜːrsɪti/",
+      "definition": "The variety of life in the world or in a particular habitat or ecosystem.",
+      "sentences": [
+        "Tropical rainforests are known for their rich biodiversity.",
+        "Protecting biodiversity is essential for a healthy planet.",
+        "Climate change can lead to a loss of biodiversity."
+      ]
+    },
+    {
+      "word": "Extinction",
+      "pronunciation": "/ɪkˈstɪŋkʃən/",
+      "definition": "The state or process of a species, family, or other group of animals or plants ceasing to exist.",
+      "sentences": [
+        "Many species are at risk of extinction due to human activities.",
+        "The extinction of dinosaurs happened millions of years ago.",
+        "Conservation efforts aim to prevent animal extinction."
+      ]
+    },
+    {
+      "word": "Sustainable",
+      "pronunciation": "/səˈsteɪnəbl̩/",
+      "definition": "Meeting the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "sentences": [
+        "We need to adopt more sustainable practices.",
+        "Sustainable agriculture helps protect the soil.",
+        "The company is committed to sustainable development."
+      ]
+    },
+    {
+      "word": "Renewable Energy",
+      "pronunciation": "/rɪˈnuːəbl̩ ˈɛnərdʒi/",
+      "definition": "Energy from a source that is not depleted when used, such as wind or solar power.",
+      "sentences": [
+        "Solar panels generate renewable energy from the sun.",
+        "Many countries are investing in renewable energy sources.",
+        "Renewable energy helps reduce our reliance on fossil fuels."
+      ]
+    },
+    {
+      "word": "Non-renewable Energy",
+      "pronunciation": "/ˌnɒn rɪˈnuːəbl̩ ˈɛnərdʒi/",
+      "definition": "Energy from a source that cannot be replaced once it is used, such as fossil fuels.",
+      "sentences": [
+        "Coal and oil are examples of non-renewable energy sources.",
+        "We need to reduce our use of non-renewable energy.",
+        "Non-renewable energy sources contribute to pollution."
+      ]
+    },
+    {
+      "word": "Greenhouse Effect",
+      "pronunciation": "/ˈɡriːnˌhaʊs ɪˈfɛkt/",
+      "definition": "The natural process by which gases in Earth's atmosphere trap heat, warming the planet.",
+      "sentences": [
+        "The greenhouse effect is essential for life on Earth.",
+        "An increase in greenhouse gases can lead to global warming.",
+        "Understanding the greenhouse effect is key to climate science."
+      ]
+    },
+    {
+      "word": "Global Warming",
+      "pronunciation": "/ˈɡloʊbəl ˈwɔːrmɪŋ/",
+      "definition": "The long-term heating of Earth's climate system observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere.",
+      "sentences": [
+        "Global warming is causing rising sea levels.",
+        "Scientists have strong evidence of global warming.",
+        "We must act to slow down global warming."
+      ]
+    },
+    {
+      "word": "Climate Change",
+      "pronunciation": "/ˈklaɪmɪt ʧeɪndʒ/",
+      "definition": "A significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years.",
+      "sentences": [
+        "Climate change is leading to more extreme weather events.",
+        "Addressing climate change requires global cooperation.",
+        "The effects of climate change are visible worldwide."
+      ]
+    },
+    {
+      "word": "Carbon Footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtˌprɪnt/",
+      "definition": "The total amount of greenhouse gases (including carbon dioxide and methane) that are generated by our actions.",
+      "sentences": [
+        "Reducing your carbon footprint helps the environment.",
+        "Flying less can significantly lower your carbon footprint.",
+        "Many companies are working to reduce their carbon footprint."
+      ]
+    },
+    {
+      "word": "Pollution",
+      "pronunciation": "/pəˈluːʃən/",
+      "definition": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+      "sentences": [
+        "Air pollution is a major problem in big cities.",
+        "We need to find ways to reduce plastic pollution.",
+        "Pollution can harm both humans and wildlife."
+      ]
+    },
+    {
+      "word": "Emissions",
+      "pronunciation": "/ɪˈmɪʃənz/",
+      "definition": "The production and discharge of something, especially gas or radiation.",
+      "sentences": [
+        "Car emissions contribute to air pollution.",
+        "Factories are working to reduce their carbon emissions.",
+        "New regulations aim to lower greenhouse gas emissions."
+      ]
+    },
+    {
+      "word": "Carbon Capture",
+      "pronunciation": "/ˈkɑːrbən ˈkæptʃər/",
+      "definition": "The process of capturing carbon dioxide from large point sources, such as power plants, and storing it instead of releasing it into the atmosphere.",
+      "sentences": [
+        "Carbon capture technology can help reduce CO2 in the air.",
+        "Some new power plants are exploring carbon capture.",
+        "Carbon capture is a potential solution for climate change."
+      ]
+    },
+    {
+      "word": "Reforestation",
+      "pronunciation": "/ˌriːˌfɒrɪˈsteɪʃən/",
+      "definition": "The process of replanting trees in areas where forests have been removed.",
+      "sentences": [
+        "Reforestation efforts help restore damaged ecosystems.",
+        "Planting trees is a simple way to support reforestation.",
+        "Reforestation can combat climate change by absorbing CO2."
+      ]
+    },
+    {
+      "word": "Afforestation",
+      "pronunciation": "/əˌfɒrɪˈsteɪʃən/",
+      "definition": "The establishment of a forest or stand of trees in an area where there was no previous tree cover.",
+      "sentences": [
+        "Afforestation projects are creating new forests in barren lands.",
+        "Afforestation helps improve air quality.",
+        "The government is promoting afforestation to increase green cover."
+      ]
+    },
+    {
+      "word": "Sustainable Development",
+      "pronunciation": "/səˈsteɪnəbl̩ dɪˈvɛləpmənt/",
+      "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "sentences": [
+        "Sustainable development aims for economic growth without harming the environment.",
+        "Many international organizations promote sustainable development goals.",
+        "Education is key to achieving sustainable development."
+      ]
+    },
+    {
+      "word": "Ecological Footprint",
+      "pronunciation": "/ˌiːkəˈlɒdʒɪkl̩ ˈfʊtˌprɪnt/",
+      "definition": "A measure of human demand on the Earth's ecosystems, expressed as the amount of land needed to support a person's lifestyle.",
+      "sentences": [
+        "Eating locally grown food can reduce your ecological footprint.",
+        "Our ecological footprint shows how much resources we consume.",
+        "Living simply can help shrink your ecological footprint."
+      ]
+    },
+    {
+      "word": "Carbon Neutral",
+      "pronunciation": "/ˈkɑːrbən ˈnuːtrəl/",
+      "definition": "Achieving net zero carbon dioxide emissions by balancing carbon emissions with carbon removal or by eliminating carbon emissions entirely.",
+      "sentences": [
+        "The company aims to be carbon neutral by 2030.",
+        "Using renewable energy helps achieve carbon neutral status.",
+        "Many events are striving to become carbon neutral."
+      ]
+    },
+    {
+      "word": "Climate Resilience",
+      "pronunciation": "/ˈklaɪmɪt rɪˈzɪliəns/",
+      "definition": "The capacity of social, economic, and environmental systems to cope with a hazardous event or trend or disturbance, responding or reorganizing in ways that maintain their essential function, identity, and structure.",
+      "sentences": [
+        "Building climate resilience is important for coastal communities.",
+        "Cities are developing strategies for climate resilience.",
+        "Investing in infrastructure can improve climate resilience."
+      ]
+    },
+    {
+      "word": "Adaptation (Climate)",
+      "pronunciation": "/ˌædæpˈteɪʃən/",
+      "definition": "Adjustments in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities.",
+      "sentences": [
+        "Building sea walls is an adaptation to rising sea levels.",
+        "Farmers are practicing new methods of adaptation to changing rainfall.",
+        "Climate adaptation strategies are crucial for vulnerable regions."
+      ]
+    },
+    {
+      "word": "Mitigation (Climate)",
+      "pronunciation": "/ˌmɪtɪˈɡeɪʃən/",
+      "definition": "Actions to reduce the sources or enhance the sinks of greenhouse gases.",
+      "sentences": [
+        "Reducing fossil fuel use is a key climate mitigation strategy.",
+        "Planting trees is a form of climate mitigation.",
+        "International agreements focus on climate mitigation efforts."
+      ]
+    },
+    {
+      "word": "Weather Pattern",
+      "pronunciation": "/ˈwɛðər ˈpætərn/",
+      "definition": "A recurring set of weather conditions over an area.",
+      "sentences": [
+        "Scientists observe changes in global weather patterns.",
+        "Unusual weather patterns can indicate climate change.",
+        "The region has distinct weather patterns throughout the year."
+      ]
+    },
+    {
+      "word": "Atmospheric Pressure",
+      "pronunciation": "/ˌætməˈsfɛrɪk ˈprɛʃər/",
+      "definition": "The force exerted by the weight of the air in the atmosphere.",
+      "sentences": [
+        "Changes in atmospheric pressure can indicate coming weather changes.",
+        "High atmospheric pressure usually means clear skies.",
+        "Pilots need to monitor atmospheric pressure."
+      ]
+    },
+    {
+      "word": "Barometer",
+      "pronunciation": "/bəˈrɒmɪtər/",
+      "definition": "An instrument that measures atmospheric pressure, used in forecasting the weather.",
+      "sentences": [
+        "The barometer showed a drop in pressure, meaning a storm was coming.",
+        "Sailors often use a barometer to predict weather.",
+        "A sudden change on the barometer can be a warning."
+      ]
+    },
+    {
+      "word": "Thermometer",
+      "pronunciation": "/θərˈmɒmɪtər/",
+      "definition": "An instrument for measuring temperature.",
+      "sentences": [
+        "The thermometer showed the temperature was 30 degrees Celsius.",
+        "We use a thermometer to check our body temperature.",
+        "The outdoor thermometer helps us decide what to wear."
+      ]
+    },
+    {
+      "word": "Anemometer",
+      "pronunciation": "/ˌænəˈmɒmɪtər/",
+      "definition": "An instrument for measuring the speed of the wind.",
+      "sentences": [
+        "The meteorologist used an anemometer to measure wind speed.",
+        "An anemometer is often seen at weather stations.",
+        "The spinning cups of the anemometer show how fast the wind is."
+      ]
+    },
+    {
+      "word": "Rain Gauge",
+      "pronunciation": "/reɪn ɡeɪdʒ/",
+      "definition": "An instrument used to measure the amount of rain that has fallen.",
+      "sentences": [
+        "We checked the rain gauge after the heavy shower.",
+        "A rain gauge helps farmers track rainfall.",
+        "The rain gauge collected 2 inches of water overnight."
+      ]
+    },
+    {
+      "word": "Weather Balloon",
+      "pronunciation": "/ˈwɛðər bəˈluːn/",
+      "definition": "A balloon that carries instruments high into the atmosphere to gather weather data.",
+      "sentences": [
+        "Weather balloons provide important information for forecasts.",
+        "The weather balloon ascended into the clouds.",
+        "Scientists release weather balloons daily."
+      ]
+    },
+    {
+      "word": "Satellite",
+      "pronunciation": "/ˈsætəlaɪt/",
+      "definition": "An artificial body placed in orbit around the Earth or another planet to collect information or for communication.",
+      "sentences": [
+        "Weather satellites help predict storms.",
+        "Communication satellites allow us to make phone calls around the world.",
+        "Many satellites orbit the Earth."
+      ]
+    },
+    {
+      "word": "Jet Stream",
+      "pronunciation": "/dʒɛt striːm/",
+      "definition": "A narrow, fast-moving current of air high in the atmosphere that influences weather patterns.",
+      "sentences": [
+        "The jet stream can bring cold air from the north.",
+        "Pilots use the jet stream to fly faster.",
+        "Changes in the jet stream can affect regional climates."
+      ]
+    },
+    {
+      "word": "El Niño",
+      "pronunciation": "/ɛl ˈniːnjoʊ/",
+      "definition": "A climate pattern that describes the unusual warming of surface waters in the eastern tropical Pacific Ocean, affecting weather worldwide.",
+      "sentences": [
+        "El Niño can cause droughts in some areas and heavy rain in others.",
+        "Scientists study El Niño to understand global weather shifts.",
+        "The effects of El Niño are felt across continents."
+      ]
+    },
+    {
+      "word": "La Niña",
+      "pronunciation": "/lɑː ˈniːnjə/",
+      "definition": "A climate pattern that describes the unusual cooling of surface waters in the eastern tropical Pacific Ocean, often following an El Niño event.",
+      "sentences": [
+        "La Niña often brings different weather patterns than El Niño.",
+        "La Niña can lead to colder winters in some regions.",
+        "Scientists monitor both El Niño and La Niña for climate predictions."
+      ]
+    },
+    {
+      "word": "Monsoon",
+      "pronunciation": "/mɒnˈsuːn/",
+      "definition": "A seasonal prevailing wind in the region of South and Southeast Asia, blowing from the southwest in summer and bringing heavy rains, and from the northeast in winter.",
+      "sentences": [
+        "The monsoon season brings much-needed rain to India.",
+        "Farmers depend on the monsoon for their crops.",
+        "Heavy monsoon rains can sometimes cause flooding."
+      ]
+    },
+    {
+      "word": "Cyclone",
+      "pronunciation": "/ˈsaɪkloʊn/",
+      "definition": "A system of winds rotating inward to an area of low atmospheric pressure, with an anticlockwise or clockwise circulation; a severe tropical storm.",
+      "sentences": [
+        "A powerful cyclone hit the coastal areas.",
+        "People evacuated their homes before the cyclone arrived.",
+        "Cyclones are known by different names in different parts of the world."
+      ]
+    },
+    {
+      "word": "Typhoon",
+      "pronunciation": "/taɪˈfuːn/",
+      "definition": "A tropical cyclone occurring in the region of the Philippines or the China Sea.",
+      "sentences": [
+        "The typhoon caused widespread damage in the Philippines.",
+        "Typhoons bring strong winds and heavy rainfall.",
+        "Ships were warned to avoid the area affected by the typhoon."
+      ]
+    },
+    {
+      "word": "Tsunami",
+      "pronunciation": "/tsuːˈnɑːmi/",
+      "definition": "A long, high sea wave caused by an earthquake, submarine landslide, or other disturbance.",
+      "sentences": [
+        "The earthquake triggered a massive tsunami.",
+        "Coastal communities have warning systems for tsunamis.",
+        "A tsunami can cause immense destruction."
+      ]
+    },
+    {
+      "word": "Volcano",
+      "pronunciation": "/vɒlˈkeɪnoʊ/",
+      "definition": "A mountain or hill, typically conical, having a crater or vent through which lava, rock fragments, hot vapor, and gas are or have been erupted from the Earth's crust.",
+      "sentences": [
+        "The volcano erupted, sending ash into the sky.",
+        "Volcanoes can affect local weather patterns.",
+        "We visited a dormant volcano on our trip."
+      ]
+    },
+    {
+      "word": "Earthquake",
+      "pronunciation": "/ˈɜːrθˌkweɪk/",
+      "definition": "A sudden violent shaking of the ground, typically causing great destruction, as a result of movements within the Earth's crust or volcanic action.",
+      "sentences": [
+        "The earthquake caused buildings to shake.",
+        "People felt a strong earthquake last night.",
+        "Earthquakes can lead to tsunamis."
+      ]
+    },
+    {
+      "word": "Glacier",
+      "pronunciation": "/ˈɡleɪʃər/",
+      "definition": "A slowly moving mass or river of ice formed by the accumulation and compaction of snow on mountains or near the poles.",
+      "sentences": [
+        "The glacier is slowly melting due to global warming.",
+        "We hiked to see the impressive glacier.",
+        "Glaciers are huge bodies of ice."
+      ]
+    },
+    {
+      "word": "Ice Cap",
+      "pronunciation": "/aɪs kæp/",
+      "definition": "A permanent covering of ice and snow, especially in a polar region.",
+      "sentences": [
+        "The Arctic ice cap is shrinking.",
+        "Melting ice caps contribute to rising sea levels.",
+        "Polar bears live on the ice caps."
+      ]
+    },
+    {
+      "word": "Sea Level",
+      "pronunciation": "/siː ˈlɛvl̩/",
+      "definition": "The level of the sea's surface, used in calculating the height of geographical features.",
+      "sentences": [
+        "Rising sea levels threaten coastal cities.",
+        "Scientists monitor global sea level changes.",
+        "Some islands are at risk due to rising sea levels."
+      ]
+    },
+    {
+      "word": "Greenhouse Gas",
+      "pronunciation": "/ˈɡriːnˌhaʊs ɡæs/",
+      "definition": "Any gas that absorbs infrared radiation in the atmosphere, trapping heat.",
+      "sentences": [
+        "Carbon dioxide is a major greenhouse gas.",
+        "Reducing greenhouse gas emissions is crucial for climate action.",
+        "Methane is another powerful greenhouse gas."
+      ]
+    },
+    {
+      "word": "Carbon Cycle",
+      "pronunciation": "/ˈkɑːrbən ˈsaɪkl̩/",
+      "definition": "The series of processes by which carbon compounds are interconverted in the environment, involving the incorporation of carbon dioxide into living tissue by photosynthesis and its return to the atmosphere through respiration, the decay of dead organisms, and the burning of fossil fuels.",
+      "sentences": [
+        "The carbon cycle explains how carbon moves through Earth's systems.",
+        "Human activities are disrupting the natural carbon cycle.",
+        "Plants play a vital role in the carbon cycle."
+      ]
+    },
+    {
+      "word": "Erosion",
+      "pronunciation": "/ɪˈroʊʒən/",
+      "definition": "The process by which the surface of the Earth is worn away by the action of water, glaciers, winds, waves, etc.",
+      "sentences": [
+        "Coastal erosion is a problem in many areas.",
+        "Strong winds can cause soil erosion.",
+        "Planting trees can help prevent erosion."
+      ]
+    },
+    {
+      "word": "Desertification",
+      "pronunciation": "/ˌdɛzərtɪfɪˈkeɪʃən/",
+      "definition": "The process by which fertile land becomes desert, typically as a result of drought, deforestation, or inappropriate agriculture.",
+      "sentences": [
+        "Desertification is a serious environmental issue.",
+        "Overgrazing can contribute to desertification.",
+        "Efforts are being made to combat desertification."
+      ]
+    },
+    {
+      "word": "Biodegradable",
+      "pronunciation": "/ˌbaɪoʊdɪˈɡreɪdəbl̩/",
+      "definition": "Capable of being decomposed by bacteria or other living organisms.",
+      "sentences": [
+        "We should use biodegradable products to help the environment.",
+        "Many plastics are not biodegradable.",
+        "Compostable materials are biodegradable."
+      ]
+    },
+    {
+      "word": "Sustainable Living",
+      "pronunciation": "/səˈsteɪnəbl̩ ˈlɪvɪŋ/",
+      "definition": "A lifestyle that attempts to reduce an individual's or society's use of Earth's natural resources, and one's personal resources.",
+      "sentences": [
+        "Sustainable living involves reducing waste and conserving energy.",
+        "Many people are adopting practices for sustainable living.",
+        "Sustainable living benefits both people and the planet."
+      ]
+    },
+    {
+      "word": "Carbon Offset",
+      "pronunciation": "/ˈkɑːrbən ˈɒfˌsɛt/",
+      "definition": "A reduction in emissions of carbon dioxide or greenhouse gases made in order to compensate for emissions made elsewhere.",
+      "sentences": [
+        "You can buy carbon offsets to balance your travel emissions.",
+        "Carbon offsets help fund projects that reduce greenhouse gases.",
+        "Some companies offer carbon offset programs."
+      ]
+    },
+    {
+      "word": "Weather Station",
+      "pronunciation": "/ˈwɛðər ˈsteɪʃən/",
+      "definition": "A place where instruments are located to measure weather conditions.",
+      "sentences": [
+        "The local weather station provides accurate forecasts.",
+        "Weather stations collect data on temperature, wind, and rain.",
+        "Students visited a weather station to learn about meteorology."
+      ]
+    },
+    {
+      "word": "Meteorologist",
+      "pronunciation": "/ˌmiːtiəˈrɒlədʒɪst/",
+      "definition": "A scientist who studies the weather and forecasts it.",
+      "sentences": [
+        "The meteorologist predicted heavy snow for tomorrow.",
+        "Meteorologists use special tools to study the atmosphere.",
+        "My uncle is a meteorologist for a TV station."
+      ]
+    },
+    {
+      "word": "Climatologist",
+      "pronunciation": "/ˌklaɪməˈtɒlədʒɪst/",
+      "definition": "A scientist who studies climate and climate change.",
+      "sentences": [
+        "Climatologists analyze long-term weather patterns.",
+        "A climatologist can explain past climate changes.",
+        "Climatologists are concerned about rising global temperatures."
+      ]
+    },
+    {
+      "word": "Atmospheric River",
+      "pronunciation": "/ˌætməˈsfɛrɪk ˈrɪvər/",
+      "definition": "A long, narrow region in the atmosphere that transports most of the water vapor outside of the tropics.",
+      "sentences": [
+        "An atmospheric river brought heavy rains to California.",
+        "Atmospheric rivers can cause floods and mudslides.",
+        "Scientists are studying the impact of atmospheric rivers on weather."
+      ]
+    },
+    {
+      "word": "Polar Vortex",
+      "pronunciation": "/ˈpoʊlər ˈvɔːrtɛks/",
+      "definition": "A large area of low pressure and cold air surrounding both of Earth's poles.",
+      "sentences": [
+        "The polar vortex brought extremely cold temperatures to the Midwest.",
+        "When the polar vortex weakens, cold air can spread further south.",
+        "The polar vortex is a natural weather phenomenon."
+      ]
+    },
+    {
+      "word": "Heatwave",
+      "pronunciation": "/ˈhiːtweɪv/",
+      "definition": "A prolonged period of abnormally hot weather.",
+      "sentences": [
+        "The city experienced a severe heatwave last summer.",
+        "During a heatwave, it's important to stay hydrated.",
+        "Heatwaves can be dangerous for vulnerable people."
+      ]
+    },
+    {
+      "word": "Cold Snap",
+      "pronunciation": "/koʊld snæp/",
+      "definition": "A sudden, brief period of cold weather.",
+      "sentences": [
+        "A cold snap brought freezing temperatures unexpectedly.",
+        "The plants were damaged by the sudden cold snap.",
+        "We had a short cold snap before spring arrived."
+      ]
+    },
+    {
+      "word": "Front (Weather)",
+      "pronunciation": "/frʌnt/",
+      "definition": "The boundary between two air masses of different temperatures or densities.",
+      "sentences": [
+        "A cold front is moving in, bringing cooler temperatures.",
+        "Weather maps show different types of fronts.",
+        "The warm front brought rain and higher humidity."
+      ]
+    },
+    {
+      "word": "Air Mass",
+      "pronunciation": "/ɛər mæs/",
+      "definition": "A large body of air with uniform temperature and humidity characteristics.",
+      "sentences": [
+        "A polar air mass brought a cold spell.",
+        "Tropical air masses are warm and humid.",
+        "Weather changes when different air masses meet."
+      ]
+    },
+    {
+      "word": "High Pressure System",
+      "pronunciation": "/haɪ ˈprɛʃər ˈsɪstəm/",
+      "definition": "An area where the atmospheric pressure is higher than the surrounding area, usually associated with clear skies and calm weather.",
+      "sentences": [
+        "A high pressure system is bringing sunny weather.",
+        "High pressure systems often lead to stable weather.",
+        "The forecast shows a persistent high pressure system."
+      ]
+    },
+    {
+      "word": "Low Pressure System",
+      "pronunciation": "/loʊ ˈprɛʃər ˈsɪstəm/",
+      "definition": "An area where the atmospheric pressure is lower than the surrounding area, usually associated with cloudy, rainy, or stormy weather.",
+      "sentences": [
+        "A low pressure system is moving in, bringing rain.",
+        "Low pressure systems often cause unsettled weather.",
+        "The formation of a low pressure system can lead to storms."
+      ]
+    },
+    {
+      "word": "Precipitation",
+      "pronunciation": "/prɪˌsɪpɪˈteɪʃən/",
+      "definition": "Any form of water that falls from clouds and reaches Earth's surface, such as rain, snow, sleet, or hail.",
+      "sentences": [
+        "The forecast calls for significant precipitation tomorrow.",
+        "We measure the amount of precipitation with a rain gauge.",
+        "Lack of precipitation can lead to drought."
+      ]
+    },
+    {
+      "word": "Sleet",
+      "pronunciation": "/sliːt/",
+      "definition": "A mixture of rain and snow, or ice pellets that fall from the sky.",
+      "sentences": [
+        "It started to sleet during our walk.",
+        "The roads were slippery due to the sleet.",
+        "Sleet often occurs when temperatures are near freezing."
+      ]
+    },
+    {
+      "word": "Freezing Rain",
+      "pronunciation": "/ˈfriːzɪŋ reɪn/",
+      "definition": "Rain that freezes upon impact with surfaces, creating a layer of ice.",
+      "sentences": [
+        "Freezing rain made driving conditions very dangerous.",
+        "Trees can be damaged by the weight of freezing rain.",
+        "Power outages often occur during freezing rain events."
+      ]
+    },
+    {
+      "word": "Ice Storm",
+      "pronunciation": "/aɪs stɔːrm/",
+      "definition": "A type of winter storm characterized by freezing rain, which results in a significant accumulation of ice on surfaces.",
+      "sentences": [
+        "The ice storm caused widespread power outages.",
+        "Everything was covered in a thick layer of ice after the ice storm.",
+        "An ice storm can be very destructive."
+      ]
+    },
+    {
+      "word": "Blizzard",
+      "pronunciation": "/ˈblɪzərd/",
+      "definition": "A severe snowstorm with high winds and low visibility.",
+      "sentences": [
+        "The blizzard made it impossible to see the road.",
+        "Schools were closed due to the blizzard.",
+        "We stocked up on food before the blizzard hit."
+      ]
+    },
+    {
+      "word": "Whiteout",
+      "pronunciation": "/ˈwaɪtˌaʊt/",
+      "definition": "A weather condition in which visibility is severely reduced by snow or fog, making it impossible to see distinct objects or the horizon.",
+      "sentences": [
+        "Driving during the whiteout was extremely dangerous.",
+        "The mountain climbers experienced a whiteout at the summit.",
+        "A sudden whiteout can disorient travelers."
+      ]
+    },
+    {
+      "word": "Wind Chill",
+      "pronunciation": "/wɪnd ʧɪl/",
+      "definition": "The cooling effect of wind on a surface, such as the human body, exposed to the air.",
+      "sentences": [
+        "The wind chill made the cold weather feel even colder.",
+        "Always check the wind chill factor before going outside in winter.",
+        "The wind chill can cause frostbite quickly."
+      ]
+    },
+    {
+      "word": "Heat Index",
+      "pronunciation": "/hiːt ˈɪndɛks/",
+      "definition": "A measure of how hot it feels when relative humidity is combined with the air temperature.",
+      "sentences": [
+        "The heat index today is dangerously high.",
+        "The heat index takes into account both temperature and humidity.",
+        "Exercise outdoors is not recommended when the heat index is extreme."
+      ]
+    },
+    {
+      "word": "Drought",
+      "pronunciation": "/draʊt/",
+      "definition": "A prolonged period of abnormally low rainfall, leading to a shortage of water.",
+      "sentences": [
+        "The drought caused severe water shortages in the region.",
+        "Farmers suffered huge losses due to the drought.",
+        "Many areas are experiencing a long-term drought."
+      ]
+    },
+    {
+      "word": "Flood",
+      "pronunciation": "/flʌd/",
+      "definition": "An overflow of a large amount of water beyond its normal limits, especially over what is normally dry land.",
+      "sentences": [
+        "The heavy rains led to a devastating flood.",
+        "Many homes were submerged in the flood waters.",
+        "Emergency services responded quickly to the flood."
+      ]
+    },
+    {
+      "word": "Hurricane",
+      "pronunciation": "/ˈhɜːrɪkeɪn/",
+      "definition": "A tropical cyclone with sustained winds of 74 miles per hour (119 km/h) or higher, occurring in the Atlantic Ocean, Caribbean Sea, Gulf of Mexico, and the eastern North Pacific Ocean.",
+      "sentences": [
+        "The hurricane made landfall with destructive winds.",
+        "People evacuated before the hurricane arrived.",
+        "Hurricanes are categorized by their wind speed."
+      ]
+    },
+    {
+      "word": "Typhoon",
+      "pronunciation": "/taɪˈfuːn/",
+      "definition": "A tropical cyclone occurring in the western North Pacific Ocean.",
+      "sentences": [
+        "The typhoon brought torrential rain to the coast.",
+        "Typhoons are similar to hurricanes but occur in a different region.",
+        "The island prepared for the approaching typhoon."
+      ]
+    },
+    {
+      "word": "Cyclone",
+      "pronunciation": "/ˈsaɪkloʊn/",
+      "definition": "A system of winds rotating inward to an area of low atmospheric pressure, with an anticlockwise or clockwise circulation; often used to describe tropical storms in the Indian Ocean and South Pacific.",
+      "sentences": [
+        "A powerful cyclone formed in the Bay of Bengal.",
+        "Coastal communities were warned about the approaching cyclone.",
+        "Cyclones can cause significant damage and loss of life."
+      ]
+    },
+    {
+      "word": "Tornado",
+      "pronunciation": "/tɔːrˈneɪdoʊ/",
+      "definition": "A violently rotating column of air extending from a thunderstorm to the ground, often visible as a funnel-shaped cloud.",
+      "sentences": [
+        "The tornado touched down, destroying several houses.",
+        "Tornado sirens warned residents to take cover.",
+        "Tornadoes are common in certain parts of the United States."
+      ]
+    },
+    {
+      "word": "Monsoon",
+      "pronunciation": "/mɒnˈsuːn/",
+      "definition": "A seasonal change in the direction of the prevailing, or strongest, winds of a region. Monsoons cause wet and dry seasons throughout much of the tropics.",
+      "sentences": [
+        "The summer monsoon brings heavy rains to Southeast Asia.",
+        "Farmers eagerly await the monsoon season for their crops.",
+        "The monsoon climate supports lush vegetation."
+      ]
+    },
+    {
+      "word": "Desert",
+      "pronunciation": "/ˈdɛzərt/",
+      "definition": "A barren or desolate area, especially one with little or no rainfall or vegetation.",
+      "sentences": [
+        "The Sahara Desert is the largest hot desert in the world.",
+        "Few plants can survive in the harsh desert climate.",
+        "We rode camels across the vast desert."
+      ]
+    },
+    {
+      "word": "Tropical",
+      "pronunciation": "/ˈtrɒpɪkl̩/",
+      "definition": "Relating to or characteristic of the tropics (the region between the Tropic of Cancer and the Tropic of Capricorn), typically hot and humid.",
+      "sentences": [
+        "Tropical rainforests are home to many unique animals.",
+        "The weather in tropical countries is usually warm all year.",
+        "We enjoyed the tropical fruits on our vacation."
+      ]
+    },
+    {
+      "word": "Temperate",
+      "pronunciation": "/ˈtɛmpərɪt/",
+      "definition": "Relating to or denoting a region or climate characterized by mild temperatures.",
+      "sentences": [
+        "Our region has a temperate climate with four distinct seasons.",
+        "Temperate forests are found in areas with moderate rainfall.",
+        "Many crops grow well in temperate zones."
+      ]
+    },
+    {
+      "word": "Polar",
+      "pronunciation": "/ˈpoʊlər/",
+      "definition": "Relating to the Earth's geographical poles (North Pole or South Pole) or the regions around them, characterized by very cold temperatures.",
+      "sentences": [
+        "Polar bears live in the Arctic polar region.",
+        "The polar ice caps are melting due to global warming.",
+        "Scientists study the unique ecosystems of the polar regions."
+      ]
+    },
+    {
+      "word": "Arid",
+      "pronunciation": "/ˈærɪd/",
+      "definition": "Having little or no rain; too dry or barren to support vegetation.",
+      "sentences": [
+        "The desert has an arid climate.",
+        "Arid lands are challenging for agriculture.",
+        "Few plants can grow in such arid conditions."
+      ]
+    },
+    {
+      "word": "Humid",
+      "pronunciation": "/ˈhjuːmɪd/",
+      "definition": "Marked by a high level of water vapor in the atmosphere.",
+      "sentences": [
+        "The air felt very humid before the thunderstorm.",
+        "It's always humid in the rainforest.",
+        "I don't like humid weather; it makes me feel sticky."
+      ]
+    },
+    {
+      "word": "Dry",
+      "pronunciation": "/draɪ/",
+      "definition": "Free from moisture or liquid; not wet or moist.",
+      "sentences": [
+        "The clothes were completely dry after hanging in the sun.",
+        "The desert is a very dry place.",
+        "My throat feels dry; I need some water."
+      ]
+    },
+    {
+      "word": "Wet",
+      "pronunciation": "/wɛt/",
+      "definition": "Covered or saturated with water or another liquid; not dry.",
+      "sentences": [
+        "My shoes got wet in the rain.",
+        "The ground is still wet from the morning dew.",
+        "Be careful, the floor is wet."
+      ]
+    },
+    {
+      "word": "Sunny",
+      "pronunciation": "/ˈsʌni/",
+      "definition": "Bright with sunlight; full of sunshine.",
+      "sentences": [
+        "It's a beautiful sunny day, perfect for the beach.",
+        "I love sunny weather.",
+        "The garden looks lovely on a sunny morning."
+      ]
+    },
+    {
+      "word": "Cloudy",
+      "pronunciation": "/ˈklaʊdi/",
+      "definition": "Full of or covered with clouds.",
+      "sentences": [
+        "The sky was cloudy all morning.",
+        "It looks cloudy, so it might rain later.",
+        "We had a cloudy but warm day."
+      ]
+    },
+    {
+      "word": "Windy",
+      "pronunciation": "/ˈwɪndi/",
+      "definition": "Marked by or exposed to strong winds.",
+      "sentences": [
+        "It was too windy to play outside.",
+        "The top of the mountain is very windy.",
+        "The trees swayed in the windy weather."
+      ]
+    },
+    {
+      "word": "Rainy",
+      "pronunciation": "/ˈreɪni/",
+      "definition": "Characterized by or having much rain.",
+      "sentences": [
+        "We had a very rainy week.",
+        "Don't forget your umbrella on a rainy day.",
+        "The plants thrive in rainy weather."
+      ]
+    },
+    {
+      "word": "Snowy",
+      "pronunciation": "/ˈsnoʊi/",
+      "definition": "Characterized by or having much snow.",
+      "sentences": [
+        "We built a snowman on a snowy day.",
+        "The mountains look beautiful when they are snowy.",
+        "It was a snowy winter this year."
+      ]
+    },
+    {
+      "word": "Icy",
+      "pronunciation": "/ˈaɪsi/",
+      "definition": "Covered with or consisting of ice.",
+      "sentences": [
+        "The roads were icy and dangerous.",
+        "Be careful, the steps are very icy.",
+        "Icy conditions caused many accidents."
+      ]
+    },
+    {
+      "word": "Misty",
+      "pronunciation": "/ˈmɪsti/",
+      "definition": "Full of or characterized by mist.",
+      "sentences": [
+        "The morning was misty, making it hard to see far.",
+        "The hills looked mysterious in the misty light.",
+        "A misty rain began to fall."
+      ]
+    },
+    {
+      "word": "Hazy",
+      "pronunciation": "/ˈheɪzi/",
+      "definition": "Characterized by or filled with haze (light mist or smoke that reduces visibility).",
+      "sentences": [
+        "The distant mountains were hazy in the heat.",
+        "It was a hazy summer afternoon.",
+        "The air felt thick and hazy."
+      ]
+    },
+    {
+      "word": "Overcast",
+      "pronunciation": "/ˌoʊvərˈkæst/",
+      "definition": "Covered with clouds; dull.",
+      "sentences": [
+        "The sky was overcast, so we didn't see the sun.",
+        "It was an overcast day, but still warm.",
+        "The forecast is for overcast skies all day."
+      ]
+    },
+    {
+      "word": "Clear (Sky)",
+      "pronunciation": "/klɪər/",
+      "definition": "Free from clouds or mist; bright and transparent.",
+      "sentences": [
+        "The sky was clear, and we could see all the stars.",
+        "We woke up to a beautiful clear morning.",
+        "A clear sky is perfect for stargazing."
+      ]
+    },
+    {
+      "word": "Breeze",
+      "pronunciation": "/briːz/",
+      "definition": "A gentle wind.",
+      "sentences": [
+        "A cool breeze blew through the open window.",
+        "We enjoyed the sea breeze on the beach.",
+        "The leaves rustled in the gentle breeze."
+      ]
+    },
+    {
+      "word": "Gust",
+      "pronunciation": "/ɡʌst/",
+      "definition": "A sudden, strong rush of wind.",
+      "sentences": [
+        "A gust of wind nearly knocked me over.",
+        "The tent flapped loudly in the sudden gusts.",
+        "We felt a strong gust of wind before the rain."
+      ]
+    },
+    {
+      "word": "Gale",
+      "pronunciation": "/ɡeɪl/",
+      "definition": "A very strong wind.",
+      "sentences": [
+        "The ship battled against the strong gales.",
+        "A gale warning was issued for coastal areas.",
+        "The roof was damaged by the powerful gale."
+      ]
+    },
+    {
+      "word": "Squall",
+      "pronunciation": "/skwɔːl/",
+      "definition": "A sudden, violent gust of wind or a localized storm, especially one bringing rain, snow, or sleet.",
+      "sentences": [
+        "A sudden squall hit the boat, making the waves choppy.",
+        "The forecast mentioned isolated squalls.",
+        "We took shelter from the unexpected squall."
+      ]
+    },
+    {
+      "word": "Shower (Rain)",
+      "pronunciation": "/ˈʃaʊər/",
+      "definition": "A brief fall of rain or snow.",
+      "sentences": [
+        "We got caught in a sudden rain shower.",
+        "The forecast predicts scattered showers throughout the day.",
+        "The plants looked refreshed after the light shower."
+      ]
+    },
+    {
+      "word": "Downpour",
+      "pronunciation": "/ˈdaʊnpɔːr/",
+      "definition": "A very heavy fall of rain.",
+      "sentences": [
+        "We ran for cover during the sudden downpour.",
+        "The streets were flooded after the downpour.",
+        "The plants loved the heavy downpour."
+      ]
+    },
+    {
+      "word": "Drizzle",
+      "pronunciation": "/ˈdrɪzl̩/",
+      "definition": "Light rain falling in very fine drops.",
+      "sentences": [
+        "It was just a light drizzle, so we didn't need umbrellas.",
+        "A gentle drizzle started to fall.",
+        "The misty drizzle made everything look soft."
+      ]
+    },
+    {
+      "word": "Sleet",
+      "pronunciation": "/sliːt/",
+      "definition": "A form of precipitation consisting of ice pellets, often mixed with rain or snow.",
+      "sentences": [
+        "The sleet made the roads very slippery.",
+        "It was too cold for rain, so it turned into sleet.",
+        "We heard the sleet tapping on the window."
+      ]
+    },
+    {
+      "word": "Flurry (Snow)",
+      "pronunciation": "/ˈflɜːri/",
+      "definition": "A light, brief snowfall.",
+      "sentences": [
+        "We saw a few snow flurries in the morning.",
+        "The first flurries of winter appeared.",
+        "It was just a light flurry, not a heavy snow."
+      ]
+    },
+    {
+      "word": "Blizzard",
+      "pronunciation": "/ˈblɪzərd/",
+      "definition": "A severe snowstorm with high winds and low visibility.",
+      "sentences": [
+        "The blizzard trapped us indoors for two days.",
+        "Travel was impossible during the blizzard.",
+        "The city was paralyzed by the massive blizzard."
+      ]
+    },
+    {
+      "word": "Avalanche",
+      "pronunciation": "/ˈævəˌlæntʃ/",
+      "definition": "A mass of snow, ice, and rocks falling rapidly down a mountainside.",
+      "sentences": [
+        "The skiers were caught in an avalanche.",
+        "Avalanches are a danger in snowy mountains.",
+        "Rescuers searched for survivors after the avalanche."
+      ]
+    },
+    {
+      "word": "Tide",
+      "pronunciation": "/taɪd/",
+      "definition": "The regular rise and fall of the sea level, caused by the gravitational pull of the moon and sun.",
+      "sentences": [
+        "The high tide covered the beach.",
+        "We waited for low tide to explore the rock pools.",
+        "The tide goes in and out twice a day."
+      ]
+    },
+    {
+      "word": "Current (Ocean)",
+      "pronunciation": "/ˈkʌrənt/",
+      "definition": "A continuous, directed movement of ocean water.",
+      "sentences": [
+        "The strong ocean current pulled the swimmer away.",
+        "Sailors need to understand ocean currents.",
+        "Warm ocean currents affect coastal climates."
+      ]
+    },
+    {
+      "word": "El Niño",
+      "pronunciation": "/ɛl ˈniːnjoʊ/",
+      "definition": "A warming of the ocean surface, or above-average sea surface temperatures, in the central and eastern tropical Pacific Ocean.",
+      "sentences": [
+        "El Niño can lead to unusual weather patterns worldwide.",
+        "Droughts in some areas are linked to El Niño.",
+        "Scientists predict the next El Niño event."
+      ]
+    },
+    {
+      "word": "La Niña",
+      "pronunciation": "/lɑː ˈniːnjə/",
+      "definition": "A cooling of the ocean surface, or below-average sea surface temperatures, in the central and eastern tropical Pacific Ocean.",
+      "sentences": [
+        "La Niña often brings colder winters to North America.",
+        "La Niña patterns can affect rainfall globally.",
+        "The opposite of El Niño is La Niña."
+      ]
+    },
+    {
+      "word": "Atmospheric Pressure",
+      "pronunciation": "/ˌætməˈsfɛrɪk ˈprɛʃər/",
+      "definition": "The force per unit area exerted by the weight of the atmosphere.",
+      "sentences": [
+        "Changes in atmospheric pressure can indicate a shift in weather.",
+        "High atmospheric pressure is usually associated with fair weather.",
+        "Low atmospheric pressure often brings storms."
+      ]
+    },
+    {
+      "word": "Front (Weather)",
+      "pronunciation": "/frʌnt/",
+      "definition": "The boundary between two air masses of different temperatures or densities.",
+      "sentences": [
+        "A cold front moved through, bringing a sudden drop in temperature.",
+        "Weather maps use lines to show different types of fronts.",
+        "The warm front brought humid air and light rain."
+      ]
+    },
+    {
+      "word": "Air Mass",
+      "pronunciation": "/ɛər mæs/",
+      "definition": "A large body of air with similar temperature and moisture characteristics throughout.",
+      "sentences": [
+        "A polar air mass brought freezing temperatures.",
+        "Tropical air masses are warm and moist.",
+        "The collision of two air masses can create severe weather."
+      ]
+    },
+    {
+      "word": "Jet Stream",
+      "pronunciation": "/dʒɛt striːm/",
+      "definition": "A fast-flowing, narrow, meandering air current found in the atmospheres of some planets, including Earth.",
+      "sentences": [
+        "The jet stream influences the movement of weather systems.",
+        "Pilots often use the jet stream to save fuel.",
+        "Changes in the jet stream can lead to extreme weather events."
+      ]
+    },
+    {
+      "word": "Coriolis Effect",
+      "pronunciation": "/ˌkɔːriˈoʊlɪs ɪˈfɛkt/",
+      "definition": "An apparent force that deflects moving objects (like air and ocean currents) from a straight path on a rotating body like Earth.",
+      "sentences": [
+        "The Coriolis effect influences the direction of winds and ocean currents.",
+        "Hurricanes rotate due to the Coriolis effect.",
+        "The Coriolis effect is stronger at the poles."
+      ]
+    },
+    {
+      "word": "Trade Winds",
+      "pronunciation": "/treɪd wɪndz/",
+      "definition": "Prevailing easterly winds that blow in the tropics, important for sailing ships in the past.",
+      "sentences": [
+        "The trade winds helped ancient mariners sail across oceans.",
+        "Trade winds bring consistent weather to tropical islands.",
+        "The strength of the trade winds can vary seasonally."
+      ]
+    },
+    {
+      "word": "Westerlies",
+      "pronunciation": "/ˈwɛstərliz/",
+      "definition": "Prevailing winds that blow from the west in the middle latitudes.",
+      "sentences": [
+        "The westerlies influence the weather in many temperate regions.",
+        "Most weather systems in North America move from west to east due to the westerlies.",
+        "The westerlies are important for global air circulation."
+      ]
+    },
+    {
+      "word": "Polar Easterlies",
+      "pronunciation": "/ˈpoʊlər ˈiːstərliːz/",
+      "definition": "Dry, cold prevailing winds that blow from the high-pressure areas of the polar highs at the North and South Poles towards the low-pressure areas within the Westerlies.",
+      "sentences": [
+        "The polar easterlies bring very cold air to the polar regions.",
+        "These winds are part of the Earth's global wind patterns.",
+        "The polar easterlies are often weak and irregular."
+      ]
+    },
+    {
+      "word": "Convection",
+      "pronunciation": "/kənˈvɛkʃən/",
+      "definition": "The process by which heat is transferred through a fluid (liquid or gas) by the movement of the fluid itself.",
+      "sentences": [
+        "Convection currents in the atmosphere create clouds and storms.",
+        "Boiling water involves heat transfer by convection.",
+        "Convection plays a role in Earth's climate system."
+      ]
+    },
+    {
+      "word": "Radiation (Heat)",
+      "pronunciation": "/ˌreɪdiˈeɪʃən/",
+      "definition": "The emission of energy as electromagnetic waves or as moving subatomic particles, especially high-energy particles which cause ionization.",
+      "sentences": [
+        "The sun's heat reaches Earth through radiation.",
+        "Radiation is one way heat is transferred in the atmosphere.",
+        "We feel the radiation from a warm fire."
+      ]
+    },
+    {
+      "word": "Conduction",
+      "pronunciation": "/kənˈdʌkʃən/",
+      "definition": "The process by which heat or electricity is directly transmitted through a substance when there is a difference of temperature or of electrical potential between adjoining regions, without movement of the material.",
+      "sentences": [
+        "Heat from the warm ground is transferred to the air by conduction.",
+        "Touching a hot stove is an example of heat conduction.",
+        "Conduction is important for heat transfer in the lower atmosphere."
+      ]
+    },
+    {
+      "word": "Evaporation",
+      "pronunciation": "/ɪˌvæpəˈreɪʃən/",
+      "definition": "The process of a substance in a liquid state changing to a gaseous state due to an increase in temperature and/or pressure.",
+      "sentences": [
+        "Evaporation from the oceans forms clouds.",
+        "The sun causes water to evaporate from puddles.",
+        "Evaporation is a key part of the water cycle."
+      ]
+    },
+    {
+      "word": "Condensation",
+      "pronunciation": "/ˌkɒndɛnˈseɪʃən/",
+      "definition": "The process by which water vapor in the air changes into liquid water, forming clouds or dew.",
+      "sentences": [
+        "Condensation forms clouds in the sky.",
+        "You can see condensation on a cold glass of water.",
+        "Condensation is the opposite of evaporation."
+      ]
+    },
+    {
+      "word": "Precipitation",
+      "pronunciation": "/prɪˌsɪpɪˈteɪʃən/",
+      "definition": "Any form of water that falls from clouds and reaches Earth's surface, such as rain, snow, sleet, or hail.",
+      "sentences": [
+        "The forecast calls for heavy precipitation tonight.",
+        "Different types of precipitation depend on temperature.",
+        "Lack of precipitation can lead to drought conditions."
+      ]
+    },
+    {
+      "word": "Runoff",
+      "pronunciation": "/ˈrʌnˌɒf/",
+      "definition": "The draining away of water (or substances carried in it) from the surface of an area of land, a building, or structure.",
+      "sentences": [
+        "Rainfall runoff can cause flooding.",
+        "Pollutants in agricultural runoff can harm rivers.",
+        "Managing storm water runoff is important for urban areas."
+      ]
+    },
+    {
+      "word": "Groundwater",
+      "pronunciation": "/ˈɡraʊndˌwɔːtər/",
+      "definition": "Water held underground in the soil or in pores and crevices in rock.",
+      "sentences": [
+        "Many wells draw water from groundwater sources.",
+        "Groundwater is an important source of drinking water.",
+        "Over-pumping can deplete groundwater reserves."
+      ]
+    },
+    {
+      "word": "Water Cycle",
+      "pronunciation": "/ˈwɔːtər ˈsaɪkl̩/",
+      "definition": "The continuous movement of water on, above, and below the surface of the Earth.",
+      "sentences": [
+        "The water cycle involves evaporation, condensation, and precipitation.",
+        "Understanding the water cycle is essential for studying weather.",
+        "The sun powers the Earth's water cycle."
+      ]
+    },
+    {
+      "word": "Reservoir",
+      "pronunciation": "/ˈrɛzərvwɑːr/",
+      "definition": "A large natural or artificial lake used as a source of water supply.",
+      "sentences": [
+        "The city's water comes from a large reservoir.",
+        "During a drought, reservoir levels drop significantly.",
+        "The new dam created a huge reservoir."
+      ]
+    },
+    {
+      "word": "Aquifer",
+      "pronunciation": "/ˈækwɪfər/",
+      "definition": "A body of permeable rock which can contain or transmit groundwater.",
+      "sentences": [
+        "Many regions rely on aquifers for their water supply.",
+        "Over-extraction can deplete aquifers.",
+        "The aquifer provides water for thousands of people."
+      ]
+    },
+    {
+      "word": "Glacier",
+      "pronunciation": "/ˈɡleɪʃər/",
+      "definition": "A large mass of ice that moves slowly over land.",
+      "sentences": [
+        "The glacier is slowly flowing down the valley.",
+        "Melting glaciers contribute to rising sea levels.",
+        "We saw ancient ice formations in the glacier."
+      ]
+    },
+    {
+      "word": "Ice Sheet",
+      "pronunciation": "/aɪs ʃiːt/",
+      "definition": "A very large, thick mass of glacial ice that covers a large area of land.",
+      "sentences": [
+        "The Greenland ice sheet is one of the largest in the world.",
+        "Ice sheets contain a vast amount of Earth's fresh water.",
+        "Scientists are studying the melting of the ice sheets."
+      ]
+    },
+    {
+      "word": "Permafrost",
+      "pronunciation": "/ˈpɜːrməˌfrɒst/",
+      "definition": "A thick subsurface layer of soil that remains frozen throughout the year, occurring mainly in polar regions.",
+      "sentences": [
+        "Melting permafrost can release greenhouse gases.",
+        "Many buildings in Arctic regions are built on permafrost.",
+        "Permafrost stores a lot of carbon."
+      ]
+    },
+    {
+      "word": "Iceberg",
+      "pronunciation": "/ˈaɪsbɜːrɡ/",
+      "definition": "A large floating mass of ice detached from a glacier or ice sheet and carried out to sea.",
+      "sentences": [
+        "We saw a huge iceberg floating in the ocean.",
+        "Only a small part of an iceberg is visible above water.",
+        "Icebergs can pose a danger to ships."
+      ]
+    },
+    {
+      "word": "Sea Ice",
+      "pronunciation": "/siː aɪs/",
+      "definition": "Ice formed from the freezing of seawater.",
+      "sentences": [
+        "The extent of Arctic sea ice is shrinking.",
+        "Sea ice provides a habitat for polar bears and seals.",
+        "Ships called icebreakers are used to navigate through sea ice."
+      ]
+    },
+    {
+      "word": "Albedo",
+      "pronunciation": "/ælˈbiːdoʊ/",
+      "definition": "The proportion of the incident light or radiation that is reflected by a surface, typically that of a planet or moon.",
+      "sentences": [
+        "Ice and snow have a high albedo, reflecting sunlight.",
+        "Dark surfaces have a low albedo and absorb more heat.",
+        "Changes in Earth's albedo can affect global temperatures."
+      ]
+    },
+    {
+      "word": "Thermal Expansion",
+      "pronunciation": "/ˈθɜːrml̩ ɪkˈspænʃən/",
+      "definition": "The tendency of matter to change in volume in response to a change in temperature.",
+      "sentences": [
+        "Thermal expansion of ocean water contributes to sea level rise.",
+        "Materials expand when heated due to thermal expansion.",
+        "Engineers consider thermal expansion when building bridges."
+      ]
+    },
+    {
+      "word": "Ocean Acidification",
+      "pronunciation": "/ˈoʊʃən əˌsɪdɪfɪˈkeɪʃən/",
+      "definition": "The ongoing decrease in the pH of the Earth's oceans, caused by the uptake of carbon dioxide from the atmosphere.",
+      "sentences": [
+        "Ocean acidification threatens marine life, especially coral reefs.",
+        "Increased CO2 in the atmosphere leads to ocean acidification.",
+        "Scientists are studying the effects of ocean acidification."
+      ]
+    },
+    {
+      "word": "Coral Bleaching",
+      "pronunciation": "/ˈkɒrəl ˈbliːtʃɪŋ/",
+      "definition": "The process when corals expel algae living in their tissues, causing the coral to turn completely white, often due to increased ocean temperatures.",
+      "sentences": [
+        "Rising ocean temperatures cause coral bleaching.",
+        "Coral bleaching can lead to the death of coral reefs.",
+        "Many efforts are being made to prevent coral bleaching."
+      ]
+    },
+    {
+      "word": "Carbon Sequestration",
+      "pronunciation": "/ˈkɑːrbən ˌsiːkwɛˈstreɪʃən/",
+      "definition": "The process of capturing and storing atmospheric carbon dioxide.",
+      "sentences": [
+        "Trees play a vital role in carbon sequestration.",
+        "Carbon sequestration technologies aim to reduce CO2 in the air.",
+        "Oceans are natural sites for carbon sequestration."
+      ]
+    },
+    {
+      "word": "Biofuel",
+      "pronunciation": "/ˈbaɪoʊˌfjuːəl/",
+      "definition": "A fuel derived directly from living matter, such as plants or animal waste.",
+      "sentences": [
+        "Ethanol is a common type of biofuel.",
+        "Biofuels are considered a renewable energy source.",
+        "Research is ongoing to develop more efficient biofuels."
+      ]
+    },
+    {
+      "word": "Geothermal Energy",
+      "pronunciation": "/ˌdʒiːoʊˈθɜːrml̩ ˈɛnərdʒi/",
+      "definition": "Heat energy generated and stored in the Earth.",
+      "sentences": [
+        "Geothermal energy can be used to generate electricity.",
+        "Iceland uses a lot of geothermal energy.",
+        "Geothermal power plants tap into the Earth's internal heat."
+      ]
+    },
+    {
+      "word": "Tidal Energy",
+      "pronunciation": "/ˈtaɪdl̩ ˈɛnərdʒi/",
+      "definition": "Energy generated from the movement of tides.",
+      "sentences": [
+        "Tidal energy is a predictable source of renewable power.",
+        "Tidal barrages are used to harness tidal energy.",
+        "Research is exploring new ways to capture tidal energy."
+      ]
+    },
+    {
+      "word": "Wave Energy",
+      "pronunciation": "/weɪv ˈɛnərdʒi/",
+      "definition": "Energy generated from ocean waves.",
+      "sentences": [
+        "Wave energy converters capture the power of ocean waves.",
+        "Wave energy is a promising but challenging renewable source.",
+        "Some coastal communities are exploring wave energy projects."
+      ]
+    },
+    {
+      "word": "Hydroelectric Power",
+      "pronunciation": "/ˌhaɪdroʊɪˈlɛktrɪk ˈpaʊər/",
+      "definition": "Electricity generated by the force of moving water, typically from dams.",
+      "sentences": [
+        "Many countries rely on hydroelectric power from large dams.",
+        "Hydroelectric power is a clean source of electricity.",
+        "The new dam will increase hydroelectric power generation."
+      ]
+    },
+    {
+      "word": "Wind Turbine",
+      "pronunciation": "/wɪnd ˈtɜːrbɪn/",
+      "definition": "A machine that converts the kinetic energy in wind into electrical energy.",
+      "sentences": [
+        "Large wind turbines are a common sight in wind farms.",
+        "Wind turbines help produce clean electricity.",
+        "The blades of the wind turbine spun rapidly in the breeze."
+      ]
+    },
+    {
+      "word": "Solar Panel",
+      "pronunciation": "/ˈsoʊlər ˈpænl̩/",
+      "definition": "A panel designed to absorb the sun's rays as a source of energy for generating electricity or heating.",
+      "sentences": [
+        "Many homes now have solar panels on their roofs.",
+        "Solar panels convert sunlight into electricity.",
+        "Installing solar panels can reduce electricity bills."
+      ]
+    },
+    {
+      "word": "Geothermal Power Plant",
+      "pronunciation": "/ˌdʒiːoʊˈθɜːrml̩ ˈpaʊər plænt/",
+      "definition": "A power plant that generates electricity using heat from the Earth's interior.",
+      "sentences": [
+        "Geothermal power plants are often built in areas with volcanic activity.",
+        "Geothermal power plants provide a continuous source of energy.",
+        "The country is expanding its geothermal power plant capacity."
+      ]
+    },
+    {
+      "word": "Carbon Footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtˌprɪnt/",
+      "definition": "The total amount of greenhouse gases produced by human activities.",
+      "sentences": [
+        "Reducing your carbon footprint helps the environment.",
+        "Flying less can significantly lower your carbon footprint.",
+        "Many companies are working to reduce their carbon footprint."
+      ]
+    },
+    {
+      "word": "Climate Action",
+      "pronunciation": "/ˈklaɪmɪt ˈækʃən/",
+      "definition": "Efforts to reduce greenhouse gas emissions and adapt to the impacts of climate change.",
+      "sentences": [
+        "Climate action is needed urgently to protect our planet.",
+        "Many young people are demanding more climate action from leaders.",
+        "Individual choices can contribute to collective climate action."
+      ]
+    },
+    {
+      "word": "Environmental Protection",
+      "pronunciation": "/ɪnˌvaɪrənˈmɛntl̩ prəˈtɛkʃən/",
+      "definition": "The practice of protecting the natural environment by individuals, organizations, and governments.",
+      "sentences": [
+        "Environmental protection laws aim to prevent pollution.",
+        "Many groups are dedicated to environmental protection.",
+        "Recycling is a simple step towards environmental protection."
+      ]
+    },
+    {
+      "word": "Conservation Area",
+      "pronunciation": "/ˌkɒnsərˈveɪʃən ˈɛəriə/",
+      "definition": "An area of land or sea that is protected in order to preserve its natural or historical features.",
+      "sentences": [
+        "The local park is a designated conservation area.",
+        "Conservation areas protect wildlife habitats.",
+        "We visited a marine conservation area to see the coral reefs."
+      ]
+    },
+    {
+      "word": "National Park",
+      "pronunciation": "/ˈnæʃənl̩ pɑːrk/",
+      "definition": "A scenic or historically important area of countryside protected by the federal government for the enjoyment of the general public or the preservation of wildlife.",
+      "sentences": [
+        "Yellowstone is a famous national park in the USA.",
+        "We went hiking in the national park last summer.",
+        "National parks protect important natural landscapes."
+      ]
+    },
+    {
+      "word": "Wildlife Reserve",
+      "pronunciation": "/ˈwaɪldˌlaɪf rɪˈzɜːrv/",
+      "definition": "An area of land set aside for the protection of wild animals and plants.",
+      "sentences": [
+        "The wildlife reserve is home to many rare birds.",
+        "We saw elephants and giraffes at the wildlife reserve.",
+        "Wildlife reserves play a crucial role in conservation."
+      ]
+    },
+    {
+      "word": "Endangered Species",
+      "pronunciation": "/ɪnˈdeɪndʒərd ˈspiːʃiːz/",
+      "definition": "A species of animal or plant that is seriously at risk of extinction.",
+      "sentences": [
+        "The giant panda is an endangered species.",
+        "Conservationists work to protect endangered species.",
+        "Habitat loss is a major threat to endangered species."
+      ]
+    },
+    {
+      "word": "Deforestation",
+      "pronunciation": "/ˌdiːˌfɒrɪˈsteɪʃən/",
+      "definition": "The action of clearing a wide area of trees.",
+      "sentences": [
+        "Deforestation contributes to climate change.",
+        "Illegal logging is a cause of deforestation.",
+        "We need to plant more trees to counter deforestation."
+      ]
+    },
+    {
+      "word": "Pollutant",
+      "pronunciation": "/pəˈluːtənt/",
+      "definition": "A substance that pollutes something, especially water or the atmosphere.",
+      "sentences": [
+        "Car exhaust is a common air pollutant.",
+        "Factories must reduce their release of harmful pollutants.",
+        "Plastic waste is a major ocean pollutant."
+      ]
+    },
+    {
+      "word": "Carbon Footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtˌprɪnt/",
+      "definition": "The total greenhouse gas emissions caused by an individual, event, organization, or product, expressed as carbon dioxide equivalent.",
+      "sentences": [
+        "Reducing your carbon footprint helps the environment.",
+        "Flying less can significantly lower your carbon footprint.",
+        "Many companies are working to reduce their carbon footprint."
+      ]
+    },
+    {
+      "word": "Climate Zone",
+      "pronunciation": "/ˈklaɪmɪt zoʊn/",
+      "definition": "A region of the Earth that shares similar climatic conditions.",
+      "sentences": [
+        "The Earth has several different climate zones.",
+        "Deserts are typically found in arid climate zones.",
+        "We live in a temperate climate zone."
+      ]
+    },
+    {
+      "word": "Microclimate",
+      "pronunciation": "/ˈmaɪkroʊˌklaɪmɪt/",
+      "definition": "The climate of a very small or restricted area, especially when it differs from the climate of the surrounding area.",
+      "sentences": [
+        "My garden has a unique microclimate that allows certain plants to grow.",
+        "Cities often have a warmer microclimate than rural areas.",
+        "A small valley can create its own microclimate."
+      ]
+    },
+    {
+      "word": "Weather Front",
+      "pronunciation": "/ˈwɛðər frʌnt/",
+      "definition": "A boundary separating two masses of air of different densities, and is the principal cause of meteorological phenomena.",
+      "sentences": [
+        "A cold weather front is approaching, bringing cooler temperatures.",
+        "Weather fronts are important for forecasting changes in weather.",
+        "The warm weather front brought humid air."
+      ]
+    },
+    {
+      "word": "Atmospheric River",
+      "pronunciation": "/ˌætməˈsfɛrɪk ˈrɪvər/",
+      "definition": "A long, narrow region in the atmosphere that transports most of the water vapor outside of the tropics.",
+      "sentences": [
+        "An atmospheric river caused heavy flooding in the region.",
+        "Atmospheric rivers are crucial for water supply in some areas.",
+        "Scientists are studying the increasing frequency of atmospheric rivers."
+      ]
+    },
+    {
+      "word": "Polar Vortex",
+      "pronunciation": "/ˈpoʊlər ˈvɔːrtɛks/",
+      "definition": "A large area of low pressure and cold air surrounding both of Earth's poles.",
+      "sentences": [
+        "The polar vortex can bring extremely cold weather to North America.",
+        "When the polar vortex weakens, it can cause cold air outbreaks.",
+        "The polar vortex is a normal part of the Earth's climate system."
+      ]
+    },
+    {
+      "word": "Heat Island Effect",
+      "pronunciation": "/hiːt ˈaɪlənd ɪˈfɛkt/",
+      "definition": "A metropolitan area that is significantly warmer than its surrounding rural areas due to human activities.",
+      "sentences": [
+        "Cities often experience the heat island effect due to concrete and buildings.",
+        "The heat island effect can make summers in cities feel much hotter.",
+        "Planting more trees can help reduce the urban heat island effect."
+      ]
+    },
+    {
+      "word": "Green Roof",
+      "pronunciation": "/ɡriːn ruːf/",
+      "definition": "A roof of a building that is partially or completely covered with vegetation and a growing medium, planted over a waterproofing membrane.",
+      "sentences": [
+        "Green roofs help insulate buildings and reduce energy use.",
+        "Many new buildings are incorporating green roofs.",
+        "Green roofs can also help manage stormwater runoff."
+      ]
+    },
+    {
+      "word": "Rainwater Harvesting",
+      "pronunciation": "/ˈreɪnˌwɔːtər ˈhɑːrvɛstɪŋ/",
+      "definition": "The collection and storage of rain, rather than allowing it to run off.",
+      "sentences": [
+        "Rainwater harvesting can provide a sustainable water source.",
+        "We installed a system for rainwater harvesting at our home.",
+        "Rainwater harvesting is common in areas with water shortages."
+      ]
+    },
+    {
+      "word": "Drought-Resistant",
+      "pronunciation": "/draʊt rɪˈzɪstənt/",
+      "definition": "Able to withstand prolonged periods of dry weather without damage or loss of yield.",
+      "sentences": [
+        "We planted drought-resistant plants in our garden.",
+        "Drought-resistant crops are important for food security in dry regions.",
+        "Choosing drought-resistant landscaping saves water."
+      ]
+    },
+    {
+      "word": "Floodplain",
+      "pronunciation": "/ˈflʌdˌpleɪn/",
+      "definition": "An area of low-lying ground adjacent to a river, formed mainly of river sediments and subject to flooding.",
+      "sentences": [
+        "Building on a floodplain carries a risk of flooding.",
+        "The river overflowed its banks and covered the floodplain.",
+        "Many agricultural areas are located on floodplains."
+      ]
+    },
+    {
+      "word": "Levee",
+      "pronunciation": "/ˈlɛvi/",
+      "definition": "An embankment built to prevent the overflow of a river.",
+      "sentences": [
+        "The levee protected the town from the rising river.",
+        "Engineers strengthened the levee after the last flood.",
+        "Levees are important flood control structures."
+      ]
+    },
+    {
+      "word": "Dam",
+      "pronunciation": "/dæm/",
+      "definition": "A barrier constructed to hold back water and raise its level, forming a reservoir used to generate electricity or as a water supply.",
+      "sentences": [
+        "The dam generates hydroelectric power for the city.",
+        "The reservoir behind the dam provides drinking water.",
+        "Building a new dam can have environmental impacts."
+      ]
+    },
+    {
+      "word": "Reservoir",
+      "pronunciation": "/ˈrɛzərvwɑːr/",
+      "definition": "A large natural or artificial lake used as a source of water supply.",
+      "sentences": [
+        "The city's water comes from a large reservoir.",
+        "During a drought, reservoir levels drop significantly.",
+        "The new dam created a huge reservoir."
+      ]
+    },
+    {
+      "word": "Aquifer",
+      "pronunciation": "/ˈækwɪfər/",
+      "definition": "A body of permeable rock which can contain or transmit groundwater.",
+      "sentences": [
+        "Many regions rely on aquifers for their water supply.",
+        "Over-extraction can deplete aquifers.",
+        "The aquifer provides water for thousands of people."
+      ]
+    },
+    {
+      "word": "Groundwater",
+      "pronunciation": "/ˈɡraʊndˌwɔːtər/",
+      "definition": "Water held underground in the soil or in pores and crevices in rock.",
+      "sentences": [
+        "Many wells draw water from groundwater sources.",
+        "Groundwater is an important source of drinking water.",
+        "Over-pumping can deplete groundwater reserves."
+      ]
+    },
+    {
+      "word": "Water Table",
+      "pronunciation": "/ˈwɔːtər ˈteɪbl̩/",
+      "definition": "The level below which the ground is saturated with water.",
+      "sentences": [
+        "The water table rises after heavy rains.",
+        "A low water table can indicate drought conditions.",
+        "Wells need to be dug deep enough to reach the water table."
+      ]
+    },
+    {
+      "word": "Desalination",
+      "pronunciation": "/ˌdiːˌsælɪˈneɪʃən/",
+      "definition": "The process of removing salt from seawater to make it fresh water.",
+      "sentences": [
+        "Desalination plants provide fresh water in dry coastal areas.",
+        "Desalination is an expensive but important technology.",
+        "Research is improving desalination methods."
+      ]
+    },
+    {
+      "word": "Glacial Melt",
+      "pronunciation": "/ˈɡleɪʃəl mɛlt/",
+      "definition": "The process of glaciers melting, often contributing to sea level rise.",
+      "sentences": [
+        "Glacial melt is accelerating due to global warming.",
+        "Scientists study glacial melt to understand climate change impacts.",
+        "Increased glacial melt contributes to freshwater runoff."
+      ]
+    },
+    {
+      "word": "Ice Core",
+      "pronunciation": "/aɪs kɔːr/",
+      "definition": "A core sample that is typically removed from an ice sheet or a high mountain glacier.",
+      "sentences": [
+        "Ice cores provide valuable information about past climates.",
+        "Scientists analyze ice cores to study ancient atmospheric conditions.",
+        "The oldest ice core samples are millions of years old."
+      ]
+    },
+    {
+      "word": "Paleoclimate",
+      "pronunciation": "/ˌpeɪlioʊˈklaɪmɪt/",
+      "definition": "The climate of a past geological period.",
+      "sentences": [
+        "Scientists study paleoclimate to understand natural climate variations.",
+        "Ice cores and tree rings provide data on paleoclimate.",
+        "Understanding paleoclimate helps predict future climate changes."
+      ]
+    },
+    {
+      "word": "Proxy Data",
+      "pronunciation": "/ˈprɒksi ˈdeɪtə/",
+      "definition": "Data that paleoclimatologists gather from natural recorders of climate variability, such as tree rings, ice cores, and ocean sediments.",
+      "sentences": [
+        "Tree rings are a common source of proxy data for past temperatures.",
+        "Scientists use proxy data to reconstruct ancient climates.",
+        "Proxy data helps us understand climate change over long timescales."
+      ]
+    },
+    {
+      "word": "Climate Model",
+      "pronunciation": "/ˈklaɪmɪt ˈmɒdl̩/",
+      "definition": "A mathematical representation of the interactions between the atmosphere, oceans, land surface, and ice, used to simulate the Earth's climate system.",
+      "sentences": [
+        "Climate models help predict future climate change scenarios.",
+        "Scientists use complex climate models to study Earth's systems.",
+        "Climate models are constantly being improved with new data."
+      ]
+    },
+    {
+      "word": "Feedback Loop (Climate)",
+      "pronunciation": "/ˈfiːdˌbæk luːp/",
+      "definition": "A process in which the result of a change in a system amplifies or diminishes the original change.",
+      "sentences": [
+        "Melting ice reduces Earth's albedo, creating a positive feedback loop for warming.",
+        "Climate feedback loops can accelerate or slow down climate change.",
+        "Understanding feedback loops is crucial for climate predictions."
+      ]
+    },
+    {
+      "word": "Tipping Point (Climate)",
+      "pronunciation": "/ˈtɪpɪŋ pɔɪnt/",
+      "definition": "A point of no return in the climate system, where a small change can lead to large, often irreversible, shifts.",
+      "sentences": [
+        "Scientists worry about reaching climate tipping points.",
+        "Melting permafrost could be a climate tipping point.",
+        "Avoiding tipping points is a major goal of climate action."
+      ]
+    },
+    {
+      "word": "Carbon Budget",
+      "pronunciation": "/ˈkɑːrbən ˈbʌdʒɪt/",
+      "definition": "The maximum amount of carbon dioxide that can be emitted while keeping global warming below a specific temperature target.",
+      "sentences": [
+        "The world has a limited carbon budget to stay below 1.5°C warming.",
+        "Understanding the carbon budget helps guide climate policies.",
+        "Exceeding the carbon budget will lead to more severe climate impacts."
+      ]
+    },
+    {
+      "word": "Net Zero Emissions",
+      "pronunciation": "/nɛt ˈziːroʊ ɪˈmɪʃənz/",
+      "definition": "Achieving an overall balance between greenhouse gas emissions produced and greenhouse gas emissions taken out of the atmosphere.",
+      "sentences": [
+        "Many countries have pledged to achieve net zero emissions by mid-century.",
+        "Net zero emissions is a key target in fighting climate change.",
+        "Reaching net zero emissions requires significant changes in energy and industry."
+      ]
+    },
+    {
+      "word": "Climate Justice",
+      "pronunciation": "/ˈklaɪmɪt ˈdʒʌstɪs/",
+      "definition": "A term used to frame global warming as an ethical and political issue, rather than a purely environmental or physical one.",
+      "sentences": [
+        "Climate justice highlights that climate change disproportionately affects vulnerable communities.",
+        "Activists advocate for climate justice in international negotiations.",
+        "Achieving climate justice means a fair distribution of climate burdens and benefits."
+      ]
+    },
+    {
+      "word": "Ecological Restoration",
+      "pronunciation": "/ˌiːkəˈlɒdʒɪkl̩ ˌrɛstəˈreɪʃən/",
+      "definition": "The process of assisting the recovery of an ecosystem that has been degraded, damaged, or destroyed.",
+      "sentences": [
+        "Ecological restoration projects are bringing damaged habitats back to life.",
+        "Planting native species is part of ecological restoration.",
+        "Ecological restoration helps improve biodiversity and ecosystem health."
+      ]
+    },
+    {
+      "word": "Green Economy",
+      "pronunciation": "/ɡriːn ɪˈkɒnəmi/",
+      "definition": "An economy that aims at reducing environmental risks and ecological scarcities, and that aims for sustainable development without degrading the environment.",
+      "sentences": [
+        "Investing in renewable energy supports a green economy.",
+        "The transition to a green economy creates new jobs.",
+        "A green economy focuses on sustainability and resource efficiency."
+      ]
+    },
+    {
+      "word": "Circular Economy",
+      "pronunciation": "/ˈsɜːrkjələr ɪˈkɒnəmi/",
+      "definition": "A system aimed at eliminating waste and the continual use of resources.",
+      "sentences": [
+        "A circular economy emphasizes reusing and recycling materials.",
+        "Moving towards a circular economy reduces environmental impact.",
+        "The principles of a circular economy are gaining traction."
+      ]
+    },
+    {
+      "word": "Carbon Tax",
+      "pronunciation": "/ˈkɑːrbən tæks/",
+      "definition": "A tax on greenhouse gas emissions, designed to make activities that produce carbon dioxide more expensive.",
+      "sentences": [
+        "Some countries have implemented a carbon tax to reduce emissions.",
+        "A carbon tax aims to encourage cleaner energy sources.",
+        "Debates exist about the effectiveness of a carbon tax."
+      ]
+    },
+    {
+      "word": "Cap and Trade",
+      "pronunciation": "/kæp ənd treɪd/",
+      "definition": "A market-based approach to controlling pollution by providing economic incentives for achieving reductions in the emissions of pollutants.",
+      "sentences": [
+        "Cap and trade systems set a limit on total emissions.",
+        "Companies can buy and sell emission permits under cap and trade.",
+        "Cap and trade is a policy tool for climate mitigation."
+      ]
+    },
+    {
+      "word": "Climate Refugee",
+      "pronunciation": "/ˈklaɪmɪt ˌrɛfjuˈdʒiː/",
+      "definition": "A person who has been forced to leave their home as a result of the effects of climate change, such as rising sea levels, drought, or extreme weather events.",
+      "sentences": [
+        "Rising sea levels are creating climate refugees in some island nations.",
+        "The issue of climate refugees is a growing global concern.",
+        "Many people are becoming climate refugees due to extreme weather."
+      ]
+    },
+    {
+      "word": "Carbon Neutrality",
+      "pronunciation": "/ˈkɑːrbən nuːˈtrælɪti/",
+      "definition": "A state of having a net zero carbon footprint, achieved by balancing the amount of carbon released with the amount removed from the atmosphere.",
+      "sentences": [
+        "Achieving carbon neutrality is a goal for many organizations.",
+        "Carbon neutrality involves both reducing emissions and offsetting unavoidable ones.",
+        "The city aims for carbon neutrality by 2050."
+      ]
+    },
+    {
+      "word": "Climate Action Plan",
+      "pronunciation": "/ˈklaɪmɪt ˈækʃən plæn/",
+      "definition": "A strategic framework for reducing greenhouse gas emissions and adapting to the impacts of climate change.",
+      "sentences": [
+        "Our city developed a comprehensive climate action plan.",
+        "The climate action plan outlines steps for a sustainable future.",
+        "Implementing a climate action plan requires community involvement."
+      ]
+    },
+    {
+      "word": "Greenhouse Effect",
+      "pronunciation": "/ˈɡriːnˌhaʊs ɪˈfɛkt/",
+      "definition": "The process by which radiation from a planet's atmosphere warms the planet's surface to a temperature above what it would be without its atmosphere.",
+      "sentences": [
+        "The natural greenhouse effect keeps Earth warm enough for life.",
+        "An enhanced greenhouse effect leads to global warming.",
+        "Understanding the greenhouse effect is fundamental to climate science."
+      ]
+    },
+    {
+      "word": "Global Warming",
+      "pronunciation": "/ˈɡloʊbəl ˈwɔːrmɪŋ/",
+      "definition": "The long-term heating of Earth's climate system observed since the pre-industrial period (between 1850 and 1900) due to human activities, primarily fossil fuel burning, which increases heat-trapping greenhouse gas levels in Earth's atmosphere.",
+      "sentences": [
+        "Global warming is causing more frequent and intense heatwaves.",
+        "The effects of global warming are evident worldwide.",
+        "Addressing global warming requires urgent action."
+      ]
+    },
+    {
+      "word": "Climate Change",
+      "pronunciation": "/ˈklaɪmɪt ʧeɪndʒ/",
+      "definition": "A long-term shift in global or regional climate patterns, often referring to the significant and lasting change in the statistical distribution of weather patterns over periods ranging from decades to millions of years.",
+      "sentences": [
+        "Climate change is leading to changes in rainfall patterns.",
+        "Understanding climate change helps us prepare for the future.",
+        "Climate change is a complex global challenge."
+      ]
+    },
+    {
+      "word": "Carbon Footprint",
+      "pronunciation": "/ˈkɑːrbən ˈfʊtˌprɪnt/",
+      "definition": "The total amount of greenhouse gases produced to directly and indirectly support human activities, usually expressed in equivalent tons of carbon dioxide (CO2).",
+      "sentences": [
+        "Reducing your carbon footprint helps the environment.",
+        "Flying less can significantly lower your carbon footprint.",
+        "Many companies are working to reduce their carbon footprint."
+      ]
+    },
+    {
+      "word": "Pollution",
+      "pronunciation": "/pəˈluːʃən/",
+      "definition": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+      "sentences": [
+        "Air pollution is a major problem in big cities.",
+        "We need to find ways to reduce plastic pollution.",
+        "Pollution can harm both humans and wildlife."
+      ]
+    },
+    {
+      "word": "Emissions",
+      "pronunciation": "/ɪˈmɪʃənz/",
+      "definition": "The production and discharge of something, especially gas or radiation.",
+      "sentences": [
+        "Car emissions contribute to air pollution.",
+        "Factories are working to reduce their carbon emissions.",
+        "New regulations aim to lower greenhouse gas emissions."
+      ]
+    },
+    {
+      "word": "Carbon Capture",
+      "pronunciation": "/ˈkɑːrbən ˈkæptʃər/",
+      "definition": "The process of capturing carbon dioxide from large point sources, such as power plants, and storing it instead of releasing it into the atmosphere.",
+      "sentences": [
+        "Carbon capture technology can help reduce CO2 in the air.",
+        "Some new power plants are exploring carbon capture.",
+        "Carbon capture is a potential solution for climate change."
+      ]
+    },
+    {
+      "word": "Reforestation",
+      "pronunciation": "/ˌriːˌfɒrɪˈsteɪʃən/",
+      "definition": "The process of replanting trees in areas where forests have been removed.",
+      "sentences": [
+        "Reforestation efforts help restore damaged ecosystems.",
+        "Planting trees is a simple way to support reforestation.",
+        "Reforestation can combat climate change by absorbing CO2."
+      ]
+    },
+    {
+      "word": "Afforestation",
+      "pronunciation": "/əˌfɒrɪˈsteɪʃən/",
+      "definition": "The establishment of a forest or stand of trees in an area where there was no previous tree cover.",
+      "sentences": [
+        "Afforestation projects are creating new forests in barren lands.",
+        "Afforestation helps improve air quality.",
+        "The government is promoting afforestation to increase green cover."
+      ]
+    },
+    {
+      "word": "Sustainable Development",
+      "pronunciation": "/səˈsteɪnəbl̩ dɪˈvɛləpmənt/",
+      "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "sentences": [
+        "Sustainable development aims for economic growth without harming the environment.",
+        "Many international organizations promote sustainable development goals.",
+        "Education is key to achieving sustainable development."
+      ]
+    },
+    {
+      "word": "Ecological Footprint",
+      "pronunciation": "/ˌiːkəˈlɒdʒɪkl̩ ˈfʊtˌprɪnt/",
+      "definition": "A measure of human demand on the Earth's ecosystems, expressed as the amount of land needed to support a person's lifestyle.",
+      "sentences": [
+        "Eating locally grown food can reduce your ecological footprint.",
+        "Our ecological footprint shows how much resources we consume.",
+        "Living simply can help shrink your ecological footprint."
+      ]
+    },
+    {
+      "word": "Carbon Neutral",
+      "pronunciation": "/ˈkɑːrbən ˈnuːtrəl/",
+      "definition": "Achieving net zero carbon dioxide emissions by balancing carbon emissions with carbon removal or by eliminating carbon emissions entirely.",
+      "sentences": [
+        "The company aims to be carbon neutral by 2030.",
+        "Using renewable energy helps achieve carbon neutral status.",
+        "Many events are striving to become carbon neutral."
+      ]
+    },
+    {
+      "word": "Climate Resilience",
+      "pronunciation": "/ˈklaɪmɪt rɪˈzɪliəns/",
+      "definition": "The capacity of social, economic, and environmental systems to cope with a hazardous event or trend or disturbance, responding or reorganizing in ways that maintain their essential function, identity, and structure.",
+      "sentences": [
+        "Building climate resilience is important for coastal communities.",
+        "Cities are developing strategies for climate resilience.",
+        "Investing in infrastructure can improve climate resilience."
+      ]
+    },
+    {
+      "word": "Adaptation (Climate)",
+      "pronunciation": "/ˌædæpˈteɪʃən/",
+      "definition": "Adjustments in natural or human systems in response to actual or expected climatic stimuli or their effects, which moderates harm or exploits beneficial opportunities.",
+      "sentences": [
+        "Building sea walls is an adaptation to rising sea levels.",
+        "Farmers are practicing new methods of adaptation to changing rainfall.",
+        "Climate adaptation strategies are crucial for vulnerable regions."
+      ]
+    },
+    {
+      "word": "Mitigation (Climate)",
+      "pronunciation": "/ˌmɪtɪˈɡeɪʃən/",
+      "definition": "Actions to reduce the sources or enhance the sinks of greenhouse gases.",
+      "sentences": [
+        "Reducing fossil fuel use is a key climate mitigation strategy.",
+        "Planting trees is a form of climate mitigation.",
+        "International agreements focus on climate mitigation efforts."
+      ]
+    }
+  ]
+}

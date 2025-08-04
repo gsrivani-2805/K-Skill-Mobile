@@ -1,0 +1,276 @@
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 5,
+  "lesson_title": "Subject and Predicate: Who or What + What They Do",
+  "objectives": [
+    "Understand the two main parts of every sentence: the Subject and the Predicate.",
+    "Learn to identify the Subject (who or what the sentence is about) and the Predicate (what the subject does or is).",
+    "Practice building complete and meaningful sentences by combining subjects and predicates."
+  ],
+  "topics": [
+    {
+      "title": "1. What is a Sentence?",
+      "subtopics": [
+        {
+          "title": "1.1. Sentences Need Two Main Parts",
+          "sections": [
+            {
+              "text": "A sentence is a group of words that makes complete sense. Every complete sentence has two main parts: the Subject and the Predicate. These two parts work together to tell us who or what the sentence is about, and what that person or thing does or is. Without both, a group of words is not a full sentence.",
+              "examples": [
+                {
+                  "label": "Example 1",
+                  "value": "Birds fly."
+                },
+                {
+                  "label": "Example 2",
+                  "value": "Ram eats."
+                },
+                {
+                  "label": "Example 3",
+                  "value": "The sun shines."
+                },
+                {
+                  "label": "Example 4",
+                  "value": "My mother cooks."
+                }
+              ],
+              "usage_examples": [
+                "We learn English every day.",
+                "My father works hard in the field.",
+                "The cow gives us milk.",
+                "Children play games.",
+                "The teacher explains the lesson.",
+                "The river flows to the sea.",
+                "Farmers grow crops.",
+                "The dog is barking.",
+                "She reads a book.",
+                "He climbs a tree."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. The Subject: Who or What the Sentence is About",
+      "subtopics": [
+        {
+          "title": "2.1. Finding the Subject",
+          "sections": [
+            {
+              "text": "The subject is the part of the sentence that tells us who or what the sentence is about. It is usually a naming word (noun) or a word that takes the place of a noun (pronoun). To find the subject, always ask: 'Who or what is doing the action?' or 'Who or what is the sentence talking about?'",
+              "examples": [
+                {
+                  "label": "Example 1 (Person)",
+                  "value": "**The farmer** works in the field. (Who works? The farmer.)"
+                },
+                {
+                  "label": "Example 2 (Animal)",
+                  "value": "**Birds** fly in the sky. (What flies? Birds.)"
+                },
+                {
+                  "label": "Example 3 (Thing)",
+                  "value": "**The well** provides water. (What provides water? The well.)"
+                },
+                {
+                  "label": "Example 4 (Pronoun)",
+                  "value": "**She** is happy. (Who is happy? She.)"
+                }
+              ],
+              "usage_examples": [
+                "**My mother** cooks delicious food. (Who cooks? My mother.)",
+                "**The dog** barked loudly at night. (What barked? The dog.)",
+                "**We** learn new things every day. (Who learns? We.)",
+                "**The trees** give us shade. (What gives shade? The trees.)",
+                "**Rahul** reads a book. (Who reads? Rahul.)",
+                "**The tractor** plows the field. (What plows? The tractor.)",
+                "**Students** listen to the teacher. (Who listens? Students.)",
+                "**The moon** shines at night. (What shines? The moon.)",
+                "**He** goes to the market. (Who goes? He.)",
+                "**The village** has a small school."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Simple Subject vs. Compound Subject",
+          "sections": [
+            {
+              "text": "A **simple subject** is just one main noun or pronoun. A **compound subject** has two or more subjects joined by words like 'and' or 'or'. This means more than one person, animal, or thing is doing the action.",
+              "examples": [
+                {
+                  "label": "Simple Subject",
+                  "value": "**Ram** plays cricket."
+                },
+                {
+                  "label": "Compound Subject",
+                  "value": "**Ram and Sita** play cricket. (Ram and Sita are both playing.)"
+                },
+                {
+                  "label": "Simple Subject",
+                  "value": "**The cow** gives milk."
+                },
+                {
+                  "label": "Compound Subject",
+                  "value": "**The cow and the buffalo** give milk. (Both the cow and buffalo give milk.)"
+                }
+              ],
+              "usage_examples": [
+                "**My brother and I** go to school together.",
+                "**Cows, goats, and chickens** are farm animals.",
+                "**Chairs and tables** are in the classroom.",
+                "**The teacher or the principal** will make the announcement.",
+                "**Rice and wheat** are staple foods.",
+                "**Sun and rain** are important for crops.",
+                "**My friend and his brother** are coming to the village.",
+                "**Fruits and vegetables** are good for health.",
+                "**The man and the woman** built a house.",
+                "**You or I** can help with the work."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. The Predicate: What the Subject Does or Is",
+      "subtopics": [
+        {
+          "title": "3.1. Finding the Predicate",
+          "sections": [
+            {
+              "text": "The predicate is the part of the sentence that tells us what the subject does, what happens to the subject, or what the subject is. The predicate always includes a verb (action word or 'being' word). To find the predicate, after finding the subject, ask: 'What about the subject?'",
+              "examples": [
+                {
+                  "label": "Example 1 (Action)",
+                  "value": "The farmer **works in the field**. (What about the farmer? Works in the field.)"
+                },
+                {
+                  "label": "Example 2 (Action)",
+                  "value": "Birds **fly in the sky**. (What about birds? Fly in the sky.)"
+                },
+                {
+                  "label": "Example 3 (State of Being)",
+                  "value": "Sita **is happy**. (What about Sita? Is happy.)"
+                },
+                {
+                  "label": "Example 4 (Action)",
+                  "value": "The children **are playing loudly**. (What about the children? Are playing loudly.)"
+                }
+              ],
+              "usage_examples": [
+                "My mother **cooks delicious food for our family**.",
+                "The dog **barked loudly at the stranger**.",
+                "The well **provides clean water for the village**.",
+                "Students **study English grammar lessons**.",
+                "My elder brother **helps me with my homework**.",
+                "The sun **shines brightly during the day**.",
+                "The river **flows calmly towards the city**.",
+                "The old man **was sitting under a tree**.",
+                "The birds **are chirping in the morning**.",
+                "He **is reading a very interesting book**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. Simple Predicate vs. Compound Predicate",
+          "sections": [
+            {
+              "text": "A **simple predicate** has one main verb and its related words. A **compound predicate** has two or more verbs (actions) for the same subject, joined by words like 'and' or 'or'. This means the subject is doing more than one thing.",
+              "examples": [
+                {
+                  "label": "Simple Predicate",
+                  "value": "The children **play cricket**."
+                },
+                {
+                  "label": "Compound Predicate",
+                  "value": "The children **play cricket and laugh loudly**. (They are doing two things: playing and laughing.)"
+                },
+                {
+                  "label": "Simple Predicate",
+                  "value": "My mother **cooks dinner**."
+                },
+                {
+                  "label": "Compound Predicate",
+                  "value": "My mother **cooks dinner and cleans the kitchen**. (She does two actions: cooks and cleans.)"
+                }
+              ],
+              "usage_examples": [
+                "The farmer **plows the field and sows seeds**.",
+                "Students **study hard and write notes in their books**.",
+                "The bird **sings sweetly and flies away**.",
+                "My sister **reads stories and watches TV**.",
+                "The doctor **examines patients and gives medicine**.",
+                "We **wake up early and go to school**.",
+                "The cat **chased the mouse and caught it**.",
+                "He **went to the shop and bought some sweets**.",
+                "She **finished her work and went home**.",
+                "The children **sang songs and danced happily**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. How Subject and Predicate Work Together",
+      "subtopics": [
+        {
+          "title": "4.1. Making Complete Sentences",
+          "sections": [
+            {
+              "text": "For a sentence to make complete sense, it must always have both a subject and a predicate. The subject tells us WHO or WHAT, and the predicate tells us WHAT HAPPENS or WHAT IT IS. They are like two sides of a coin; you need both for a complete picture.",
+              "examples": [
+                {
+                  "label": "Sentence with Subject and Predicate",
+                  "value": "The sun | shines brightly. (Subject: The sun, Predicate: shines brightly)"
+                },
+                {
+                  "label": "Sentence with Subject and Predicate",
+                  "value": "Village children | play in the evening. (Subject: Village children, Predicate: play in the evening)"
+                },
+                {
+                  "label": "Sentence with Subject and Predicate",
+                  "value": "Our school | has many teachers. (Subject: Our school, Predicate: has many teachers)"
+                }
+              ],
+              "usage_examples": [
+                "My father | works hard in the fields every day.",
+                "The river | flows near our village silently.",
+                "We | learn English grammar every day in class.",
+                "Birds | build nests in trees during spring.",
+                "The Sarpanch | helps the villagers with their problems.",
+                "Fresh vegetables | grow in our garden.",
+                "Our old well | provides clean drinking water.",
+                "The students | are listening carefully.",
+                "The big tractor | is plowing the field.",
+                "The old grandmother | tells interesting stories."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+       

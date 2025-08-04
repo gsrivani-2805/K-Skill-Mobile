@@ -1,0 +1,2576 @@
+{
+  "title": "Health & Medical",
+  "icon": "⚕️",
+  "words": [
+    {
+      "word": "Doctor",
+      "pronunciation": "/ˈdɑːktər/",
+      "definition": "A person trained in medicine who treats sick people.",
+      "sentences": [
+        "The **doctor** checked my throat.",
+        "I went to see the **doctor** when I felt unwell.",
+        "A **doctor** helps people get better."
+      ]
+    },
+    {
+      "word": "Nurse",
+      "pronunciation": "/nɜːrs/",
+      "definition": "A person trained to care for the sick or injured.",
+      "sentences": [
+        "The **nurse** gave me my medicine.",
+        "A kind **nurse** helped me feel comfortable.",
+        "She wants to be a **nurse** when she grows up."
+      ]
+    },
+    {
+      "word": "Hospital",
+      "pronunciation": "/ˈhɑːspɪtl/",
+      "definition": "A place where sick or injured people are treated.",
+      "sentences": [
+        "My friend had to go to the **hospital**.",
+        "The **hospital** has many rooms for patients.",
+        "Doctors and nurses work at the **hospital**."
+      ]
+    },
+    {
+      "word": "Clinic",
+      "pronunciation": "/ˈklɪnɪk/",
+      "definition": "A place where people go for medical treatment or advice, usually smaller than a hospital.",
+      "sentences": [
+        "I went to the local **clinic** for a check-up.",
+        "The dental **clinic** is open on Saturdays.",
+        "The doctor has a small **clinic** in town."
+      ]
+    },
+    {
+      "word": "Medicine",
+      "pronunciation": "/ˈmɛdɪsn/",
+      "definition": "Substances used to treat illness or pain.",
+      "sentences": [
+        "Take your **medicine** twice a day.",
+        "The **medicine** helped my headache go away.",
+        "Always keep **medicine** out of reach of children."
+      ]
+    },
+    {
+      "word": "Symptom",
+      "pronunciation": "/ˈsɪmptəm/",
+      "definition": "A sign that you have an illness.",
+      "sentences": [
+        "Fever is a common **symptom** of the flu.",
+        "What are your main **symptoms**?",
+        "He described his **symptoms** to the doctor."
+      ]
+    },
+    {
+      "word": "Illness",
+      "pronunciation": "/ˈɪlnəs/",
+      "definition": "A disease or period of being unwell.",
+      "sentences": [
+        "He missed school due to a sudden **illness**.",
+        "Regular exercise can prevent many **illnesses**.",
+        "The doctor diagnosed her **illness** quickly."
+      ]
+    },
+    {
+      "word": "Disease",
+      "pronunciation": "/dɪˈziːz/",
+      "definition": "A serious illness that affects a person, animal, or plant.",
+      "sentences": [
+        "Vaccinations help prevent serious **diseases**.",
+        "Heart **disease** is a major health concern.",
+        "Scientists are working to cure many **diseases**."
+      ]
+    },
+    {
+      "word": "Health",
+      "pronunciation": "/hɛlθ/",
+      "definition": "The state of being free from illness or injury.",
+      "sentences": [
+        "Eating well is important for good **health**.",
+        "He always takes care of his **health**.",
+        "Public **health** campaigns promote healthy living."
+      ]
+    },
+    {
+      "word": "Healthy",
+      "pronunciation": "/ˈhɛlθi/",
+      "definition": "In good physical or mental condition.",
+      "sentences": [
+        "Eat **healthy** food to stay strong.",
+        "She leads a very **healthy** lifestyle.",
+        "Exercising regularly keeps you **healthy**."
+      ]
+    },
+    {
+      "word": "Sick",
+      "pronunciation": "/sɪk/",
+      "definition": "Feeling unwell; ill.",
+      "sentences": [
+        "I feel **sick** today, so I stayed home.",
+        "The dog was very **sick** and needed a vet.",
+        "She got **sick** after eating old food."
+      ]
+    },
+    {
+      "word": "Injured",
+      "pronunciation": "/ˈɪndʒərd/",
+      "definition": "Hurt or harmed physically.",
+      "sentences": [
+        "He got **injured** playing soccer.",
+        "The **injured** bird couldn't fly.",
+        "The nurse helped the **injured** patient."
+      ]
+    },
+    {
+      "word": "Pain",
+      "pronunciation": "/peɪn/",
+      "definition": "An unpleasant physical sensation caused by illness or injury.",
+      "sentences": [
+        "I have a sharp **pain** in my knee.",
+        "The medicine helped relieve the **pain**.",
+        "She felt a lot of **pain** after falling."
+      ]
+    },
+    {
+      "word": "Fever",
+      "pronunciation": "/ˈfiːvər/",
+      "definition": "A high body temperature, usually a symptom of illness.",
+      "sentences": [
+        "The child had a high **fever**.",
+        "Take medicine if you have a **fever**.",
+        "Her **fever** went down after a good night's sleep."
+      ]
+    },
+    {
+      "word": "Cough",
+      "pronunciation": "/kɔːf/",
+      "definition": "To push air out of your lungs suddenly and noisily.",
+      "sentences": [
+        "He has a bad **cough**.",
+        "The dust made me **cough**.",
+        "She couldn't stop **coughing**."
+      ]
+    },
+    {
+      "word": "Sneeze",
+      "pronunciation": "/sniːz/",
+      "definition": "To expel air from the nose and mouth suddenly and involuntarily.",
+      "sentences": [
+        "I started to **sneeze** because of the pollen.",
+        "Bless you! You just **sneezed**.",
+        "A tickle in my nose made me **sneeze**."
+      ]
+    },
+    {
+      "word": "Headache",
+      "pronunciation": "/ˈhɛdˌeɪk/",
+      "definition": "A continuous pain in the head.",
+      "sentences": [
+        "I have a terrible **headache**.",
+        "Too much screen time can cause a **headache**.",
+        "She took a pill for her **headache**."
+      ]
+    },
+    {
+      "word": "Stomachache",
+      "pronunciation": "/ˈstʌməkˌeɪk/",
+      "definition": "Pain in the stomach.",
+      "sentences": [
+        "Eating too much candy gave me a **stomachache**.",
+        "He complained of a severe **stomachache**.",
+        "A warm drink can sometimes help a **stomachache**."
+      ]
+    },
+    {
+      "word": "Sore throat",
+      "pronunciation": "/sɔːr θroʊt/",
+      "definition": "Pain or irritation in the throat.",
+      "sentences": [
+        "I have a **sore throat** and it hurts to swallow.",
+        "Gargling with salt water can help a **sore throat**.",
+        "A **sore throat** is often the first sign of a cold."
+      ]
+    },
+    {
+      "word": "Cold",
+      "pronunciation": "/koʊld/",
+      "definition": "A common viral infection of the nose and throat.",
+      "sentences": [
+        "I caught a **cold** last week.",
+        "Drink hot tea when you have a **cold**.",
+        "She has a runny nose because of her **cold**."
+      ]
+    },
+    {
+      "word": "Flu",
+      "pronunciation": "/fluː/",
+      "definition": "A common infectious disease that causes fever, weakness, and body aches.",
+      "sentences": [
+        "The **flu** can make you feel very tired.",
+        "Get a flu shot to protect against the **flu**.",
+        "He was in bed for days with the **flu**."
+      ]
+    },
+    {
+      "word": "Allergy",
+      "pronunciation": "/ˈælərdʒi/",
+      "definition": "A harmful reaction to something harmless, like pollen or certain foods.",
+      "sentences": [
+        "She has an **allergy** to peanuts.",
+        "His pollen **allergy** makes him sneeze a lot.",
+        "The doctor prescribed medicine for his **allergy**."
+      ]
+    },
+    {
+      "word": "Rash",
+      "pronunciation": "/ræʃ/",
+      "definition": "An area of red spots on the skin, caused by illness or a reaction.",
+      "sentences": [
+        "The child developed a **rash** after eating strawberries.",
+        "The doctor examined the strange **rash** on her arm.",
+        "Some plants can cause an itchy **rash**."
+      ]
+    },
+    {
+      "word": "Bruise",
+      "pronunciation": "/bruːz/",
+      "definition": "A mark on the skin caused by a blow, where blood vessels are broken.",
+      "sentences": [
+        "I got a big **bruise** on my leg when I fell.",
+        "The apple had a soft **bruise** on its side.",
+        "His arm was covered in **bruises** after the game."
+      ]
+    },
+    {
+      "word": "Cut",
+      "pronunciation": "/kʌt/",
+      "definition": "An opening made in something with a sharp tool or object.",
+      "sentences": [
+        "Be careful not to **cut** yourself with the knife.",
+        "He had a small **cut** on his finger.",
+        "Clean the **cut** to prevent infection."
+      ]
+    },
+    {
+      "word": "Wound",
+      "pronunciation": "/wuːnd/",
+      "definition": "An injury to the body, especially one that involves a break in the skin.",
+      "sentences": [
+        "The nurse cleaned the deep **wound**.",
+        "He received a serious **wound** in the accident.",
+        "The doctor stitched up the **wound**."
+      ]
+    },
+    {
+      "word": "Bandage",
+      "pronunciation": "/ˈbændɪdʒ/",
+      "definition": "A strip of material used to bind up a wound or to protect an injured part of the body.",
+      "sentences": [
+        "The nurse put a **bandage** on my arm.",
+        "Wrap the **bandage** tightly around the sprain.",
+        "He wore a **bandage** on his head."
+      ]
+    },
+    {
+      "word": "Plaster",
+      "pronunciation": "/ˈplæstər/",
+      "definition": "A sticky strip of material for covering small cuts.",
+      "sentences": [
+        "Put a **plaster** on your finger if you cut it.",
+        "I need a waterproof **plaster** for my swim.",
+        "She put a small **plaster** over the scratch."
+      ]
+    },
+    {
+      "word": "First aid",
+      "pronunciation": "/ˈfɜːrst eɪd/",
+      "definition": "Help given to a sick or injured person until full medical treatment is available.",
+      "sentences": [
+        "Everyone should know basic **first aid**.",
+        "The teacher applied **first aid** to the student's knee.",
+        "Keep a **first aid** kit at home."
+      ]
+    },
+    {
+      "word": "Prescription",
+      "pronunciation": "/prɪˈskrɪpʃn/",
+      "definition": "An official paper from a doctor telling you what medicine to get.",
+      "sentences": [
+        "The doctor wrote me a **prescription** for antibiotics.",
+        "You need a **prescription** to get this medicine.",
+        "I picked up my **prescription** from the pharmacy."
+      ]
+    },
+    {
+      "word": "Pharmacy",
+      "pronunciation": "/ˈfɑːrməsi/",
+      "definition": "A place where medicines are sold.",
+      "sentences": [
+        "I went to the **pharmacy** to buy some cough syrup.",
+        "The **pharmacy** is open until late.",
+        "You can get your prescription filled at the **pharmacy**."
+      ]
+    },
+    {
+      "word": "Tablet",
+      "pronunciation": "/ˈtæblɪt/",
+      "definition": "A small, solid dose of medicine.",
+      "sentences": [
+        "Take one **tablet** with water.",
+        "The doctor prescribed a new **tablet** for his condition.",
+        "These **tablets** are for pain relief."
+      ]
+    },
+    {
+      "word": "Syrup",
+      "pronunciation": "/ˈsɪrəp/",
+      "definition": "A thick, sweet liquid medicine.",
+      "sentences": [
+        "The cough **syrup** helped soothe my throat.",
+        "Children often prefer liquid **syrup** medicine.",
+        "Take a spoonful of **syrup** before bed."
+      ]
+    },
+    {
+      "word": "Injection",
+      "pronunciation": "/ɪnˈdʒɛkʃn/",
+      "definition": "The act of forcing a liquid into the body, especially a medicine, using a needle.",
+      "sentences": [
+        "The nurse gave me an **injection** in my arm.",
+        "Some vaccines are given by **injection**.",
+        "He was nervous about getting an **injection**."
+      ]
+    },
+    {
+      "word": "Vaccine",
+      "pronunciation": "/ˈvæksiːn/",
+      "definition": "A substance that helps your body fight against a disease.",
+      "sentences": [
+        "The flu **vaccine** helps prevent illness.",
+        "Children receive many **vaccines** to stay healthy.",
+        "Scientists developed a new **vaccine**."
+      ]
+    },
+    {
+      "word": "Diagnosis",
+      "pronunciation": "/ˌdaɪəɡˈnoʊsɪs/",
+      "definition": "The identification of the nature of an illness or other problem by examination of the symptoms.",
+      "sentences": [
+        "The doctor gave me a clear **diagnosis**.",
+        "Getting an early **diagnosis** is important for treatment.",
+        "Her **diagnosis** was confirmed after tests."
+      ]
+    },
+    {
+      "word": "Treatment",
+      "pronunciation": "/ˈtriːtmənt/",
+      "definition": "The use of medicine, exercises, etc., to cure a person of an illness or injury.",
+      "sentences": [
+        "The doctor recommended a new **treatment** for his condition.",
+        "The **treatment** involved daily medication.",
+        "She responded well to the **treatment**."
+      ]
+    },
+    {
+      "word": "Operation",
+      "pronunciation": "/ˌɑːpəˈreɪʃn/",
+      "definition": "A surgical procedure to treat an injury or illness.",
+      "sentences": [
+        "He had an **operation** on his knee.",
+        "The **operation** was successful.",
+        "She recovered quickly after the **operation**."
+      ]
+    },
+    {
+      "word": "Surgery",
+      "pronunciation": "/ˈsɜːrdʒəri/",
+      "definition": "Medical treatment in which a doctor cuts into someone's body to repair or remove something.",
+      "sentences": [
+        "He needed **surgery** to fix his broken bone.",
+        "The **surgery** lasted for several hours.",
+        "She is recovering well after her **surgery**."
+      ]
+    },
+    {
+      "word": "Recovery",
+      "pronunciation": "/rɪˈkʌvəri/",
+      "definition": "A return to a normal state of health, mind, or strength.",
+      "sentences": [
+        "His **recovery** after the illness was slow but steady.",
+        "She made a full **recovery** from her injury.",
+        "The doctor said her **recovery** would take time."
+      ]
+    },
+    {
+      "word": "Therapy",
+      "pronunciation": "/ˈθɛrəpi/",
+      "definition": "Treatment intended to heal or relieve a disorder.",
+      "sentences": [
+        "He undergoes physical **therapy** for his leg injury.",
+        "Speech **therapy** helped the child speak more clearly.",
+        "She finds art **therapy** very helpful."
+      ]
+    },
+    {
+      "word": "Diet",
+      "pronunciation": "/ˈdaɪət/",
+      "definition": "The kinds of food that a person, animal, or community habitually eats.",
+      "sentences": [
+        "Eating a balanced **diet** is essential for health.",
+        "The doctor recommended a low-sugar **diet**.",
+        "She changed her **diet** to include more vegetables."
+      ]
+    },
+    {
+      "word": "Nutrition",
+      "pronunciation": "/nuːˈtrɪʃn/",
+      "definition": "The process of providing or obtaining the food necessary for health and growth.",
+      "sentences": [
+        "Good **nutrition** is vital for growing children.",
+        "Learn about proper **nutrition** to stay healthy.",
+        "The class learned about the importance of **nutrition**."
+      ]
+    },
+    {
+      "word": "Exercise",
+      "pronunciation": "/ˈɛksərˌsaɪz/",
+      "definition": "Activity requiring physical effort, carried out to sustain or improve health and fitness.",
+      "sentences": [
+        "Regular **exercise** keeps your body strong.",
+        "I do morning **exercise** every day.",
+        "Walking is a great form of **exercise**."
+      ]
+    },
+    {
+      "word": "Fitness",
+      "pronunciation": "/ˈfɪtnəs/",
+      "definition": "The condition of being physically fit and healthy.",
+      "sentences": [
+        "He works out to maintain his **fitness**.",
+        "Good **fitness** helps you perform better in sports.",
+        "She joined a gym to improve her **fitness**."
+      ]
+    },
+    {
+      "word": "Hygiene",
+      "pronunciation": "/ˈhaɪdʒiːn/",
+      "definition": "Conditions or practices conducive to maintaining health and preventing disease, especially through cleanliness.",
+      "sentences": [
+        "Good personal **hygiene** is important for preventing illness.",
+        "Wash your hands for proper **hygiene**.",
+        "The school teaches children about dental **hygiene**."
+      ]
+    },
+    {
+      "word": "Sleep",
+      "pronunciation": "/sliːp/",
+      "definition": "A natural state of rest for the mind and body.",
+      "sentences": [
+        "Get enough **sleep** to feel refreshed.",
+        "Lack of **sleep** can make you tired.",
+        "He needs eight hours of **sleep** every night."
+      ]
+    },
+    {
+      "word": "Stress",
+      "pronunciation": "/strɛs/",
+      "definition": "A state of mental or emotional strain or tension resulting from adverse or demanding circumstances.",
+      "sentences": [
+        "Too much homework can cause **stress**.",
+        "Find ways to manage your **stress**.",
+        "She felt a lot of **stress** before her exams."
+      ]
+    },
+    {
+      "word": "Relax",
+      "pronunciation": "/rɪˈlæks/",
+      "definition": "To make or become less tense or anxious.",
+      "sentences": [
+        "Take a deep breath and **relax**.",
+        "Reading a book helps me **relax**.",
+        "It's important to **relax** after a long day."
+      ]
+    },
+    {
+      "word": "Mental health",
+      "pronunciation": "/ˈmɛntl hɛlθ/",
+      "definition": "A person's condition with regard to their psychological and emotional well-being.",
+      "sentences": [
+        "Talking about your feelings can help your **mental health**.",
+        "Schools are focusing more on student **mental health**.",
+        "Taking breaks is good for your **mental health**."
+      ]
+    },
+    {
+      "word": "Well-being",
+      "pronunciation": "/ˈwɛl ˌbiːɪŋ/",
+      "definition": "The state of being comfortable, healthy, or happy.",
+      "sentences": [
+        "Exercise contributes to overall **well-being**.",
+        "Focus on your emotional **well-being**.",
+        "The program aims to improve community **well-being**."
+      ]
+    },
+    {
+      "word": "Prevention",
+      "pronunciation": "/prɪˈvɛnʃn/",
+      "definition": "The action of stopping something from happening or arising.",
+      "sentences": [
+        "Handwashing is key to disease **prevention**.",
+        "Early **prevention** can save lives.",
+        "The campaign focuses on accident **prevention**."
+      ]
+    },
+    {
+      "word": "Vaccination",
+      "pronunciation": "/ˌvæksɪˈneɪʃn/",
+      "definition": "The act of giving a vaccine to produce immunity against a disease.",
+      "sentences": [
+        "Childhood **vaccination** protects against many illnesses.",
+        "Annual flu **vaccination** is recommended.",
+        "The country has a high rate of **vaccination**."
+      ]
+    },
+    {
+      "word": "Immunity",
+      "pronunciation": "/ɪˈmjuːnəti/",
+      "definition": "The ability of an organism to resist a particular infection or toxin by the action of specific antibodies or sensitized white blood cells.",
+      "sentences": [
+        "Getting vaccinated builds your **immunity**.",
+        "Some people have natural **immunity** to certain diseases.",
+        "Her strong **immunity** helped her fight off the virus."
+      ]
+    },
+    {
+      "word": "Contagious",
+      "pronunciation": "/kənˈteɪdʒəs/",
+      "definition": "(Of a disease) spread from one person or organism to another by direct or indirect contact.",
+      "sentences": [
+        "The flu is highly **contagious**.",
+        "Stay home if you have a **contagious** illness.",
+        "Measles is a very **contagious** disease."
+      ]
+    },
+    {
+      "word": "Infection",
+      "pronunciation": "/ɪnˈfɛkʃn/",
+      "definition": "The process of infecting or being infected with a disease-causing organism.",
+      "sentences": [
+        "Clean cuts to prevent **infection**.",
+        "He developed an ear **infection**.",
+        "Antibiotics are used to treat bacterial **infections**."
+      ]
+    },
+    {
+      "word": "Germs",
+      "pronunciation": "/dʒɜːrmz/",
+      "definition": "Microorganisms, especially those that cause disease.",
+      "sentences": [
+        "Wash your hands to get rid of **germs**.",
+        "Tiny **germs** can make you sick.",
+        "Sanitizer helps kill **germs**."
+      ]
+    },
+    {
+      "word": "Virus",
+      "pronunciation": "/ˈvaɪrəs/",
+      "definition": "A tiny infectious agent that can only reproduce inside living cells.",
+      "sentences": [
+        "The common cold is caused by a **virus**.",
+        "Scientists study different types of **viruses**.",
+        "The new **virus** spread quickly."
+      ]
+    },
+    {
+      "word": "Bacteria",
+      "pronunciation": "/bækˈtɪəriə/",
+      "definition": "Tiny living things, some of which can cause disease.",
+      "sentences": [
+        "Some **bacteria** are good for your body.",
+        "Antibiotics fight harmful **bacteria**.",
+        "Food poisoning can be caused by **bacteria**."
+      ]
+    },
+    {
+      "word": "Antibiotics",
+      "pronunciation": "/ˌæntibaɪˈɑːtɪks/",
+      "definition": "Medicines that kill bacteria or stop them from growing.",
+      "sentences": [
+        "The doctor prescribed **antibiotics** for his infection.",
+        "Don't stop taking **antibiotics** until the course is finished.",
+        "Overuse of **antibiotics** can lead to resistance."
+      ]
+    },
+    {
+      "word": "Inflammation",
+      "pronunciation": "/ˌɪnfləˈmeɪʃn/",
+      "definition": "A localized physical condition in which part of the body becomes reddened, swollen, hot, and often painful, especially as a reaction to injury or infection.",
+      "sentences": [
+        "The sprained ankle showed signs of **inflammation**.",
+        "Pain relievers can reduce **inflammation**.",
+        "**Inflammation** is a natural response to injury."
+      ]
+    },
+    {
+      "word": "Swelling",
+      "pronunciation": "/ˈswɛlɪŋ/",
+      "definition": "An abnormal enlargement of a part of the body, typically as a result of an injury or illness.",
+      "sentences": [
+        "There was noticeable **swelling** around the injury.",
+        "Apply ice to reduce the **swelling**.",
+        "The bee sting caused some **swelling**."
+      ]
+    },
+    {
+      "word": "Bruise",
+      "pronunciation": "/bruːz/",
+      "definition": "A mark on the skin caused by a blow, where blood vessels are broken.",
+      "sentences": [
+        "I got a big **bruise** on my leg when I fell.",
+        "The apple had a soft **bruise** on its side.",
+        "His arm was covered in **bruises** after the game."
+      ]
+    },
+    {
+      "word": "Sprain",
+      "pronunciation": "/spreɪn/",
+      "definition": "To injure a joint by a sudden twisting movement.",
+      "sentences": [
+        "She **sprained** her ankle playing basketball.",
+        "A bad **sprain** can take weeks to heal.",
+        "The doctor advised rest for the **sprain**."
+      ]
+    },
+    {
+      "word": "Fracture",
+      "pronunciation": "/ˈfræktʃər/",
+      "definition": "A break in a bone.",
+      "sentences": [
+        "He suffered a bone **fracture** in the accident.",
+        "The X-ray confirmed the **fracture**.",
+        "A cast is needed to heal a **fracture**."
+      ]
+    },
+    {
+      "word": "X-ray",
+      "pronunciation": "/ˈɛks reɪ/",
+      "definition": "A type of radiation that can pass through soft tissue but not bone, used to see inside the body.",
+      "sentences": [
+        "The doctor ordered an **X-ray** of my arm.",
+        "The **X-ray** showed a broken bone.",
+        "We saw the image from the **X-ray**."
+      ]
+    },
+    {
+      "word": "Scan",
+      "pronunciation": "/skæn/",
+      "definition": "A medical examination using a scanner, especially one that produces a visual image of an organ or part of the body.",
+      "sentences": [
+        "The doctor ordered an MRI **scan** to check her brain.",
+        "The ultrasound **scan** showed the baby clearly.",
+        "He had a full body **scan** as part of his check-up."
+      ]
+    },
+    {
+      "word": "Blood test",
+      "pronunciation": "/blʌd tɛst/",
+      "definition": "A medical test that involves taking a sample of blood to analyze it.",
+      "sentences": [
+        "The doctor ordered a **blood test** to check for infections.",
+        "I had a routine **blood test** this morning.",
+        "The **blood test** results will be ready tomorrow."
+      ]
+    },
+    {
+      "word": "Check-up",
+      "pronunciation": "/ˈtʃɛk ʌp/",
+      "definition": "A general medical examination to ensure a person is healthy.",
+      "sentences": [
+        "I have an annual medical **check-up** next month.",
+        "It's important to get regular **check-ups**.",
+        "The doctor gave me a clean bill of health after my **check-up**."
+      ]
+    },
+    {
+      "word": "Examination",
+      "pronunciation": "/ɪɡˌzæmɪˈneɪʃn/",
+      "definition": "A detailed inspection or study of something.",
+      "sentences": [
+        "The doctor performed a thorough **examination**.",
+        "The eye **examination** showed she needed glasses.",
+        "A physical **examination** is part of the check-up."
+      ]
+    },
+    {
+      "word": "Consultation",
+      "pronunciation": "/ˌkɑːnslˈteɪʃn/",
+      "definition": "A meeting with an expert or professional, such as a doctor, for advice.",
+      "sentences": [
+        "I had a **consultation** with the specialist.",
+        "The doctor charges for a private **consultation**.",
+        "She scheduled a **consultation** to discuss her symptoms."
+      ]
+    },
+    {
+      "word": "Appointment",
+      "pronunciation": "/əˈpɔɪntmənt/",
+      "definition": "A formal arrangement to meet or visit someone at a particular time.",
+      "sentences": [
+        "I have a doctor's **appointment** tomorrow morning.",
+        "Don't miss your dental **appointment**.",
+        "She called to cancel her **appointment**."
+      ]
+    },
+    {
+      "word": "Patient",
+      "pronunciation": "/ˈpeɪʃnt/",
+      "definition": "A person receiving medical treatment.",
+      "sentences": [
+        "The **patient** was recovering well after surgery.",
+        "The nurse checked on her **patients**.",
+        "He is a very cooperative **patient**."
+      ]
+    },
+    {
+      "word": "Ward",
+      "pronunciation": "/wɔːrd/",
+      "definition": "A separate room or area in a hospital for people with the same type of illness or need.",
+      "sentences": [
+        "He was moved to the children's **ward**.",
+        "The hospital has a new maternity **ward**.",
+        "Visitors are allowed in the **ward** during certain hours."
+      ]
+    },
+    {
+      "word": "Ambulance",
+      "pronunciation": "/ˈæmbjələns/",
+      "definition": "A vehicle equipped for carrying sick or injured people to and from a hospital.",
+      "sentences": [
+        "Call an **ambulance** in an emergency.",
+        "The **ambulance** arrived quickly at the scene.",
+        "The siren of the **ambulance** was very loud."
+      ]
+    },
+    {
+      "word": "Emergency",
+      "pronunciation": "/ɪˈmɜːrdʒənsi/",
+      "definition": "A serious, unexpected, and often dangerous situation requiring immediate action.",
+      "sentences": [
+        "In case of an **emergency**, call 911.",
+        "The hospital has an **emergency** room.",
+        "This is an **emergency**, we need help now."
+      ]
+    },
+    {
+      "word": "First responder",
+      "pronunciation": "/ˈfɜːrst rɪˈspɑːndər/",
+      "definition": "A person such as a police officer, firefighter, or paramedic, who is first to arrive at the scene of an emergency.",
+      "sentences": [
+        "The **first responders** arrived quickly to help.",
+        "We appreciate the brave work of **first responders**.",
+        "Training prepares **first responders** for difficult situations."
+      ]
+    },
+    {
+      "word": "Paramedic",
+      "pronunciation": "/ˌpærəˈmɛdɪk/",
+      "definition": "A person who is trained to give emergency medical treatment in a hospital or ambulance.",
+      "sentences": [
+        "The **paramedic** provided immediate care at the scene.",
+        "**Paramedics** are often the first medical professionals to arrive.",
+        "She trained to become a certified **paramedic**."
+      ]
+    },
+    {
+      "word": "Medical history",
+      "pronunciation": "/ˈmɛdɪkl ˈhɪstri/",
+      "definition": "A record of a person's past illnesses, treatments, and other health-related information.",
+      "sentences": [
+        "The doctor asked about my **medical history**.",
+        "It's important to be honest about your **medical history**.",
+        "His **medical history** showed no major illnesses."
+      ]
+    },
+    {
+      "word": "Allergies",
+      "pronunciation": "/ˈælərdʒiz/",
+      "definition": "Harmful reactions to substances that are harmless to most people.",
+      "sentences": [
+        "Do you have any known **allergies**?",
+        "Her **allergies** include pollen and dust.",
+        "Always inform your doctor about your **allergies**."
+      ]
+    },
+    {
+      "word": "Medication",
+      "pronunciation": "/ˌmɛdɪˈkeɪʃn/",
+      "definition": "A drug or other form of medicine.",
+      "sentences": [
+        "He is currently on several **medications**.",
+        "Take your **medication** as prescribed.",
+        "The doctor adjusted her **medication** dosage."
+      ]
+    },
+    {
+      "word": "Dosage",
+      "pronunciation": "/ˈdoʊsɪdʒ/",
+      "definition": "The size or frequency of a dose of a medicine or drug.",
+      "sentences": [
+        "Follow the correct **dosage** for the medicine.",
+        "The doctor adjusted the **dosage** for the child.",
+        "Never exceed the recommended **dosage**."
+      ]
+    },
+    {
+      "word": "Side effects",
+      "pronunciation": "/saɪd ɪˈfɛkts/",
+      "definition": "Unintended and often unpleasant effects of a drug or medical treatment.",
+      "sentences": [
+        "This medicine has few **side effects**.",
+        "Read the label for possible **side effects**.",
+        "She experienced some mild **side effects**."
+      ]
+    },
+    {
+      "word": "Chronic",
+      "pronunciation": "/ˈkrɑːnɪk/",
+      "definition": "(Of an illness) persisting for a long time or constantly recurring.",
+      "sentences": [
+        "He suffers from a **chronic** back pain.",
+        "Diabetes is a **chronic** condition.",
+        "Living with a **chronic** illness can be challenging."
+      ]
+    },
+    {
+      "word": "Acute",
+      "pronunciation": "/əˈkjuːt/",
+      "definition": "(Of a disease or condition) severe or intense in degree.",
+      "sentences": [
+        "She had an **acute** attack of appendicitis.",
+        "The patient experienced **acute** pain.",
+        "An **acute** illness usually has a sudden onset."
+      ]
+    },
+    {
+      "word": "Surgical",
+      "pronunciation": "/ˈsɜːrdʒɪkl/",
+      "definition": "Relating to or used in surgery.",
+      "sentences": [
+        "He needed a **surgical** procedure to remove the tumor.",
+        "The hospital has a new **surgical** unit.",
+        "She recovered well from the **surgical** operation."
+      ]
+    },
+    {
+      "word": "Non-surgical",
+      "pronunciation": "/nɑːnˈsɜːrdʒɪkl/",
+      "definition": "Not involving surgery.",
+      "sentences": [
+        "Many back pains can be treated with **non-surgical** methods.",
+        "The doctor recommended a **non-surgical** approach first.",
+        "Physical therapy is a common **non-surgical** treatment."
+      ]
+    },
+    {
+      "word": "Rehabilitation",
+      "pronunciation": "/ˌriːhəˌbɪlɪˈteɪʃn/",
+      "definition": "The action of restoring someone to health or normal life through training and therapy after illness or injury.",
+      "sentences": [
+        "He went to a **rehabilitation** center after his accident.",
+        "Physical **rehabilitation** helps patients regain strength.",
+        "The program focuses on full **rehabilitation**."
+      ]
+    },
+    {
+      "word": "Physical therapy",
+      "pronunciation": "/ˈfɪzɪkl ˈθɛrəpi/",
+      "definition": "The treatment of disease, injury, or deformity by physical methods such as massage, heat treatment, and exercise.",
+      "sentences": [
+        "She attends **physical therapy** sessions twice a week.",
+        "**Physical therapy** helped him walk again.",
+        "The therapist designed a **physical therapy** plan for her."
+      ]
+    },
+    {
+      "word": "Occupational therapy",
+      "pronunciation": "/ˌɑːkjəˈpeɪʃənl ˈθɛrəpi/",
+      "definition": "A form of therapy for those recovering from physical or mental illness that encourages rehabilitation through the performance of activities required in daily life.",
+      "sentences": [
+        "**Occupational therapy** helps people regain daily living skills.",
+        "The child received **occupational therapy** to improve fine motor skills.",
+        "She is studying to become an **occupational therapist**."
+      ]
+    },
+    {
+      "word": "Speech therapy",
+      "pronunciation": "/spiːtʃ ˈθɛrəpi/",
+      "definition": "Therapy to help people improve their speech and communication.",
+      "sentences": [
+        "The child attends **speech therapy** to help with pronunciation.",
+        "**Speech therapy** can assist with various communication disorders.",
+        "She saw a significant improvement after starting **speech therapy**."
+      ]
+    },
+    {
+      "word": "Mental wellness",
+      "pronunciation": "/ˈmɛntl ˈwɛlnəs/",
+      "definition": "A state of well-being in which an individual realizes his or her own abilities, can cope with the normal stresses of life, can work productively and fruitfully, and is able to make a contribution to his or her community.",
+      "sentences": [
+        "Practicing mindfulness contributes to **mental wellness**.",
+        "The school promotes programs for student **mental wellness**.",
+        "Prioritizing **mental wellness** is important for overall health."
+      ]
+    },
+    {
+      "word": "Counseling",
+      "pronunciation": "/ˈkaʊnsəlɪŋ/",
+      "definition": "The provision of professional assistance and guidance in resolving personal or psychological problems.",
+      "sentences": [
+        "She sought **counseling** to cope with her grief.",
+        "The school offers free **counseling** services to students.",
+        "Family **counseling** can help resolve conflicts."
+      ]
+    },
+    {
+      "word": "Psychologist",
+      "pronunciation": "/saɪˈkɑːlədʒɪst/",
+      "definition": "An expert or specialist in psychology.",
+      "sentences": [
+        "The **psychologist** helped her understand her feelings.",
+        "He consulted a child **psychologist** about his son's behavior.",
+        "A **psychologist** studies the human mind and behavior."
+      ]
+    },
+    {
+      "word": "Psychiatrist",
+      "pronunciation": "/saɪˈkaɪətrɪst/",
+      "definition": "A medical doctor who specializes in mental health, including substance use disorders.",
+      "sentences": [
+        "The **psychiatrist** prescribed medication for her anxiety.",
+        "A **psychiatrist** can diagnose and treat mental illnesses.",
+        "She had an appointment with a new **psychiatrist**."
+      ]
+    },
+    {
+      "word": "Pharmacist",
+      "pronunciation": "/ˈfɑːrməsɪst/",
+      "definition": "A person who is professionally qualified to prepare and dispense medicinal drugs.",
+      "sentences": [
+        "The **pharmacist** explained how to take the medicine.",
+        "Ask the **pharmacist** if you have questions about your prescription.",
+        "The **pharmacist** checked for drug interactions."
+      ]
+    },
+    {
+      "word": "Dentist",
+      "pronunciation": "/ˈdɛntɪst/",
+      "definition": "A person qualified to treat diseases and conditions that affect the teeth and gums.",
+      "sentences": [
+        "I have an appointment with the **dentist** tomorrow.",
+        "Visit the **dentist** regularly for check-ups.",
+        "The **dentist** cleaned my teeth."
+      ]
+    },
+    {
+      "word": "Optometrist",
+      "pronunciation": "/ɑːpˈtɑːmɪtrɪst/",
+      "definition": "A person who is qualified to examine people's eyes and prescribe and supply spectacles or contact lenses.",
+      "sentences": [
+        "I went to the **optometrist** to get my eyes checked.",
+        "The **optometrist** said I needed new glasses.",
+        "An **optometrist** can detect certain eye conditions."
+      ]
+    },
+    {
+      "word": "Surgeon",
+      "pronunciation": "/ˈsɜːrdʒən/",
+      "definition": "A medical practitioner qualified to practice surgery.",
+      "sentences": [
+        "The **surgeon** performed a complex operation.",
+        "The **surgeon** explained the risks of the procedure.",
+        "She is a highly skilled heart **surgeon**."
+      ]
+    },
+    {
+      "word": "Pediatrician",
+      "pronunciation": "/ˌpiːdiəˈtrɪʃn/",
+      "definition": "A medical doctor who specializes in children's health.",
+      "sentences": [
+        "We took our baby to the **pediatrician** for a check-up.",
+        "The **pediatrician** gave advice on child nutrition.",
+        "She is a caring and experienced **pediatrician**."
+      ]
+    },
+    {
+      "word": "Cardiologist",
+      "pronunciation": "/ˌkɑːrdiˈɑːlədʒɪst/",
+      "definition": "A doctor who specializes in the study or treatment of heart diseases and heart abnormalities.",
+      "sentences": [
+        "My grandfather sees a **cardiologist** for his heart condition.",
+        "The **cardiologist** performed several tests.",
+        "He is a leading **cardiologist** in the city."
+      ]
+    },
+    {
+      "word": "Dermatologist",
+      "pronunciation": "/ˌdɜːrməˈtɑːlədʒɪst/",
+      "definition": "A medical practitioner qualified to diagnose and treat skin disorders.",
+      "sentences": [
+        "I visited the **dermatologist** for my skin rash.",
+        "The **dermatologist** recommended a special cream.",
+        "She is a well-known **dermatologist**."
+      ]
+    },
+    {
+      "word": "Oncologist",
+      "pronunciation": "/ɑːnˈkɑːlədʒɪst/",
+      "definition": "A medical practitioner specializing in the diagnosis and treatment of tumors.",
+      "sentences": [
+        "The **oncologist** discussed the treatment options.",
+        "He is undergoing chemotherapy under the care of an **oncologist**.",
+        "An **oncologist** provides care for cancer patients."
+      ]
+    },
+    {
+      "word": "Radiologist",
+      "pronunciation": "/ˌreɪdiˈɑːlədʒɪst/",
+      "definition": "A medical specialist who uses imaging techniques like X-rays and MRI to diagnose and treat diseases.",
+      "sentences": [
+        "The **radiologist** analyzed the X-ray images.",
+        "He consulted with the **radiologist** about the scan results.",
+        "A **radiologist** plays a key role in diagnosing many conditions."
+      ]
+    },
+    {
+      "word": "Anesthesiologist",
+      "pronunciation": "/ˌænɪsˌθiːziˈɑːlədʒɪst/",
+      "definition": "A medical doctor who specializes in administering anesthesia for surgery or pain management.",
+      "sentences": [
+        "The **anesthesiologist** explained the anesthesia options.",
+        "She met the **anesthesiologist** before her operation.",
+        "The **anesthesiologist** ensured the patient was comfortable."
+      ]
+    },
+    {
+      "word": "General practitioner (GP)",
+      "pronunciation": "/ˈdʒɛnərəl prækˈtɪʃənər/",
+      "definition": "A doctor who provides general medical care for people in a particular area, rather than specializing in one type of illness.",
+      "sentences": [
+        "My family doctor is a great **General Practitioner**.",
+        "You should see your **GP** for common illnesses.",
+        "A **GP** is often the first point of contact for health concerns."
+      ]
+    },
+    {
+      "word": "Specialist",
+      "pronunciation": "/ˈspɛʃəlɪst/",
+      "definition": "A person who is an expert in a particular area of work or study.",
+      "sentences": [
+        "The doctor referred me to a heart **specialist**.",
+        "He is a **specialist** in tropical diseases.",
+        "Consult a **specialist** for complex medical issues."
+      ]
+    },
+    {
+      "word": "Referral",
+      "pronunciation": "/rɪˈfɜːrəl/",
+      "definition": "An act of sending someone or something for professional help or advice.",
+      "sentences": [
+        "My GP gave me a **referral** to a dermatologist.",
+        "You might need a **referral** to see a specialist.",
+        "The doctor made a **referral** for physical therapy."
+      ]
+    },
+    {
+      "word": "Emergency room (ER)",
+      "pronunciation": "/ɪˈmɜːrdʒənsi ruːm/",
+      "definition": "A hospital department where people who are seriously ill or injured are taken for immediate treatment.",
+      "sentences": [
+        "He was rushed to the **emergency room** after the accident.",
+        "The **ER** is always busy.",
+        "Go to the **emergency room** for urgent medical needs."
+      ]
+    },
+    {
+      "word": "Intensive Care Unit (ICU)",
+      "pronunciation": "/ɪnˈtɛnsɪv kɛər ˈjuːnɪt/",
+      "definition": "A special section of a hospital where patients who are very seriously ill are given continuous special care.",
+      "sentences": [
+        "The patient was transferred to the **ICU**.",
+        "Visitors to the **ICU** are restricted.",
+        "The doctors in the **ICU** provide critical care."
+      ]
+    },
+    {
+      "word": "Outpatient",
+      "pronunciation": "/ˈaʊtˌpeɪʃnt/",
+      "definition": "A patient who visits a hospital for treatment but does not stay there overnight.",
+      "sentences": [
+        "He received his treatment as an **outpatient**.",
+        "The clinic handles many **outpatient** procedures.",
+        "She is an **outpatient** at the hospital."
+      ]
+    },
+    {
+      "word": "Inpatient",
+      "pronunciation": "/ˈɪnˌpeɪʃnt/",
+      "definition": "A patient who stays in a hospital while receiving treatment.",
+      "sentences": [
+        "He was admitted as an **inpatient** for observation.",
+        "The hospital has many **inpatient** beds.",
+        "She will be an **inpatient** for a few days."
+      ]
+    },
+    {
+      "word": "Ward round",
+      "pronunciation": "/wɔːrd raʊnd/",
+      "definition": "A visit by a doctor or team of doctors to patients in a hospital ward.",
+      "sentences": [
+        "The doctors do a **ward round** every morning.",
+        "During the **ward round**, patients can ask questions.",
+        "The nurse prepared for the **ward round**."
+      ]
+    },
+    {
+      "word": "Medical record",
+      "pronunciation": "/ˈmɛdɪkl ˈrɛkərd/",
+      "definition": "A detailed history of a patient's health, including illnesses, treatments, and test results.",
+      "sentences": [
+        "Your **medical record** contains all your health information.",
+        "The hospital keeps digital **medical records**.",
+        "Accessing your **medical record** requires proper authorization."
+      ]
+    },
+    {
+      "word": "Confidentiality",
+      "pronunciation": "/ˌkɑːnfɪˌdɛnʃiˈæləti/",
+      "definition": "The state of keeping or being kept secret or private.",
+      "sentences": [
+        "Patient information is protected by **confidentiality** rules.",
+        "Doctors must maintain strict **confidentiality**.",
+        "We value your privacy and **confidentiality**."
+      ]
+    },
+    {
+      "word": "Privacy",
+      "pronunciation": "/ˈpraɪvəsi/",
+      "definition": "A state in which one is not observed or disturbed by other people.",
+      "sentences": [
+        "The hospital ensures patient **privacy**.",
+        "She values her personal **privacy**.",
+        "Respecting others' **privacy** is important."
+      ]
+    },
+    {
+      "word": "Consent",
+      "pronunciation": "/kənˈsɛnt/",
+      "definition": "Permission for something to happen or agreement to do something.",
+      "sentences": [
+        "You must give your **consent** before any medical procedure.",
+        "The doctor obtained informed **consent** from the patient.",
+        "Parental **consent** is required for minors."
+      ]
+    },
+    {
+      "word": "Informed consent",
+      "pronunciation": "/ɪnˈfɔːrmd kənˈsɛnt/",
+      "definition": "Permission granted in the knowledge of the possible consequences, typically that which is given by a patient to a doctor for treatment with full knowledge of the possible risks and benefits.",
+      "sentences": [
+        "The doctor explained the procedure to get **informed consent**.",
+        "**Informed consent** is a legal and ethical requirement.",
+        "Patients have the right to give or refuse **informed consent**."
+      ]
+    },
+    {
+      "word": "Ethics",
+      "pronunciation": "/ˈɛθɪks/",
+      "definition": "Moral principles that govern a person's behavior or the conducting of an activity.",
+      "sentences": [
+        "Medical **ethics** guide doctors' decisions.",
+        "The committee discussed the **ethics** of the new treatment.",
+        "Professional **ethics** are important in healthcare."
+      ]
+    },
+    {
+      "word": "Prognosis",
+      "pronunciation": "/prɑːɡˈnoʊsɪs/",
+      "definition": "A forecast of the likely course of a disease or ailment.",
+      "sentences": [
+        "The doctor gave a good **prognosis** for his recovery.",
+        "The patient's **prognosis** improved after treatment.",
+        "What is the **prognosis** for this condition?"
+      ]
+    },
+    {
+      "word": "Recovery rate",
+      "pronunciation": "/rɪˈkʌvəri reɪt/",
+      "definition": "The percentage of people who recover from a disease or condition.",
+      "sentences": [
+        "The new treatment has a high **recovery rate**.",
+        "The **recovery rate** for this illness is excellent.",
+        "Public health officials monitor the **recovery rate**."
+      ]
+    },
+    {
+      "word": "Mortality rate",
+      "pronunciation": "/mɔːrˈtæləti reɪt/",
+      "definition": "The number of deaths in a given area or period, or from a particular cause.",
+      "sentences": [
+        "The **mortality rate** for this disease has decreased.",
+        "Public health efforts aim to lower the **mortality rate**.",
+        "The study analyzed the **mortality rate** among different age groups."
+      ]
+    },
+    {
+      "word": "Epidemic",
+      "pronunciation": "/ˌɛpɪˈdɛmɪk/",
+      "definition": "A widespread occurrence of an infectious disease in a community at a particular time.",
+      "sentences": [
+        "The flu **epidemic** spread rapidly through the city.",
+        "Public health measures were put in place to control the **epidemic**.",
+        "The government declared an **epidemic**."
+      ]
+    },
+    {
+      "word": "Pandemic",
+      "pronunciation": "/pænˈdɛmɪk/",
+      "definition": "An epidemic of disease that has spread across a large region, for instance multiple continents or worldwide.",
+      "sentences": [
+        "COVID-19 was declared a global **pandemic**.",
+        "The **pandemic** affected lives worldwide.",
+        "Scientists worked quickly to develop a vaccine during the **pandemic**."
+      ]
+    },
+    {
+      "word": "Outbreak",
+      "pronunciation": "/ˈaʊtˌbreɪk/",
+      "definition": "A sudden occurrence of a disease or other unwelcome thing.",
+      "sentences": [
+        "There was a sudden **outbreak** of measles in the school.",
+        "Public health officials responded to the disease **outbreak**.",
+        "The **outbreak** was quickly contained."
+      ]
+    },
+    {
+      "word": "Quarantine",
+      "pronunciation": "/ˈkwɔːrənˌtiːn/",
+      "definition": "A state, period, or place of isolation in which people or animals that have arrived from elsewhere or been exposed to infectious disease are placed.",
+      "sentences": [
+        "Travelers had to go into **quarantine** for 14 days.",
+        "The ship was placed under **quarantine**.",
+        "Self-**quarantine** helps prevent the spread of illness."
+      ]
+    },
+    {
+      "word": "Isolation",
+      "pronunciation": "/ˌaɪsəˈleɪʃn/",
+      "definition": "The process or fact of isolating or being isolated.",
+      "sentences": [
+        "Patients with contagious diseases are kept in **isolation**.",
+        "She felt lonely during her period of **isolation**.",
+        "The doctor recommended **isolation** to prevent further spread."
+      ]
+    },
+    {
+      "word": "Vaccination campaign",
+      "pronunciation": "/ˌvæksɪˈneɪʃn kæmˈpeɪn/",
+      "definition": "An organized effort to vaccinate a large number of people against a disease.",
+      "sentences": [
+        "The government launched a national **vaccination campaign**.",
+        "The **vaccination campaign** aimed to protect children.",
+        "The success of the **vaccination campaign** was evident."
+      ]
+    },
+    {
+      "word": "Public health",
+      "pronunciation": "/ˈpʌblɪk hɛlθ/",
+      "definition": "The health of the population as a whole, especially as monitored, regulated, and promoted by the state.",
+      "sentences": [
+        "Good sanitation is a key aspect of **public health**.",
+        "The **public health** department issues health guidelines.",
+        "Investing in **public health** benefits everyone."
+      ]
+    },
+    {
+      "word": "Healthcare",
+      "pronunciation": "/ˈhɛlθˌkɛər/",
+      "definition": "The organized provision of medical care to individuals or a community.",
+      "sentences": [
+        "Access to affordable **healthcare** is a basic right.",
+        "The country has a universal **healthcare** system.",
+        "She works in the **healthcare** industry."
+      ]
+    },
+    {
+      "word": "Insurance",
+      "pronunciation": "/ɪnˈʃʊrəns/",
+      "definition": "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.",
+      "sentences": [
+        "Make sure you have health **insurance**.",
+        "My travel **insurance** covers medical emergencies.",
+        "She pays a monthly premium for her **insurance**."
+      ]
+    },
+    {
+      "word": "Premium",
+      "pronunciation": "/ˈpriːmiəm/",
+      "definition": "An amount to be paid for an insurance policy.",
+      "sentences": [
+        "Her health **premium** increased this year.",
+        "He pays a high **premium** for comprehensive coverage.",
+        "The monthly **premium** is due on the first."
+      ]
+    },
+    {
+      "word": "Deductible",
+      "pronunciation": "/dɪˈdʌktəbl/",
+      "definition": "A specified amount of money that the insured must pay before an insurance company will pay a claim.",
+      "sentences": [
+        "My health insurance has a high **deductible**.",
+        "You pay the **deductible** before insurance kicks in.",
+        "She had to meet her **deductible** before her surgery was covered."
+      ]
+    },
+    {
+      "word": "Co-pay",
+      "pronunciation": "/ˈkoʊ peɪ/",
+      "definition": "A fixed amount for a covered service, paid by a patient to the provider of service before receiving the service.",
+      "sentences": [
+        "I paid a $20 **co-pay** for my doctor's visit.",
+        "Some insurance plans have a low **co-pay**.",
+        "The **co-pay** is due at the time of service."
+      ]
+    },
+    {
+      "word": "Claim",
+      "pronunciation": "/kleɪm/",
+      "definition": "A formal request to an insurance company for payment.",
+      "sentences": [
+        "She filed a medical **claim** after her hospital stay.",
+        "The insurance company approved his **claim**.",
+        "Filling out an insurance **claim** can be complex."
+      ]
+    },
+    {
+      "word": "Wellness",
+      "pronunciation": "/ˈwɛlnəs/",
+      "definition": "The state of being in good health, especially as an actively pursued goal.",
+      "sentences": [
+        "The company promotes employee **wellness** programs.",
+        "Yoga and meditation contribute to overall **wellness**.",
+        "She is passionate about health and **wellness**."
+      ]
+    },
+    {
+      "word": "Prevention",
+      "pronunciation": "/prɪˈvɛnʃn/",
+      "definition": "The action of stopping something from happening or arising.",
+      "sentences": [
+        "Handwashing is key to disease **prevention**.",
+        "Early **prevention** can save lives.",
+        "The campaign focuses on accident **prevention**."
+      ]
+    },
+    {
+      "word": "Screening",
+      "pronunciation": "/ˈskriːnɪŋ/",
+      "definition": "A test or examination to detect the presence or absence of a disease.",
+      "sentences": [
+        "Regular cancer **screening** is recommended for adults.",
+        "The school offers vision **screening** for students.",
+        "Early **screening** can lead to better treatment outcomes."
+      ]
+    },
+    {
+      "word": "Diagnosis",
+      "pronunciation": "/ˌdaɪəɡˈnoʊsɪs/",
+      "definition": "The identification of the nature of an illness or other problem by examination of the symptoms.",
+      "sentences": [
+        "The doctor gave me a clear **diagnosis**.",
+        "Getting an early **diagnosis** is important for treatment.",
+        "Her **diagnosis** was confirmed after tests."
+      ]
+    },
+    {
+      "word": "Prognosis",
+      "pronunciation": "/prɑːɡˈnoʊsɪs/",
+      "definition": "A forecast of the likely course of a disease or ailment.",
+      "sentences": [
+        "The doctor gave a good **prognosis** for his recovery.",
+        "The patient's **prognosis** improved after treatment.",
+        "What is the **prognosis** for this condition?"
+      ]
+    },
+    {
+      "word": "Treatment plan",
+      "pronunciation": "/ˈtriːtmənt plæn/",
+      "definition": "A detailed strategy for managing a patient's illness or condition.",
+      "sentences": [
+        "The doctor outlined a comprehensive **treatment plan**.",
+        "Follow your **treatment plan** carefully for best results.",
+        "The **treatment plan** included medication and therapy."
+      ]
+    },
+    {
+      "word": "Rehabilitation",
+      "pronunciation": "/ˌriːhəˌbɪlɪˈteɪʃn/",
+      "definition": "The action of restoring someone to health or normal life through training and therapy after illness or injury.",
+      "sentences": [
+        "He went to a **rehabilitation** center after his accident.",
+        "Physical **rehabilitation** helps patients regain strength.",
+        "The program focuses on full **rehabilitation**."
+      ]
+    },
+    {
+      "word": "Chronic disease",
+      "pronunciation": "/ˈkrɑːnɪk dɪˈziːz/",
+      "definition": "A disease that is long-lasting or recurrent.",
+      "sentences": [
+        "Diabetes is a common **chronic disease**.",
+        "Managing a **chronic disease** often requires lifestyle changes.",
+        "Many public health efforts target **chronic diseases**."
+      ]
+    },
+    {
+      "word": "Acute illness",
+      "pronunciation": "/əˈkjuːt ˈɪlnəs/",
+      "definition": "An illness or condition that is severe and sudden in onset.",
+      "sentences": [
+        "He suffered from an **acute illness** that required immediate care.",
+        "Unlike chronic conditions, an **acute illness** usually resolves quickly.",
+        "The doctor treated her for an **acute illness**."
+      ]
+    },
+    {
+      "word": "Symptoms",
+      "pronunciation": "/ˈsɪmptəmz/",
+      "definition": "Physical or mental features that indicate a disease or condition.",
+      "sentences": [
+        "Report any new **symptoms** to your doctor.",
+        "The flu has typical **symptoms** like fever and body aches.",
+        "She described her **symptoms** in detail."
+      ]
+    },
+    {
+      "word": "Allergic reaction",
+      "pronunciation": "/əˈlɜːrdʒɪk riˈækʃn/",
+      "definition": "An immune response to a substance that is normally harmless.",
+      "sentences": [
+        "He had a severe **allergic reaction** to shellfish.",
+        "Anaphylaxis is a serious type of **allergic reaction**.",
+        "Carry an EpiPen if you are prone to a severe **allergic reaction**."
+      ]
+    },
+    {
+      "word": "Antibody",
+      "pronunciation": "/ˈæntɪˌbɑːdi/",
+      "definition": "A protein produced by the body's immune system when it detects harmful substances, called antigens.",
+      "sentences": [
+        "Vaccines help the body produce **antibodies**.",
+        "The blood test detected specific **antibodies**.",
+        "**Antibodies** play a crucial role in immunity."
+      ]
+    },
+    {
+      "word": "Antigen",
+      "pronunciation": "/ˈæntɪdʒən/",
+      "definition": "A toxin or other foreign substance which induces an immune response in the body.",
+      "sentences": [
+        "The vaccine contains a small amount of the viral **antigen**.",
+        "The immune system recognizes the **antigen** as foreign.",
+        "**Antigens** trigger the production of antibodies."
+      ]
+    },
+    {
+      "word": "Immune system",
+      "pronunciation": "/ɪˈmjuːn ˈsɪstəm/",
+      "definition": "The body's defense system against infections and diseases.",
+      "sentences": [
+        "A healthy diet supports a strong **immune system**.",
+        "The **immune system** fights off harmful germs.",
+        "Some diseases weaken the **immune system**."
+      ]
+    },
+    {
+      "word": "Vaccination schedule",
+      "pronunciation": "/ˌvæksɪˈneɪʃn ˈskɛdʒuːl/",
+      "definition": "A timetable for receiving recommended vaccines.",
+      "sentences": [
+        "Follow the recommended **vaccination schedule** for your child.",
+        "The doctor provided a copy of the **vaccination schedule**.",
+        "Adhering to the **vaccination schedule** ensures full protection."
+      ]
+    },
+    {
+      "word": "Booster shot",
+      "pronunciation": "/ˈbuːstər ʃɑːt/",
+      "definition": "An additional dose of a vaccine to increase or renew its effectiveness.",
+      "sentences": [
+        "I need a **booster shot** for tetanus.",
+        "The doctor recommended a flu **booster shot**.",
+        "Getting a **booster shot** strengthens your immunity."
+      ]
+    },
+    {
+      "word": "Side effects",
+      "pronunciation": "/saɪd ɪˈfɛkts/",
+      "definition": "Unintended and often unpleasant effects of a drug or medical treatment.",
+      "sentences": [
+        "This medicine has few **side effects**.",
+        "Read the label for possible **side effects**.",
+        "She experienced some mild **side effects**."
+      ]
+    },
+    {
+      "word": "Placebo",
+      "pronunciation": "/pləˈsiːboʊ/",
+      "definition": "A substance that has no therapeutic effect, used as a control in testing new drugs.",
+      "sentences": [
+        "In the study, half the patients received a **placebo**.",
+        "The **placebo** effect can sometimes improve symptoms.",
+        "He was given a **placebo** instead of the actual drug."
+      ]
+    },
+    {
+      "word": "Clinical trial",
+      "pronunciation": "/ˈklɪnɪkl ˈtraɪəl/",
+      "definition": "A research study conducted on human volunteers to evaluate the safety and effectiveness of new medical treatments or interventions.",
+      "sentences": [
+        "The new drug is currently undergoing a **clinical trial**.",
+        "Participating in a **clinical trial** can help advance medicine.",
+        "The results of the **clinical trial** were promising."
+      ]
+    },
+    {
+      "word": "Research",
+      "pronunciation": "/rɪˈsɜːrtʃ/",
+      "definition": "Systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions.",
+      "sentences": [
+        "Medical **research** helps find new cures.",
+        "Scientists conduct extensive **research** on diseases.",
+        "Her **research** focuses on genetic disorders."
+      ]
+    },
+    {
+      "word": "Prevention",
+      "pronunciation": "/prɪˈvɛnʃn/",
+      "definition": "The action of stopping something from happening or arising.",
+      "sentences": [
+        "Handwashing is key to disease **prevention**.",
+        "Early **prevention** can save lives.",
+        "The campaign focuses on accident **prevention**."
+      ]
+    },
+    {
+      "word": "Wellness program",
+      "pronunciation": "/ˈwɛlnəs ˈproʊɡræm/",
+      "definition": "A program designed to promote health and well-being, often offered by employers or schools.",
+      "sentences": [
+        "Our company offers a **wellness program** for employees.",
+        "The school introduced a new student **wellness program**.",
+        "Joining a **wellness program** can help you stay healthy."
+      ]
+    },
+    {
+      "word": "Health education",
+      "pronunciation": "/hɛlθ ˌɛdʒuˈkeɪʃn/",
+      "definition": "Instruction or training that promotes healthy behaviors and lifestyles.",
+      "sentences": [
+        "Schools provide **health education** to students.",
+        "Good **health education** helps people make informed choices.",
+        "The campaign focused on **health education** for teenagers."
+      ]
+    },
+    {
+      "word": "First aid kit",
+      "pronunciation": "/ˈfɜːrst eɪd kɪt/",
+      "definition": "A collection of supplies and equipment for giving first aid.",
+      "sentences": [
+        "Always keep a **first aid kit** in your car.",
+        "Check your **first aid kit** regularly to ensure it's stocked.",
+        "The school nurse has a well-stocked **first aid kit**."
+      ]
+    },
+    {
+      "word": "Emergency contact",
+      "pronunciation": "/ɪˈmɜːrdʒənsi ˈkɑːntækt/",
+      "definition": "A person to be contacted in case of an emergency.",
+      "sentences": [
+        "Please provide an **emergency contact** number.",
+        "My mom is my **emergency contact**.",
+        "Always update your **emergency contact** information."
+      ]
+    },
+    {
+      "word": "Medical alert",
+      "pronunciation": "/ˈmɛdɪkl əˈlɜːrt/",
+      "definition": "A device or system that allows individuals to call for help in a medical emergency.",
+      "sentences": [
+        "She wears a **medical alert** bracelet for her allergy.",
+        "A **medical alert** system can provide peace of mind.",
+        "The **medical alert** pendant is easy to use."
+      ]
+    },
+    {
+      "word": "Health insurance",
+      "pronunciation": "/hɛlθ ɪnˈʃʊrəns/",
+      "definition": "Insurance that covers the whole or a part of the risk of a person incurring medical expenses.",
+      "sentences": [
+        "Having **health insurance** is very important.",
+        "My company provides good **health insurance**.",
+        "He enrolled in a new **health insurance** plan."
+      ]
+    },
+    {
+      "word": "Medical bill",
+      "pronunciation": "/ˈmɛdɪkl bɪl/",
+      "definition": "A statement of charges for medical services.",
+      "sentences": [
+        "I received a large **medical bill** after my hospital stay.",
+        "Check your **medical bill** for any errors.",
+        "Her **medical bill** was covered by insurance."
+      ]
+    },
+    {
+      "word": "Prescription drug",
+      "pronunciation": "/prɪˈskrɪpʃn drʌɡ/",
+      "definition": "A pharmaceutical drug that legally requires a medical prescription to be dispensed.",
+      "sentences": [
+        "This is a powerful **prescription drug**.",
+        "Always take **prescription drugs** as directed by your doctor.",
+        "He picked up his **prescription drug** from the pharmacy."
+      ]
+    },
+    {
+      "word": "Over-the-counter (OTC)",
+      "pronunciation": "/ˌoʊvər ðə ˈkaʊntər/",
+      "definition": "Referring to medicines that can be bought without a prescription.",
+      "sentences": [
+        "You can buy this pain reliever **over-the-counter**.",
+        "Many cold medicines are **OTC** drugs.",
+        "She prefers **over-the-counter** remedies for minor ailments."
+      ]
+    },
+    {
+      "word": "Generic drug",
+      "pronunciation": "/dʒɪˈnɛrɪk drʌɡ/",
+      "definition": "A drug that is comparable to a brand-name drug in dosage form, safety, strength, route of administration, quality, performance characteristics, and intended use.",
+      "sentences": [
+        "The **generic drug** is usually cheaper than the brand-name version.",
+        "Ask your pharmacist if a **generic drug** is available.",
+        "Many doctors recommend **generic drugs**."
+      ]
+    },
+    {
+      "word": "Brand-name drug",
+      "pronunciation": "/brænd neɪm drʌɡ/",
+      "definition": "A drug that is marketed under a proprietary, trademark-protected name.",
+      "sentences": [
+        "The **brand-name drug** is often more expensive.",
+        "Some patients prefer the **brand-name drug**.",
+        "The doctor prescribed the **brand-name drug**."
+      ]
+    },
+    {
+      "word": "Dosage form",
+      "pronunciation": "/ˈdoʊsɪdʒ fɔːrm/",
+      "definition": "The physical form of a dose of medicine (e.g., tablet, liquid, capsule).",
+      "sentences": [
+        "The medicine is available in several **dosage forms**.",
+        "Choose the **dosage form** that is easiest to take.",
+        "Different **dosage forms** may have different absorption rates."
+      ]
+    },
+    {
+      "word": "Active ingredient",
+      "pronunciation": "/ˈæktɪv ɪnˈɡriːdiənt/",
+      "definition": "The chemical component in a medicine that produces its therapeutic effect.",
+      "sentences": [
+        "Check the label for the **active ingredient**.",
+        "The **active ingredient** in this pain reliever is ibuprofen.",
+        "Understanding the **active ingredient** helps you choose the right medicine."
+      ]
+    },
+    {
+      "word": "Expiration date",
+      "pronunciation": "/ˌɛkspɪˈreɪʃn deɪt/",
+      "definition": "The date after which a product, especially food or medicine, should not be used.",
+      "sentences": [
+        "Check the **expiration date** on your medicine.",
+        "Do not use medicine past its **expiration date**.",
+        "The milk passed its **expiration date**."
+      ]
+    },
+    {
+      "word": "Medical device",
+      "pronunciation": "/ˈmɛdɪkl dɪˈvaɪs/",
+      "definition": "An instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including a component part, or accessory which is intended for use in the diagnosis of disease or other conditions, or in the cure, mitigation, treatment, or prevention of disease.",
+      "sentences": [
+        "The hospital uses advanced **medical devices**.",
+        "A thermometer is a simple **medical device**.",
+        "New **medical devices** are constantly being developed."
+      ]
+    },
+    {
+      "word": "Prosthesis",
+      "pronunciation": "/prɑːsˈθiːsɪs/",
+      "definition": "An artificial body part, such as a limb, eye, or tooth, that replaces a missing or damaged part.",
+      "sentences": [
+        "He received a new leg **prosthesis** after the accident.",
+        "Modern **prostheses** are very advanced.",
+        "The patient is learning to use their new **prosthesis**."
+      ]
+    },
+    {
+      "word": "Organ transplant",
+      "pronunciation": "/ˈɔːrɡən ˈtrænsplænt/",
+      "definition": "A surgical operation in which a diseased or damaged organ is removed and replaced with a healthy one from a donor.",
+      "sentences": [
+        "She is waiting for an **organ transplant**.",
+        "**Organ transplants** can save lives.",
+        "The patient recovered well after the heart **organ transplant**."
+      ]
+    },
+    {
+      "word": "Donor",
+      "pronunciation": "/ˈdoʊnər/",
+      "definition": "A person who gives blood or an organ for transfusion or transplantation.",
+      "sentences": [
+        "He became an organ **donor** after his death.",
+        "Finding a suitable bone marrow **donor** can be difficult.",
+        "Blood **donors** save lives."
+      ]
+    },
+    {
+      "word": "Recipient",
+      "pronunciation": "/rɪˈsɪpiənt/",
+      "definition": "A person or thing that receives or is given something.",
+      "sentences": [
+        "The organ **recipient** is recovering well.",
+        "She was the lucky **recipient** of a new kidney.",
+        "The blood **recipient** received a life-saving transfusion."
+      ]
+    },
+    {
+      "word": "Chronic pain",
+      "pronunciation": "/ˈkrɑːnɪk peɪn/",
+      "definition": "Pain that is ongoing and lasts for a long period of time, usually more than three to six months.",
+      "sentences": [
+        "She lives with **chronic pain** due to an old injury.",
+        "Managing **chronic pain** often involves multiple approaches.",
+        "He attends a clinic specializing in **chronic pain** management."
+      ]
+    },
+    {
+      "word": "Palliative care",
+      "pronunciation": "/ˈpæliətɪv kɛər/",
+      "definition": "Medical care for people with serious illnesses, focused on providing relief from the symptoms and stress of the illness.",
+      "sentences": [
+        "**Palliative care** aims to improve quality of life.",
+        "The hospital offers **palliative care** services.",
+        "She received **palliative care** during her final months."
+      ]
+    },
+    {
+      "word": "Hospice care",
+      "pronunciation": "/ˈhɑːspɪs kɛər/",
+      "definition": "A type of care and philosophy of care that focuses on the palliation of a chronically ill, terminally ill, or seriously ill patient's pain and symptoms, and attending to their emotional and spiritual needs.",
+      "sentences": [
+        "They chose **hospice care** for their grandmother.",
+        "**Hospice care** provides comfort and support at the end of life.",
+        "The **hospice care** team visited daily."
+      ]
+    },
+    {
+      "word": "Rehabilitation center",
+      "pronunciation": "/ˌriːhəˌbɪlɪˈteɪʃn ˈsɛntər/",
+      "definition": "A facility that provides therapy and training to help people recover from illness, injury, or addiction.",
+      "sentences": [
+        "He spent three months at a **rehabilitation center**.",
+        "The **rehabilitation center** offers various programs.",
+        "She is making good progress at the **rehabilitation center**."
+      ]
+    },
+    {
+      "word": "Physical therapist",
+      "pronunciation": "/ˈfɪzɪkl ˈθɛrəpɪst/",
+      "definition": "A person qualified to treat disease, injury, or deformity by physical methods rather than by drugs or surgery.",
+      "sentences": [
+        "The **physical therapist** helped me with my exercises.",
+        "She is a licensed **physical therapist**.",
+        "The **physical therapist** designed a personalized exercise plan."
+      ]
+    },
+    {
+      "word": "Occupational therapist",
+      "pronunciation": "/ˌɑːkjəˈpeɪʃənl ˈθɛrəpɪst/",
+      "definition": "A person who helps people with physical or mental disabilities to improve their ability to perform tasks in their daily living and working environments.",
+      "sentences": [
+        "The **occupational therapist** helped him adapt his home.",
+        "She works as an **occupational therapist** in a school.",
+        "The **occupational therapist** taught her new ways to dress herself."
+      ]
+    },
+    {
+      "word": "Speech therapist",
+      "pronunciation": "/spiːtʃ ˈθɛrəpɪst/",
+      "definition": "A person who helps people with speech and language problems.",
+      "sentences": [
+        "The child sees a **speech therapist** once a week.",
+        "A **speech therapist** can help with stuttering.",
+        "She is training to become a **speech therapist**."
+      ]
+    },
+    {
+      "word": "Dietitian",
+      "pronunciation": "/ˌdaɪɪˈtɪʃn/",
+      "definition": "An expert on diet and nutrition.",
+      "sentences": [
+        "The **dietitian** gave me advice on healthy eating.",
+        "Consult a **dietitian** for personalized meal plans.",
+        "She is a registered **dietitian**."
+      ]
+    },
+    {
+      "word": "Nutritionist",
+      "pronunciation": "/nuːˈtrɪʃənɪst/",
+      "definition": "A person who advises on matters of food and nutrition and their impact on health.",
+      "sentences": [
+        "The **nutritionist** helped me plan a balanced diet.",
+        "He works as a sports **nutritionist**.",
+        "A **nutritionist** can guide you to healthier eating habits."
+      ]
+    },
+    {
+      "word": "Fitness instructor",
+      "pronunciation": "/ˈfɪtnəs ɪnˈstrʌktər/",
+      "definition": "A person who leads or teaches exercise classes or provides individual fitness training.",
+      "sentences": [
+        "The **fitness instructor** led a high-energy workout.",
+        "She hired a personal **fitness instructor**.",
+        "The **fitness instructor** motivated the class."
+      ]
+    },
+    {
+      "word": "Personal trainer",
+      "pronunciation": "/ˈpɜːrsənl ˈtreɪnər/",
+      "definition": "A person who works with clients individually to help them achieve their fitness goals.",
+      "sentences": [
+        "My **personal trainer** designed a custom workout plan for me.",
+        "She hired a **personal trainer** to prepare for the marathon.",
+        "A good **personal trainer** provides motivation and guidance."
+      ]
+    },
+    {
+      "word": "Health coach",
+      "pronunciation": "/hɛlθ koʊtʃ/",
+      "definition": "A professional who partners with clients seeking to enhance their well-being through lifestyle and behavior changes.",
+      "sentences": [
+        "My **health coach** helped me set realistic wellness goals.",
+        "She works as a certified **health coach**.",
+        "A **health coach** provides support and accountability."
+      ]
+    },
+    {
+      "word": "Medical research",
+      "pronunciation": "/ˈmɛdɪkl rɪˈsɜːrtʃ/",
+      "definition": "Systematic investigation into and study of materials and sources in order to establish facts and reach new conclusions related to medicine and health.",
+      "sentences": [
+        "New breakthroughs in **medical research** are changing treatments.",
+        "The university is known for its cutting-edge **medical research**.",
+        "Funding for **medical research** is crucial for future cures."
+      ]
+    },
+    {
+      "word": "Clinical trial",
+      "pronunciation": "/ˈklɪnɪkl ˈtraɪəl/",
+      "definition": "A research study conducted on human volunteers to evaluate the safety and effectiveness of new medical treatments or interventions.",
+      "sentences": [
+        "The new drug is currently undergoing a **clinical trial**.",
+        "Participating in a **clinical trial** can help advance medicine.",
+        "The results of the **clinical trial** were promising."
+      ]
+    },
+    {
+      "word": "Drug development",
+      "pronunciation": "/drʌɡ dɪˈvɛləpmənt/",
+      "definition": "The process of bringing a new pharmaceutical drug to the market.",
+      "sentences": [
+        "**Drug development** is a long and complex process.",
+        "Many years are spent on **drug development** before a medicine is approved.",
+        "The company invests heavily in **drug development**."
+      ]
+    },
+    {
+      "word": "Vaccine development",
+      "pronunciation": "/ˈvæksiːn dɪˈvɛləpmənt/",
+      "definition": "The process of creating new vaccines to prevent diseases.",
+      "sentences": [
+        "Rapid **vaccine development** was crucial during the pandemic.",
+        "Scientists around the world collaborate on **vaccine development**.",
+        "Advances in technology have sped up **vaccine development**."
+      ]
+    },
+    {
+      "word": "Public health policy",
+      "pronunciation": "/ˈpʌblɪk hɛlθ ˈpɑːləsi/",
+      "definition": "Decisions, plans, and actions that are undertaken to achieve specific health care goals within a society.",
+      "sentences": [
+        "The new **public health policy** aims to reduce smoking rates.",
+        "Government plays a key role in shaping **public health policy**.",
+        "Effective **public health policy** can improve community well-being."
+      ]
+    },
+    {
+      "word": "Health promotion",
+      "pronunciation": "/hɛlθ prəˈmoʊʃn/",
+      "definition": "The process of enabling people to increase control over, and to improve, their health.",
+      "sentences": [
+        "The campaign focuses on **health promotion** through education.",
+        "Schools play a vital role in **health promotion** among children.",
+        "**Health promotion** activities include exercise and healthy eating."
+      ]
+    },
+    {
+      "word": "Disease prevention",
+      "pronunciation": "/dɪˈziːz prɪˈvɛnʃn/",
+      "definition": "Measures taken to prevent diseases from occurring.",
+      "sentences": [
+        "Vaccination is a key strategy for **disease prevention**.",
+        "Good hygiene practices contribute to **disease prevention**.",
+        "Public health programs emphasize **disease prevention**."
+      ]
+    },
+    {
+      "word": "Health screening",
+      "pronunciation": "/hɛlθ ˈskriːnɪŋ/",
+      "definition": "Tests to identify people at risk of a disease or who have a disease but do not yet have symptoms.",
+      "sentences": [
+        "Regular **health screening** can detect problems early.",
+        "The company offers free **health screening** to its employees.",
+        "Early **health screening** can lead to better outcomes."
+      ]
+    },
+    {
+      "word": "Medical ethics",
+      "pronunciation": "/ˈmɛdɪkl ˈɛθɪks/",
+      "definition": "A system of moral principles that apply values to the practice of medicine.",
+      "sentences": [
+        "Doctors must adhere to strict **medical ethics**.",
+        "The course covers important topics in **medical ethics**.",
+        "Discussions on **medical ethics** are common in healthcare."
+      ]
+    },
+    {
+      "word": "Patient rights",
+      "pronunciation": "/ˈpeɪʃnt raɪts/",
+      "definition": "The legal and ethical rights of patients in a healthcare setting.",
+      "sentences": [
+        "Hospitals inform patients of their **patient rights**.",
+        "Understanding your **patient rights** is important.",
+        "The law protects **patient rights** to privacy and informed consent."
+      ]
+    },
+    {
+      "word": "Confidentiality",
+      "pronunciation": "/ˌkɑːnfɪˌdɛnʃiˈæləti/",
+      "definition": "The state of keeping or being kept secret or private.",
+      "sentences": [
+        "Patient information is protected by **confidentiality** rules.",
+        "Doctors must maintain strict **confidentiality**.",
+        "We value your privacy and **confidentiality**."
+      ]
+    },
+    {
+      "word": "Privacy",
+      "pronunciation": "/ˈpraɪvəsi/",
+      "definition": "A state in which one is not observed or disturbed by other people.",
+      "sentences": [
+        "The hospital ensures patient **privacy**.",
+        "She values her personal **privacy**.",
+        "Respecting others' **privacy** is important."
+      ]
+    },
+    {
+      "word": "Informed consent",
+      "pronunciation": "/ɪnˈfɔːrmd kənˈsɛnt/",
+      "definition": "Permission granted in the knowledge of the possible consequences, typically that which is given by a patient to a doctor for treatment with full knowledge of the possible risks and benefits.",
+      "sentences": [
+        "The doctor explained the procedure to get **informed consent**.",
+        "**Informed consent** is a legal and ethical requirement.",
+        "Patients have the right to give or refuse **informed consent**."
+      ]
+    },
+    {
+      "word": "Medical record",
+      "pronunciation": "/ˈmɛdɪkl ˈrɛkərd/",
+      "definition": "A detailed history of a patient's health, including illnesses, treatments, and test results.",
+      "sentences": [
+        "Your **medical record** contains all your health information.",
+        "The hospital keeps digital **medical records**.",
+        "Accessing your **medical record** requires proper authorization."
+      ]
+    },
+    {
+      "word": "Electronic health record (EHR)",
+      "pronunciation": "/ɪlɛkˈtrɑːnɪk hɛlθ ˈrɛkərd/",
+      "definition": "A digital version of a patient's paper chart.",
+      "sentences": [
+        "Many hospitals use **Electronic Health Records** now.",
+        "**EHRs** improve coordination of care.",
+        "Accessing **EHRs** requires secure login."
+      ]
+    },
+    {
+      "word": "Telemedicine",
+      "pronunciation": "/ˈtɛlɪˌmɛdɪsn/",
+      "definition": "The remote diagnosis and treatment of patients by means of telecommunications technology.",
+      "sentences": [
+        "During the pandemic, **telemedicine** became very popular.",
+        "You can have a doctor's consultation through **telemedicine**.",
+        "**Telemedicine** offers convenient healthcare access."
+      ]
+    },
+    {
+      "word": "Virtual care",
+      "pronunciation": "/ˈvɜːrtʃuəl kɛər/",
+      "definition": "Healthcare services delivered remotely using technology, including telemedicine, remote monitoring, and virtual visits.",
+      "sentences": [
+        "Many clinics now offer **virtual care** options.",
+        "**Virtual care** has made healthcare more accessible.",
+        "She received **virtual care** for her follow-up appointment."
+      ]
+    },
+    {
+      "word": "Remote monitoring",
+      "pronunciation": "/rɪˈmoʊt ˈmɑːnɪtərɪŋ/",
+      "definition": "The use of technology to monitor patients' health outside of conventional clinical settings.",
+      "sentences": [
+        "Diabetic patients often use **remote monitoring** devices.",
+        "**Remote monitoring** helps doctors keep track of patient data.",
+        "The new device allows for continuous **remote monitoring** of heart rate."
+      ]
+    },
+    {
+      "word": "Wearable technology",
+      "pronunciation": "/ˈwɛrəbl tɛkˈnɑːlədʒi/",
+      "definition": "Electronic devices that can be worn on the body as accessories, embedded in clothing, implanted in the user's body, or even tattooed on the skin.",
+      "sentences": [
+        "Fitness trackers are a popular type of **wearable technology**.",
+        "Some **wearable technology** can monitor heart rate and sleep.",
+        "The latest **wearable technology** can detect early signs of illness."
+      ]
+    },
+    {
+      "word": "Health app",
+      "pronunciation": "/hɛlθ æp/",
+      "definition": "A mobile application designed to help users manage their health and wellness.",
+      "sentences": [
+        "I use a **health app** to track my daily steps.",
+        "Many **health apps** help users monitor their diet.",
+        "This **health app** reminds me to drink water."
+      ]
+    },
+    {
+      "word": "Medical tourism",
+      "pronunciation": "/ˈmɛdɪkl ˈtʊrɪzəm/",
+      "definition": "The practice of traveling to another country to receive medical treatment.",
+      "sentences": [
+        "Some people engage in **medical tourism** to seek affordable care.",
+        "**Medical tourism** is growing in popularity.",
+        "He traveled abroad for **medical tourism**."
+      ]
+    },
+    {
+      "word": "Holistic health",
+      "pronunciation": "/hoʊˈlɪstɪk hɛlθ/",
+      "definition": "An approach to health that considers the whole person and how he or she interacts with his or her environment.",
+      "sentences": [
+        "Yoga promotes **holistic health** by connecting mind and body.",
+        "**Holistic health** focuses on physical, mental, and spiritual well-being.",
+        "She follows a **holistic health** philosophy."
+      ]
+    },
+    {
+      "word": "Alternative medicine",
+      "pronunciation": "/ɔːlˈtɜːrnətɪv ˈmɛdɪsn/",
+      "definition": "Medical treatments that are not part of conventional Western medicine.",
+      "sentences": [
+        "Acupuncture is a form of **alternative medicine**.",
+        "Some people explore **alternative medicine** for chronic conditions.",
+        "She uses both conventional and **alternative medicine**."
+      ]
+    },
+    {
+      "word": "Complementary medicine",
+      "pronunciation": "/ˌkɑːmplɪˈmɛntəri ˈmɛdɪsn/",
+      "definition": "Medical treatments that are used in conjunction with conventional Western medicine.",
+      "sentences": [
+        "Massage therapy can be a form of **complementary medicine**.",
+        "She uses **complementary medicine** to support her cancer treatment.",
+        "Many doctors are open to patients trying **complementary medicine**."
+      ]
+    },
+    {
+      "word": "Herbal medicine",
+      "pronunciation": "/ˈhɜːrbl ˈmɛdɪsn/",
+      "definition": "The use of plants or plant extracts for medicinal purposes.",
+      "sentences": [
+        "Many traditional cultures use **herbal medicine**.",
+        "She prefers **herbal medicine** for minor ailments.",
+        "Be careful when using **herbal medicine** as it can interact with other drugs."
+      ]
+    },
+    {
+      "word": "Homeopathy",
+      "pronunciation": "/ˌhoʊmiˈɑːpəθi/",
+      "definition": "A system of complementary medicine in which ailments are treated by minute doses of natural substances that in larger doses would produce symptoms of the ailment.",
+      "sentences": [
+        "Some people choose **homeopathy** for chronic conditions.",
+        "There is ongoing debate about the effectiveness of **homeopathy**.",
+        "She consulted a practitioner of **homeopathy**."
+      ]
+    },
+    {
+      "word": "Acupuncture",
+      "pronunciation": "/ˈækjʊˌpʌŋktʃər/",
+      "definition": "A system of complementary medicine involving the insertion of very thin needles into the body at specific points.",
+      "sentences": [
+        "He tried **acupuncture** for his back pain.",
+        "**Acupuncture** is an ancient Chinese medical practice.",
+        "Many people find relief from pain through **acupuncture**."
+      ]
+    },
+    {
+      "word": "Chiropractic",
+      "pronunciation": "/ˌkaɪrəˈpræktɪk/",
+      "definition": "A system of complementary medicine based on the diagnosis and manipulative treatment of misalignments of the joints, especially those of the spinal column, which are held to cause other disorders by affecting the nerves, muscles, and organs.",
+      "sentences": [
+        "She sees a **chiropractic** for her neck pain.",
+        "**Chiropractic** adjustments can help with posture.",
+        "He believes in the benefits of **chiropractic** care."
+      ]
+    },
+    {
+      "word": "Massage therapy",
+      "pronunciation": "/məˈsɑːʒ ˈθɛrəpi/",
+      "definition": "The manipulation of the body's soft tissues to improve health and well-being.",
+      "sentences": [
+        "**Massage therapy** can relieve muscle tension.",
+        "She enjoys regular **massage therapy** sessions.",
+        "Many athletes use **massage therapy** for recovery."
+      ]
+    },
+    {
+      "word": "Meditation",
+      "pronunciation": "/ˌmɛdɪˈteɪʃn/",
+      "definition": "The practice of focusing one's mind for a period of time, either for religious or spiritual purposes or as a method of relaxation.",
+      "sentences": [
+        "Daily **meditation** can reduce stress.",
+        "She practices **meditation** to improve focus.",
+        "**Meditation** helps calm the mind."
+      ]
+    },
+    {
+      "word": "Mindfulness",
+      "pronunciation": "/ˈmaɪndflnəs/",
+      "definition": "A mental state achieved by focusing one's awareness on the present moment, while calmly acknowledging and accepting one's feelings, thoughts, and bodily sensations.",
+      "sentences": [
+        "Practicing **mindfulness** can improve mental well-being.",
+        "She learned **mindfulness** techniques to manage anxiety.",
+        "**Mindfulness** helps you appreciate the present moment."
+      ]
+    },
+    {
+      "word": "Yoga",
+      "pronunciation": "/ˈjoʊɡə/",
+      "definition": "A Hindu spiritual and ascetic discipline, a part of which, including breath control, simple meditation, and the adoption of specific bodily postures, is widely practiced for health and relaxation.",
+      "sentences": [
+        "I do **yoga** every morning for flexibility.",
+        "**Yoga** helps improve strength and balance.",
+        "She attends a weekly **yoga** class."
+      ]
+    },
+    {
+      "word": "Pilates",
+      "pronunciation": "/pɪˈlɑːtiz/",
+      "definition": "A system of physical exercises designed to strengthen the body's core muscles.",
+      "sentences": [
+        "**Pilates** is great for core strength.",
+        "She started **Pilates** to improve her posture.",
+        "Many dancers practice **Pilates**."
+      ]
+    },
+    {
+      "word": "Aerobics",
+      "pronunciation": "/ɛˈroʊbɪks/",
+      "definition": "A system of physical exercises designed to increase the supply of oxygen to the blood, thereby strengthening the heart and lungs.",
+      "sentences": [
+        "She enjoys doing **aerobics** classes.",
+        "**Aerobics** is a good way to improve cardiovascular health.",
+        "The gym offers daily **aerobics** sessions."
+      ]
+    },
+    {
+      "word": "Cardiovascular",
+      "pronunciation": "/ˌkɑːrdioʊˈvæskjələr/",
+      "definition": "Relating to the heart and blood vessels.",
+      "sentences": [
+        "Running is a good **cardiovascular** exercise.",
+        "He has a history of **cardiovascular** disease.",
+        "Maintaining **cardiovascular** health is crucial."
+      ]
+    },
+    {
+      "word": "Metabolism",
+      "pronunciation": "/mɪˈtæbəlɪzəm/",
+      "definition": "The chemical processes that occur within a living organism in order to maintain life.",
+      "sentences": [
+        "Exercise can boost your **metabolism**.",
+        "A fast **metabolism** helps burn calories quickly.",
+        "Our bodies have a complex **metabolism**."
+      ]
+    },
+    {
+      "word": "Immunity",
+      "pronunciation": "/ɪˈmjuːnəti/",
+      "definition": "The ability of an organism to resist a particular infection or toxin by the action of specific antibodies or sensitized white blood cells.",
+      "sentences": [
+        "Getting vaccinated builds your **immunity**.",
+        "Some people have natural **immunity** to certain diseases.",
+        "Her strong **immunity** helped her fight off the virus."
+      ]
+    },
+    {
+      "word": "Nutrient",
+      "pronunciation": "/ˈnuːtriənt/",
+      "definition": "A substance that provides nourishment essential for the maintenance of life and for growth.",
+      "sentences": [
+        "Fruits and vegetables are rich in essential **nutrients**.",
+        "Your body needs various **nutrients** to function well.",
+        "This food is packed with healthy **nutrients**."
+      ]
+    },
+    {
+      "word": "Vitamin",
+      "pronunciation": "/ˈvaɪtəmɪn/",
+      "definition": "Any of a group of organic compounds which are essential for normal growth and nutrition and are required in small quantities in the diet because they cannot be synthesized by the body.",
+      "sentences": [
+        "Oranges are a good source of **Vitamin** C.",
+        "Take a daily multivitamin to ensure you get all your **vitamins**.",
+        "Lack of a certain **vitamin** can lead to health problems."
+      ]
+    },
+    {
+      "word": "Mineral",
+      "pronunciation": "/ˈmɪnərəl/",
+      "definition": "A naturally occurring inorganic substance, essential for the proper functioning of the human body.",
+      "sentences": [
+        "Calcium is an important **mineral** for strong bones.",
+        "Eat a variety of foods to get all necessary **minerals**.",
+        "Iron is a vital **mineral** for blood health."
+      ]
+    },
+    {
+      "word": "Protein",
+      "pronunciation": "/ˈproʊtiːn/",
+      "definition": "A macronutrient essential for building and repairing tissues, and making enzymes and hormones.",
+      "sentences": [
+        "Meat, eggs, and beans are good sources of **protein**.",
+        "Athletes need a lot of **protein** for muscle recovery.",
+        "**Protein** is a building block for the body."
+      ]
+    },
+    {
+      "word": "Carbohydrate",
+      "pronunciation": "/ˌkɑːrboʊˈhaɪdreɪt/",
+      "definition": "A macronutrient that provides energy to the body.",
+      "sentences": [
+        "Bread and pasta are rich in **carbohydrates**.",
+        "**Carbohydrates** are the body's main source of energy.",
+        "Choose complex **carbohydrates** for sustained energy."
+      ]
+    },
+    {
+      "word": "Fat",
+      "pronunciation": "/fæt/",
+      "definition": "A macronutrient essential for energy storage, hormone production, and nutrient absorption.",
+      "sentences": [
+        "Avocados contain healthy **fats**.",
+        "Too much unhealthy **fat** can be bad for your heart.",
+        "Your body needs some **fat** to function properly."
+      ]
+    },
+    {
+      "word": "Fiber",
+      "pronunciation": "/ˈfaɪbər/",
+      "definition": "A type of carbohydrate that the body cannot digest, found in plants, which helps with digestion.",
+      "sentences": [
+        "Eat foods high in **fiber** for good digestion.",
+        "Whole grains are a great source of **fiber**.",
+        "**Fiber** helps you feel full longer."
+      ]
+    },
+    {
+      "word": "Hydration",
+      "pronunciation": "/haɪˈdreɪʃn/",
+      "definition": "The process of causing something to absorb water.",
+      "sentences": [
+        "Proper **hydration** is important for overall health.",
+        "Drink plenty of water for good **hydration**.",
+        "Signs of dehydration include lack of proper **hydration**."
+      ]
+    },
+    {
+      "word": "Dehydration",
+      "pronunciation": "/ˌdiːhaɪˈdreɪʃn/",
+      "definition": "A harmful reduction in the amount of water in the body.",
+      "sentences": [
+        "Avoid **dehydration** by drinking enough water.",
+        "Symptoms of **dehydration** include thirst and dizziness.",
+        "He felt weak due to **dehydration**."
+      ]
+    },
+    {
+      "word": "Allergist",
+      "pronunciation": "/ˈælərdʒɪst/",
+      "definition": "A doctor who specializes in the diagnosis and treatment of allergies.",
+      "sentences": [
+        "I saw an **allergist** to find out what I'm allergic to.",
+        "The **allergist** performed skin tests.",
+        "An **allergist** can help manage severe allergies."
+      ]
+    },
+    {
+      "word": "Endocrinologist",
+      "pronunciation": "/ˌɛndoʊkrɪˈnɑːlədʒɪst/",
+      "definition": "A doctor who specializes in the diagnosis and treatment of disorders of the endocrine system, such as diabetes.",
+      "sentences": [
+        "My aunt sees an **endocrinologist** for her thyroid condition.",
+        "An **endocrinologist** treats hormone-related issues.",
+        "He consulted an **endocrinologist** about his metabolism."
+      ]
+    },
+    {
+      "word": "Gastroenterologist",
+      "pronunciation": "/ˌɡæstroʊˌɛntərˈɑːlədʒɪst/",
+      "definition": "A doctor who specializes in the diagnosis and treatment of disorders of the digestive system.",
+      "sentences": [
+        "He saw a **gastroenterologist** for his stomach problems.",
+        "A **gastroenterologist** performs colonoscopies.",
+        "The **gastroenterologist** prescribed medication for acid reflux."
+      ]
+    },
+    {
+      "word": "Neurologist",
+      "pronunciation": "/nʊˈrɑːlədʒɪst/",
+      "definition": "A medical doctor who specializes in the diagnosis and treatment of disorders of the nervous system.",
+      "sentences": [
+        "The **neurologist** examined her reflexes.",
+        "He is seeing a **neurologist** for his headaches.",
+        "A **neurologist** treats conditions like epilepsy and stroke."
+      ]
+    },
+    {
+      "word": "Orthopedist",
+      "pronunciation": "/ˌɔːrθəˈpiːdɪst/",
+      "definition": "A doctor who specializes in the treatment of bone, joint, and muscle problems.",
+      "sentences": [
+        "He saw an **orthopedist** for his broken arm.",
+        "The **orthopedist** recommended surgery for her knee.",
+        "An **orthopedist** helps people with musculoskeletal injuries."
+      ]
+    },
+    {
+      "word": "Urologist",
+      "pronunciation": "/jʊˈrɑːlədʒɪst/",
+      "definition": "A doctor who specializes in the urinary tract and male reproductive system.",
+      "sentences": [
+        "My father consulted a **urologist** for kidney stones.",
+        "A **urologist** treats conditions of the bladder and kidneys.",
+        "She had an appointment with a **urologist**."
+      ]
+    },
+    {
+      "word": "Ophthalmologist",
+      "pronunciation": "/ˌɑːfθælˈmɑːlədʒɪst/",
+      "definition": "A medical doctor who specializes in eye and vision care.",
+      "sentences": [
+        "The **ophthalmologist** performed eye surgery.",
+        "An **ophthalmologist** can diagnose and treat eye diseases.",
+        "She sees an **ophthalmologist** for her glaucoma."
+      ]
+    },
+    {
+      "word": "Audiologist",
+      "pronunciation": "/ˌɔːdiˈɑːlədʒɪst/",
+      "definition": "A healthcare professional specializing in the diagnosis and treatment of hearing loss and balance disorders.",
+      "sentences": [
+        "I had my hearing checked by an **audiologist**.",
+        "The **audiologist** recommended hearing aids.",
+        "An **audiologist** helps people with hearing difficulties."
+      ]
+    },
+    {
+      "word": "Radiology",
+      "pronunciation": "/ˌreɪdiˈɑːlədʒi/",
+      "definition": "The branch of medicine that deals with the use of X-rays and other imaging techniques to diagnose and treat disease.",
+      "sentences": [
+        "He works in the **radiology** department of the hospital.",
+        "**Radiology** plays a crucial role in modern medicine.",
+        "The doctor ordered a **radiology** scan."
+      ]
+    },
+    {
+      "word": "Pathology",
+      "pronunciation": "/pəˈθɑːlədʒi/",
+      "definition": "The science of the causes and effects of diseases, especially the branch of medicine that deals with the laboratory examination of samples of body tissue for diagnostic or forensic purposes.",
+      "sentences": [
+        "The tissue sample was sent to **pathology** for analysis.",
+        "**Pathology** helps doctors understand diseases.",
+        "She is studying forensic **pathology**."
+      ]
+    },
+    {
+      "word": "Pharmacology",
+      "pronunciation": "/ˌfɑːrməˈkɑːlədʒi/",
+      "definition": "The branch of medicine concerned with the uses, effects, and modes of action of drugs.",
+      "sentences": [
+        "He is studying **pharmacology** in medical school.",
+        "**Pharmacology** helps us understand how medicines work.",
+        "The new drug's **pharmacology** is complex."
+      ]
+    },
+    {
+      "word": "Epidemiology",
+      "pronunciation": "/ˌɛpɪˌdiːmiˈɑːlədʒi/",
+      "definition": "The branch of medicine that deals with the incidence, distribution, and possible control of diseases and other factors relating to health.",
+      "sentences": [
+        "**Epidemiology** is crucial for tracking disease outbreaks.",
+        "She works in public health **epidemiology**.",
+        "The study used principles of **epidemiology**."
+      ]
+    },
+    {
+      "word": "Immunology",
+      "pronunciation": "/ˌɪmjʊˈnɑːlədʒi/",
+      "definition": "The branch of medicine and biology concerned with immunity.",
+      "sentences": [
+        "He specializes in cancer **immunology**.",
+        "**Immunology** studies the body's defense mechanisms.",
+        "New discoveries in **immunology** are exciting."
+      ]
+    },
+    {
+      "word": "Genetics",
+      "pronunciation": "/dʒɪˈnɛtɪks/",
+      "definition": "The study of heredity and the variation of inherited characteristics.",
+      "sentences": [
+        "She is researching the **genetics** of rare diseases.",
+        "**Genetics** plays a role in many health conditions.",
+        "The field of **genetics** is rapidly advancing."
+      ]
+    },
+    {
+      "word": "Biotechnology",
+      "pronunciation": "/ˌbaɪoʊtɛkˈnɑːlədʒi/",
+      "definition": "The exploitation of biological processes for industrial and other purposes, especially the genetic manipulation of microorganisms for the production of antibiotics, hormones, etc.",
+      "sentences": [
+        "**Biotechnology** is used to create new medicines.",
+        "The company is a leader in **biotechnology** research.",
+        "Advances in **biotechnology** have transformed healthcare."
+      ]
+    },
+    {
+      "word": "Pharmaceutical",
+      "pronunciation": "/ˌfɑːrməˈsuːtɪkl/",
+      "definition": "Relating to medicinal drugs, or their preparation, use, or sale.",
+      "sentences": [
+        "He works for a large **pharmaceutical** company.",
+        "The **pharmaceutical** industry develops new treatments.",
+        "This is a new **pharmaceutical** product."
+      ]
+    },
+    {
+      "word": "Clinical research",
+      "pronunciation": "/ˈklɪnɪkl rɪˈsɜːrtʃ/",
+      "definition": "Research conducted on human subjects to study health and illness.",
+      "sentences": [
+        "She works in **clinical research** at the hospital.",
+        "**Clinical research** is essential for new drug approvals.",
+        "The university has a strong **clinical research** program."
+      ]
+    },
+    {
+      "word": "Evidence-based medicine",
+      "pronunciation": "/ˈɛvɪdəns beɪst ˈmɛdɪsn/",
+      "definition": "The conscientious, explicit, and judicious use of current best evidence in making decisions about the care of individual patients.",
+      "sentences": [
+        "Doctors strive to practice **evidence-based medicine**.",
+        "**Evidence-based medicine** relies on scientific studies.",
+        "The guidelines are based on **evidence-based medicine**."
+      ]
+    },
+    {
+      "word": "Patient-centered care",
+      "pronunciation": "/ˈpeɪʃnt ˈsɛntərd kɛər/",
+      "definition": "Providing care that is respectful of and responsive to individual patient preferences, needs, and values.",
+      "sentences": [
+        "The hospital emphasizes **patient-centered care**.",
+        "**Patient-centered care** involves listening to the patient.",
+        "This approach to **patient-centered care** improves outcomes."
+      ]
+    },
+    {
+      "word": "Holistic approach",
+      "pronunciation": "/hoʊˈlɪstɪk əˈproʊtʃ/",
+      "definition": "An approach to health or treatment that considers the whole person, including physical, mental, and social factors, rather than just the symptoms of a disease.",
+      "sentences": [
+        "The doctor takes a **holistic approach** to patient care.",
+        "A **holistic approach** considers all aspects of well-being.",
+        "She believes in a **holistic approach** to health."
+      ]
+    },
+    {
+      "word": "Preventive medicine",
+      "pronunciation": "/prɪˈvɛntɪv ˈmɛdɪsn/",
+      "definition": "The branch of medicine concerned with preventing disease rather than curing it.",
+      "sentences": [
+        "Vaccinations are a key part of **preventive medicine**.",
+        "**Preventive medicine** focuses on healthy lifestyle choices.",
+        "He specializes in **preventive medicine**."
+      ]
+    },
+    {
+      "word": "Health disparity",
+      "pronunciation": "/hɛlθ dɪˈspærəti/",
+      "definition": "A particular type of health difference that is closely linked with social, economic, and/or environmental disadvantage.",
+      "sentences": [
+        "Addressing **health disparities** is a major public health goal.",
+        "Socioeconomic factors contribute to **health disparities**.",
+        "Policies aim to reduce **health disparities** in communities."
+      ]
+    },
+    {
+      "word": "Global health",
+      "pronunciation": "/ˈɡloʊbl hɛlθ/",
+      "definition": "The health of populations in a global context; it is about worldwide health improvement, reduction of disparities, and protection against global threats that disregard national borders.",
+      "sentences": [
+        "The organization works on **global health** initiatives.",
+        "Climate change has significant impacts on **global health**.",
+        "He is passionate about improving **global health**."
+      ]
+    },
+    {
+      "word": "Pandemic preparedness",
+      "pronunciation": "/pænˈdɛmɪk prɪˈpɛrdnəs/",
+      "definition": "The state of readiness to respond to a pandemic.",
+      "sentences": [
+        "Governments invest in **pandemic preparedness**.",
+        "Effective **pandemic preparedness** saves lives.",
+        "The report highlighted the need for better **pandemic preparedness**."
+      ]
+    }
+  ]
+}

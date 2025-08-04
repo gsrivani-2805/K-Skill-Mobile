@@ -1,0 +1,882 @@
+{
+  "level": "Intermediate",
+  "module": "Real Life & Role Play English",
+  "lesson_number": 3,
+  "lesson_title": "Visiting a Doctor",
+  "objectives": [
+    "Describe health problems in English",
+    "Understand medical instructions",
+    "Use polite language in medical contexts",
+    "Practice health-related conversations"
+  ],
+  "topics": [
+    {
+      "title": "Understanding Common Health Problems",
+      "subtopics": [
+        {
+          "title": "Body Parts Vocabulary",
+          "sections": [
+            {
+              "text": "When you visit a doctor, you need to tell them which part of your body is hurting or feeling unwell. Knowing the names of your body parts in English helps you explain your problem clearly to the doctor. This is very important for the doctor to understand and help you.",
+              "examples": [
+                {
+                  "label": "Head",
+                  "value": "सिर"
+                },
+                {
+                  "label": "Stomach",
+                  "value": "पेट"
+                },
+                {
+                  "label": "Chest",
+                  "value": "छाती"
+                },
+                {
+                  "label": "Back",
+                  "value": "पीठ"
+                },
+                {
+                  "label": "Leg",
+                  "value": "पैर (पूरा पैर)"
+                },
+                {
+                  "label": "Hand",
+                  "value": "हाथ (कलाई से उंगलियों तक)"
+                },
+                {
+                  "label": "Arm",
+                  "value": "भुजा (कंधे से कलाई तक)"
+                },
+                {
+                  "label": "Foot",
+                  "value": "पैर (टखने से नीचे)"
+                },
+                {
+                  "label": "Finger",
+                  "value": "उंगली"
+                },
+                {
+                  "label": "Ear",
+                  "value": "कान"
+                },
+                {
+                  "label": "Eye",
+                  "value": "आँख"
+                },
+                {
+                  "label": "Nose",
+                  "value": "नाक"
+                },
+                {
+                  "label": "Throat",
+                  "value": "गला"
+                },
+                {
+                  "label": "Tooth (Teeth)",
+                  "value": "दांत (दांतों)"
+                },
+                {
+                  "label": "Neck",
+                  "value": "गर्दन"
+                },
+                {
+                  "label": "Shoulder",
+                  "value": "कंधा"
+                },
+                {
+                  "label": "Knee",
+                  "value": "घुटना"
+                },
+                {
+                  "label": "Ankle",
+                  "value": "टखना"
+                },
+                {
+                  "label": "Wrist",
+                  "value": "कलाई"
+                },
+                {
+                  "label": "Elbow",
+                  "value": "कोहनी"
+                }
+              ],
+              "usage_examples": [
+                "My head hurts badly.",
+                "I have a pain in my stomach.",
+                "My chest feels tight.",
+                "My back is aching from working in the field.",
+                "I fell and hurt my leg.",
+                "My hand is swollen.",
+                "I have a cut on my arm.",
+                "My foot is painful when I walk.",
+                "I cut my finger while chopping vegetables.",
+                "My ear is ringing.",
+                "My eyes are red.",
+                "My nose is blocked.",
+                "I have a sore throat.",
+                "My tooth is aching all night.",
+                "My neck is stiff.",
+                "I have pain in my shoulder.",
+                "My knee hurts when I bend it.",
+                "I twisted my ankle.",
+                "My wrist is painful.",
+                "I hit my elbow on the door."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Common Illnesses and Symptoms",
+          "sections": [
+            {
+              "text": "When you are sick, you experience certain 'symptoms'. Symptoms are signs that tell you something is wrong with your body. Knowing common illnesses and their symptoms in English will help you describe your problem to the doctor accurately.",
+              "examples": [
+                {
+                  "label": "Fever",
+                  "value": "बुखार (high body temperature)"
+                },
+                {
+                  "label": "Cough",
+                  "value": "खांसी (expelling air from lungs loudly)"
+                },
+                {
+                  "label": "Cold",
+                  "value": "जुकाम (runny nose, sneezing)"
+                },
+                {
+                  "label": "Headache",
+                  "value": "सिरदर्द (pain in the head)"
+                },
+                {
+                  "label": "Stomach ache",
+                  "value": "पेट दर्द (pain in the stomach)"
+                },
+                {
+                  "label": "Body pain",
+                  "value": "बदन दर्द (pain all over the body)"
+                },
+                {
+                  "label": "Weakness",
+                  "value": "कमजोरी (feeling tired, no energy)"
+                },
+                {
+                  "label": "Vomiting",
+                  "value": "उल्टी (throwing up food from stomach)"
+                },
+                {
+                  "label": "Diarrhea",
+                  "value": "दस्त (loose motions)"
+                },
+                {
+                  "label": "Sore throat",
+                  "value": "गले में खराश/दर्द (pain in the throat)"
+                },
+                {
+                  "label": "Dizziness",
+                  "value": "चक्कर आना (feeling like you might fall)"
+                },
+                {
+                  "label": "Cut",
+                  "value": "कटना (a wound from something sharp)"
+                },
+                {
+                  "label": "Bruise",
+                  "value": "चोट (a dark mark on skin from a hit)"
+                },
+                {
+                  "label": "Rash",
+                  "value": "दाने (red spots on the skin)"
+                },
+                {
+                  "label": "Swelling",
+                  "value": "सूजन (part of body getting bigger)"
+                },
+                {
+                  "label": "Itching",
+                  "value": "खुजली (unpleasant sensation on skin)"
+                },
+                {
+                  "label": "Nausea",
+                  "value": "जी मिचलाना (feeling sick to the stomach)"
+                },
+                {
+                  "label": "Constipation",
+                  "value": "कब्ज (difficulty passing stool)"
+                },
+                {
+                  "label": "Difficulty breathing",
+                  "value": "सांस लेने में दिक्कत"
+                },
+                {
+                  "label": "Loss of appetite",
+                  "value": "भूख न लगना"
+                }
+              ],
+              "usage_examples": [
+                "I have a high fever since last night.",
+                "I can't stop coughing.",
+                "My nose is running, and I have a cold.",
+                "I have a severe headache.",
+                "My stomach ache is very bad.",
+                "I feel body pain all over.",
+                "I have a lot of weakness these days.",
+                "I started vomiting after eating the old food.",
+                "I have diarrhea for two days.",
+                "My throat is sore, and it hurts to swallow.",
+                "I feel dizzy when I stand up quickly.",
+                "I got a small cut on my hand.",
+                "I have a bruise on my leg from falling.",
+                "I have a rash on my arm.",
+                "My ankle has swelling.",
+                "I have itching on my skin.",
+                "I feel nausea in the morning.",
+                "I have constipation.",
+                "I have difficulty breathing when I run.",
+                "I have a loss of appetite, I don't feel like eating."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              },
+              "table": {
+                "title": "Common Symptoms and What They Mean",
+                "headers": ["Symptom", "What it feels like"],
+                "rows": [
+                  ["Fever", "Body feels hot, sometimes shivering."],
+                  [
+                    "Cough",
+                    "Forced air from lungs, can be dry or with phlegm."
+                  ],
+                  ["Headache", "Pain inside the head, can be dull or sharp."],
+                  ["Stomach ache", "Pain in the belly area."],
+                  [
+                    "Weakness",
+                    "Feeling low on energy, tired, unable to do work."
+                  ],
+                  [
+                    "Vomiting",
+                    "Food or liquid coming out of the mouth from the stomach."
+                  ],
+                  [
+                    "Sore throat",
+                    "Pain or scratchy feeling in the throat, hurts to swallow."
+                  ],
+                  ["Dizziness", "Feeling unsteady, like the room is spinning."],
+                  [
+                    "Swelling",
+                    "A part of the body looks bigger than normal due to fluid or injury."
+                  ],
+                  ["Rash", "Red, irritated, or bumpy areas on the skin."]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to the Doctor",
+      "subtopics": [
+        {
+          "title": "Making an Appointment and Greeting",
+          "sections": [
+            {
+              "text": "Before you meet the doctor, you might need to make an appointment or tell the clinic staff why you are there. Always be polite when you greet the doctor or the staff. A polite start makes the conversation smooth.",
+              "examples": [
+                {
+                  "label": "Asking to see doctor",
+                  "value": "I need to see the doctor."
+                },
+                {
+                  "label": "Making appointment",
+                  "value": "Can I make an appointment to see the doctor?"
+                },
+                {
+                  "label": "Greeting doctor 1",
+                  "value": "Good morning, Doctor."
+                },
+                {
+                  "label": "Greeting doctor 2",
+                  "value": "Good afternoon, Doctor."
+                },
+                {
+                  "label": "Greeting staff",
+                  "value": "Excuse me, I have an appointment."
+                },
+                {
+                  "label": "Waiting room",
+                  "value": "Where is the waiting room?"
+                },
+                {
+                  "label": "First time visit",
+                  "value": "I am here for the first time."
+                },
+                {
+                  "label": "Emergency",
+                  "value": "It is an emergency."
+                },
+                {
+                  "label": "General inquiry",
+                  "value": "Is the doctor available?"
+                },
+                {
+                  "label": "Confirming appointment",
+                  "value": "My name is [Your Name], I have an appointment for 10 AM."
+                }
+              ],
+              "usage_examples": [
+                "Excuse me, I need to see the doctor for my fever.",
+                "Good morning, Doctor. How are you?",
+                "Can I make an appointment to see the doctor today?",
+                "I am here for my check-up.",
+                "Please tell me where the waiting room is.",
+                "I have an appointment at 11 o'clock.",
+                "Good afternoon, Doctor. I have a problem.",
+                "My child is not feeling well, I need to see the doctor urgently.",
+                "Is the doctor seeing patients now?",
+                "My name is Ramesh, I have an appointment."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Describing Your Problem (Symptoms)",
+          "sections": [
+            {
+              "text": "This is the most important part of your visit. Tell the doctor clearly what your symptoms are, when they started, and how you feel. Use simple and direct sentences.",
+              "examples": [
+                {
+                  "label": "Headache",
+                  "value": "Doctor, I have a headache since yesterday."
+                },
+                {
+                  "label": "Fever",
+                  "value": "I have had a fever for two days."
+                },
+                {
+                  "label": "Throat pain",
+                  "value": "My throat hurts when I swallow."
+                },
+                {
+                  "label": "Weakness",
+                  "value": "I feel very weak and tired all the time."
+                },
+                {
+                  "label": "Stomach pain",
+                  "value": "I have a sharp pain in my stomach after eating."
+                },
+                {
+                  "label": "Cough and Cold",
+                  "value": "I have a cough and cold, and I can't stop sneezing."
+                },
+                {
+                  "label": "Body ache",
+                  "value": "My whole body is aching."
+                },
+                {
+                  "label": "Leg pain",
+                  "value": "My leg is paining when I walk."
+                },
+                {
+                  "label": "Injury",
+                  "value": "I fell down yesterday and my hand hurts."
+                },
+                {
+                  "label": "Skin problem",
+                  "value": "I have a rash on my arm, and it's very itchy."
+                },
+                {
+                  "label": "Dizziness",
+                  "value": "I feel dizzy every time I stand up quickly."
+                },
+                {
+                  "label": "Vomiting",
+                  "value": "I have been vomiting since morning."
+                },
+                {
+                  "label": "Sleep problem",
+                  "value": "I am not able to sleep well at night."
+                },
+                {
+                  "label": "Loss of appetite",
+                  "value": "I don't feel like eating anything."
+                },
+                {
+                  "label": "Swelling",
+                  "value": "There is swelling on my foot."
+                },
+                {
+                  "label": "Difficulty breathing",
+                  "value": "I have difficulty breathing, especially at night."
+                },
+                {
+                  "label": "Burning sensation",
+                  "value": "I have a burning sensation when I urinate."
+                },
+                {
+                  "label": "Earache",
+                  "value": "My ear is aching very badly."
+                },
+                {
+                  "label": "Eye irritation",
+                  "value": "My eyes are watering and feeling irritated."
+                },
+                {
+                  "label": "Numbness",
+                  "value": "My fingers feel numb sometimes."
+                }
+              ],
+              "usage_examples": [
+                "Doctor, I have a fever and body pain.",
+                "My head hurts very badly since morning.",
+                "I feel very weak these days, Doctor.",
+                "My stomach is aching after lunch.",
+                "I have a terrible cough at night.",
+                "I got a small cut on my hand, and it's red.",
+                "My throat is very sore.",
+                "I feel dizzy when I work in the sun.",
+                "My knee is swollen and painful.",
+                "I am having loose motions.",
+                "I can't lift my arm, it hurts.",
+                "I have small red spots on my skin.",
+                "I feel nausea every morning.",
+                "My tooth is paining a lot.",
+                "I have trouble sleeping."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Understanding Doctor's Instructions",
+      "subtopics": [
+        {
+          "title": "Medicine and Treatment Vocabulary",
+          "sections": [
+            {
+              "text": "After checking you, the doctor will give you 'medicine' and 'treatment'. It is important to understand these words so you know how to get better. Medicine can be in different forms like tablets, syrups, or injections. 'Dose' means how much medicine to take at one time. 'Rest' and 'diet' are also important parts of treatment.",
+              "examples": [
+                {
+                  "label": "Medicine",
+                  "value": "दवा (a substance to treat illness)"
+                },
+                {
+                  "label": "Tablet / Pill",
+                  "value": "गोली (solid form of medicine)"
+                },
+                {
+                  "label": "Syrup",
+                  "value": "सिरप (liquid medicine, often for cough)"
+                },
+                {
+                  "label": "Injection",
+                  "value": "टीका (medicine given with a needle)"
+                },
+                {
+                  "label": "Dose",
+                  "value": "खुराक (amount of medicine to take at one time)"
+                },
+                {
+                  "label": "Rest",
+                  "value": "आराम (taking a break from work or activity)"
+                },
+                {
+                  "label": "Diet",
+                  "value": "आहार (the food you eat)"
+                },
+                {
+                  "label": "Exercise",
+                  "value": "व्यायाम (physical activity)"
+                },
+                {
+                  "label": "Bandage",
+                  "value": "पट्टी (cloth used to cover a wound)"
+                },
+                {
+                  "label": "Cream / Ointment",
+                  "value": "मरहम (medicine to apply on skin)"
+                },
+                {
+                  "label": "Prescription",
+                  "value": "पर्चा (doctor's written instruction for medicine)"
+                },
+                {
+                  "label": "Treatment",
+                  "value": "इलाज (the way to make someone better)"
+                },
+                {
+                  "label": "Follow-up",
+                  "value": "दोबारा मिलना (another appointment to check progress)"
+                },
+                {
+                  "label": "Symptoms",
+                  "value": "लक्षण (signs of illness)"
+                },
+                {
+                  "label": "Consultation",
+                  "value": "परामर्श (meeting with doctor)"
+                }
+              ],
+              "usage_examples": [
+                "Take this **medicine** twice a day.",
+                "This **tablet** should be taken after meals.",
+                "Give this **syrup** to your child for cough.",
+                "The doctor gave me an **injection** for the pain.",
+                "Take one **dose** of this medicine every eight hours.",
+                "You need to take complete **rest** for two days.",
+                "Eat a light **diet** for now.",
+                "Do light **exercise** to feel better.",
+                "The nurse put a **bandage** on my wound.",
+                "Apply this **cream** on the rash.",
+                "The doctor wrote a **prescription** for me.",
+                "The **treatment** will help you recover quickly.",
+                "Come for a **follow-up** visit next week.",
+                "The doctor asked about my **symptoms**.",
+                "The **consultation** helped me understand my health."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              },
+              "table": {
+                "title": "Medicine Instructions",
+                "headers": ["Instruction", "Meaning", "Example"],
+                "rows": [
+                  [
+                    "Once a day",
+                    "एक दिन में एक बार",
+                    "Take this tablet once a day."
+                  ],
+                  [
+                    "Twice a day",
+                    "एक दिन में दो बार",
+                    "Take this medicine twice a day, morning and evening."
+                  ],
+                  [
+                    "Thrice a day",
+                    "एक दिन में तीन बार",
+                    "Take this syrup thrice a day."
+                  ],
+                  [
+                    "After meals",
+                    "खाना खाने के बाद",
+                    "Take this medicine after meals."
+                  ],
+                  [
+                    "Before meals",
+                    "खाना खाने से पहले",
+                    "Take this tablet before meals."
+                  ],
+                  ["At bedtime", "सोने से पहले", "Take one pill at bedtime."],
+                  [
+                    "As needed",
+                    "जब ज़रूरत हो",
+                    "Take painkiller as needed for pain."
+                  ],
+                  [
+                    "Complete the course",
+                    "पूरा कोर्स करें",
+                    "Make sure to complete the course of antibiotics."
+                  ],
+                  [
+                    "Apply externally",
+                    "बाहर से लगाएं",
+                    "Apply this cream externally on the affected area."
+                  ],
+                  [
+                    "Shake well before use",
+                    "इस्तेमाल से पहले अच्छी तरह हिलाएं",
+                    "Shake this syrup well before use."
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Asking Clarifying Questions",
+          "sections": [
+            {
+              "text": "It is very important to fully understand the doctor's instructions. If you don't understand something, always ask questions politely. Never feel shy or afraid to ask. It is for your health.",
+              "examples": [
+                {
+                  "label": "About frequency",
+                  "value": "How many times should I take this medicine?"
+                },
+                {
+                  "label": "About timing",
+                  "value": "Should I take this medicine before or after meals?"
+                },
+                {
+                  "label": "About recovery",
+                  "value": "When will I start to feel better, Doctor?"
+                },
+                {
+                  "label": "About seriousness",
+                  "value": "Is my condition serious, Doctor?"
+                },
+                {
+                  "label": "Next visit",
+                  "value": "Do I need to come again for a check-up?"
+                },
+                {
+                  "label": "Diet restriction",
+                  "value": "Is there anything I should not eat?"
+                },
+                {
+                  "label": "Activity restriction",
+                  "value": "Can I go to school/work tomorrow?"
+                },
+                {
+                  "label": "About side effects",
+                  "value": "Will this medicine have any side effects?"
+                },
+                {
+                  "label": "Understanding fully",
+                  "value": "Could you please explain that again?"
+                },
+                {
+                  "label": "Simple doubt",
+                  "value": "Just one tablet?"
+                },
+                {
+                  "label": "Rest period",
+                  "value": "How many days of rest do I need?"
+                },
+                {
+                  "label": "Medicine storage",
+                  "value": "Where should I keep this medicine?"
+                },
+                {
+                  "label": "What to do if no change",
+                  "value": "What if I don't feel better after two days?"
+                },
+                {
+                  "label": "Any other advice",
+                  "value": "Is there any other advice for me?"
+                },
+                {
+                  "label": "Confirming instructions",
+                  "value": "So, rest and medicine for three days?"
+                }
+              ],
+              "usage_examples": [
+                "Doctor, how many times a day should I take this tablet?",
+                "Should I eat this medicine before or after food?",
+                "When will I feel better, Doctor?",
+                "Is my fever serious, Doctor?",
+                "Do I need to come again next week?",
+                "Doctor, is there anything I should not eat while taking this medicine?",
+                "Can I go to the farm tomorrow, Doctor?",
+                "Will this medicine make me sleepy?",
+                "Could you please explain how to use this cream?",
+                "So, only one tablet in the morning?",
+                "How many days should I take complete rest?",
+                "Where should I keep this syrup?",
+                "What if my stomach pain gets worse?",
+                "Is there any other special advice for me?",
+                "So, two tablets twice a day, after meals, correct?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Polite Language and Closing the Visit",
+      "subtopics": [
+        {
+          "title": "Polite Phrases in a Medical Setting",
+          "sections": [
+            {
+              "text": "Always use polite words when talking to the doctor, nurse, or clinic staff. Words like 'please', 'thank you', and 'excuse me' show good manners and help maintain a respectful atmosphere. Remember, they are there to help you.",
+              "examples": [
+                {
+                  "label": "Starting polite",
+                  "value": "Excuse me, Doctor."
+                },
+                {
+                  "label": "Asking politely",
+                  "value": "Could you please check my blood pressure?"
+                },
+                {
+                  "label": "Expressing gratitude",
+                  "value": "Thank you, Doctor."
+                },
+                {
+                  "label": "Apologizing",
+                  "value": "Sorry to bother you, but I have a question."
+                },
+                {
+                  "label": "Waiting patiently",
+                  "value": "I will wait patiently."
+                },
+                {
+                  "label": "Responding to help",
+                  "value": "That's very kind of you."
+                },
+                {
+                  "label": "Confirming understanding",
+                  "value": "Yes, I understand."
+                },
+                {
+                  "label": "Asking for clarification",
+                  "value": "Please, could you repeat that?"
+                },
+                {
+                  "label": "General politeness",
+                  "value": "Good day, Doctor."
+                },
+                {
+                  "label": "Showing appreciation",
+                  "value": "I really appreciate your help."
+                }
+              ],
+              "usage_examples": [
+                "Excuse me, Doctor, I have a headache.",
+                "Could you please tell me what medicine to take?",
+                "Thank you, Doctor, for your help.",
+                "Sorry to bother you, but I forgot one instruction.",
+                "I will wait patiently for my turn.",
+                "That's very kind of you to explain it again.",
+                "Yes, Doctor, I understand your instructions.",
+                "Please, could you tell me the timings of the clinic?",
+                "Good day, Doctor. Thank you for everything.",
+                "I really appreciate your advice on my diet."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Ending the Consultation",
+          "sections": [
+            {
+              "text": "When your consultation is over, it is polite to thank the doctor and indicate that you will follow their advice. A polite closing leaves a good impression and shows your appreciation.",
+              "examples": [
+                {
+                  "label": "Simple thanks",
+                  "value": "Thank you, Doctor."
+                },
+                {
+                  "label": "Promise to follow",
+                  "value": "I will follow your instructions, Doctor."
+                },
+                {
+                  "label": "Good wishes",
+                  "value": "Goodbye, Doctor."
+                },
+                {
+                  "label": "Combined",
+                  "value": "Thank you for your time, Doctor. Goodbye."
+                },
+                {
+                  "label": "Leaving",
+                  "value": "I will take the medicine now. Thank you."
+                },
+                {
+                  "label": "See you again",
+                  "value": "See you for the next visit, Doctor."
+                },
+                {
+                  "label": "Appreciation",
+                  "value": "I feel much better after talking to you. Thank you."
+                },
+                {
+                  "label": "Confirming next steps",
+                  "value": "So, I will collect the medicine from the counter. Thank you, Doctor."
+                },
+                {
+                  "label": "General polite exit",
+                  "value": "Thank you for everything, Doctor."
+                },
+                {
+                  "label": "Expressing hope",
+                  "value": "I hope to get well soon with your treatment. Thank you."
+                }
+              ],
+              "usage_examples": [
+                "Thank you, Doctor. I will take this medicine.",
+                "I will follow your instructions, Doctor. Goodbye.",
+                "Thank you for your time, Doctor. I will rest well.",
+                "Goodbye, Doctor. See you next week for the follow-up.",
+                "I will take the medicine now. Thank you, Doctor.",
+                "Thank you, Doctor. I hope this helps me.",
+                "Thank you for everything, Doctor. I feel more confident now.",
+                "I will remember all your advice. Thank you.",
+                "Thank you, Doctor. I appreciate your help.",
+                "Goodbye, Doctor. Have a good day."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Practice Conversations",
+      "subtopics": [
+        {
+          "title": "Sample Doctor-Patient Conversation 1",
+          "sections": [
+            {
+              "text": "Read this conversation between a patient and a doctor. Notice how the patient describes symptoms and the doctor gives instructions.",
+              "examples": [],
+              "usage_examples": [
+                "Patient: Good morning, Doctor. I am not feeling well.\nDoctor: Good morning. What is the problem? What are your symptoms?\nPatient: Doctor, I have a fever since yesterday. My body is aching, and I feel very weak.\nDoctor: Hmm, I see. Do you have a cough or cold?\nPatient: Yes, Doctor, I have a little cough too.\nDoctor: Let me check your temperature. (Checks temperature) You have a high fever. (Listens to chest) Take this medicine twice a day after meals. And take complete rest for two days. Don't go to school.\nPatient: How many times should I take this medicine, Doctor?\nDoctor: Twice a day, morning and evening, after your food.\nPatient: When will I feel better, Doctor?\nDoctor: You should start feeling better by tomorrow evening. If not, come back. Drink plenty of water.\nPatient: Thank you very much, Doctor. I will follow your instructions.\nDoctor: You're welcome. Take care."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sample Doctor-Patient Conversation 2",
+          "sections": [
+            {
+              "text": "Here is another conversation example. This one focuses on a different kind of problem and treatment.",
+              "examples": [],
+              "usage_examples": [
+                "Patient: Excuse me, Doctor. My hand is paining a lot.\nDoctor: What happened? How did you hurt your hand?\nPatient: I was working in the field, and a stone fell on my hand. It happened yesterday morning.\nDoctor: Let me see. (Examines hand) It looks like a bruise and a little swelling. It's not broken. You need to apply this cream twice a day. And don't use your hand too much for heavy work for a few days.\nPatient: How long should I apply the cream, Doctor?\nDoctor: Apply it for five days. The pain and swelling should reduce. If the pain continues, come back.\nPatient: Should I put a bandage on it?\nDoctor: No, just apply the cream. Keep it open if possible. And avoid lifting heavy things.\nPatient: Okay, Doctor. Thank you very much for your help.\nDoctor: No problem. Get well soon."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Role-Play Activity: Doctor's Visit",
+          "sections": [
+            {
+              "text": "Now, let's practice! Work with a partner. One person will be the 'Patient', and the other will be the 'Doctor'.\n\nPatient, you can choose one of these problems:\n*   Severe stomach ache and vomiting.\n*   A bad cough and a sore throat.\n*   Pain in your knee after playing for a long time.\n\nDoctor, you need to ask questions to understand the problem, give advice, and suggest medicine.\n\nRemember to use polite language, describe symptoms clearly, ask clarifying questions, and understand instructions.",
+              "examples": [],
+              "usage_examples": [
+                "Doctor: What is the problem?\nPatient: Doctor, I have a very bad stomach ache and I have vomited twice.\nDoctor: Since when are you feeling this way?\nPatient: Since morning, Doctor.\nDoctor: Take this tablet, one after breakfast and one after dinner. Eat light food, like rice water.\nPatient: How long should I take this medicine?\nDoctor: Take it for two days. If you don't feel better, come back.\nPatient: Thank you, Doctor.\nDoctor: What seems to be the problem?\nPatient: Doctor, I have a very bad cough and my throat hurts.\nDoctor: Do you have a fever?\nPatient: No, Doctor, no fever.\nDoctor: Take this syrup three times a day. And avoid cold water. Drink warm water.\nPatient: Should I take this before or after meals?\nDoctor: After meals.\nPatient: Thank you, Doctor.\nDoctor: What's wrong with your knee?\nPatient: Doctor, my knee is paining a lot after I played kabaddi yesterday.\nDoctor: Is there any swelling?\nPatient: Yes, a little bit of swelling.\nDoctor: Apply this ointment on your knee twice a day, and take this painkiller if the pain is too much. Avoid running for a few days.\nPatient: How many times do I take the painkiller?\nDoctor: Only if the pain is severe, once a day. Not more than that. And complete rest to the knee for three days.\nPatient: Thank you very much, Doctor."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

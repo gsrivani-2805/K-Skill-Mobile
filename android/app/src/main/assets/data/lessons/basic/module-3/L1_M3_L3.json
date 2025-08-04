@@ -1,0 +1,298 @@
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 3,
+  "lesson_title": "Articles: A, An, The - Small Words, Big Meaning",
+  "objectives": [
+    "Understand when to use 'a', 'an', and 'the' before naming words (nouns).",
+    "Learn the difference between talking about something general (using 'a' or 'an') and something specific (using 'the').",
+    "Practice choosing the correct article for different sentences and situations."
+  ],
+  "topics": [
+    {
+      "title": "1. What are Articles?",
+      "subtopics": [
+        {
+          "title": "1.1. Small Words Before Nouns",
+          "sections": [
+            {
+              "text": "Articles are small words: 'a', 'an', and 'the'. We put them just before a naming word (noun) to tell us more about that noun. They help us know if we are talking about any general thing or a specific thing.",
+              "examples": [
+                {
+                  "label": "General (any one)",
+                  "value": "**a** pen, **an** apple"
+                },
+                {
+                  "label": "Specific (that one)",
+                  "value": "**the** sun, **the** teacher"
+                },
+                {
+                  "label": "Before Noun",
+                  "value": "I have **a** book. (Here 'a' is an article before the noun 'book'.)"
+                }
+              ],
+              "usage_examples": [
+                "I saw **a** bird.",
+                "My mother is **a** kind woman.",
+                "**The** moon is bright tonight.",
+                "We need **an** umbrella for the rain.",
+                "Did you see **the** farmer in the field?"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Indefinite Articles: 'A' and 'An'",
+      "subtopics": [
+        {
+          "title": "2.1. Using 'A' (For Consonant Sounds)",
+          "sections": [
+            {
+              "text": "We use 'a' when the word (noun) that comes after it starts with a consonant sound. Consonant sounds are made by letters like b, c, d, f, g, h, j, k, l, m, n, p, q, r, s, t, v, w, x, y, z. Think of a word beginning with a sound that is not A, E, I, O, U.",
+              "examples": [
+                {
+                  "label": "a farmer",
+                  "value": "The word 'farmer' starts with the 'f' sound, which is a consonant sound."
+                },
+                {
+                  "label": "a village",
+                  "value": "The word 'village' starts with the 'v' sound, which is a consonant sound."
+                },
+                {
+                  "label": "a cow",
+                  "value": "The word 'cow' starts with the 'c' sound, which is a consonant sound."
+                },
+                {
+                  "label": "a school",
+                  "value": "The word 'school' starts with the 's' sound, which is a consonant sound."
+                }
+              ],
+              "usage_examples": [
+                "My father is **a** farmer.",
+                "I have **a** new book.",
+                "There is **a** well near our house.",
+                "We saw **a** small hut in the field.",
+                "She drew **a** beautiful flower.",
+                "Give me **a** pen, please.",
+                "He eats **a** mango every day."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Using 'An' (For Vowel Sounds)",
+          "sections": [
+            {
+              "text": "We use 'an' when the word (noun) that comes after it starts with a vowel sound. Vowel sounds are made by letters A, E, I, O, U. Sometimes, a word starting with 'H' can also have a vowel sound if 'H' is silent.",
+              "examples": [
+                {
+                  "label": "an apple",
+                  "value": "The word 'apple' starts with the 'a' sound, which is a vowel sound."
+                },
+                {
+                  "label": "an elephant",
+                  "value": "The word 'elephant' starts with the 'e' sound, which is a vowel sound."
+                },
+                {
+                  "label": "an orange",
+                  "value": "The word 'orange' starts with the 'o' sound, which is a vowel sound."
+                },
+                {
+                  "label": "an hour",
+                  "value": "The 'h' in 'hour' is silent, so it sounds like 'our', starting with a vowel sound."
+                }
+              ],
+              "usage_examples": [
+                "I ate **an** apple this morning.",
+                "She wants **an** egg for breakfast.",
+                "My uncle owns **an** old bicycle.",
+                "It takes **an** hour to walk to the next village.",
+                "There is **an** ant on the sugar.",
+                "He needs **an** answer quickly.",
+                "Give me **an** umbrella for the rain."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              },
+              "table": {
+                "title": "When to Use 'A' vs. 'An'",
+                "headers": ["Starts with Consonant Sound (Use 'A')", "Starts with Vowel Sound (Use 'An')"],
+                "rows": [
+                  ["a book", "an apple"],
+                  ["a cow", "an elephant"],
+                  ["a chair", "an orange"],
+                  ["a house", "an hour (silent 'h')"],
+                  ["a uniform (sounds like 'yoo')", "an honest person (silent 'h')"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Definite Article: 'The'",
+      "subtopics": [
+        {
+          "title": "3.1. Using 'The' (For Specific Things)",
+          "sections": [
+            {
+              "text": "We use 'the' when we are talking about a specific person, place, animal, or thing. Both the person speaking and the person listening know exactly which one is being talked about. 'The' can be used with both singular and plural nouns.",
+              "examples": [
+                {
+                  "label": "The sun",
+                  "value": "There is only one sun, so it is specific."
+                },
+                {
+                  "label": "The village",
+                  "value": "Refers to our specific village, not just any village."
+                },
+                {
+                  "label": "The teacher",
+                  "value": "Refers to a specific teacher that both people know."
+                },
+                {
+                  "label": "The water",
+                  "value": "If you are talking about the water in a particular well, it's specific."
+                }
+              ],
+              "usage_examples": [
+                "Please close **the** door. (We know which door).",
+                "**The** sun rises in the east.",
+                "He works in **the** field near our house. (His specific field).",
+                "I gave **the** book to **the** teacher. (Specific book, specific teacher).",
+                "**The** children are playing in **the** playground. (Specific children, specific playground).",
+                "Pass me **the** salt, please.",
+                "**The** Ganga River is very long."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. 'The' for Already Mentioned Things",
+          "sections": [
+            {
+              "text": "If you talk about something for the first time, you might use 'a' or 'an'. But if you talk about it again, and now it's specific because you already mentioned it, you use 'the'.",
+              "examples": [
+                {
+                  "label": "First time",
+                  "value": "I saw **a** dog."
+                },
+                {
+                  "label": "Second time (now specific)",
+                  "value": "**The** dog was barking loudly."
+                },
+                {
+                  "label": "First time",
+                  "value": "My father bought **a** new bullock."
+                },
+                {
+                  "label": "Second time",
+                  "value": "**The** bullock is very strong."
+                }
+              ],
+              "usage_examples": [
+                "There was **a** cat under the tree. **The** cat was sleeping.",
+                "I bought **an** orange from the market. **The** orange was sweet.",
+                "My friend told me **a** story. **The** story was very interesting.",
+                "We visited **a** new temple. **The** temple was very beautiful.",
+                "He found **a** coin on the road. **The** coin was very old."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.3. 'The' for Unique Things",
+          "sections": [
+            {
+              "text": "We use 'the' for things that are unique, meaning there is only one of them in the world or in that specific context.",
+              "examples": [
+                {
+                  "label": "The Earth",
+                  "value": "There is only one Earth."
+                },
+                {
+                  "label": "The sky",
+                  "value": "There is only one sky above us."
+                },
+                {
+                  "label": "The principal",
+                  "value": "There is only one principal in our school at a time."
+                }
+              ],
+              "usage_examples": [
+                "**The** Earth revolves around **the** sun.",
+                "Look at **the** stars in **the** sky at night.",
+                "**The** principal gave a speech in the morning assembly.",
+                "He crossed **the** largest river in the area.",
+                "**The** head of our village is very wise."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. When NOT to Use Articles",
+      "subtopics": [
+        {
+          "title": "4.1. Common Cases with No Article",
+          "sections": [
+            {
+              "text": "Sometimes, we do not use 'a', 'an', or 'the' before nouns. It's important to know these situations so your sentences sound natural.",
+              "examples": [
+                {
+                  "label": "Names of People (Proper Nouns)",
+                  "value": "**Ram** is a good boy. (Not 'The Ram')."
+                },
+                {
+                  "label": "Names of Countries/Cities/Villages (Proper Nouns)",
+                  "value": "I live in **India**. My village is **Shantipur**. (Not 'The India')."
+                },
+                {
+                  "label": "Names of Subjects",
+                  "value": "I study **English** and **Maths**. (Not 'The English')."
+                },
+                {
+                  "label": "General Plural Nouns",
+                  "value": "**Birds** fly. (**Children** love sweets.) (Talking about birds/children in general, not specific ones)."
+                },
+                {
+                  "label": "Abstract Nouns (General)",
+                  "value": "**Happiness** is important. (**Knowledge** is power.)"
+                }
+              ],
+              "usage_examples": [
+                "**Sita** went to **Delhi**.",
+                "We learn **Science** at school.",
+                "**Farmers** work hard in the fields. (Talking about farmers in general).",
+                "I like to drink **milk**.",
+                "We wish for **peace** in the world."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

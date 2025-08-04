@@ -1,0 +1,713 @@
+{
+  "level": "Intermediate",
+  "module": "Listening & Reading",
+  "lesson_number": 4,
+  "lesson_title": "News Headlines (Skimming & Scanning)",
+  "objectives": [
+    "Use quick reading strategies like skimming and scanning effectively",
+    "Extract important information from news headlines quickly",
+    "Understand how news headlines are made and what they mean"
+  ],
+  "topics": [
+    {
+      "title": "Introduction to News Headlines",
+      "subtopics": [
+        {
+          "title": "What are News Headlines?",
+          "sections": [
+            {
+              "text": "News headlines are the short, bold words you see at the top of a newspaper story or a news article on a phone. They are like the title of a lesson. Their main job is to tell you the most important information of the news story in a very short way. They catch your eye and make you want to read more. Headlines are usually very brief, using fewer words to say a lot.",
+              "examples": [
+                {
+                  "label": "Simple headline",
+                  "value": "Heavy Rain Floods Village Roads"
+                },
+                {
+                  "label": "Headline for school news",
+                  "value": "New Teacher Joins Our School"
+                },
+                {
+                  "label": "Headline about farming",
+                  "value": "Farmers Expect Good Harvest This Year"
+                },
+                {
+                  "label": "Headline about local event",
+                  "value": "Village Fair Starts Next Week"
+                },
+                {
+                  "label": "Headline about health",
+                  "value": "Health Camp Benefits Many Villagers"
+                },
+                {
+                  "label": "Short and direct",
+                  "value": "Well Water Runs Dry"
+                },
+                {
+                  "label": "About an achievement",
+                  "value": "Local Boy Wins State Award"
+                },
+                {
+                  "label": "About public service",
+                  "value": "New Bus Route Connects Remote Villages"
+                },
+                {
+                  "label": "About an issue",
+                  "value": "Cattle Disease Spreads in Area"
+                },
+                {
+                  "label": "About development",
+                  "value": "Panchayat Approves Road Repair"
+                },
+                {
+                  "label": "About natural events",
+                  "value": "Strong Winds Damage Huts"
+                },
+                {
+                  "label": "About education",
+                  "value": "Students Excel in Board Exams"
+                },
+                {
+                  "label": "About economy",
+                  "value": "Vegetable Prices Rise Sharply"
+                },
+                {
+                  "label": "About community safety",
+                  "value": "Police Increase Patrols Near River"
+                },
+                {
+                  "label": "About a project",
+                  "value": "New Water Tank Built in Village"
+                }
+              ],
+              "usage_examples": [
+                "Headlines are the titles of news.",
+                "They are always short.",
+                "They tell us the main news fast.",
+                "You see them in newspapers.",
+                "They help you decide what to read."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Why are Headlines Important?",
+          "sections": [
+            {
+              "text": "Headlines are important because they give you a quick idea of what a news story is about without reading the whole thing. Imagine you have many newspapers; headlines help you choose which story is important or interesting to you. They save time. For a student, understanding headlines can help find information quickly from a long passage.",
+              "examples": [
+                {
+                  "label": "Saves time",
+                  "value": "Reading headlines helps you know many news in short time."
+                },
+                {
+                  "label": "Helps choose",
+                  "value": "If a headline says 'Cricket Match Results', you know if it's important to you."
+                },
+                {
+                  "label": "Quick summary",
+                  "value": "A headline like 'New Hospital Opens in District' gives you the main idea quickly."
+                },
+                {
+                  "label": "First impression",
+                  "value": "It tells you if the news is about your village or a distant place."
+                },
+                {
+                  "label": "For farmers",
+                  "value": "A headline like 'Monsoon Arrives Early' is very important for farmers to know fast."
+                },
+                {
+                  "label": "For students",
+                  "value": "A headline 'Exam Dates Announced' tells students to look for details."
+                },
+                {
+                  "label": "For safety",
+                  "value": "A headline 'River Water Level Rising' warns people quickly."
+                },
+                {
+                  "label": "For community",
+                  "value": "Headline 'Village Meeting Today' tells people about an important event."
+                },
+                {
+                  "label": "To grasp urgency",
+                  "value": "A headline 'Urgent Need For Blood' shows immediate requirement."
+                },
+                {
+                  "label": "To know about local issues",
+                  "value": "Headline 'Road Repair Work Begins' affects daily travel."
+                },
+                {
+                  "label": "To get general awareness",
+                  "value": "You can know about big events in the country or world through headlines."
+                },
+                {
+                  "label": "To filter information",
+                  "value": "If you are interested in farming news, you can quickly find such headlines."
+                },
+                {
+                  "label": "To prepare for changes",
+                  "value": "Headline 'Electricity Cut in Morning' helps you plan your day."
+                },
+                {
+                  "label": "To identify key people",
+                  "value": "Headline 'Chief Minister Visits Our Area' highlights important visitor."
+                },
+                {
+                  "label": "To know about discoveries",
+                  "value": "Headline 'New Species of Bird Found' informs about interesting findings."
+                }
+              ],
+              "usage_examples": [
+                "Headlines help us quickly.",
+                "We save time reading them.",
+                "They tell the most important part.",
+                "Choose what to read from them.",
+                "They give a fast summary."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reading Strategy 1: Skimming",
+      "subtopics": [
+        {
+          "title": "What is Skimming?",
+          "sections": [
+            {
+              "text": "Skimming means reading quickly to get the main idea or general understanding of something. When you skim, you don't read every word. You let your eyes move fast over the text, picking out important words and sentences. Think of it like taking a quick look at a whole field to see if the crops are ready for harvest, without checking every single plant closely.",
+              "examples": [
+                {
+                  "label": "Purpose of skimming",
+                  "value": "To get a general idea of the news story."
+                },
+                {
+                  "label": "How it's done",
+                  "value": "Read only the first sentence of each paragraph."
+                },
+                {
+                  "label": "How it's done",
+                  "value": "Look for bold words and special headings."
+                },
+                {
+                  "label": "What to look for",
+                  "value": "The main topic of the news."
+                },
+                {
+                  "label": "What to look for",
+                  "value": "If the news is positive or negative."
+                },
+                {
+                  "label": "Example of a skimmed headline",
+                  "value": "Village School Celebrates Annual Day: tells you it's about a school event."
+                },
+                {
+                  "label": "Example of a skimmed headline",
+                  "value": "Water Shortage in District Affects Farming: tells you about a problem with water and farming."
+                },
+                {
+                  "label": "When to skim",
+                  "value": "When you have many news headlines and little time."
+                },
+                {
+                  "label": "Skimming a book's table of contents",
+                  "value": "Look at the chapter titles to know what the book is about."
+                },
+                {
+                  "label": "Skimming an announcement",
+                  "value": "Read only the first and last lines to grasp its general nature."
+                },
+                {
+                  "label": "Skimming a long message",
+                  "value": "Read the first sentence of each paragraph to get the main idea."
+                },
+                {
+                  "label": "Skimming a report summary",
+                  "value": "Look at the main points listed at the beginning or end."
+                },
+                {
+                  "label": "Skimming a poster",
+                  "value": "Read the largest and boldest text to understand its purpose."
+                },
+                {
+                  "label": "Skimming a menu",
+                  "value": "Quickly look at the names of dishes to know what types of food are available."
+                },
+                {
+                  "label": "Skimming for mood",
+                  "value": "Quickly read words to understand if the tone is serious, happy, or sad."
+                }
+              ],
+              "usage_examples": [
+                "Skim the headlines to save time.",
+                "Just read the first sentence.",
+                "Look for big words.",
+                "Get the main point quickly.",
+                "Don't read every detail."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "How to Skim a News Headline",
+          "sections": [
+            {
+              "text": "To skim a news headline, just read the headline itself. Then, if there is a very short sub-headline (a smaller line of text below the main headline), read that too. These two lines usually give you the complete main idea. Do not go and read the full news story if you are just skimming.",
+              "examples": [
+                {
+                  "label": "Main Headline",
+                  "value": "New Bridge Opens in Our District"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Connects five villages, reduces travel time."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "School Sports Day Tomorrow"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "All students must participate in games."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "Farmers Protest Low Crop Prices"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Demand government help for fair rates."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "Village Pond Cleaning Drive Successful"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Community teamwork brings clean water."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "Local Temple Festival Begins Sunday"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Many cultural programs planned for three days."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "New Health Clinic for Rural Areas"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Provides free treatment and medicines."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "Tiger Sighted Near Forest Border"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Villagers advised to stay alert."
+                },
+                {
+                  "label": "Main Headline",
+                  "value": "Government to Build More Wells"
+                },
+                {
+                  "label": "Sub-headline (if any)",
+                  "value": "Aims to solve water shortage problem."
+                }
+              ],
+              "usage_examples": [
+                "Read the big words first.",
+                "Look for the smaller line below.",
+                "This gives you the general news.",
+                "Don't read the whole story.",
+                "It's a fast way to know."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Reading Strategy 2: Scanning",
+      "subtopics": [
+        {
+          "title": "What is Scanning?",
+          "sections": [
+            {
+              "text": "Scanning means looking for very specific information in a text. You are not trying to understand everything, but just finding a particular word, name, date, or number. Think of it like searching for a lost needle in a haystack: you don't look at every straw, you just look for the needle. When scanning, your eyes move quickly over the text, looking only for the specific piece of information you need.",
+              "examples": [
+                {
+                  "label": "Purpose of scanning",
+                  "value": "To find a specific detail like a date or name."
+                },
+                {
+                  "label": "How it's done",
+                  "value": "Look for keywords, numbers, and proper nouns."
+                },
+                {
+                  "label": "How it's done",
+                  "value": "Move your eyes fast over the text in patterns (up/down, zig-zag)."
+                },
+                {
+                  "label": "What to look for",
+                  "value": "The specific detail you are searching for."
+                },
+                {
+                  "label": "Example of scanning a headline",
+                  "value": "If you need the date of the fair, look for numbers like '10th' or 'Sunday'."
+                },
+                {
+                  "label": "Scanning for a person's name",
+                  "value": "Look for capital letters that might be a name."
+                },
+                {
+                  "label": "Scanning for a place name",
+                  "value": "Look for words like 'village', 'school', 'hospital' near capitalized words."
+                },
+                {
+                  "label": "When to scan",
+                  "value": "When you already know what information you need."
+                },
+                {
+                  "label": "Scanning a telephone directory",
+                  "value": "Looking for a specific name to find the phone number."
+                },
+                {
+                  "label": "Scanning a railway timetable",
+                  "value": "Finding the departure time for a particular train."
+                },
+                {
+                  "label": "Scanning a price list",
+                  "value": "Looking for the cost of one specific item."
+                },
+                {
+                  "label": "Scanning a recipe",
+                  "value": "Finding the amount of sugar needed."
+                },
+                {
+                  "label": "Scanning a school notice",
+                  "value": "Looking for the exam start date."
+                },
+                {
+                  "label": "Scanning a list of names",
+                  "value": "Finding if your name is present in a list."
+                },
+                {
+                  "label": "Scanning for a specific word",
+                  "value": "If you want to know about 'water', find the word 'water' in the text."
+                }
+              ],
+              "usage_examples": [
+                "Scan for dates and times.",
+                "Look for names of people.",
+                "Find specific numbers quickly.",
+                "Don't read other words.",
+                "It's like searching for one thing."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "How to Scan a News Headline",
+          "sections": [
+            {
+              "text": "To scan a news headline, first decide what specific piece of information you are looking for (e.g., a date, a place, a name). Then, quickly move your eyes across the headline, looking only for that type of information. Do not stop to read other words. When you find what you are looking for, stop. This way, you can pick out the exact detail you need very fast.",
+              "examples": [
+                {
+                  "label": "Headline",
+                  "value": "Village Meeting on Thursday at Panchayat Hall"
+                },
+                {
+                  "label": "Scanning for day",
+                  "value": "Find 'Thursday'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Free Health Check-up Camp for Children Aged 5-12"
+                },
+                {
+                  "label": "Scanning for age",
+                  "value": "Find '5-12'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Chief Minister to Visit Ramnagar Village on August 15"
+                },
+                {
+                  "label": "Scanning for village name",
+                  "value": "Find 'Ramnagar'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "New Well Dug Near School; Provides Clean Water"
+                },
+                {
+                  "label": "Scanning for location",
+                  "value": "Find 'School'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Local Farmer, Mohan Das, Wins Best Crop Award"
+                },
+                {
+                  "label": "Scanning for farmer's name",
+                  "value": "Find 'Mohan Das'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Electricity Supply Cut from 10 AM to 2 PM Tomorrow"
+                },
+                {
+                  "label": "Scanning for time of cut",
+                  "value": "Find '10 AM to 2 PM'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Bridge Repair to Last Two Weeks, New Route Announced"
+                },
+                {
+                  "label": "Scanning for duration",
+                  "value": "Find 'Two Weeks'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Cultural Program at Temple Ground This Saturday Evening"
+                },
+                {
+                  "label": "Scanning for type of event",
+                  "value": "Find 'Cultural Program'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Heavy Rain Warning: Stay Indoors Today"
+                },
+                {
+                  "label": "Scanning for action to take",
+                  "value": "Find 'Stay Indoors'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "New Government Scheme for Small Farmers Launched"
+                },
+                {
+                  "label": "Scanning for who it benefits",
+                  "value": "Find 'Small Farmers'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Local Doctors Offer Free Eye Check-up Next Month"
+                },
+                {
+                  "label": "Scanning for what kind of check-up",
+                  "value": "Find 'Eye Check-up'."
+                },
+                {
+                  "label": "Headline",
+                  "value": "Festival Celebrations Begin on October 1st"
+                },
+                {
+                  "label": "Scanning for start date",
+                  "value": "Find 'October 1st'."
+                }
+              ],
+              "usage_examples": [
+                "Find the date quickly.",
+                "Look for the specific name.",
+                "Scan for numbers and places.",
+                "Don't read what you don't need.",
+                "This is for finding exact info."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "News Headline Structure",
+      "subtopics": [
+        {
+          "title": "Common Features of Headlines (Missing Words)",
+          "sections": [
+            {
+              "text": "News headlines are often written in a special short way. They usually miss small words like 'a', 'an', 'the', and 'is', 'am', 'are', 'was', 'were'. This helps to save space and make them quick to read. For example, instead of 'The farmer is happy', a headline might say 'Farmer Happy'. The meaning is still clear.",
+              "examples": [
+                {
+                  "label": "Missing 'be' verb",
+                  "value": "Farmer Happy (instead of The farmer is happy)"
+                },
+                {
+                  "label": "Missing 'articles'",
+                  "value": "New Well Dug (instead of A new well was dug)"
+                },
+                {
+                  "label": "Missing 'be' verb",
+                  "value": "Road Closed (instead of The road is closed)"
+                },
+                {
+                  "label": "Missing 'articles' and 'be' verb",
+                  "value": "Students Win Prize (instead of The students won a prize)"
+                },
+                {
+                  "label": "Missing 'be' verb and 'article'",
+                  "value": "Village Head Speaks (instead of The village head spoke)"
+                },
+                {
+                  "label": "Missing helping verb",
+                  "value": "Heavy Rain Expected (instead of Heavy rain is expected)"
+                },
+                {
+                  "label": "Missing 'be' verb",
+                  "value": "Crops Ready For Harvest (instead of The crops are ready for harvest)"
+                },
+                {
+                  "label": "Missing helping verb",
+                  "value": "New Bus Service Starts (instead of A new bus service will start)"
+                },
+                {
+                  "label": "Missing 'be' verb",
+                  "value": "Water Level Rises (instead of The water level is rising)"
+                },
+                {
+                  "label": "Missing 'be' verb",
+                  "value": "Temple Fair Begins (instead of The temple fair begins)"
+                },
+                {
+                  "label": "Missing 'to be' and 'articles'",
+                  "value": "Man Rescued From River (instead of A man was rescued from the river)"
+                },
+                {
+                  "label": "Missing 'be' verb and 'article'",
+                  "value": "Child Lost In Market (instead of A child was lost in the market)"
+                },
+                {
+                  "label": "Missing 'be' verb and preposition",
+                  "value": "Villagers Donate Blood (instead of The villagers are donating blood)"
+                },
+                {
+                  "label": "Missing 'be' verb and article",
+                  "value": "New School Building Planned (instead of A new school building is planned)"
+                },
+                {
+                  "label": "Missing 'will' and 'be'",
+                  "value": "Electricity Cut Tomorrow (instead of Electricity will be cut tomorrow)"
+                }
+              ],
+              "usage_examples": [
+                "Headlines are very short.",
+                "Small words are often missing.",
+                "'Is' and 'the' are often not there.",
+                "You still understand the meaning.",
+                "It makes them quick to read."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Strong Verbs in Headlines",
+          "sections": [
+            {
+              "text": "Headlines often use strong and active verbs. These verbs make the news sound important and direct. They tell you clearly what action has happened. For example, instead of 'The prices increased', a headline might say 'Prices SOAR'. 'Soar' is a much stronger verb. This makes the headline more impactful.",
+              "examples": [
+                {
+                  "label": "Strong verb",
+                  "value": "Rain LASHES Village (instead of Rain falls heavily)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Farmers PROTEST Scheme (instead of Farmers disagree with scheme)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Fire GUTS Huts (instead of Fire burns huts)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Prices SOAR (instead of Prices increase a lot)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Police NAB Thief (instead of Police catch thief)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Bridge COLLAPSES (instead of Bridge falls down)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Villagers DEMAND Water (instead of Villagers ask for water)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Students SHINE in Exams (instead of Students do very well in exams)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Disease GRIPS Region (instead of Disease affects region)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Project LAUNCHED (instead of Project is started)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Well RUNS DRY (instead of Well has no water)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "River OVERFLOWS Banks (instead of River fills up and goes over sides)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Donation DRIVE KICKS OFF (instead of Donation collection starts)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Crops WITHER in Heat (instead of Crops dry up in heat)"
+                },
+                {
+                  "label": "Strong verb",
+                  "value": "Official PLEDGES Support (instead of Official promises to help)"
+                }
+              ],
+              "usage_examples": [
+                "Headlines use powerful verbs.",
+                "They make the news sound strong.",
+                "Look for words like 'soar' or 'lash'.",
+                "These verbs show big actions.",
+                "They are chosen carefully."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

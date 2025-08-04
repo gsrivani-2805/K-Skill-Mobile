@@ -1,0 +1,557 @@
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 2,
+  "lesson_title": "Pronouns: Words That Replace Nouns",
+  "objectives": [
+    "Understand what pronouns are and why we use them.",
+    "Learn to use different types of pronouns like 'I', 'you', 'he', 'she', 'it', 'we', 'they'.",
+    "Practice replacing nouns with the correct pronouns in sentences."
+  ],
+  "topics": [
+    {
+      "title": "1. What is a Pronoun?",
+      "subtopics": [
+        {
+          "title": "1.1. Pronouns: Replacing Naming Words",
+          "sections": [
+            {
+              "text": "A pronoun is a small word that takes the place of a noun. We use pronouns so we don't have to repeat the same noun again and again in our sentences. This makes our sentences sound better and more natural.",
+              "examples": [
+                {
+                  "label": "Without Pronoun",
+                  "value": "**Ram** is a farmer. **Ram** works in the field."
+                },
+                {
+                  "label": "With Pronoun",
+                  "value": "**Ram** is a farmer. **He** works in the field."
+                },
+                {
+                  "label": "Without Pronoun",
+                  "value": "**Sita** is a student. **Sita** reads a book."
+                },
+                {
+                  "label": "With Pronoun",
+                  "value": "**Sita** is a student. **She** reads a book."
+                }
+              ],
+              "usage_examples": [
+                "My **mother** cooks food. **She** is very kind.",
+                "The **dog** barked loudly. **It** was hungry.",
+                "**Rahul and I** went to the market. **We** bought vegetables.",
+                "The **students** are playing. **They** are happy.",
+                "Give the **book** to **Ravi**. Give **it** to **him**.",
+                "My **father** is strong. **He** works in the field.",
+                "The **well** is deep. **It** provides water.",
+                "The **flowers** are beautiful. **They** smell sweet."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Personal Pronouns (Subject and Object)",
+      "subtopics": [
+        {
+          "title": "2.1. Subject Pronouns: Who Does the Action?",
+          "sections": [
+            {
+              "text": "Subject pronouns tell us who or what is doing the action in a sentence. They usually come at the beginning of the sentence or before the action word (verb).",
+              "examples": [
+                {
+                  "label": "I",
+                  "value": "used for yourself. Example: **I** am a student."
+                },
+                {
+                  "label": "You",
+                  "value": "used for the person you are talking to. Example: **You** are my friend."
+                },
+                {
+                  "label": "He",
+                  "value": "used for one boy or man. Example: **He** is a farmer."
+                },
+                {
+                  "label": "She",
+                  "value": "used for one girl or woman. Example: **She** is my teacher."
+                },
+                {
+                  "label": "It",
+                  "value": "used for one animal or one thing. Example: **It** is a book. (The cow gives milk. **It** is black.)"
+                },
+                {
+                  "label": "We",
+                  "value": "used for yourself and others. Example: **We** play together."
+                },
+                {
+                  "label": "They",
+                  "value": "used for many people, animals, or things. Example: **They** are my classmates. (The birds are flying. **They** are high.)"
+                }
+              ],
+              "usage_examples": [
+                "**I** like to read stories.",
+                "**You** are learning English well.",
+                "**He** goes to the market every morning.",
+                "**She** helps her mother in the kitchen.",
+                "The school bell rang. **It** was time for lunch.",
+                "**We** live in a small village.",
+                "The farmers are happy. **They** had a good harvest.",
+                "**It** is a beautiful flower.",
+                "My sister and I are going. **We** are excited.",
+                "The students are studying. **They** want to pass the exam."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Object Pronouns: Who Receives the Action?",
+          "sections": [
+            {
+              "text": "Object pronouns tell us who or what receives the action of the verb or comes after a preposition (like 'to', 'for', 'with'). They usually come after the action word (verb).",
+              "examples": [
+                {
+                  "label": "Me",
+                  "value": "Example: Give the book to **me**."
+                },
+                {
+                  "label": "You",
+                  "value": "Example: I will help **you**."
+                },
+                {
+                  "label": "Him",
+                  "value": "Example: Tell **him** to come here."
+                },
+                {
+                  "label": "Her",
+                  "value": "Example: We saw **her** at the fair."
+                },
+                {
+                  "label": "It",
+                  "value": "Example: I picked **it** up. (referring to a fallen fruit)"
+                },
+                {
+                  "label": "Us",
+                  "value": "Example: The teacher called **us**."
+                },
+                {
+                  "label": "Them",
+                  "value": "Example: I played with **them**."
+                }
+              ],
+              "usage_examples": [
+                "My mother gave **me** a sweet.",
+                "The teacher will teach **you** a new lesson.",
+                "I saw Ram. I talked to **him**.",
+                "My sister is crying. Console **her**.",
+                "The ball fell. Pick **it** up.",
+                "Our friends are waiting for **us**.",
+                "Give the books to **them**.",
+                "Come with **me** to the market.",
+                "Can you help **him** carry the water?"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/p"
+              },
+              "table": {
+                "title": "Subject vs. Object Pronouns",
+                "headers": ["Subject Pronoun", "Object Pronoun", "Example Sentence"],
+                "rows": [
+                  ["I", "Me", "**I** saw **him**."],
+                  ["You", "You", "**You** help **me**."],
+                  ["He", "Him", "**He** gave **her** a gift."],
+                  ["She", "Her", "**She** met **him**."],
+                  ["It", "It", "**It** hit **it** (the ball)."],
+                  ["We", "Us", "**We** saw **them**."],
+                  ["They", "Them", "**They** are waiting for **us**."]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Possessive Pronouns: Showing Ownership",
+      "subtopics": [
+        {
+          "title": "3.1. Showing Whose It Is",
+          "sections": [
+            {
+              "text": "Possessive pronouns tell us who owns something or to whom something belongs. They show 'possession'. Note: These are often called possessive adjectives because they come before a noun.",
+              "examples": [
+                {
+                  "label": "My",
+                  "value": "Belonging to me. Example: This is **my** book."
+                },
+                {
+                  "label": "Your",
+                  "value": "Belonging to you. Example: Is this **your** pencil?"
+                },
+                {
+                  "label": "His",
+                  "value": "Belonging to him (a boy/man). Example: That is **his** bag."
+                },
+                {
+                  "label": "Her",
+                  "value": "Belonging to her (a girl/woman). Example: **Her** sari is new."
+                },
+                {
+                  "label": "Its",
+                  "value": "Belonging to it (an animal/thing). Example: The dog wagged **its** tail."
+                },
+                {
+                  "label": "Our",
+                  "value": "Belonging to us. Example: This is **our** village."
+                },
+                {
+                  "label": "Their",
+                  "value": "Belonging to them. Example: **Their** house is big."
+                }
+              ],
+              "usage_examples": [
+                "This is **my** school bag.",
+                "Is that **your** bicycle?",
+                "Ravi shared **his** lunch with me.",
+                "Maya loves **her** pet cat.",
+                "The bird built **its** nest on the tree.",
+                "This is **our** classroom.",
+                "The children put away **their** toys.",
+                "**My** father is a farmer.",
+                "Please give **your** notebook to the teacher.",
+                "The cow gives **its** milk to us.",
+                "We are proud of **our** village.",
+                "The students completed **their** homework."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/p"
+              },
+              "table": {
+                "title": "Personal Pronouns and Possessive Adjectives",
+                "headers": ["Personal Pronoun (Subject)", "Possessive Adjective"],
+                "rows": [
+                  ["I", "My"],
+                  ["You", "Your"],
+                  ["He", "His"],
+                  ["She", "Her"],
+                  ["It", "Its"],
+                  ["We", "Our"],
+                  ["They", "Their"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Reflexive and Intensive Pronouns",
+      "subtopics": [
+        {
+          "title": "4.1. Reflexive Pronouns: Action Back to the Subject",
+          "sections": [
+            {
+              "text": "Reflexive pronouns are used when the subject and the object of a sentence are the same person or thing. The action 'reflects' back on the doer. They end in '-self' (for one person/thing) or '-selves' (for many).",
+              "examples": [
+                {
+                  "label": "Myself",
+                  "value": "I saw **myself** in the mirror."
+                },
+                {
+                  "label": "Himself",
+                  "value": "He taught **himself** to read."
+                },
+                {
+                  "label": "Herself",
+                  "value": "She hurt **herself** while playing."
+                },
+                {
+                  "label": "Themselves",
+                  "value": "The children cleaned the room **themselves**."
+                }
+              ],
+              "usage_examples": [
+                "I prepared the food **myself**.",
+                "You should take care of **yourself**.",
+                "He fell down and hurt **himself**.",
+                "The cat is cleaning **itself**.",
+                "We built this house **ourselves**.",
+                "They have to cook for **themselves**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/p"
+              },
+              "table": {
+                "title": "Subject and Reflexive Pronouns",
+                "headers": ["Singular", "Plural"],
+                "rows": [
+                  ["I -> myself", "We -> ourselves"],
+                  ["You -> yourself", "You -> yourselves"],
+                  ["He -> himself", "They -> themselves"],
+                  ["She -> herself", ""],
+                  ["It -> itself", ""]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "4.2. Intensive Pronouns: For Emphasis",
+          "sections": [
+            {
+              "text": "Intensive pronouns look exactly the same as reflexive pronouns, but their job is to add emphasis to the subject. They show that the subject did the action personally. If you remove an intensive pronoun, the sentence still makes sense.",
+              "examples": [
+                {
+                  "label": "Myself for emphasis",
+                  "value": "I **myself** saw the farmer plow the field. (Meaning: I saw it with my own eyes.)"
+                },
+                {
+                  "label": "Herself for emphasis",
+                  "value": "The teacher **herself** told us the story. (Meaning: Not someone else, but the teacher.)"
+                },
+                {
+                  "label": "Themselves for emphasis",
+                  "value": "The students **themselves** decorated the classroom."
+                }
+              ],
+              "usage_examples": [
+                "The village headman **himself** came to the meeting.",
+                "I will go to the market **myself**.",
+                "She **herself** cooked the entire meal.",
+                "We **ourselves** repaired the broken fence.",
+                "The children **themselves** planned the game."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/pimages/baimages/basic/module-3/lesson-2/psic/module-3/lesson-1/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Demonstrative Pronouns: Pointing Out",
+      "subtopics": [
+        {
+          "title": "5.1. Pointing to Things Near and Far",
+          "sections": [
+            {
+              "text": "Demonstrative pronouns are used to point to specific things or people. They tell us if something is near or far, and if it is singular (one) or plural (more than one).",
+              "examples": [
+                {
+                  "label": "This",
+                  "value": "Used for one thing that is near. Example: **This** is my pen."
+                },
+                {
+                  "label": "That",
+                  "value": "Used for one thing that is far. Example: **That** is my house (pointing far away)."
+                },
+                {
+                  "label": "These",
+                  "value": "Used for many things that are near. Example: **These** are my books."
+                },
+                {
+                  "label": "Those",
+                  "value": "Used for many things that are far. Example: **Those** are our cows (pointing to cows in a distant field)."
+                }
+              ],
+              "usage_examples": [
+                "**This** is a red apple.",
+                "Look at **that** bird flying high.",
+                "**These** are fresh vegetables from our farm.",
+                "Who are **those** children playing there?",
+                "Is **this** your ruler?",
+                "What is **that** noise?",
+                "Take **these** flowers to your mother.",
+                "Can you see **those** mountains in the distance?",
+                "**This** is my favorite story.",
+                "**That** well is very old."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/p"
+              },
+              "table": {
+                "title": "Demonstrative Pronouns: Near vs. Far",
+                "headers": ["Near", "Far"],
+                "rows": [
+                  ["This (one)", "That (one)"],
+                  ["These (many)", "Those (many)"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Interrogative Pronouns: Asking Questions",
+      "subtopics": [
+        {
+          "title": "6.1. The Question Words",
+          "sections": [
+            {
+              "text": "Interrogative pronouns are used to ask questions. They stand for the thing or person that the question is about.",
+              "examples": [
+                {
+                  "label": "Who",
+                  "value": "Used to ask about a person. Example: **Who** is your teacher?"
+                },
+                {
+                  "label": "Whom",
+                  "value": "Used to ask about a person (as an object). Example: **Whom** did you see?"
+                },
+                {
+                  "label": "What",
+                  "value": "Used to ask about a thing or action. Example: **What** is in your bag?"
+                },
+                {
+                  "label": "Which",
+                  "value": "Used to ask about a choice. Example: **Which** is your house?"
+                },
+                {
+                  "label": "Whose",
+                  "value": "Used to ask about ownership. Example: **Whose** book is this?"
+                }
+              ],
+              "usage_examples": [
+                "**Who** is coming to the village fair?",
+                "**What** did the farmer grow in his field?",
+                "**Which** of these cows is yours?",
+                "**Whose** tractor is that?",
+                "**Whom** should I give this letter to?",
+                "**What** is your name?",
+                "**Who** told you that story?"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/pimages/baimages/basic/module-3/lesson-2/psic/module-3/lesson-1/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7. Relative Pronouns: Connecting Ideas",
+      "subtopics": [
+        {
+          "title": "7.1. Joining Sentences",
+          "sections": [
+            {
+              "text": "Relative pronouns connect a clause (a part of a sentence) to a noun. They introduce extra information about that noun. The most common ones are who, whom, whose, which, and that.",
+              "examples": [
+                {
+                  "label": "Who (for people)",
+                  "value": "The farmer **who** works hard is successful."
+                },
+                {
+                  "label": "Which (for things/animals)",
+                  "value": "The cow **which** is black gives a lot of milk."
+                },
+                {
+                  "label": "That (for people or things)",
+                  "value": "This is the book **that** I lost."
+                },
+                {
+                  "label": "Whose (for possession)",
+                  "value": "He is the boy **whose** father is the village headman."
+                }
+              ],
+              "usage_examples": [
+                "I met the man **who** lives next door.",
+                "This is the school **that** my father built.",
+                "The dog, **which** was barking, is friendly.",
+                "I know the girl **whose** mother is a teacher.",
+                "The stories **that** my grandmother tells are very interesting."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/pimages/baimages/basic/module-3/lesson-2/psic/module-3/lesson-1/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8. Indefinite Pronouns: Not Specific",
+      "subtopics": [
+        {
+          "title": "8.1. Referring to General People or Things",
+          "sections": [
+            {
+              "text": "Indefinite pronouns do not refer to any specific person, thing, or amount. They are vague and 'indefinite'.",
+              "examples": [
+                {
+                  "label": "Referring to People",
+                  "value": "anyone, everyone, someone, nobody, somebody"
+                },
+                {
+                  "label": "Referring to Things",
+                  "value": "anything, everything, something, nothing"
+                },
+                {
+                  "label": "Example Sentence 1",
+                  "value": "**Everyone** is present today."
+                },
+                {
+                  "label": "Example Sentence 2",
+                  "value": "I want to eat **something**."
+                },
+                {
+                  "label": "Example Sentence 3",
+                  "value": "**Nobody** was in the classroom."
+                }
+              ],
+              "usage_examples": [
+                "**Someone** is at the door.",
+                "Did **anyone** see my cow?",
+                "**Everybody** in the village helped to clean the well.",
+                "I have **nothing** to do.",
+                "Please give me **something** to drink.",
+                "Is **anybody** home?",
+                "She knows **everything** about farming."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/pimages/baimages/basic/module-3/lesson-2/psic/module-3/lesson-1/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "9. Reciprocal Pronouns: Mutual Action",
+      "subtopics": [
+        {
+          "title": "9.1. Each Other, One Another",
+          "sections": [
+            {
+              "text": "Reciprocal pronouns express a mutual relationship or action. We use them when two or more people do the same thing to each other.",
+              "examples": [
+                {
+                  "label": "Each other (usually for two people)",
+                  "value": "The two brothers help **each other**."
+                },
+                {
+                  "label": "One another (usually for more than two people)",
+                  "value": "The villagers greet **one another** during the festival."
+                }
+              ],
+              "usage_examples": [
+                "My friend and I share our books with **each other**.",
+                "The players in the team support **one another** during the match."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-2/pimages/baimages/basic/module-3/lesson-2/psic/module-3/lesson-1/p1"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

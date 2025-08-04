@@ -1,0 +1,568 @@
+{
+  "level": "Advanced",
+  "module": "Grammar Mastery",
+  "lesson_number": 3,
+  "lesson_title": "Figurative Speeches",
+  "objectives": [
+    "Identify different types of figurative language",
+    "Understand the literal vs. figurative meaning of phrases",
+    "Use figurative language to make writing more descriptive and engaging",
+    "Recognize figurative language in stories and poems"
+  ],
+  "topics": [
+    {
+      "title": "Idioms: Hidden Meanings",
+      "subtopics": [
+        {
+          "title": "What are Idioms?",
+          "sections": [
+            {
+              "text": "An idiom is a common phrase or expression whose meaning cannot be understood from the literal meaning of its individual words. The meaning is figurative and understood through common use. For example, 'it's raining cats and dogs' doesn't mean animals are falling from the sky; it means it's raining very heavily.",
+              "related_words": ["phrase", "expression", "figurative", "non-literal", "saying"],
+              "examples": [
+                {
+                  "label": "It's raining cats and dogs.",
+                  "value": "We cancelled the trip to the market because it was raining cats and dogs."
+                },
+                {
+                  "label": "Break a leg.",
+                  "value": "Before his performance, I told my friend, 'Break a leg!'"
+                },
+                {
+                  "label": "Bite the bullet.",
+                  "value": "He had to bite the bullet and work extra hours to finish the harvest."
+                },
+                {
+                  "label": "Piece of cake.",
+                  "value": "For the strong farmer, lifting the heavy sack was a piece of cake."
+                },
+                {
+                  "label": "Once in a blue moon.",
+                  "value": "We only go to the big city once in a blue moon."
+                },
+                {
+                  "label": "Hit the books.",
+                  "value": "I have an exam tomorrow, so I need to hit the books tonight."
+                },
+                {
+                  "label": "Spill the beans.",
+                  "value": "My little sister accidentally spilled the beans about the surprise party."
+                },
+                {
+                  "label": "Cost an arm and a leg.",
+                  "value": "Buying a new tractor can cost an arm and a leg."
+                },
+                {
+                  "label": "Under the weather.",
+                  "value": "I am feeling a bit under the weather today, so I will rest."
+                },
+                {
+                  "label": "See eye to eye.",
+                  "value": "The two brothers did not see eye to eye on how to divide the land."
+                },
+                {
+                  "label": "Hit the nail on the head.",
+                  "value": "You hit the nail on the head when you said the soil needs more water."
+                },
+                {
+                  "label": "Let the cat out of the bag.",
+                  "value": "He let the cat out of the bag and told everyone about our secret plan."
+                },
+                {
+                  "label": "On the ball.",
+                  "value": "Our village leader is always on the ball when it comes to solving problems."
+                },
+                {
+                  "label": "The best of both worlds.",
+                  "value": "Living in a village near the city gives you the best of both worlds."
+                },
+                {
+                  "label": "When pigs fly.",
+                  "value": "He said he would clean his room when pigs fly, meaning never."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p1.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Metaphor: Direct Comparison",
+      "subtopics": [
+        {
+          "title": "What is a Metaphor?",
+          "sections": [
+            {
+              "text": "A metaphor is a figure of speech that directly compares two unlike things without using 'like' or 'as'. It says something is something else to create a powerful image. For example, 'He is a lion in the battle' means he is very brave.",
+              "related_words": ["is", "are", "was", "were", "comparison", "symbol"],
+              "examples": [
+                {
+                  "label": "He is a shining star.",
+                  "value": "In our school, the top student is a shining star."
+                },
+                {
+                  "label": "The world is a stage.",
+                  "value": "The old man believed that the world is a stage, and we are all actors."
+                },
+                {
+                  "label": "Her voice was music.",
+                  "value": "When she sang at the festival, her voice was music to everyone's ears."
+                },
+                {
+                  "label": "Life is a journey.",
+                  "value": "My grandfather always said that life is a journey with many roads."
+                },
+                {
+                  "label": "He has a heart of stone.",
+                  "value": "The cruel landlord has a heart of stone."
+                },
+                {
+                  "label": "The classroom was a zoo.",
+                  "value": "When the teacher left, the classroom was a zoo."
+                },
+                {
+                  "label": "The river was a silver ribbon.",
+                  "value": "From the top of the hill, the river was a silver ribbon in the moonlight."
+                },
+                {
+                  "label": "His words were a soothing balm.",
+                  "value": "After the argument, his kind words were a soothing balm."
+                },
+                {
+                  "label": "She is a walking encyclopedia.",
+                  "value": "Our teacher is a walking encyclopedia; she knows everything."
+                },
+                {
+                  "label": "The farmer is the backbone of the country.",
+                  "value": "It is often said that the farmer is the backbone of the country."
+                },
+                {
+                  "label": "His mind is a computer.",
+                  "value": "He solves math problems so fast; his mind is a computer."
+                },
+                {
+                  "label": "The clouds are cotton balls.",
+                  "value": "The fluffy white clouds are cotton balls in the sky."
+                },
+                {
+                  "label": "The politician's promises were a house of cards.",
+                  "value": "His promises were a house of cards, ready to fall at any moment."
+                },
+                {
+                  "label": "The calm lake was a mirror.",
+                  "value": "In the morning, the calm lake was a mirror reflecting the mountains."
+                },
+                {
+                  "label": "Time is money.",
+                  "value": "You must not waste your day; remember that time is money."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p2.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Personification: Giving Life to Objects",
+      "subtopics": [
+        {
+          "title": "What is Personification?",
+          "sections": [
+            {
+              "text": "Personification is a figure of speech where human qualities, actions, or feelings are given to inanimate objects, animals, or ideas. It makes the object seem like a person. For example, 'The wind whispered secrets' makes the wind seem like it can talk.",
+              "related_words": ["human qualities", "inanimate object", "action", "feeling"],
+              "examples": [
+                {
+                  "label": "The wind whispered through the trees.",
+                  "value": "As evening fell, the wind whispered through the trees."
+                },
+                {
+                  "label": "The sun smiled down on us.",
+                  "value": "It was a beautiful day, and the sun smiled down on the fields."
+                },
+                {
+                  "label": "My alarm clock yells at me.",
+                  "value": "My alarm clock yells at me to wake up every morning."
+                },
+                {
+                  "label": "The old house groaned in the wind.",
+                  "value": "During the storm, the old, empty house groaned."
+                },
+                {
+                  "label": "Lightning danced across the sky.",
+                  "value": "We watched as the lightning danced across the dark sky."
+                },
+                {
+                  "label": "The thirsty ground drank the rain.",
+                  "value": "After a long dry spell, the thirsty ground drank the rain happily."
+                },
+                {
+                  "label": "Opportunity was knocking on his door.",
+                  "value": "With the new job offer, opportunity was knocking on his door."
+                },
+                {
+                  "label": "The moon played hide and seek with the clouds.",
+                  "value": "The moon played hide and seek with the clouds all night."
+                },
+                {
+                  "label": "The leaves waved in the wind.",
+                  "value": "The tall trees stood by the river, and their leaves waved in the wind."
+                },
+                {
+                  "label": "The fire ate the dry wood hungrily.",
+                  "value": "We watched as the campfire ate the dry wood."
+                },
+                {
+                  "label": "The flowers were begging for water.",
+                  "value": "The flowers in the garden were begging for water in the hot sun."
+                },
+                {
+                  "label": "The chair complained when I sat on it.",
+                  "value": "The old wooden chair complained with a creak when I sat on it."
+                },
+                {
+                  "label": "The tired old tractor coughed and started.",
+                  "value": "The tired old tractor finally coughed and started with a loud noise."
+                },
+                {
+                  "label": "The stars winked at me from the night sky.",
+                  "value": "I looked up and felt as if the stars winked at me."
+                },
+                {
+                  "label": "The angry clouds gathered in the sky.",
+                  "value": "Before the storm, the angry clouds gathered and turned the sky dark."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p3.webp"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Simile: Comparing with 'Like' or 'As'",
+      "subtopics": [
+        {
+          "title": "What is a Simile?",
+          "sections": [
+            {
+              "text": "A simile is a figure of speech that directly compares two different things to create a more vivid description. The comparison is made using the words 'like' or 'as'. It helps the reader or listener to better understand or imagine what is being described by linking it to something familiar.",
+              "related_words": ["like", "as", "compare", "similar to"],
+              "examples": [
+                {
+                  "label": "As brave as a lion.",
+                  "value": "The soldier who protected the village was as brave as a lion."
+                },
+                {
+                  "label": "As white as snow.",
+                  "value": "After the good wash, his kurta was as white as snow."
+                },
+                {
+                  "label": "Sings like an angel.",
+                  "value": "The little girl in our village sings like an angel."
+                },
+                {
+                  "label": "As cold as ice.",
+                  "value": "The water from the well in winter is as cold as ice."
+                },
+                {
+                  "label": "Runs like the wind.",
+                  "value": "The winning bull in the race runs like the wind."
+                },
+                {
+                  "label": "As busy as a bee.",
+                  "value": "During the harvest season, every farmer is as busy as a bee."
+                },
+                {
+                  "label": "Shines like a diamond.",
+                  "value": "The star in the clear night sky shines like a diamond."
+                },
+                {
+                  "label": "As strong as an ox.",
+                  "value": "He can lift heavy sacks of grain; he is as strong as an ox."
+                },
+                {
+                  "label": "Fought like cats and dogs.",
+                  "value": "The two brothers always fought like cats and dogs over small things."
+                },
+                {
+                  "label": "As sweet as honey.",
+                  "value": "The mangoes from our tree are as sweet as honey."
+                },
+                {
+                  "label": "As light as a feather.",
+                  "value": "The cotton ball is as light as a feather."
+                },
+                {
+                  "label": "As clear as crystal.",
+                  "value": "The water in the mountain stream is as clear as crystal."
+                },
+                {
+                  "label": "Eats like a bird.",
+                  "value": "My little sister is very thin because she eats like a bird."
+                },
+                {
+                  "label": "As proud as a peacock.",
+                  "value": "When his son won the prize, the father was as proud as a peacock."
+                },
+                {
+                  "label": "As wise as an owl.",
+                  "value": "Our village elder is as wise as an owl and gives good advice."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p4.png"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Hyperbole: Exaggeration for Effect",
+      "subtopics": [
+        {
+          "title": "What is Hyperbole?",
+          "sections": [
+            {
+              "text": "Hyperbole is the use of exaggeration as a rhetorical device or figure of speech. It is not meant to be taken literally. Hyperbole is used to emphasize a point or to create a strong impression. For example, 'This bag weighs a ton' does not mean the bag actually weighs a ton, but that it is very heavy.",
+              "related_words": ["exaggeration", "emphasis", "overstatement", "not literal"],
+              "examples": [
+                {
+                  "label": "I'm so hungry I could eat a horse.",
+                  "value": "After working all day in the field, I was so hungry I could eat a horse."
+                },
+                {
+                  "label": "This bag weighs a ton.",
+                  "value": "Please help me with this bag of rice; it weighs a ton."
+                },
+                {
+                  "label": "I've told you a million times.",
+                  "value": "I've told you a million times not to play near the well."
+                },
+                {
+                  "label": "He is older than the hills.",
+                  "value": "Our great-grandfather is so old; he is older than the hills."
+                },
+                {
+                  "label": "I walked a thousand miles to get here.",
+                  "value": "My feet are hurting; it feels like I walked a thousand miles."
+                },
+                {
+                  "label": "She cried a river of tears.",
+                  "value": "When her goat was lost, she cried a river of tears."
+                },
+                {
+                  "label": "I nearly died of embarrassment.",
+                  "value": "When I forgot my lines on stage, I nearly died of embarrassment."
+                },
+                {
+                  "label": "The whole world was watching me.",
+                  "value": "During my speech, I felt so nervous as if the whole world was watching me."
+                },
+                {
+                  "label": "It took forever to finish the work.",
+                  "value": "Cleaning the big community hall took forever."
+                },
+                {
+                  "label": "He runs faster than the speed of light.",
+                  "value": "That boy is the fastest runner in the village; he runs faster than the speed of light."
+                },
+                {
+                  "label": "My dad is a superman.",
+                  "value": "My dad can fix anything; he is a superman."
+                },
+                {
+                  "label": "The noise was deafening.",
+                  "value": "The sound of the tractor was deafening."
+                },
+                {
+                  "label": "I have a mountain of homework.",
+                  "value": "The teacher gave us a mountain of homework for the holidays."
+                },
+                {
+                  "label": "The sun was a furnace in the sky.",
+                  "value": "During the summer afternoon, the sun was a furnace in the sky."
+                },
+                {
+                  "label": "I could sleep for a year.",
+                  "value": "I am so tired from the journey; I could sleep for a year."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p5.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Alliteration: Repetition of Sounds",
+      "subtopics": [
+        {
+          "title": "What is Alliteration?",
+          "sections": [
+            {
+              "text": "Alliteration is a literary device where two or more words in a phrase or line of poetry share the same beginning consonant sound. The words may be adjacent or separated by other words. It is used to create a musical or rhythmic effect. For example, 'She sells seashells by the seashore'.",
+              "related_words": ["repetition", "sound", "consonant", "rhythm", "tongue twister"],
+              "examples": [
+                {
+                  "label": "Peter Piper picked a peck of pickled peppers.",
+                  "value": "We practiced saying the tongue twister: Peter Piper picked a peck of pickled peppers."
+                },
+                {
+                  "label": "She sells seashells by the seashore.",
+                  "value": "The famous alliteration goes, 'She sells seashells by the seashore'."
+                },
+                {
+                  "label": "Lazy lizards lie languidly.",
+                  "value": "Under the hot sun, lazy lizards lie languidly on the rocks."
+                },
+                {
+                  "label": "The beautiful butterfly flew freely.",
+                  "value": "We saw a beautiful butterfly which flew freely from flower to flower."
+                },
+                {
+                  "label": "Big brown bears balanced on a ball.",
+                  "value": "In the story, the big brown bears balanced on a ball."
+                },
+                {
+                  "label": "Wild winds whipped through the willows.",
+                  "value": "During the storm, wild winds whipped through the willow trees near the river."
+                },
+                {
+                  "label": "Go and gather the green grass.",
+                  "value": "My mother told me to go and gather the green grass for the cow."
+                },
+                {
+                  "label": "Tiny Tim took the toy.",
+                  "value": "The small boy, Tiny Tim, took the toy truck."
+                },
+                {
+                  "label": "Sheep should sleep in a shed.",
+                  "value": "The farmer knew that his sheep should sleep in a shed at night."
+                },
+                {
+                  "label": "The clever cat crept cautiously.",
+                  "value": "The clever cat crept cautiously towards the sleeping mouse."
+                },
+                {
+                  "label": "Deep down in the dark, a diamond gleamed.",
+                  "value": "The story said that deep down in the dark cave, a diamond gleamed."
+                },
+                {
+                  "label": "Friendly farmers feed their flock.",
+                  "value": "In our village, friendly farmers feed their flock of chickens every morning."
+                },
+                {
+                  "label": "Round the rugged rock the ragged rascal ran.",
+                  "value": "He tried to say the difficult sentence, 'Round the rugged rock the ragged rascal ran'."
+                },
+                {
+                  "label": "Sweet songs of sparrows filled the air.",
+                  "value": "In the morning, the sweet songs of sparrows filled the air."
+                },
+                {
+                  "label": "Walter wondered where Winnie was.",
+                  "value": "Walter wondered where Winnie was hiding."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p6.jpg"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Onomatopoeia: Sound Words",
+      "subtopics": [
+        {
+          "title": "What is Onomatopoeia?",
+          "sections": [
+            {
+              "text": "Onomatopoeia is the process of creating a word that phonetically imitates, resembles, or suggests the sound that it describes. These words make a description more expressive and interesting. For example, 'buzz', 'hiss', 'thump', 'oink' are onomatopoeic words.",
+              "related_words": ["sound", "imitate", "echo", "noise", "word"],
+              "examples": [
+                {
+                  "label": "The bee buzzed by my ear.",
+                  "value": "While walking in the garden, a big bee buzzed by my ear."
+                },
+                {
+                  "label": "The water gushed out of the pipe.",
+                  "value": "When the pipe broke, the water gushed out onto the road."
+                },
+                {
+                  "label": "The clock went tick-tock.",
+                  "value": "In the quiet night, I could only hear the old clock go tick-tock."
+                },
+                {
+                  "label": "The snake hissed at the dog.",
+                  "value": "The snake hissed angrily before it slithered away."
+                },
+                {
+                  "label": "The door creaked open.",
+                  "value": "The old wooden door creaked as I pushed it open."
+                },
+                {
+                  "label": "The thunder boomed in the distance.",
+                  "value": "We knew a storm was coming because the thunder boomed loudly."
+                },
+                {
+                  "label": "The sack of potatoes fell with a thump.",
+                  "value": "He dropped the heavy sack, and it fell with a loud thump."
+                },
+                {
+                  "label": "The cow went 'moo' in the shed.",
+                  "value": "The hungry cow started to moo loudly in the shed."
+                },
+                {
+                  "label": "The leaves rustled in the wind.",
+                  "value": "I love the sound of dry leaves as they rustled in the autumn wind."
+                },
+                {
+                  "label": "The fire crackled in the hearth.",
+                  "value": "On a cold night, we sat near the fire as it crackled warmly."
+                },
+                {
+                  "label": "The dog barked 'woof woof' at the stranger.",
+                  "value": "Our dog always barks 'woof woof' when someone new comes to the house."
+                },
+                {
+                  "label": "The rain pitter-pattered on the tin roof.",
+                  "value": "I love listening to the rain as it pitter-pattered on our roof."
+                },
+                {
+                  "label": "The phone rang with a loud 'trrring'.",
+                  "value": "Suddenly, the phone rang with a loud 'trrring' and woke everyone up."
+                },
+                {
+                  "label": "He splashed through the puddle.",
+                  "value": "The little boy laughed as he splashed through the big puddle."
+                },
+                {
+                  "label": "The car went 'vroom' down the road.",
+                  "value": "The new car went 'vroom' as it sped away."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-1/lesson-3/p7.webp"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

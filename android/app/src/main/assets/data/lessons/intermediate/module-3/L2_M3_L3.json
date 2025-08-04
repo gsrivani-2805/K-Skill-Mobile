@@ -1,0 +1,931 @@
+{
+  "level": "Intermediate",
+  "module": "Listening & Reading",
+  "lesson_number": 3,
+  "lesson_title": "Folk Tales (Reading)",
+  "objectives": [
+    "Read and understand the meaning of folk tales",
+    "Identify important parts of a story, like characters and plot",
+    "Appreciate cultural stories and their lessons"
+  ],
+  "topics": [
+    {
+      "title": "Understanding Folk Tales",
+      "subtopics": [
+        {
+          "title": "What are Folk Tales?",
+          "sections": [
+            {
+              "text": "Folk tales are old stories that people have told for many, many years. They are passed down from grandfathers to fathers, and from mothers to children, by word of mouth. These stories often teach us a lesson, or they tell us about the ways of living, culture, and beliefs of a village or a group of people. They are full of simple wisdom and entertainment.",
+              "examples": [
+                {
+                  "label": "Told by elders",
+                  "value": "Grandmother often tells us folk tales under the banyan tree."
+                },
+                {
+                  "label": "Passed down generations",
+                  "value": "These stories about clever animals have been told for hundreds of years."
+                },
+                {
+                  "label": "Traditional stories",
+                  "value": "Our village has many folk tales about brave kings and wise ministers."
+                },
+                {
+                  "label": "Stories with morals",
+                  "value": "Most folk tales teach us to be honest and kind."
+                },
+                {
+                  "label": "Part of culture",
+                  "value": "Folk tales are an important part of our village culture."
+                },
+                {
+                  "label": "Simple entertainment",
+                  "value": "Listening to folk tales is a great way to pass time in the evening."
+                },
+                {
+                  "label": "About everyday life",
+                  "value": "Some folk tales describe the daily life of farmers and villagers long ago."
+                },
+                {
+                  "label": "About nature",
+                  "value": "Many stories talk about the river, mountains, and forests around us."
+                },
+                {
+                  "label": "Imaginary characters",
+                  "value": "Some tales have talking animals or magical beings."
+                },
+                {
+                  "label": "Historical connection (often not true history)",
+                  "value": "These old stories tell us how people thought and lived in the past."
+                },
+                {
+                  "label": "Source of wisdom",
+                  "value": "Folk tales carry the wisdom of our ancestors."
+                },
+                {
+                  "label": "Community bonding",
+                  "value": "Sharing folk tales brings people in the village closer."
+                },
+                {
+                  "label": "Explain natural phenomena",
+                  "value": "Some folk tales explain why the sun rises or why rain falls."
+                },
+                {
+                  "label": "Inspiring stories",
+                  "value": "Stories of brave people inspire us to be courageous."
+                },
+                {
+                  "label": "Stories about animals",
+                  "value": "There is a famous folk tale about a clever rabbit and a foolish lion."
+                }
+              ],
+              "usage_examples": [
+                "My grandma loves telling folk tales.",
+                "Folk tales are very old stories.",
+                "They teach us good lessons.",
+                "We enjoy listening to them.",
+                "These stories are part of our history."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Story Structure: How Tales are Built",
+      "subtopics": [
+        {
+          "title": "Beginning (Introduction)",
+          "sections": [
+            {
+              "text": "The beginning of a folk tale introduces us to the story. It tells us 'who' the main characters are, 'where' the story takes place (the setting, like a village or forest), and 'when' it happens (often 'once upon a time'). It sets the stage for what is to come. This part helps us imagine the world of the story.",
+              "examples": [
+                {
+                  "label": "Traditional opening",
+                  "value": "Once upon a time, in a small village, lived a poor farmer named Raju."
+                },
+                {
+                  "label": "Character introduction",
+                  "value": "There was a clever fox who lived in a dense forest."
+                },
+                {
+                  "label": "Setting the scene",
+                  "value": "Near a big river, in a peaceful village, stood an ancient temple."
+                },
+                {
+                  "label": "Introducing a problem (early)",
+                  "value": "Long ago, the villagers faced a big problem: their well had dried up."
+                },
+                {
+                  "label": "Simple start",
+                  "value": "In a certain land, there was a king who loved his people."
+                },
+                {
+                  "label": "Introducing main person and place",
+                  "value": "In the heart of the jungle lived a brave boy named Mohan."
+                },
+                {
+                  "label": "Time introduction",
+                  "value": "Many years ago, when animals could talk, a hungry wolf met a goat."
+                },
+                {
+                  "label": "Introducing a family",
+                  "value": "A happy family of five lived in a small hut by the lake."
+                },
+                {
+                  "label": "Setting a mood",
+                  "value": "On a dark and stormy night, an old woman sat alone in her house."
+                },
+                {
+                  "label": "Introducing a group",
+                  "value": "A group of friends from the village decided to go on an adventure."
+                },
+                {
+                  "label": "Introducing a special item",
+                  "value": "There was once a magical pot that could cook endless food."
+                },
+                {
+                  "label": "Simple character intro",
+                  "value": "She was a kind girl who always helped others."
+                },
+                {
+                  "label": "General setting",
+                  "value": "In a land far away, where mountains touched the sky..."
+                },
+                {
+                  "label": "Daily life intro",
+                  "value": "Every morning, the villagers would gather near the well to fetch water."
+                },
+                {
+                  "label": "Start with weather",
+                  "value": "It was a hot summer day when a thirsty crow flew over the fields."
+                }
+              ],
+              "usage_examples": [
+                "The beginning tells us who is in the story.",
+                "It shows where the story happens.",
+                "It often starts with 'Once upon a time'.",
+                "We meet the main people here.",
+                "This part sets the scene."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Middle (Problem and Events)",
+          "sections": [
+            {
+              "text": "The middle part of a folk tale is where the main events happen. This is where the characters face a problem or a challenge. They try to solve the problem, and they might meet new friends or enemies, go on a journey, or learn new things. This part is usually the longest and most exciting. All the efforts to solve the problem happen here.",
+              "examples": [
+                {
+                  "label": "Main problem arises",
+                  "value": "One day, a huge drought hit the village, and all the fields dried up."
+                },
+                {
+                  "label": "Challenges appear",
+                  "value": "The hero faced many dangers on his journey through the dense forest."
+                },
+                {
+                  "label": "Meeting new characters",
+                  "value": "He met a wise old hermit who gave him a magic lamp."
+                },
+                {
+                  "label": "Efforts to solve problem",
+                  "value": "The farmer tried everything to find water, digging deeper and deeper."
+                },
+                {
+                  "label": "Rising tension",
+                  "value": "The evil sorcerer cast a spell, and the entire village fell silent."
+                },
+                {
+                  "label": "Series of actions",
+                  "value": "First, the boy searched in the house, then in the field, and finally near the river."
+                },
+                {
+                  "label": "Confrontation",
+                  "value": "The brave warrior finally met the fierce tiger in the jungle."
+                },
+                {
+                  "label": "Learning/Growth",
+                  "value": "During his journey, the young prince learned how to be humble and kind."
+                },
+                {
+                  "label": "Unexpected turns",
+                  "value": "Just when they thought they were safe, a group of bandits appeared."
+                },
+                {
+                  "label": "Seeking help",
+                  "value": "The villagers went to the neighboring town to ask for help with the disease."
+                },
+                {
+                  "label": "Overcoming obstacles",
+                  "value": "He had to cross a roaring river and climb a steep mountain."
+                },
+                {
+                  "label": "Internal struggle",
+                  "value": "The boy was afraid, but he knew he must be brave for his family."
+                },
+                {
+                  "label": "Building suspense",
+                  "value": "The footsteps grew louder, and the door slowly began to open."
+                },
+                {
+                  "label": "Developing relationships",
+                  "value": "Through their shared journey, the farmer and the wise old woman became good friends."
+                },
+                {
+                  "label": "Turning point",
+                  "value": "Then, a little bird whispered a secret to the hero about the hidden treasure."
+                },
+                {
+                  "label": "Main conflict",
+                  "value": "The greedy merchant tried to cheat the honest villagers."
+                }
+              ],
+              "usage_examples": [
+                "The hero faces a big problem here.",
+                "Many adventures happen in the middle.",
+                "The characters try to find solutions.",
+                "This part is exciting.",
+                "Events lead to the end here."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "End (Conclusion)",
+          "sections": [
+            {
+              "text": "The end of a folk tale is how the story finishes. The problem is usually solved, and the characters learn something or find a way to live happily. The end tells us the final result of the hero's journey or actions. Many folk tales also have a 'moral' at the end, which is a lesson for us to learn.",
+              "examples": [
+                {
+                  "label": "Happy ending",
+                  "value": "They lived happily ever after in their peaceful village."
+                },
+                {
+                  "label": "Problem solved",
+                  "value": "The hero defeated the monster, and peace returned to the land."
+                },
+                {
+                  "label": "Lesson learned",
+                  "value": "From that day, the greedy man learned to share his wealth."
+                },
+                {
+                  "label": "Return to normal",
+                  "value": "The villagers finally found water, and their fields became green again."
+                },
+                {
+                  "label": "Consequence of actions",
+                  "value": "The cunning fox was finally caught in its own trap."
+                },
+                {
+                  "label": "Resolution of conflict",
+                  "value": "The two warring families became friends and lived in harmony."
+                },
+                {
+                  "label": "Achieving goal",
+                  "value": "The lost child found his way back home to his waiting mother."
+                },
+                {
+                  "label": "Justice served",
+                  "value": "The wicked queen was punished for her evil deeds."
+                },
+                {
+                  "label": "Reward",
+                  "value": "For his bravery, the king gave the farmer a large piece of land."
+                },
+                {
+                  "label": "New beginning",
+                  "value": "The old well was cleaned and it brought prosperity to the village."
+                },
+                {
+                  "label": "Happy life",
+                  "value": "They continued to live a simple and contented life in their small hut."
+                },
+                {
+                  "label": "Moral statement",
+                  "value": "Thus, the story teaches us that honesty is always the best policy."
+                },
+                {
+                  "label": "Growth of character",
+                  "value": "The young boy grew up to be a wise and respected leader."
+                },
+                {
+                  "label": "Peace restored",
+                  "value": "The evil spirit left the village, and everyone felt safe again."
+                },
+                {
+                  "label": "Final outcome",
+                  "value": "And so, the villagers lived happily, never forgetting the lesson of unity."
+                }
+              ],
+              "usage_examples": [
+                "The problem is solved at the end.",
+                "We learn the lesson here.",
+                "This part tells how things finish.",
+                "Heroes usually get rewarded.",
+                "The story finishes happily."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Story Elements: Characters",
+      "subtopics": [
+        {
+          "title": "Identifying Characters (Who is in the story?)",
+          "sections": [
+            {
+              "text": "Characters are the people, animals, or sometimes even things that are part of the story. They do the actions, speak the words, and have feelings. To understand a story well, you must first know 'who' are the characters. Ask yourself: 'Who is the story about?' or 'Who are the main people or animals acting in the story?'",
+              "examples": [
+                {
+                  "label": "Person",
+                  "value": "The brave farmer, Ramu."
+                },
+                {
+                  "label": "Animal",
+                  "value": "The clever crow."
+                },
+                {
+                  "label": "Another person",
+                  "value": "The wise old woman of the village."
+                },
+                {
+                  "label": "Imaginary being",
+                  "value": "The talking fish."
+                },
+                {
+                  "label": "Group of people",
+                  "value": "The fearful villagers."
+                },
+                {
+                  "label": "Main character",
+                  "value": "The young boy, Rohan."
+                },
+                {
+                  "label": "Supporting character",
+                  "value": "His loyal dog."
+                },
+                {
+                  "label": "Antagonist (opposing character)",
+                  "value": "The greedy merchant."
+                },
+                {
+                  "label": "Magical character",
+                  "value": "The benevolent fairy."
+                },
+                {
+                  "label": "Family member",
+                  "value": "The caring mother."
+                },
+                {
+                  "label": "Village elder",
+                  "value": "The respected headman."
+                },
+                {
+                  "label": "Student",
+                  "value": "The curious student."
+                },
+                {
+                  "label": "Rural character",
+                  "value": "The hardworking laborer."
+                },
+                {
+                  "label": "Mythical creature",
+                  "value": "The gentle giant."
+                },
+                {
+                  "label": "Wild animal",
+                  "value": "The roaring tiger."
+                }
+              ],
+              "usage_examples": [
+                "Who is the main person in the tale?",
+                "Are there any talking animals?",
+                "Who makes the problem?",
+                "Who helps the hero?",
+                "List all the people in the story."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Types of Characters (Heroes, Villains, Helpers)",
+          "sections": [
+            {
+              "text": "Characters in folk tales often play different roles. Knowing these roles helps you understand the story better.",
+              "examples": [
+                {
+                  "label": "Hero (good, main character)",
+                  "value": "The brave prince (rescues the village)."
+                },
+                {
+                  "label": "Hero",
+                  "value": "The honest farmer (works hard and succeeds)."
+                },
+                {
+                  "label": "Villain (bad, creates problems)",
+                  "value": "The cruel king (takes away people's food)."
+                },
+                {
+                  "label": "Villain",
+                  "value": "The cunning jackal (tricks other animals)."
+                },
+                {
+                  "label": "Helper (assists hero)",
+                  "value": "The wise old bird (gives advice to the hero)."
+                },
+                {
+                  "label": "Helper",
+                  "value": "The loyal dog (finds the lost child)."
+                },
+                {
+                  "label": "Hero",
+                  "value": "The kind girl (shares her last piece of bread)."
+                },
+                {
+                  "label": "Villain",
+                  "value": "The jealous sister (tries to harm her brother)."
+                },
+                {
+                  "label": "Helper",
+                  "value": "The magical fish (grants wishes to the fisherman)."
+                },
+                {
+                  "label": "Hero",
+                  "value": "The young shepherd (protects his sheep from the wolf)."
+                },
+                {
+                  "label": "Villain",
+                  "value": "The greedy merchant (sells fake goods at high prices)."
+                },
+                {
+                  "label": "Helper",
+                  "value": "The talking tree (shows the secret path)."
+                },
+                {
+                  "label": "Hero",
+                  "value": "The hardworking student (studies daily and gets good marks)."
+                },
+                {
+                  "label": "Villain",
+                  "value": "The lazy neighbor (never helps and always complains)."
+                },
+                {
+                  "label": "Helper",
+                  "value": "The strong buffalo (helps the farmer plough his field)."
+                }
+              ],
+              "usage_examples": [
+                "The hero is the good person.",
+                "The villain causes trouble.",
+                "Helpers make the hero's work easy.",
+                "Look for who is good and bad.",
+                "Who gives support in the story?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              },
+              "table": {
+                "title": "Common Character Types in Folk Tales",
+                "headers": ["Type", "Role", "Example"],
+                "rows": [
+                  ["Hero", "The main good person; solves problems", "A brave prince"],
+                  ["Villain", "The bad person; creates problems for the hero", "A wicked witch"],
+                  ["Helper", "Someone who assists the hero in their journey or task", "A wise old man"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Story Elements: Plot Understanding",
+      "subtopics": [
+        {
+          "title": "Understanding the Problem (Conflict)",
+          "sections": [
+            {
+              "text": "Every good story has a problem, or a conflict. This is what the main character or characters need to solve. It makes the story exciting and makes us want to know what happens next. The problem can be big, like a drought, or small, like losing a favorite toy. It is the challenge that drives the story forward.",
+              "examples": [
+                {
+                  "label": "Natural disaster",
+                  "value": "The entire village faced a drought; there was no water for crops."
+                },
+                {
+                  "label": "Threat from animal",
+                  "value": "A dangerous tiger was eating the village cattle."
+                },
+                {
+                  "label": "Loss of something",
+                  "value": "The brave boy lost his way in the dense jungle."
+                },
+                {
+                  "label": "Human conflict",
+                  "value": "Two brothers in the story were always fighting over land."
+                },
+                {
+                  "label": "Magical problem",
+                  "value": "An evil spell made all the villagers forget how to smile."
+                },
+                {
+                  "label": "Lack of resources",
+                  "value": "The villagers had no food for many days due to poor harvest."
+                },
+                {
+                  "label": "Personal challenge",
+                  "value": "The young girl was afraid to speak in front of people."
+                },
+                {
+                  "label": "External threat",
+                  "value": "Bandits regularly attacked the travelers on the main road."
+                },
+                {
+                  "label": "Mystery",
+                  "value": "A strange light appeared in the sky every night, scaring everyone."
+                },
+                {
+                  "label": "Unfair situation",
+                  "value": "The poor washerman was wrongly accused of stealing gold."
+                },
+                {
+                  "label": "Environmental issue",
+                  "value": "The village pond became dirty and full of plastic waste."
+                },
+                {
+                  "label": "Health crisis",
+                  "value": "A strange sickness spread in the village, making many people ill."
+                },
+                {
+                  "label": "Test of character",
+                  "value": "The king gave the farmer a very difficult task to test his honesty."
+                },
+                {
+                  "label": "Misunderstanding",
+                  "value": "There was a big misunderstanding between two close friends."
+                },
+                {
+                  "label": "Lost item",
+                  "value": "The farmer's lucky charm was lost in the vast fields."
+                }
+              ],
+              "usage_examples": [
+                "What is the main problem in the story?",
+                "How does the hero face this challenge?",
+                "This problem makes the story interesting.",
+                "The villagers had no water, that was the problem.",
+                "The evil person causes the conflict."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Understanding the Events (Sequence of Actions)",
+          "sections": [
+            {
+              "text": "The events are all the things that happen in the story, one after another, from beginning to end. They are like steps in a journey. These events build up to the solution of the problem. It is important to understand the order of these events to follow the story correctly. Think 'First this happened, then that happened, and after that, something else happened.'",
+              "examples": [
+                {
+                  "label": "Sequence of search",
+                  "value": "First, he looked under the bed. Then, he looked inside the cupboard. Finally, he found the key on the table."
+                },
+                {
+                  "label": "Sequence of journey",
+                  "value": "The boy started his journey. He crossed a river, climbed a hill, and reached the city."
+                },
+                {
+                  "label": "Problem solving steps",
+                  "value": "The farmer dug a small canal. He brought water from the river. Then he watered his dry fields."
+                },
+                {
+                  "label": "Interactions",
+                  "value": "The fox tricked the crow. The crow dropped the bread. The fox ate the bread."
+                },
+                {
+                  "label": "Actions of villagers",
+                  "value": "The villagers gathered. They discussed the problem. They decided to ask the wise elder for help."
+                },
+                {
+                  "label": "Daily routine as events",
+                  "value": "Every morning, the birds wake up. They sing. They fly to find food."
+                },
+                {
+                  "label": "Series of challenges",
+                  "value": "He had to solve a riddle, cross a thorny bush, and climb a tall tree."
+                },
+                {
+                  "label": "Steps to discovery",
+                  "value": "She followed the sound. She found a hidden path. It led her to a secret garden."
+                },
+                {
+                  "label": "Actions leading to a bad outcome",
+                  "value": "The man cut too many trees. The soil became loose. There was a big landslide."
+                },
+                {
+                  "label": "Actions to prepare for event",
+                  "value": "The children cleaned the school. They decorated the hall. They waited for the teacher."
+                },
+                {
+                  "label": "Chain of events",
+                  "value": "The rain started. The river swelled. The bridge collapsed."
+                },
+                {
+                  "label": "Sequence of learning",
+                  "value": "First, he learned the letters. Then, he learned words. Soon, he could read whole sentences."
+                },
+                {
+                  "label": "Process in the story",
+                  "value": "The sun shone brightly. The seeds sprouted. The plants grew tall."
+                },
+                {
+                  "label": "Steps to achieve goal",
+                  "value": "They worked day and night. They collected many stones. They built a strong wall."
+                },
+                {
+                  "label": "Progression of a game",
+                  "value": "First, the boys chose their teams. Then, they started playing. Finally, one team scored the winning point."
+                }
+              ],
+              "usage_examples": [
+                "What happened first in the story?",
+                "What was the next event?",
+                "How did the hero try to solve the problem?",
+                "List the main things that happened.",
+                "Follow the actions step-by-step."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Understanding the Solution (Resolution)",
+          "sections": [
+            {
+              "text": "The solution, or resolution, is how the main problem in the story gets solved. This is where the conflict ends, and the story wraps up. The hero might find a magic item, use their cleverness, or get help from others to overcome the challenge. The solution brings the story to a satisfying close and shows the final state of the characters and setting.",
+              "examples": [
+                {
+                  "label": "Problem solved",
+                  "value": "The honest farmer used his wisdom to find the hidden well, bringing water back to the village."
+                },
+                {
+                  "label": "Conflict ends",
+                  "value": "The brave warrior defeated the tiger, and the village became safe again."
+                },
+                {
+                  "label": "Happy ending",
+                  "value": "The lost boy found his family, and they lived happily together."
+                },
+                {
+                  "label": "Consequence/Lesson",
+                  "value": "The greedy merchant lost all his wealth and learned the value of honesty."
+                },
+                {
+                  "label": "Change in situation",
+                  "value": "The magical spirit lifted the spell, and joy returned to the villagers' faces."
+                },
+                {
+                  "label": "Skillful solution",
+                  "value": "With his sharp mind, the minister found a way to stop the enemy attack."
+                },
+                {
+                  "label": "Collective effort",
+                  "value": "The villagers worked together to build a strong wall, stopping the floodwaters."
+                },
+                {
+                  "label": "Divine intervention",
+                  "value": "A kind god appeared and granted the poor woman a wish, solving her problems."
+                },
+                {
+                  "label": "Overcoming fear",
+                  "value": "The young girl, facing her fear, spoke bravely and saved her village from injustice."
+                },
+                {
+                  "label": "Return to peace",
+                  "value": "The wise judge settled the dispute between the brothers, bringing peace to their family."
+                },
+                {
+                  "label": "Healing",
+                  "value": "The old woman found the special herb, and the sickness in the village slowly disappeared."
+                },
+                {
+                  "label": "Justice",
+                  "value": "The true thief was caught, and the innocent washerman was freed."
+                },
+                {
+                  "label": "Reconciliation",
+                  "value": "After many arguments, the two friends finally understood each other and hugged."
+                },
+                {
+                  "label": "Discovery",
+                  "value": "Following the map, the adventurers finally discovered the hidden treasure."
+                },
+                {
+                  "label": "Growth and triumph",
+                  "value": "The small plant grew into a giant tree, providing shade and fruits for everyone."
+                }
+              ],
+              "usage_examples": [
+                "How was the problem solved?",
+                "What happened at the very end?",
+                "The hero finds a solution.",
+                "The village got water again.",
+                "Everyone was safe in the end."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Cultural Values and Moral Lessons",
+      "subtopics": [
+        {
+          "title": "What are Moral Lessons?",
+          "sections": [
+            {
+              "text": "Many folk tales are told not just for entertainment, but to teach us something important about life. This teaching is called the moral lesson or the moral of the story. It is a message that tells us about right and wrong, good behavior, or important values like honesty, kindness, courage, or hard work. We can apply these lessons to our own lives.",
+              "examples": [
+                {
+                  "label": "Honesty",
+                  "value": "The moral is: always speak the truth."
+                },
+                {
+                  "label": "Kindness",
+                  "value": "The story teaches us to be kind to all living beings."
+                },
+                {
+                  "label": "Hard work",
+                  "value": "The lesson is that hard work always pays off."
+                },
+                {
+                  "label": "Greed",
+                  "value": "Do not be greedy; it leads to sadness."
+                },
+                {
+                  "label": "Unity",
+                  "value": "Unity is strength; when we work together, we can achieve anything."
+                },
+                {
+                  "label": "Patience",
+                  "value": "The story reminds us to have patience, good things take time."
+                },
+                {
+                  "label": "Sharing",
+                  "value": "It teaches us the importance of sharing with others."
+                },
+                {
+                  "label": "Respect for elders",
+                  "value": "Always listen to and respect the advice of elders."
+                },
+                {
+                  "label": "Cleverness",
+                  "value": "Cleverness can help you solve difficult problems."
+                },
+                {
+                  "label": "Forgiveness",
+                  "value": "The moral is to forgive those who make mistakes."
+                },
+                {
+                  "label": "Perseverance",
+                  "value": "Never give up, keep trying until you succeed."
+                },
+                {
+                  "label": "Gratitude",
+                  "value": "Be thankful for what you have and for the help you receive."
+                },
+                {
+                  "label": "Selflessness",
+                  "value": "Helping others without expecting anything in return is a great virtue."
+                },
+                {
+                  "label": "Consequences of actions",
+                  "value": "Every action has a result; think before you act."
+                },
+                {
+                  "label": "Wisdom over strength",
+                  "value": "Sometimes, wisdom is more powerful than physical strength."
+                }
+              ],
+              "usage_examples": [
+                "What did the story teach you?",
+                "The moral is about being truthful.",
+                "This tale teaches kindness.",
+                "It shows us to work hard.",
+                "Every good story has a lesson."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Identifying Cultural Values",
+          "sections": [
+            {
+              "text": "Folk tales often reflect the cultural values of the people who created them. These are the important ideas, beliefs, and ways of living that are special to a community. For example, a story might show how important family is, or how people in a village help each other, or how they respect nature and animals. By reading folk tales, we can learn about different cultures.",
+              "examples": [
+                {
+                  "label": "Importance of family",
+                  "value": "The story shows how the family sticks together in hard times."
+                },
+                {
+                  "label": "Community helping",
+                  "value": "Villagers always help each other during the harvest season in this story."
+                },
+                {
+                  "label": "Respect for nature",
+                  "value": "The characters in the tale treat the trees and river with great respect."
+                },
+                {
+                  "label": "Hospitality",
+                  "value": "The poor family shares their last meal with a stranger, showing great hospitality."
+                },
+                {
+                  "label": "Reverence for elders",
+                  "value": "The young hero always seeks advice from the wise old people of his village."
+                },
+                {
+                  "label": "Value of simple living",
+                  "value": "The story emphasizes that happiness comes from simple living, not from much wealth."
+                },
+                {
+                  "label": "Importance of festivals",
+                  "value": "The tale describes how the entire village celebrates festivals with joy and unity."
+                },
+                {
+                  "label": "Relationship with animals",
+                  "value": "Animals are often seen as friends and helpers in these stories, not just for work."
+                },
+                {
+                  "label": "Role of traditional knowledge",
+                  "value": "The old remedies and farming practices are shown to be very effective."
+                },
+                {
+                  "label": "Belief in destiny/fate",
+                  "value": "Some stories show that what is meant to happen will happen."
+                },
+                {
+                  "label": "Importance of storytelling",
+                  "value": "The act of sharing stories itself is shown as a way to pass on lessons and history."
+                },
+                {
+                  "label": "Modesty/Humility",
+                  "value": "The hero, despite his great deeds, remains humble and simple."
+                },
+                {
+                  "label": "Sacrifice for common good",
+                  "value": "A character sacrifices personal gain for the well-being of the whole village."
+                },
+                {
+                  "label": "Importance of education",
+                  "value": "Some tales highlight the value of knowledge and learning for a better life."
+                },
+                {
+                  "label": "Respect for different forms of life",
+                  "value": "The stories often show humans living in harmony with forests and wildlife."
+                }
+              ],
+              "usage_examples": [
+                "This story shows how people help each other.",
+                "It teaches respect for elders.",
+                "The tale shows love for nature.",
+                "Family is very important in this culture.",
+                "It reflects village traditions."
+              ],
+              "media": {
+                "image": "images/intermediate/module-3/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

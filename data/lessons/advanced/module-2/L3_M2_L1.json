@@ -1,0 +1,474 @@
+{
+  "level": "Advanced",
+  "module": "Creative & Academic Writing",
+  "lesson_number": 1,
+  "lesson_title": "Writing a Folk Tale",
+  "objectives": [
+    "Understand the key elements and structure of folk tales",
+    "Learn traditional storytelling techniques and patterns",
+    "Create original folk tales using authentic elements",
+    "Recognize the cultural significance and moral lessons in folk stories"
+  ],
+  "topics": [
+    {
+      "title": "Folk Tale Structure: The Foundation",
+      "subtopics": [
+        {
+          "title": "What is a Folk Tale Structure?",
+          "sections": [
+            {
+              "text": "A folk tale follows a traditional structure that has been passed down through generations. It typically begins with 'Once upon a time' or similar opening, introduces characters quickly, presents a problem or challenge, shows how it's resolved, and ends with a moral lesson. This structure makes stories easy to remember and retell.",
+              "related_words": ["beginning", "middle", "end", "problem", "solution", "moral"],
+              "examples": [
+                {
+                  "label": "Once upon a time, in a small village...",
+                  "value": "Once upon a time, in a small village near the mountains, there lived a kind farmer named Ravi."
+                },
+                {
+                  "label": "Long, long ago, when animals could talk...",
+                  "value": "Long, long ago, when animals could talk, a wise old elephant lived by the river."
+                },
+                {
+                  "label": "Many years ago, in a land far away...",
+                  "value": "Many years ago, in a land far away, there was a magical forest where trees bore golden fruit."
+                },
+                {
+                  "label": "In the days of our ancestors...",
+                  "value": "In the days of our ancestors, when spirits walked among humans, a brave girl saved her village."
+                },
+                {
+                  "label": "Before the great cities were built...",
+                  "value": "Before the great cities were built, a poor woodcutter discovered a secret that changed everything."
+                },
+                {
+                  "label": "And so they lived happily ever after.",
+                  "value": "The princess and the humble baker lived happily ever after, and their kindness was remembered for generations."
+                },
+                {
+                  "label": "From that day forward...",
+                  "value": "From that day forward, the village prospered, and people always remembered to help strangers."
+                },
+                {
+                  "label": "The moral of this story is...",
+                  "value": "The moral of this story is that true wealth comes from helping others, not from gold and silver."
+                },
+                {
+                  "label": "This teaches us that...",
+                  "value": "This teaches us that patience and hard work are more valuable than shortcuts and tricks."
+                },
+                {
+                  "label": "And that is why, even today...",
+                  "value": "And that is why, even today, we see peacocks dancing before the rain comes."
+                },
+                {
+                  "label": "The villagers never forgot the lesson...",
+                  "value": "The villagers never forgot the lesson that greed brings sorrow, while sharing brings joy."
+                },
+                {
+                  "label": "To this day, people say...",
+                  "value": "To this day, people say that honesty is the best policy, just as the old merchant learned."
+                },
+                {
+                  "label": "Thus ends the tale of...",
+                  "value": "Thus ends the tale of the magic pot that taught everyone the value of contentment."
+                },
+                {
+                  "label": "And so we learn that...",
+                  "value": "And so we learn that courage is not the absence of fear, but acting despite being afraid."
+                },
+                {
+                  "label": "The story reminds us that...",
+                  "value": "The story reminds us that even the smallest person can make the biggest difference."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-2/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Character Types: The People in Folk Tales",
+      "subtopics": [
+        {
+          "title": "What are Folk Tale Characters?",
+          "sections": [
+            {
+              "text": "Folk tale characters are usually simple but memorable types that represent different qualities or roles in society. They include heroes, villains, wise elders, magical helpers, and ordinary people who face extraordinary situations. These characters are often described with just a few key traits that make them easy to understand and remember.",
+              "related_words": ["hero", "villain", "helper", "elder", "magical", "archetype"],
+              "examples": [
+                {
+                  "label": "The brave young farmer",
+                  "value": "The brave young farmer was known throughout the village for his kind heart and strong hands."
+                },
+                {
+                  "label": "The wicked stepmother",
+                  "value": "The wicked stepmother was jealous of her stepdaughter's beauty and goodness."
+                },
+                {
+                  "label": "The wise old woman",
+                  "value": "The wise old woman at the edge of the forest knew the secrets of healing herbs."
+                },
+                {
+                  "label": "The magical talking animal",
+                  "value": "The magical talking fox appeared whenever someone needed guidance on their journey."
+                },
+                {
+                  "label": "The greedy merchant",
+                  "value": "The greedy merchant counted his coins every night but never shared with the poor."
+                },
+                {
+                  "label": "The innocent maiden",
+                  "value": "The innocent maiden worked hard every day and never spoke ill of anyone."
+                },
+                {
+                  "label": "The cruel king",
+                  "value": "The cruel king made harsh laws and never listened to his people's problems."
+                },
+                {
+                  "label": "The humble fisherman",
+                  "value": "The humble fisherman lived by the sea and was content with his simple life."
+                },
+                {
+                  "label": "The clever trickster",
+                  "value": "The clever trickster used his wit to outsmart bullies and help the weak."
+                },
+                {
+                  "label": "The jealous sister",
+                  "value": "The jealous sister could not bear to see others happier than herself."
+                },
+                {
+                  "label": "The loyal friend",
+                  "value": "The loyal friend stood by the hero through every danger and hardship."
+                },
+                {
+                  "label": "The mysterious stranger",
+                  "value": "The mysterious stranger appeared at the village gate wearing a dark cloak."
+                },
+                {
+                  "label": "The hardworking daughter",
+                  "value": "The hardworking daughter took care of her aging parents without complaint."
+                },
+                {
+                  "label": "The boastful prince",
+                  "value": "The boastful prince believed he was better than everyone else in the kingdom."
+                },
+                {
+                  "label": "The gentle giant",
+                  "value": "Despite his enormous size, the gentle giant was afraid of hurting even a butterfly."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Setting: Time and Place in Folk Tales",
+      "subtopics": [
+        {
+          "title": "What are Folk Tale Settings?",
+          "sections": [
+            {
+              "text": "Folk tale settings are usually simple and timeless places that could exist anywhere. They often include villages, forests, mountains, rivers, and castles. The time is usually vague - 'long ago' or 'once upon a time' - which makes the story feel universal. The setting often reflects the culture where the tale originated but remains relatable to people everywhere.",
+              "related_words": ["village", "forest", "mountain", "castle", "timeless", "universal"],
+              "examples": [
+                {
+                  "label": "A small village by the river",
+                  "value": "In a small village by the river, where everyone knew each other's names, lived an old potter."
+                },
+                {
+                  "label": "Deep in the enchanted forest",
+                  "value": "Deep in the enchanted forest, where sunlight barely touched the ground, strange creatures roamed."
+                },
+                {
+                  "label": "High up in the mountains",
+                  "value": "High up in the mountains, where eagles made their nests, stood an ancient temple."
+                },
+                {
+                  "label": "In a grand palace",
+                  "value": "In a grand palace with golden towers and marble halls, a lonely princess gazed out her window."
+                },
+                {
+                  "label": "Beside the vast ocean",
+                  "value": "Beside the vast ocean, where waves crashed against black rocks, a lighthouse keeper lived alone."
+                },
+                {
+                  "label": "In the middle of the desert",
+                  "value": "In the middle of the desert, where sand dunes stretched endlessly, an oasis provided life."
+                },
+                {
+                  "label": "At the edge of the world",
+                  "value": "At the edge of the world, where the sky met the earth, magical creatures gathered at twilight."
+                },
+                {
+                  "label": "In a busy marketplace",
+                  "value": "In a busy marketplace filled with colorful stalls and shouting vendors, a young thief learned honesty."
+                },
+                {
+                  "label": "On a small island",
+                  "value": "On a small island surrounded by stormy seas, a hermit discovered the secret of happiness."
+                },
+                {
+                  "label": "In the royal gardens",
+                  "value": "In the royal gardens where roses bloomed year-round, a gardener found more than flowers."
+                },
+                {
+                  "label": "Under the old banyan tree",
+                  "value": "Under the old banyan tree where village elders gathered, children learned important lessons."
+                },
+                {
+                  "label": "In a dark cave",
+                  "value": "In a dark cave behind a waterfall, a treasure waited for someone pure of heart."
+                },
+                {
+                  "label": "Across the seven seas",
+                  "value": "The brave sailor had to travel across the seven seas to find the cure for his father's illness."
+                },
+                {
+                  "label": "Beyond the misty mountains",
+                  "value": "Beyond the misty mountains lay a land where winter never came and flowers always bloomed."
+                },
+                {
+                  "label": "In the time of great floods",
+                  "value": "In the time of great floods, when the rivers overflowed, the animals worked together to survive."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Magical Elements: Wonder and Mystery",
+      "subtopics": [
+        {
+          "title": "What are Magical Elements in Folk Tales?",
+          "sections": [
+            {
+              "text": "Magical elements are supernatural aspects that make folk tales special and memorable. These include talking animals, magic objects, supernatural powers, curses, blessings, and impossible events. Magic in folk tales usually has rules and consequences, and often serves to teach lessons about life, morality, and human nature.",
+              "related_words": ["supernatural", "magic", "enchanted", "spell", "curse", "blessing"],
+              "examples": [
+                {
+                  "label": "A magic lamp that grants three wishes",
+                  "value": "The poor man found a magic lamp that grants three wishes, but he had to choose wisely."
+                },
+                {
+                  "label": "Animals that could speak human language",
+                  "value": "In those days, all animals could speak human language and often gave advice to travelers."
+                },
+                {
+                  "label": "A cloak of invisibility",
+                  "value": "The hero put on a cloak of invisibility to sneak past the sleeping dragon."
+                },
+                {
+                  "label": "Seeds that grew into gold coins",
+                  "value": "The fairy gave her magic seeds that grew into gold coins for honest people."
+                },
+                {
+                  "label": "A mirror that showed the truth",
+                  "value": "The queen had a magic mirror that showed the truth about people's hearts."
+                },
+                {
+                  "label": "Seven-league boots for traveling",
+                  "value": "With his seven-league boots, the messenger could cross continents in a single step."
+                },
+                {
+                  "label": "A curse that lasted a hundred years",
+                  "value": "The wicked witch placed a curse that would last a hundred years or until true love's kiss."
+                },
+                {
+                  "label": "A pot that cooked food by itself",
+                  "value": "The magic pot cooked delicious food by itself whenever the family was hungry."
+                },
+                {
+                  "label": "Transformation into animals",
+                  "value": "The prince was transformed into a frog until someone could see his true worth."
+                },
+                {
+                  "label": "Flying carpets across the sky",
+                  "value": "The merchant traveled on flying carpets that soared high above the clouds."
+                },
+                {
+                  "label": "Trees that bore precious gems",
+                  "value": "In the magical garden grew trees that bore precious gems instead of fruit."
+                },
+                {
+                  "label": "Water that granted eternal youth",
+                  "value": "The fountain contained water that granted eternal youth to those pure of heart."
+                },
+                {
+                  "label": "Spells that changed the weather",
+                  "value": "The powerful wizard could cast spells that changed the weather across the entire kingdom."
+                },
+                {
+                  "label": "Doors that led to other worlds",
+                  "value": "Behind the mysterious door lay passages that led to other worlds and dimensions."
+                },
+                {
+                  "label": "Ghosts of helpful ancestors",
+                  "value": "The ghosts of her ancestors appeared to guide the lost girl back to safety."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Moral Lessons: The Heart of Folk Tales",
+      "subtopics": [
+        {
+          "title": "What are Moral Lessons in Folk Tales?",
+          "sections": [
+            {
+              "text": "Moral lessons are the important life teachings that folk tales pass down through generations. These lessons usually focus on values like honesty, kindness, courage, hard work, and justice. The moral is often stated directly at the end or can be understood from how characters are rewarded or punished for their actions.",
+              "related_words": ["lesson", "moral", "values", "teaching", "wisdom", "virtue"],
+              "examples": [
+                {
+                  "label": "Honesty is always the best policy",
+                  "value": "The story taught that honesty is always the best policy, even when telling lies seems easier."
+                },
+                {
+                  "label": "Hard work brings its own rewards",
+                  "value": "The tale showed that hard work brings its own rewards, while laziness leads to trouble."
+                },
+                {
+                  "label": "Kindness to others returns to you",
+                  "value": "The folk tale demonstrated that kindness to others returns to you in unexpected ways."
+                },
+                {
+                  "label": "Greed leads to unhappiness",
+                  "value": "Through the merchant's downfall, we learn that greed leads to unhappiness and loss."
+                },
+                {
+                  "label": "True beauty comes from within",
+                  "value": "The story revealed that true beauty comes from within, not from outward appearance."
+                },
+                {
+                  "label": "Pride comes before a fall",
+                  "value": "The boastful prince learned that pride comes before a fall, and humility is wisdom."
+                },
+                {
+                  "label": "Patience conquers all difficulties",
+                  "value": "The patient farmer's success showed that patience conquers all difficulties in time."
+                },
+                {
+                  "label": "Good triumphs over evil",
+                  "value": "As in all good folk tales, good triumphs over evil through courage and determination."
+                },
+                {
+                  "label": "Judge others by their actions, not appearance",
+                  "value": "The tale taught us to judge others by their actions, not their appearance or wealth."
+                },
+                {
+                  "label": "Helping others brings happiness",
+                  "value": "The generous baker discovered that helping others brings more happiness than keeping everything for yourself."
+                },
+                {
+                  "label": "Wisdom is more valuable than gold",
+                  "value": "The old woman's advice proved that wisdom is more valuable than gold or precious stones."
+                },
+                {
+                  "label": "Courage is not the absence of fear",
+                  "value": "The young hero learned that courage is not the absence of fear, but acting despite being afraid."
+                },
+                {
+                  "label": "Small acts of kindness matter",
+                  "value": "The story showed how small acts of kindness matter more than grand gestures."
+                },
+                {
+                  "label": "What you give comes back to you",
+                  "value": "The generous girl found that what you give to others comes back to you multiplied."
+                },
+                {
+                  "label": "Inner strength overcomes all obstacles",
+                  "value": "Despite her humble beginnings, the girl's inner strength overcame all obstacles in her path."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Repetitive Patterns: The Rhythm of Storytelling",
+      "subtopics": [
+        {
+          "title": "What are Repetitive Patterns in Folk Tales?",
+          "sections": [
+            {
+              "text": "Repetitive patterns are recurring elements that appear throughout folk tales, such as the rule of three, repeated phrases, similar events, or patterns of behavior. These patterns make stories easier to remember and tell, create rhythm and suspense, and emphasize important themes. Common patterns include three wishes, three trials, three brothers or sisters, or repeated magical phrases.",
+              "related_words": ["repetition", "pattern", "three", "rhythm", "sequence", "formula"],
+              "examples": [
+                {
+                  "label": "Three wishes from the magic lamp",
+                  "value": "The genie granted three wishes from the magic lamp, but warned to choose carefully."
+                },
+                {
+                  "label": "The youngest of three brothers",
+                  "value": "The youngest of three brothers was often underestimated but proved to be the wisest."
+                },
+                {
+                  "label": "Three tests of courage and wisdom",
+                  "value": "To win the princess's hand, the prince had to pass three tests of courage and wisdom."
+                },
+                {
+                  "label": "\"Mirror, mirror on the wall\"",
+                  "value": "Every day the queen asked, \"Mirror, mirror on the wall, who's the fairest of them all?\""
+                },
+                {
+                  "label": "Tried three times before succeeding",
+                  "value": "The hero failed twice but tried three times before succeeding in his quest."
+                },
+                {
+                  "label": "\"Open sesame\" to unlock the door",
+                  "value": "Only by saying \"Open sesame\" could anyone unlock the door to the treasure cave."
+                },
+                {
+                  "label": "Three drops of blood on snow",
+                  "value": "The sight of three drops of blood on white snow reminded him of his beloved's beauty."
+                },
+                {
+                  "label": "Asked the same question three times",
+                  "value": "The wise woman asked the same question three times before revealing the answer."
+                },
+                {
+                  "label": "\"Fe-fi-fo-fum\" announced the giant",
+                  "value": "Whenever the giant returned home, he roared \"Fe-fi-fo-fum, I smell the blood of an Englishman!\""
+                },
+                {
+                  "label": "Three magical gifts from the fairy",
+                  "value": "The kind girl received three magical gifts from the fairy godmother."
+                },
+                {
+                  "label": "\"Rumpelstiltskin\" was his secret name",
+                  "value": "Only by guessing \"Rumpelstiltskin\" could the miller's daughter break the spell."
+                },
+                {
+                  "label": "Three paths through the enchanted forest",
+                  "value": "At the crossroads stood three paths through the enchanted forest, each leading to different fates."
+                },
+                {
+                  "label": "\"What big teeth you have\"",
+                  "value": "Little Red Riding Hood noticed, \"What big teeth you have, grandmother!\""
+                },
+                {
+                  "label": "Third time lucky for the hero",
+                  "value": "As they say, third time lucky - the hero finally defeated the dragon on his third attempt."
+                },
+                {
+                  "label": "\"Once upon a time\" began every tale",
+                  "value": "\"Once upon a time\" began every tale told by the village storyteller."
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

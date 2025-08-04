@@ -1,0 +1,2666 @@
+{
+  "title": "Economics & Trade",
+  "icon": "📈",
+  "words": [
+    {
+      "word": "Economics",
+      "pronunciation": "/ˌiːkəˈnɒmɪks/",
+      "definition": "The study of how people and countries use their resources to produce, distribute, and consume goods and services.",
+      "sentences": [
+        "Economics helps us understand how money works in the world.",
+        "She is studying economics at college.",
+        "Learning about economics can help you make smart financial choices."
+      ]
+    },
+    {
+      "word": "Trade",
+      "pronunciation": "/treɪd/",
+      "definition": "The action of buying and selling goods and services.",
+      "sentences": [
+        "Countries often engage in international trade.",
+        "He works in the trade business.",
+        "Fair trade helps farmers in poor countries."
+      ]
+    },
+    {
+      "word": "Goods",
+      "pronunciation": "/ɡʊdz/",
+      "definition": "Items that are produced to be sold, like clothes or food.",
+      "sentences": [
+        "The store sells many different kinds of goods.",
+        "These goods are imported from other countries.",
+        "We need to transport these goods to the warehouse."
+      ]
+    },
+    {
+      "word": "Services",
+      "pronunciation": "/ˈsɜːrvɪsɪz/",
+      "definition": "Actions or activities that one person performs for another, like haircuts or transportation.",
+      "sentences": [
+        "Hairdressers provide a service.",
+        "Many companies offer online services.",
+        "Public services include schools and hospitals."
+      ]
+    },
+    {
+      "word": "Money",
+      "pronunciation": "/ˈmʌni/",
+      "definition": "Coins or banknotes used to buy things.",
+      "sentences": [
+        "I need some money to buy groceries.",
+        "Saving money is a good habit.",
+        "He earns money by working hard."
+      ]
+    },
+    {
+      "word": "Economy",
+      "pronunciation": "/ɪˈkɒnəmi/",
+      "definition": "The system of how a country's money, industry, and trade are organized.",
+      "sentences": [
+        "The country's economy is growing rapidly.",
+        "A strong economy means more jobs.",
+        "The global economy affects everyone."
+      ]
+    },
+    {
+      "word": "Market",
+      "pronunciation": "/ˈmɑːrkɪt/",
+      "definition": "A place where goods and services are bought and sold.",
+      "sentences": [
+        "I bought fresh vegetables at the local market.",
+        "The stock market can be risky.",
+        "The company is trying to enter a new market."
+      ]
+    },
+    {
+      "word": "Supply",
+      "pronunciation": "/səˈplaɪ/",
+      "definition": "The amount of a product or service that is available for sale.",
+      "sentences": [
+        "The supply of fresh water is limited.",
+        "When supply is low, prices often go up.",
+        "The store has a good supply of new books."
+      ]
+    },
+    {
+      "word": "Demand",
+      "pronunciation": "/dɪˈmænd/",
+      "definition": "The desire of consumers for a particular product or service.",
+      "sentences": [
+        "There is high demand for new smartphones.",
+        "When demand is high, prices usually increase.",
+        "The company tries to meet customer demand."
+      ]
+    },
+    {
+      "word": "Price",
+      "pronunciation": "/praɪs/",
+      "definition": "The amount of money that you have to pay for something.",
+      "sentences": [
+        "What is the price of this shirt?",
+        "The price of gasoline increased today.",
+        "She checked the price before buying it."
+      ]
+    },
+    {
+      "word": "Cost",
+      "pronunciation": "/kɒst/",
+      "definition": "The amount of money needed to buy, do, or make something.",
+      "sentences": [
+        "The cost of living is rising.",
+        "What is the total cost of the trip?",
+        "He calculated the cost of repairs."
+      ]
+    },
+    {
+      "word": "Income",
+      "pronunciation": "/ˈɪnkʌm/",
+      "definition": "Money received, especially on a regular basis, for work or through investments.",
+      "sentences": [
+        "His monthly income is enough to cover his expenses.",
+        "Many people work to earn an income.",
+        "The family lives on a fixed income."
+      ]
+    },
+    {
+      "word": "Expense",
+      "pronunciation": "/ɪkˈspɛns/",
+      "definition": "The cost incurred or required for something.",
+      "sentences": [
+        "Rent is a major monthly expense.",
+        "Keep track of your expenses to manage your budget.",
+        "Unexpected expenses can be a problem."
+      ]
+    },
+    {
+      "word": "Budget",
+      "pronunciation": "/ˈbʌdʒɪt/",
+      "definition": "An estimate of income and expenditure for a set period of time.",
+      "sentences": [
+        "I need to create a budget for my spending.",
+        "The government announced its new budget.",
+        "Try to stick to your budget."
+      ]
+    },
+    {
+      "word": "Saving",
+      "pronunciation": "/ˈseɪvɪŋ/",
+      "definition": "The money one has saved, especially through a bank or investment plan.",
+      "sentences": [
+        "She puts some money into her savings account every month.",
+        "Saving for retirement is important.",
+        "He used his savings to buy a new car."
+      ]
+    },
+    {
+      "word": "Investment",
+      "pronunciation": "/ɪnˈvɛstmənt/",
+      "definition": "The action or process of investing money for profit or material result.",
+      "sentences": [
+        "Buying a house can be a good investment.",
+        "He made a smart investment in a new company.",
+        "Investments can grow over time."
+      ]
+    },
+    {
+      "word": "Profit",
+      "pronunciation": "/ˈprɒfɪt/",
+      "definition": "A financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.",
+      "sentences": [
+        "The company made a large profit this year.",
+        "Businesses aim to make a profit.",
+        "He sold the old car for a small profit."
+      ]
+    },
+    {
+      "word": "Loss",
+      "pronunciation": "/lɒs/",
+      "definition": "The fact or process of losing something or someone.",
+      "sentences": [
+        "The business experienced a financial loss.",
+        "He sold the shares at a loss.",
+        "The company tried to minimize its losses."
+      ]
+    },
+    {
+      "word": "Tax",
+      "pronunciation": "/tæks/",
+      "definition": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions.",
+      "sentences": [
+        "You have to pay tax on your income.",
+        "The government collects taxes to fund public services.",
+        "Sales tax is added to the price of goods."
+      ]
+    },
+    {
+      "word": "Inflation",
+      "pronunciation": "/ɪnˈfleɪʃən/",
+      "definition": "A general increase in prices and fall in the purchasing value of money.",
+      "sentences": [
+        "Inflation makes things more expensive over time.",
+        "High inflation can hurt the economy.",
+        "The government tries to control inflation."
+      ]
+    },
+    {
+      "word": "Deflation",
+      "pronunciation": "/dɪˈfleɪʃən/",
+      "definition": "A general decrease in prices.",
+      "sentences": [
+        "Deflation can sometimes lead to less spending.",
+        "Economists worry about prolonged deflation.",
+        "Deflation is the opposite of inflation."
+      ]
+    },
+    {
+      "word": "Interest rate",
+      "pronunciation": "/ˈɪntrəst reɪt/",
+      "definition": "The proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage.",
+      "sentences": [
+        "The central bank raised the interest rate.",
+        "High interest rates make borrowing more expensive.",
+        "She got a low interest rate on her mortgage."
+      ]
+    },
+    {
+      "word": "Bank",
+      "pronunciation": "/bæŋk/",
+      "definition": "A financial establishment that lends and borrows money.",
+      "sentences": [
+        "I keep my money in the bank.",
+        "She works at a local bank.",
+        "You can get a loan from the bank."
+      ]
+    },
+    {
+      "word": "Loan",
+      "pronunciation": "/loʊn/",
+      "definition": "A sum of money that is borrowed and expected to be paid back with interest.",
+      "sentences": [
+        "He took out a loan to buy a car.",
+        "The bank approved her loan application.",
+        "Paying back a loan takes discipline."
+      ]
+    },
+    {
+      "word": "Debt",
+      "pronunciation": "/dɛt/",
+      "definition": "A sum of money that is owed or due.",
+      "sentences": [
+        "It's important to avoid getting into too much debt.",
+        "He worked hard to pay off his debt.",
+        "The country has a large national debt."
+      ]
+    },
+    {
+      "word": "Credit",
+      "pronunciation": "/ˈkrɛdɪt/",
+      "definition": "The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.",
+      "sentences": [
+        "She used her credit card to buy the dress.",
+        "Building good credit is important for loans.",
+        "He bought the car on credit."
+      ]
+    },
+    {
+      "word": "Debit",
+      "pronunciation": "/ˈdɛbɪt/",
+      "definition": "An entry recording an amount owed, or money taken from an account.",
+      "sentences": [
+        "The payment was debited from my account.",
+        "He used his debit card to pay.",
+        "Check your statement for any unauthorized debits."
+      ]
+    },
+    {
+      "word": "Currency",
+      "pronunciation": "/ˈkʌrənsi/",
+      "definition": "A system of money in general use in a particular country.",
+      "sentences": [
+        "The euro is the currency of many European countries.",
+        "You need to exchange your currency when traveling.",
+        "The value of the local currency changed."
+      ]
+    },
+    {
+      "word": "Exchange rate",
+      "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "The value of one currency for the purpose of conversion to another.",
+      "sentences": [
+        "Check the exchange rate before converting money.",
+        "The exchange rate between dollars and euros changes daily.",
+        "A favorable exchange rate can save you money."
+      ]
+    },
+    {
+      "word": "Stock market",
+      "pronunciation": "/stɒk ˈmɑːrkɪt/",
+      "definition": "A market where stocks and bonds are traded.",
+      "sentences": [
+        "He invests his money in the stock market.",
+        "The stock market can be very volatile.",
+        "News affects the stock market every day."
+      ]
+    },
+    {
+      "word": "Shares",
+      "pronunciation": "/ʃɛərz/",
+      "definition": "Units of ownership in a company that are sold to investors.",
+      "sentences": [
+        "She bought shares in a technology company.",
+        "The value of his shares increased.",
+        "Many people invest in company shares."
+      ]
+    },
+    {
+      "word": "Bonds",
+      "pronunciation": "/bɒndz/",
+      "definition": "Certificates of debt issued by a government or company to raise money, promising to pay interest and repay the principal at a later date.",
+      "sentences": [
+        "Government bonds are considered a safe investment.",
+        "He invested in corporate bonds.",
+        "Bonds pay a fixed interest rate."
+      ]
+    },
+    {
+      "word": "Investor",
+      "pronunciation": "/ɪnˈvɛstər/",
+      "definition": "A person or organization that puts money into financial schemes, property, etc., with the expectation of achieving a profit.",
+      "sentences": [
+        "She is a smart investor in real estate.",
+        "Many small investors are entering the market.",
+        "The company is looking for new investors."
+      ]
+    },
+    {
+      "word": "Capital",
+      "pronunciation": "/ˈkæpɪtl/",
+      "definition": "Wealth in the form of money or other assets owned by a person or organization, available for investment.",
+      "sentences": [
+        "The company needs more capital to expand.",
+        "He invested a large amount of capital in the business.",
+        "Capital can be used to start new projects."
+      ]
+    },
+    {
+      "word": "Labor",
+      "pronunciation": "/ˈleɪbər/",
+      "definition": "Work, especially hard physical work, or the people who do work.",
+      "sentences": [
+        "The factory employs skilled labor.",
+        "Manual labor can be tiring.",
+        "The cost of labor increased."
+      ]
+    },
+    {
+      "word": "Resources",
+      "pronunciation": "/rɪˈsɔːrsɪz/",
+      "definition": "A stock or supply of money, materials, staff, and other assets that can be drawn on by a person or organization in order to function effectively.",
+      "sentences": [
+        "Natural resources include oil and gas.",
+        "The country has abundant natural resources.",
+        "Managing resources efficiently is important."
+      ]
+    },
+    {
+      "word": "Production",
+      "pronunciation": "/prəˈdʌkʃən/",
+      "definition": "The process of making or growing something for sale.",
+      "sentences": [
+        "Car production increased this year.",
+        "The factory focuses on mass production.",
+        "Efficient production saves money."
+      ]
+    },
+    {
+      "word": "Consumption",
+      "pronunciation": "/kənˈsʌmpʃən/",
+      "definition": "The action of using up a resource.",
+      "sentences": [
+        "Energy consumption is high in winter.",
+        "Reducing consumption helps the environment.",
+        "Consumer consumption drives the economy."
+      ]
+    },
+    {
+      "word": "Consumer",
+      "pronunciation": "/kənˈsuːmər/",
+      "definition": "A person who buys goods and services for personal use.",
+      "sentences": [
+        "Consumers want good quality products.",
+        "The new law protects consumers.",
+        "Understanding consumer behavior is key for businesses."
+      ]
+    },
+    {
+      "word": "Producer",
+      "pronunciation": "/prəˈduːsər/",
+      "definition": "A person or company that makes or grows goods.",
+      "sentences": [
+        "The farmer is a producer of organic vegetables.",
+        "The company is a major producer of electronics.",
+        "Producers aim to meet consumer demand."
+      ]
+    },
+    {
+      "word": "Scarcity",
+      "pronunciation": "/ˈskɛərsɪti/",
+      "definition": "The state of being scarce or in short supply; shortage.",
+      "sentences": [
+        "Water scarcity is a problem in many regions.",
+        "Scarcity of resources drives economic decisions.",
+        "The scarcity of rare metals increased their price."
+      ]
+    },
+    {
+      "word": "Opportunity cost",
+      "pronunciation": "/ˌɒpərˈtuːnɪti kɒst/",
+      "definition": "The loss of potential gain from other alternatives when one alternative is chosen.",
+      "sentences": [
+        "Choosing to study means the opportunity cost of earning money.",
+        "Every decision has an opportunity cost.",
+        "Understanding opportunity cost helps in making choices."
+      ]
+    },
+    {
+      "word": "Supply and demand",
+      "pronunciation": "/səˈplaɪ ænd dɪˈmænd/",
+      "definition": "The amount of a commodity, product, or service available and the desire of buyers for it, considered as factors regulating its price.",
+      "sentences": [
+        "The law of supply and demand affects prices.",
+        "Supply and demand determine market equilibrium.",
+        "Understanding supply and demand is basic to economics."
+      ]
+    },
+    {
+      "word": "Market economy",
+      "pronunciation": "/ˈmɑːrkɪt ɪˈkɒnəmi/",
+      "definition": "An economic system in which decisions about production and prices are made by individuals and businesses, not the government.",
+      "sentences": [
+        "The United States has a market economy.",
+        "In a market economy, prices are set by supply and demand.",
+        "A market economy encourages competition."
+      ]
+    },
+    {
+      "word": "Command economy",
+      "pronunciation": "/kəˈmɑːnd ɪˈkɒnəmi/",
+      "definition": "An economic system in which the government makes all decisions about production and prices.",
+      "sentences": [
+        "Some countries have a command economy.",
+        "In a command economy, the government controls resources.",
+        "A command economy may have less individual freedom."
+      ]
+    },
+    {
+      "word": "Mixed economy",
+      "pronunciation": "/mɪkst ɪˈkɒnəmi/",
+      "definition": "An economic system combining private and public enterprise.",
+      "sentences": [
+        "Most countries today have a mixed economy.",
+        "A mixed economy combines elements of market and command systems.",
+        "The mixed economy allows for both private business and government services."
+      ]
+    },
+    {
+      "word": "Gross Domestic Product (GDP)",
+      "pronunciation": "/ɡroʊs dəˈmɛstɪk ˈprɒdʌkt/",
+      "definition": "The total value of goods produced and services provided in a country during one year.",
+      "sentences": [
+        "GDP is a measure of a country's economic health.",
+        "The country's GDP grew by 3% last year.",
+        "Economists closely watch GDP figures."
+      ]
+    },
+    {
+      "word": "Recession",
+      "pronunciation": "/rɪˈsɛʃən/",
+      "definition": "A period of temporary economic decline during which trade and industrial activity are reduced.",
+      "sentences": [
+        "The country entered a recession after the financial crisis.",
+        "During a recession, many people lose their jobs.",
+        "Governments try to avoid a recession."
+      ]
+    },
+    {
+      "word": "Boom",
+      "pronunciation": "/buːm/",
+      "definition": "A period of rapid economic growth.",
+      "sentences": [
+        "The economy experienced a housing boom.",
+        "During an economic boom, jobs are plentiful.",
+        "The tech industry is in a boom period."
+      ]
+    },
+    {
+      "word": "Unemployment",
+      "pronunciation": "/ˌʌnɪmˈplɔɪmənt/",
+      "definition": "The state of being without a job.",
+      "sentences": [
+        "High unemployment is a sign of a weak economy.",
+        "The government aims to reduce unemployment.",
+        "Many people faced unemployment during the recession."
+      ]
+    },
+    {
+      "word": "Employment",
+      "pronunciation": "/ɪmˈplɔɪmənt/",
+      "definition": "The state of having a job or being employed.",
+      "sentences": [
+        "Full employment means everyone who wants a job has one.",
+        "The new factory created many employment opportunities.",
+        "Employment rates are a key economic indicator."
+      ]
+    },
+    {
+      "word": "Interest",
+      "pronunciation": "/ˈɪntrəst/",
+      "definition": "Money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt.",
+      "sentences": [
+        "I earn interest on my savings account.",
+        "He pays high interest on his credit card debt.",
+        "The bank charges interest on loans."
+      ]
+    },
+    {
+      "word": "Mortgage",
+      "pronunciation": "/ˈmɔːrɡɪdʒ/",
+      "definition": "A legal agreement by which a bank lends money at interest in exchange for taking title of the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.",
+      "sentences": [
+        "They took out a mortgage to buy their first home.",
+        "Paying off a mortgage can take many years.",
+        "The interest rate on her mortgage is fixed."
+      ]
+    },
+    {
+      "word": "Stock",
+      "pronunciation": "/stɒk/",
+      "definition": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution.",
+      "sentences": [
+        "The store has a large stock of winter clothes.",
+        "We need to check the stock levels.",
+        "The company keeps its stock in a large warehouse."
+      ]
+    },
+    {
+      "word": "Bond",
+      "pronunciation": "/bɒnd/",
+      "definition": "A certificate issued by a government or a public company promising to repay borrowed money at a fixed rate of interest at a specified time.",
+      "sentences": [
+        "He invested in government bonds.",
+        "Bonds are a type of investment.",
+        "The company issued new bonds to raise capital."
+      ]
+    },
+    {
+      "word": "Shares (stock)",
+      "pronunciation": "/ʃɛərz/",
+      "definition": "Units of ownership in a company, representing a claim on its assets and earnings.",
+      "sentences": [
+        "The value of her shares increased significantly.",
+        "He bought more shares in the tech company.",
+        "Many people buy shares as a long-term investment."
+      ]
+    },
+    {
+      "word": "Dividend",
+      "pronunciation": "/ˈdɪvɪdɛnd/",
+      "definition": "A sum of money paid regularly (typically annually) by a company to its shareholders out of its profits.",
+      "sentences": [
+        "Shareholders receive a dividend from the company's profits.",
+        "The company announced a higher dividend this quarter.",
+        "Dividends are a form of income for investors."
+      ]
+    },
+    {
+      "word": "Portfolio",
+      "pronunciation": "/pɔːrtˈfoʊlioʊ/",
+      "definition": "A range of investments held by an individual or organization.",
+      "sentences": [
+        "He has a diverse investment portfolio.",
+        "Her portfolio includes stocks, bonds, and real estate.",
+        "A good portfolio balances risk and return."
+      ]
+    },
+    {
+      "word": "Diversification",
+      "pronunciation": "/daɪˌvɜːrsɪfɪˈkeɪʃən/",
+      "definition": "The process of investing in a range of assets to reduce risk.",
+      "sentences": [
+        "Diversification is a key strategy for reducing investment risk.",
+        "He achieved diversification by investing in different industries.",
+        "Diversification helps protect your investments."
+      ]
+    },
+    {
+      "word": "Return on investment (ROI)",
+      "pronunciation": "/rɪˈtɜːrn ɒn ɪnˈvɛstmənt/",
+      "definition": "A performance measure used to evaluate the efficiency of an investment or compare the efficiency of a number of different investments.",
+      "sentences": [
+        "The new project has a high return on investment.",
+        "He calculated the ROI before making the investment.",
+        "Businesses look for a good ROI."
+      ]
+    },
+    {
+      "word": "Risk",
+      "pronunciation": "/rɪsk/",
+      "definition": "A situation involving exposure to danger.",
+      "sentences": [
+        "Every investment carries some level of risk.",
+        "He took a calculated risk with his business venture.",
+        "Managing risk is important in finance."
+      ]
+    },
+    {
+      "word": "Asset",
+      "pronunciation": "/ˈæsɛt/",
+      "definition": "A useful or valuable thing or person, or an item of property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies.",
+      "sentences": [
+        "His house is his biggest asset.",
+        "The company has many valuable assets.",
+        "Knowledge is a great asset."
+      ]
+    },
+    {
+      "word": "Liability",
+      "pronunciation": "/ˌlaɪəˈbɪləti/",
+      "definition": "The state of being responsible for something, especially by law, or a thing for which someone is responsible, especially a debt or financial obligation.",
+      "sentences": [
+        "The company has a lot of financial liabilities.",
+        "Debt is a major liability.",
+        "He wanted to reduce his liabilities."
+      ]
+    },
+    {
+      "word": "Budget deficit",
+      "pronunciation": "/ˈbʌdʒɪt ˈdɛfɪsɪt/",
+      "definition": "The amount by which expenditures exceed income over a particular period.",
+      "sentences": [
+        "The government is trying to reduce the budget deficit.",
+        "A large budget deficit can be a problem for a country.",
+        "The company faced a budget deficit this quarter."
+      ]
+    },
+    {
+      "word": "Budget surplus",
+      "pronunciation": "/ˈbʌdʒɪt ˈsɜːrpləs/",
+      "definition": "The amount by which income exceeds expenditures over a particular period.",
+      "sentences": [
+        "The city achieved a budget surplus this year.",
+        "A budget surplus allows for more spending or saving.",
+        "The government celebrated its first budget surplus in years."
+      ]
+    },
+    {
+      "word": "Fiscal policy",
+      "pronunciation": "/ˈfɪskəl ˈpɒləsi/",
+      "definition": "Government policy regarding taxation and public spending.",
+      "sentences": [
+        "The government used fiscal policy to stimulate the economy.",
+        "Fiscal policy can affect inflation and employment.",
+        "Changes in fiscal policy were announced."
+      ]
+    },
+    {
+      "word": "Monetary policy",
+      "pronunciation": "/ˈmʌnɪtɛri ˈpɒləsi/",
+      "definition": "The actions undertaken by a central bank to influence the availability and cost of money and credit to help promote national economic goals.",
+      "sentences": [
+        "The central bank uses monetary policy to control interest rates.",
+        "Monetary policy aims to keep prices stable.",
+        "Changes in monetary policy can affect borrowing."
+      ]
+    },
+    {
+      "word": "Central bank",
+      "pronunciation": "/ˈsɛntrəl bæŋk/",
+      "definition": "A national bank that provides financial and banking services for its country's government and commercial banking system, as well as implementing the government's monetary policy.",
+      "sentences": [
+        "The central bank controls the money supply.",
+        "The Federal Reserve is the central bank of the United States.",
+        "Central banks play a crucial role in the economy."
+      ]
+    },
+    {
+      "word": "Exchange",
+      "pronunciation": "/ɪksˈtʃeɪndʒ/",
+      "definition": "The act of giving something and receiving something else in return.",
+      "sentences": [
+        "We can exchange goods and services.",
+        "The exchange of ideas is important.",
+        "He offered a fair exchange for the item."
+      ]
+    },
+    {
+      "word": "Import",
+      "pronunciation": "/ˈɪmpɔːrt/",
+      "definition": "To bring goods or services into a country from abroad for sale.",
+      "sentences": [
+        "The country imports a lot of oil.",
+        "Many goods in the store are imported.",
+        "We import coffee from South America."
+      ]
+    },
+    {
+      "word": "Export",
+      "pronunciation": "/ˈɛkspɔːrt/",
+      "definition": "To send goods or services to another country for sale.",
+      "sentences": [
+        "The country exports cars to many nations.",
+        "Their main export is agricultural products.",
+        "He works for an export company."
+      ]
+    },
+    {
+      "word": "Balance of trade",
+      "pronunciation": "/ˈbæləns əv treɪd/",
+      "definition": "The difference in value between a country's total exports and total imports over a specific period.",
+      "sentences": [
+        "A trade surplus means a positive balance of trade.",
+        "The country aims for a balanced balance of trade.",
+        "The balance of trade affects a country's economy."
+      ]
+    },
+    {
+      "word": "Tariff",
+      "pronunciation": "/ˈtærɪf/",
+      "definition": "A tax or duty to be paid on a particular class of imports or exports.",
+      "sentences": [
+        "The government imposed a tariff on imported steel.",
+        "Tariffs can make imported goods more expensive.",
+        "Countries sometimes use tariffs to protect local industries."
+      ]
+    },
+    {
+      "word": "Quota",
+      "pronunciation": "/ˈkwoʊtə/",
+      "definition": "A limited quantity of a particular product that under official controls can be produced, exported, or imported.",
+      "sentences": [
+        "There is a quota on how much rice can be imported.",
+        "The company met its sales quota.",
+        "Import quotas can restrict trade."
+      ]
+    },
+    {
+      "word": "Embargo",
+      "pronunciation": "/ɪmˈbɑːrɡoʊ/",
+      "definition": "An official ban on trade or other commercial activity with a particular country.",
+      "sentences": [
+        "The country imposed an embargo on oil exports.",
+        "An embargo can severely affect a country's economy.",
+        "The trade embargo was lifted after years."
+      ]
+    },
+    {
+      "word": "Free trade",
+      "pronunciation": "/friː treɪd/",
+      "definition": "International trade left to its natural course without tariffs, quotas, or other restrictions.",
+      "sentences": [
+        "Many economists support free trade.",
+        "Free trade can lead to lower prices for consumers.",
+        "Negotiations for a new free trade agreement are ongoing."
+      ]
+    },
+    {
+      "word": "Protectionism",
+      "pronunciation": "/prəˈtɛkʃənɪzəm/",
+      "definition": "The theory or practice of shielding a country's domestic industries from foreign competition by taxing imports.",
+      "sentences": [
+        "Some argue for protectionism to save local jobs.",
+        "Protectionism can lead to trade wars.",
+        "The government adopted protectionism policies."
+      ]
+    },
+    {
+      "word": "Globalization",
+      "pronunciation": "/ˌɡloʊbəlaɪˈzeɪʃən/",
+      "definition": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+      "sentences": [
+        "Globalization has led to more interconnected economies.",
+        "Technology has accelerated globalization.",
+        "Globalization has both benefits and drawbacks."
+      ]
+    },
+    {
+      "word": "Multinational corporation",
+      "pronunciation": "/ˌmʌltiˈnæʃənəl ˌkɔːrpəˈreɪʃən/",
+      "definition": "A large corporation that has operations in more than one country.",
+      "sentences": [
+        "Many well-known brands are multinational corporations.",
+        "Multinational corporations often have a global impact.",
+        "She works for a large multinational corporation."
+      ]
+    },
+    {
+      "word": "Supply chain",
+      "pronunciation": "/səˈplaɪ tʃeɪn/",
+      "definition": "The sequence of processes involved in the production and distribution of a commodity.",
+      "sentences": [
+        "The global supply chain was affected by the pandemic.",
+        "Managing the supply chain efficiently is crucial for businesses.",
+        "The company optimized its supply chain."
+      ]
+    },
+    {
+      "word": "Retail",
+      "pronunciation": "/ˈriːteɪl/",
+      "definition": "The sale of goods to the public in relatively small quantities for use or consumption rather than for resale.",
+      "sentences": [
+        "She works in retail, selling clothes.",
+        "Online retail is growing rapidly.",
+        "The retail sector is very competitive."
+      ]
+    },
+    {
+      "word": "Wholesale",
+      "pronunciation": "/ˈhoʊlseɪl/",
+      "definition": "The selling of goods in large quantities to be retailed by others.",
+      "sentences": [
+        "He buys products at wholesale prices.",
+        "The company operates in the wholesale market.",
+        "Wholesale suppliers sell to retailers."
+      ]
+    },
+    {
+      "word": "Manufacturer",
+      "pronunciation": "/ˌmænjʊˈfæktʃərər/",
+      "definition": "A person or company that makes goods for sale.",
+      "sentences": [
+        "The car manufacturer released a new model.",
+        "She works for a clothing manufacturer.",
+        "Manufacturers produce goods in factories."
+      ]
+    },
+    {
+      "word": "Distributor",
+      "pronunciation": "/dɪˈstrɪbjutər/",
+      "definition": "A person or organization that markets or sells a product, typically to retailers.",
+      "sentences": [
+        "The company signed a deal with a new distributor.",
+        "Distributors help products reach stores.",
+        "He works as a regional distributor."
+      ]
+    },
+    {
+      "word": "Consumer spending",
+      "pronunciation": "/kənˈsuːmər ˈspɛndɪŋ/",
+      "definition": "The total money spent by individuals and households on goods and services.",
+      "sentences": [
+        "Consumer spending drives economic growth.",
+        "A rise in consumer spending is good for businesses.",
+        "The government monitors consumer spending habits."
+      ]
+    },
+    {
+      "word": "Economic growth",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ɡroʊθ/",
+      "definition": "An increase in the amount of goods and services produced per head of the population over a period of time.",
+      "sentences": [
+        "The country experienced strong economic growth last year.",
+        "Economic growth creates more jobs.",
+        "Governments aim for sustainable economic growth."
+      ]
+    },
+    {
+      "word": "Sustainable development",
+      "pronunciation": "/səˈsteɪnəbl dɪˈvɛləpmənt/",
+      "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "sentences": [
+        "Sustainable development is crucial for the planet's future.",
+        "Many companies are focusing on sustainable development practices.",
+        "Sustainable development balances economic growth with environmental protection."
+      ]
+    },
+    {
+      "word": "Gross National Product (GNP)",
+      "pronunciation": "/ɡroʊs ˈnæʃənəl ˈprɒdʌkt/",
+      "definition": "The total value of all goods and services produced by a country's residents, regardless of location.",
+      "sentences": [
+        "GNP includes income from overseas investments.",
+        "GNP is another measure of a country's economic activity.",
+        "Some economists prefer GNP over GDP for certain analyses."
+      ]
+    },
+    {
+      "word": "Per capita income",
+      "pronunciation": "/pər ˈkæpɪtə ˈɪnkʌm/",
+      "definition": "The average income earned per person in a given area in a specified year.",
+      "sentences": [
+        "Per capita income is used to measure living standards.",
+        "The country's per capita income has increased.",
+        "Per capita income can vary greatly within a country."
+      ]
+    },
+    {
+      "word": "Standard of living",
+      "pronunciation": "/ˈstændərd əv ˈlɪvɪŋ/",
+      "definition": "The degree of wealth and material comfort available to a person or community.",
+      "sentences": [
+        "A high standard of living means access to good healthcare and education.",
+        "Economic growth can improve the standard of living.",
+        "She enjoys a high standard of living."
+      ]
+    },
+    {
+      "word": "Poverty",
+      "pronunciation": "/ˈpɒvərti/",
+      "definition": "The state of being extremely poor.",
+      "sentences": [
+        "Many organizations work to reduce poverty worldwide.",
+        "Poverty can lead to a lack of basic necessities.",
+        "Fighting poverty is a global goal."
+      ]
+    },
+    {
+      "word": "Wealth",
+      "pronunciation": "/wɛlθ/",
+      "definition": "An abundance of valuable possessions or money.",
+      "sentences": [
+        "He inherited a large amount of wealth.",
+        "The country has great natural wealth.",
+        "Wealth can provide opportunities."
+      ]
+    },
+    {
+      "word": "Inequality",
+      "pronunciation": "/ˌɪnɪˈkwɒləti/",
+      "definition": "Difference in size, degree, circumstances, etc.; lack of equality.",
+      "sentences": [
+        "Income inequality is a major economic issue.",
+        "The government is trying to reduce social inequality.",
+        "Inequality can lead to social unrest."
+      ]
+    },
+    {
+      "word": "Distribution of wealth",
+      "pronunciation": "/ˌdɪstrɪˈbjuːʃən əv wɛlθ/",
+      "definition": "The way in which wealth is divided among the members of a society.",
+      "sentences": [
+        "The distribution of wealth is uneven in many countries.",
+        "Economists study the distribution of wealth.",
+        "Policies can affect the distribution of wealth."
+      ]
+    },
+    {
+      "word": "Social welfare",
+      "pronunciation": "/ˈsoʊʃəl ˈwɛlfɛər/",
+      "definition": "Organized public or private social services for the assistance of disadvantaged groups.",
+      "sentences": [
+        "The government provides social welfare programs.",
+        "Social welfare aims to support those in need.",
+        "Many countries have strong social welfare systems."
+      ]
+    },
+    {
+      "word": "Subsidy",
+      "pronunciation": "/ˈsʌbsɪdi/",
+      "definition": "A sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low.",
+      "sentences": [
+        "The government provided a subsidy to farmers.",
+        "Subsidies can help certain industries grow.",
+        "The company received a subsidy for renewable energy."
+      ]
+    },
+    {
+      "word": "Grant",
+      "pronunciation": "/ɡrɑːnt/",
+      "definition": "A sum of money given by an organization, especially a government, for a particular purpose.",
+      "sentences": [
+        "She received a grant for her research project.",
+        "The university offers grants to students.",
+        "He applied for a small business grant."
+      ]
+    },
+    {
+      "word": "Aid",
+      "pronunciation": "/eɪd/",
+      "definition": "Help, typically of a practical nature.",
+      "sentences": [
+        "International aid was sent to the affected country.",
+        "Financial aid is available for students.",
+        "The organization provides humanitarian aid."
+      ]
+    },
+    {
+      "word": "Charity",
+      "pronunciation": "/ˈtʃærɪti/",
+      "definition": "An organization set up to provide help and raise money for those in need.",
+      "sentences": [
+        "She donates regularly to charity.",
+        "The charity helps homeless people.",
+        "Many people volunteer for charities."
+      ]
+    },
+    {
+      "word": "Donation",
+      "pronunciation": "/doʊˈneɪʃən/",
+      "definition": "Something that is given to a charity, especially a sum of money.",
+      "sentences": [
+        "He made a generous donation to the hospital.",
+        "The charity relies on public donations.",
+        "Every small donation helps."
+      ]
+    },
+    {
+      "word": "Philanthropy",
+      "pronunciation": "/fɪˈlænθrəpi/",
+      "definition": "The desire to promote the welfare of others, expressed especially by the generous donation of money to good causes.",
+      "sentences": [
+        "His philanthropy has supported many educational programs.",
+        "Philanthropy plays a big role in society.",
+        "She is known for her acts of philanthropy."
+      ]
+    },
+    {
+      "word": "Microeconomics",
+      "pronunciation": "/ˌmaɪkroʊˌiːkəˈnɒmɪks/",
+      "definition": "The part of economics concerned with single factors and the effects of individual decisions.",
+      "sentences": [
+        "Microeconomics studies how individuals make choices.",
+        "He is taking a course on microeconomics.",
+        "Microeconomics looks at specific markets and firms."
+      ]
+    },
+    {
+      "word": "Macroeconomics",
+      "pronunciation": "/ˌmækroʊˌiːkəˈnɒmɪks/",
+      "definition": "The part of economics concerned with large-scale or general economic factors, such as interest rates and national productivity.",
+      "sentences": [
+        "Macroeconomics studies the economy as a whole.",
+        "Government policies are often based on macroeconomic principles.",
+        "She specializes in macroeconomics."
+      ]
+    },
+    {
+      "word": "Supply curve",
+      "pronunciation": "/səˈplaɪ kɜːrv/",
+      "definition": "A graph showing the quantity of a good or service that sellers are willing to offer at various prices.",
+      "sentences": [
+        "The supply curve typically slopes upward.",
+        "Economists use a supply curve to illustrate market behavior.",
+        "Changes in production costs can shift the supply curve."
+      ]
+    },
+    {
+      "word": "Demand curve",
+      "pronunciation": "/dɪˈmænd kɜːrv/",
+      "definition": "A graph showing the quantity of a good or service that buyers are willing to purchase at various prices.",
+      "sentences": [
+        "The demand curve typically slopes downward.",
+        "The intersection of the supply and demand curves determines market price.",
+        "Changes in consumer preferences can shift the demand curve."
+      ]
+    },
+    {
+      "word": "Equilibrium price",
+      "pronunciation": "/ˌiːkwɪˈlɪbriəm praɪs/",
+      "definition": "The price at which the quantity demanded equals the quantity supplied, resulting in no surplus or shortage.",
+      "sentences": [
+        "At the equilibrium price, the market is balanced.",
+        "The forces of supply and demand tend to push prices towards the equilibrium price.",
+        "Finding the equilibrium price is key to market efficiency."
+      ]
+    },
+    {
+      "word": "Surplus",
+      "pronunciation": "/ˈsɜːrpləs/",
+      "definition": "An amount of something left over when requirements have been met; an excess of production or supply over demand.",
+      "sentences": [
+        "The company had a surplus of products.",
+        "A budget surplus means more money than needed.",
+        "The farm produced a surplus of crops this year."
+      ]
+    },
+    {
+      "word": "Shortage",
+      "pronunciation": "/ˈʃɔːrtɪdʒ/",
+      "definition": "A state or situation in which something needed cannot be obtained in sufficient amounts.",
+      "sentences": [
+        "There was a shortage of essential goods during the crisis.",
+        "A shortage of skilled workers can slow down an industry.",
+        "The water shortage affected many communities."
+      ]
+    },
+    {
+      "word": "Elasticity",
+      "pronunciation": "/ˌɪlæˈstɪsɪti/",
+      "definition": "The degree to which individuals, consumers, or producers change their demand or the amount supplied in response to price or income changes.",
+      "sentences": [
+        "The elasticity of demand for luxury goods is often high.",
+        "Economists study price elasticity.",
+        "Elasticity helps predict market responses."
+      ]
+    },
+    {
+      "word": "Utility",
+      "pronunciation": "/juːˈtɪləti/",
+      "definition": "The state of being useful, profitable, or beneficial, or the satisfaction a consumer gets from a good or service.",
+      "sentences": [
+        "The new software has great utility for businesses.",
+        "Economists measure consumer utility.",
+        "The tool provides a lot of utility."
+      ]
+    },
+    {
+      "word": "Marginal utility",
+      "pronunciation": "/ˈmɑːrdʒɪnəl juːˈtɪləti/",
+      "definition": "The additional satisfaction or utility that a consumer derives from consuming an additional unit of a good or service.",
+      "sentences": [
+        "The law of diminishing marginal utility states that satisfaction decreases with each additional unit consumed.",
+        "Marginal utility helps explain consumer choices.",
+        "He considered the marginal utility of buying another snack."
+      ]
+    },
+    {
+      "word": "Opportunity cost (economic)",
+      "pronunciation": "/ˌɒpərˈtuːnɪti kɒst/",
+      "definition": "The value of the next best alternative that was not taken when a decision was made.",
+      "sentences": [
+        "The opportunity cost of going to college is the money you could have earned working.",
+        "Every economic decision involves an opportunity cost.",
+        "Businesses consider opportunity cost when allocating resources."
+      ]
+    },
+    {
+      "word": "Comparative advantage",
+      "pronunciation": "/kəmˈpærətɪv ədˈvɑːntɪdʒ/",
+      "definition": "The ability of an individual or group to carry out a particular economic activity (such as making a specific product) more efficiently than another activity.",
+      "sentences": [
+        "Countries specialize in goods where they have a comparative advantage.",
+        "Comparative advantage explains why countries trade.",
+        "He focused on his comparative advantage in coding."
+      ]
+    },
+    {
+      "word": "Absolute advantage",
+      "pronunciation": "/ˈæbsəluːt ədˈvɑːntɪdʒ/",
+      "definition": "The ability of an individual, company, or country to produce a greater quantity of a good, product, or service than competitors, using the same amount of resources.",
+      "sentences": [
+        "A country has an absolute advantage if it can produce more of a good with the same resources.",
+        "Absolute advantage is about producing more efficiently.",
+        "He had an absolute advantage in speed."
+      ]
+    },
+    {
+      "word": "Specialization",
+      "pronunciation": "/ˌspɛʃəlaɪˈzeɪʃən/",
+      "definition": "The process of concentrating on and becoming expert in a particular subject or skill.",
+      "sentences": [
+        "Specialization in production can increase efficiency.",
+        "He chose a field of specialization for his career.",
+        "Countries benefit from specialization in trade."
+      ]
+    },
+    {
+      "word": "Division of labor",
+      "pronunciation": "/dɪˈvɪʒən əv ˈleɪbər/",
+      "definition": "The assignment of different parts of a manufacturing process or task to different people in order to improve efficiency.",
+      "sentences": [
+        "The factory uses a division of labor to produce cars faster.",
+        "Division of labor increases productivity.",
+        "Adam Smith discussed the benefits of the division of labor."
+      ]
+    },
+    {
+      "word": "Productivity",
+      "pronunciation": "/ˌprɒdʌkˈtɪvɪti/",
+      "definition": "The rate at which a company or country produces goods or services, or the amount of work done per person.",
+      "sentences": [
+        "New technology can increase productivity.",
+        "The company aims to improve employee productivity.",
+        "Higher productivity leads to economic growth."
+      ]
+    },
+    {
+      "word": "Efficiency",
+      "pronunciation": "/ɪˈfɪʃənsi/",
+      "definition": "The state or quality of being efficient; achieving maximum productivity with minimum wasted effort or expense.",
+      "sentences": [
+        "The new system improved efficiency in the office.",
+        "Energy efficiency is important for the environment.",
+        "He values efficiency in his work."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "pronunciation": "/ˌɪnəˈveɪʃən/",
+      "definition": "The action or process of innovating, or a new method, idea, product, etc.",
+      "sentences": [
+        "Technological innovation drives economic progress.",
+        "The company is known for its innovation.",
+        "Innovation creates new opportunities."
+      ]
+    },
+    {
+      "word": "Entrepreneur",
+      "pronunciation": "/ˌɒntrəprəˈnɜːr/",
+      "definition": "A person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so.",
+      "sentences": [
+        "She is a successful entrepreneur who started her own company.",
+        "Entrepreneurs create jobs and new businesses.",
+        "He has the spirit of an entrepreneur."
+      ]
+    },
+    {
+      "word": "Startup",
+      "pronunciation": "/ˈstɑːrtʌp/",
+      "definition": "A newly established business.",
+      "sentences": [
+        "He works for a tech startup.",
+        "Many startups struggle in their first few years.",
+        "The city is a hub for new startups."
+      ]
+    },
+    {
+      "word": "Small business",
+      "pronunciation": "/smɔːl ˈbɪznɪs/",
+      "definition": "A privately owned and operated business that is limited in size and revenue depending on the industry.",
+      "sentences": [
+        "My aunt owns a small business.",
+        "Small businesses are important for the local economy.",
+        "He supports local small businesses."
+      ]
+    },
+    {
+      "word": "Corporation",
+      "pronunciation": "/ˌkɔːrpəˈreɪʃən/",
+      "definition": "A large company or a group of companies authorized to act as a single entity and recognized as such in law.",
+      "sentences": [
+        "Apple is a large multinational corporation.",
+        "Corporations often have many employees.",
+        "He works for a major corporation."
+      ]
+    },
+    {
+      "word": "Monopoly",
+      "pronunciation": "/məˈnɒpəli/",
+      "definition": "The exclusive possession or control of the supply of or trade in a commodity or service.",
+      "sentences": [
+        "The company had a monopoly on the software market.",
+        "Governments often try to prevent monopolies.",
+        "A monopoly can lead to higher prices for consumers."
+      ]
+    },
+    {
+      "word": "Oligopoly",
+      "pronunciation": "/ˌɒlɪˈɡɒpəli/",
+      "definition": "A state of limited competition, in which a market is shared by a small number of producers or sellers.",
+      "sentences": [
+        "The airline industry is often considered an oligopoly.",
+        "In an oligopoly, a few firms dominate the market.",
+        "Oligopoly can lead to less competition."
+      ]
+    },
+    {
+      "word": "Competition",
+      "pronunciation": "/ˌkɒmpəˈtɪʃən/",
+      "definition": "The rivalry among sellers trying to achieve such objectives as increasing profits, market share, and sales volume by varying the elements of the marketing mix: price, product, promotion, and place.",
+      "sentences": [
+        "Healthy competition benefits consumers.",
+        "The market has strong competition.",
+        "Competition drives innovation."
+      ]
+    },
+    {
+      "word": "Subsidy (economic)",
+      "pronunciation": "/ˈsʌbsɪdi/",
+      "definition": "A sum of money granted by the state or a public body to help an industry or business keep the price of a commodity or service low or competitive.",
+      "sentences": [
+        "The government provided a subsidy to the renewable energy sector.",
+        "Subsidies can distort market prices.",
+        "Farmers often receive agricultural subsidies."
+      ]
+    },
+    {
+      "word": "Tariff (economic)",
+      "pronunciation": "/ˈtærɪf/",
+      "definition": "A tax or duty to be paid on a particular class of imports or exports, used to protect domestic industries.",
+      "sentences": [
+        "The new tariff made imported goods more expensive.",
+        "Tariffs are a tool of protectionism.",
+        "Countries often negotiate over tariffs in trade agreements."
+      ]
+    },
+    {
+      "word": "Quota (economic)",
+      "pronunciation": "/ˈkwoʊtə/",
+      "definition": "A government-imposed trade restriction that limits the number, or in certain cases the monetary value, of goods that a country can import or export during a particular period.",
+      "sentences": [
+        "The import quota restricted the amount of foreign cars.",
+        "Quotas are a non-tariff barrier to trade.",
+        "The government set a quota for fish catches."
+      ]
+    },
+    {
+      "word": "Trade barrier",
+      "pronunciation": "/treɪd ˈbæriər/",
+      "definition": "A government-imposed restriction on the free international exchange of goods or services.",
+      "sentences": [
+        "Tariffs and quotas are types of trade barriers.",
+        "Trade barriers can limit economic growth.",
+        "Countries often negotiate to reduce trade barriers."
+      ]
+    },
+    {
+      "word": "Trade agreement",
+      "pronunciation": "/treɪd əˈɡriːmənt/",
+      "definition": "A pact between two or more nations that outlines how they will conduct trade.",
+      "sentences": [
+        "The two countries signed a new trade agreement.",
+        "Trade agreements aim to reduce barriers to trade.",
+        "Negotiations for a global trade agreement are complex."
+      ]
+    },
+    {
+      "word": "World Trade Organization (WTO)",
+      "pronunciation": "/wɜːrld treɪd ˌɔːrɡənɪˈzeɪʃən/",
+      "definition": "An intergovernmental organization that regulates international trade.",
+      "sentences": [
+        "The WTO helps resolve trade disputes between countries.",
+        "The WTO promotes free trade.",
+        "Members of the WTO agree to certain trade rules."
+      ]
+    },
+    {
+      "word": "International Monetary Fund (IMF)",
+      "pronunciation": "/ˌɪntərˈnæʃənəl ˈmʌnɪtɛri fʌnd/",
+      "definition": "An international organization that promotes global monetary cooperation, financial stability, international trade, high employment, and sustainable economic growth.",
+      "sentences": [
+        "The IMF provides financial assistance to countries in need.",
+        "The IMF monitors the global economy.",
+        "Countries seek help from the IMF during financial crises."
+      ]
+    },
+    {
+      "word": "World Bank",
+      "pronunciation": "/wɜːrld bæŋk/",
+      "definition": "An international financial institution that provides loans and grants to the governments of poorer countries for the purpose of pursuing capital projects.",
+      "sentences": [
+        "The World Bank helps developing countries with infrastructure projects.",
+        "The World Bank aims to reduce poverty.",
+        "Projects funded by the World Bank often focus on education and health."
+      ]
+    },
+    {
+      "word": "Developing country",
+      "pronunciation": "/dɪˈvɛləpɪŋ ˈkʌntri/",
+      "definition": "A country having a relatively low standard of living, undeveloped industrial base, and low Human Development Index (HDI) relative to other countries.",
+      "sentences": [
+        "Many developing countries are working towards economic growth.",
+        "Aid is often provided to developing countries.",
+        "Developing countries face unique economic challenges."
+      ]
+    },
+    {
+      "word": "Developed country",
+      "pronunciation": "/dɪˈvɛləpt ˈkʌntri/",
+      "definition": "A country that has a highly developed economy and advanced technological infrastructure.",
+      "sentences": [
+        "The United States is a developed country.",
+        "Developed countries often have high standards of living.",
+        "Many developed countries invest in research and development."
+      ]
+    },
+    {
+      "word": "Emerging market",
+      "pronunciation": "/ɪˈmɜːrdʒɪŋ ˈmɑːrkɪt/",
+      "definition": "A country that has some characteristics of a developed market, but does not yet meet developed market standards.",
+      "sentences": [
+        "Brazil is considered an emerging market.",
+        "Investing in emerging markets can offer high returns but also high risks.",
+        "Many companies are expanding into emerging markets."
+      ]
+    },
+    {
+      "word": "Foreign direct investment (FDI)",
+      "pronunciation": "/ˈfɒrɪn daɪˈrɛkt ɪnˈvɛstmənt/",
+      "definition": "An investment made by a firm or individual in one country into business interests located in another country.",
+      "sentences": [
+        "FDI can bring new jobs and technology to a country.",
+        "The country attracted a lot of foreign direct investment.",
+        "FDI is a key driver of globalization."
+      ]
+    },
+    {
+      "word": "Remittances",
+      "pronunciation": "/rɪˈmɪtənsɪz/",
+      "definition": "Money sent by someone working abroad to their family in their home country.",
+      "sentences": [
+        "Remittances are an important source of income for many families.",
+        "Developing countries often rely on remittances.",
+        "He sends remittances to his parents every month."
+      ]
+    },
+    {
+      "word": "Brain drain",
+      "pronunciation": "/breɪn dreɪn/",
+      "definition": "The emigration of highly trained or intelligent people from a particular country.",
+      "sentences": [
+        "Brain drain can hinder a country's development.",
+        "Many developing countries suffer from brain drain.",
+        "Policies are needed to prevent brain drain."
+      ]
+    },
+    {
+      "word": "Human capital",
+      "pronunciation": "/ˈhjuːmən ˈkæpɪtl/",
+      "definition": "The skills, knowledge, and experience possessed by an individual or population, viewed in terms of their value or cost to an organization or country.",
+      "sentences": [
+        "Investing in education builds human capital.",
+        "Human capital is a key driver of economic growth.",
+        "The company values its human capital."
+      ]
+    },
+    {
+      "word": "Infrastructure",
+      "pronunciation": "/ˈɪnfrəˌstrʌktʃər/",
+      "definition": "The basic physical and organizational structures and facilities (e.g., buildings, roads, power supplies) needed for the operation of a society or enterprise.",
+      "sentences": [
+        "Good infrastructure is essential for economic development.",
+        "The government is investing in new infrastructure projects.",
+        "Poor infrastructure can hinder trade."
+      ]
+    },
+    {
+      "word": "Public goods",
+      "pronunciation": "/ˈpʌblɪk ɡʊdz/",
+      "definition": "Goods that are non-excludable (everyone can use them) and non-rivalrous (one person's use does not diminish another's).",
+      "sentences": [
+        "National defense is an example of a public good.",
+        "Public goods are often provided by the government.",
+        "Street lighting is a public good."
+      ]
+    },
+    {
+      "word": "Private goods",
+      "pronunciation": "/ˈpraɪvət ɡʊdz/",
+      "definition": "Goods that are excludable (people can be prevented from using them) and rivalrous (one person's use diminishes another's).",
+      "sentences": [
+        "A slice of pizza is a private good.",
+        "Most goods sold in stores are private goods.",
+        "Private goods are typically bought and sold in markets."
+      ]
+    },
+    {
+      "word": "Externalities",
+      "pronunciation": "/ˌɛkstɜːrˈnælətiz/",
+      "definition": "A side effect or consequence of an industrial or commercial activity that affects other parties without this being reflected in the cost of the goods or services involved.",
+      "sentences": [
+        "Pollution is a negative externality of industrial production.",
+        "Externalities can be positive or negative.",
+        "Economists study how to address externalities."
+      ]
+    },
+    {
+      "word": "Market failure",
+      "pronunciation": "/ˈmɑːrkɪt ˈfeɪljər/",
+      "definition": "A situation in which the allocation of goods and services by a free market is not efficient, often due to externalities or public goods.",
+      "sentences": [
+        "Market failure can occur when there is a monopoly.",
+        "Governments sometimes intervene to correct market failure.",
+        "Pollution is an example of market failure."
+      ]
+    },
+    {
+      "word": "Gross National Income (GNI)",
+      "pronunciation": "/ɡroʊs ˈnæʃənəl ˈɪnkʌm/",
+      "definition": "The total income received by the country from its residents and businesses, regardless of whether they are located in the country or abroad.",
+      "sentences": [
+        "GNI is similar to GNP but focuses on income received.",
+        "GNI is used to measure a country's economic well-being.",
+        "The country's GNI per capita increased."
+      ]
+    },
+    {
+      "word": "Net income",
+      "pronunciation": "/nɛt ˈɪnkʌm/",
+      "definition": "An individual's or company's total earnings (or profit); income after all expenses and taxes have been deducted.",
+      "sentences": [
+        "His net income was lower after taxes.",
+        "The company reported a strong net income this quarter.",
+        "Net income is what you actually take home."
+      ]
+    },
+    {
+      "word": "Disposable income",
+      "pronunciation": "/dɪˈspoʊzəbl ˈɪnkʌm/",
+      "definition": "Income remaining after deduction of taxes and other mandatory charges, available to be spent or saved as one wishes.",
+      "sentences": [
+        "More disposable income means people can spend more.",
+        "Her disposable income increased after her raise.",
+        "Consumer spending is influenced by disposable income."
+      ]
+    },
+    {
+      "word": "Discretionary income",
+      "pronunciation": "/dɪˈskrɛʃəˌnɛri ˈɪnkʌm/",
+      "definition": "The amount of an individual's income that is left for spending, investing, or saving after taxes and personal necessities (such as food, shelter, and clothing) have been paid.",
+      "sentences": [
+        "Luxury goods are bought with discretionary income.",
+        "He used his discretionary income for a vacation.",
+        "Discretionary income is what you have left after all essential spending."
+      ]
+    },
+    {
+      "word": "Investment banking",
+      "pronunciation": "/ɪnˈvɛstmənt ˈbæŋkɪŋ/",
+      "definition": "A specific division of banking related to the creation of capital for other companies, governments, and other entities.",
+      "sentences": [
+        "He works in investment banking.",
+        "Investment banking involves advising on mergers and acquisitions.",
+        "Investment banking plays a key role in finance."
+      ]
+    },
+    {
+      "word": "Commercial banking",
+      "pronunciation": "/kəˈmɜːrʃəl ˈbæŋkɪŋ/",
+      "definition": "The business of accepting deposits and making loans.",
+      "sentences": [
+        "Most people use commercial banking services for their daily needs.",
+        "Commercial banking provides loans to individuals and businesses.",
+        "She works at a commercial banking firm."
+      ]
+    },
+    {
+      "word": "Retail banking",
+      "pronunciation": "/ˈriːteɪl ˈbæŋkɪŋ/",
+      "definition": "Banking services offered to individuals and small businesses.",
+      "sentences": [
+        "Retail banking includes checking accounts and personal loans.",
+        "She uses her local bank for all her retail banking needs.",
+        "Retail banking focuses on individual customers."
+      ]
+    },
+    {
+      "word": "Online banking",
+      "pronunciation": "/ˈɒnlaɪn ˈbæŋkɪŋ/",
+      "definition": "A method of banking in which transactions are conducted electronically via the internet.",
+      "sentences": [
+        "I use online banking to pay my bills.",
+        "Online banking is very convenient.",
+        "He checks his account balance through online banking."
+      ]
+    },
+    {
+      "word": "Mobile banking",
+      "pronunciation": "/ˈmoʊbl ˈbæŋkɪŋ/",
+      "definition": "Performing financial transactions on a mobile device such as a smartphone or tablet.",
+      "sentences": [
+        "Mobile banking allows me to transfer money on the go.",
+        "She uses a mobile banking app for her finances.",
+        "Mobile banking offers flexibility."
+      ]
+    },
+    {
+      "word": "Cryptocurrency",
+      "pronunciation": "/ˈkrɪptoʊˌkʌrənsi/",
+      "definition": "A digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority.",
+      "sentences": [
+        "Bitcoin is a well-known cryptocurrency.",
+        "Cryptocurrency values can be very volatile.",
+        "He invested in cryptocurrency last year."
+      ]
+    },
+    {
+      "word": "Blockchain",
+      "pronunciation": "/ˈblɒkˌtʃeɪn/",
+      "definition": "A decentralized, distributed, and often public, digital ledger that is used to record transactions across many computers so that any involved record cannot be altered retroactively, without the alteration of all subsequent blocks and the consensus of the network.",
+      "sentences": [
+        "Blockchain technology is behind cryptocurrencies.",
+        "Blockchain offers secure and transparent transactions.",
+        "Many industries are exploring the use of blockchain."
+      ]
+    },
+    {
+      "word": "Fintech",
+      "pronunciation": "/ˈfɪntɛk/",
+      "definition": "Technology that aims to improve and automate the delivery and use of financial services.",
+      "sentences": [
+        "Fintech companies are changing the banking industry.",
+        "She works in the fintech sector.",
+        "Fintech innovations include mobile payments and online lending."
+      ]
+    },
+    {
+      "word": "E-commerce",
+      "pronunciation": "/ˈiː ˌkɒmərs/",
+      "definition": "Commercial transactions conducted electronically on the internet.",
+      "sentences": [
+        "Online shopping is a major part of e-commerce.",
+        "E-commerce has grown rapidly in recent years.",
+        "Many businesses operate primarily through e-commerce."
+      ]
+    },
+    {
+      "word": "Online marketplace",
+      "pronunciation": "/ˈɒnlaɪn ˈmɑːrkɪtˌpleɪs/",
+      "definition": "A type of e-commerce site where products or services are provided by multiple third-party vendors.",
+      "sentences": [
+        "Amazon is a huge online marketplace.",
+        "You can find many unique items on an online marketplace.",
+        "He sells his handmade crafts on an online marketplace."
+      ]
+    },
+    {
+      "word": "Digital currency",
+      "pronunciation": "/ˈdɪdʒɪtəl ˈkʌrənsi/",
+      "definition": "Any currency, money, or money-like asset that is primarily managed, stored, or exchanged on digital computer systems, especially over the internet.",
+      "sentences": [
+        "Cryptocurrencies are a form of digital currency.",
+        "Many countries are exploring central bank digital currency.",
+        "Digital currency offers fast transactions."
+      ]
+    },
+    {
+      "word": "Trade war",
+      "pronunciation": "/treɪd wɔːr/",
+      "definition": "A situation in which countries try to hurt each other's trade by increasing tariffs or setting quotas.",
+      "sentences": [
+        "The two nations entered a trade war.",
+        "A trade war can harm global economic growth.",
+        "Trade wars often lead to higher prices for consumers."
+      ]
+    },
+    {
+      "word": "Trade deficit",
+      "pronunciation": "/treɪd ˈdɛfɪsɪt/",
+      "definition": "An economic measure of international trade in which a country's imports exceed its exports.",
+      "sentences": [
+        "The country has a large trade deficit.",
+        "A trade deficit means a country buys more than it sells abroad.",
+        "Reducing the trade deficit is a government priority."
+      ]
+    },
+    {
+      "word": "Trade surplus",
+      "pronunciation": "/treɪd ˈsɜːrpləs/",
+      "definition": "An economic measure of international trade in which a country's exports exceed its imports.",
+      "sentences": [
+        "The country achieved a trade surplus this year.",
+        "A trade surplus indicates a country sells more than it buys abroad.",
+        "Many manufacturing nations aim for a trade surplus."
+      ]
+    },
+    {
+      "word": "Protectionist policies",
+      "pronunciation": "/prəˈtɛkʃənɪst ˈpɒləsiz/",
+      "definition": "Government policies that aim to protect domestic industries from foreign competition.",
+      "sentences": [
+        "The government implemented new protectionist policies.",
+        "Protectionist policies often involve tariffs and quotas.",
+        "Some argue that protectionist policies save local jobs."
+      ]
+    },
+    {
+      "word": "Economic sanctions",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈsæŋkʃənz/",
+      "definition": "Commercial and financial penalties applied by one or more countries against a targeted country, entity, or individual.",
+      "sentences": [
+        "Economic sanctions were imposed on the rogue nation.",
+        "Economic sanctions can severely damage a country's economy.",
+        "The UN voted to lift economic sanctions."
+      ]
+    },
+    {
+      "word": "Supply shock",
+      "pronunciation": "/səˈplaɪ ʃɒk/",
+      "definition": "An event that suddenly increases or decreases the supply of a commodity or service, or of commodities and services in general.",
+      "sentences": [
+        "A natural disaster can cause a supply shock.",
+        "The oil crisis led to a major supply shock.",
+        "Supply shocks can cause prices to fluctuate."
+      ]
+    },
+    {
+      "word": "Demand shock",
+      "pronunciation": "/dɪˈmænd ʃɒk/",
+      "definition": "A sudden and unexpected event that causes a temporary change in demand for a good or service.",
+      "sentences": [
+        "A sudden trend can cause a demand shock for a product.",
+        "The pandemic created a demand shock for certain goods.",
+        "Demand shocks can lead to price changes."
+      ]
+    },
+    {
+      "word": "Price controls",
+      "pronunciation": "/praɪs kənˈtroʊlz/",
+      "definition": "Government-imposed limits on the prices that can be charged for goods and services.",
+      "sentences": [
+        "The government implemented price controls on essential goods.",
+        "Price controls can lead to shortages or surpluses.",
+        "Some argue against price controls in a free market."
+      ]
+    },
+    {
+      "word": "Minimum wage",
+      "pronunciation": "/ˈmɪnɪməm weɪdʒ/",
+      "definition": "The lowest wage permitted by law or by a special agreement.",
+      "sentences": [
+        "The minimum wage was raised last year.",
+        "Many people advocate for a higher minimum wage.",
+        "The minimum wage aims to ensure a basic standard of living."
+      ]
+    },
+    {
+      "word": "Living wage",
+      "pronunciation": "/ˈlɪvɪŋ weɪdʒ/",
+      "definition": "A wage that is high enough to maintain a normal standard of living.",
+      "sentences": [
+        "Activists argue for a living wage for all workers.",
+        "A living wage ensures basic needs can be met.",
+        "The living wage is higher than the minimum wage in some areas."
+      ]
+    },
+    {
+      "word": "Income distribution",
+      "pronunciation": "/ˈɪnkʌm ˌdɪstrɪˈbjuːʃən/",
+      "definition": "How a country's total income is distributed among its population.",
+      "sentences": [
+        "Income distribution can be a measure of economic equality.",
+        "Economists study income distribution patterns.",
+        "Policies can aim to influence income distribution."
+      ]
+    },
+    {
+      "word": "Wealth distribution",
+      "pronunciation": "/wɛlθ ˌdɪstrɪˈbjuːʃən/",
+      "definition": "How a country's total wealth is distributed among its population.",
+      "sentences": [
+        "Wealth distribution is often more unequal than income distribution.",
+        "The study examined global wealth distribution.",
+        "Policies can aim to address wealth distribution disparities."
+      ]
+    },
+    {
+      "word": "Progressive tax",
+      "pronunciation": "/prəˈɡrɛsɪv tæks/",
+      "definition": "A tax in which the tax rate increases as the taxable amount increases.",
+      "sentences": [
+        "Income tax is often a progressive tax.",
+        "A progressive tax aims to tax higher earners more.",
+        "Many countries have a progressive tax system."
+      ]
+    },
+    {
+      "word": "Regressive tax",
+      "pronunciation": "/rɪˈɡrɛsɪv tæks/",
+      "definition": "A tax that takes a larger percentage of income from low-income earners than from high-income earners.",
+      "sentences": [
+        "Sales tax can be considered a regressive tax.",
+        "A regressive tax places a greater burden on the poor.",
+        "Some taxes are more regressive than others."
+      ]
+    },
+    {
+      "word": "Flat tax",
+      "pronunciation": "/flæt tæks/",
+      "definition": "A tax system with a single tax rate for all income levels.",
+      "sentences": [
+        "Some argue for a flat tax system.",
+        "A flat tax means everyone pays the same percentage.",
+        "A flat tax simplifies the tax code."
+      ]
+    },
+    {
+      "word": "Value Added Tax (VAT)",
+      "pronunciation": "/ˈvæljuː ˈædɪd tæks/",
+      "definition": "A consumption tax placed on a product whenever value is added at each stage of the supply chain, from production to the point of sale.",
+      "sentences": [
+        "VAT is common in many European countries.",
+        "The price includes VAT.",
+        "Businesses collect VAT and pay it to the government."
+      ]
+    },
+    {
+      "word": "Sales tax",
+      "pronunciation": "/seɪlz tæks/",
+      "definition": "A tax on sales or on the receipts from sales.",
+      "sentences": [
+        "Sales tax is added to the price of goods in many states.",
+        "He calculated the total cost including sales tax.",
+        "Sales tax varies by region."
+      ]
+    },
+    {
+      "word": "Property tax",
+      "pronunciation": "/ˈprɒpərti tæks/",
+      "definition": "A tax levied on real estate or other property.",
+      "sentences": [
+        "Homeowners pay property tax every year.",
+        "Property tax helps fund local services like schools.",
+        "The property tax rate varies by city."
+      ]
+    },
+    {
+      "word": "Income tax",
+      "pronunciation": "/ˈɪnkʌm tæks/",
+      "definition": "Tax levied by a government directly on income, especially an annual tax on personal income.",
+      "sentences": [
+        "You pay income tax on your earnings.",
+        "Income tax is a major source of government revenue.",
+        "She filed her income tax return."
+      ]
+    },
+    {
+      "word": "Corporate tax",
+      "pronunciation": "/ˈkɔːrpərət tæks/",
+      "definition": "A tax levied on the profits of a corporation.",
+      "sentences": [
+        "The government reduced corporate tax rates.",
+        "Corporate tax affects business profits.",
+        "Many companies try to minimize their corporate tax burden."
+      ]
+    },
+    {
+      "word": "Public debt",
+      "pronunciation": "/ˈpʌblɪk dɛt/",
+      "definition": "The total amount of money that a country's government has borrowed.",
+      "sentences": [
+        "The national public debt is very high.",
+        "Governments issue bonds to finance public debt.",
+        "Reducing public debt is a long-term goal."
+      ]
+    },
+    {
+      "word": "National debt",
+      "pronunciation": "/ˈnæʃənəl dɛt/",
+      "definition": "The total amount of money that a country's government has borrowed, often used interchangeably with public debt.",
+      "sentences": [
+        "The national debt is a major concern for economists.",
+        "The national debt has grown over the years.",
+        "Interest payments on the national debt are significant."
+      ]
+    },
+    {
+      "word": "Government spending",
+      "pronunciation": "/ˈɡʌvərnmənt ˈspɛndɪŋ/",
+      "definition": "Money spent by the government on goods and services.",
+      "sentences": [
+        "Government spending increased during the crisis.",
+        "Government spending can stimulate the economy.",
+        "There is debate over the level of government spending."
+      ]
+    },
+    {
+      "word": "Deflationary spiral",
+      "pronunciation": "/dɪˈfleɪʃəˌnɛri ˈspaɪrəl/",
+      "definition": "A situation where falling prices lead to lower wages, less spending, and further price drops, creating a downward cycle.",
+      "sentences": [
+        "Economists fear a deflationary spiral in a weak economy.",
+        "A deflationary spiral can be very difficult to escape.",
+        "Central banks try to prevent a deflationary spiral."
+      ]
+    },
+    {
+      "word": "Hyperinflation",
+      "pronunciation": "/ˌhaɪpərɪnˈfleɪʃən/",
+      "definition": "Monetary inflation occurring at a very high rate.",
+      "sentences": [
+        "Some countries have experienced hyperinflation, making money almost worthless.",
+        "Hyperinflation destroys purchasing power.",
+        "During hyperinflation, prices rise extremely fast."
+      ]
+    },
+    {
+      "word": "Stagflation",
+      "pronunciation": "/stæɡˈfleɪʃən/",
+      "definition": "A condition of slow economic growth and relatively high unemployment, accompanied by rising prices (inflation).",
+      "sentences": [
+        "Stagflation is a challenging economic problem for governments.",
+        "The 1970s saw a period of stagflation.",
+        "Stagflation combines stagnation and inflation."
+      ]
+    },
+    {
+      "word": "Fiscal stimulus",
+      "pronunciation": "/ˈfɪskəl ˈstɪmjʊləs/",
+      "definition": "Government measures, usually involving increased public spending or tax cuts, aimed at stimulating the economy.",
+      "sentences": [
+        "The government implemented a fiscal stimulus package.",
+        "Fiscal stimulus aims to boost demand.",
+        "Fiscal stimulus is used during recessions."
+      ]
+    },
+    {
+      "word": "Quantitative easing (QE)",
+      "pronunciation": "/ˌkwɒntɪˌteɪtɪv ˈiːzɪŋ/",
+      "definition": "A large-scale asset purchase program by a central bank, designed to inject money directly into the economy.",
+      "sentences": [
+        "Quantitative easing is a tool used by central banks to boost the economy.",
+        "QE involves buying government bonds.",
+        "Quantitative easing aims to lower long-term interest rates."
+      ]
+    },
+    {
+      "word": "Recessionary gap",
+      "pronunciation": "/rɪˈsɛʃəˌnɛri ɡæp/",
+      "definition": "The amount by which the aggregate demand falls short of the full employment level of output.",
+      "sentences": [
+        "The economy was operating below its potential, showing a recessionary gap.",
+        "A recessionary gap indicates underutilized resources.",
+        "Governments try to close the recessionary gap."
+      ]
+    },
+    {
+      "word": "Inflationary gap",
+      "pronunciation": "/ɪnˈfleɪʃəˌnɛri ɡæp/",
+      "definition": "The amount by which the aggregate demand exceeds the full employment level of output.",
+      "sentences": [
+        "An inflationary gap can lead to rising prices.",
+        "The economy was overheating, creating an inflationary gap.",
+        "Governments try to reduce an inflationary gap."
+      ]
+    },
+    {
+      "word": "Business cycle",
+      "pronunciation": "/ˈbɪznɪs ˈsaɪkl/",
+      "definition": "The natural fluctuation of the economy between periods of expansion (growth) and contraction (recession).",
+      "sentences": [
+        "The business cycle includes periods of boom and bust.",
+        "Economies naturally go through a business cycle.",
+        "Understanding the business cycle helps in economic forecasting."
+      ]
+    },
+    {
+      "word": "Economic indicators",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈɪndɪkeɪtərz/",
+      "definition": "Statistics that provide information about the performance of the economy and its future direction.",
+      "sentences": [
+        "GDP and unemployment rates are key economic indicators.",
+        "Economists analyze various economic indicators.",
+        "Economic indicators help predict recessions and booms."
+      ]
+    },
+    {
+      "word": "Leading indicators",
+      "pronunciation": "/ˈliːdɪŋ ˈɪndɪkeɪtərz/",
+      "definition": "Economic indicators that tend to precede changes in the business cycle.",
+      "sentences": [
+        "Stock market performance is often a leading indicator.",
+        "Leading indicators can help forecast economic trends.",
+        "He watches leading indicators to predict market movements."
+      ]
+    },
+    {
+      "word": "Lagging indicators",
+      "pronunciation": "/ˈlæɡɪŋ ˈɪndɪkeɪtərz/",
+      "definition": "Economic indicators that tend to follow changes in the business cycle.",
+      "sentences": [
+        "Unemployment rates are a lagging indicator.",
+        "Lagging indicators confirm economic trends.",
+        "She analyzes lagging indicators to understand past economic performance."
+      ]
+    },
+    {
+      "word": "Coincident indicators",
+      "pronunciation": "/ˈkoʊɪnsɪdənt ˈɪndɪkeɪtərz/",
+      "definition": "Economic indicators that tend to move at the same time as the business cycle.",
+      "sentences": [
+        "Industrial production is a coincident indicator.",
+        "Coincident indicators show the current state of the economy.",
+        "He studies coincident indicators to assess economic activity."
+      ]
+    },
+    {
+      "word": "Fiscal year",
+      "pronunciation": "/ˈfɪskəl jɪər/",
+      "definition": "A 12-month period for which a company or government plans its budget.",
+      "sentences": [
+        "The company's fiscal year ends in December.",
+        "The government's new budget is for the next fiscal year.",
+        "He reviewed the financial report for the last fiscal year."
+      ]
+    },
+    {
+      "word": "Monetary base",
+      "pronunciation": "/ˈmʌnɪtɛri beɪs/",
+      "definition": "The total amount of a currency that is either in general circulation in the hands of the public or in the commercial bank deposits held in the central bank's reserves.",
+      "sentences": [
+        "The central bank controls the monetary base.",
+        "Changes in the monetary base affect the money supply.",
+        "The monetary base includes physical currency and bank reserves."
+      ]
+    },
+    {
+      "word": "Open market operations",
+      "pronunciation": "/ˈoʊpən ˈmɑːrkɪt ˌɒpəˈreɪʃənz/",
+      "definition": "The buying and selling of government securities in the open market in order to expand or contract the amount of money in the banking system.",
+      "sentences": [
+        "Central banks use open market operations to influence interest rates.",
+        "Open market operations are a key tool of monetary policy.",
+        "The central bank conducted open market operations."
+      ]
+    },
+    {
+      "word": "Discount rate",
+      "pronunciation": "/ˈdɪskaʊnt reɪt/",
+      "definition": "The minimum interest rate set by the central bank for lending to other banks.",
+      "sentences": [
+        "The central bank lowered the discount rate to encourage borrowing.",
+        "Changes in the discount rate affect commercial banks.",
+        "The discount rate influences overall interest rates."
+      ]
+    },
+    {
+      "word": "Reserve requirement",
+      "pronunciation": "/rɪˈzɜːrv rɪˈkwaɪərmənt/",
+      "definition": "The amount of funds that a bank must hold in reserve against deposit liabilities.",
+      "sentences": [
+        "The central bank adjusted the reserve requirement.",
+        "A higher reserve requirement limits the amount banks can lend.",
+        "The reserve requirement helps maintain financial stability."
+      ]
+    },
+    {
+      "word": "Trade deficit (goods and services)",
+      "pronunciation": "/treɪd ˈdɛfɪsɪt/",
+      "definition": "When a country imports more goods and services than it exports.",
+      "sentences": [
+        "The country's trade deficit in goods and services widened.",
+        "A large trade deficit can indicate a country is consuming more than it produces.",
+        "The government aims to reduce the trade deficit in goods and services."
+      ]
+    },
+    {
+      "word": "Trade surplus (goods and services)",
+      "pronunciation": "/treɪd ˈsɜːrpləs/",
+      "definition": "When a country exports more goods and services than it imports.",
+      "sentences": [
+        "Germany often has a trade surplus in goods and services.",
+        "A trade surplus indicates a country is a net exporter.",
+        "The country achieved a record trade surplus in goods and services."
+      ]
+    },
+    {
+      "word": "Current account",
+      "pronunciation": "/ˈkʌrənt əˈkaʊnt/",
+      "definition": "A record of all payments for goods, services, and income flows between a country and the rest of the world.",
+      "sentences": [
+        "The current account includes the balance of trade.",
+        "A large current account deficit can be a concern.",
+        "The current account reflects a country's international transactions."
+      ]
+    },
+    {
+      "word": "Capital account",
+      "pronunciation": "/ˈkæpɪtl əˈkaʊnt/",
+      "definition": "A record of all international capital transfers, such as foreign direct investment and portfolio investment.",
+      "sentences": [
+        "The capital account records international investments.",
+        "The capital account balances the current account.",
+        "Foreign direct investment is recorded in the capital account."
+      ]
+    },
+    {
+      "word": "Balance of payments",
+      "pronunciation": "/ˈbæləns əv ˈpeɪmənts/",
+      "definition": "A statement of all transactions made between entities in one country and the rest of the world over a defined period of time.",
+      "sentences": [
+        "The balance of payments must always balance.",
+        "The balance of payments includes the current and capital accounts.",
+        "A country's balance of payments reflects its economic interactions with the world."
+      ]
+    },
+    {
+      "word": "Exchange rate regime",
+      "pronunciation": "/ɪksˈtʃeɪndʒ reɪt rɪˈʒiːm/",
+      "definition": "The way a country manages its currency in relation to other currencies.",
+      "sentences": [
+        "Some countries have a fixed exchange rate regime.",
+        "A floating exchange rate regime allows the currency to fluctuate freely.",
+        "The exchange rate regime affects international trade."
+      ]
+    },
+    {
+      "word": "Fixed exchange rate",
+      "pronunciation": "/fɪkst ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "An exchange rate that a government or central bank sets and maintains as the official exchange rate.",
+      "sentences": [
+        "A fixed exchange rate provides stability for trade.",
+        "Some countries peg their currency to the US dollar with a fixed exchange rate.",
+        "Maintaining a fixed exchange rate can be challenging."
+      ]
+    },
+    {
+      "word": "Floating exchange rate",
+      "pronunciation": "/ˈfloʊtɪŋ ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "An exchange rate that is determined by supply and demand in the foreign exchange market, without central bank intervention.",
+      "sentences": [
+        "Most major currencies have a floating exchange rate.",
+        "A floating exchange rate adjusts automatically to market forces.",
+        "The floating exchange rate can be volatile."
+      ]
+    },
+    {
+      "word": "Devaluation",
+      "pronunciation": "/ˌdiːvæljuˈeɪʃən/",
+      "definition": "The official lowering of the value of a country's currency within a fixed exchange rate system.",
+      "sentences": [
+        "The government announced a devaluation of its currency.",
+        "Devaluation can make exports cheaper.",
+        "Devaluation aims to boost exports and reduce imports."
+      ]
+    },
+    {
+      "word": "Appreciation (currency)",
+      "pronunciation": "/əˌpriːʃiˈeɪʃən/",
+      "definition": "An increase in the value of a currency relative to other currencies.",
+      "sentences": [
+        "The appreciation of the euro made imports cheaper.",
+        "Currency appreciation can make exports more expensive.",
+        "The appreciation of the dollar affected trade."
+      ]
+    },
+    {
+      "word": "Depreciation (currency)",
+      "pronunciation": "/dɪˌpriːʃiˈeɪʃən/",
+      "definition": "A decrease in the value of a currency relative to other currencies.",
+      "sentences": [
+        "The depreciation of the local currency made imports more expensive.",
+        "Currency depreciation can boost exports.",
+        "The depreciation of the pound affected travel costs."
+      ]
+    },
+    {
+      "word": "Trade bloc",
+      "pronunciation": "/treɪd blɒk/",
+      "definition": "A type of intergovernmental agreement, often part of a regional intergovernmental organization, where regional barriers to trade (tariffs and non-tariff barriers) are reduced or eliminated among the participating states.",
+      "sentences": [
+        "The European Union is a major trade bloc.",
+        "Trade blocs promote trade among member countries.",
+        "Being part of a trade bloc can offer economic benefits."
+      ]
+    },
+    {
+      "word": "Common market",
+      "pronunciation": "/ˈkɒmən ˈmɑːrkɪt/",
+      "definition": "A group of countries imposing few or no duties on trade with one another and a common tariff on trade with other countries.",
+      "sentences": [
+        "The European Economic Community was a common market.",
+        "A common market allows free movement of goods, services, labor, and capital.",
+        "The common market aims to integrate economies."
+      ]
+    },
+    {
+      "word": "Economic union",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈjuːnjən/",
+      "definition": "A type of trade bloc that involves a common market, a customs union, and common policies on product regulation, freedom of movement of goods, services, and factors of production, and a common external trade policy.",
+      "sentences": [
+        "The Eurozone is an example of an economic union.",
+        "An economic union involves deeper integration than a common market.",
+        "An economic union requires coordinated economic policies."
+      ]
+    },
+    {
+      "word": "Customs union",
+      "pronunciation": "/ˈkʌstəmz ˈjuːnjən/",
+      "definition": "A type of trade bloc which is composed of a free trade area with a common external policy.",
+      "sentences": [
+        "A customs union eliminates tariffs between members and has a common external tariff.",
+        "The EU operates as a customs union.",
+        "A customs union simplifies trade within the bloc."
+      ]
+    },
+    {
+      "word": "Free trade area",
+      "pronunciation": "/friː treɪd ˈɛəriə/",
+      "definition": "A region where a group of countries has signed a free trade agreement and maintain little or no barriers to trade in goods and services among themselves.",
+      "sentences": [
+        "NAFTA created a free trade area between North American countries.",
+        "A free trade area reduces tariffs among members.",
+        "Countries in a free trade area can trade more easily."
+      ]
+    },
+    {
+      "word": "Trade liberalization",
+      "pronunciation": "/treɪd ˌlɪbərəlaɪˈzeɪʃən/",
+      "definition": "The removal or reduction of restrictions or barriers on the free exchange of goods and services between countries.",
+      "sentences": [
+        "Trade liberalization can boost economic growth.",
+        "Many countries are pursuing trade liberalization.",
+        "Trade liberalization aims to foster global trade."
+      ]
+    },
+    {
+      "word": "Comparative advantage theory",
+      "pronunciation": "/kəmˈpærətɪv ədˈvɑːntɪdʒ ˈθɪəri/",
+      "definition": "A theory that states that countries should specialize in producing goods and services in which they have a comparative advantage and trade them for other goods and services.",
+      "sentences": [
+        "The comparative advantage theory explains the benefits of international trade.",
+        "According to comparative advantage theory, even less efficient countries can benefit from trade.",
+        "Comparative advantage theory is a cornerstone of international economics."
+      ]
+    },
+    {
+      "word": "Absolute advantage theory",
+      "pronunciation": "/ˈæbsəluːt ədˈvɑːntɪdʒ ˈθɪəri/",
+      "definition": "A theory that states that a country should specialize in producing goods and services in which it has an absolute advantage (can produce more efficiently) and trade them for other goods and services.",
+      "sentences": [
+        "Adam Smith's absolute advantage theory was an early trade theory.",
+        "Absolute advantage theory focuses on direct production efficiency.",
+        "The absolute advantage theory is simpler than comparative advantage theory."
+      ]
+    },
+    {
+      "word": "Protectionist measures",
+      "pronunciation": "/prəˈtɛkʃənɪst ˈmɛʒərz/",
+      "definition": "Actions taken by a government to protect domestic industries from foreign competition, such as tariffs, quotas, and subsidies.",
+      "sentences": [
+        "The government implemented protectionist measures to support local businesses.",
+        "Protectionist measures can lead to higher prices for consumers.",
+        "Many countries debate the effectiveness of protectionist measures."
+      ]
+    },
+    {
+      "word": "Capitalism",
+      "pronunciation": "/ˈkæpɪtəlɪzəm/",
+      "definition": "An economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.",
+      "sentences": [
+        "Capitalism encourages competition and innovation.",
+        "Many Western countries operate under capitalism.",
+        "Capitalism allows for private ownership of businesses."
+      ]
+    },
+    {
+      "word": "Socialism",
+      "pronunciation": "/ˈsoʊʃəlɪzəm/",
+      "definition": "A political and economic theory of social organization which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.",
+      "sentences": [
+        "Socialism emphasizes collective ownership and equality.",
+        "Some countries have elements of socialism in their economies.",
+        "Socialism aims to reduce economic inequality."
+      ]
+    },
+    {
+      "word": "Communism",
+      "pronunciation": "/ˈkɒmjʊnɪzəm/",
+      "definition": "A political theory derived from Karl Marx, advocating class war and leading to a society in which all property is publicly owned and each person works and is paid according to their abilities and needs.",
+      "sentences": [
+        "Communism aims for a classless society.",
+        "Historically, communism has led to state control of the economy.",
+        "Communism is a complex political and economic ideology."
+      ]
+    },
+    {
+      "word": "Mixed economic system",
+      "pronunciation": "/mɪkst ˌiːkəˈnɒmɪk ˈsɪstəm/",
+      "definition": "An economic system that incorporates aspects of both capitalism and socialism.",
+      "sentences": [
+        "Most modern economies are mixed economic systems.",
+        "A mixed economic system allows for both private enterprise and government intervention.",
+        "The mixed economic system balances market freedom with social welfare."
+      ]
+    },
+    {
+      "word": "Free market",
+      "pronunciation": "/friː ˈmɑːrkɪt/",
+      "definition": "An economic system in which prices are determined by unrestricted competition between privately owned businesses.",
+      "sentences": [
+        "A free market allows prices to be set by supply and demand.",
+        "Advocates of a free market believe in minimal government intervention.",
+        "The free market encourages efficiency and innovation."
+      ]
+    },
+    {
+      "word": "Planned economy",
+      "pronunciation": "/plænd ɪˈkɒnəmi/",
+      "definition": "An economic system in which the government controls the means of production and distribution.",
+      "sentences": [
+        "A planned economy is typical of communist countries.",
+        "In a planned economy, the government decides what is produced.",
+        "Planned economies often struggle with efficiency."
+      ]
+    },
+    {
+      "word": "Centrally planned economy",
+      "pronunciation": "/ˈsɛntrəli plænd ɪˈkɒnəmi/",
+      "definition": "An economic system in which the central government makes all decisions regarding the production and distribution of goods and services.",
+      "sentences": [
+        "A centrally planned economy is a type of command economy.",
+        "In a centrally planned economy, there is little individual economic freedom.",
+        "The former Soviet Union had a centrally planned economy."
+      ]
+    },
+    {
+      "word": "Gross National Happiness (GNH)",
+      "pronunciation": "/ɡroʊs ˈnæʃənəl ˈhæpɪnəs/",
+      "definition": "A philosophy that guides the government of Bhutan, based on the belief that sustainable development should take a holistic approach to notions of progress and give equal importance to non-economic aspects of well-being.",
+      "sentences": [
+        "Bhutan measures its progress using Gross National Happiness.",
+        "Gross National Happiness focuses on well-being beyond just wealth.",
+        "The concept of Gross National Happiness includes environmental protection."
+      ]
+    },
+    {
+      "word": "Human Development Index (HDI)",
+      "pronunciation": "/ˈhjuːmən dɪˈvɛləpmənt ˈɪndɛks/",
+      "definition": "A composite statistic of life expectancy, education, and per capita income indicators, which are used to rank countries into four tiers of human development.",
+      "sentences": [
+        "HDI is a broader measure of development than just GDP.",
+        "The country's HDI ranking improved this year.",
+        "HDI helps assess a country's overall well-being."
+      ]
+    },
+    {
+      "word": "Poverty line",
+      "pronunciation": "/ˈpɒvərti laɪn/",
+      "definition": "The estimated minimum level of income needed to secure the necessities of life.",
+      "sentences": [
+        "Many families live below the poverty line.",
+        "The poverty line is different in various countries.",
+        "Policies aim to help people rise above the poverty line."
+      ]
+    },
+    {
+      "word": "Income disparity",
+      "pronunciation": "/ˈɪnkʌm dɪsˈpærɪti/",
+      "definition": "A difference or gap in income levels between different groups of people.",
+      "sentences": [
+        "Income disparity is a growing concern in many nations.",
+        "The report highlighted the income disparity between the rich and poor.",
+        "Policies aim to reduce income disparity."
+      ]
+    },
+    {
+      "word": "Wealth gap",
+      "pronunciation": "/wɛlθ ɡæp/",
+      "definition": "The difference in wealth between the richest and poorest segments of society.",
+      "sentences": [
+        "The wealth gap has been increasing in recent decades.",
+        "Addressing the wealth gap is a major challenge.",
+        "The wealth gap reflects unequal distribution of assets."
+      ]
+    },
+    {
+      "word": "Social safety net",
+      "pronunciation": "/ˈsoʊʃəl ˈseɪfti nɛt/",
+      "definition": "A collection of services provided by the state or other institutions such as welfare, unemployment benefit, universal healthcare, homeless shelters, and sometimes subsidized services such as public transport, which prevent individuals from falling into poverty.",
+      "sentences": [
+        "The social safety net protects vulnerable citizens.",
+        "Unemployment benefits are part of the social safety net.",
+        "A strong social safety net provides security."
+      ]
+    },
+    {
+      "word": "Welfare state",
+      "pronunciation": "/ˈwɛlfɛər steɪt/",
+      "definition": "A system whereby the government undertakes to protect the health and well-being of its citizens, especially those in financial or social need, by means of grants, pensions, and other benefits.",
+      "sentences": [
+        "Many European countries are considered welfare states.",
+        "A welfare state provides comprehensive social services.",
+        "The welfare state aims to reduce inequality."
+      ]
+    },
+    {
+      "word": "Public sector",
+      "pronunciation": "/ˈpʌblɪk ˈsɛktər/",
+      "definition": "The part of the economy that is controlled by the government.",
+      "sentences": [
+        "Healthcare and education are often part of the public sector.",
+        "He works in the public sector.",
+        "The public sector provides essential services."
+      ]
+    },
+    {
+      "word": "Private sector",
+      "pronunciation": "/ˈpraɪvət ˈsɛktər/",
+      "definition": "The part of the economy that is run by private individuals and companies, rather than by the government.",
+      "sentences": [
+        "Most businesses operate in the private sector.",
+        "The private sector creates many jobs.",
+        "She moved from the public sector to the private sector."
+      ]
+    },
+    {
+      "word": "Non-profit organization",
+      "pronunciation": "/nɒn ˈprɒfɪt ˌɔːrɡənɪˈzeɪʃən/",
+      "definition": "An organization that uses its surplus revenues to further achieve its purpose or mission, rather than distributing its surplus income to the organization's shareholders (or equivalents) as profit or dividends.",
+      "sentences": [
+        "She volunteers for a non-profit organization that helps children.",
+        "Non-profit organizations focus on social causes.",
+        "Many charities are non-profit organizations."
+      ]
+    },
+    {
+      "word": "Gross National Income (GNI) per capita",
+      "pronunciation": "/ɡroʊs ˈnæʃənəl ˈɪnkʌm pər ˈkæpɪtə/",
+      "definition": "The GNI of a country divided by its mid-year population; it measures the average income earned per person in a country.",
+      "sentences": [
+        "GNI per capita is a good indicator of average income.",
+        "The country's GNI per capita has been steadily rising.",
+        "GNI per capita helps compare living standards between nations."
+      ]
+    },
+    {
+      "word": "Purchasing power",
+      "pronunciation": "/ˈpɜːrtʃəsɪŋ ˈpaʊər/",
+      "definition": "The financial ability to buy products and services.",
+      "sentences": [
+        "Inflation reduces purchasing power.",
+        "His purchasing power increased with his raise.",
+        "The purchasing power of a currency is important."
+      ]
+    },
+    {
+      "word": "Cost of living",
+      "pronunciation": "/kɒst əv ˈlɪvɪŋ/",
+      "definition": "The level of prices relating to a range of everyday items.",
+      "sentences": [
+        "The cost of living is very high in big cities.",
+        "She moved to a city with a lower cost of living.",
+        "The cost of living includes housing, food, and transport."
+      ]
+    },
+    {
+      "word": "Economic downturn",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈdaʊntɜːrn/",
+      "definition": "A decline in economic activity.",
+      "sentences": [
+        "The country is experiencing an economic downturn.",
+        "An economic downturn can lead to job losses.",
+        "Governments try to soften the impact of an economic downturn."
+      ]
+    },
+    {
+      "word": "Economic recovery",
+      "pronunciation": "/ˌiːkəˈnɒmɪk rɪˈkʌvəri/",
+      "definition": "The phase of the business cycle following a recession, during which economic activity picks up.",
+      "sentences": [
+        "The country is showing signs of economic recovery.",
+        "Economic recovery can be slow and uneven.",
+        "The government implemented policies to support economic recovery."
+      ]
+    },
+    {
+      "word": "Fiscal stimulus package",
+      "pronunciation": "/ˈfɪskəl ˈstɪmjʊləs ˈpækɪdʒ/",
+      "definition": "A set of government spending and tax measures designed to stimulate the economy.",
+      "sentences": [
+        "The government announced a large fiscal stimulus package.",
+        "A fiscal stimulus package aims to boost demand and employment.",
+        "The fiscal stimulus package was debated in parliament."
+      ]
+    },
+    {
+      "word": "Monetary stimulus",
+      "pronunciation": "/ˈmʌnɪtɛri ˈstɪmjʊləs/",
+      "definition": "Actions taken by a central bank to increase the money supply and encourage lending and investment.",
+      "sentences": [
+        "The central bank used monetary stimulus to support the economy.",
+        "Monetary stimulus often involves lowering interest rates.",
+        "Monetary stimulus aims to boost economic activity."
+      ]
+    },
+    {
+      "word": "Interest rate hike",
+      "pronunciation": "/ˈɪntrəst reɪt haɪk/",
+      "definition": "An increase in the interest rate set by a central bank.",
+      "sentences": [
+        "The central bank announced an interest rate hike.",
+        "An interest rate hike can slow down inflation.",
+        "Interest rate hikes can make borrowing more expensive."
+      ]
+    },
+    {
+      "word": "Interest rate cut",
+      "pronunciation": "/ˈɪntrəst reɪt kʌt/",
+      "definition": "A reduction in the interest rate set by a central bank.",
+      "sentences": [
+        "The central bank implemented an interest rate cut to stimulate borrowing.",
+        "An interest rate cut makes borrowing cheaper.",
+        "Interest rate cuts can encourage investment."
+      ]
+    },
+    {
+      "word": "Economic forecast",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈfɔːrkæst/",
+      "definition": "A prediction about future economic conditions.",
+      "sentences": [
+        "The government released its latest economic forecast.",
+        "Economic forecasts help businesses plan for the future.",
+        "The economic forecast predicts slow growth next year."
+      ]
+    },
+    {
+      "word": "Economic indicators (leading)",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈɪndɪkeɪtərz ˈliːdɪŋ/",
+      "definition": "Statistics that tend to change before the economy changes.",
+      "sentences": [
+        "New building permits are a leading economic indicator.",
+        "Leading economic indicators help predict future trends.",
+        "He studies leading economic indicators closely."
+      ]
+    },
+    {
+      "word": "Economic indicators (lagging)",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈɪndɪkeɪtərz ˈlæɡɪŋ/",
+      "definition": "Statistics that tend to change after the economy changes.",
+      "sentences": [
+        "Unemployment rates are a lagging economic indicator.",
+        "Lagging economic indicators confirm past trends.",
+        "She analyzes lagging economic indicators to understand the economy's past."
+      ]
+    },
+    {
+      "word": "Economic indicators (coincident)",
+      "pronunciation": "/ˌiːkəˈnɒmɪk ˈɪndɪkeɪtərz ˈkoʊɪnsɪdənt/",
+      "definition": "Statistics that tend to change at the same time as the economy.",
+      "sentences": [
+        "Retail sales are a coincident economic indicator.",
+        "Coincident economic indicators reflect the current state of the economy.",
+        "He monitors coincident economic indicators for real-time insights."
+      ]
+    },
+    {
+      "word": "Fiscal stimulus measures",
+      "pronunciation": "/ˈfɪskəl ˈstɪmjʊləs ˈmɛʒərz/",
+      "definition": "Government actions, such as tax cuts or increased spending, to boost economic activity.",
+      "sentences": [
+        "The government introduced several fiscal stimulus measures.",
+        "Fiscal stimulus measures aim to increase demand.",
+        "The effectiveness of fiscal stimulus measures is often debated."
+      ]
+    },
+    {
+      "word": "Monetary policy tools",
+      "pronunciation": "/ˈmʌnɪtɛri ˈpɒləsi tuːlz/",
+      "definition": "The instruments used by a central bank to implement monetary policy, such as interest rates and reserve requirements.",
+      "sentences": [
+        "Interest rate adjustments are common monetary policy tools.",
+        "Central banks use various monetary policy tools.",
+        "Understanding monetary policy tools is key to central banking."
+      ]
+    },
+    {
+      "word": "Open market operations (monetary policy)",
+      "pronunciation": "/ˈoʊpən ˈmɑːrkɪt ˌɒpəˈreɪʃənz/",
+      "definition": "The primary tool of monetary policy, involving the buying and selling of government securities by the central bank.",
+      "sentences": [
+        "Open market operations influence the money supply.",
+        "The central bank conducts open market operations daily.",
+        "Open market operations are a flexible monetary policy tool."
+      ]
+    },
+    {
+      "word": "Discount window",
+      "pronunciation": "/ˈdɪskaʊnt ˈwɪndoʊ/",
+      "definition": "A component of the Federal Reserve System that allows eligible institutions to borrow money from the central bank, usually on a short-term basis, to meet temporary liquidity needs.",
+      "sentences": [
+        "Banks can borrow from the central bank's discount window.",
+        "The discount window provides liquidity to banks.",
+        "The discount window is a safety valve for the banking system."
+      ]
+    },
+    {
+      "word": "Quantitative tightening (QT)",
+      "pronunciation": "/ˌkwɒntɪˌteɪtɪv ˈtaɪtnɪŋ/",
+      "definition": "A contractionary monetary policy tool used by central banks to reduce the amount of money in circulation.",
+      "sentences": [
+        "Quantitative tightening is the opposite of quantitative easing.",
+        "The central bank began quantitative tightening to combat inflation.",
+        "QT involves reducing the central bank's balance sheet."
+      ]
+    },
+    {
+      "word": "Trade balance",
+      "pronunciation": "/treɪd ˈbæləns/",
+      "definition": "The difference between the monetary value of a country's exports and imports over a certain period.",
+      "sentences": [
+        "A positive trade balance indicates a trade surplus.",
+        "The trade balance is a key component of the current account.",
+        "Economists monitor the trade balance closely."
+      ]
+    },
+    {
+      "word": "Current account deficit",
+      "pronunciation": "/ˈkʌrənt əˈkaʊnt ˈdɛfɪsɪt/",
+      "definition": "When a country imports more goods, services, and capital than it exports.",
+      "sentences": [
+        "A large current account deficit can weaken a country's currency.",
+        "The country has been running a current account deficit for years.",
+        "Reducing the current account deficit is a policy goal."
+      ]
+    },
+    {
+      "word": "Current account surplus",
+      "pronunciation": "/ˈkʌrənt əˈkaʊnt ˈsɜːrpləs/",
+      "definition": "When a country exports more goods, services, and capital than it imports.",
+      "sentences": [
+        "China often has a large current account surplus.",
+        "A current account surplus indicates a country is a net lender to the world.",
+        "The country's current account surplus grew."
+      ]
+    },
+    {
+      "word": "Capital account surplus",
+      "pronunciation": "/ˈkæpɪtl əˈkaʊnt ˈsɜːrpləs/",
+      "definition": "When a country receives more foreign investment than it invests abroad.",
+      "sentences": [
+        "A capital account surplus means more money is flowing into the country for investment.",
+        "The country experienced a capital account surplus this quarter.",
+        "Capital account surplus can indicate strong investor confidence."
+      ]
+    },
+    {
+      "word": "Capital account deficit",
+      "pronunciation": "/ˈkæpɪtl əˈkaʊnt ˈdɛfɪsɪt/",
+      "definition": "When a country invests more abroad than it receives in foreign investment.",
+      "sentences": [
+        "A capital account deficit means money is flowing out of the country for investment.",
+        "The country saw a capital account deficit as domestic investors sought foreign opportunities.",
+        "A capital account deficit can reflect a lack of domestic investment opportunities."
+      ]
+    },
+    {
+      "word": "Balance of payments crisis",
+      "pronunciation": "/ˈbæləns əv ˈpeɪmənts ˈkraɪsɪs/",
+      "definition": "A severe shortage of foreign exchange reserves that leads to a country being unable to pay for essential imports or service its foreign debt.",
+      "sentences": [
+        "The country faced a balance of payments crisis.",
+        "A balance of payments crisis can lead to currency devaluation.",
+        "The IMF often provides assistance during a balance of payments crisis."
+      ]
+    },
+    {
+      "word": "Currency peg",
+      "pronunciation": "/ˈkʌrənsi pɛɡ/",
+      "definition": "A policy in which a country's central bank fixes the exchange rate of its currency to a foreign currency or a basket of currencies.",
+      "sentences": [
+        "The country maintained a currency peg to the US dollar.",
+        "A currency peg provides exchange rate stability.",
+        "Defending a currency peg can be costly."
+      ]
+    },
+    {
+      "word": "Currency board",
+      "pronunciation": "/ˈkʌrənsi bɔːrd/",
+      "definition": "A monetary authority that maintains a fixed exchange rate with a foreign currency.",
+      "sentences": [
+        "A currency board issues domestic currency only when it is fully backed by foreign reserves.",
+        "Some countries use a currency board for monetary stability.",
+        "A currency board limits the central bank's ability to conduct monetary policy."
+      ]
+    },
+    {
+      "word": "Dollarization",
+      "pronunciation": "/ˌdɒləraɪˈzeɪʃən/",
+      "definition": "The process of a country adopting the U.S. dollar or another foreign currency as its legal tender.",
+      "sentences": [
+        "Some countries have adopted full dollarization.",
+        "Dollarization eliminates exchange rate risk.",
+        "Dollarization means a country gives up its independent monetary policy."
+      ]
+    },
+    {
+      "word": "Trade war (economic)",
+      "pronunciation": "/treɪd wɔːr/",
+      "definition": "A situation in which countries impose tariffs or other trade barriers on each other in retaliation for similar actions.",
+      "sentences": [
+        "The trade war between the two economic powers affected global markets.",
+        "Trade wars can lead to higher prices for consumers and reduced trade volumes.",
+        "Resolving a trade war requires diplomatic efforts."
+      ]
+    }
+  ]
+}

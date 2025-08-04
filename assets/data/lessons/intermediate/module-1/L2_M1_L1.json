@@ -1,0 +1,610 @@
+{
+  "level": "Intermediate",
+  "module": "Sentence Formation & Tenses",
+  "lesson_number": 1,
+  "lesson_title": "Tenses and Types of Tenses",
+  "objectives": [
+    "Understand the concept of tense as it relates to the timing of an action.",
+    "Identify the three main categories of tenses: Past, Present, and Future. [1, 4]",
+    "Learn the 12 types of tenses and their specific uses with detailed examples.",
+    "Practice forming positive, negative, and question sentences for all 12 tenses."
+  ],
+  "topics": [
+    {
+      "title": "Introduction to Tenses",
+      "subtopics": [
+        {
+          "title": "What Are Tenses?",
+          "sections": [
+            {
+              "text": "In English grammar, a tense is a form a verb takes to show the time an action happened. [4] Tenses are fundamental because they provide context, helping us understand whether an event occurred in the past, is happening in the present, or will happen in the future. [1] Mastering the 12 tenses allows for precise and clear communication, enabling you to construct complex and accurate sentences. [1, 28] The three main categories of tenses are Past, Present, and Future, which are further divided into four aspects: Simple, Continuous (or Progressive), Perfect, and Perfect Continuous. [28]",
+              "examples": [
+                {
+                  "label": "Past: I walked home.",
+                  "value": "This action was completed in the past."
+                },
+                {
+                  "label": "Present: I walk home.",
+                  "value": "This is a habitual action in the present."
+                },
+                {
+                  "label": "Future: I will walk home.",
+                  "value": "This action will happen in the future."
+                }
+              ],
+              "usage_examples": [],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "The Three Main Tense Categories",
+                "headers": ["Tense Category", "Function"],
+                "rows": [
+                  ["Present Tense", "Describes actions happening now or that happen regularly. [7, 13]"],
+                  ["Past Tense", "Describes actions that have already happened. [1, 13]"],
+                  ["Future Tense", "Describes actions that have not yet happened but are expected to. [1, 2, 13]"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Present Tense",
+      "subtopics": [
+        {
+          "title": "1. Simple Present Tense",
+          "sections": [
+            {
+              "text": "The Simple Present Tense is used for habits, routines, general truths, and facts. [18, 21, 23] For subjects 'I', 'you', 'we', and 'they', the base form of the verb is used. For 'he', 'she', and 'it', an '-s' or '-es' is added to the verb.",
+              "examples": [
+                {
+                  "label": "I drink coffee every morning.",
+                  "value": "This describes a daily habit."
+                },
+                {
+                  "label": "The Earth revolves around the Sun. [21]",
+                  "value": "This is a universal fact."
+                },
+                {
+                  "label": "He works at the hospital.",
+                  "value": "This describes a regular situation."
+                },
+                {
+                  "label": "The train arrives at 7 PM. [21]",
+                  "value": "This refers to a fixed schedule."
+                }
+              ],
+              "usage_examples": [
+                "She plays the piano beautifully.",
+                "We visit our grandparents on weekends.",
+                "Water boils at 100 degrees Celsius.",
+                "They live in London.",
+                "The store opens at 9 AM."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Simple Present Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + V1 (+s/es for 3rd person singular)", "She reads books."],
+                  ["Negative", "Subject + do/does + not + V1", "She does not read books."],
+                  ["Question", "Do/Does + Subject + V1?", "Does she read books?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "2. Present Continuous Tense",
+          "sections": [
+            {
+              "text": "The Present Continuous (or Progressive) Tense is used to describe an action that is happening right now, at this very moment. [5, 46] It is also used for temporary actions and definite future plans. [39, 44] It is formed with the verb 'to be' (am, is, are) and the verb's present participle (-ing form). [5]",
+              "examples": [
+                {
+                  "label": "I am studying for my exam.",
+                  "value": "This action is happening right now. [27]"
+                },
+                {
+                  "label": "They are playing football in the park.",
+                  "value": "This describes an ongoing activity."
+                },
+                {
+                  "label": "She is working from home this week.",
+                  "value": "This is a temporary situation. [44]"
+                },
+                {
+                  "label": "We are meeting our friends tonight. [39]",
+                  "value": "This is a fixed plan for the near future."
+                }
+              ],
+              "usage_examples": [
+                "The chef is cooking a delicious meal.",
+                "He is constantly checking his phone.",
+                "Are you listening to me?",
+                "I am not working tomorrow.",
+                "More and more people are using social media. [39]"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Present Continuous Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + am/is/are + V1-ing", "He is watching TV. [12]"],
+                  ["Negative", "Subject + am/is/are + not + V1-ing", "He is not watching TV."],
+                  ["Question", "Am/Is/Are + Subject + V1-ing?", "Is he watching TV?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "3. Present Perfect Tense",
+          "sections": [
+            {
+              "text": "The Present Perfect Tense is used to describe an action that happened at an unspecified time in the past but has relevance to the present. [4, 31, 42] It can also describe an action that started in the past and continues to the present. It is formed using 'have' or 'has' and the past participle (V3) of the verb. [29]",
+              "examples": [
+                {
+                  "label": "I have finished my homework.",
+                  "value": "The action is complete, and the result (finished homework) is relevant now. [17]"
+                },
+                {
+                  "label": "She has lived in this city for ten years.",
+                  "value": "The action started in the past and is still ongoing."
+                },
+                {
+                  "label": "They have visited Paris twice.",
+                  "value": "This describes a life experience without a specific time. [31]"
+                },
+                {
+                  "label": "He has just left. [17]",
+                  "value": "This refers to a very recent past action."
+                }
+              ],
+              "usage_examples": [
+                "Have you ever eaten sushi?",
+                "We haven't seen that movie yet.",
+                "The company has grown significantly.",
+                "I've lost my keys, so I can't open the door.",
+                "She has worked here since 2015."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Present Perfect Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + have/has + V3", "They have completed the project. [12]"],
+                  ["Negative", "Subject + have/has + not + V3", "They have not completed the project."],
+                  ["Question", "Have/Has + Subject + V3?", "Have they completed the project?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "4. Present Perfect Continuous Tense",
+          "sections": [
+            {
+              "text": "The Present Perfect Continuous Tense is used to emphasize the duration of an action that started in the past and is still continuing. [7] It can also describe an action that has recently finished and has a result in the present. It is formed using 'has/have been' and the present participle (-ing form) of the verb.",
+              "examples": [
+                {
+                  "label": "I have been waiting for two hours.",
+                  "value": "This emphasizes the duration of the waiting period, which continues to the present."
+                },
+                {
+                  "label": "She has been studying since morning. [12]",
+                  "value": "This shows an action that began in the morning and is still in progress."
+                },
+                {
+                  "label": "It has been raining all day.",
+                  "value": "This emphasizes the continuous nature of the rain over a period of time."
+                },
+                {
+                  "label": "Your eyes are red because you have been crying.",
+                  "value": "The action of crying has just finished, and the result is visible now."
+                }
+              ],
+              "usage_examples": [
+                "They have been building that bridge for months.",
+                "How long have you been learning English?",
+                "He is tired because he has been working out.",
+                "We have been living here since 2010.",
+                "She hasn't been feeling well lately."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Present Perfect Continuous Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + have/has + been + V1-ing", "She has been cooking."],
+                  ["Negative", "Subject + have/has + not + been + V1-ing", "She has not been cooking."],
+                  ["Question", "Have/Has + Subject + been + V1-ing?", "Has she been cooking?"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Past Tense",
+      "subtopics": [
+        {
+          "title": "1. Simple Past Tense",
+          "sections": [
+            {
+              "text": "The Simple Past Tense is used to describe completed actions that happened at a specific point in the past. [7, 13] Regular verbs typically end in '-ed', while irregular verbs have unique past tense forms. [47]",
+              "examples": [
+                {
+                  "label": "I visited my grandparents last week.",
+                  "value": "The action was completed at a specific time in the past ('last week')."
+                },
+                {
+                  "label": "She finished her work an hour ago.",
+                  "value": "This describes a past action with a definite end time."
+                },
+                {
+                  "label": "They went to the cinema yesterday.",
+                  "value": "'Went' is the irregular past form of 'go'."
+                },
+                {
+                  "label": "He bought a new car last month. [13]",
+                  "value": "The action of buying is finished and occurred in the past."
+                }
+              ],
+              "usage_examples": [
+                "We played football after school.",
+                "Did you see the movie on TV last night?",
+                "The Titanic sank in 1912.",
+                "He didn't come to the party.",
+                "I wrote a letter to my friend."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Simple Past Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + V2 (past form)", "He wrote a letter. [12]"],
+                  ["Negative", "Subject + did + not + V1", "He did not write a letter. [48]"],
+                  ["Question", "Did + Subject + V1?", "Did he write a letter? [48]"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "2. Past Continuous Tense",
+          "sections": [
+            {
+              "text": "The Past Continuous Tense describes an ongoing action in the past, often when another, shorter action interrupted it. [19, 25, 40] It is also used to describe two actions happening at the same time in the past. [10, 25] It is formed with 'was' or 'were' and the verb's present participle (-ing form). [19]",
+              "examples": [
+                {
+                  "label": "I was watching TV when the phone rang. [35]",
+                  "value": "The longer action ('watching TV') was interrupted by a shorter action ('rang')."
+                },
+                {
+                  "label": "She was cooking while he was reading a book.",
+                  "value": "Two parallel actions were happening simultaneously in the past. [40]"
+                },
+                {
+                  "label": "They were playing in the garden all evening.",
+                  "value": "This emphasizes the duration of an ongoing past action."
+                },
+                {
+                  "label": "At 8 PM last night, I was studying.",
+                  "value": "This describes an action in progress at a specific time in the past. [40]"
+                }
+              ],
+              "usage_examples": [
+                "What were you doing when the storm started?",
+                "He was working as a teacher back then.",
+                "It was raining heavily yesterday.",
+                "The children were laughing and shouting.",
+                "She was always complaining about her job. [35]"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Past Continuous Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + was/were + V1-ing", "They were watching TV. [12]"],
+                  ["Negative", "Subject + was/were + not + V1-ing", "They were not watching TV."],
+                  ["Question", "Was/Were + Subject + V1-ing?", "Were they watching TV?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "3. Past Perfect Tense",
+          "sections": [
+            {
+              "text": "The Past Perfect Tense is used to describe an action that was completed before another action in the past. [6, 26, 43] It is often called the \"past of the past.\" It is formed using 'had' and the past participle (V3) of the verb. [6, 41]",
+              "examples": [
+                {
+                  "label": "The train had left when I arrived at the station.",
+                  "value": "First action: the train left. Second action: I arrived. The first action is in the past perfect."
+                },
+                {
+                  "label": "She had finished her homework before she went to play.",
+                  "value": "This clearly shows the sequence of two past events."
+                },
+                {
+                  "label": "By the time he was 25, he had started his own company.",
+                  "value": "The action of starting a company happened before he turned 25."
+                },
+                {
+                  "label": "I couldn't get in because I had lost my keys. [20]",
+                  "value": "The action of losing the keys happened before the action of trying to get in."
+                }
+              ],
+              "usage_examples": [
+                "They had never seen such a beautiful sunset before.",
+                "Had you studied French before you moved to Paris?",
+                "He hadn't eaten all day, so he was very hungry.",
+                "After he had done his chores, he watched a movie.",
+                "We had already booked the tickets."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Past Perfect Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + had + V3", "She had left. [12]"],
+                  ["Negative", "Subject + had + not + V3", "She had not left."],
+                  ["Question", "Had + Subject + V3?", "Had she left?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "4. Past Perfect Continuous Tense",
+          "sections": [
+            {
+              "text": "The Past Perfect Continuous Tense is used to emphasize the duration of an action that was in progress before another action took place in the past. [3, 9, 33] It shows how long something had been happening. It is formed using 'had been' and the present participle (-ing form). [3, 11]",
+              "examples": [
+                {
+                  "label": "He had been working for three hours when he finally took a break.",
+                  "value": "This emphasizes the duration ('for three hours') of the first action before the second one occurred."
+                },
+                {
+                  "label": "They had been waiting for a long time before the bus arrived. [37]",
+                  "value": "This focuses on the continuous act of waiting before another past event."
+                },
+                {
+                  "label": "She was tired because she had been running.",
+                  "value": "This shows the cause (running for a duration) of a past state (being tired). [11]"
+                },
+                {
+                  "label": "How long had you been studying before you passed the exam? [37]",
+                  "value": "This asks about the duration of a past activity."
+                }
+              ],
+              "usage_examples": [
+                "I had been living in that city for five years before I moved.",
+                "The ground was wet because it had been raining.",
+                "He had been feeling unwell for weeks before he went to the doctor.",
+                "They hadn't been getting along for a while.",
+                "We had been driving for hours when the car broke down."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Past Perfect Continuous Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + had + been + V1-ing", "He had been working. [12]"],
+                  ["Negative", "Subject + had + been + not + V1-ing", "He had not been working."],
+                  ["Question", "Had + Subject + been + V1-ing?", "Had he been working?"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "The Future Tense",
+      "subtopics": [
+        {
+          "title": "1. Simple Future Tense",
+          "sections": [
+            {
+              "text": "The Simple Future Tense is used to talk about actions or events that will happen in the future. [14, 22] It is often used for predictions, spontaneous decisions, or promises. It is most commonly formed using 'will' or 'be going to' followed by the base form of the verb. [2, 16]",
+              "examples": [
+                {
+                  "label": "I will call you tomorrow.",
+                  "value": "This is a promise or a planned future action. [14]"
+                },
+                {
+                  "label": "She is going to study medicine.",
+                  "value": "This indicates a pre-decided plan or intention. [22]"
+                },
+                {
+                  "label": "It will probably rain later.",
+                  "value": "This is a prediction about the future."
+                },
+                {
+                  "label": "I think I will have the soup.",
+                  "value": "This is a spontaneous decision made at the moment of speaking."
+                }
+              ],
+              "usage_examples": [
+                "They will arrive at 10 AM.",
+                "He won't be late.",
+                "Are you going to attend the meeting? [14]",
+                "We will help you with your project.",
+                "The sun will rise at 6 AM."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Simple Future Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + will + V1 / Subject + am/is/are + going to + V1", "I will call you. [12]"],
+                  ["Negative", "Subject + will + not + V1 / Subject + am/is/are + not + going to + V1", "I will not (won't) call you."],
+                  ["Question", "Will + Subject + V1? / Am/Is/Are + Subject + going to + V1?", "Will you call me?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "2. Future Continuous Tense",
+          "sections": [
+            {
+              "text": "The Future Continuous Tense describes an ongoing action that will be in progress at a specific time in the future. [15, 30] It is formed using 'will be' and the present participle (-ing form). [34]",
+              "examples": [
+                {
+                  "label": "This time tomorrow, I will be flying to Paris. [15]",
+                  "value": "This describes an action that will be in progress at a specific future moment."
+                },
+                {
+                  "label": "Don't call me at 9 PM, I will be sleeping then. [36]",
+                  "value": "This indicates an ongoing action at a future point."
+                },
+                {
+                  "label": "They will be watching a movie when we arrive.",
+                  "value": "This describes a longer, ongoing future action that will be interrupted by a shorter one."
+                },
+                {
+                  "label": "She will be giving a presentation at this time next week. [15]",
+                  "value": "This refers to a planned, ongoing event in the future."
+                }
+              ],
+              "usage_examples": [
+                "He will be working late tonight. [15]",
+                "Will you be joining us for dinner? [15]",
+                "I won't be attending the conference next month.",
+                "This evening, we will be celebrating his birthday.",
+                "What will you be doing in ten years?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Future Continuous Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + will + be + V1-ing", "She will be waiting for us. [12]"],
+                  ["Negative", "Subject + will + not + be + V1-ing", "She will not be waiting for us."],
+                  ["Question", "Will + Subject + be + V1-ing?", "Will she be waiting for us?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "3. Future Perfect Tense",
+          "sections": [
+            {
+              "text": "The Future Perfect Tense is used to describe an action that will be completed before a specific time or another event in the future. [7, 49] It is formed using 'will have' and the past participle (V3) of the verb.",
+              "examples": [
+                {
+                  "label": "By 8 PM, I will have finished my dinner.",
+                  "value": "The action of finishing dinner will be complete before the future time of 8 PM."
+                },
+                {
+                  "label": "She will have graduated by next year.",
+                  "value": "The action of graduating will be complete before the point 'next year'."
+                },
+                {
+                  "label": "By the time you arrive, we will have already left.",
+                  "value": "The action of leaving will be complete before the future event of your arrival."
+                },
+                {
+                  "label": "In three years, they will have built the new bridge.",
+                  "value": "This describes a completed action at a point in the future."
+                }
+              ],
+              "usage_examples": [
+                "Will you have completed the report by the deadline?",
+                "He won't have saved enough money by then.",
+                "By the end of this month, I will have worked here for five years.",
+                "They will have painted the house before they move in.",
+                "The movie will have ended by 10 o'clock."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Future Perfect Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + will + have + V3", "They will have completed the task. [12]"],
+                  ["Negative", "Subject + will + not + have + V3", "They will not have completed the task."],
+                  ["Question", "Will + Subject + have + V3?", "Will they have completed the task?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "4. Future Perfect Continuous Tense",
+          "sections": [
+            {
+              "text": "The Future Perfect Continuous Tense is used to emphasize the duration of an action that will be in progress up to a certain point in the future. [7] It shows how long an action will have been happening. It is formed using 'will have been' and the present participle (-ing form).",
+              "examples": [
+                {
+                  "label": "By next year, I will have been working here for ten years.",
+                  "value": "This emphasizes the ten-year duration of the action up to a future point ('next year')."
+                },
+                {
+                  "label": "In an hour, she will have been studying for the entire afternoon.",
+                  "value": "This focuses on the length of the continuous action of studying."
+                },
+                {
+                  "label": "When he turns 30, he will have been playing the piano for 25 years.",
+                  "value": "This highlights the duration of the activity up to a future milestone."
+                },
+                {
+                  "label": "By the time you get here, we will have been waiting for two hours.",
+                  "value": "This emphasizes the length of the waiting period before a future event."
+                }
+              ],
+              "usage_examples": [
+                "How long will you have been driving by 6 PM?",
+                "They will have been traveling for a month by the time they return.",
+                "He won't have been sleeping for long when his alarm rings.",
+                "In 2030, we will have been living in this house for two decades.",
+                "By midnight, the band will have been playing for four hours."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-1/p"
+              },
+              "table": {
+                "title": "Future Perfect Continuous Tense Structures",
+                "headers": ["Sentence Type", "Structure", "Example"],
+                "rows": [
+                  ["Positive", "Subject + will + have + been + V1-ing", "I will have been traveling for 5 hours. [12]"],
+                  ["Negative", "Subject + will + not + have + been + V1-ing", "I will not have been traveling for 5 hours."],
+                  ["Question", "Will + Subject + have + been + V1-ing?", "Will you have been traveling for 5 hours?"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,425 @@
+{
+    "Level1_Beginner": {
+        "title": "BEGINNER LEVEL",
+        "focus": "Build confidence, understand sounds, use basic vocabulary, and construct simple sentences.",
+        "modules": {
+            "L1_M1": {
+                "title": "Phonics & Pronunciation",
+                "lessons": {
+                    "L1_M1_L1": {
+                        "title": "Structure of Phonics",
+                        "file_path": "lessons/basic/module-1/L1_M1_L1.json",
+                        "quiz_path": "quizzes/basic/module-1/L1_M1_Q1.json"
+                    },
+                    "L1_M1_L2": {
+                        "title": "Word Stress",
+                        "file_path": "lessons/basic/module-1/L1_M1_L2.json",
+                        "quiz_path": "quizzes/basic/module-1/L1_M1_Q2.json"
+                    },
+                    "L1_M1_L3": {
+                        "title": "Syllables",
+                        "file_path": "lessons/basic/module-1/L1_M1_L3.json",
+                        "quiz_path": "quizzes/basic/module-1/L1_M1_Q3.json"
+                    }
+                }
+            },
+            "L1_M2": {
+                "title": "Basic Vocabulary",
+                "lessons": {
+                    "L1_M2_L1": {
+                        "title": "School & Classroom Objects",
+                        "file_path": "lessons/basic/module-2/L1_M2_L1.json",
+                        "quiz_path": "quizzes/basic/module-2/L1_M2_Q1.json"
+                    },
+                    "L1_M2_L2": {
+                        "title": "People at Home and Village",
+                        "file_path": "lessons/basic/module-2/L1_M2_L2.json",
+                        "quiz_path": "quizzes/basic/module-2/L1_M2_Q2.json"
+                    },
+                    "L1_M2_L3": {
+                        "title": "Numbers, Colors, Days, and Months",
+                        "file_path": "lessons/basic/module-2/L1_M2_L3.json",
+                        "quiz_path": "quizzes/basic/module-2/L1_M2_Q3.json"
+                    },
+                    "L1_M2_L4": {
+                        "title": "Food, Animals, and Clothes",
+                        "file_path": "lessons/basic/module-2/L1_M2_L4.json",
+                        "quiz_path": "quizzes/basic/module-2/L1_M2_Q4.json"
+                    },
+                    "L1_M2_L5": {
+                        "title": "Musical Instruments and Professions",
+                        "file_path": "lessons/basic/module-2/L1_M2_L5.json",
+                        "quiz_path": "quizzes/basic/module-2/L1_M2_Q5.json"
+                    }
+                }
+            },
+            "L1_M3": {
+                "title": "Grammar Basics",
+                "lessons": {
+                    "L1_M3_L1": {
+                        "title": "Nouns: Naming Words Around Us",
+                        "file_path": "lessons/basic/module-3/L1_M3_L1.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q1.json"
+                    },
+                    "L1_M3_L2": {
+                        "title": "Pronouns (I, you, he, she, etc.)",
+                        "file_path": "lessons/basic/module-3/L1_M3_L2.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q2.json"
+                    },
+                    "L1_M3_L3": {
+                        "title": "Articles (a, an, the)",
+                        "file_path": "lessons/basic/module-3/L1_M3_L3.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q3.json"
+                    },
+                    "L1_M3_L4": {
+                        "title": "Verbs (action words)",
+                        "file_path": "lessons/basic/module-3/L1_M3_L4.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q4.json"
+                    },
+                    "L1_M3_L5": {
+                        "title": "Subject and Predicate",
+                        "file_path": "lessons/basic/module-3/L1_M3_L5.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q5.json"
+                    },
+                    "L1_M3_L6": {
+                        "title": "Sentence Structure (S+V+O)",
+                        "file_path": "lessons/basic/module-3/L1_M3_L6.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q6.json"
+                    },
+                    "L1_M3_L7": {
+                        "title": "Compound Words",
+                        "file_path": "lessons/basic/module-3/L1_M3_L7.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q7.json"
+                    },
+                    "L1_M3_L8": {
+                        "title": "Genders",
+                        "file_path": "lessons/basic/module-3/L1_M3_L8.json",
+                        "quiz_path": "quizzes/basic/module-3/L1_M3_Q8.json"
+                    }
+                }
+            },
+            "L1_M4": {
+                "title": "Speaking & Listening",
+                "lessons": {
+                    "L1_M4_L1": {
+                        "title": "Introducing Yourself",
+                        "file_path": "lessons/basic/module-4/L1_M4_L1.json",
+                        "quiz_path": "quizzes/basic/module-4/L1_M4_Q1.json"
+                    },
+                    "L1_M4_L2": {
+                        "title": "Greetings & Daily Phrases",
+                        "file_path": "lessons/basic/module-4/L1_M4_L2.json",
+                        "quiz_path": "quizzes/basic/module-4/L1_M4_Q2.json"
+                    },
+                    "L1_M4_L3": {
+                        "title": "Listening to Instructions",
+                        "file_path": "lessons/basic/module-4/L1_M4_L3.json",
+                        "quiz_path": "quizzes/basic/module-4/L1_M4_Q3.json"
+                    }
+                }
+            },
+            "L1_M5": {
+                "title": "Everyday English",
+                "lessons": {
+                    "L1_M5_L1": {
+                        "title": "In the Classroom",
+                        "file_path": "lessons/basic/module-5/L1_M5_L1.json",
+                        "quiz_path": "quizzes/basic/module-5/L1_M5_Q1.json"
+                    },
+                    "L1_M5_L2": {
+                        "title": "At the Market",
+                        "file_path": "lessons/basic/module-5/L1_M5_L2.json",
+                        "quiz_path": "quizzes/basic/module-5/L1_M5_Q2.json"
+                    },
+                    "L1_M5_L3": {
+                        "title": "At Home",
+                        "file_path": "lessons/basic/module-5/L1_M5_L3.json",
+                        "quiz_path": "quizzes/basic/module-5/L1_M5_Q3.json"
+                    },
+                    "L1_M5_L4": {
+                        "title": "Celebrations and Festivals",
+                        "file_path": "lessons/basic/module-5/L1_M5_L4.json",
+                        "quiz_path": "quizzes/basic/module-5/L1_M5_Q4.json"
+                    },
+                    "L1_M5_L5": {
+                        "title": "Daily Routine Conversations",
+                        "file_path": "lessons/basic/module-5/L1_M5_L5.json",
+                        "quiz_path": "quizzes/basic/module-5/L1_M5_Q5.json"
+                    }
+                }
+            }
+        }
+    },
+    "Level2_Intermediate": {
+        "title": "INTERMEDIATE LEVEL",
+        "focus": "Build fluency in sentence formation, comprehension, everyday usage, and writing.",
+        "modules": {
+            "L2_M1": {
+                "title": "Sentence Formation & Tenses",
+                "lessons": {
+                    "L2_M1_L1": {
+                        "title": "Tenses and Types of Tenses",
+                        "file_path": "lessons/intermediate/module-1/L2_M1_L1.json",
+                        "quiz_path": "quizzes/intermediate/module-1/L2_M1_Q1.json"
+                    },
+                    "L2_M1_L2": {
+                        "title": "Simple Present Tense: Talking about Daily Activities",
+                        "file_path": "lessons/intermediate/module-1/L2_M1_L2.json",
+                        "quiz_path": "quizzes/intermediate/module-1/L2_M1_Q2.json"
+                    },
+                    "L2_M1_L3": {
+                        "title": "Simple Past Tense: Talking About Things That Happened",
+                        "file_path": "lessons/intermediate/module-1/L2_M1_L3.json",
+                        "quiz_path": "quizzes/intermediate/module-1/L2_M1_Q3.json"
+                    },
+                    "L2_M1_L4": {
+                        "title": "Simple Future Tense: Talking About Things That Will Happen",
+                        "file_path": "lessons/intermediate/module-1/L2_M1_L4.json",
+                        "quiz_path": "quizzes/intermediate/module-1/L2_M1_Q4.json"
+                    },
+                    "L2_M1_L5": {
+                        "title": "Making Questions and Negatives",
+                        "file_path": "lessons/intermediate/module-1/L2_M1_L5.json",
+                        "quiz_path": "quizzes/intermediate/module-1/L2_M1_Q5.json"
+                    }
+                }
+            },
+            "L2_M2": {
+                "title": "Grammar Expansion",
+                "lessons": {
+                    "L2_M2_L1": {
+                        "title": "Adverbs and Types of Adverbs",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L1.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q1.json"
+                    },
+                    "L2_M2_L2": {
+                        "title": "Adjectives and Types of Adjectives",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L2.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q2.json"
+                    },
+                    "L2_M2_L3": {
+                        "title": "Prepositions (in, on, under, etc.)",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L3.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q3.json"
+                    },
+                    "L2_M2_L4": {
+                        "title": "Conjunctions (and, but, because)",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L4.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q4.json"
+                    },
+                    "L2_M2_L5": {
+                        "title": "Prefix, Suffix, and Roots",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L5.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q5.json"
+                    },
+                    "L2_M2_L6": {
+                        "title": "Subject-Verb Agreement",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L6.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q6.json"
+                    },
+                    "L2_M2_L7": {
+                        "title": "Sentence Types (statement, question, command)",
+                        "file_path": "lessons/intermediate/module-2/L2_M2_L7.json",
+                        "quiz_path": "quizzes/intermediate/module-2/L2_M2_Q7.json"
+                    }
+                }
+            },
+            "L2_M3": {
+                "title": "Listening & Reading",
+                "lessons": {
+                    "L2_M3_L1": {
+                        "title": "Village Announcements (Audio Comprehension)",
+                        "file_path": "lessons/intermediate/module-3/L2_M3_L1.json",
+                        "quiz_path": "quizzes/intermediate/module-3/L2_M3_Q1.json"
+                    },
+                    "L2_M3_L2": {
+                        "title": "Weather Reports (Listening Task)",
+                        "file_path": "lessons/intermediate/module-3/L2_M3_L2.json",
+                        "quiz_path": "quizzes/intermediate/module-3/L2_M3_Q2.json"
+                    },
+                    "L2_M3_L3": {
+                        "title": "Folk Tales (Reading)",
+                        "file_path": "lessons/intermediate/module-3/L2_M3_L3.json",
+                        "quiz_path": "quizzes/intermediate/module-3/L2_M3_Q3.json"
+                    },
+                    "L2_M3_L4": {
+                        "title": "News Headlines (Skimming & Scanning)",
+                        "file_path": "lessons/intermediate/module-3/L2_M3_L4.json",
+                        "quiz_path": "quizzes/intermediate/module-3/L2_M3_Q4.json"
+                    },
+                    "L2_M3_L5": {
+                        "title": "Main Idea and Story Details",
+                        "file_path": "lessons/intermediate/module-3/L2_M3_L5.json",
+                        "quiz_path": "quizzes/intermediate/module-3/L2_M3_Q5.json"
+                    }
+                }
+            },
+            "L2_M4": {
+                "title": "Paragraph & Letter Writing",
+                "lessons": {
+                    "L2_M4_L1": {
+                        "title": "Sentence Sequencing",
+                        "file_path": "lessons/intermediate/module-4/L2_M4_L1.json",
+                        "quiz_path": "quizzes/intermediate/module-4/L2_M4_Q1.json"
+                    },
+                    "L2_M4_L2": {
+                        "title": "Paragraph on \"My Village\"",
+                        "file_path": "lessons/intermediate/module-4/L2_M4_L2.json",
+                        "quiz_path": "quizzes/intermediate/module-4/L2_M4_Q2.json"
+                    },
+                    "L2_M4_L3": {
+                        "title": "Diary Entry Writing",
+                        "file_path": "lessons/intermediate/module-4/L2_M4_L3.json",
+                        "quiz_path": "quizzes/intermediate/module-4/L2_M4_Q3.json"
+                    },
+                    "L2_M4_L4": {
+                        "title": "Letter to a Friend",
+                        "file_path": "lessons/intermediate/module-4/L2_M4_L4.json",
+                        "quiz_path": "quizzes/intermediate/module-4/L2_M4_Q4.json"
+                    },
+                    "L2_M4_L5": {
+                        "title": "Informal Message Writing",
+                        "file_path": "lessons/intermediate/module-4/L2_M4_L5.json",
+                        "quiz_path": "quizzes/intermediate/module-4/L2_M4_Q5.json"
+                    }
+                }
+            },
+            "L2_M5": {
+                "title": "Real-Life & Role-Play English",
+                "lessons": {
+                    "L2_M5_L1": {
+                        "title": "Buying Vegetables",
+                        "file_path": "lessons/intermediate/module-5/L2_M5_L1.json",
+                        "quiz_path": "quizzes/intermediate/module-5/L2_M5_Q1.json"
+                    },
+                    "L2_M5_L2": {
+                        "title": "Asking for Directions",
+                        "file_path": "lessons/intermediate/module-5/L2_M5_L2.json",
+                        "quiz_path": "quizzes/intermediate/module-5/L2_M5_Q2.json"
+                    },
+                    "L2_M5_L3": {
+                        "title": "Visiting a Doctor",
+                        "file_path": "lessons/intermediate/module-5/L2_M5_L3.json",
+                        "quiz_path": "quizzes/intermediate/module-5/L2_M5_Q3.json"
+                    },
+                    "L2_M5_L4": {
+                        "title": "Planning a School Event",
+                        "file_path": "lessons/intermediate/module-5/L2_M5_L4.json",
+                        "quiz_path": "quizzes/intermediate/module-5/L2_M5_Q4.json"
+                    },
+                    "L2_M5_L5": {
+                        "title": "Role-Play and Group Tasks",
+                        "file_path": "lessons/intermediate/module-5/L2_M5_L5.json",
+                        "quiz_path": "quizzes/intermediate/module-5/L2_M5_Q5.json"
+                    }
+                }
+            }
+        }
+    },
+    "Level3_Advanced": {
+        "title": "ADVANCED LEVEL",
+        "focus": "Apply skills in daily life, public speaking, creative writing, and textbook-based academic learning.",
+        "modules": {
+            "L3_M1": {
+                "title": "Grammar Mastery",
+                "lessons": {
+                    "L3_M1_L1": {
+                        "title": "Direct and Indirect Speech",
+                        "file_path": "lessons/advanced/module-1/L3_M1_L1.json",
+                        "quiz_path": "quizzes/advanced/module-1/L3_M1_Q1.json"
+                    },
+                    "L3_M1_L2": {
+                        "title": "Active and Passive Voice",
+                        "file_path": "lessons/advanced/module-1/L3_M1_L2.json",
+                        "quiz_path": "quizzes/advanced/module-1/L3_M1_Q2.json"
+                    },
+                    "L3_M1_L3": {
+                        "title": "Figurative Speeches",
+                        "file_path": "lessons/advanced/module-1/L3_M1_L3.json",
+                        "quiz_path": "quizzes/advanced/module-1/L3_M1_Q3.json"
+                    },
+                    "L3_M1_L4": {
+                        "title": "Basic Words and Advanced Words",
+                        "file_path": "lessons/advanced/module-1/L3_M1_L4.json",
+                        "quiz_path": "quizzes/advanced/module-1/L3_M1_Q4.json"
+                    }
+                }
+            },
+            "L3_M2": {
+                "title": "Creative & Academic Writing",
+                "lessons": {
+                    "L3_M2_L1": {
+                        "title": "Writing a Folk Tale",
+                        "file_path": "lessons/advanced/module-2/L3_M2_L1.json",
+                        "quiz_path": "quizzes/advanced/module-2/L3_M2_Q1.json"
+                    },
+                    "L3_M2_L2": {
+                        "title": "Essay Writing (My Dream, My Hero)",
+                        "file_path": "lessons/advanced/module-2/L3_M2_L2.json",
+                        "quiz_path": "quizzes/advanced/module-2/L3_M2_Q2.json"
+                    },
+                    "L3_M2_L3": {
+                        "title": "Compare and Contrast Writing",
+                        "file_path": "lessons/advanced/module-2/L3_M2_L3.json",
+                        "quiz_path": "quizzes/advanced/module-2/L3_M2_Q3.json"
+                    },
+                    "L3_M2_L4": {
+                        "title": "Writing Chapter Summaries",
+                        "file_path": "lessons/advanced/module-2/L3_M2_L4.json",
+                        "quiz_path": "quizzes/advanced/module-2/L3_M2_Q4.json"
+                    }
+                }
+            },
+            "L3_M3": {
+                "title": "Public Speaking & Presentation",
+                "lessons": {
+                    "L3_M3_L1": {
+                        "title": "Describe a Picture or Object",
+                        "file_path": "lessons/advanced/module-3/L3_M3_L1.json",
+                        "quiz_path": "quizzes/advanced/module-3/L3_M3_Q1.json"
+                    },
+                    "L3_M3_L2": {
+                        "title": "Prepare & Deliver a Speech",
+                        "file_path": "lessons/advanced/module-3/L3_M3_L2.json",
+                        "quiz_path": "quizzes/advanced/module-3/L3_M3_Q2.json"
+                    },
+                    "L3_M3_L3": {
+                        "title": "Group Discussion Practice",
+                        "file_path": "lessons/advanced/module-3/L3_M3_L3.json",
+                        "quiz_path": "quizzes/advanced/module-3/L3_M3_Q3.json"
+                    },
+                    "L3_M3_L4": {
+                        "title": "Debate on Common Issues",
+                        "file_path": "lessons/advanced/module-3/L3_M3_L4.json",
+                        "quiz_path": "quizzes/advanced/module-3/L3_M3_Q4.json"
+                    }
+                }
+            },
+            "L3_M4": {
+                "title": "Real-World Fluency",
+                "lessons": {
+                    "L3_M4_L1": {
+                        "title": "Mock Interviews",
+                        "file_path": "lessons/advanced/module-4/L3_M4_L1.json",
+                        "quiz_path": "quizzes/advanced/module-4/L3_M4_Q1.json"
+                    },
+                    "L3_M4_L2": {
+                        "title": "Planning a Community Event",
+                        "file_path": "lessons/advanced/module-4/L3_M4_L2.json",
+                        "quiz_path": "quizzes/advanced/module-4/L3_M4_Q2.json"
+                    },
+                    "L3_M4_L3": {
+                        "title": "Role-Play (Bank Visit, Travel Help)",
+                        "file_path": "lessons/advanced/module-4/L3_M4_L3.json",
+                        "quiz_path": "quizzes/advanced/module-4/L3_M4_Q3.json"
+                    },
+                    "L3_M4_L4": {
+                        "title": "Expressing Opinions in English",
+                        "file_path": "lessons/advanced/module-4/L3_M4_L4.json",
+                        "quiz_path": "quizzes/advanced/module-4/L3_M4_Q4.json"
+                    }
+                }
+            }
+        }
+    }
+}

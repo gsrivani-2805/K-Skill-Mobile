@@ -1,0 +1,736 @@
+{
+  "level": "Intermediate",
+  "module": "Paragraph & Letter Writing",
+  "lesson_number": 1,
+  "lesson_title": "Sentence Sequencing",
+  "objectives": [
+    "Arrange sentences in a logical order",
+    "Understand how sentences flow together in a paragraph",
+    "Create clear and easy-to-understand sequences of sentences"
+  ],
+  "topics": [
+    {
+      "title": "What is Sentence Sequencing?",
+      "subtopics": [
+        {
+          "title": "Introduction to Logical Order",
+          "sections": [
+            {
+              "text": "Sentence sequencing means putting sentences in the correct order so that they make sense. Imagine you are telling a story or explaining how to do something. If you mix up the sentences, no one will understand you. Just like building a house needs steps (first foundation, then walls, then roof), ideas in a paragraph also need a proper order. This proper order is called a logical sequence or flow. It makes your writing clear and easy for others to read and understand.",
+              "examples": [
+                {
+                  "label": "Mixed order",
+                  "value": "He went to school. He ate breakfast. He woke up."
+                },
+                {
+                  "label": "Correct order",
+                  "value": "He woke up. He ate breakfast. He went to school."
+                },
+                {
+                  "label": "Mixed order (rural)",
+                  "value": "The crops grew tall. The farmer planted seeds. Rain fell."
+                },
+                {
+                  "label": "Correct order (rural)",
+                  "value": "The farmer planted seeds. Rain fell. The crops grew tall."
+                },
+                {
+                  "label": "Mixed order (daily life)",
+                  "value": "I watch TV. I sleep. I finish homework."
+                },
+                {
+                  "label": "Correct order (daily life)",
+                  "value": "I finish homework. I watch TV. I sleep."
+                },
+                {
+                  "label": "Mixed order (process)",
+                  "value": "Then, add sugar. First, boil milk. Last, pour into cups."
+                },
+                {
+                  "label": "Correct order (process)",
+                  "value": "First, boil milk. Then, add sugar. Last, pour into cups."
+                },
+                {
+                  "label": "Mixed order (event)",
+                  "value": "The villagers gathered. The headman spoke. An announcement was made."
+                },
+                {
+                  "label": "Correct order (event)",
+                  "value": "The villagers gathered. An announcement was made. The headman spoke."
+                },
+                {
+                  "label": "Mixed order (building)",
+                  "value": "They fixed the roof. They built the walls. They made the foundation."
+                },
+                {
+                  "label": "Correct order (building)",
+                  "value": "They made the foundation. They built the walls. They fixed the roof."
+                },
+                {
+                  "label": "Mixed order (farming)",
+                  "value": "The grains were dried. The crops were harvested. The field was ploughed."
+                },
+                {
+                  "label": "Correct order (farming)",
+                  "value": "The field was ploughed. The crops were harvested. The grains were dried."
+                },
+                {
+                  "label": "Mixed order (daily routine)",
+                  "value": "I clean my room. I wake up. I brush my teeth."
+                },
+                {
+                  "label": "Correct order (daily routine)",
+                  "value": "I wake up. I brush my teeth. I clean my room."
+                }
+              ],
+              "usage_examples": [
+                "Put sentences in right order.",
+                "It makes your writing clear.",
+                "Imagine telling a story step by step.",
+                "Without order, it's confusing.",
+                "Logical sequence helps understanding."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Tools for Sequencing: Transition Words and Phrases",
+      "subtopics": [
+        {
+          "title": "Using Transition Words for Time Order",
+          "sections": [
+            {
+              "text": "Transition words are like small bridges between sentences. They help one idea connect smoothly to the next. For showing time order (when things happen), we use words like 'first', 'next', 'then', 'after that', 'finally', 'meanwhile', 'before', 'after'. These words guide the reader through the sequence of events.",
+              "examples": [
+                {
+                  "label": "Time order (cooking)",
+                  "value": "First, cut the vegetables. Next, heat oil in a pot. Then, add the vegetables."
+                },
+                {
+                  "label": "Time order (daily routine)",
+                  "value": "I wake up early. After that, I brush my teeth. Finally, I drink tea."
+                },
+                {
+                  "label": "Time order (farming)",
+                  "value": "Before planting, farmers prepare the soil. Then, they sow the seeds. After some days, the plants grow."
+                },
+                {
+                  "label": "Time order (events)",
+                  "value": "The music started. Meanwhile, people began to dance. Finally, the feast began."
+                },
+                {
+                  "label": "Time order (journey)",
+                  "value": "First, pack your bag. Next, go to the bus stand. Then, buy a ticket."
+                },
+                {
+                  "label": "Time order (repairing)",
+                  "value": "First, gather the tools. Then, loosen the old part. After that, fit the new part carefully."
+                },
+                {
+                  "label": "Time order (school day)",
+                  "value": "The bell rings at 9 AM. After that, we go to our classes. Then, we have lunch at noon."
+                },
+                {
+                  "label": "Time order (cooking)",
+                  "value": "First, wash the rice. Next, put it in the pot with water. Then, boil it until it's soft."
+                },
+                {
+                  "label": "Time order (animals)",
+                  "value": "The hen laid an egg. After some days, a chick hatched. Finally, the chick grew into a hen."
+                },
+                {
+                  "label": "Time order (growth)",
+                  "value": "A small seed was planted. Then, it sprouted. After that, it grew into a big tree."
+                },
+                {
+                  "label": "Time order (storytelling)",
+                  "value": "First, the old woman told a story. Then, she sang a lullaby. Finally, the children slept."
+                },
+                {
+                  "label": "Time order (preparation)",
+                  "value": "Before the festival, we clean our houses. Next, we decorate them. Then, we prepare sweets."
+                },
+                {
+                  "label": "Time order (work progress)",
+                  "value": "They dug the well for many days. Meanwhile, they also collected stones. Finally, the well was ready."
+                },
+                {
+                  "label": "Time order (seasonal)",
+                  "value": "It is hot in summer. After that, the monsoon arrives. Then, the fields become green."
+                },
+                {
+                  "label": "Time order (learning)",
+                  "value": "First, learn new words. Then, make sentences. Finally, speak in English."
+                }
+              ],
+              "usage_examples": [
+                "First, I woke up.",
+                "Next, I ate breakfast.",
+                "Then, I went to school.",
+                "After that, I played.",
+                "Finally, I slept."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              },
+              "table": {
+                "title": "Time Order Transition Words",
+                "headers": ["Transition Word", "Meaning"],
+                "rows": [
+                  ["First", "At the beginning"],
+                  ["Next", "After the first step"],
+                  ["Then", "After that, or at that time"],
+                  ["After that", "Following the previous event"],
+                  ["Finally", "At the end, last"],
+                  ["Meanwhile", "At the same time"],
+                  ["Before", "Earlier than"],
+                  ["After", "Later than"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using Transition Words for Adding Information and Contrast",
+          "sections": [
+            {
+              "text": "Transition words can also show addition (adding more information) or contrast (showing a difference). Words like 'also', 'in addition', 'moreover' add ideas. Words like 'but', 'however', 'on the other hand' show differences. These words help to make complex ideas clear by linking them properly.",
+              "examples": [
+                {
+                  "label": "Adding information",
+                  "value": "He likes to read books. Also, he enjoys playing games."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "Our village has a school. In addition, it has a health center."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "It was raining heavily. However, the children went out to play."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "He is poor. But, he is very honest."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "The well is deep. Moreover, it has fresh water."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "She is a good student. Furthermore, she helps her classmates."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "The buffalo is old. On the other hand, it is still strong."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "The path was difficult. Nevertheless, they reached the temple."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "Growing rice needs much water. Also, it needs good soil."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "The festival brings joy. Besides, it strengthens community bonds."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "The sun was hot. Yet, the farmers continued their work."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "He tried many times. Still, he could not solve the puzzle."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "She takes care of her plants. Additionally, she talks to them every day."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "The old hut is small. Conversely, it is very cozy."
+                },
+                {
+                  "label": "Adding information",
+                  "value": "The village has electricity. What's more, it has clean drinking water."
+                },
+                {
+                  "label": "Showing contrast",
+                  "value": "The food was simple. All the same, it was delicious."
+                }
+              ],
+              "usage_examples": [
+                "I like mangoes. Also, I like bananas.",
+                "It was cold. But I went outside.",
+                "He studies hard. In addition, he helps at home.",
+                "She is tired. However, she must work.",
+                "The road is long. Moreover, it is rough."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              },
+              "table": {
+                "title": "Addition and Contrast Transition Words",
+                "headers": ["Transition Word", "Meaning (Addition)", "Meaning (Contrast)"],
+                "rows": [
+                  ["Also", "In addition", null],
+                  ["In addition", "Adds more information", null],
+                  ["Moreover", "Adds more information", null],
+                  ["Furthermore", "Adds more information", null],
+                  ["Besides", "Adds more information", null],
+                  ["What's more", "Adds more information", null],
+                  ["But", null, "Shows difference/opposite"],
+                  ["However", null, "Shows difference/opposite"],
+                  ["On the other hand", null, "Shows opposite view"],
+                  ["Nevertheless", null, "In spite of that"],
+                  ["Yet", null, "Still, in spite of that"],
+                  ["Still", null, "In spite of that"],
+                  ["Conversely", null, "On the contrary"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using Transition Words for Cause and Effect / Example",
+          "sections": [
+            {
+              "text": "Transition words can also show cause and effect (why something happened) or give examples. Words like 'because', 'so', 'therefore', 'as a result' show cause and effect. Words like 'for example', 'for instance', 'such as' give examples. These connections make your explanations very clear.",
+              "examples": [
+                {
+                  "label": "Cause and effect",
+                  "value": "It rained heavily. Therefore, the roads were muddy."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "He studied hard. As a result, he passed the exam."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "There are many animals in the village, for example, cows and goats."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "Some crops need much water, such as rice."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "The well dried up. Consequently, villagers faced water shortage."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "He helped everyone. So, everyone loved him."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "You should eat healthy food, for instance, fruits and vegetables."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "The wind blew strongly. Thus, the roof was damaged."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "Many insects help crops, for example, bees for pollination."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "She felt sleepy. Hence, she went to bed early."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "Some village crafts are beautiful, namely pottery and weaving."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "He worked tirelessly. In consequence, his crops were abundant."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "Children like to play outdoor games, like kabaddi and kho-kho."
+                },
+                {
+                  "label": "Cause and effect",
+                  "value": "The river flooded. This led to damage in nearby fields."
+                },
+                {
+                  "label": "Giving example",
+                  "value": "Important festivals in our village include Diwali and Holi."
+                }
+              ],
+              "usage_examples": [
+                "It was dark, so I used a lamp.",
+                "He got good marks because he studied.",
+                "For example, rice needs water.",
+                "As a result, the plant grew.",
+                "Therefore, we must save water."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              },
+              "table": {
+                "title": "Cause/Effect and Example Transition Words",
+                "headers": ["Transition Word", "Meaning (Cause/Effect)", "Meaning (Example)"],
+                "rows": [
+                  ["Because", "Shows reason", null],
+                  ["So", "Shows result", null],
+                  ["Therefore", "Shows result/conclusion", null],
+                  ["As a result", "Shows outcome", null],
+                  ["Consequently", "Shows outcome", null],
+                  ["Thus", "Shows result/conclusion", null],
+                  ["Hence", "Shows reason/result", null],
+                  ["In consequence", "Shows outcome", null],
+                  ["For example", null, "Introduces an example"],
+                  ["For instance", null, "Introduces an example"],
+                  ["Such as", null, "Introduces an example"],
+                  ["Namely", null, "Introduces specific items"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Paragraph Organization",
+      "subtopics": [
+        {
+          "title": "Starting a Paragraph (Topic Sentence)",
+          "sections": [
+            {
+              "text": "Every good paragraph usually starts with a main idea sentence, called a 'topic sentence'. This sentence tells the reader what the whole paragraph will be about. It's like the headline for your paragraph. All other sentences in the paragraph will then give more details or explanations about this main idea. A clear topic sentence helps to organize your thoughts and guides the reader.",
+              "examples": [
+                {
+                  "label": "Topic Sentence",
+                  "value": "Life in our village is simple and peaceful."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "We wake up with the birds. We work in the fields. We sleep early."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "Our school helps students learn many useful things."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "We learn English and Math. We also learn about farming. Our teachers are kind."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "The monsoon season is very important for our farmers."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "It brings much-needed rain. The fields become green. Crops grow well after the rain."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "Cooking traditional food is a long process."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "First, we grind the spices. Then, we chop the vegetables. Finally, we cook it slowly over fire."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "The village market is a busy place."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "People buy and sell vegetables there. They also sell clothes and tools. Many people gather to talk."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "My buffalo is very helpful on the farm."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "It helps to plough the fields. It also carries heavy loads. It gives us fresh milk."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "Reading books can make us smart."
+                },
+                {
+                  "label": "Supporting sentences",
+                  "value": "They give us new ideas. We learn about different places. They help us understand the world better."
+                }
+              ],
+              "usage_examples": [
+                "Start with a main idea sentence.",
+                "This is the topic sentence.",
+                "It tells what the paragraph is about.",
+                "All other sentences give details.",
+                "It helps keep thoughts organized."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Developing a Paragraph (Supporting Sentences)",
+          "sections": [
+            {
+              "text": "After the topic sentence, the rest of the sentences in the paragraph are 'supporting sentences'. They give more information, examples, facts, or explanations related to the topic sentence. Each supporting sentence should add something new and relevant to the main idea. Use transition words to connect these sentences smoothly so they flow from one to the next.",
+              "examples": [
+                {
+                  "label": "Topic Sentence",
+                  "value": "Our village fair is a very exciting event."
+                },
+                {
+                  "label": "Supporting Detail 1",
+                  "value": "Many colorful shops are set up there."
+                },
+                {
+                  "label": "Supporting Detail 2",
+                  "value": "Children play various games and ride swings."
+                },
+                {
+                  "label": "Supporting Detail 3",
+                  "value": "Also, people sing folk songs and dance together."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "It is important to keep our surroundings clean."
+                },
+                {
+                  "label": "Supporting Detail 1",
+                  "value": "Firstly, cleanliness prevents many diseases from spreading."
+                },
+                {
+                  "label": "Supporting Detail 2",
+                  "value": "Secondly, a clean environment looks beautiful and fresh."
+                },
+                {
+                  "label": "Supporting Detail 3",
+                  "value": "Moreover, it helps to keep our wells and ponds pure."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "My grandfather is a very wise person."
+                },
+                {
+                  "label": "Supporting Detail 1",
+                  "value": "He always gives good advice to everyone."
+                },
+                {
+                  "label": "Supporting Detail 2",
+                  "value": "For instance, he taught me how to grow healthy crops."
+                },
+                {
+                  "label": "Supporting Detail 3",
+                  "value": "Also, he knows many old folk tales and stories."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "The rainy season brings joy to the villagers."
+                },
+                {
+                  "label": "Supporting Detail 1",
+                  "value": "The dry fields get water again."
+                },
+                {
+                  "label": "Supporting Detail 2",
+                  "value": "The air becomes cool and fresh."
+                },
+                {
+                  "label": "Supporting Detail 3",
+                  "value": "As a result, plants and trees look greener and healthier."
+                },
+                {
+                  "label": "Topic Sentence",
+                  "value": "Building a mud hut requires several steps."
+                },
+                {
+                  "label": "Supporting Detail 1",
+                  "value": "First, collect strong wood for the frame."
+                },
+                {
+                  "label": "Supporting Detail 2",
+                  "value": "Next, mix mud with straw to make strong bricks."
+                },
+                {
+                  "label": "Supporting Detail 3",
+                  "value": "Then, build the walls and finally, add a roof."
+                }
+              ],
+              "usage_examples": [
+                "Add details after topic sentence.",
+                "Each sentence adds new info.",
+                "Use transition words.",
+                "Make sure ideas are connected.",
+                "It builds the paragraph."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Coherence and Cohesion",
+      "subtopics": [
+        {
+          "title": "Ensuring Coherence (Clear Meaning)",
+          "sections": [
+            {
+              "text": "Coherence means that all the sentences in your paragraph stick together logically and make complete sense as a whole unit. The ideas should flow smoothly from one to the next, so the reader can easily follow your thoughts without getting confused. It's about the overall understanding of the paragraph. When your paragraph is coherent, it has a clear and sensible message.",
+              "examples": [
+                {
+                  "label": "Coherent paragraph",
+                  "value": "Our village pond is very old. It provides water for cattle. Fish also live in it. Many birds come to drink water there. It is a peaceful place."
+                },
+                {
+                  "label": "Less coherent (mixed ideas)",
+                  "value": "Our village pond is old. My house is red. Birds fly in the sky. I like mangoes. (Ideas are not connected)."
+                },
+                {
+                  "label": "Coherent paragraph (farming)",
+                  "value": "The monsoon rains arrived on time this year. The farmers were very happy. They started ploughing their fields. Soon, green shoots appeared everywhere. Everyone expects a good harvest."
+                },
+                {
+                  "label": "Less coherent (broken flow)",
+                  "value": "The monsoon rains arrived. The school closed yesterday. Farmers harvested crops. My brother is clever."
+                },
+                {
+                  "label": "Coherent paragraph (daily life)",
+                  "value": "Every morning, I help my mother. First, I fetch water from the well. Then, I feed the chickens. After that, I get ready for school."
+                },
+                {
+                  "label": "Less coherent (unrelated thoughts)",
+                  "value": "I help my mother. The sky is blue. My friend has a new bicycle. I like to read books."
+                },
+                {
+                  "label": "Coherent paragraph (problem/solution)",
+                  "value": "Last month, the villagers faced a big problem. The only road to the market was broken. So, they decided to repair it themselves. They worked together daily. Finally, the road was ready, making travel easy again."
+                },
+                {
+                  "label": "Less coherent (missing steps)",
+                  "value": "The road was broken. It was easy again. (Missing the solution steps)."
+                },
+                {
+                  "label": "Coherent paragraph (description)",
+                  "value": "The banyan tree in our village is very old and big. Its branches spread wide, giving much shade. Children play under it. Birds build nests in its leaves. It is a symbol of our village."
+                },
+                {
+                  "label": "Less coherent (sudden change of topic)",
+                  "value": "The banyan tree is old. My favorite food is roti. The river flows fast."
+                },
+                {
+                  "label": "Coherent paragraph (comparison)",
+                  "value": "Life in the city is fast-paced. People are always in a hurry. In contrast, village life is calm and slow. People have more time for each other there."
+                }
+              ],
+              "usage_examples": [
+                "Make sure ideas link up.",
+                "Your paragraph should make sense.",
+                "Readers should follow easily.",
+                "All sentences must be about one main idea.",
+                "Good coherence means clear message."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Ensuring Cohesion (Sentences Sticking Together)",
+          "sections": [
+            {
+              "text": "Cohesion means that the sentences in your paragraph are well-connected using words and phrases. This is where transition words are very important. Also, using pronouns (he, she, it, they) instead of repeating nouns, and repeating key words, helps sentences stick together. Good cohesion makes your writing smooth and prevents it from sounding jumpy.",
+              "examples": [
+                {
+                  "label": "Cohesive (using transition words)",
+                  "value": "First, boil the water. Then, add the rice. After that, cook it for some time. Finally, serve it."
+                },
+                {
+                  "label": "Less cohesive (choppy)",
+                  "value": "Boil the water. Add the rice. Cook it for some time. Serve it."
+                },
+                {
+                  "label": "Cohesive (using pronouns)",
+                  "value": "The farmer went to the field. He started ploughing. He worked hard all day."
+                },
+                {
+                  "label": "Less cohesive (repetition)",
+                  "value": "The farmer went to the field. The farmer started ploughing. The farmer worked hard all day."
+                },
+                {
+                  "label": "Cohesive (repeating key words)",
+                  "value": "Water is essential for life. This water helps plants grow. Pure water keeps us healthy."
+                },
+                {
+                  "label": "Less cohesive (different words)",
+                  "value": "Water is essential for life. This liquid helps plants grow. Clean H2O keeps us healthy."
+                },
+                {
+                  "label": "Cohesive (using synonyms/related words)",
+                  "value": "The new scheme helps farmers. This project will provide free seeds. It aims to improve crop yield."
+                },
+                {
+                  "label": "Less cohesive (unlinked sentences)",
+                  "value": "The new scheme helps farmers. It gives free seeds. Crops will improve."
+                },
+                {
+                  "label": "Cohesive (using referents)",
+                  "value": "My village has a big banyan tree. It is very old. Children often play under it."
+                },
+                {
+                  "label": "Less cohesive (unclear referent)",
+                  "value": "My village has a big banyan tree. The tree is very old. Children often play under the tree."
+                },
+                {
+                  "label": "Cohesive (connecting phrases)",
+                  "value": "There was a loud noise. As a result, everyone woke up. This noise was a thunderclap."
+                },
+                {
+                  "label": "Less cohesive (disconnected ideas)",
+                  "value": "There was a loud noise. Everyone woke up. The thunderclap."
+                },
+                {
+                  "label": "Cohesive (logical flow with transitions)",
+                  "value": "First, collect the dry leaves. Next, put them into a pile. Then, burn them carefully. Finally, use the ash as fertilizer."
+                },
+                {
+                  "label": "Less cohesive (jumpy)",
+                  "value": "Collect dry leaves. Put them in a pile. Burn them. Use ash for fertilizer."
+                },
+                {
+                  "label": "Cohesive (showing cause-effect clearly)",
+                  "value": "It rained heavily last night. Therefore, the roads are muddy this morning."
+                },
+                {
+                  "label": "Less cohesive (without 'therefore')",
+                  "value": "It rained heavily last night. The roads are muddy this morning."
+                }
+              ],
+              "usage_examples": [
+                "Sentences should stick together.",
+                "Use transition words.",
+                "Don't repeat nouns too much.",
+                "Use 'he', 'she', 'it' to link.",
+                "It makes writing smooth to read."
+              ],
+              "media": {
+                "image": "images/intermediate/module-4/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1069 @@
+
+{
+  "level": "Intermediate",
+  "module": "Real Life & Role Play English",
+  "lesson_number": 1,
+  "lesson_title": "Buying Vegetables",
+  "objectives": [
+    "Practice market conversation skills",
+    "Use bargaining language appropriately",
+    "Handle money transactions in English",
+    "Learn vegetable names and quantities"
+  ],
+  "topics": [
+    {
+      "title": "Market Basics and Vocabulary",
+      "subtopics": [
+        {
+          "title": "Common Market Words",
+          "sections": [
+            {
+              "text": "When you go to buy vegetables, you will meet different people and see different things. Knowing the right words helps you talk easily. A 'vendor' is the person who sells things in the market. You are the 'customer' or 'buyer'. You ask for the 'price' of vegetables. You also talk about the 'quantity' (how much you want) and the 'quality' (how good or fresh the vegetables are).",
+              "examples": [
+                {
+                  "label": "Vendor",
+                  "value": "The person selling vegetables."
+                },
+                {
+                  "label": "Customer",
+                  "value": "The person buying vegetables."
+                },
+                {
+                  "label": "Price",
+                  "value": "How much money something costs."
+                },
+                {
+                  "label": "Quantity",
+                  "value": "How much of something you want (e.g., one kilo, a bunch)."
+                },
+                {
+                  "label": "Quality",
+                  "value": "How good or fresh something is."
+                },
+                {
+                  "label": "Market",
+                  "value": "A place where many people sell and buy things."
+                },
+                {
+                  "label": "Stall",
+                  "value": "A small shop or table in the market."
+                },
+                {
+                  "label": "Bargain",
+                  "value": "To ask for a lower price."
+                },
+                {
+                  "label": "Discount",
+                  "value": "A lower price given by the seller."
+                },
+                {
+                  "label": "Change",
+                  "value": "The money you get back after paying."
+                },
+                {
+                  "label": "Rupees",
+                  "value": "Indian money."
+                },
+                {
+                  "label": "Fresh",
+                  "value": "Recently picked, good to eat."
+                },
+                {
+                  "label": "Stale",
+                  "value": "Not fresh, old."
+                },
+                {
+                  "label": "Ripe",
+                  "value": "Ready to eat (like a tomato or mango)."
+                },
+                {
+                  "label": "Unripe",
+                  "value": "Not ready to eat yet."
+                }
+              ],
+              "usage_examples": [
+                "The vendor weighed the potatoes for me.",
+                "I am a customer at the village market.",
+                "What is the price of these tomatoes?",
+                "I need a small quantity of chilies.",
+                "These vegetables have good quality.",
+                "Let's go to the market to buy vegetables.",
+                "The vendor has a small stall there.",
+                "I tried to bargain for the onions.",
+                "Can you give me a discount for these green beans?",
+                "Do you have change for 500 rupees?",
+                "I paid 20 rupees for this cucumber.",
+                "These carrots look very fresh.",
+                "Don't buy those, they look stale.",
+                "Is this mango ripe?",
+                "The green bananas are still unripe."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Names of Vegetables",
+          "sections": [
+            {
+              "text": "Knowing the names of common vegetables in English will help you ask for exactly what you need. Many vegetables are grown in villages and are common in our food. We will learn names of common vegetables.",
+              "examples": [
+                {
+                  "label": "Tomato",
+                  "value": "టమోటా"
+                },
+                {
+                  "label": "Onion",
+                  "value": "ఉల్లిపాయ"
+                },
+                {
+                  "label": "Potato",
+                  "value": "బంగాళదుంప"
+                },
+                {
+                  "label": "Brinjal / Eggplant",
+                  "value": "వంకాయ"
+                },
+                {
+                  "label": "Lady's Finger / Okra",
+                  "value": "బెండకాయ"
+                },
+                {
+                  "label": "Cauliflower",
+                  "value": "క్యాలీఫ్లవర్"
+                },
+                {
+                  "label": "Cabbage",
+                  "value": "క్యాబేజీ"
+                },
+                {
+                  "label": "Green Chili",
+                  "value": "పచ్చి మిరపకాయ"
+                },
+                {
+                  "label": "Ginger",
+                  "value": "అల్లం"
+                },
+                {
+                  "label": "Garlic",
+                  "value": "వెల్లుల్లి"
+                },
+                {
+                  "label": "Spinach",
+                  "value": "పాలకూర"
+                },
+                {
+                  "label": "Cucumber",
+                  "value": "దోసకాయ"
+                },
+                {
+                  "label": "Carrot",
+                  "value": "క్యారెట్"
+                },
+                {
+                  "label": "Radish",
+                  "value": "ముల్లంగి"
+                },
+                {
+                  "label": "Peas",
+                  "value": "బఠానీ"
+                },
+                {
+                  "label": "Beans",
+                  "value": "చిక్కుడు"
+                },
+                {
+                  "label": "Pumpkin",
+                  "value": "గుమ్మడికాయ"
+                },
+                {
+                  "label": "Bottle Gourd",
+                  "value": "సొరకాయ"
+                },
+                {
+                  "label": "Bitter Gourd",
+                  "value": "కాకరకాయ"
+                },
+                {
+                  "label": "Capsicum / Bell Pepper",
+                  "value": "క్యాప్సికమ్"
+                },
+                {
+                  "label": "Coriander Leaves",
+                  "value": "కొత్తిమీర"
+                },
+                {
+                  "label": "Mint Leaves",
+                  "value": "పుదీనా"
+                },
+                {
+                  "label": "Sweet Potato",
+                  "value": "చిలగడదుంప"
+                },
+                {
+                  "label": "Drumstick",
+                  "value": "మునగకాయ"
+                },
+                {
+                  "label": "Lemon",
+                  "value": "నిమ్మకాయ"
+                }
+              ],
+              "usage_examples": [
+                "I bought two kilos of tomatoes for salad.",
+                "My mother needs onions for cooking.",
+                "We grew big potatoes in our field.",
+                "This brinjal is good for curry.",
+                "I like to eat lady's finger fry.",
+                "We need one cauliflower for dinner.",
+                "This cabbage is very fresh.",
+                "Do you have extra green chilies?",
+                "Add some ginger and garlic to the food.",
+                "My grandmother always makes spinach pappu.",
+                "Let's eat cucumber in the afternoon heat.",
+                "My little sister loves eating carrots.",
+                "We picked fresh radishes from the garden.",
+                "The peas are very sweet this season.",
+                "These beans are long and tender.",
+                "We use pumpkin to make sweets.",
+                "Bottle gourd is good for health.",
+                "Some people don't like bitter gourd.",
+                "I need one capsicum for my dish.",
+                "Put some coriander leaves on top of the curry.",
+                "My tea has fresh mint leaves.",
+                "We roasted sweet potatoes in the fire.",
+                "Drumsticks are good in sambar.",
+                "I need a lemon for my water."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              },
+              "table": {
+                "title": "Common Vegetables (English and Telugu)",
+                "headers": [
+                  "English Name",
+                  "Telugu Name"
+                ],
+                "rows": [
+                  [
+                    "Tomato",
+                    "టమోటా"
+                  ],
+                  [
+                    "Onion",
+                    "ఉల్లిపాయ"
+                  ],
+                  [
+                    "Potato",
+                    "బంగాళదుంప"
+                  ],
+                  [
+                    "Brinjal / Eggplant",
+                    "వంకాయ"
+                  ],
+                  [
+                    "Lady's Finger / Okra",
+                    "బెండకాయ"
+                  ],
+                  [
+                    "Cauliflower",
+                    "క్యాలీఫ్లవర్"
+                  ],
+                  [
+                    "Cabbage",
+                    "క్యాబేజీ"
+                  ],
+                  [
+                    "Green Chili",
+                    "పచ్చి మిరపకాయ"
+                  ],
+                  [
+                    "Ginger",
+                    "అల్లం"
+                  ],
+                  [
+                    "Garlic",
+                    "వెల్లుల్లి"
+                  ],
+                  [
+                    "Spinach",
+                    "పాలకూర"
+                  ],
+                  [
+                    "Cucumber",
+                    "దోసకాయ"
+                  ],
+                  [
+                    "Carrot",
+                    "క్యారెట్"
+                  ],
+                  [
+                    "Radish",
+                    "ముల్లంగి"
+                  ],
+                  [
+                    "Peas",
+                    "బఠానీ"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Understanding Quantities",
+          "sections": [
+            {
+              "text": "When you buy vegetables, you need to tell the vendor how much you want. We use words like 'kilo' or 'kilogram' for weight. Sometimes we buy things by 'bunch', 'piece', or 'dozen'.",
+              "examples": [
+                {
+                  "label": "Kilo / Kilogram (kg)",
+                  "value": "1000 grams of weight."
+                },
+                {
+                  "label": "Half a kilo",
+                  "value": "500 grams."
+                },
+                {
+                  "label": "Quarter kilo",
+                  "value": "250 grams."
+                },
+                {
+                  "label": "Gram",
+                  "value": "A small unit of weight (e.g., 100 grams)."
+                },
+                {
+                  "label": "Bunch",
+                  "value": "A tied group of items (like coriander, spinach)."
+                },
+                {
+                  "label": "Piece",
+                  "value": "One single item (like one pumpkin, one brinjal)."
+                },
+                {
+                  "label": "Dozen",
+                  "value": "Twelve items (like lemons, eggs)."
+                },
+                {
+                  "label": "Packet",
+                  "value": "A small bag of something (like green peas)."
+                },
+                {
+                  "label": "Basket",
+                  "value": "A container full of items."
+                },
+                {
+                  "label": "Small amount",
+                  "value": "కొంచెం (Konchem)."
+                },
+                {
+                  "label": "Large amount",
+                  "value": "ఎక్కువ (Ekkuva)."
+                },
+                {
+                  "label": "Enough",
+                  "value": "చాలు (Chaalu)."
+                },
+                {
+                  "label": "Extra",
+                  "value": "ఇంకా (Inka)."
+                },
+                {
+                  "label": "Less",
+                  "value": "తక్కువ (Thakkuva)."
+                },
+                {
+                  "label": "More",
+                  "value": "ఇంకా (Inka)."
+                }
+              ],
+              "usage_examples": [
+                "I need one kilo of potatoes.",
+                "Can I get half a kilo of tomatoes?",
+                "Give me a bunch of coriander leaves.",
+                "I want two pieces of brinjal.",
+                "How much for a dozen lemons?",
+                "Please give me 200 grams of green chilies.",
+                "I will take one packet of frozen peas.",
+                "The vendor sold a whole basket of fresh corn.",
+                "Just a small amount of ginger, please.",
+                "I need a large amount of spinach for the family.",
+                "That's enough for today, thank you.",
+                "Do you have any extra garlic?",
+                "Can you give me a little less?",
+                "I need some more carrots.",
+                "Please weigh this on your scale."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Talking to the Vendor",
+      "subtopics": [
+        {
+          "title": "Asking Prices",
+          "sections": [
+            {
+              "text": "When you want to buy something, the first thing is to ask its price. Use polite questions like 'How much for...?' or 'What's the price of...?'",
+              "examples": [
+                {
+                  "label": "Common 1",
+                  "value": "How much for one kilo of tomatoes?"
+                },
+                {
+                  "label": "Common 2",
+                  "value": "What's the price of these onions?"
+                },
+                {
+                  "label": "Direct",
+                  "value": "How much do these potatoes cost?"
+                },
+                {
+                  "label": "For a bunch",
+                  "value": "How much for one bunch of spinach?"
+                },
+                {
+                  "label": "For a piece",
+                  "value": "What is the price of this pumpkin?"
+                },
+                {
+                  "label": "Rates",
+                  "value": "What are the rates for lady's finger today?"
+                },
+                {
+                  "label": "Per unit",
+                  "value": "How much per kilo for carrots?"
+                },
+                {
+                  "label": "General",
+                  "value": "How much are these?"
+                },
+                {
+                  "label": "Inquiry",
+                  "value": "What's the cost of these fresh peas?"
+                },
+                {
+                  "label": "Specific quantity",
+                  "value": "How much for half a kilo of ginger?"
+                },
+                {
+                  "label": "Polite inquiry",
+                  "value": "Excuse me, how much are these brinjals?"
+                },
+                {
+                  "label": "Asking about a bunch",
+                  "value": "What is the price for one bundle of radish?"
+                },
+                {
+                  "label": "About a dozen",
+                  "value": "How much for a dozen lemons?"
+                },
+                {
+                  "label": "Today's rate",
+                  "value": "What's today's rate for bitter gourd?"
+                },
+                {
+                  "label": "Is this costly?",
+                  "value": "Is this expensive?"
+                }
+              ],
+              "usage_examples": [
+                "How much for one kilo of tomatoes?, the customer asked.",
+                "The boy asked, What's the price of these onions?,",
+                "How much do these potatoes cost?, my father asked the vendor.",
+                "How much for one bunch of spinach?, I asked.",
+                "What is the price of this pumpkin?, she wanted to know.",
+                "What are the rates for lady's finger today?, asked the lady.",
+                "How much per kilo for carrots?, he inquired.",
+                "How much are these green chilies?",
+                "What's the cost of these fresh peas?, she asked.",
+                "How much for half a kilo of ginger?, I questioned the vendor."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Buying Quantities",
+          "sections": [
+            {
+              "text": "Once you know the price, you tell the vendor how much you want to buy. Use clear sentences like 'I'll take...' or 'Give me...'.",
+              "examples": [
+                {
+                  "label": "Basic 1",
+                  "value": "I'll take one kilo of potatoes."
+                },
+                {
+                  "label": "Basic 2",
+                  "value": "Give me half a kilo of tomatoes, please."
+                },
+                {
+                  "label": "For a bunch",
+                  "value": "I need two bunches of spinach."
+                },
+                {
+                  "label": "For a piece",
+                  "value": "Give me one big pumpkin."
+                },
+                {
+                  "label": "Polite request",
+                  "value": "Could you please give me a kilo of onions?"
+                },
+                {
+                  "label": "Exact amount",
+                  "value": "I want 250 grams of green chilies."
+                },
+                {
+                  "label": "More polite",
+                  "value": "May I have two kilograms of brinjal?"
+                },
+                {
+                  "label": "Total needed",
+                  "value": "I'd like to buy one kilo of carrots and half a kilo of peas."
+                },
+                {
+                  "label": "For leafy greens",
+                  "value": "Please pack two bundles of coriander leaves."
+                },
+                {
+                  "label": "Simple",
+                  "value": "One kilo of cucumbers, please."
+                },
+                {
+                  "label": "For a dozen",
+                  "value": "I'll take a dozen lemons."
+                },
+                {
+                  "label": "For specific amount",
+                  "value": "Can I get 500 grams of lady's finger?"
+                },
+                {
+                  "label": "Adding more items",
+                  "value": "And also, a small piece of ginger."
+                },
+                {
+                  "label": "Confirming",
+                  "value": "So, that's two kilos of potatoes."
+                },
+                {
+                  "label": "Ready to buy",
+                  "value": "Okay, I will take these."
+                }
+              ],
+              "usage_examples": [
+                "I'll take one kilo of potatoes.",
+                "Give me half a kilo of tomatoes, please.",
+                "I need two bunches of spinach for my mother.",
+                "Give me one big pumpkin for the curry.",
+                "Could you please give me a kilo of onions?",
+                "I want 250 grams of green chilies.",
+                "May I have two kilograms of brinjal?",
+                "I'd like to buy one kilo of carrots and half a kilo of peas.",
+                "Please pack two bundles of coriander leaves.",
+                "One kilo of cucumbers, please."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Checking Quality",
+          "sections": [
+            {
+              "text": "Before buying, you can check if the vegetables are fresh and good. You can ask questions about their quality or comment on how they look.",
+              "examples": [
+                {
+                  "label": "Asking Freshness 1",
+                  "value": "Are these tomatoes fresh?"
+                },
+                {
+                  "label": "Asking Freshness 2",
+                  "value": "Are these vegetables from today's harvest?"
+                },
+                {
+                  "label": "Commenting Good Quality",
+                  "value": "These cauliflowers look very fresh."
+                },
+                {
+                  "label": "Commenting Bad Quality 1",
+                  "value": "Some of these potatoes look old."
+                },
+                {
+                  "label": "Commenting Bad Quality 2",
+                  "value": "This brinjal has some spots."
+                },
+                {
+                  "label": "Asking about ripeness",
+                  "value": "Are these mangoes ripe enough to eat?"
+                },
+                {
+                  "label": "Asking about organic",
+                  "value": "Are these organic vegetables?"
+                },
+                {
+                  "label": "Checking firmness",
+                  "value": "Is this pumpkin firm?"
+                },
+                {
+                  "label": "Checking for damage",
+                  "value": "Do these tomatoes have any bruises?"
+                },
+                {
+                  "label": "Asking for best",
+                  "value": "Can you give me the best ones?"
+                },
+                {
+                  "label": "Choosing",
+                  "value": "I want the fresh looking ones."
+                },
+                {
+                  "label": "Rejecting bad",
+                  "value": "Please remove the spoiled ones."
+                },
+                {
+                  "label": "Asking about source",
+                  "value": "Are these grown locally?"
+                },
+                {
+                  "label": "Confirming quality",
+                  "value": "So, these are fresh, right?"
+                },
+                {
+                  "label": "Expressing satisfaction",
+                  "value": "They look good."
+                }
+              ],
+              "usage_examples": [
+                "Are these tomatoes fresh today?",
+                "These cauliflowers look very fresh.",
+                "Some of these potatoes look old.",
+                "This brinjal has some spots on it.",
+                "Are these vegetables from today's harvest?",
+                "The customer asked, Are these organic vegetables?",
+                "Can you give me the best ones?, I asked the vendor.",
+                "Please remove the spoiled ones from the pile.",
+                "Are these mangoes ripe enough to eat today?",
+                "The vendor said, 'They look good'."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bargaining Skills",
+      "subtopics": [
+        {
+          "title": "How to Bargain",
+          "sections": [
+            {
+              "text": "Bargaining means asking for a lower price. It is common in many local markets in India. It's like a friendly game between you and the vendor to agree on a price. Be polite but firm. Start by asking for a lower price than what the vendor first says. Remember, practice helps you bargain better.",
+              "examples": [
+                {
+                  "label": "Too expensive",
+                  "value": "That's too expensive."
+                },
+                {
+                  "label": "Can you reduce",
+                  "value": "Can you reduce the price a little?"
+                },
+                {
+                  "label": "Lower offer 1",
+                  "value": "Can you give it for twenty rupees?"
+                },
+                {
+                  "label": "Lower offer 2",
+                  "value": "I can only pay thirty rupees for this."
+                },
+                {
+                  "label": "Discount inquiry",
+                  "value": "Is there any discount on these carrots?"
+                },
+                {
+                  "label": "Comparison",
+                  "value": "It's cheaper in another shop."
+                },
+                {
+                  "label": "Final price request",
+                  "value": "What's your final price for this?"
+                },
+                {
+                  "label": "Taking specific quantity",
+                  "value": "If you give it for forty, I'll take two kilos."
+                },
+                {
+                  "label": "Considering budget",
+                  "value": "This is a bit out of my budget."
+                },
+                {
+                  "label": "Gentle persuasion",
+                  "value": "Please give a little less, I am a regular customer."
+                },
+                {
+                  "label": "Trying again",
+                  "value": "I was hoping for a better price, can you reduce it a little bit more?"
+                },
+                {
+                  "label": "Small amount",
+                  "value": "Can you round it off to fifty rupees?"
+                },
+                {
+                  "label": "Asking for a deal",
+                  "value": "What deal can you give me if I buy three items?"
+                },
+                {
+                  "label": "Hesitation",
+                  "value": "Hmm, that's a bit high."
+                },
+                {
+                  "label": "Willing to walk away",
+                  "value": "If not, I will check with another vendor."
+                }
+              ],
+              "usage_examples": [
+                "I told the vendor, 'That's too expensive'.",
+                "Can you reduce the price a little for these potatoes?",
+                "I offered, 'Can you give it for twenty rupees?'",
+                "She said, 'I can only pay thirty rupees for this pumpkin'.",
+                "Is there any discount on these carrots today?",
+                "It's cheaper in another shop across the market.",
+                "What's your final price for this big cabbage?",
+                "If you give it for forty, I'll take two kilos of beans.",
+                "He said, 'This is a bit out of my budget' for now'.",
+                "Please give a little less, I come here every week."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Vendor's Replies to Bargaining",
+          "sections": [
+            {
+              "text": "When you bargain, the vendor will reply. They might say no, or offer a slightly different price. Understand their common replies.",
+              "examples": [
+                {
+                  "label": "Refusal 1",
+                  "value": "Sorry, sir, fixed price."
+                },
+                {
+                  "label": "Refusal 2",
+                  "value": "No, I cannot reduce it more."
+                },
+                {
+                  "label": "Slight reduction",
+                  "value": "I can give for twenty-eight rupees."
+                },
+                {
+                  "label": "Justification 1",
+                  "value": "These are very fresh, picked this morning."
+                },
+                {
+                  "label": "Justification 2",
+                  "value": "This is the market rate today."
+                },
+                {
+                  "label": "Best price",
+                  "value": "This is the best price I can give."
+                },
+                {
+                  "label": "Small profit",
+                  "value": "I have very little profit in this."
+                },
+                {
+                  "label": "Encouragement",
+                  "value": "You won't find this quality anywhere else."
+                },
+                {
+                  "label": "Final offer",
+                  "value": "Okay, last price for you, fifty rupees."
+                },
+                {
+                  "label": "Agreement",
+                  "value": "Yes, I can give you a small discount."
+                },
+                {
+                  "label": "No discount",
+                  "value": "No discount on this item."
+                },
+                {
+                  "label": "Comparing quality",
+                  "value": "My vegetables are better than other shops'."
+                },
+                {
+                  "label": "First customer",
+                  "value": "You are my first customer today, I will give you a little less."
+                },
+                {
+                  "label": "Standard price",
+                  "value": "This is the usual rate, madam."
+                },
+                {
+                  "label": "No further reduction",
+                  "value": "That's my lowest, I cannot go lower."
+                }
+              ],
+              "usage_examples": [
+                "The vendor said, 'Sorry, sir, fixed price'.",
+                "He replied, 'No, I cannot reduce it more'.",
+                "She offered, 'I can give for twenty-eight rupees'.",
+                "The vendor explained, 'These are very fresh, picked this morning'.",
+                "This is the market rate today for onions.",
+                "This is the best price I can give you, madam.",
+                "He said, 'I have very little profit in this item'.",
+                "You won't find this quality anywhere else.",
+                "Okay, last price for you, fifty rupees.",
+                "Yes, I can give you a small discount for being a regular customer."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Handling Money Transactions",
+      "subtopics": [
+        {
+          "title": "Paying and Getting Change",
+          "sections": [
+            {
+              "text": "After choosing vegetables and agreeing on the price, you need to pay. Use phrases to ask for the total, give money, and ask for change. 'Rupees' is our currency in India.",
+              "examples": [
+                {
+                  "label": "Asking total 1",
+                  "value": "How much is the total?"
+                },
+                {
+                  "label": "Asking total 2",
+                  "value": "What's the total amount?"
+                },
+                {
+                  "label": "Giving money 1",
+                  "value": "Here is fifty rupees."
+                },
+                {
+                  "label": "Giving money 2",
+                  "value": "Take one hundred rupees."
+                },
+                {
+                  "label": "Asking for change 1",
+                  "value": "Do you have change for 100 rupees?"
+                },
+                {
+                  "label": "Asking for change 2",
+                  "value": "Can you give me back the change?"
+                },
+                {
+                  "label": "Receiving change",
+                  "value": "Thank you for the change."
+                },
+                {
+                  "label": "Confirming payment",
+                  "value": "I will pay by cash."
+                },
+                {
+                  "label": "Digital payment",
+                  "value": "Do you accept digital payment here?"
+                },
+                {
+                  "label": "Offering Exact",
+                  "value": "I have the exact amount."
+                },
+                {
+                  "label": "No small change",
+                  "value": "Sorry, I don't have small change."
+                },
+                {
+                  "label": "Rounding off",
+                  "value": "Can you round off the total?"
+                },
+                {
+                  "label": "Final amount",
+                  "value": "The total is 75 rupees."
+                },
+                {
+                  "label": "Receiving items",
+                  "value": "Please pack these vegetables for me."
+                },
+                {
+                  "label": "Ending transaction",
+                  "value": "That's all for today, thank you."
+                }
+              ],
+              "usage_examples": [
+                "How much is the total for all these vegetables?",
+                "Here is fifty rupees for the spinach.",
+                "Do you have change for 100 rupees?, I asked the vendor.",
+                " 'Can you give me back the change?', he requested.",
+                "Take one hundred rupees for these items.",
+                "The vendor said, 'The total is 75 rupees'.",
+                "Thank you for the change.",
+                "I will pay by cash today.",
+                "'Do you accept digital payment here?', the customer asked.",
+                "Please pack these vegetables for me."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Counting Money and Quantities",
+          "sections": [
+            {
+              "text": "It is important to understand numbers for prices and quantities. You should know numbers up to hundreds and thousands. Also, remember the units for quantities like kilograms and grams.",
+              "examples": [
+                {
+                  "label": "Small Numbers",
+                  "value": "One, two, five, ten, twenty."
+                },
+                {
+                  "label": "Medium Numbers",
+                  "value": "Fifty, seventy-five, one hundred."
+                },
+                {
+                  "label": "Large Numbers",
+                  "value": "Two hundred, five hundred, one thousand."
+                },
+                {
+                  "label": "Weight Unit",
+                  "value": "Kilogram (kg)."
+                },
+                {
+                  "label": "Small Weight Unit",
+                  "value": "Gram (g)."
+                },
+                {
+                  "label": "Counting Pieces",
+                  "value": "Pieces (e.g., three pieces)."
+                },
+                {
+                  "label": "Counting Bunches",
+                  "value": "Bunches (e.g., two bunches)."
+                },
+                {
+                  "label": "Counting Dozens",
+                  "value": "Dozen (12 items)."
+                },
+                {
+                  "label": "Price Example 1",
+                  "value": "Twenty-five rupees."
+                },
+                {
+                  "label": "Price Example 2",
+                  "value": "Eighty rupees per kilo."
+                },
+                {
+                  "label": "Quantity Example 1",
+                  "value": "One and a half kilos."
+                },
+                {
+                  "label": "Quantity Example 2",
+                  "value": "200 grams."
+                },
+                {
+                  "label": "Total Calculation",
+                  "value": "Total will be seventy rupees."
+                },
+                {
+                  "label": "Counting notes",
+                  "value": "Here are two 50-rupee notes."
+                },
+                {
+                  "label": "Confirming count",
+                  "value": "Did you take 150 rupees?"
+                }
+              ],
+              "usage_examples": [
+                "I bought one kilo of potatoes for thirty rupees.",
+                "The tomatoes are fifty rupees per kilo.",
+                "I need two hundred grams of ginger.",
+                "Give me three pieces of fresh corn.",
+                "The total amount is one hundred and twenty rupees.",
+                "She bought two bunches of spinach.",
+                "He asked for a dozen lemons.",
+                "The cost is seventy-five rupees.",
+                "I paid with a five hundred rupee note.",
+                "Please weigh this properly on the scale."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Practice Conversations",
+      "subtopics": [
+        {
+          "title": "Sample Market Conversation 1",
+          "sections": [
+            {
+              "text": "Read this simple conversation between a customer and a vegetable vendor. Pay attention to how they ask for prices, quantity, and how they bargain.",
+              "examples": [],
+              "usage_examples": [
+                "Customer: Good morning! Do you have fresh tomatoes today?\nVendor: Good morning, sir! Yes, very fresh, just brought from the farm.\nCustomer: That's good. How much for one kilo of tomatoes?\nVendor: Thirty rupees per kilo, sir.\nCustomer: Thirty is a bit high. Can you give for twenty-five?\nVendor: Sorry, sir, these are very good quality. I can give for twenty-eight, no less.\nCustomer: Okay, twenty-eight is fine. I'll take one kilo. And how much for this bunch of spinach?\nVendor: Ten rupees for one bunch.\nCustomer: Give me two bunches then. That's all for today. What's the total?\nVendor: One kilo tomatoes for twenty-eight, two bunches spinach for twenty. Total forty-eight rupees.\nCustomer: Here is fifty rupees. Do you have change?\nVendor: Yes, here is two rupees back. Thank you, sir. Come again!"
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sample Market Conversation 2",
+          "sections": [
+            {
+              "text": "Here is another example dialogue. Notice how the customer checks quality and asks for specific quantities.",
+              "examples": [],
+              "usage_examples": [
+                "Customer: Hello. Are these lady's finger fresh?\nVendor: Hello, madam. Yes, they are very fresh. Picked just now.\nCustomer: They look good. How much for a kilo?\nVendor: Forty rupees per kilo.\nCustomer: Hmm, can you give it for thirty-five? I need half a kilo only.\nVendor: No, madam. This is the new stock. I can give it to you for thirty-eight for half kilo.\nCustomer: Okay. Give me half a kilo then. And do you have some good green chilies?\nVendor: Yes, I have. Very spicy ones.\nCustomer: Just 100 grams, please. What's the total, then?\nVendor: Half kilo lady's finger, thirty-eight rupees. 100 grams chilies, eight rupees. Total is forty-six rupees.\nCustomer: Here is fifty. Keep the change.\nVendor: Thank you, madam. Come again!"
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Role-Play Activity: Buying Vegetables",
+          "sections": [
+            {
+              "text": "Now, let's practice! Imagine you are at the village market. One person will be the customer, and another will be the vendor. Use the words and phrases you have learned.\n\nCustomer, you need to buy:\n*   1 kilo of Potatoes\n*   Half a kilo of Onions\n*   One bunch of Coriander Leaves\n\nVendor, you can set your prices (e.g., Potatoes 25 rupees/kg, Onions 30 rupees/kg, Coriander 10 rupees/bunch). The customer should try to bargain for a lower price. Remember to be polite and use clear English. After buying, count the money.",
+              "examples": [],
+              "usage_examples": [
+                "Customer: Good morning! How much for these potatoes?\nVendor: Good morning, madam! Twenty-five rupees a kilo.\nCustomer: Twenty-five is a bit high. Can you give for twenty?\nVendor: Sorry, madam, twenty is too low. I can give for twenty-three.\nCustomer: Okay, twenty-three for one kilo. And half a kilo of onions, please. What's the price for onions?\nVendor: Onions are thirty rupees a kilo. Half kilo will be fifteen rupees.\nCustomer: Can you make it twelve for the half kilo of onions?\nVendor: No, madam, fifteen is fixed. These are good quality. Anything else?\nCustomer: Yes, one bunch of coriander leaves. How much is it?\nVendor: Ten rupees for one bunch.\nCustomer: Okay. So, what's the total now?\nVendor: Twenty-three for potatoes, fifteen for onions, ten for coriander. Total is forty-eight rupees.\nCustomer: Here is fifty rupees. Thank you.\nVendor: Thank you, madam! Here is two rupees change. Come again!"
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

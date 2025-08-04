@@ -1,0 +1,338 @@
+{
+  "level": "Advanced",
+  "module": "Real-World Fluency",
+  "lesson_number": 2,
+  "lesson_title": "Planning a Community Event",
+  "objectives": [
+    "Understand the key components of event planning",
+    "Learn how to organize and coordinate different aspects of an event",
+    "Develop skills for working with teams and managing resources",
+    "Practice communication and problem-solving for successful events"
+  ],
+  "topics": [
+    {
+      "title": "Introduction to Event Planning",
+      "subtopics": [
+        {
+          "title": "What is Community Event Planning?",
+          "sections": [
+            {
+              "text": "Community event planning is the process of organizing and coordinating activities that bring people together for a common purpose. It involves managing multiple tasks like choosing a venue, arranging activities, coordinating volunteers, and ensuring everything runs smoothly on the event day. Good event planning creates memorable experiences that strengthen community bonds and achieve specific goals.",
+              "examples": [
+                {
+                  "label": "School Annual Day celebration",
+                  "value": "Organizing cultural performances, arranging seating for parents, coordinating student participation, and managing sound and lighting systems."
+                },
+                {
+                  "label": "Neighborhood cleanliness drive",
+                  "value": "Planning cleaning routes, arranging supplies like gloves and bags, coordinating volunteer schedules, and organizing waste disposal."
+                },
+                {
+                  "label": "Community health camp",
+                  "value": "Arranging doctors and nurses, setting up medical equipment, managing patient registration, and providing health education materials."
+                },
+                {
+                  "label": "Local festival celebration",
+                  "value": "Organizing cultural activities, arranging food stalls, coordinating entertainment programs, and ensuring safety measures."
+                },
+                {
+                  "label": "Youth skill development workshop",
+                  "value": "Finding expert trainers, arranging learning materials, managing participant registration, and organizing certificates."
+                },
+                {
+                  "label": "Senior citizen gathering",
+                  "value": "Planning recreational activities, arranging comfortable seating, organizing health check-ups, and providing refreshments."
+                },
+                {
+                  "label": "Environmental awareness campaign",
+                  "value": "Setting up information booths, arranging tree planting activities, coordinating speaker sessions, and distributing educational materials."
+                },
+                {
+                  "label": "Community sports tournament",
+                  "value": "Organizing different games, arranging sports equipment, managing team registrations, and coordinating prize distribution."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Pre-Event Planning Phase",
+      "subtopics": [
+        {
+          "title": "Setting Goals and Objectives",
+          "sections": [
+            {
+              "text": "Before starting any event planning, you must clearly define what you want to achieve. Goals give direction to your planning and help you make decisions about budget, activities, and target audience. Write down specific, measurable objectives that you can evaluate after the event.",
+              "examples": [
+                {
+                  "label": "Educational goal",
+                  "value": "Our objective is to teach 200 community members about water conservation techniques and help them implement at least one water-saving method in their homes."
+                },
+                {
+                  "label": "Social goal",
+                  "value": "We aim to bring together 150 families from different backgrounds to celebrate our cultural diversity and strengthen neighborhood relationships."
+                },
+                {
+                  "label": "Health goal",
+                  "value": "Our target is to provide free health check-ups to 300 senior citizens and create awareness about common age-related health issues."
+                },
+                {
+                  "label": "Environmental goal",
+                  "value": "We plan to plant 500 trees with community participation and educate 400 people about the importance of urban forestry."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Budget Planning and Resource Management",
+          "sections": [
+            {
+              "text": "Creating a realistic budget is crucial for successful event planning. List all possible expenses including venue, materials, refreshments, and unexpected costs. Also identify what resources you have available like volunteers, donated items, or free venues. Always keep 10-15% extra budget for emergencies.",
+              "examples": [
+                {
+                  "label": "Venue costs",
+                  "value": "School auditorium rental: 200Rs, Sound system rental: 150Rs, Decoration materials: 100Rs, Cleaning charges: 50"
+                },
+                {
+                  "label": "Activity costs",
+                  "value": "Art supplies for children's workshop: $80, Prize money for competitions: $200, Certificate printing: 30Rs, Photography: 120Rs"
+                },
+                {
+                  "label": "Refreshment costs",
+                  "value": "Tea and snacks for 200 people: 300Rs, Lunch for volunteers: 150Rs, Water bottles: 40Rs, Paper plates and cups: 25Rs"
+                },
+                {
+                  "label": "Free resources available",
+                  "value": "Community hall donated by local temple, 15 volunteers offering free service, local shop donating flowers for decoration, school providing chairs and tables"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Event Organization and Coordination",
+      "subtopics": [
+        {
+          "title": "Team Building and Task Assignment",
+          "sections": [
+            {
+              "text": "Successful events require teamwork and clear division of responsibilities. Create different teams for different aspects like decoration, registration, activities, and refreshments. Assign team leaders and ensure everyone understands their roles. Regular team meetings help coordinate efforts and solve problems early.",
+              "examples": [
+                {
+                  "label": "Registration Team",
+                  "value": "Team Leader: Sarah - Responsibilities: Set up registration desk, manage participant check-in, distribute name tags and event materials, handle late registrations"
+                },
+                {
+                  "label": "Decoration Team",
+                  "value": "Team Leader: Ram - Responsibilities: Design event theme, purchase decoration materials, set up venue decorations, coordinate lighting arrangements"
+                },
+                {
+                  "label": "Activity Coordination Team",
+                  "value": "Team Leader: Priya - Responsibilities: Organize games and competitions, manage activity schedules, coordinate with performers, handle equipment needs"
+                },
+                {
+                  "label": "Refreshment Team",
+                  "value": "Team Leader: Ahmed - Responsibilities: Plan menu, coordinate catering, set up serving areas, manage cleanup after meals, handle special dietary needs"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              },
+              "table": {
+                "title": "Sample Team Structure",
+                "headers": ["Team", "Team Leader", "Members", "Main Responsibilities"],
+                "rows": [
+                  ["Registration", "Sarah", "3 members", "Check-in, name tags, information desk"],
+                  ["Decoration", "Ram", "4 members", "Venue setup, theme decoration, lighting"],
+                  ["Activities", "Priya", "5 members", "Games, competitions, entertainment"],
+                  ["Refreshments", "Ahmed", "3 members", "Food service, cleanup, special needs"],
+                  ["Technical", "David", "2 members", "Sound, microphone, presentation setup"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Timeline and Schedule Management",
+          "sections": [
+            {
+              "text": "Create a detailed timeline that covers everything from initial planning to post-event cleanup. Break down tasks by weeks, days, and hours leading up to the event. Share this timeline with all team members and update it regularly as plans develop or change.",
+              "examples": [
+                {
+                  "label": "6 weeks before event",
+                  "value": "Finalize event date and venue, Form planning committee, Create initial budget, Start publicity and registration"
+                },
+                {
+                  "label": "4 weeks before event",
+                  "value": "Confirm all suppliers and vendors, Send invitations to special guests, Finalize activity program, Order necessary materials"
+                },
+                {
+                  "label": "2 weeks before event",
+                  "value": "Confirm final participant numbers, Prepare all printed materials, Conduct venue visit with team leaders, Arrange transportation if needed"
+                },
+                {
+                  "label": "1 day before event",
+                  "value": "Set up venue decorations, Test all technical equipment, Prepare registration materials, Brief all volunteers on their roles"
+                },
+                {
+                  "label": "Event day schedule",
+                  "value": "8:00 AM - Team assembly and final preparations, 9:00 AM - Venue setup completion, 10:00 AM - Registration opens, 10:30 AM - Welcome ceremony begins"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              },
+              "table": {
+                "title": "Event Day Schedule",
+                "headers": ["Time", "Activity", "Responsible Team", "Duration"],
+                "rows": [
+                  ["8:00 - 9:00 AM", "Setup and final preparations", "All teams", "60 minutes"],
+                  ["9:00 - 10:00 AM", "Registration and welcome", "Registration team", "60 minutes"],
+                  ["10:00 - 11:30 AM", "Opening ceremony", "Activity team", "90 minutes"],
+                  ["11:30 - 12:30 PM", "Main program/workshops", "Activity team", "60 minutes"],
+                  ["12:30 - 1:30 PM", "Lunch break", "Refreshment team", "60 minutes"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Communication and Promotion",
+      "subtopics": [
+        {
+          "title": "Community Outreach Strategies",
+          "sections": [
+            {
+              "text": "Effective communication ensures good attendance and community participation. Use multiple channels to reach different groups in your community. Start promotion early and provide clear, attractive information about the event benefits and how people can participate.",
+              "examples": [
+                {
+                  "label": "Social media promotion",
+                  "value": "Create Facebook event page with attractive visuals, Share regular updates on WhatsApp groups, Post event photos from preparation phase to build excitement"
+                },
+                {
+                  "label": "Traditional methods",
+                  "value": "Put up colorful posters at bus stops and community centers, Make announcements in local temples and mosques, Distribute flyers door-to-door in the neighborhood"
+                },
+                {
+                  "label": "Word-of-mouth campaign",
+                  "value": "Ask community leaders to encourage participation, Request volunteers to invite their friends and family, Create referral incentives for early registrations"
+                },
+                {
+                  "label": "Local media coverage",
+                  "value": "Send press release to local newspapers, Contact local radio station for announcements, Invite local journalists to cover the event"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Managing Registrations and RSVPs",
+          "sections": [
+            {
+              "text": "Organized registration helps you plan better and ensures smooth event execution. Collect necessary information from participants, send confirmations, and keep track of numbers for catering and seating arrangements. Provide multiple ways for people to register.",
+              "examples": [
+                {
+                  "label": "Online registration form",
+                  "value": "Create Google Form asking for name, contact number, family members attending, dietary restrictions, and any special needs"
+                },
+                {
+                  "label": "Phone registration",
+                  "value": "Provide dedicated phone number with volunteers available to take registrations during evening hours when working people are free"
+                },
+                {
+                  "label": "In-person registration",
+                  "value": "Set up registration booth at local market on weekends, Visit residential societies during evening hours, Accept registrations at community meetings"
+                },
+                {
+                  "label": "Confirmation process",
+                  "value": "Send SMS confirmation with event details, Create WhatsApp group for registered participants, Send reminder messages 2 days before event with final instructions"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              },
+              "table": {
+                "title": "Registration Information to Collect",
+                "headers": ["Information Type", "Why Needed", "Example"],
+                "rows": [
+                  ["Name and contact", "Communication and identification", "Ram Kumar - 9876543210"],
+                  ["Number of attendees", "Catering and seating planning", "Family of 4 (2 adults, 2 children)"],
+                  ["Dietary restrictions", "Special meal arrangements", "Vegetarian, no nuts allergy"],
+                  ["Age groups", "Age-appropriate activities", "Adults: 2, Children (5-12): 2"],
+                  ["Special needs", "Accessibility arrangements", "Wheelchair access required"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Event Execution and Post-Event Activities",
+      "subtopics": [
+        {
+          "title": "Day-of-Event Management",
+          "sections": [
+            {
+              "text": "On the event day, stay calm and focused while coordinating all activities. Have backup plans ready for common problems like weather issues, technical failures, or low attendance. Keep communication channels open between all team members and be prepared to make quick decisions.",
+              "usage_examples": [
+                "Tip 1: Arrive early and conduct final walkthrough with team leaders. Check that all equipment is working and all materials are in place.",
+                "Tip 2: Designate a central coordination point where all team leaders can quickly report issues or ask for help during the event.",
+                "Tip 3: Keep emergency contact numbers handy including venue manager, technical support, medical assistance, and transportation services.",
+                "Tip 4: Have a 'problem-solving kit' with extra supplies like extension cords, first aid materials, extra pens, tape, and backup microphones.",
+                "Tip 5: Assign someone to document the event through photos and videos for future reference and community sharing.",
+                "Tip 6: Monitor the schedule closely but be flexible if activities run longer due to high participation or unexpected delays.",
+                "Tip 7: Keep participants informed about schedule changes through announcements and ensure clear signage for different activity areas.",
+                "Tip 8: End the event on a positive note with appreciation for participants and volunteers, and brief information about future community activities."
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Post-Event Evaluation and Follow-up",
+          "sections": [
+            {
+              "text": "After the event, conduct a thorough evaluation to understand what worked well and what could be improved for future events. Gather feedback from participants, volunteers, and team members. Document lessons learned and maintain relationships built during the event planning process.",
+              "usage_examples": [
+                "Step 1: Send thank you messages to all participants, volunteers, and sponsors within 2-3 days of the event. Include photos from the event to maintain engagement.",
+                "Step 2: Distribute feedback forms asking about event satisfaction, favorite activities, suggestions for improvement, and interest in future events.",
+                "Step 3: Conduct team debrief meeting within one week to discuss what went well, challenges faced, and solutions for future events.",
+                "Step 4: Calculate final budget expenses and prepare financial report showing how funds were used and any remaining balance.",
+                "Step 5: Create event documentation including photos, participant feedback, attendance numbers, and detailed report of activities conducted.",
+                "Step 6: Share event success stories and photos with the wider community through social media, local newspapers, or community newsletters.",
+                "Step 7: Maintain contact database of participants who showed interest in future community activities and volunteering opportunities.",
+                "Step 8: Plan follow-up activities based on event outcomes, such as forming ongoing groups, scheduling regular programs, or planning next year's event."
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

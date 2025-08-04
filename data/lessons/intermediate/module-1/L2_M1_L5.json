@@ -1,0 +1,2057 @@
+{
+  "level": "Intermediate",
+  "module": "Sentence Formation & Tenses",
+  "lesson_number": 5,
+  "lesson_title": "Making Questions and Negatives",
+  "objectives": [
+    "Transform statements into questions",
+    "Create negative sentences",
+    "Use question words effectively"
+  ],
+  "topics": [
+    {
+      "title": "Yes/No Question Formation",
+      "subtopics": [
+        {
+          "title": "Using 'be' verbs (is, am, are, was, were)",
+          "sections": [
+            {
+              "text": "When the sentence has 'is', 'am', 'are', 'was', or 'were', we put these words at the start of the sentence to make a question. These questions can be answered with 'Yes' or 'No'.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "He is a farmer."
+                },
+                {
+                  "label": "Question",
+                  "value": "Is he a farmer?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "They are students."
+                },
+                {
+                  "label": "Question",
+                  "value": "Are they students?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "I am happy."
+                },
+                {
+                  "label": "Question",
+                  "value": "Am I happy?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "She was singing."
+                },
+                {
+                  "label": "Question",
+                  "value": "Was she singing?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "We were playing."
+                },
+                {
+                  "label": "Question",
+                  "value": "Were we playing?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The buffalo is in the pond."
+                },
+                {
+                  "label": "Question",
+                  "value": "Is the buffalo in the pond?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The children are at school."
+                },
+                {
+                  "label": "Question",
+                  "value": "Are the children at school?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "My father was working in the field."
+                },
+                {
+                  "label": "Question",
+                  "value": "Was my father working in the field?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The crops are ready for harvest."
+                },
+                {
+                  "label": "Question",
+                  "value": "Are the crops ready for harvest?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The well was full of water."
+                },
+                {
+                  "label": "Question",
+                  "value": "Was the well full of water?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The birds are chirping."
+                },
+                {
+                  "label": "Question",
+                  "value": "Are the birds chirping?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "This is the right path."
+                },
+                {
+                  "label": "Question",
+                  "value": "Is this the right path?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "Those flowers were beautiful."
+                },
+                {
+                  "label": "Question",
+                  "value": "Were those flowers beautiful?"
+                }
+              ],
+              "usage_examples": [
+                "Is your village big?",
+                "Are the fields green?",
+                "Am I late for the bus?",
+                "Was the teacher in the class?",
+                "Were your friends at the market?",
+                "Is the water clean?",
+                "Are the cows in the shed?",
+                "Was it sunny yesterday?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Yes/No Questions with 'be' verbs",
+                "headers": ["Statement", "Question"],
+                "rows": [
+                  ["He is happy.", "Is he happy?"],
+                  ["They are farmers.", "Are they farmers?"],
+                  ["I am strong.", "Am I strong?"],
+                  ["She was busy.", "Was she busy?"],
+                  ["We were tired.", "Were we tired?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'do', 'does', 'did'",
+          "sections": [
+            {
+              "text": "When a sentence does not have 'is', 'am', 'are', 'was', 'were', or a helping verb like 'can' or 'will', we use 'do', 'does', or 'did' to make a question. We use 'do' for 'I', 'you', 'we', 'they'. We use 'does' for 'he', 'she', 'it'. We use 'did' for all subjects in the past.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "You like mangoes."
+                },
+                {
+                  "label": "Question",
+                  "value": "Do you like mangoes?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "She eats rice."
+                },
+                {
+                  "label": "Question",
+                  "value": "Does she eat rice?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "They played football."
+                },
+                {
+                  "label": "Question",
+                  "value": "Did they play football?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "We walk to school."
+                },
+                {
+                  "label": "Question",
+                  "value": "Do we walk to school?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "He works in the factory."
+                },
+                {
+                  "label": "Question",
+                  "value": "Does he work in the factory?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The cow gives milk."
+                },
+                {
+                  "label": "Question",
+                  "value": "Does the cow give milk?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The villagers helped each other."
+                },
+                {
+                  "label": "Question",
+                  "value": "Did the villagers help each other?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "Birds fly in the sky."
+                },
+                {
+                  "label": "Question",
+                  "value": "Do birds fly in the sky?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The sun shines brightly."
+                },
+                {
+                  "label": "Question",
+                  "value": "Does the sun shine brightly?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The boy drew a picture."
+                },
+                {
+                  "label": "Question",
+                  "value": "Did the boy draw a picture?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "You finished your homework."
+                },
+                {
+                  "label": "Question",
+                  "value": "Did you finish your homework?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "My sister cleans the house."
+                },
+                {
+                  "label": "Question",
+                  "value": "Does my sister clean the house?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The farmers grow wheat."
+                },
+                {
+                  "label": "Question",
+                  "value": "Do the farmers grow wheat?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "I told you the truth."
+                },
+                {
+                  "label": "Question",
+                  "value": "Did I tell you the truth?"
+                }
+              ],
+              "usage_examples": [
+                "Do you have a bicycle?",
+                "Does your father go to the field early?",
+                "Did you eat lunch?",
+                "Do they visit the temple every week?",
+                "Did the rain stop?",
+                "Does your mother cook well?",
+                "Do you know the way to the river?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Using 'do', 'does', 'did' for Questions",
+                "headers": ["Subject", "Present Question", "Past Question"],
+                "rows": [
+                  ["I", "Do I run?", "Did I run?"],
+                  ["You", "Do you run?", "Did you run?"],
+                  ["He/She/It", "Does he run?", "Did he run?"],
+                  ["We", "Do we run?", "Did we run?"],
+                  ["They", "Do they run?", "Did they run?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using Modal Verbs (can, will, should, must)",
+          "sections": [
+            {
+              "text": "Modal verbs like 'can', 'will', 'should', 'must' also go to the start of the sentence to form a question. These also ask for a 'Yes' or 'No' answer.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "You can swim."
+                },
+                {
+                  "label": "Question",
+                  "value": "Can you swim?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "She will come tomorrow."
+                },
+                {
+                  "label": "Question",
+                  "value": "Will she come tomorrow?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "We should help them."
+                },
+                {
+                  "label": "Question",
+                  "value": "Should we help them?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "They must study."
+                },
+                {
+                  "label": "Question",
+                  "value": "Must they study?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "He can lift the pot."
+                },
+                {
+                  "label": "Question",
+                  "value": "Can he lift the pot?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The train will arrive soon."
+                },
+                {
+                  "label": "Question",
+                  "value": "Will the train arrive soon?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "Students should respect elders."
+                },
+                {
+                  "label": "Question",
+                  "value": "Should students respect elders?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "You must listen to your parents."
+                },
+                {
+                  "label": "Question",
+                  "value": "Must you listen to your parents?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The boy can climb the tree."
+                },
+                {
+                  "label": "Question",
+                  "value": "Can the boy climb the tree?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "The bus will leave at 5 PM."
+                },
+                {
+                  "label": "Question",
+                  "value": "Will the bus leave at 5 PM?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "We should plant more trees."
+                },
+                {
+                  "label": "Question",
+                  "value": "Should we plant more trees?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "They must finish the work."
+                },
+                {
+                  "label": "Question",
+                  "value": "Must they finish the work?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "I can do this."
+                },
+                {
+                  "label": "Question",
+                  "value": "Can I do this?"
+                },
+                {
+                  "label": "Statement",
+                  "value": "He will buy a cow."
+                },
+                {
+                  "label": "Question",
+                  "value": "Will he buy a cow?"
+                }
+              ],
+              "usage_examples": [
+                "Can you carry this basket?",
+                "Will it rain today?",
+                "Should I bring water?",
+                "Must we go to the market now?",
+                "Can she speak English?",
+                "Will the children play here?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Yes/No Questions with Modal Verbs",
+                "headers": ["Statement", "Question"],
+                "rows": [
+                  ["He can run fast.", "Can he run fast?"],
+                  ["She will help you.", "Will she help you?"],
+                  ["You should read this.", "Should you read this?"],
+                  ["They must go.", "Must they go?"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Wh-Question Formation",
+      "subtopics": [
+        {
+          "title": "Using 'What'",
+          "sections": [
+            {
+              "text": "'What' is used to ask about things, ideas, or actions.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "What is your name?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My name is Ram."
+                },
+                {
+                  "label": "Question",
+                  "value": "What are you doing?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I am eating rice."
+                },
+                {
+                  "label": "Question",
+                  "value": "What do you want?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I want some water."
+                },
+                {
+                  "label": "Question",
+                  "value": "What did you see?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I saw a snake."
+                },
+                {
+                  "label": "Question",
+                  "value": "What is in the basket?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "There are vegetables in the basket."
+                },
+                {
+                  "label": "Question",
+                  "value": "What does your father do?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My father is a farmer."
+                },
+                {
+                  "label": "Question",
+                  "value": "What crops do you grow?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "We grow rice and wheat."
+                },
+                {
+                  "label": "Question",
+                  "value": "What time is it?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "It is 10 o'clock."
+                },
+                {
+                  "label": "Question",
+                  "value": "What did the old woman say?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "She said to be careful."
+                },
+                {
+                  "label": "Question",
+                  "value": "What color is your shirt?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My shirt is blue."
+                },
+                {
+                  "label": "Question",
+                  "value": "What is that sound?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "It is the sound of thunder."
+                },
+                {
+                  "label": "Question",
+                  "value": "What will you do tomorrow?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I will go to the city."
+                }
+              ],
+              "usage_examples": [
+                "What is your favourite game?",
+                "What did you learn today?",
+                "What is the problem?",
+                "What happened here?",
+                "What is the name of your village?",
+                "What does this word mean?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'Where'",
+          "sections": [
+            {
+              "text": "'Where' is used to ask about places or locations.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "Where do you live?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I live in this village."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where are you going?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I am going to the market."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where is the well?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The well is near the big tree."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where did you put the tools?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I put the tools in the shed."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where is the school?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The school is behind the temple."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where did the animals go?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The animals went to the forest."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where does the river flow?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The river flows near our village."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where are my books?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Your books are on the table."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where do birds build nests?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Birds build nests in trees."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where did you find the lost goat?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I found the lost goat near the bushes."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where will you plant this tree?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I will plant it by the river."
+                },
+                {
+                  "label": "Question",
+                  "value": "Where was the festival held?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "It was held in the village square."
+                }
+              ],
+              "usage_examples": [
+                "Where is your house?",
+                "Where did they play yesterday?",
+                "Where should we meet?",
+                "Where is the nearest doctor?",
+                "Where can I find fresh vegetables?",
+                "Where does your grandfather work?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'When'",
+          "sections": [
+            {
+              "text": "'When' is used to ask about time.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "When will you come?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I will come tomorrow."
+                },
+                {
+                  "label": "Question",
+                  "value": "When does school start?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "School starts at 9 AM."
+                },
+                {
+                  "label": "Question",
+                  "value": "When did you wake up?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I woke up early."
+                },
+                {
+                  "label": "Question",
+                  "value": "When will the festival begin?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The festival will begin next month."
+                },
+                {
+                  "label": "Question",
+                  "value": "When do you usually eat dinner?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I usually eat dinner at 7 PM."
+                },
+                {
+                  "label": "Question",
+                  "value": "When did you plant these seeds?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "We planted them last week."
+                },
+                {
+                  "label": "Question",
+                  "value": "When does the market open?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The market opens in the morning."
+                },
+                {
+                  "label": "Question",
+                  "value": "When will the moon rise?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The moon will rise at night."
+                },
+                {
+                  "label": "Question",
+                  "value": "When did you last visit your relatives?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I visited them last year."
+                },
+                {
+                  "label": "Question",
+                  "value": "When is your birthday?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My birthday is in August."
+                },
+                {
+                  "label": "Question",
+                  "value": "When are you harvesting the crops?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "We are harvesting them next week."
+                },
+                {
+                  "label": "Question",
+                  "value": "When did the rain finally stop?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "It stopped an hour ago."
+                }
+              ],
+              "usage_examples": [
+                "When will the bus arrive?",
+                "When did you finish your work?",
+                "When do you go to the river?",
+                "When is the harvest season?",
+                "When can we start playing?",
+                "When should I call you?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'Who'",
+          "sections": [
+            {
+              "text": "'Who' is used to ask about people.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "Who is that boy?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "He is my brother."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who helped you?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My friend helped me."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who is calling you?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My mother is calling me."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who will teach us English?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The new teacher will teach us."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who lives in that house?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "An old man lives there."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who fed the chickens?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My little sister fed them."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who won the race?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Raju won the race."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who is the head of your family?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My grandfather is the head."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who told you this story?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My grandmother told me."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who is coming to the gathering?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "All the villagers are coming."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who repaired the broken fence?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "My uncle repaired it."
+                },
+                {
+                  "label": "Question",
+                  "value": "Who can solve this problem?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The teacher can solve it."
+                }
+              ],
+              "usage_examples": [
+                "Who is your best friend?",
+                "Who opened the gate?",
+                "Who will go to the fair?",
+                "Who built this temple?",
+                "Who is the village headman?",
+                "Who is making that noise?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'Why'",
+          "sections": [
+            {
+              "text": "'Why' is used to ask for reasons.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "Why are you crying?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because I lost my toy."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why did you come late?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because the bus was slow."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why is the sky blue?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because of the sunlight."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why do you study English?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "To get a good job."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why is the road wet?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because it rained."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why do farmers work hard?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "To grow food for us."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why did the cow run away?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because it heard a loud noise."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why are the children happy?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because they are playing."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why did the well dry up?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because there was no rain."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why should we save water?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because water is precious."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why is he tired?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because he worked all day."
+                },
+                {
+                  "label": "Question",
+                  "value": "Why did you choose this path?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Because it is shorter."
+                }
+              ],
+              "usage_examples": [
+                "Why are you here?",
+                "Why did you laugh?",
+                "Why is the village quiet today?",
+                "Why do you like this place?",
+                "Why are you so late?",
+                "Why isn't the fan working?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'How'",
+          "sections": [
+            {
+              "text": "'How' is used to ask about the way something happens, condition, or amount.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "How are you?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I am fine."
+                },
+                {
+                  "label": "Question",
+                  "value": "How do you go to school?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I go by walking."
+                },
+                {
+                  "label": "Question",
+                  "value": "How much milk do you need?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I need one liter of milk."
+                },
+                {
+                  "label": "Question",
+                  "value": "How did you make this?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I followed the recipe."
+                },
+                {
+                  "label": "Question",
+                  "value": "How old are you?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I am twelve years old."
+                },
+                {
+                  "label": "Question",
+                  "value": "How far is the market?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The market is 2 kilometers away."
+                },
+                {
+                  "label": "Question",
+                  "value": "How many mangoes are there?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "There are ten mangoes."
+                },
+                {
+                  "label": "Question",
+                  "value": "How does the pump work?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "You press this button."
+                },
+                {
+                  "label": "Question",
+                  "value": "How was your day at the farm?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "It was busy but good."
+                },
+                {
+                  "label": "Question",
+                  "value": "How can we help the village?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "We can clean the pond."
+                },
+                {
+                  "label": "Question",
+                  "value": "How tall is that tree?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "It is very tall."
+                },
+                {
+                  "label": "Question",
+                  "value": "How do you cook rice?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "First, you wash it."
+                }
+              ],
+              "usage_examples": [
+                "How do you feel today?",
+                "How much water is left?",
+                "How did the farmer plough the field?",
+                "How many people live in your house?",
+                "How often do you visit the city?",
+                "How long will it take?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Using 'Which'",
+          "sections": [
+            {
+              "text": "'Which' is used when asking about a choice from a group of items.",
+              "examples": [
+                {
+                  "label": "Question",
+                  "value": "Which book do you want?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I want the blue book."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which way is the village?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The right way."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which fruit do you like, mango or apple?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I like mango."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which path leads to the river?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The path on the left."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which color pot do you need?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I need the red pot."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which animal is faster, a rabbit or a tortoise?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "A rabbit is faster."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which crop gives more yield?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Rice gives more yield."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which dress is yours?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The one with the flowers is mine."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which season do you like best?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I like the rainy season best."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which farmer has the biggest field?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "Ramu Kaka has the biggest field."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which cow is yours?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "The brown one is mine."
+                },
+                {
+                  "label": "Question",
+                  "value": "Which of these stories do you want to hear?"
+                },
+                {
+                  "label": "Answer",
+                  "value": "I want to hear the one about the clever fox."
+                }
+              ],
+              "usage_examples": [
+                "Which subject do you prefer?",
+                "Which bus goes to the city?",
+                "Which animal is this?",
+                "Which house is yours?",
+                "Which pen is better, this one or that one?",
+                "Which river is longer, Ganga or Yamuna?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Negative Sentence Patterns",
+      "subtopics": [
+        {
+          "title": "Negatives with 'be' verbs (is, am, are, was, were)",
+          "sections": [
+            {
+              "text": "To make a sentence negative when it has 'is', 'am', 'are', 'was', or 'were', we simply add 'not' after these words.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "He is a farmer."
+                },
+                {
+                  "label": "Negative",
+                  "value": "He is not a farmer."
+                },
+                {
+                  "label": "Statement",
+                  "value": "They are students."
+                },
+                {
+                  "label": "Negative",
+                  "value": "They are not students."
+                },
+                {
+                  "label": "Statement",
+                  "value": "I am busy."
+                },
+                {
+                  "label": "Negative",
+                  "value": "I am not busy."
+                },
+                {
+                  "label": "Statement",
+                  "value": "She was singing."
+                },
+                {
+                  "label": "Negative",
+                  "value": "She was not singing."
+                },
+                {
+                  "label": "Statement",
+                  "value": "We were playing."
+                },
+                {
+                  "label": "Negative",
+                  "value": "We were not playing."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The buffalo is sick."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The buffalo is not sick."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The well is deep."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The well is not deep."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The children are noisy."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The children are not noisy."
+                },
+                {
+                  "label": "Statement",
+                  "value": "My father was angry."
+                },
+                {
+                  "label": "Negative",
+                  "value": "My father was not angry."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The crops were dry."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The crops were not dry."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The water is clean."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The water is not clean."
+                },
+                {
+                  "label": "Statement",
+                  "value": "This is difficult."
+                },
+                {
+                  "label": "Negative",
+                  "value": "This is not difficult."
+                },
+                {
+                  "label": "Statement",
+                  "value": "I am sure."
+                },
+                {
+                  "label": "Negative",
+                  "value": "I am not sure."
+                }
+              ],
+              "usage_examples": [
+                "The road is not smooth.",
+                "I am not going today.",
+                "They are not here.",
+                "It was not cold yesterday.",
+                "We were not sleeping.",
+                "The food is not spicy.",
+                "My friends are not coming."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Negatives with 'be' verbs",
+                "headers": ["Statement", "Negative"],
+                "rows": [
+                  ["He is happy.", "He is not happy."],
+                  ["They are farmers.", "They are not farmers."],
+                  ["I am strong.", "I am not strong."],
+                  ["She was busy.", "She was not busy."],
+                  ["We were tired.", "We were not tired."]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Negatives with 'do', 'does', 'did'",
+          "sections": [
+            {
+              "text": "When a sentence does not have 'be' verbs or modal verbs, we use 'do not' (don't), 'does not' (doesn't), or 'did not' (didn't) to make it negative. The main verb stays in its simple form.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "You like mangoes."
+                },
+                {
+                  "label": "Negative",
+                  "value": "You do not like mangoes."
+                },
+                {
+                  "label": "Statement",
+                  "value": "She eats rice."
+                },
+                {
+                  "label": "Negative",
+                  "value": "She does not eat rice."
+                },
+                {
+                  "label": "Statement",
+                  "value": "They played football."
+                },
+                {
+                  "label": "Negative",
+                  "value": "They did not play football."
+                },
+                {
+                  "label": "Statement",
+                  "value": "We walk to school."
+                },
+                {
+                  "label": "Negative",
+                  "value": "We do not walk to school."
+                },
+                {
+                  "label": "Statement",
+                  "value": "He works in the factory."
+                },
+                {
+                  "label": "Negative",
+                  "value": "He does not work in the factory."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The cow gives milk."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The cow does not give milk."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The villagers helped each other."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The villagers did not help each other."
+                },
+                {
+                  "label": "Statement",
+                  "value": "Birds fly at night."
+                },
+                {
+                  "label": "Negative",
+                  "value": "Birds do not fly at night."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The sun shines at night."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The sun does not shine at night."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The boy drew a picture."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The boy did not draw a picture."
+                },
+                {
+                  "label": "Statement",
+                  "value": "You understand this lesson."
+                },
+                {
+                  "label": "Negative",
+                  "value": "You do not understand this lesson."
+                },
+                {
+                  "label": "Statement",
+                  "value": "My sister likes to sing."
+                },
+                {
+                  "label": "Negative",
+                  "value": "My sister does not like to sing."
+                },
+                {
+                  "label": "Statement",
+                  "value": "I believe his story."
+                },
+                {
+                  "label": "Negative",
+                  "value": "I do not believe his story."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The fire burned brightly."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The fire did not burn brightly."
+                }
+              ],
+              "usage_examples": [
+                "I do not want tea.",
+                "She does not live here.",
+                "They did not come to the gathering.",
+                "We do not have enough water.",
+                "He does not know the answer.",
+                "The dog did not bark.",
+                "My parents do not allow it."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Negatives with 'do', 'does', 'did'",
+                "headers": ["Subject", "Present Negative", "Past Negative"],
+                "rows": [
+                  ["I", "I do not run.", "I did not run."],
+                  ["You", "You do not run.", "You did not run."],
+                  ["He/She/It", "He does not run.", "He did not run."],
+                  ["We", "We do not run.", "We did not run."],
+                  ["They", "They do not run.", "They did not run."]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Negatives with Modal Verbs (can, will, should, must)",
+          "sections": [
+            {
+              "text": "For sentences with modal verbs, we add 'not' after the modal verb to make them negative.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "You can swim."
+                },
+                {
+                  "label": "Negative",
+                  "value": "You cannot swim."
+                },
+                {
+                  "label": "Statement",
+                  "value": "She will come tomorrow."
+                },
+                {
+                  "label": "Negative",
+                  "value": "She will not come tomorrow."
+                },
+                {
+                  "label": "Statement",
+                  "value": "We should help them."
+                },
+                {
+                  "label": "Negative",
+                  "value": "We should not help them."
+                },
+                {
+                  "label": "Statement",
+                  "value": "They must study."
+                },
+                {
+                  "label": "Negative",
+                  "value": "They must not study."
+                },
+                {
+                  "label": "Statement",
+                  "value": "He can lift the heavy stone."
+                },
+                {
+                  "label": "Negative",
+                  "value": "He cannot lift the heavy stone."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The train will be late."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The train will not be late."
+                },
+                {
+                  "label": "Statement",
+                  "value": "Students should make noise."
+                },
+                {
+                  "label": "Negative",
+                  "value": "Students should not make noise."
+                },
+                {
+                  "label": "Statement",
+                  "value": "You must forget this lesson."
+                },
+                {
+                  "label": "Negative",
+                  "value": "You must not forget this lesson."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The boy can run fast."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The boy cannot run fast."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The villagers will agree."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The villagers will not agree."
+                },
+                {
+                  "label": "Statement",
+                  "value": "I can see the mountains."
+                },
+                {
+                  "label": "Negative",
+                  "value": "I cannot see the mountains."
+                },
+                {
+                  "label": "Statement",
+                  "value": "We should go now."
+                },
+                {
+                  "label": "Negative",
+                  "value": "We should not go now."
+                }
+              ],
+              "usage_examples": [
+                "I cannot open this box.",
+                "You should not waste food.",
+                "They will not listen.",
+                "We must not harm animals.",
+                "She cannot find her book.",
+                "He will not work today."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Negatives with Modal Verbs",
+                "headers": ["Statement", "Negative"],
+                "rows": [
+                  ["He can go.", "He cannot go."],
+                  ["She will learn.", "She will not learn."],
+                  ["You should wait.", "You should not wait."],
+                  ["They must enter.", "They must not enter."]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Negatives with 'have', 'has', 'had' (as main verbs)",
+          "sections": [
+            {
+              "text": "When 'have', 'has', 'had' are used as main verbs (meaning 'possess' or 'own'), we use 'do not have', 'does not have', or 'did not have' to make them negative.",
+              "examples": [
+                {
+                  "label": "Statement",
+                  "value": "I have a book."
+                },
+                {
+                  "label": "Negative",
+                  "value": "I do not have a book."
+                },
+                {
+                  "label": "Statement",
+                  "value": "He has a cow."
+                },
+                {
+                  "label": "Negative",
+                  "value": "He does not have a cow."
+                },
+                {
+                  "label": "Statement",
+                  "value": "They had land."
+                },
+                {
+                  "label": "Negative",
+                  "value": "They did not have land."
+                },
+                {
+                  "label": "Statement",
+                  "value": "We have much work."
+                },
+                {
+                  "label": "Negative",
+                  "value": "We do not have much work."
+                },
+                {
+                  "label": "Statement",
+                  "value": "She has a bicycle."
+                },
+                {
+                  "label": "Negative",
+                  "value": "She does not have a bicycle."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The school has a big ground."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The school does not have a big ground."
+                },
+                {
+                  "label": "Statement",
+                  "value": "My brother had a new shirt."
+                },
+                {
+                  "label": "Negative",
+                  "value": "My brother did not have a new shirt."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The house has no electricity."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The house does not have electricity."
+                },
+                {
+                  "label": "Statement",
+                  "value": "Farmers have strong hands."
+                },
+                {
+                  "label": "Negative",
+                  "value": "Farmers do not have strong hands."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The village had peace."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The village did not have peace."
+                },
+                {
+                  "label": "Statement",
+                  "value": "You have a good idea."
+                },
+                {
+                  "label": "Negative",
+                  "value": "You do not have a good idea."
+                },
+                {
+                  "label": "Statement",
+                  "value": "The dog has a bone."
+                },
+                {
+                  "label": "Negative",
+                  "value": "The dog does not have a bone."
+                }
+              ],
+              "usage_examples": [
+                "I do not have a pen.",
+                "He does not have time.",
+                "They did not have water yesterday.",
+                "She does not have any problems.",
+                "Our village does not have a hospital.",
+                "We do not have a holiday tomorrow."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Question Tags and Responses",
+      "subtopics": [
+        {
+          "title": "Forming Question Tags",
+          "sections": [
+            {
+              "text": "A question tag is a short question at the end of a statement. We use it to check if something is true or to ask someone to agree with us. If the main statement is positive, the tag is negative. If the main statement is negative, the tag is positive. We use a comma before the tag.",
+              "examples": [
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "He is a farmer, isn't he?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "You can swim, can't you?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "She is not here, is she?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "They did not come, did they?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "It is hot today, isn't it?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "You like to play, don't you?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "The sun rises in the east, doesn't it?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "The children are playing, aren't they?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "You should help your parents, shouldn't you?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "He will come to the village fair, won't he?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "We are not going to the city, are we?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "The buffalo wasn't in the pond, was it?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "You don't eat meat, do you?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "She doesn't like spicy food, does she?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "They haven't finished the work, have they?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "It won't rain today, will it?"
+                },
+                {
+                  "label": "Special Case (I am)",
+                  "value": "I am late, aren't I?"
+                },
+                {
+                  "label": "Positive Statement, Negative Tag",
+                  "value": "He passed the test, didn't he?"
+                },
+                {
+                  "label": "Negative Statement, Positive Tag",
+                  "value": "You couldn't find it, could you?"
+                }
+              ],
+              "usage_examples": [
+                "It's a beautiful day, isn't it?",
+                "You study hard, don't you?",
+                "She can't sing, can she?",
+                "They were here, weren't they?",
+                "You won't forget, will you?",
+                "The food was delicious, wasn't it?",
+                "He doesn't have a brother, does he?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              },
+              "table": {
+                "title": "Question Tag Rules",
+                "headers": ["Statement Type", "Tag Verb", "Example"],
+                "rows": [
+                  ["Positive with 'be'", "negative 'be'", "He is tall, isn't he?"],
+                  ["Negative with 'be'", "positive 'be'", "She isn't sad, is she?"],
+                  ["Positive (no aux)", "negative 'do/does/did'", "You like sweets, don't you?"],
+                  ["Negative (no aux)", "positive 'do/does/did'", "He didn't go, did he?"],
+                  ["Positive with Modal", "negative Modal", "We can help, can't we?"],
+                  ["Negative with Modal", "positive Modal", "They won't leave, will they?"],
+                  ["'I am'", "'aren't I'", "I am right, aren't I?"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Responding to Question Tags",
+          "sections": [
+            {
+              "text": "When someone asks a question tag, you answer with 'Yes' or 'No', followed by the helping verb from the tag and the correct pronoun. The answer should match the truth, not the tag's positive or negative form.",
+              "examples": [
+                {
+                  "label": "Question Tag",
+                  "value": "He is a farmer, isn't he?"
+                },
+                {
+                  "label": "Positive Answer",
+                  "value": "Yes, he is."
+                },
+                {
+                  "label": "Negative Answer",
+                  "value": "No, he isn't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "You like mangoes, don't you?"
+                },
+                {
+                  "label": "Positive Answer",
+                  "value": "Yes, I do."
+                },
+                {
+                  "label": "Negative Answer",
+                  "value": "No, I don't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "She isn't happy, is she?"
+                },
+                {
+                  "label": "Positive Answer (She is happy)",
+                  "value": "Yes, she is."
+                },
+                {
+                  "label": "Negative Answer (She is not happy)",
+                  "value": "No, she isn't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "They can't read, can they?"
+                },
+                {
+                  "label": "Positive Answer (They can read)",
+                  "value": "Yes, they can."
+                },
+                {
+                  "label": "Negative Answer (They cannot read)",
+                  "value": "No, they can't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "It was raining, wasn't it?"
+                },
+                {
+                  "label": "Positive Answer (It was raining)",
+                  "value": "Yes, it was."
+                },
+                {
+                  "label": "Negative Answer (It was not raining)",
+                  "value": "No, it wasn't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "You came yesterday, didn't you?"
+                },
+                {
+                  "label": "Positive Answer",
+                  "value": "Yes, I did."
+                },
+                {
+                  "label": "Negative Answer",
+                  "value": "No, I didn't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "The children are playing, aren't they?"
+                },
+                {
+                  "label": "Positive Answer",
+                  "value": "Yes, they are."
+                },
+                {
+                  "label": "Negative Answer",
+                  "value": "No, they aren't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "The well is not dry, is it?"
+                },
+                {
+                  "label": "Positive Answer (It is not dry)",
+                  "value": "Yes, it isn't."
+                },
+                {
+                  "label": "Negative Answer (It is dry)",
+                  "value": "No, it is."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "Your brother will help, won't he?"
+                },
+                {
+                  "label": "Positive Answer",
+                  "value": "Yes, he will."
+                },
+                {
+                  "label": "Negative Answer",
+                  "value": "No, he won't."
+                },
+                {
+                  "label": "Question Tag",
+                  "value": "He has a tractor, doesn't he?"
+                },
+                {
+                  "label": "Positive Answer",
+                  "value": "Yes, he does."
+                },
+                {
+                  "label": "Negative Answer",
+                  "value": "No, he doesn't."
+                }
+              ],
+              "usage_examples": [
+                "It's cold, isn't it? Yes, it is.",
+                "You don't understand, do you? No, I don't.",
+                "She works hard, doesn't she? Yes, she does.",
+                "They weren't late, were they? No, they weren't.",
+                "We should leave now, shouldn't we? Yes, we should.",
+                "He won't tell anyone, will he? No, he won't."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-5/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,42 @@
+{
+  "reading_passages": [
+    {
+      "level": "Easy",
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "Ramu is a farmer. He wakes up early and goes to the field. He waters the plants and feeds the cows. He loves his work. In the evening, he returns home and eats with his family. He is happy in his village life."
+        },
+        {
+          "id": 2,
+          "text": "The sun rises in the east. Birds fly in the sky. Children go to school with their bags. The day starts with joy. People begin their work in farms and shops. It is a normal day in the village."
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "Anita is a student of class seven. She lives in a small village. Every morning, she wakes up at 6 AM and helps her mother with housework. Then she gets ready for school. She walks with her friends and enjoys learning new things every day. Her favorite subject is English."
+        },
+        {
+          "id": 2,
+          "text": "In the monsoon season, the fields become green. Farmers sow seeds and wait for rain. The sky becomes cloudy and frogs start croaking. Children enjoy playing in the rain. Roads get muddy, and people carry umbrellas. Monsoon brings joy and hope to the village."
+        }]
+    },
+    {
+      "level": "Hard",
+      "paragraphs": [
+        {
+          "id": 1,
+          "text": "Education is a powerful tool that can transform lives, especially for students in rural government schools. It provides knowledge and skills that go beyond traditional farming practices, opening doors to new opportunities in various fields. Learning to read, write, and understand complex concepts empowers individuals to make informed decisions, participate actively in community development, and pursue diverse careers in cities or even within their villages. Education helps break cycles of poverty, promotes critical thinking, and instills a sense of confidence and self-reliance. When students are well-educated, they become agents of change, contributing to the progress and prosperity of their villages and the nation as a whole, creating a brighter and more sustainable future for everyone involved."
+        },
+        {
+          "id": 2,
+          "text": "Water conservation is an increasingly critical issue, particularly in rural regions heavily dependent on monsoon rains and groundwater for agriculture. Many villages face severe water scarcity during dry seasons, which directly impacts crop yields, livestock, and the daily lives of residents. Implementing traditional methods like rainwater harvesting, constructing check dams, and desilting and maintaining village ponds can significantly improve local water availability by recharging groundwater. Furthermore, adopting modern irrigation techniques such as drip irrigation, which delivers water directly to plant roots, can drastically reduce wastage. Educating farmers and all residents about responsible water usage, promptly repairing leaky pipes, and preventing water pollution are essential steps. These collective efforts ensure a sustainable water supply for drinking, farming, and livestock, safeguarding the community's well-being and future prosperity."
+        }
+      ]
+    }
+  ]
+}

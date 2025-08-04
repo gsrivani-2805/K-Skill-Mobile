@@ -1,0 +1,2526 @@
+{
+  "title": "Food",
+  "icon": "🍎",
+  "words": [
+    {
+      "word": "Food",
+      "pronunciation": "/fuːd/",
+      "definition": "Anything that people or animals eat to live and grow.",
+      "sentences": [
+        "We need food to stay healthy.",
+        "What is your favorite food?",
+        "The picnic basket was full of food."
+      ]
+    },
+    {
+      "word": "Eat",
+      "pronunciation": "/iːt/",
+      "definition": "To put food into your mouth and swallow it.",
+      "sentences": [
+        "I like to eat apples.",
+        "We eat dinner at 7 PM.",
+        "Don't eat too fast."
+      ]
+    },
+    {
+      "word": "Drink",
+      "pronunciation": "/drɪŋk/",
+      "definition": "To swallow a liquid.",
+      "sentences": [
+        "I need a drink of water.",
+        "What do you want to drink?",
+        "It's important to drink enough water."
+      ]
+    },
+    {
+      "word": "Breakfast",
+      "pronunciation": "/ˈbrɛkfəst/",
+      "definition": "The first meal of the day, usually eaten in the morning.",
+      "sentences": [
+        "I eat cereal for breakfast.",
+        "What did you have for breakfast today?",
+        "Breakfast is the most important meal."
+      ]
+    },
+    {
+      "word": "Lunch",
+      "pronunciation": "/lʌntʃ/",
+      "definition": "A meal eaten in the middle of the day.",
+      "sentences": [
+        "We had sandwiches for lunch.",
+        "Let's meet for lunch tomorrow.",
+        "Lunch break is at 12:30 PM."
+      ]
+    },
+    {
+      "word": "Dinner",
+      "pronunciation": "/ˈdɪnər/",
+      "definition": "The main meal of the day, usually eaten in the evening.",
+      "sentences": [
+        "What's for dinner tonight?",
+        "We had pasta for dinner.",
+        "Dinner with family is special."
+      ]
+    },
+    {
+      "word": "Snack",
+      "pronunciation": "/snæk/",
+      "definition": "A small amount of food eaten between meals.",
+      "sentences": [
+        "I need a quick snack.",
+        "Fruits are healthy snacks.",
+        "Do you want a snack before dinner?"
+      ]
+    },
+    {
+      "word": "Fruit",
+      "pronunciation": "/fruːt/",
+      "definition": "The sweet, fleshy product of a tree or other plant that contains seed and can be eaten.",
+      "sentences": [
+        "Apples are my favorite fruit.",
+        "Eat more fresh fruit.",
+        "The fruit salad was delicious."
+      ]
+    },
+    {
+      "word": "Vegetable",
+      "pronunciation": "/ˈvɛdʒtəbl/",
+      "definition": "A plant or part of a plant used as food.",
+      "sentences": [
+        "Carrots are a healthy vegetable.",
+        "My mom cooks many vegetables.",
+        "Eat your vegetables to grow strong."
+      ]
+    },
+    {
+      "word": "Meat",
+      "pronunciation": "/miːt/",
+      "definition": "The flesh of an animal eaten as food.",
+      "sentences": [
+        "Do you eat meat?",
+        "Chicken is a type of meat.",
+        "The butcher sells fresh meat."
+      ]
+    },
+    {
+      "word": "Bread",
+      "pronunciation": "/brɛd/",
+      "definition": "A food made from flour, water, and yeast, mixed together and baked.",
+      "sentences": [
+        "I like to eat bread with butter.",
+        "Can you buy a loaf of bread?",
+        "Freshly baked bread smells wonderful."
+      ]
+    },
+    {
+      "word": "Rice",
+      "pronunciation": "/raɪs/",
+      "definition": "Small grains from a plant, used as food, especially in Asian countries.",
+      "sentences": [
+        "We eat rice with our meals.",
+        "Do you prefer white rice or brown rice?",
+        "Rice is a staple food in many cultures."
+      ]
+    },
+    {
+      "word": "Pasta",
+      "pronunciation": "/ˈpæstə/",
+      "definition": "A food made from flour, water, and sometimes eggs, formed into various shapes and dried.",
+      "sentences": [
+        "I love to eat pasta with tomato sauce.",
+        "Spaghetti is a type of pasta.",
+        "Pasta is a popular Italian dish."
+      ]
+    },
+    {
+      "word": "Cheese",
+      "pronunciation": "/tʃiːz/",
+      "definition": "A food made from milk, pressed into a solid mass.",
+      "sentences": [
+        "Would you like some cheese on your sandwich?",
+        "I like cheddar cheese.",
+        "Cheese goes well with crackers."
+      ]
+    },
+    {
+      "word": "Milk",
+      "pronunciation": "/mɪlk/",
+      "definition": "A white liquid produced by mammals as food for their young.",
+      "sentences": [
+        "I drink milk every morning.",
+        "Add some milk to your coffee.",
+        "Milk is good for your bones."
+      ]
+    },
+    {
+      "word": "Water",
+      "pronunciation": "/ˈwɔːtər/",
+      "definition": "A clear liquid that has no color, taste, or smell, essential for life.",
+      "sentences": [
+        "Please give me a glass of water.",
+        "Drink plenty of water.",
+        "Water is very refreshing."
+      ]
+    },
+    {
+      "word": "Juice",
+      "pronunciation": "/dʒuːs/",
+      "definition": "The liquid that comes from fruit or vegetables.",
+      "sentences": [
+        "I like orange juice for breakfast.",
+        "This juice is freshly squeezed.",
+        "Do you want apple juice or grape juice?"
+      ]
+    },
+    {
+      "word": "Coffee",
+      "pronunciation": "/ˈkɑːfi/",
+      "definition": "A dark, bitter drink made from roasted coffee beans.",
+      "sentences": [
+        "I drink coffee in the morning.",
+        "Would you like a cup of coffee?",
+        "This coffee smells amazing."
+      ]
+    },
+    {
+      "word": "Tea",
+      "pronunciation": "/tiː/",
+      "definition": "A drink made by pouring hot water onto dried leaves of the tea plant.",
+      "sentences": [
+        "I prefer tea over coffee.",
+        "Let's have some tea and biscuits.",
+        "Green tea is good for health."
+      ]
+    },
+    {
+      "word": "Sugar",
+      "pronunciation": "/ˈʃʊɡər/",
+      "definition": "A sweet substance used to make food and drinks sweet.",
+      "sentences": [
+        "Do you take sugar in your tea?",
+        "Add a spoonful of sugar to the cake mix.",
+        "Too much sugar is not good for you."
+      ]
+    },
+    {
+      "word": "Salt",
+      "pronunciation": "/sɔːlt/",
+      "definition": "A white substance used to flavor or preserve food.",
+      "sentences": [
+        "Pass me the salt, please.",
+        "This soup needs more salt.",
+        "Salt is a common seasoning."
+      ]
+    },
+    {
+      "word": "Pepper",
+      "pronunciation": "/ˈpɛpər/",
+      "definition": "A black or white powder used to flavor food.",
+      "sentences": [
+        "Would you like some pepper on your eggs?",
+        "Salt and pepper are on the table.",
+        "Ground pepper adds a nice flavor."
+      ]
+    },
+    {
+      "word": "Oil",
+      "pronunciation": "/ɔɪl/",
+      "definition": "A thick, smooth liquid that is used in cooking.",
+      "sentences": [
+        "Heat the oil in a pan.",
+        "Olive oil is healthy for cooking.",
+        "We need more cooking oil."
+      ]
+    },
+    {
+      "word": "Butter",
+      "pronunciation": "/ˈbʌtər/",
+      "definition": "A yellow fat food made from milk or cream, used for spreading on bread or in cooking.",
+      "sentences": [
+        "Spread butter on the toast.",
+        "Do you prefer butter or margarine?",
+        "The recipe calls for unsalted butter."
+      ]
+    },
+    {
+      "word": "Egg",
+      "pronunciation": "/ɛɡ/",
+      "definition": "An oval or round object laid by a female bird, reptile, or insect, containing a young creature.",
+      "sentences": [
+        "I like scrambled eggs for breakfast.",
+        "How many eggs are in the carton?",
+        "Boil the egg for five minutes."
+      ]
+    },
+    {
+      "word": "Flour",
+      "pronunciation": "/ˈflaʊər/",
+      "definition": "A powder made from grain, used for making bread, cakes, and pastry.",
+      "sentences": [
+        "We need flour to bake a cake.",
+        "Sift the flour before mixing.",
+        "Whole wheat flour is healthier."
+      ]
+    },
+    {
+      "word": "Sugar",
+      "pronunciation": "/ˈʃʊɡər/",
+      "definition": "A sweet crystalline substance obtained from various plants, used as a sweetener.",
+      "sentences": [
+        "Add sugar to your coffee if you like it sweet.",
+        "The recipe calls for a cup of sugar.",
+        "Too much sugar is bad for your teeth."
+      ]
+    },
+    {
+      "word": "Honey",
+      "pronunciation": "/ˈhʌni/",
+      "definition": "A sweet, sticky yellow-brown fluid made by bees.",
+      "sentences": [
+        "I like honey in my tea.",
+        "Honey is a natural sweetener.",
+        "The bear loves honey."
+      ]
+    },
+    {
+      "word": "Jam",
+      "pronunciation": "/dʒæm/",
+      "definition": "A sweet spread made from fruit boiled with sugar.",
+      "sentences": [
+        "I put strawberry jam on my toast.",
+        "Do you prefer jam or marmalade?",
+        "Homemade jam tastes the best."
+      ]
+    },
+    {
+      "word": "Cereal",
+      "pronunciation": "/ˈsɪriəl/",
+      "definition": "A breakfast food made from grain, often eaten with milk.",
+      "sentences": [
+        "I eat cereal every morning.",
+        "What kind of cereal do you like?",
+        "Cereal is a quick breakfast option."
+      ]
+    },
+    {
+      "word": "Soup",
+      "pronunciation": "/suːp/",
+      "definition": "A liquid food made by boiling meat, fish, or vegetables in water.",
+      "sentences": [
+        "This chicken soup is delicious.",
+        "I like to eat soup on a cold day.",
+        "She made a big pot of vegetable soup."
+      ]
+    },
+    {
+      "word": "Salad",
+      "pronunciation": "/ˈsæləd/",
+      "definition": "A cold dish of various mixtures of raw or cooked vegetables, usually seasoned with oil, vinegar, or other dressing.",
+      "sentences": [
+        "I had a fresh salad for lunch.",
+        "This salad has tomatoes and cucumbers.",
+        "Eating salad is good for your health."
+      ]
+    },
+    {
+      "word": "Sandwich",
+      "pronunciation": "/ˈsændwɪtʃ/",
+      "definition": "Two pieces of bread with a filling between them.",
+      "sentences": [
+        "I made a ham sandwich.",
+        "Do you want a cheese sandwich?",
+        "Pack a sandwich for your trip."
+      ]
+    },
+    {
+      "word": "Pizza",
+      "pronunciation": "/ˈpiːtsə/",
+      "definition": "A dish of Italian origin, consisting of a flat round base of dough baked with a topping of tomato sauce and cheese, typically with added meat, vegetables, or seafood.",
+      "sentences": [
+        "Let's order a pizza tonight.",
+        "My favorite pizza has pepperoni.",
+        "We had pizza for dinner."
+      ]
+    },
+    {
+      "word": "Burger",
+      "pronunciation": "/ˈbɜːrɡər/",
+      "definition": "A patty of ground meat, usually beef, served in a sliced bun.",
+      "sentences": [
+        "I want a cheeseburger with fries.",
+        "This burger is very juicy.",
+        "We ate burgers at the barbecue."
+      ]
+    },
+    {
+      "word": "Fries",
+      "pronunciation": "/fraɪz/",
+      "definition": "Long, thin pieces of potato fried in oil.",
+      "sentences": [
+        "I like my burger with a side of fries.",
+        "These fries are crispy.",
+        "Do you want ketchup with your fries?"
+      ]
+    },
+    {
+      "word": "Cake",
+      "pronunciation": "/keɪk/",
+      "definition": "A sweet baked food made from flour, sugar, and other ingredients.",
+      "sentences": [
+        "We had cake for dessert.",
+        "My mom baked a delicious chocolate cake.",
+        "Happy birthday! Here's your cake."
+      ]
+    },
+    {
+      "word": "Cookie",
+      "pronunciation": "/ˈkʊki/",
+      "definition": "A small, flat, sweet cake.",
+      "sentences": [
+        "I love chocolate chip cookies.",
+        "Can I have another cookie?",
+        "Bake cookies for the party."
+      ]
+    },
+    {
+      "word": "Ice cream",
+      "pronunciation": "/aɪs kriːm/",
+      "definition": "A sweet, frozen food made from milk products, sugar, and flavorings.",
+      "sentences": [
+        "Let's get some ice cream.",
+        "My favorite ice cream flavor is vanilla.",
+        "Ice cream is perfect on a hot day."
+      ]
+    },
+    {
+      "word": "Chocolate",
+      "pronunciation": "/ˈtʃɔːklət/",
+      "definition": "A sweet brown food made from cocoa beans.",
+      "sentences": [
+        "I love to eat chocolate.",
+        "This chocolate bar is very tasty.",
+        "Do you prefer dark or milk chocolate?"
+      ]
+    },
+    {
+      "word": "Candy",
+      "pronunciation": "/ˈkændi/",
+      "definition": "A sweet food made from sugar or syrup, often with fruit or nuts.",
+      "sentences": [
+        "Kids love to eat candy.",
+        "Don't eat too much candy.",
+        "She bought a bag of candy."
+      ]
+    },
+    {
+      "word": "Sweet",
+      "pronunciation": "/swiːt/",
+      "definition": "Having a taste like sugar or honey.",
+      "sentences": [
+        "This cake is very sweet.",
+        "I like sweet drinks.",
+        "She has a sweet tooth."
+      ]
+    },
+    {
+      "word": "Sour",
+      "pronunciation": "/ˈsaʊər/",
+      "definition": "Having an acidic taste like lemon or vinegar.",
+      "sentences": [
+        "Lemons are very sour.",
+        "The milk tasted sour.",
+        "Sour candy can make your mouth pucker."
+      ]
+    },
+    {
+      "word": "Bitter",
+      "pronunciation": "/ˈbɪtər/",
+      "definition": "Having a sharp, unpleasant taste, like coffee without sugar.",
+      "sentences": [
+        "This coffee is very bitter.",
+        "Dark chocolate can be bitter.",
+        "The medicine had a bitter taste."
+      ]
+    },
+    {
+      "word": "Salty",
+      "pronunciation": "/ˈsɔːlti/",
+      "definition": "Tasting of salt.",
+      "sentences": [
+        "These chips are too salty.",
+        "I like salty snacks.",
+        "The ocean water is salty."
+      ]
+    },
+    {
+      "word": "Spicy",
+      "pronunciation": "/ˈspaɪsi/",
+      "definition": "Having a strong, hot flavor.",
+      "sentences": [
+        "This curry is very spicy.",
+        "Do you like spicy food?",
+        "Add chili to make it spicy."
+      ]
+    },
+    {
+      "word": "Delicious",
+      "pronunciation": "/dɪˈlɪʃəs/",
+      "definition": "Having a very pleasant taste.",
+      "sentences": [
+        "This cake is delicious!",
+        "The meal was absolutely delicious.",
+        "What a delicious smell!"
+      ]
+    },
+    {
+      "word": "Tasty",
+      "pronunciation": "/ˈteɪsti/",
+      "definition": "Having a good flavor.",
+      "sentences": [
+        "This soup is very tasty.",
+        "The cookies were tasty.",
+        "I made a tasty dinner."
+      ]
+    },
+    {
+      "word": "Hungry",
+      "pronunciation": "/ˈhʌŋɡri/",
+      "definition": "Feeling a need or desire to eat food.",
+      "sentences": [
+        "I'm so hungry, I could eat a horse!",
+        "Are you hungry?",
+        "The children were hungry after playing."
+      ]
+    },
+    {
+      "word": "Thirsty",
+      "pronunciation": "/ˈθɜːrsti/",
+      "definition": "Feeling a need or desire to drink.",
+      "sentences": [
+        "I'm thirsty, I need some water.",
+        "Are you thirsty after your run?",
+        "The flowers looked thirsty."
+      ]
+    },
+    {
+      "word": "Cook (verb)",
+      "pronunciation": "/kʊk/",
+      "definition": "To prepare food by heating it.",
+      "sentences": [
+        "My mom loves to cook.",
+        "What are you cooking for dinner?",
+        "He learned to cook from his grandmother."
+      ]
+    },
+    {
+      "word": "Bake",
+      "pronunciation": "/beɪk/",
+      "definition": "To cook food, especially bread or cakes, in an oven.",
+      "sentences": [
+        "Let's bake a cake.",
+        "She loves to bake cookies.",
+        "The bread is baking in the oven."
+      ]
+    },
+    {
+      "word": "Fry",
+      "pronunciation": "/fraɪ/",
+      "definition": "To cook food in hot fat or oil.",
+      "sentences": [
+        "I will fry the eggs for breakfast.",
+        "Fry the onions until they are golden.",
+        "She likes fried chicken."
+      ]
+    },
+    {
+      "word": "Boil",
+      "pronunciation": "/bɔɪl/",
+      "definition": "To heat a liquid until bubbles appear and it turns into steam.",
+      "sentences": [
+        "Boil the water for pasta.",
+        "Boil the potatoes until they are soft.",
+        "The kettle is boiling."
+      ]
+    },
+    {
+      "word": "Roast",
+      "pronunciation": "/roʊst/",
+      "definition": "To cook food, especially meat or vegetables, in an oven or over a fire.",
+      "sentences": [
+        "We will roast a chicken for Sunday dinner.",
+        "Roast potatoes are delicious.",
+        "The smell of roasting meat filled the kitchen."
+      ]
+    },
+    {
+      "word": "Grill",
+      "pronunciation": "/ɡrɪl/",
+      "definition": "To cook food over direct heat, usually on a metal frame.",
+      "sentences": [
+        "Let's grill some burgers for the barbecue.",
+        "He grilled the fish perfectly.",
+        "We love grilled vegetables."
+      ]
+    },
+    {
+      "word": "Chop",
+      "pronunciation": "/tʃɑːp/",
+      "definition": "To cut food into small pieces.",
+      "sentences": [
+        "Chop the onions finely.",
+        "She chopped the vegetables for the soup.",
+        "Chop the garlic before adding it to the pan."
+      ]
+    },
+    {
+      "word": "Slice",
+      "pronunciation": "/slaɪs/",
+      "definition": "To cut food into thin, flat pieces.",
+      "sentences": [
+        "Slice the bread thinly.",
+        "Can you slice some tomatoes for the salad?",
+        "He sliced the cheese for the sandwiches."
+      ]
+    },
+    {
+      "word": "Peel",
+      "pronunciation": "/piːl/",
+      "definition": "To remove the skin or outer layer from a fruit or vegetable.",
+      "sentences": [
+        "Peel the potatoes before boiling them.",
+        "Can you peel this orange for me?",
+        "Always peel the skin off the apple."
+      ]
+    },
+    {
+      "word": "Mix",
+      "pronunciation": "/mɪks/",
+      "definition": "To combine two or more different substances so that they become one substance.",
+      "sentences": [
+        "Mix all the ingredients together.",
+        "Mix the flour and water to make dough.",
+        "She mixed the salad dressing."
+      ]
+    },
+    {
+      "word": "Stir",
+      "pronunciation": "/stɜːr/",
+      "definition": "To move a spoon or other implement around in a liquid or soft substance in order to mix it thoroughly.",
+      "sentences": [
+        "Stir the soup constantly to prevent burning.",
+        "Stir the sugar into your tea.",
+        "He stirred the sauce until it was smooth."
+      ]
+    },
+    {
+      "word": "Pour",
+      "pronunciation": "/pɔːr/",
+      "definition": "To flow or cause to flow in a steady stream.",
+      "sentences": [
+        "Pour the milk into the glass.",
+        "She poured water into the kettle.",
+        "Pour the sauce over the pasta."
+      ]
+    },
+    {
+      "word": "Serve",
+      "pronunciation": "/sɜːrv/",
+      "definition": "To present food or drink to someone.",
+      "sentences": [
+        "Dinner is ready to serve.",
+        "The waiter served our meal.",
+        "Serve the cake with ice cream."
+      ]
+    },
+    {
+      "word": "Plate",
+      "pronunciation": "/pleɪt/",
+      "definition": "A flat dish from which food is eaten.",
+      "sentences": [
+        "Put your food on the plate.",
+        "Can I have another plate?",
+        "The plates are in the cupboard."
+      ]
+    },
+    {
+      "word": "Bowl",
+      "pronunciation": "/boʊl/",
+      "definition": "A round, deep dish used for food or liquid.",
+      "sentences": [
+        "I eat cereal in a bowl.",
+        "She filled the bowl with soup.",
+        "Pass me the salad bowl."
+      ]
+    },
+    {
+      "word": "Cup",
+      "pronunciation": "/kʌp/",
+      "definition": "A small, round container, usually with a handle, used for drinking.",
+      "sentences": [
+        "I need a cup of tea.",
+        "He drank from a ceramic cup.",
+        "The cup is empty."
+      ]
+    },
+    {
+      "word": "Glass",
+      "pronunciation": "/ɡlæs/",
+      "definition": "A hard, transparent substance, or a container made from it, used for drinking.",
+      "sentences": [
+        "Can I have a glass of water?",
+        "The glass broke when it fell.",
+        "She filled the glass with juice."
+      ]
+    },
+    {
+      "word": "Fork",
+      "pronunciation": "/fɔːrk/",
+      "definition": "An eating utensil with two or more prongs.",
+      "sentences": [
+        "Eat your pasta with a fork.",
+        "I dropped my fork.",
+        "We need forks and knives for dinner."
+      ]
+    },
+    {
+      "word": "Spoon",
+      "pronunciation": "/spuːn/",
+      "definition": "An eating utensil with a small, shallow bowl at the end of a handle.",
+      "sentences": [
+        "Stir your coffee with a spoon.",
+        "I eat soup with a spoon.",
+        "The baby used a small spoon."
+      ]
+    },
+    {
+      "word": "Knife",
+      "pronunciation": "/naɪf/",
+      "definition": "A cutting tool or weapon with a sharp-edged blade.",
+      "sentences": [
+        "Use a knife to cut the bread.",
+        "Be careful with that sharp knife.",
+        "He used a butter knife for his toast."
+      ]
+    },
+    {
+      "word": "Napkin",
+      "pronunciation": "/ˈnæpkɪn/",
+      "definition": "A piece of cloth or paper used at meals for wiping the mouth and hands.",
+      "sentences": [
+        "Please pass me a napkin.",
+        "Use your napkin to wipe your mouth.",
+        "The napkins are folded neatly."
+      ]
+    },
+    {
+      "word": "Table",
+      "pronunciation": "/ˈteɪbl/",
+      "definition": "A piece of furniture with a flat top and one or more legs, used for eating, working, or placing things on.",
+      "sentences": [
+        "Set the table for dinner.",
+        "We sat around the table.",
+        "The table is made of wood."
+      ]
+    },
+    {
+      "word": "Chair",
+      "pronunciation": "/tʃɛər/",
+      "definition": "A separate seat for one person, typically with a back and four legs.",
+      "sentences": [
+        "Pull up a chair and sit down.",
+        "The chair is comfortable.",
+        "There are six chairs around the table."
+      ]
+    },
+    {
+      "word": "Restaurant",
+      "pronunciation": "/ˈrɛstəˌrɑːnt/",
+      "definition": "A place where you can buy and eat a meal.",
+      "sentences": [
+        "Let's go to a restaurant for dinner.",
+        "This restaurant serves Italian food.",
+        "The new restaurant is very popular."
+      ]
+    },
+    {
+      "word": "Cafe",
+      "pronunciation": "/kæˈfeɪ/",
+      "definition": "A small restaurant where you can buy drinks, especially coffee, and simple meals.",
+      "sentences": [
+        "We met at the cafe for coffee.",
+        "The cafe has outdoor seating.",
+        "I like to read in a quiet cafe."
+      ]
+    },
+    {
+      "word": "Supermarket",
+      "pronunciation": "/ˈsuːpərˌmɑːrkɪt/",
+      "definition": "A large self-service store selling foods and household goods.",
+      "sentences": [
+        "I need to buy groceries at the supermarket.",
+        "The supermarket is open until 10 PM.",
+        "We bought fresh vegetables from the supermarket."
+      ]
+    },
+    {
+      "word": "Grocery store",
+      "pronunciation": "/ˈɡroʊsəri stɔːr/",
+      "definition": "A store that sells food and household supplies.",
+      "sentences": [
+        "I'm going to the grocery store to buy milk.",
+        "The grocery store has a good selection of organic products.",
+        "Make a list before you go to the grocery store."
+      ]
+    },
+    {
+      "word": "Recipe",
+      "pronunciation": "/ˈrɛsɪpi/",
+      "definition": "A set of instructions for preparing a particular dish.",
+      "sentences": [
+        "Do you have a recipe for this cake?",
+        "I followed the recipe exactly.",
+        "This recipe is easy to follow."
+      ]
+    },
+    {
+      "word": "Ingredient",
+      "pronunciation": "/ɪnˈɡriːdiənt/",
+      "definition": "Any of the foods or substances that are combined to make a particular dish.",
+      "sentences": [
+        "What are the main ingredients in this soup?",
+        "We need all the ingredients before we start cooking.",
+        "Fresh ingredients make the best food."
+      ]
+    },
+    {
+      "word": "Kitchen",
+      "pronunciation": "/ˈkɪtʃɪn/",
+      "definition": "A room or area where food is prepared and cooked.",
+      "sentences": [
+        "My mom is cooking in the kitchen.",
+        "The kitchen is clean and tidy.",
+        "We have a small kitchen in our apartment."
+      ]
+    },
+    {
+      "word": "Oven",
+      "pronunciation": "/ˈʌvn/",
+      "definition": "An enclosed compartment, usually part of a stove, for cooking and heating food.",
+      "sentences": [
+        "Put the cake in the oven.",
+        "Preheat the oven to 180 degrees Celsius.",
+        "The oven needs to be cleaned."
+      ]
+    },
+    {
+      "word": "Stove",
+      "pronunciation": "/stoʊv/",
+      "definition": "An apparatus for cooking or heating that contains an oven and burners.",
+      "sentences": [
+        "Boil the water on the stove.",
+        "The stove has four burners.",
+        "Be careful not to burn yourself on the stove."
+      ]
+    },
+    {
+      "word": "Refrigerator",
+      "pronunciation": "/rɪˈfrɪdʒəˌreɪtər/",
+      "definition": "An appliance that keeps food and drinks cold.",
+      "sentences": [
+        "Put the milk back in the refrigerator.",
+        "The refrigerator is full of groceries.",
+        "Don't leave the refrigerator door open."
+      ]
+    },
+    {
+      "word": "Freezer",
+      "pronunciation": "/ˈfriːzər/",
+      "definition": "A compartment or separate appliance for freezing and storing food at very low temperatures.",
+      "sentences": [
+        "Put the ice cream in the freezer.",
+        "The freezer is full of frozen vegetables.",
+        "I need to defrost the freezer."
+      ]
+    },
+    {
+      "word": "Sink",
+      "pronunciation": "/sɪŋk/",
+      "definition": "A fixed basin, typically with a water supply and drainage, used for washing dishes.",
+      "sentences": [
+        "Wash the dishes in the sink.",
+        "The sink is full of dirty plates.",
+        "Turn on the faucet over the sink."
+      ]
+    },
+    {
+      "word": "Dishwasher",
+      "pronunciation": "/ˈdɪʃˌwɑːʃər/",
+      "definition": "A machine for washing dishes automatically.",
+      "sentences": [
+        "Load the dishwasher after dinner.",
+        "The dishwasher needs to be emptied.",
+        "Our new dishwasher is very quiet."
+      ]
+    },
+    {
+      "word": "Pantry",
+      "pronunciation": "/ˈpæntri/",
+      "definition": "A small room or closet where food, dishes, and cooking supplies are kept.",
+      "sentences": [
+        "We keep our dry goods in the pantry.",
+        "The pantry is well-organized.",
+        "Check the pantry for flour."
+      ]
+    },
+    {
+      "word": "Utensil",
+      "pronunciation": "/juːˈtɛnsl/",
+      "definition": "A tool or container, especially one used in a kitchen.",
+      "sentences": [
+        "We need cooking utensils for the meal.",
+        "Forks, knives, and spoons are eating utensils.",
+        "Wash all the kitchen utensils."
+      ]
+    },
+    {
+      "word": "Pot",
+      "pronunciation": "/pɑːt/",
+      "definition": "A round, deep container used for cooking or holding liquids.",
+      "sentences": [
+        "Heat the soup in a large pot.",
+        "The pot is boiling over.",
+        "She bought a new set of pots and pans."
+      ]
+    },
+    {
+      "word": "Pan",
+      "pronunciation": "/pæn/",
+      "definition": "A metal container with a handle, used for cooking food.",
+      "sentences": [
+        "Fry the eggs in a frying pan.",
+        "The pan is hot, be careful.",
+        "He used a non-stick pan."
+      ]
+    },
+    {
+      "word": "Cutting board",
+      "pronunciation": "/ˈkʌtɪŋ bɔːrd/",
+      "definition": "A board on which food is cut.",
+      "sentences": [
+        "Chop the vegetables on the cutting board.",
+        "Clean the cutting board after use.",
+        "This cutting board is made of wood."
+      ]
+    },
+    {
+      "word": "Measuring cup",
+      "pronunciation": "/ˈmɛʒərɪŋ kʌp/",
+      "definition": "A cup marked with standard measures, used for measuring ingredients.",
+      "sentences": [
+        "Use a measuring cup for the flour.",
+        "She filled the measuring cup with water.",
+        "I need a half-cup measuring cup."
+      ]
+    },
+    {
+      "word": "Measuring spoon",
+      "pronunciation": "/ˈmɛʒərɪŋ spuːn/",
+      "definition": "A spoon marked with standard measures, used for measuring ingredients.",
+      "sentences": [
+        "Add a teaspoon of salt with a measuring spoon.",
+        "The recipe calls for a half-teaspoon measuring spoon.",
+        "Use accurate measuring spoons for baking."
+      ]
+    },
+    {
+      "word": "Whisk",
+      "pronunciation": "/wɪsk/",
+      "definition": "A utensil for beating ingredients, such as eggs or cream.",
+      "sentences": [
+        "Whisk the eggs until they are fluffy.",
+        "She used a whisk to mix the batter.",
+        "A wire whisk is good for sauces."
+      ]
+    },
+    {
+      "word": "Spatula",
+      "pronunciation": "/ˈspætʃələ/",
+      "definition": "A kitchen utensil with a broad, flat, flexible blade, used for mixing, spreading, and lifting.",
+      "sentences": [
+        "Flip the pancakes with a spatula.",
+        "Use a rubber spatula to scrape the bowl.",
+        "The spatula is heat-resistant."
+      ]
+    },
+    {
+      "word": "Ladle",
+      "pronunciation": "/ˈleɪdl/",
+      "definition": "A large long-handled spoon with a cup-shaped bowl, used for serving soup or stew.",
+      "sentences": [
+        "Serve the soup with a ladle.",
+        "The ladle is hanging on the hook.",
+        "He used a ladle to pour the sauce."
+      ]
+    },
+    {
+      "word": "Colander",
+      "pronunciation": "/ˈkɑːləndər/",
+      "definition": "A perforated bowl used to drain off liquid from food.",
+      "sentences": [
+        "Drain the pasta in a colander.",
+        "Wash the vegetables in the colander.",
+        "The colander has small holes."
+      ]
+    },
+    {
+      "word": "Grater",
+      "pronunciation": "/ˈɡreɪtər/",
+      "definition": "A device having a surface covered with sharp-edged holes, used for grating food.",
+      "sentences": [
+        "Grate the cheese with a grater.",
+        "Be careful not to cut your fingers on the grater.",
+        "She used a fine grater for the lemon zest."
+      ]
+    },
+    {
+      "word": "Can opener",
+      "pronunciation": "/kæn ˈoʊpənər/",
+      "definition": "A device for opening cans of food.",
+      "sentences": [
+        "I need a can opener for the tomatoes.",
+        "Where is the can opener?",
+        "This electric can opener is very efficient."
+      ]
+    },
+    {
+      "word": "Bottle opener",
+      "pronunciation": "/ˈbɑːtl ˈoʊpənər/",
+      "definition": "A device for opening bottles, especially those with crown caps.",
+      "sentences": [
+        "Can you find the bottle opener?",
+        "He used a bottle opener to open the soda.",
+        "The bottle opener is on the counter."
+      ]
+    },
+    {
+      "word": "Corkscrew",
+      "pronunciation": "/ˈkɔːrkˌskruː/",
+      "definition": "A tool for drawing corks from bottles.",
+      "sentences": [
+        "We need a corkscrew to open the wine.",
+        "He struggled with the corkscrew.",
+        "A waiter always carries a corkscrew."
+      ]
+    },
+    {
+      "word": "Toaster",
+      "pronunciation": "/ˈtoʊstər/",
+      "definition": "An electrical appliance for making toast.",
+      "sentences": [
+        "Put the bread in the toaster.",
+        "The toaster makes perfect toast.",
+        "My toaster has two slots."
+      ]
+    },
+    {
+      "word": "Blender",
+      "pronunciation": "/ˈblɛndər/",
+      "definition": "An electric machine used for mixing soft foods or liquids.",
+      "sentences": [
+        "I'll make a smoothie in the blender.",
+        "The blender is very powerful.",
+        "Blend the fruits until smooth."
+      ]
+    },
+    {
+      "word": "Microwave",
+      "pronunciation": "/ˈmaɪkroʊˌweɪv/",
+      "definition": "An electric oven that cooks food very quickly by heating it with microwaves.",
+      "sentences": [
+        "Heat your leftovers in the microwave.",
+        "The microwave is easy to use.",
+        "Don't put metal in the microwave."
+      ]
+    },
+    {
+      "word": "Kettle",
+      "pronunciation": "/ˈkɛtl/",
+      "definition": "A container with a lid, spout, and handle, used for boiling water.",
+      "sentences": [
+        "Boil water in the kettle for tea.",
+        "The electric kettle heats water quickly.",
+        "The kettle is whistling."
+      ]
+    },
+    {
+      "word": "Cutting board",
+      "pronunciation": "/ˈkʌtɪŋ bɔːrd/",
+      "definition": "A board on which food is cut.",
+      "sentences": [
+        "Chop the vegetables on the cutting board.",
+        "Clean the cutting board after use.",
+        "This cutting board is made of wood."
+      ]
+    },
+    {
+      "word": "Sieve",
+      "pronunciation": "/sɪv/",
+      "definition": "A utensil consisting of a wire or plastic mesh held in a frame, used for straining solids from liquids or for separating finer from coarser particles.",
+      "sentences": [
+        "Sieve the flour to remove lumps.",
+        "Use a fine sieve for the sauce.",
+        "The sieve is useful for draining pasta."
+      ]
+    },
+    {
+      "word": "Whisk",
+      "pronunciation": "/wɪsk/",
+      "definition": "A utensil for beating ingredients, such as eggs or cream.",
+      "sentences": [
+        "Whisk the eggs until they are fluffy.",
+        "She used a whisk to mix the batter.",
+        "A wire whisk is good for sauces."
+      ]
+    },
+    {
+      "word": "Spatula",
+      "pronunciation": "/ˈspætʃələ/",
+      "definition": "A kitchen utensil with a broad, flat, flexible blade, used for mixing, spreading, and lifting.",
+      "sentences": [
+        "Flip the pancakes with a spatula.",
+        "Use a rubber spatula to scrape the bowl.",
+        "The spatula is heat-resistant."
+      ]
+    },
+    {
+      "word": "Ladle",
+      "pronunciation": "/ˈleɪdl/",
+      "definition": "A large long-handled spoon with a cup-shaped bowl, used for serving soup or stew.",
+      "sentences": [
+        "Serve the soup with a ladle.",
+        "The ladle is hanging on the hook.",
+        "He used a ladle to pour the sauce."
+      ]
+    },
+    {
+      "word": "Colander",
+      "pronunciation": "/ˈkɑːləndər/",
+      "definition": "A perforated bowl used to drain off liquid from food.",
+      "sentences": [
+        "Drain the pasta in a colander.",
+        "Wash the vegetables in the colander.",
+        "The colander has small holes."
+      ]
+    },
+    {
+      "word": "Grater",
+      "pronunciation": "/ˈɡreɪtər/",
+      "definition": "A device having a surface covered with sharp-edged holes, used for grating food.",
+      "sentences": [
+        "Grate the cheese with a grater.",
+        "Be careful not to cut your fingers on the grater.",
+        "She used a fine grater for the lemon zest."
+      ]
+    },
+    {
+      "word": "Can opener",
+      "pronunciation": "/kæn ˈoʊpənər/",
+      "definition": "A device for opening cans of food.",
+      "sentences": [
+        "I need a can opener for the tomatoes.",
+        "Where is the can opener?",
+        "This electric can opener is very efficient."
+      ]
+    },
+    {
+      "word": "Bottle opener",
+      "pronunciation": "/ˈbɑːtl ˈoʊpənər/",
+      "definition": "A device for opening bottles, especially those with crown caps.",
+      "sentences": [
+        "Can you find the bottle opener?",
+        "He used a bottle opener to open the soda.",
+        "The bottle opener is on the counter."
+      ]
+    },
+    {
+      "word": "Corkscrew",
+      "pronunciation": "/ˈkɔːrkˌskruː/",
+      "definition": "A tool for drawing corks from bottles.",
+      "sentences": [
+        "We need a corkscrew to open the wine.",
+        "He struggled with the corkscrew.",
+        "A waiter always carries a corkscrew."
+      ]
+    },
+    {
+      "word": "Toaster",
+      "pronunciation": "/ˈtoʊstər/",
+      "definition": "An electrical appliance for making toast.",
+      "sentences": [
+        "Put the bread in the toaster.",
+        "The toaster makes perfect toast.",
+        "My toaster has two slots."
+      ]
+    },
+    {
+      "word": "Blender",
+      "pronunciation": "/ˈblɛndər/",
+      "definition": "An electric machine used for mixing soft foods or liquids.",
+      "sentences": [
+        "I'll make a smoothie in the blender.",
+        "The blender is very powerful.",
+        "Blend the fruits until smooth."
+      ]
+    },
+    {
+      "word": "Microwave",
+      "pronunciation": "/ˈmaɪkroʊˌweɪv/",
+      "definition": "An electric oven that cooks food very quickly by heating it with microwaves.",
+      "sentences": [
+        "Heat your leftovers in the microwave.",
+        "The microwave is easy to use.",
+        "Don't put metal in the microwave."
+      ]
+    },
+    {
+      "word": "Kettle",
+      "pronunciation": "/ˈkɛtl/",
+      "definition": "A container with a lid, spout, and handle, used for boiling water.",
+      "sentences": [
+        "Boil water in the kettle for tea.",
+        "The electric kettle heats water quickly.",
+        "The kettle is whistling."
+      ]
+    },
+    {
+      "word": "Frying pan",
+      "pronunciation": "/ˈfraɪɪŋ pæn/",
+      "definition": "A shallow pan with a long handle, used for frying food.",
+      "sentences": [
+        "Heat some oil in the frying pan.",
+        "She cooked the eggs in a non-stick frying pan.",
+        "The frying pan is on the stove."
+      ]
+    },
+    {
+      "word": "Saucepan",
+      "pronunciation": "/ˈsɔːsˌpæn/",
+      "definition": "A deep pan with a handle and lid, used for cooking sauces or boiling liquids.",
+      "sentences": [
+        "Put the pasta in the saucepan.",
+        "The saucepan is too small for this amount of soup.",
+        "Bring the water to a boil in a saucepan."
+      ]
+    },
+    {
+      "word": "Baking sheet",
+      "pronunciation": "/ˈbeɪkɪŋ ʃiːt/",
+      "definition": "A flat, rectangular metal pan used in an oven for baking.",
+      "sentences": [
+        "Place the cookies on the baking sheet.",
+        "Line the baking sheet with parchment paper.",
+        "The baking sheet is in the oven."
+      ]
+    },
+    {
+      "word": "Mixing bowl",
+      "pronunciation": "/ˈmɪksɪŋ boʊl/",
+      "definition": "A bowl used for mixing ingredients.",
+      "sentences": [
+        "Mix the batter in a large mixing bowl.",
+        "She used a glass mixing bowl.",
+        "The mixing bowl is easy to clean."
+      ]
+    },
+    {
+      "word": "Rolling pin",
+      "pronunciation": "/ˈroʊlɪŋ pɪn/",
+      "definition": "A cylinder, usually of wood, used for rolling out dough.",
+      "sentences": [
+        "Roll out the dough with a rolling pin.",
+        "The baker used a wooden rolling pin.",
+        "A rolling pin is essential for baking pies."
+      ]
+    },
+    {
+      "word": "Measuring jug",
+      "pronunciation": "/ˈmɛʒərɪŋ dʒʌɡ/",
+      "definition": "A container used for measuring liquids, usually with a handle and a spout.",
+      "sentences": [
+        "Pour the milk into the measuring jug.",
+        "The measuring jug has markings for milliliters.",
+        "I need a large measuring jug for this recipe."
+      ]
+    },
+    {
+      "word": "Food processor",
+      "pronunciation": "/fuːd ˈprɑːsɛsər/",
+      "definition": "An electric appliance with interchangeable blades, used for chopping, slicing, grating, or blending food.",
+      "sentences": [
+        "Chop the vegetables quickly in the food processor.",
+        "The food processor makes meal prep easier.",
+        "I use my food processor to make hummus."
+      ]
+    },
+    {
+      "word": "Grill pan",
+      "pronunciation": "/ɡrɪl pæn/",
+      "definition": "A pan with ridges, used for grilling food on a stovetop.",
+      "sentences": [
+        "Grill the chicken on the grill pan.",
+        "The grill pan leaves nice grill marks.",
+        "Heat the grill pan before adding food."
+      ]
+    },
+    {
+      "word": "Wok",
+      "pronunciation": "/wɑːk/",
+      "definition": "A large, bowl-shaped pan, used especially in Chinese cooking.",
+      "sentences": [
+        "Stir-fry the vegetables in a wok.",
+        "A wok is great for cooking Asian dishes.",
+        "The wok heats up very quickly."
+      ]
+    },
+    {
+      "word": "Chopping board",
+      "pronunciation": "/ˈtʃɑːpɪŋ bɔːrd/",
+      "definition": "A board on which food is chopped.",
+      "sentences": [
+        "Always use a chopping board when cutting vegetables.",
+        "The chopping board is made of bamboo.",
+        "Wash the chopping board thoroughly after cutting meat."
+      ]
+    },
+    {
+      "word": "Oven mitt",
+      "pronunciation": "/ˈʌvn mɪt/",
+      "definition": "A thick glove used for handling hot dishes from an oven.",
+      "sentences": [
+        "Use oven mitts to take the hot tray out.",
+        "My oven mitts are a bit old.",
+        "Always wear an oven mitt when touching hot surfaces."
+      ]
+    },
+    {
+      "word": "Apron",
+      "pronunciation": "/ˈeɪprən/",
+      "definition": "A garment worn over the front of clothes to protect them from stains.",
+      "sentences": [
+        "Wear an apron when you are cooking.",
+        "The chef wore a clean apron.",
+        "My grandma has a lovely floral apron."
+      ]
+    },
+    {
+      "word": "Recipe book",
+      "pronunciation": "/ˈrɛsɪpi bʊk/",
+      "definition": "A book containing recipes.",
+      "sentences": [
+        "I found a new recipe in my recipe book.",
+        "She has a large collection of recipe books.",
+        "This recipe book focuses on healthy meals."
+      ]
+    },
+    {
+      "word": "Cookbook",
+      "pronunciation": "/ˈkʊkˌbʊk/",
+      "definition": "A book of cooking recipes.",
+      "sentences": [
+        "My mom gave me a new cookbook.",
+        "I love trying recipes from this cookbook.",
+        "This cookbook has many vegetarian dishes."
+      ]
+    },
+    {
+      "word": "Meal",
+      "pronunciation": "/miːl/",
+      "definition": "An occasion when food is eaten, or the food itself.",
+      "sentences": [
+        "We had a delicious meal together.",
+        "What time do you usually eat your main meal?",
+        "This restaurant serves excellent meals."
+      ]
+    },
+    {
+      "word": "Dish",
+      "pronunciation": "/dɪʃ/",
+      "definition": "Food prepared in a particular way.",
+      "sentences": [
+        "This is my favorite Italian dish.",
+        "She cooked a traditional dish for the festival.",
+        "What's the special dish of the day?"
+      ]
+    },
+    {
+      "word": "Cuisine",
+      "pronunciation": "/kwɪˈziːn/",
+      "definition": "A style or method of cooking, especially as characteristic of a particular country or region.",
+      "sentences": [
+        "French cuisine is known for its richness.",
+        "I love trying different types of cuisine.",
+        "The restaurant offers a mix of Asian and European cuisine."
+      ]
+    },
+    {
+      "word": "Appetizer",
+      "pronunciation": "/ˈæpɪˌtaɪzər/",
+      "definition": "A small dish eaten before the main course of a meal.",
+      "sentences": [
+        "We ordered spring rolls as an appetizer.",
+        "What appetizers do you recommend?",
+        "The appetizers were very tasty."
+      ]
+    },
+    {
+      "word": "Main course",
+      "pronunciation": "/meɪn kɔːrs/",
+      "definition": "The most substantial course of a meal.",
+      "sentences": [
+        "For the main course, I'll have the steak.",
+        "The main course was served after the soup.",
+        "What's your choice for the main course?"
+      ]
+    },
+    {
+      "word": "Dessert",
+      "pronunciation": "/dɪˈzɜːrt/",
+      "definition": "The sweet course eaten at the end of a meal.",
+      "sentences": [
+        "I'll have ice cream for dessert.",
+        "What's on the dessert menu?",
+        "She baked a pie for dessert."
+      ]
+    },
+    {
+      "word": "Beverage",
+      "pronunciation": "/ˈbɛvərɪdʒ/",
+      "definition": "A drink, especially one other than water.",
+      "sentences": [
+        "Coffee and tea are popular beverages.",
+        "The price includes a complimentary beverage.",
+        "What kind of beverages do you have?"
+      ]
+    },
+    {
+      "word": "Utensils",
+      "pronunciation": "/juːˈtɛnslz/",
+      "definition": "Tools or containers, especially those used in a kitchen.",
+      "sentences": [
+        "We need eating utensils for dinner.",
+        "Wash all the cooking utensils after use.",
+        "The drawer is full of kitchen utensils."
+      ]
+    },
+    {
+      "word": "Cutlery",
+      "pronunciation": "/ˈkʌtləri/",
+      "definition": "Knives, forks, and spoons used for eating.",
+      "sentences": [
+        "Please set the table with cutlery.",
+        "The cutlery drawer is on the left.",
+        "We need clean cutlery for the guests."
+      ]
+    },
+    {
+      "word": "Crockery",
+      "pronunciation": "/ˈkrɑːkəri/",
+      "definition": "Plates, dishes, cups, and other similar items, especially those made of earthenware or china.",
+      "sentences": [
+        "Put the clean crockery back in the cupboard.",
+        "The crockery set is very old.",
+        "She bought new crockery for her kitchen."
+      ]
+    },
+    {
+      "word": "Glassware",
+      "pronunciation": "/ˈɡlæsˌwɛər/",
+      "definition": "Articles made of glass, especially drinking glasses.",
+      "sentences": [
+        "Be careful with the glassware, it's fragile.",
+        "The cabinet is filled with beautiful glassware.",
+        "We need to wash the glassware before the party."
+      ]
+    },
+    {
+      "word": "Tablecloth",
+      "pronunciation": "/ˈteɪblˌklɔːθ/",
+      "definition": "A cloth spread over a table, especially during meals.",
+      "sentences": [
+        "Put a clean tablecloth on the dining table.",
+        "The tablecloth has a nice pattern.",
+        "She ironed the tablecloth for the special occasion."
+      ]
+    },
+    {
+      "word": "Napkin ring",
+      "pronunciation": "/ˈnæpkɪn rɪŋ/",
+      "definition": "A ring used to hold a rolled or folded napkin.",
+      "sentences": [
+        "Place the napkin in the napkin ring.",
+        "The napkin rings are made of silver.",
+        "She collected antique napkin rings."
+      ]
+    },
+    {
+      "word": "Place setting",
+      "pronunciation": "/pleɪs ˈsɛtɪŋ/",
+      "definition": "The arrangement of plates, glasses, and cutlery for one person at a meal.",
+      "sentences": [
+        "Each place setting included a fork, knife, and spoon.",
+        "She prepared a beautiful place setting for each guest.",
+        "The restaurant had elegant place settings."
+      ]
+    },
+    {
+      "word": "Condiment",
+      "pronunciation": "/ˈkɑːndɪmənt/",
+      "definition": "A substance such as salt or ketchup that is used to add flavor to food.",
+      "sentences": [
+        "Ketchup and mustard are popular condiments.",
+        "The table had various condiments.",
+        "Do you have any other condiments?"
+      ]
+    },
+    {
+      "word": "Seasoning",
+      "pronunciation": "/ˈsiːzənɪŋ/",
+      "definition": "A substance (such as salt, herbs, or spices) used to add flavor to food.",
+      "sentences": [
+        "Salt and pepper are common seasonings.",
+        "This dish needs more seasoning.",
+        "She added various seasonings to the stew."
+      ]
+    },
+    {
+      "word": "Spice",
+      "pronunciation": "/spaɪs/",
+      "definition": "A substance made from a plant, used to give a special flavor to food.",
+      "sentences": [
+        "Curry powder is a blend of many spices.",
+        "This dish is full of aromatic spices.",
+        "Do you like hot spices?"
+      ]
+    },
+    {
+      "word": "Herb",
+      "pronunciation": "/hɜːrb/",
+      "definition": "A plant whose leaves, flowers, or seeds are used for flavoring food or in medicine.",
+      "sentences": [
+        "Fresh basil is a wonderful herb.",
+        "Add some herbs to the sauce for flavor.",
+        "Parsley and cilantro are common herbs."
+      ]
+    },
+    {
+      "word": "Sauce",
+      "pronunciation": "/sɔːs/",
+      "definition": "A thick liquid served with food to add moistness and flavor.",
+      "sentences": [
+        "This pasta needs more sauce.",
+        "The chef made a delicious cream sauce.",
+        "Dip your fries in the sauce."
+      ]
+    },
+    {
+      "word": "Gravy",
+      "pronunciation": "/ˈɡreɪvi/",
+      "definition": "A sauce made from the juices that come from meat cooked with vegetables.",
+      "sentences": [
+        "Serve the roast beef with gravy.",
+        "The mashed potatoes were covered in gravy.",
+        "Homemade gravy is the best."
+      ]
+    },
+    {
+      "word": "Dressing",
+      "pronunciation": "/ˈdrɛsɪŋ/",
+      "definition": "A sauce for salads, typically made of oil, vinegar, and seasonings.",
+      "sentences": [
+        "I like ranch dressing on my salad.",
+        "Make your own salad dressing.",
+        "The dressing adds flavor to the greens."
+      ]
+    },
+    {
+      "word": "Ketchup",
+      "pronunciation": "/ˈkɛtʃəp/",
+      "definition": "A thick, red sauce made from tomatoes, used as a condiment.",
+      "sentences": [
+        "Do you want ketchup with your fries?",
+        "Kids often love ketchup.",
+        "I put ketchup on my burger."
+      ]
+    },
+    {
+      "word": "Mustard",
+      "pronunciation": "/ˈmʌstərd/",
+      "definition": "A yellow or brownish-yellow paste with a sharp taste, made from the seeds of the mustard plant.",
+      "sentences": [
+        "I like mustard on my hot dog.",
+        "Do you prefer yellow or Dijon mustard?",
+        "Mustard adds a tangy flavor."
+      ]
+    },
+    {
+      "word": "Mayonnaise",
+      "pronunciation": "/ˌmeɪəˈneɪz/",
+      "definition": "A thick, creamy, pale yellow sauce made from egg yolks, oil, and vinegar, used as a condiment.",
+      "sentences": [
+        "Put some mayonnaise on your sandwich.",
+        "Mayonnaise is a common ingredient in salad dressings.",
+        "I like a little mayonnaise with my fries."
+      ]
+    },
+    {
+      "word": "Butter",
+      "pronunciation": "/ˈbʌtər/",
+      "definition": "A yellow fat food made from milk or cream, used for spreading on bread or in cooking.",
+      "sentences": [
+        "Spread butter on the toast.",
+        "Do you prefer butter or margarine?",
+        "The recipe calls for unsalted butter."
+      ]
+    },
+    {
+      "word": "Margarine",
+      "pronunciation": "/ˈmɑːrdʒərɪn/",
+      "definition": "A butter substitute made from vegetable oils or animal fats.",
+      "sentences": [
+        "Some people prefer margarine to butter.",
+        "Margarine is often used for baking.",
+        "This recipe works well with margarine."
+      ]
+    },
+    {
+      "word": "Yogurt",
+      "pronunciation": "/ˈjoʊɡərt/",
+      "definition": "A thick, creamy food made from fermented milk.",
+      "sentences": [
+        "I eat yogurt for breakfast.",
+        "Yogurt is a healthy snack.",
+        "Add some fruit to your yogurt."
+      ]
+    },
+    {
+      "word": "Cereal",
+      "pronunciation": "/ˈsɪriəl/",
+      "definition": "A breakfast food made from grain, often eaten with milk.",
+      "sentences": [
+        "I eat cereal every morning.",
+        "What kind of cereal do you like?",
+        "Cereal is a quick breakfast option."
+      ]
+    },
+    {
+      "word": "Oatmeal",
+      "pronunciation": "/ˈoʊtˌmiːl/",
+      "definition": "A type of porridge made from oats, often eaten for breakfast.",
+      "sentences": [
+        "I like oatmeal with honey and fruit.",
+        "Oatmeal is a warm and filling breakfast.",
+        "Cook the oatmeal on the stove."
+      ]
+    },
+    {
+      "word": "Pancake",
+      "pronunciation": "/ˈpænˌkeɪk/",
+      "definition": "A thin, flat cake, made from batter and cooked on both sides in a pan.",
+      "sentences": [
+        "We had pancakes for breakfast.",
+        "Pancakes are delicious with syrup.",
+        "She made a stack of fluffy pancakes."
+      ]
+    },
+    {
+      "word": "Waffle",
+      "pronunciation": "/ˈwɑːfl/",
+      "definition": "A crisp, flat cake made from batter, cooked in a waffle iron.",
+      "sentences": [
+        "I love waffles with whipped cream.",
+        "Waffles are a popular breakfast food.",
+        "The waffle maker is easy to use."
+      ]
+    },
+    {
+      "word": "Toast",
+      "pronunciation": "/toʊst/",
+      "definition": "Slices of bread browned by heat.",
+      "sentences": [
+        "I like butter and jam on my toast.",
+        "Make some toast for breakfast.",
+        "The toast is perfectly golden."
+      ]
+    },
+    {
+      "word": "Muffin",
+      "pronunciation": "/ˈmʌfɪn/",
+      "definition": "A small, sweet cake, often baked in a cup-shaped paper liner.",
+      "sentences": [
+        "I bought a blueberry muffin for breakfast.",
+        "Muffins are great for a quick snack.",
+        "She baked a batch of chocolate chip muffins."
+      ]
+    },
+    {
+      "word": "Doughnut",
+      "pronunciation": "/ˈdoʊnʌt/",
+      "definition": "A small, fried cake of sweetened dough, typically in the shape of a ring or ball, sometimes filled.",
+      "sentences": [
+        "He loves glazed doughnuts.",
+        "Let's get some doughnuts and coffee.",
+        "The doughnut shop opens early."
+      ]
+    },
+    {
+      "word": "Croissant",
+      "pronunciation": "/kwɑːˈsɑːn/",
+      "definition": "A crescent-shaped pastry made of rich, flaky dough.",
+      "sentences": [
+        "I had a croissant and coffee for breakfast.",
+        "Croissants are a popular French pastry.",
+        "The warm croissant melted in my mouth."
+      ]
+    },
+    {
+      "word": "Bagel",
+      "pronunciation": "/ˈbeɪɡl/",
+      "definition": "A chewy, ring-shaped bread roll, often eaten with cream cheese.",
+      "sentences": [
+        "I had a bagel with cream cheese.",
+        "Bagels are great for breakfast or lunch.",
+        "Toast the bagel before adding toppings."
+      ]
+    },
+    {
+      "word": "Soup",
+      "pronunciation": "/suːp/",
+      "definition": "A liquid food made by boiling meat, fish, or vegetables in water.",
+      "sentences": [
+        "This chicken soup is delicious.",
+        "I like to eat soup on a cold day.",
+        "She made a big pot of vegetable soup."
+      ]
+    },
+    {
+      "word": "Stew",
+      "pronunciation": "/stuː/",
+      "definition": "A dish of meat and vegetables cooked slowly in liquid.",
+      "sentences": [
+        "My grandma makes the best beef stew.",
+        "Stew is a comforting meal in winter.",
+        "The stew simmered on the stove for hours."
+      ]
+    },
+    {
+      "word": "Curry",
+      "pronunciation": "/ˈkʌri/",
+      "definition": "A dish, especially in South Asian cuisine, containing meat or vegetables cooked in a spicy sauce.",
+      "sentences": [
+        "I love Indian curry.",
+        "This chicken curry is very flavorful.",
+        "Do you prefer mild or spicy curry?"
+      ]
+    },
+    {
+      "word": "Stir-fry",
+      "pronunciation": "/stɜːr fraɪ/",
+      "definition": "A dish of Chinese origin consisting of small pieces of meat and vegetables fried quickly in a wok or pan.",
+      "sentences": [
+        "Let's make a vegetable stir-fry for dinner.",
+        "Stir-fry is a quick and healthy meal.",
+        "Add soy sauce to the stir-fry."
+      ]
+    },
+    {
+      "word": "Taco",
+      "pronunciation": "/ˈtɑːkoʊ/",
+      "definition": "A traditional Mexican dish consisting of a corn or wheat tortilla folded or rolled around a filling.",
+      "sentences": [
+        "I want to eat tacos for lunch.",
+        "Tacos are fun to customize with different toppings.",
+        "We had a taco night with friends."
+      ]
+    },
+    {
+      "word": "Burrito",
+      "pronunciation": "/bʊˈriːtoʊ/",
+      "definition": "A Mexican dish consisting of a tortilla wrapped around a filling, typically of meat, beans, or cheese.",
+      "sentences": [
+        "I ordered a chicken burrito.",
+        "Burritos are a hearty meal.",
+        "This burrito is huge!"
+      ]
+    },
+    {
+      "word": "Sushi",
+      "pronunciation": "/ˈsuːʃi/",
+      "definition": "A Japanese dish consisting of small balls or rolls of vinegar-flavored cold rice served with fish, vegetables, or egg.",
+      "sentences": [
+        "I love to eat sushi.",
+        "Sushi is a healthy and delicious option.",
+        "We went to a sushi restaurant."
+      ]
+    },
+    {
+      "word": "Noodle",
+      "pronunciation": "/ˈnuːdl/",
+      "definition": "A strip, strand, or tube of pasta or a similar dough, usually made with egg and usually eaten with a sauce or in soup.",
+      "sentences": [
+        "I like chicken noodle soup.",
+        "These noodles are perfect for stir-fry.",
+        "Ramen is a type of noodle dish."
+      ]
+    },
+    {
+      "word": "Rice bowl",
+      "pronunciation": "/raɪs boʊl/",
+      "definition": "A dish consisting of rice served in a bowl, often with other ingredients on top.",
+      "sentences": [
+        "I had a delicious chicken rice bowl for lunch.",
+        "Rice bowls are customizable with various toppings.",
+        "This restaurant specializes in healthy rice bowls."
+      ]
+    },
+    {
+      "word": "Smoothie",
+      "pronunciation": "/ˈsmuːði/",
+      "definition": "A thick, smooth drink made from blended fruit or vegetables, sometimes with milk or yogurt.",
+      "sentences": [
+        "I make a fruit smoothie every morning.",
+        "This green smoothie is very refreshing.",
+        "Smoothies are a great way to get your vitamins."
+      ]
+    },
+    {
+      "word": "Milkshake",
+      "pronunciation": "/ˈmɪlkˌʃeɪk/",
+      "definition": "A cold drink made of milk, ice cream, and often flavoring, mixed together until frothy.",
+      "sentences": [
+        "I ordered a chocolate milkshake.",
+        "Milkshakes are a sweet treat.",
+        "The diner makes amazing milkshakes."
+      ]
+    },
+    {
+      "word": "Soda",
+      "pronunciation": "/ˈsoʊdə/",
+      "definition": "A carbonated soft drink.",
+      "sentences": [
+        "Do you want a soda with your meal?",
+        "I prefer diet soda.",
+        "Don't drink too much soda, it's unhealthy."
+      ]
+    },
+    {
+      "word": "Lemonade",
+      "pronunciation": "/ˌlɛməˈneɪd/",
+      "definition": "A drink made from lemon juice, sugar, and water.",
+      "sentences": [
+        "I love homemade lemonade on a hot day.",
+        "This lemonade is very refreshing.",
+        "She sells lemonade at her stand."
+      ]
+    },
+    {
+      "word": "Iced tea",
+      "pronunciation": "/aɪst tiː/",
+      "definition": "Tea that has been chilled and is served with ice.",
+      "sentences": [
+        "I'll have an iced tea, please.",
+        "Iced tea is perfect for summer.",
+        "Do you want sweet or unsweetened iced tea?"
+      ]
+    },
+    {
+      "word": "Hot chocolate",
+      "pronunciation": "/hɑːt ˈtʃɔːklət/",
+      "definition": "A hot drink made from cocoa powder or chocolate and milk or water.",
+      "sentences": [
+        "I like hot chocolate with whipped cream.",
+        "Hot chocolate is a cozy drink in winter.",
+        "She made hot chocolate for everyone."
+      ]
+    },
+    {
+      "word": "Espresso",
+      "pronunciation": "/ɛˈsprɛsoʊ/",
+      "definition": "A strong, black coffee made by forcing steam through ground coffee beans.",
+      "sentences": [
+        "I start my day with an espresso.",
+        "Espresso is very concentrated coffee.",
+        "He ordered a double espresso."
+      ]
+    },
+    {
+      "word": "Latte",
+      "pronunciation": "/ˈlɑːteɪ/",
+      "definition": "A type of coffee made with espresso and steamed milk, often with a layer of foam on top.",
+      "sentences": [
+        "I'll have a vanilla latte, please.",
+        "Lattes are popular coffee drinks.",
+        "The barista made a beautiful latte art."
+      ]
+    },
+    {
+      "word": "Cappuccino",
+      "pronunciation": "/ˌkæpuˈtʃiːnoʊ/",
+      "definition": "A coffee drink made with espresso, hot milk, and steamed milk foam.",
+      "sentences": [
+        "I like a cappuccino with my breakfast.",
+        "Cappuccinos are often topped with cocoa powder.",
+        "This cappuccino is perfectly foamy."
+      ]
+    },
+    {
+      "word": "Americano",
+      "pronunciation": "/əˌmɛrɪˈkɑːnoʊ/",
+      "definition": "A type of coffee drink prepared by diluting an espresso with hot water.",
+      "sentences": [
+        "I prefer an Americano to a regular coffee.",
+        "An Americano is a simple coffee drink.",
+        "He ordered a large Americano."
+      ]
+    },
+    {
+      "word": "Muffin",
+      "pronunciation": "/ˈmʌfɪn/",
+      "definition": "A small, sweet cake, often baked in a cup-shaped paper liner.",
+      "sentences": [
+        "I bought a blueberry muffin for breakfast.",
+        "Muffins are great for a quick snack.",
+        "She baked a batch of chocolate chip muffins."
+      ]
+    },
+    {
+      "word": "Doughnut",
+      "pronunciation": "/ˈdoʊnʌt/",
+      "definition": "A small, fried cake of sweetened dough, typically in the shape of a ring or ball, sometimes filled.",
+      "sentences": [
+        "He loves glazed doughnuts.",
+        "Let's get some doughnuts and coffee.",
+        "The doughnut shop opens early."
+      ]
+    },
+    {
+      "word": "Croissant",
+      "pronunciation": "/kwɑːˈsɑːn/",
+      "definition": "A crescent-shaped pastry made of rich, flaky dough.",
+      "sentences": [
+        "I had a croissant and coffee for breakfast.",
+        "Croissants are a popular French pastry.",
+        "The warm croissant melted in my mouth."
+      ]
+    },
+    {
+      "word": "Bagel",
+      "pronunciation": "/ˈbeɪɡl/",
+      "definition": "A chewy, ring-shaped bread roll, often eaten with cream cheese.",
+      "sentences": [
+        "I had a bagel with cream cheese.",
+        "Bagels are great for breakfast or lunch.",
+        "Toast the bagel before adding toppings."
+      ]
+    },
+    {
+      "word": "Pastry",
+      "pronunciation": "/ˈpeɪstri/",
+      "definition": "Dough of flour, water, and shortening, used as a base or covering in baked dishes.",
+      "sentences": [
+        "She made a delicious apple pastry.",
+        "The bakery sells fresh pastries every morning.",
+        "I love flaky pastry."
+      ]
+    },
+    {
+      "word": "Pie",
+      "pronunciation": "/paɪ/",
+      "definition": "A baked dish of fruit, meat, or vegetables, typically with a top and base of pastry.",
+      "sentences": [
+        "My favorite is apple pie.",
+        "She baked a savory meat pie.",
+        "The pie was served warm with ice cream."
+      ]
+    },
+    {
+      "word": "Tart",
+      "pronunciation": "/tɑːrt/",
+      "definition": "An open pastry case with a sweet or savory filling.",
+      "sentences": [
+        "We had a fruit tart for dessert.",
+        "The lemon tart was perfectly sour and sweet.",
+        "She made a small quiche tart."
+      ]
+    },
+    {
+      "word": "Quiche",
+      "pronunciation": "/kiːʃ/",
+      "definition": "A baked savory tart with a filling of custard, cheese, and often bacon or other ingredients.",
+      "sentences": [
+        "I had a slice of spinach quiche for lunch.",
+        "Quiche is a versatile dish.",
+        "This quiche is light and fluffy."
+      ]
+    },
+    {
+      "word": "Scone",
+      "pronunciation": "/skoʊn/",
+      "definition": "A small, plain, unsweetened or lightly sweetened cake, typically made from flour, butter, and milk, and baked.",
+      "sentences": [
+        "I love scones with clotted cream and jam.",
+        "Scones are a classic afternoon tea item.",
+        "She baked fresh scones this morning."
+      ]
+    },
+    {
+      "word": "Biscuit (UK)",
+      "pronunciation": "/ˈbɪskɪt/",
+      "definition": "A small, thin, flat cake, typically crisp, made from flour and sugar.",
+      "sentences": [
+        "Would you like a biscuit with your tea?",
+        "I dipped the biscuit in my coffee.",
+        "Chocolate biscuits are my favorite."
+      ]
+    },
+    {
+      "word": "Cookie (US)",
+      "pronunciation": "/ˈkʊki/",
+      "definition": "A small, flat, sweet cake.",
+      "sentences": [
+        "I love chocolate chip cookies.",
+        "Can I have another cookie?",
+        "Bake cookies for the party."
+      ]
+    },
+    {
+      "word": "Cracker",
+      "pronunciation": "/ˈkrækər/",
+      "definition": "A thin, crisp biscuit, typically unsweetened.",
+      "sentences": [
+        "Eat the cheese with crackers.",
+        "These crackers are good with soup.",
+        "I like salty crackers."
+      ]
+    },
+    {
+      "word": "Chip (US)",
+      "pronunciation": "/tʃɪp/",
+      "definition": "A thin slice of potato fried until crisp and eaten as a snack.",
+      "sentences": [
+        "I bought a bag of potato chips.",
+        "These chips are very crunchy.",
+        "Do you want some chips with your sandwich?"
+      ]
+    },
+    {
+      "word": "Crisp (UK)",
+      "pronunciation": "/krɪsp/",
+      "definition": "A very thin slice of potato fried until crisp and eaten as a snack.",
+      "sentences": [
+        "Would you like a packet of crisps?",
+        "These crisps are salt and vinegar flavored.",
+        "He likes to eat crisps while watching TV."
+      ]
+    },
+    {
+      "word": "French fries",
+      "pronunciation": "/frɛntʃ fraɪz/",
+      "definition": "Long, thin pieces of potato fried in deep fat.",
+      "sentences": [
+        "I ordered a burger with French fries.",
+        "French fries are a popular side dish.",
+        "These French fries are perfectly golden."
+      ]
+    },
+    {
+      "word": "Fish and chips",
+      "pronunciation": "/fɪʃ ənd tʃɪps/",
+      "definition": "A dish of battered fish and deep-fried potato chips, originating in England.",
+      "sentences": [
+        "We had fish and chips for dinner by the seaside.",
+        "Fish and chips is a classic British meal.",
+        "The fish and chips shop is very popular."
+      ]
+    },
+    {
+      "word": "Roast dinner",
+      "pronunciation": "/roʊst ˈdɪnər/",
+      "definition": "A traditional British meal of roasted meat, potatoes, and vegetables.",
+      "sentences": [
+        "We always have a roast dinner on Sundays.",
+        "My mom makes the best roast dinner.",
+        "A roast dinner is a hearty meal."
+      ]
+    },
+    {
+      "word": "Shepherd's pie",
+      "pronunciation": "/ˈʃɛpərdz paɪ/",
+      "definition": "A dish of minced meat topped with a layer of mashed potato.",
+      "sentences": [
+        "Shepherd's pie is a comforting dish.",
+        "I made shepherd's pie for the family.",
+        "This shepherd's pie is very cheesy."
+      ]
+    },
+    {
+      "word": "Full English breakfast",
+      "pronunciation": "/fʊl ˈɪŋɡlɪʃ ˈbrɛkfəst/",
+      "definition": "A large breakfast typically including bacon, eggs, sausages, baked beans, mushrooms, and toast.",
+      "sentences": [
+        "He ordered a full English breakfast at the hotel.",
+        "A full English breakfast is very filling.",
+        "We had a full English breakfast before our long journey."
+      ]
+    },
+    {
+      "word": "Pudding (UK)",
+      "pronunciation": "/ˈpʊdɪŋ/",
+      "definition": "A sweet dish eaten at the end of a meal.",
+      "sentences": [
+        "What's for pudding tonight?",
+        "I love sticky toffee pudding.",
+        "The children always look forward to pudding."
+      ]
+    },
+    {
+      "word": "Dessert (US)",
+      "pronunciation": "/dɪˈzɜːrt/",
+      "definition": "The sweet course eaten at the end of a meal.",
+      "sentences": [
+        "I'll have ice cream for dessert.",
+        "What's on the dessert menu?",
+        "She baked a pie for dessert."
+      ]
+    },
+    {
+      "word": "Casserole",
+      "pronunciation": "/ˈkæsəˌroʊl/",
+      "definition": "A dish of food baked and served in a deep dish.",
+      "sentences": [
+        "My mom made a chicken and vegetable casserole.",
+        "Casseroles are easy to prepare for a crowd.",
+        "This casserole is warm and comforting."
+      ]
+    },
+    {
+      "word": "Stir-fry",
+      "pronunciation": "/stɜːr fraɪ/",
+      "definition": "A dish of Chinese origin consisting of small pieces of meat and vegetables fried quickly in a wok or pan.",
+      "sentences": [
+        "Let's make a vegetable stir-fry for dinner.",
+        "Stir-fry is a quick and healthy meal.",
+        "Add soy sauce to the stir-fry."
+      ]
+    },
+    {
+      "word": "Grill",
+      "pronunciation": "/ɡrɪl/",
+      "definition": "To cook food over direct heat, usually on a metal frame.",
+      "sentences": [
+        "Let's grill some burgers for the barbecue.",
+        "He grilled the fish perfectly.",
+        "We love grilled vegetables."
+      ]
+    },
+    {
+      "word": "Barbecue",
+      "pronunciation": "/ˈbɑːrbɪkjuː/",
+      "definition": "A meal or gathering at which food is cooked outdoors on a grill or spit.",
+      "sentences": [
+        "We're having a barbecue this weekend.",
+        "The barbecue smelled delicious.",
+        "He's the best at cooking on the barbecue."
+      ]
+    },
+    {
+      "word": "Picnic",
+      "pronunciation": "/ˈpɪknɪk/",
+      "definition": "An outing where a packed meal is eaten outdoors.",
+      "sentences": [
+        "Let's go for a picnic in the park.",
+        "We packed a delicious picnic lunch.",
+        "The weather is perfect for a picnic."
+      ]
+    },
+    {
+      "word": "Buffet",
+      "pronunciation": "/bʊˈfeɪ/",
+      "definition": "A meal consisting of several dishes from which guests serve themselves.",
+      "sentences": [
+        "The hotel offers a breakfast buffet.",
+        "I love eating at a buffet because of the variety.",
+        "The wedding reception had a grand buffet."
+      ]
+    },
+    {
+      "word": "Catering",
+      "pronunciation": "/ˈkeɪtərɪŋ/",
+      "definition": "The business of providing food service at remote sites or events.",
+      "sentences": [
+        "The catering for the event was excellent.",
+        "We hired a catering company for the party.",
+        "Good catering is essential for a successful event."
+      ]
+    },
+    {
+      "word": "Waiter",
+      "pronunciation": "/ˈweɪtər/",
+      "definition": "A person whose job is to serve customers in a restaurant.",
+      "sentences": [
+        "The waiter took our order.",
+        "Call the waiter if you need anything.",
+        "The waiter was very polite."
+      ]
+    },
+    {
+      "word": "Waitress",
+      "pronunciation": "/ˈweɪtrəs/",
+      "definition": "A woman whose job is to serve customers in a restaurant.",
+      "sentences": [
+        "The waitress brought our drinks.",
+        "She wants to work as a waitress.",
+        "The waitress was quick and efficient."
+      ]
+    },
+    {
+      "word": "Chef",
+      "pronunciation": "/ʃɛf/",
+      "definition": "A professional cook, typically the chief cook in a restaurant or hotel.",
+      "sentences": [
+        "The chef prepared a special dish.",
+        "He is a talented chef.",
+        "The chef's hat is very tall."
+      ]
+    },
+    {
+      "word": "Cook (noun)",
+      "pronunciation": "/kʊk/",
+      "definition": "A person who prepares food for eating.",
+      "sentences": [
+        "My mom is a great cook.",
+        "He is a good cook.",
+        "The cook prepared a delicious meal."
+      ]
+    },
+    {
+      "word": "Baker",
+      "pronunciation": "/ˈbeɪkər/",
+      "definition": "A person whose trade is baking bread and cakes.",
+      "sentences": [
+        "The baker makes fresh bread every morning.",
+        "She is a skilled baker.",
+        "The baker's shop smells wonderful."
+      ]
+    },
+    {
+      "word": "Butcher",
+      "pronunciation": "/ˈbʊtʃər/",
+      "definition": "A person who sells meat.",
+      "sentences": [
+        "I bought fresh chicken from the butcher.",
+        "The butcher shop is on the corner.",
+        "He is a friendly butcher."
+      ]
+    },
+    {
+      "word": "Greengrocer",
+      "pronunciation": "/ˈɡriːnˌɡroʊsər/",
+      "definition": "A person who sells fresh fruit and vegetables.",
+      "sentences": [
+        "I bought fresh apples from the greengrocer.",
+        "The greengrocer has a wide variety of produce.",
+        "Support your local greengrocer."
+      ]
+    },
+    {
+      "word": "Fishmonger",
+      "pronunciation": "/ˈfɪʃˌmʌŋɡər/",
+      "definition": "A person who sells fish.",
+      "sentences": [
+        "I bought fresh salmon from the fishmonger.",
+        "The fishmonger recommended the cod.",
+        "The fishmonger has a fresh catch daily."
+      ]
+    },
+    {
+      "word": "Dairy",
+      "pronunciation": "/ˈdɛəri/",
+      "definition": "Products made from milk.",
+      "sentences": [
+        "Milk, cheese, and yogurt are dairy products.",
+        "The dairy section is in the back of the store.",
+        "Some people are allergic to dairy."
+      ]
+    },
+    {
+      "word": "Bakery",
+      "pronunciation": "/ˈbeɪkəri/",
+      "definition": "A place where bread, cakes, and pastries are baked or sold.",
+      "sentences": [
+        "I bought fresh bread from the bakery.",
+        "The bakery smells amazing.",
+        "This bakery makes delicious croissants."
+      ]
+    },
+    {
+      "word": "Butcher shop",
+      "pronunciation": "/ˈbʊtʃər ʃɑːp/",
+      "definition": "A shop where meat is sold.",
+      "sentences": [
+        "I went to the butcher shop to buy steak.",
+        "The butcher shop has high-quality meat.",
+        "The butcher shop is very clean."
+      ]
+    },
+    {
+      "word": "Fish market",
+      "pronunciation": "/fɪʃ ˈmɑːrkɪt/",
+      "definition": "A place where fish and seafood are sold.",
+      "sentences": [
+        "We bought fresh fish at the fish market.",
+        "The fish market is lively in the morning.",
+        "The fish market smells of the ocean."
+      ]
+    },
+    {
+      "word": "Farmers' market",
+      "pronunciation": "/ˈfɑːrmərz ˈmɑːrkɪt/",
+      "definition": "A market where farmers sell their produce directly to consumers.",
+      "sentences": [
+        "We buy fresh vegetables at the farmers' market.",
+        "The farmers' market is open every Saturday.",
+        "Supporting the farmers' market helps local producers."
+      ]
+    },
+    {
+      "word": "Delicatessen",
+      "pronunciation": "/ˌdɛlɪkəˈtɛsn/",
+      "definition": "A shop selling unusual or foreign prepared foods.",
+      "sentences": [
+        "I bought some gourmet cheese at the delicatessen.",
+        "The delicatessen has a wide selection of cured meats.",
+        "We found a small delicatessen with delicious sandwiches."
+      ]
+    },
+    {
+      "word": "Takeaway (UK)",
+      "pronunciation": "/ˈteɪkəˌweɪ/",
+      "definition": "A meal or food bought from a restaurant or shop to be eaten elsewhere.",
+      "sentences": [
+        "Let's get a Chinese takeaway tonight.",
+        "Do you want to eat in or get a takeaway?",
+        "The restaurant offers a special takeaway menu."
+      ]
+    },
+    {
+      "word": "Takeout (US)",
+      "pronunciation": "/ˈteɪkˌaʊt/",
+      "definition": "Food that is cooked and sold by a restaurant or store to be eaten elsewhere.",
+      "sentences": [
+        "Let's order some takeout for dinner.",
+        "This restaurant has great takeout options.",
+        "I'm too tired to cook, let's get takeout."
+      ]
+    },
+    {
+      "word": "Dine in",
+      "pronunciation": "/daɪn ɪn/",
+      "definition": "To eat a meal in a restaurant rather than taking it away.",
+      "sentences": [
+        "Do you want to dine in or get takeout?",
+        "We decided to dine in at the new Italian restaurant.",
+        "It's nice to dine in sometimes."
+      ]
+    },
+    {
+      "word": "Fast food",
+      "pronunciation": "/fæst fuːd/",
+      "definition": "Food that can be prepared and served quickly.",
+      "sentences": [
+        "Hamburgers and fries are fast food.",
+        "Eating too much fast food is unhealthy.",
+        "Sometimes I crave fast food."
+      ]
+    },
+    {
+      "word": "Junk food",
+      "pronunciation": "/dʒʌŋk fuːd/",
+      "definition": "Food that is unhealthy but quick and easy to eat.",
+      "sentences": [
+        "Candy and soda are junk food.",
+        "Try to avoid eating too much junk food.",
+        "Junk food can be tempting."
+      ]
+    },
+    {
+      "word": "Organic food",
+      "pronunciation": "/ɔːrˈɡænɪk fuːd/",
+      "definition": "Food produced without the use of artificial chemicals, fertilizers, or pesticides.",
+      "sentences": [
+        "I prefer to buy organic food.",
+        "Organic food is often more expensive.",
+        "Many health stores sell organic food."
+      ]
+    },
+    {
+      "word": "Vegetarian",
+      "pronunciation": "/ˌvɛdʒəˈtɛriən/",
+      "definition": "A person who does not eat meat or fish.",
+      "sentences": [
+        "My sister is a vegetarian.",
+        "This restaurant has many vegetarian options.",
+        "Being vegetarian is a healthy choice for many."
+      ]
+    },
+    {
+      "word": "Vegan",
+      "pronunciation": "/ˈviːɡən/",
+      "definition": "A person who does not eat or use any animal products.",
+      "sentences": [
+        "She is a vegan and eats no meat or dairy.",
+        "Vegan food can be very delicious.",
+        "The cafe offers a variety of vegan dishes."
+      ]
+    },
+    {
+      "word": "Gluten-free",
+      "pronunciation": "/ˈɡluːtən friː/",
+      "definition": "Not containing gluten, a protein found in wheat and other grains.",
+      "sentences": [
+        "This bread is gluten-free.",
+        "Many people choose gluten-free options.",
+        "The restaurant has a special gluten-free menu."
+      ]
+    },
+    {
+      "word": "Dairy-free",
+      "pronunciation": "/ˈdɛəri friː/",
+      "definition": "Not containing milk or milk products.",
+      "sentences": [
+        "This ice cream is dairy-free.",
+        "I need dairy-free milk for my coffee.",
+        "Many vegan products are also dairy-free."
+      ]
+    },
+    {
+      "word": "Nut-free",
+      "pronunciation": "/nʌt friː/",
+      "definition": "Not containing nuts, especially for people with allergies.",
+      "sentences": [
+        "This cake is nut-free for those with allergies.",
+        "The school has a strict nut-free policy.",
+        "Look for nut-free labels if you have an allergy."
+      ]
+    },
+    {
+      "word": "Allergy",
+      "pronunciation": "/ˈælərdʒi/",
+      "definition": "A medical condition that causes someone to react badly to certain substances.",
+      "sentences": [
+        "I have a peanut allergy.",
+        "Always ask about food allergies before serving.",
+        "Her allergy makes her careful about what she eats."
+      ]
+    },
+    {
+      "word": "Diet",
+      "pronunciation": "/ˈdaɪət/",
+      "definition": "The food and drink usually eaten by a person or animal.",
+      "sentences": [
+        "I'm trying to eat a healthier diet.",
+        "What kind of diet do you follow?",
+        "A balanced diet is important for health."
+      ]
+    },
+    {
+      "word": "Nutrition",
+      "pronunciation": "/nuːˈtrɪʃən/",
+      "definition": "The process of providing or obtaining the food necessary for health and growth.",
+      "sentences": [
+        "Good nutrition is vital for children's development.",
+        "Learn about proper nutrition for a healthy life.",
+        "The nutritionist gave advice on nutrition."
+      ]
+    },
+    {
+      "word": "Calorie",
+      "pronunciation": "/ˈkæləri/",
+      "definition": "A unit of energy supplied by food.",
+      "sentences": [
+        "This snack has a lot of calories.",
+        "Counting calories can help with weight loss.",
+        "Fruits are low in calories."
+      ]
+    },
+    {
+      "word": "Protein",
+      "pronunciation": "/ˈproʊtiːn/",
+      "definition": "A substance found in food such as meat, eggs, and beans, that is important for growth and health.",
+      "sentences": [
+        "Meat and beans are good sources of protein.",
+        "Protein helps build muscles.",
+        "Athletes need a lot of protein."
+      ]
+    },
+    {
+      "word": "Carbohydrate",
+      "pronunciation": "/ˌkɑːrboʊˈhaɪdreɪt/",
+      "definition": "A substance found in foods such as sugar, bread, and potatoes, that provides energy.",
+      "sentences": [
+        "Pasta is rich in carbohydrates.",
+        "Carbohydrates provide energy for your body.",
+        "Choose complex carbohydrates for sustained energy."
+      ]
+    },
+    {
+      "word": "Fat",
+      "pronunciation": "/fæt/",
+      "definition": "A natural oily substance found in animal bodies, especially when deposited as a layer under the skin or around certain organs.",
+      "sentences": [
+        "Avocados contain healthy fats.",
+        "Too much unhealthy fat is bad for your heart.",
+        "Trim the fat from the meat."
+      ]
+    },
+    {
+      "word": "Vitamin",
+      "pronunciation": "/ˈvaɪtəmɪn/",
+      "definition": "Any of a group of organic compounds that are essential for normal growth and nutrition and are required in small quantities in the diet.",
+      "sentences": [
+        "Oranges are rich in Vitamin C.",
+        "Eat fruits and vegetables for essential vitamins.",
+        "Vitamin D is important for bone health."
+      ]
+    },
+    {
+      "word": "Mineral",
+      "pronunciation": "/ˈmɪnərəl/",
+      "definition": "A solid, inorganic substance of natural occurrence, important for health.",
+      "sentences": [
+        "Calcium is an important mineral for bones.",
+        "Spinach is rich in iron, a vital mineral.",
+        "Drink mineral water for added benefits."
+      ]
+    },
+    {
+      "word": "Fiber",
+      "pronunciation": "/ˈfaɪbər/",
+      "definition": "The part of plant food that is not digested but helps food pass through the body.",
+      "sentences": [
+        "Eat foods high in fiber for good digestion.",
+        "Oats are a good source of fiber.",
+        "Fiber helps you feel full."
+      ]
+    },
+    {
+      "word": "Digestion",
+      "pronunciation": "/daɪˈdʒɛstʃən/",
+      "definition": "The process of breaking down food into substances that the body can use.",
+      "sentences": [
+        "Eating slowly aids digestion.",
+        "Good digestion is important for overall health.",
+        "Some foods are harder to digest."
+      ]
+    }
+  ]
+}

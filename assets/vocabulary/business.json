@@ -1,0 +1,2276 @@
+{
+  "title": "Business & Finance",
+  "icon": "💼",
+  "words": [
+    {
+      "word": "Business",
+      "pronunciation": "/ˈbɪznɪs/",
+      "definition": "An organization or enterprise engaged in commercial, industrial, or professional activities.",
+      "sentences": [
+        "He started a small business selling handmade crafts.",
+        "The new business is doing very well.",
+        "She works in the fashion business."
+      ]
+    },
+    {
+      "word": "Company",
+      "pronunciation": "/ˈkʌmpəni/",
+      "definition": "A commercial business.",
+      "sentences": [
+        "She works for a large tech company.",
+        "The company produces software.",
+        "He started his own company last year."
+      ]
+    },
+    {
+      "word": "Work",
+      "pronunciation": "/wɜːrk/",
+      "definition": "Activity involving mental or physical effort done in order to achieve a purpose or result.",
+      "sentences": [
+        "I go to work every morning.",
+        "She loves her work as a teacher.",
+        "He has a lot of work to do today."
+      ]
+    },
+    {
+      "word": "Job",
+      "pronunciation": "/dʒɑːb/",
+      "definition": "A paid position of regular employment.",
+      "sentences": [
+        "My mom has a new job.",
+        "He is looking for a summer job.",
+        "What kind of job do you want when you grow up?"
+      ]
+    },
+    {
+      "word": "Employee",
+      "pronunciation": "/ɪmˈplɔɪiː/",
+      "definition": "A person employed for wages or salary, especially at non-executive level.",
+      "sentences": [
+        "The company has many employees.",
+        "Every employee gets a paid holiday.",
+        "She is a dedicated employee."
+      ]
+    },
+    {
+      "word": "Employer",
+      "pronunciation": "/ɪmˈplɔɪər/",
+      "definition": "A person or organization that employs people.",
+      "sentences": [
+        "His employer offered him a promotion.",
+        "The company is a major employer in the city.",
+        "She respects her employer."
+      ]
+    },
+    {
+      "word": "Salary",
+      "pronunciation": "/ˈsæləri/",
+      "definition": "A fixed regular payment, typically paid monthly or biweekly, made by an employer to an employee, especially a professional or white-collar worker.",
+      "sentences": [
+        "He earns a good salary.",
+        "Her new salary is higher.",
+        "The company offers competitive salaries."
+      ]
+    },
+    {
+      "word": "Wage",
+      "pronunciation": "/weɪdʒ/",
+      "definition": "A fixed regular payment earned for work or services, typically paid on a daily or weekly basis.",
+      "sentences": [
+        "He earns a minimum wage.",
+        "His wages are paid weekly.",
+        "The workers demanded higher wages."
+      ]
+    },
+    {
+      "word": "Income",
+      "pronunciation": "/ˈɪnkʌm/",
+      "definition": "Money received, especially on a regular basis, for work or through investments.",
+      "sentences": [
+        "His monthly income covers all his expenses.",
+        "They have a steady income.",
+        "She manages her income carefully."
+      ]
+    },
+    {
+      "word": "Expense",
+      "pronunciation": "/ɪkˈspɛns/",
+      "definition": "The cost incurred in or required for something.",
+      "sentences": [
+        "Travel expenses can add up quickly.",
+        "Keep track of every expense.",
+        "Housing is a major expense for many families."
+      ]
+    },
+    {
+      "word": "Budget",
+      "pronunciation": "/ˈbʌdʒɪt/",
+      "definition": "An estimate of income and expenditure for a set period of time.",
+      "sentences": [
+        "I need to stick to my weekly budget.",
+        "The company approved the marketing budget.",
+        "Plan your travel budget carefully."
+      ]
+    },
+    {
+      "word": "Finance",
+      "pronunciation": "/ˈfaɪnæns/",
+      "definition": "The management of large amounts of money, especially by governments or large companies.",
+      "sentences": [
+        "He studied finance in college.",
+        "The company needs to improve its finance management.",
+        "She works in corporate finance."
+      ]
+    },
+    {
+      "word": "Money",
+      "pronunciation": "/ˈmʌni/",
+      "definition": "A current medium of exchange in the form of coins and banknotes.",
+      "sentences": [
+        "I need some money to buy groceries.",
+        "Saving money is important.",
+        "He earned a lot of money from his new job."
+      ]
+    },
+    {
+      "word": "Bank",
+      "pronunciation": "/bæŋk/",
+      "definition": "A financial establishment that lends and borrows money and provides other financial services.",
+      "sentences": [
+        "I need to go to the bank to deposit money.",
+        "She opened a new account at the bank.",
+        "The bank is open until 5 PM."
+      ]
+    },
+    {
+      "word": "Account",
+      "pronunciation": "/əˈkaʊnt/",
+      "definition": "A record or statement of financial expenditure or receipts relating to a particular period or purpose.",
+      "sentences": [
+        "I have a savings account at the bank.",
+        "Check your bank account balance.",
+        "She opened a new checking account."
+      ]
+    },
+    {
+      "word": "Deposit",
+      "pronunciation": "/dɪˈpɑːzɪt/",
+      "definition": "A sum of money placed or kept in a bank account, usually to gain interest.",
+      "sentences": [
+        "I need to deposit this check.",
+        "She made a large deposit into her savings account.",
+        "The landlord requires a security deposit."
+      ]
+    },
+    {
+      "word": "Withdraw",
+      "pronunciation": "/wɪðˈdrɔː/",
+      "definition": "To take money out of an account.",
+      "sentences": [
+        "I need to withdraw some cash from the ATM.",
+        "You can withdraw money at any time.",
+        "He decided to withdraw from the competition."
+      ]
+    },
+    {
+      "word": "Loan",
+      "pronunciation": "/loʊn/",
+      "definition": "A sum of money that is borrowed and expected to be paid back with interest.",
+      "sentences": [
+        "He took out a bank loan to start his business.",
+        "Many students take out a student loan for college.",
+        "She applied for a small loan."
+      ]
+    },
+    {
+      "word": "Debt",
+      "pronunciation": "/dɛt/",
+      "definition": "A sum of money that is owed or due.",
+      "sentences": [
+        "He is trying to pay off his student debt.",
+        "Avoid getting into too much debt.",
+        "The company is struggling with its debt."
+      ]
+    },
+    {
+      "word": "Interest rate",
+      "pronunciation": "/ˈɪntrəst reɪt/",
+      "definition": "The proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage.",
+      "sentences": [
+        "The bank offered a low interest rate on the loan.",
+        "High interest rates can make borrowing expensive.",
+        "She compared different interest rates before choosing a bank."
+      ]
+    },
+    {
+      "word": "Investment",
+      "pronunciation": "/ɪnˈvɛstmənt/",
+      "definition": "The action or process of investing money for profit or material result.",
+      "sentences": [
+        "Buying a house is a big investment.",
+        "He made a wise investment in stocks.",
+        "Education is a valuable investment in your future."
+      ]
+    },
+    {
+      "word": "Stock",
+      "pronunciation": "/stɑːk/",
+      "definition": "The capital raised by a business or corporation through the issue and subscription of shares.",
+      "sentences": [
+        "He invested in company stock.",
+        "The price of the stock went up today.",
+        "She owns a lot of stock in that company."
+      ]
+    },
+    {
+      "word": "Share",
+      "pronunciation": "/ʃɛər/",
+      "definition": "One of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
+      "sentences": [
+        "He bought shares in a tech company.",
+        "The value of the shares increased.",
+        "She owns many shares in that company."
+      ]
+    },
+    {
+      "word": "Shareholder",
+      "pronunciation": "/ˈʃɛərˌhoʊldər/",
+      "definition": "An owner of shares in a company or mutual fund.",
+      "sentences": [
+        "The company held a meeting for its shareholders.",
+        "As a shareholder, you have a say in the company's decisions.",
+        "Many small investors are also shareholders."
+      ]
+    },
+    {
+      "word": "Market",
+      "pronunciation": "/ˈmɑːrkɪt/",
+      "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+      "sentences": [
+        "I bought fresh vegetables at the farmer's market.",
+        "The stock market is volatile today.",
+        "They are trying to enter the international market."
+      ]
+    },
+    {
+      "word": "Economy",
+      "pronunciation": "/ɪˈkɑːnəmi/",
+      "definition": "The state of a country or region in terms of the production and consumption of goods and services and the supply of money.",
+      "sentences": [
+        "The country's economy is growing.",
+        "Understanding the economy is important for business.",
+        "The global economy faces challenges."
+      ]
+    },
+    {
+      "word": "Commerce",
+      "pronunciation": "/ˈkɑːmɜːrs/",
+      "definition": "The activity of buying and selling, especially on a large scale.",
+      "sentences": [
+        "International commerce is vital for many countries.",
+        "The city is a center of trade and commerce.",
+        "He studied global commerce in college."
+      ]
+    },
+    {
+      "word": "Trade",
+      "pronunciation": "/treɪd/",
+      "definition": "The action of buying and selling goods and services.",
+      "sentences": [
+        "The two countries engage in active trade.",
+        "Fair trade practices benefit producers.",
+        "He learned a skilled trade."
+      ]
+    },
+    {
+      "word": "Import",
+      "pronunciation": "/ˈɪmpɔːrt/",
+      "definition": "To bring (goods or services) into a country from abroad for sale.",
+      "sentences": [
+        "The country imports a lot of oil.",
+        "These cars are imported from Germany.",
+        "The company specializes in importing textiles."
+      ]
+    },
+    {
+      "word": "Export",
+      "pronunciation": "/ˈɛkspɔːrt/",
+      "definition": "To send (goods or services) to another country for sale.",
+      "sentences": [
+        "They export coffee to many countries.",
+        "The country's main exports are agricultural products.",
+        "The company plans to export its technology."
+      ]
+    },
+    {
+      "word": "Supply chain",
+      "pronunciation": "/səˈplaɪ tʃeɪn/",
+      "definition": "The sequence of processes involved in the production and distribution of a commodity.",
+      "sentences": [
+        "The pandemic disrupted the global supply chain.",
+        "Managing the supply chain efficiently is crucial for businesses.",
+        "He works in supply chain management."
+      ]
+    },
+    {
+      "word": "Logistics",
+      "pronunciation": "/loʊˈdʒɪstɪks/",
+      "definition": "The detailed organization and implementation of a complex operation.",
+      "sentences": [
+        "The company handles all the logistics for shipping.",
+        "Good logistics are essential for timely delivery.",
+        "He is in charge of the event logistics."
+      ]
+    },
+    {
+      "word": "Marketing",
+      "pronunciation": "/ˈmɑːrkɪtɪŋ/",
+      "definition": "The action or business of promoting and selling products or services, including market research and advertising.",
+      "sentences": [
+        "The company launched a new marketing campaign.",
+        "She studies digital marketing.",
+        "Good marketing helps attract customers."
+      ]
+    },
+    {
+      "word": "Advertising",
+      "pronunciation": "/ˈædvərˌtaɪzɪŋ/",
+      "definition": "The activity or profession of producing advertisements for commercial products or services.",
+      "sentences": [
+        "The new TV advertising campaign is very effective.",
+        "She works in the advertising industry.",
+        "Online advertising is growing rapidly."
+      ]
+    },
+    {
+      "word": "Promotion",
+      "pronunciation": "/prəˈmoʊʃn/",
+      "definition": "Activity that supports or provides active encouragement for the furtherance of a cause, venture, or aim.",
+      "sentences": [
+        "The store is running a special promotion this week.",
+        "He got a promotion at work.",
+        "The concert received a lot of promotion."
+      ]
+    },
+    {
+      "word": "Brand",
+      "pronunciation": "/brænd/",
+      "definition": "A type of product manufactured by a particular company under a particular name.",
+      "sentences": [
+        "What is your favorite clothing brand?",
+        "This is a well-known luxury brand.",
+        "The new brand quickly gained popularity."
+      ]
+    },
+    {
+      "word": "Product",
+      "pronunciation": "/ˈprɑːdʌkt/",
+      "definition": "An article or substance that is manufactured or refined for sale.",
+      "sentences": [
+        "This new product is very popular.",
+        "The company launched a new line of beauty products.",
+        "Always read the label before using a product."
+      ]
+    },
+    {
+      "word": "Service",
+      "pronunciation": "/ˈsɜːrvɪs/",
+      "definition": "The action of helping or doing work for someone.",
+      "sentences": [
+        "The hotel offers excellent customer service.",
+        "He works in the public service.",
+        "The car needs a full service."
+      ]
+    },
+    {
+      "word": "Customer service",
+      "pronunciation": "/ˈkʌstəmər ˈsɜːrvɪs/",
+      "definition": "The assistance and advice provided by a company to those people who buy or use its products or services.",
+      "sentences": [
+        "Good customer service is important for repeat business.",
+        "She works in customer service.",
+        "The company is known for its excellent customer service."
+      ]
+    },
+    {
+      "word": "Client",
+      "pronunciation": "/ˈklaɪənt/",
+      "definition": "A person or organization using the services of a lawyer or other professional person or company.",
+      "sentences": [
+        "The lawyer met with his new client.",
+        "She has many loyal clients.",
+        "The company aims to satisfy its clients."
+      ]
+    },
+    {
+      "word": "Consumer",
+      "pronunciation": "/kənˈsuːmər/",
+      "definition": "A person who purchases goods and services for personal use.",
+      "sentences": [
+        "The new law protects consumers' rights.",
+        "Consumer demand drives the economy.",
+        "She is a conscious consumer."
+      ]
+    },
+    {
+      "word": "Producer",
+      "pronunciation": "/prəˈduːsər/",
+      "definition": "A person or company that makes or grows goods.",
+      "sentences": [
+        "The country is a major producer of coffee.",
+        "He is a film producer.",
+        "The local farmers are small producers."
+      ]
+    },
+    {
+      "word": "Manufacturer",
+      "pronunciation": "/ˌmænjəˈfæktʃərər/",
+      "definition": "A person or company that makes goods for sale.",
+      "sentences": [
+        "The car manufacturer recalled some vehicles.",
+        "This phone is made by a famous manufacturer.",
+        "The manufacturer offers a warranty on its products."
+      ]
+    },
+    {
+      "word": "Retailer",
+      "pronunciation": "/ˈriːteɪlər/",
+      "definition": "A person or business that sells goods to the public.",
+      "sentences": [
+        "This online retailer has great prices.",
+        "Many small retailers are struggling.",
+        "He works for a large clothing retailer."
+      ]
+    },
+    {
+      "word": "Wholesaler",
+      "pronunciation": "/ˈhoʊlˌseɪlər/",
+      "definition": "A person or company that sells goods in large quantities at lower prices to retailers.",
+      "sentences": [
+        "We buy our products from a local wholesaler.",
+        "The wholesaler supplies many small businesses.",
+        "He is a fruit and vegetable wholesaler."
+      ]
+    },
+    {
+      "word": "Entrepreneur",
+      "pronunciation": "/ˌɑːntrəprəˈnɜːr/",
+      "definition": "A person who organizes and operates a business or businesses, taking on greater than normal financial risks in order to do so.",
+      "sentences": [
+        "She is a young and successful entrepreneur.",
+        "Many people dream of becoming an entrepreneur.",
+        "Being an entrepreneur requires creativity and risk-taking."
+      ]
+    },
+    {
+      "word": "Startup",
+      "pronunciation": "/ˈstɑːrtʌp/",
+      "definition": "A newly established business.",
+      "sentences": [
+        "He works for a tech startup.",
+        "Many new startups are emerging in the city.",
+        "The startup received funding from investors."
+      ]
+    },
+    {
+      "word": "Profit",
+      "pronunciation": "/ˈprɑːfɪt/",
+      "definition": "A financial gain, especially the difference between the amount earned and the amount spent in buying, operating, or producing something.",
+      "sentences": [
+        "The company made a large profit this quarter.",
+        "Businesses aim to make a profit.",
+        "She calculated the profit from her sales."
+      ]
+    },
+    {
+      "word": "Loss",
+      "pronunciation": "/lɔːs/",
+      "definition": "An amount of money lost by a business or organization.",
+      "sentences": [
+        "The company reported a financial loss last year.",
+        "They tried to minimize their loss.",
+        "The business incurred a small loss."
+      ]
+    },
+    {
+      "word": "Revenue",
+      "pronunciation": "/ˈrɛvəˌnuː/",
+      "definition": "Income, especially when of a company or organization and of a substantial nature.",
+      "sentences": [
+        "The company's annual revenue increased.",
+        "They are trying to boost their revenue.",
+        "Sales contribute to the overall revenue."
+      ]
+    },
+    {
+      "word": "Expense",
+      "pronunciation": "/ɪkˈspɛns/",
+      "definition": "The cost incurred in or required for something.",
+      "sentences": [
+        "Travel expenses can add up quickly.",
+        "Keep track of every expense.",
+        "Housing is a major expense for many families."
+      ]
+    },
+    {
+      "word": "Budgeting",
+      "pronunciation": "/ˈbʌdʒɪtɪŋ/",
+      "definition": "The process of creating a plan to spend your money.",
+      "sentences": [
+        "Budgeting helps me save money every month.",
+        "She is good at budgeting her expenses.",
+        "Effective budgeting is key to financial stability."
+      ]
+    },
+    {
+      "word": "Saving",
+      "pronunciation": "/ˈseɪvɪŋ/",
+      "definition": "The money one has saved, especially through a bank or other financial institution.",
+      "sentences": [
+        "I am saving money for a new car.",
+        "He is good at saving for future goals.",
+        "Start saving early for retirement."
+      ]
+    },
+    {
+      "word": "Spending",
+      "pronunciation": "/ˈspɛndɪŋ/",
+      "definition": "The action of spending money.",
+      "sentences": [
+        "She needs to cut down on her spending.",
+        "His excessive spending led to debt.",
+        "Smart spending helps you stay within your budget."
+      ]
+    },
+    {
+      "word": "Investment",
+      "pronunciation": "/ɪnˈvɛstmənt/",
+      "definition": "The action or process of investing money for profit or material result.",
+      "sentences": [
+        "Buying a house is a big investment.",
+        "He made a wise investment in stocks.",
+        "Education is a valuable investment in your future."
+      ]
+    },
+    {
+      "word": "Capital",
+      "pronunciation": "/ˈkæpɪtl/",
+      "definition": "Wealth in the form of money or other assets owned by a person or organization or available for a purpose such as starting a company or investing.",
+      "sentences": [
+        "They raised enough capital to start the business.",
+        "Access to capital is crucial for startups.",
+        "The company needs more working capital."
+      ]
+    },
+    {
+      "word": "Funding",
+      "pronunciation": "/ˈfʌndɪŋ/",
+      "definition": "Money provided, especially by an organization or government, for a particular purpose.",
+      "sentences": [
+        "The project received government funding.",
+        "They are seeking new funding for their research.",
+        "Lack of funding stopped the initiative."
+      ]
+    },
+    {
+      "word": "Grant",
+      "pronunciation": "/ɡrænt/",
+      "definition": "A sum of money given by an organization or government for a particular purpose.",
+      "sentences": [
+        "She received a research grant.",
+        "The non-profit applied for a new grant.",
+        "Many artists rely on grants to support their work."
+      ]
+    },
+    {
+      "word": "Loan",
+      "pronunciation": "/loʊn/",
+      "definition": "A sum of money that is borrowed and expected to be paid back with interest.",
+      "sentences": [
+        "He took out a bank loan to start his business.",
+        "Many students take out a student loan for college.",
+        "She applied for a small loan."
+      ]
+    },
+    {
+      "word": "Venture capital",
+      "pronunciation": "/ˈvɛntʃər ˈkæpɪtl/",
+      "definition": "Capital invested in a project in which there is a substantial element of risk, typically a new or expanding business.",
+      "sentences": [
+        "The startup secured venture capital funding.",
+        "Venture capital firms invest in high-growth companies.",
+        "They pitched their idea to several venture capital investors."
+      ]
+    },
+    {
+      "word": "Stock market",
+      "pronunciation": "/stɑːk ˈmɑːrkɪt/",
+      "definition": "A stock exchange; a market where stocks and shares are bought and sold.",
+      "sentences": [
+        "The stock market had a good day.",
+        "Investing in the stock market carries risks.",
+        "He follows the stock market news closely."
+      ]
+    },
+    {
+      "word": "Bond",
+      "pronunciation": "/bɑːnd/",
+      "definition": "A certificate of debt issued by a government or company, promising to pay back the borrowed money with interest.",
+      "sentences": [
+        "Government bonds are considered safe investments.",
+        "He invested in corporate bonds.",
+        "Bonds offer a fixed interest payment."
+      ]
+    },
+    {
+      "word": "Mutual fund",
+      "pronunciation": "/ˈmjuːtʃuəl fʌnd/",
+      "definition": "An investment program funded by shareholders that trades in diversified holdings and is professionally managed.",
+      "sentences": [
+        "She invests in a mutual fund for diversification.",
+        "Mutual funds are managed by financial experts.",
+        "He chose a low-cost mutual fund."
+      ]
+    },
+    {
+      "word": "Diversification",
+      "pronunciation": "/daɪˌvɜːrsɪfɪˈkeɪʃn/",
+      "definition": "The process of a business enlarging or varying its range of products or fields of operation.",
+      "sentences": [
+        "Diversification helps reduce investment risk.",
+        "The company is pursuing diversification into new markets.",
+        "A varied portfolio shows good diversification."
+      ]
+    },
+    {
+      "word": "Portfolio",
+      "pronunciation": "/pɔːrtˈfoʊliˌoʊ/",
+      "definition": "A range of investments held by an organization or person.",
+      "sentences": [
+        "He diversified his investment portfolio.",
+        "Her portfolio includes stocks and bonds.",
+        "A financial advisor can help manage your portfolio."
+      ]
+    },
+    {
+      "word": "Risk",
+      "pronunciation": "/rɪsk/",
+      "definition": "A situation involving exposure to danger.",
+      "sentences": [
+        "Every investment carries some risk.",
+        "He took a calculated risk with his business.",
+        "Assess the risk before making a decision."
+      ]
+    },
+    {
+      "word": "Return on investment (ROI)",
+      "pronunciation": "/rɪˈtɜːrn ɑːn ɪnˈvɛstmənt/",
+      "definition": "A performance measure used to evaluate the efficiency of an investment or compare the efficiency of a number of different investments.",
+      "sentences": [
+        "The project showed a high return on investment.",
+        "Businesses always look for a good ROI.",
+        "Calculate the potential return on investment before starting."
+      ]
+    },
+    {
+      "word": "Budgeting app",
+      "pronunciation": "/ˈbʌdʒɪtɪŋ æp/",
+      "definition": "A mobile application designed to help users manage their finances and track their spending.",
+      "sentences": [
+        "I use a budgeting app to keep track of my money.",
+        "This budgeting app helps me stay within my limits.",
+        "Many free budgeting apps are available."
+      ]
+    },
+    {
+      "word": "Online banking",
+      "pronunciation": "/ˈɑːnˌlaɪn ˈbæŋkɪŋ/",
+      "definition": "The practice of conducting financial transactions via the Internet.",
+      "sentences": [
+        "I use online banking to pay my bills.",
+        "Online banking is very convenient and secure.",
+        "She prefers online banking to visiting the branch."
+      ]
+    },
+    {
+      "word": "Mobile payment",
+      "pronunciation": "/ˈmoʊbl ˈpeɪmənt/",
+      "definition": "Payment for goods or services using a mobile phone.",
+      "sentences": [
+        "You can make a mobile payment using your phone.",
+        "Many stores now accept mobile payments.",
+        "Mobile payment is becoming increasingly popular."
+      ]
+    },
+    {
+      "word": "Contactless payment",
+      "pronunciation": "/ˈkɑːntæktləs ˈpeɪmənt/",
+      "definition": "A secure method for consumers to purchase products or services using a debit, credit, or smart card by tapping it against a payment terminal.",
+      "sentences": [
+        "I used contactless payment for my groceries.",
+        "Many cards now offer contactless payment.",
+        "Contactless payment is fast and convenient."
+      ]
+    },
+    {
+      "word": "Cryptocurrency",
+      "pronunciation": "/ˈkrɪptoʊˌkʌrənsi/",
+      "definition": "A digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority.",
+      "sentences": [
+        "Bitcoin is a well-known cryptocurrency.",
+        "Investing in cryptocurrency can be risky.",
+        "The value of cryptocurrency can fluctuate greatly."
+      ]
+    },
+    {
+      "word": "Blockchain",
+      "pronunciation": "/ˈblɑːkˌtʃeɪn/",
+      "definition": "A decentralized, distributed ledger technology that records transactions across many computers.",
+      "sentences": [
+        "Blockchain technology is used for cryptocurrencies.",
+        "Many industries are exploring the use of blockchain.",
+        "The security of blockchain is a key feature."
+      ]
+    },
+    {
+      "word": "Financial literacy",
+      "pronunciation": "/faɪˈnænʃl ˈlɪtərəsi/",
+      "definition": "The ability to understand and effectively use various financial skills, including personal financial management, budgeting, and investing.",
+      "sentences": [
+        "Schools are now teaching financial literacy to students.",
+        "Improving your financial literacy helps you make better money decisions.",
+        "He attended a workshop on financial literacy."
+      ]
+    },
+    {
+      "word": "Economic growth",
+      "pronunciation": "/ˌiːkəˈnɑːmɪk ɡroʊθ/",
+      "definition": "An increase in the amount of goods and services produced per head of the population over a period of time.",
+      "sentences": [
+        "The government aims to achieve sustainable economic growth.",
+        "Innovation can drive economic growth.",
+        "Many factors contribute to a nation's economic growth."
+      ]
+    },
+    {
+      "word": "Inflation",
+      "pronunciation": "/ɪnˈfleɪʃn/",
+      "definition": "A general increase in prices and fall in the purchasing value of money.",
+      "sentences": [
+        "High inflation makes goods more expensive.",
+        "The central bank is trying to control inflation.",
+        "Inflation can reduce the value of savings."
+      ]
+    },
+    {
+      "word": "Deflation",
+      "pronunciation": "/dɪˈfleɪʃn/",
+      "definition": "A reduction in the general level of prices in an economy.",
+      "sentences": [
+        "Deflation can lead to reduced consumer spending.",
+        "The economy experienced a period of deflation.",
+        "Governments try to avoid prolonged deflation."
+      ]
+    },
+    {
+      "word": "Recession",
+      "pronunciation": "/rɪˈsɛʃn/",
+      "definition": "A period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.",
+      "sentences": [
+        "Many businesses struggle during a recession.",
+        "The country is trying to recover from the recession.",
+        "Job losses often occur during a recession."
+      ]
+    },
+    {
+      "word": "Boom",
+      "pronunciation": "/buːm/",
+      "definition": "A period of great prosperity or rapid economic growth.",
+      "sentences": [
+        "The tech industry experienced a rapid boom.",
+        "The economy is in a boom period.",
+        "A housing boom can lead to higher prices."
+      ]
+    },
+    {
+      "word": "Global economy",
+      "pronunciation": "/ˈɡloʊbl ɪˈkɑːnəmi/",
+      "definition": "The worldwide economic system.",
+      "sentences": [
+        "Events in one country can affect the entire global economy.",
+        "The global economy is highly interconnected.",
+        "Understanding the global economy is important for international business."
+      ]
+    },
+    {
+      "word": "Free market",
+      "pronunciation": "/friː ˈmɑːrkɪt/",
+      "definition": "An economic system in which prices are determined by unrestricted competition between privately owned businesses.",
+      "sentences": [
+        "The country operates on a free market system.",
+        "A free market encourages competition and innovation.",
+        "Critics argue about the fairness of a pure free market."
+      ]
+    },
+    {
+      "word": "Capitalism",
+      "pronunciation": "/ˈkæpɪtəlɪzəm/",
+      "definition": "An economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.",
+      "sentences": [
+        "Many Western countries operate under capitalism.",
+        "Capitalism encourages entrepreneurship.",
+        "The debate often centers on the pros and cons of capitalism."
+      ]
+    },
+    {
+      "word": "Socialism",
+      "pronunciation": "/ˈsoʊʃəˌlɪzəm/",
+      "definition": "A political and economic theory of social organization which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.",
+      "sentences": [
+        "Some countries have elements of socialism in their economy.",
+        "Socialism often emphasizes social welfare.",
+        "The discussion compared socialism and capitalism."
+      ]
+    },
+    {
+      "word": "Globalization",
+      "pronunciation": "/ˌɡloʊbəlɪˈzeɪʃn/",
+      "definition": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+      "sentences": [
+        "Globalization has increased international trade.",
+        "The internet has accelerated globalization.",
+        "Understanding globalization is key in modern business."
+      ]
+    },
+    {
+      "word": "Supply and demand",
+      "pronunciation": "/səˈplaɪ ənd dɪˈmænd/",
+      "definition": "The amount of a commodity, product, or service available and the desire of buyers for it, considered as factors regulating its price.",
+      "sentences": [
+        "The price of oil is influenced by supply and demand.",
+        "Economists study the principles of supply and demand.",
+        "When supply and demand are balanced, prices are stable."
+      ]
+    },
+    {
+      "word": "GDP (Gross Domestic Product)",
+      "pronunciation": "/ˌdʒiː diː ˈpiː/",
+      "definition": "The total value of goods produced and services provided in a country during one year.",
+      "sentences": [
+        "The country's GDP grew by 2% last quarter.",
+        "GDP is a key indicator of economic health.",
+        "A higher GDP often means a stronger economy."
+      ]
+    },
+    {
+      "word": "Inflation rate",
+      "pronunciation": "/ɪnˈfleɪʃn reɪt/",
+      "definition": "The rate at which the general level of prices for goods and services is rising, and subsequently, the purchasing power of currency is falling.",
+      "sentences": [
+        "The central bank aims to keep the inflation rate low.",
+        "A high inflation rate can erode savings.",
+        "The government is concerned about the rising inflation rate."
+      ]
+    },
+    {
+      "word": "Unemployment rate",
+      "pronunciation": "/ˌʌnɪmˈplɔɪmənt reɪt/",
+      "definition": "The percentage of the total labor force that is unemployed but actively seeking employment and willing to work.",
+      "sentences": [
+        "The unemployment rate decreased last month.",
+        "A low unemployment rate indicates a strong job market.",
+        "The government introduced policies to reduce the unemployment rate."
+      ]
+    },
+    {
+      "word": "Interest rates",
+      "pronunciation": "/ˈɪntrəst reɪts/",
+      "definition": "The proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage.",
+      "sentences": [
+        "The central bank raised interest rates.",
+        "High interest rates can make borrowing expensive.",
+        "She compared different interest rates before choosing a bank."
+      ]
+    },
+    {
+      "word": "Fiscal policy",
+      "pronunciation": "/ˈfɪskl ˈpɑːləsi/",
+      "definition": "The means by which a government adjusts its spending levels and tax rates to monitor and influence a nation's economy.",
+      "sentences": [
+        "The government announced a new fiscal policy.",
+        "Fiscal policy can impact economic growth.",
+        "Economists debate the effectiveness of various fiscal policies."
+      ]
+    },
+    {
+      "word": "Monetary policy",
+      "pronunciation": "/ˈmɑːnɪtɛri ˈpɑːləsi/",
+      "definition": "The process by which the monetary authority of a country controls the supply of money, often targeting an inflation rate or interest rate to ensure price stability and general trust in the currency.",
+      "sentences": [
+        "The central bank sets the monetary policy.",
+        "Monetary policy influences borrowing and lending.",
+        "Changes in monetary policy can affect the economy."
+      ]
+    },
+    {
+      "word": "Supply side",
+      "pronunciation": "/səˈplaɪ saɪd/",
+      "definition": "The part of an economy that produces goods and services.",
+      "sentences": [
+        "The government is focusing on the supply side of the economy.",
+        "Policies aimed at boosting the supply side include tax cuts.",
+        "Improving the supply side can lead to economic growth."
+      ]
+    },
+    {
+      "word": "Demand side",
+      "pronunciation": "/dɪˈmænd saɪd/",
+      "definition": "The part of an economy that consumes goods and services.",
+      "sentences": [
+        "Stimulating the demand side can help a recession.",
+        "Consumer spending is a key component of the demand side.",
+        "Policies like unemployment benefits support the demand side."
+      ]
+    },
+    {
+      "word": "Gross profit",
+      "pronunciation": "/ɡroʊs ˈprɑːfɪt/",
+      "definition": "The profit a company makes after deducting the costs associated with making and selling its products, or the costs associated with providing its services.",
+      "sentences": [
+        "The company's gross profit increased this quarter.",
+        "Calculating gross profit is the first step in financial analysis.",
+        "A higher gross profit indicates efficient production."
+      ]
+    },
+    {
+      "word": "Net profit",
+      "pronunciation": "/nɛt ˈprɑːfɪt/",
+      "definition": "The actual profit after working expenses and taxes have been paid.",
+      "sentences": [
+        "The company reported a significant net profit.",
+        "Investors are interested in the net profit.",
+        "Her business achieved a healthy net profit."
+      ]
+    },
+    {
+      "word": "Balance sheet",
+      "pronunciation": "/ˈbæləns ʃiːt/",
+      "definition": "A statement of the assets, liabilities, and capital of a business or other organization at a particular point in time, detailing the balance of income and expenditure over the preceding period.",
+      "sentences": [
+        "The accountant prepared the company's balance sheet.",
+        "A balance sheet provides a snapshot of a company's financial health.",
+        "She reviewed the balance sheet before making a decision."
+      ]
+    },
+    {
+      "word": "Income statement",
+      "pronunciation": "/ˈɪnkʌm ˈsteɪtmənt/",
+      "definition": "A financial statement that reports a company's financial performance over a specific accounting period.",
+      "sentences": [
+        "The income statement shows the company's revenues and expenses.",
+        "Investors analyze the income statement to assess profitability.",
+        "She learned how to read an income statement."
+      ]
+    },
+    {
+      "word": "Cash flow",
+      "pronunciation": "/kæʃ floʊ/",
+      "definition": "The total amount of money being transferred into and out of a business.",
+      "sentences": [
+        "Positive cash flow is essential for a healthy business.",
+        "The company is managing its cash flow carefully.",
+        "Lack of cash flow can lead to financial problems."
+      ]
+    },
+    {
+      "word": "Assets",
+      "pronunciation": "/ˈæsɛts/",
+      "definition": "Property owned by a person or company, regarded as having value and available to meet debts, commitments, or legacies.",
+      "sentences": [
+        "The company's assets include buildings and equipment.",
+        "He has many valuable assets.",
+        "Understanding your assets is part of financial planning."
+      ]
+    },
+    {
+      "word": "Liabilities",
+      "pronunciation": "/ˌlaɪəˈbɪlətiz/",
+      "definition": "The state of being responsible for something, especially by law.",
+      "sentences": [
+        "The company's liabilities include debts and loans.",
+        "Manage your financial liabilities carefully.",
+        "The balance sheet lists both assets and liabilities."
+      ]
+    },
+    {
+      "word": "Equity",
+      "pronunciation": "/ˈɛkwɪti/",
+      "definition": "The value of the shares issued by a company.",
+      "sentences": [
+        "He owns a significant amount of equity in the startup.",
+        "Shareholders have equity in the company.",
+        "The company's equity increased after a successful year."
+      ]
+    },
+    {
+      "word": "Audit",
+      "pronunciation": "/ˈɔːdɪt/",
+      "definition": "An official inspection of an individual's or organization's accounts, typically by an independent body.",
+      "sentences": [
+        "The company undergoes an annual financial audit.",
+        "The tax department decided to audit his records.",
+        "An independent audit ensures transparency."
+      ]
+    },
+    {
+      "word": "Compliance",
+      "pronunciation": "/kəmˈplaɪəns/",
+      "definition": "The action or fact of obeying a wish or command.",
+      "sentences": [
+        "The company must ensure compliance with all regulations.",
+        "Legal compliance is crucial for businesses.",
+        "He works in the compliance department."
+      ]
+    },
+    {
+      "word": "Regulation",
+      "pronunciation": "/ˌrɛɡjuˈleɪʃn/",
+      "definition": "A rule or directive made and maintained by an authority.",
+      "sentences": [
+        "New government regulations affect the industry.",
+        "The company must follow strict safety regulations.",
+        "Environmental regulations protect the planet."
+      ]
+    },
+    {
+      "word": "Corporate governance",
+      "pronunciation": "/ˈkɔːrpərət ˈɡʌvərnəns/",
+      "definition": "The system of rules, practices, and processes by which a company is directed and controlled.",
+      "sentences": [
+        "Good corporate governance promotes transparency.",
+        "The company revised its corporate governance policies.",
+        "Effective corporate governance builds investor trust."
+      ]
+    },
+    {
+      "word": "Ethics",
+      "pronunciation": "/ˈɛθɪks/",
+      "definition": "Moral principles that govern a person's behavior or the conducting of an activity.",
+      "sentences": [
+        "Business ethics are very important.",
+        "The company has a strong code of ethics.",
+        "He always acts with integrity and ethics."
+      ]
+    },
+    {
+      "word": "Sustainability",
+      "pronunciation": "/səˌsteɪnəˈbɪləti/",
+      "definition": "The ability to be maintained at a certain rate or level.",
+      "sentences": [
+        "The company focuses on environmental sustainability.",
+        "Economic sustainability is crucial for long-term growth.",
+        "They are working towards greater sustainability in their operations."
+      ]
+    },
+    {
+      "word": "Corporate social responsibility (CSR)",
+      "pronunciation": "/ˈkɔːrpərət ˈsoʊʃl rɪˌspɑːnsəˈbɪləti/",
+      "definition": "A business approach that contributes to sustainable development by delivering economic, social and environmental benefits for all stakeholders.",
+      "sentences": [
+        "Many companies engage in CSR initiatives.",
+        "Their CSR program supports local communities.",
+        "Corporate social responsibility is becoming more important for businesses."
+      ]
+    },
+    {
+      "word": "Stakeholder",
+      "pronunciation": "/ˈsteɪkˌhoʊldər/",
+      "definition": "A person with an interest or concern in something, especially a business.",
+      "sentences": [
+        "The company consulted all its stakeholders.",
+        "Employees, customers, and investors are all stakeholders.",
+        "Meeting the needs of all stakeholders is a challenge."
+      ]
+    },
+    {
+      "word": "Shareholder",
+      "pronunciation": "/ˈʃɛərˌhoʊldər/",
+      "definition": "An owner of shares in a company or mutual fund.",
+      "sentences": [
+        "The company held a meeting for its shareholders.",
+        "As a shareholder, you have a say in the company's decisions.",
+        "Many small investors are also shareholders."
+      ]
+    },
+    {
+      "word": "Investor",
+      "pronunciation": "/ɪnˈvɛstər/",
+      "definition": "A person or organization that puts money into financial schemes, property, etc., with the expectation of achieving a profit.",
+      "sentences": [
+        "He is a long-term investor in the stock market.",
+        "The startup is looking for new investors.",
+        "She is a savvy investor."
+      ]
+    },
+    {
+      "word": "Creditor",
+      "pronunciation": "/ˈkrɛdɪtər/",
+      "definition": "A person or company to whom money is owed.",
+      "sentences": [
+        "The company owes money to its creditors.",
+        "The bank is a major creditor.",
+        "They negotiated with their creditors."
+      ]
+    },
+    {
+      "word": "Debtor",
+      "pronunciation": "/ˈdɛtər/",
+      "definition": "A person or institution that owes a sum of money.",
+      "sentences": [
+        "The company is trying to collect from its debtors.",
+        "He is a responsible debtor.",
+        "The bank contacted the debtor about the overdue payment."
+      ]
+    },
+    {
+      "word": "Bankruptcy",
+      "pronunciation": "/ˈbæŋkrʌptsi/",
+      "definition": "The state of being unable to pay your debts.",
+      "sentences": [
+        "The company filed for bankruptcy.",
+        "He avoided bankruptcy by restructuring his debt.",
+        "Bankruptcy can have long-term financial consequences."
+      ]
+    },
+    {
+      "word": "Merger",
+      "pronunciation": "/ˈmɜːrdʒər/",
+      "definition": "A combination of two things, especially companies, into one.",
+      "sentences": [
+        "The two companies announced a merger.",
+        "The merger will create a larger company.",
+        "The merger is expected to be completed next year."
+      ]
+    },
+    {
+      "word": "Acquisition",
+      "pronunciation": "/ˌækwɪˈzɪʃn/",
+      "definition": "An asset or object bought or obtained, typically by a library or museum.",
+      "sentences": [
+        "The larger company made an acquisition of the smaller firm.",
+        "The recent acquisition expanded their market share.",
+        "They are planning another acquisition next year."
+      ]
+    },
+    {
+      "word": "Partnership",
+      "pronunciation": "/ˈpɑːrtnərˌʃɪp/",
+      "definition": "The state of being partners or members of a partnership.",
+      "sentences": [
+        "They formed a new business partnership.",
+        "The two companies entered into a strategic partnership.",
+        "A strong partnership is built on trust."
+      ]
+    },
+    {
+      "word": "Joint venture",
+      "pronunciation": "/dʒɔɪnt ˈvɛntʃər/",
+      "definition": "A commercial enterprise undertaken jointly by two or more parties that otherwise retain their distinct identities.",
+      "sentences": [
+        "The two companies formed a joint venture for the new project.",
+        "They entered into a joint venture to develop new technology.",
+        "The joint venture allowed them to share risks and resources."
+      ]
+    },
+    {
+      "word": "Franchise",
+      "pronunciation": "/ˈfrænˌtʃaɪz/",
+      "definition": "An authorization granted by a government or company to an individual or group enabling them to carry out specified commercial activities.",
+      "sentences": [
+        "He bought a fast-food franchise.",
+        "Many popular restaurants operate as a franchise.",
+        "Owning a franchise can be a good business opportunity."
+      ]
+    },
+    {
+      "word": "License",
+      "pronunciation": "/ˈlaɪsns/",
+      "definition": "A permit from an authority to own or use something, do a particular thing, or carry on a trade.",
+      "sentences": [
+        "You need a license to drive a car.",
+        "The company obtained a license to use the software.",
+        "She has a business license."
+      ]
+    },
+    {
+      "word": "Patent",
+      "pronunciation": "/ˈpætnt/",
+      "definition": "A government authority or license conferring a sole right or title to exclude others from making, using, or selling an invention.",
+      "sentences": [
+        "He applied for a patent for his new invention.",
+        "The company holds many valuable patents.",
+        "Protect your intellectual property with a patent."
+      ]
+    },
+    {
+      "word": "Trademark",
+      "pronunciation": "/ˈtreɪdˌmɑːrk/",
+      "definition": "A symbol, word, or words legally registered or established by use as representing a company or product.",
+      "sentences": [
+        "The company registered its logo as a trademark.",
+        "The brand name is a protected trademark.",
+        "Using a trademark without permission is illegal."
+      ]
+    },
+    {
+      "word": "Copyright",
+      "pronunciation": "/ˈkɑːpiˌraɪt/",
+      "definition": "The exclusive legal right, given to an originator or an assignee to print, publish, perform, film, or record literary, artistic, or musical material, and to authorize others to do the same.",
+      "sentences": [
+        "The book is protected by copyright.",
+        "Do not use copyrighted material without permission.",
+        "He owns the copyright to his songs."
+      ]
+    },
+    {
+      "word": "Intellectual property (IP)",
+      "pronunciation": "/ˌɪntəˈlɛktʃuəl ˈprɑːpərti/",
+      "definition": "Creations of the mind, such as inventions; literary and artistic works; designs; and symbols, names and images used in commerce.",
+      "sentences": [
+        "Protecting intellectual property is crucial for businesses.",
+        "Patents and trademarks are forms of IP.",
+        "She specializes in intellectual property law."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "pronunciation": "/ˌɪnəˈveɪʃn/",
+      "definition": "The introduction of new ideas, methods, or products.",
+      "sentences": [
+        "The company is known for its innovation.",
+        "Technological innovation drives economic growth.",
+        "His project showed great innovation."
+      ]
+    },
+    {
+      "word": "Research and development (R&D)",
+      "pronunciation": "/rɪˈsɜːrtʃ ənd dɪˈvɛləpmənt/",
+      "definition": "Activities undertaken by corporations or governments in developing new services or products, or improving existing ones.",
+      "sentences": [
+        "The company invests heavily in R&D.",
+        "Their new product is a result of years of research and development.",
+        "He works in the R&D department."
+      ]
+    },
+    {
+      "word": "Market research",
+      "pronunciation": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
+      "definition": "The action or activity of gathering information about consumers' needs and preferences.",
+      "sentences": [
+        "Before launching the product, they conducted extensive market research.",
+        "Market research helps companies understand their customers.",
+        "He works in market research for a large corporation."
+      ]
+    },
+    {
+      "word": "Market share",
+      "pronunciation": "/ˈmɑːrkɪt ʃɛər/",
+      "definition": "The portion of a market controlled by a particular company or product.",
+      "sentences": [
+        "The company aims to increase its market share.",
+        "They lost market share to a new competitor.",
+        "A strong brand can help maintain market share."
+      ]
+    },
+    {
+      "word": "Competitor",
+      "pronunciation": "/kəmˈpɛtɪtər/",
+      "definition": "A person or company trying to win or gain something against another.",
+      "sentences": [
+        "Their main competitor launched a similar product.",
+        "The company needs to watch its competitors closely.",
+        "They are a strong competitor in the industry."
+      ]
+    },
+    {
+      "word": "Competitive advantage",
+      "pronunciation": "/kəmˈpɛtɪtɪv ədˈvæntɪdʒ/",
+      "definition": "A condition or circumstance that puts a company in a favorable or superior business position.",
+      "sentences": [
+        "Innovation gives them a competitive advantage.",
+        "Their low prices provide a strong competitive advantage.",
+        "Finding a unique selling proposition creates a competitive advantage."
+      ]
+    },
+    {
+      "word": "Strategy",
+      "pronunciation": "/ˈstrætədʒi/",
+      "definition": "A plan of action or policy designed to achieve a major or overall aim.",
+      "sentences": [
+        "The company developed a new business strategy.",
+        "What is your long-term strategy?",
+        "They implemented a successful marketing strategy."
+      ]
+    },
+    {
+      "word": "Goal",
+      "pronunciation": "/ɡoʊl/",
+      "definition": "The object of a person's ambition or effort; an aim or desired result.",
+      "sentences": [
+        "My goal is to start my own business.",
+        "Set clear goals for your company.",
+        "Working together helps us reach our goals."
+      ]
+    },
+    {
+      "word": "Objective",
+      "pronunciation": "/əbˈdʒɛktɪv/",
+      "definition": "A thing aimed at or sought; a goal.",
+      "sentences": [
+        "The main objective of the project is to increase sales.",
+        "Set clear and measurable objectives.",
+        "Achieving this objective will be challenging."
+      ]
+    },
+    {
+      "word": "Mission statement",
+      "pronunciation": "/ˈmɪʃn ˈsteɪtmənt/",
+      "definition": "A formal summary of the aims and values of a company, organization, or individual.",
+      "sentences": [
+        "The company's mission statement focuses on customer satisfaction.",
+        "Every business should have a clear mission statement.",
+        "The new mission statement reflects their updated values."
+      ]
+    },
+    {
+      "word": "Vision statement",
+      "pronunciation": "/ˈvɪʒn ˈsteɪtmənt/",
+      "definition": "A declaration of an organization's objectives, intended to guide its internal decision-making and to inform the public about what the organization plans to become.",
+      "sentences": [
+        "The vision statement describes where the company wants to be in the future.",
+        "A strong vision statement inspires employees.",
+        "Their vision statement is about creating a better world."
+      ]
+    },
+    {
+      "word": "Core values",
+      "pronunciation": "/kɔːr ˈvæljuːz/",
+      "definition": "The fundamental beliefs of a person or organization.",
+      "sentences": [
+        "Integrity and innovation are our company's core values.",
+        "They operate based on their strong core values.",
+        "The new employee learned about the company's core values."
+      ]
+    },
+    {
+      "word": "Human resources (HR)",
+      "pronunciation": "/ˈhjuːmən rɪˈsɔːrsɪz/",
+      "definition": "The department of a business or organization that deals with the hiring, administration, and training of personnel.",
+      "sentences": [
+        "Contact HR for questions about your benefits.",
+        "She works in Human Resources.",
+        "The HR department handles employee relations."
+      ]
+    },
+    {
+      "word": "Recruitment",
+      "pronunciation": "/rɪˈkruːtmənt/",
+      "definition": "The action of finding new people to join an organization or company.",
+      "sentences": [
+        "The company is actively engaged in recruitment for new roles.",
+        "They have a strong recruitment team.",
+        "Online platforms are popular for recruitment."
+      ]
+    },
+    {
+      "word": "Training",
+      "pronunciation": "/ˈtreɪnɪŋ/",
+      "definition": "The action of teaching a person or animal a particular skill or type of behavior.",
+      "sentences": [
+        "New employees undergo extensive training.",
+        "She attended a sales training workshop.",
+        "The company provides ongoing training for its staff."
+      ]
+    },
+    {
+      "word": "Performance review",
+      "pronunciation": "/pərˈfɔːrməns rɪˈvjuː/",
+      "definition": "A regular meeting in which an employee's work is evaluated.",
+      "sentences": [
+        "He had his annual performance review yesterday.",
+        "The performance review helps employees improve.",
+        "She received positive feedback in her performance review."
+      ]
+    },
+    {
+      "word": "Promotion",
+      "pronunciation": "/prəˈmoʊʃn/",
+      "definition": "The action of promoting someone to a higher position or rank.",
+      "sentences": [
+        "He received a promotion to manager.",
+        "She worked hard for her promotion.",
+        "The company announced several promotions."
+      ]
+    },
+    {
+      "word": "Demotion",
+      "pronunciation": "/dɪˈmoʊʃn/",
+      "definition": "The action of reducing someone to a lower rank or position.",
+      "sentences": [
+        "He faced a demotion due to poor performance.",
+        "A demotion can be a difficult experience.",
+        "The company rarely issues a demotion."
+      ]
+    },
+    {
+      "word": "Resignation",
+      "pronunciation": "/ˌrɛzɪɡˈneɪʃn/",
+      "definition": "The act of giving up one's office, post, or position.",
+      "sentences": [
+        "He submitted his resignation letter.",
+        "Her sudden resignation surprised everyone.",
+        "The manager accepted his resignation."
+      ]
+    },
+    {
+      "word": "Layoff",
+      "pronunciation": "/ˈleɪˌɔːf/",
+      "definition": "A temporary or permanent termination of employment by an employer, often due to economic conditions.",
+      "sentences": [
+        "Many workers faced layoffs during the recession.",
+        "The company announced a series of layoffs.",
+        "He was affected by the recent layoff."
+      ]
+    },
+    {
+      "word": "Retirement",
+      "pronunciation": "/rɪˈtaɪərmənt/",
+      "definition": "The action or fact of leaving one's job and ceasing to work.",
+      "sentences": [
+        "She is looking forward to her retirement.",
+        "He plans to travel after retirement.",
+        "His retirement party was well-attended."
+      ]
+    },
+    {
+      "word": "Pension",
+      "pronunciation": "/ˈpɛnʃn/",
+      "definition": "A regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life.",
+      "sentences": [
+        "He receives a monthly pension after retirement.",
+        "She is planning for her pension.",
+        "Many companies offer a pension plan."
+      ]
+    },
+    {
+      "word": "Benefit",
+      "pronunciation": "/ˈbɛnɪfɪt/",
+      "definition": "An advantage or profit gained from something.",
+      "sentences": [
+        "The job offers good health benefits.",
+        "What are the benefits of this new policy?",
+        "He received unemployment benefits."
+      ]
+    },
+    {
+      "word": "Healthcare",
+      "pronunciation": "/ˈhɛlθˌkɛər/",
+      "definition": "The organized provision of medical care to individuals or a community.",
+      "sentences": [
+        "Access to affordable healthcare is a basic right.",
+        "The country has a universal healthcare system.",
+        "She works in the healthcare industry."
+      ]
+    },
+    {
+      "word": "Insurance",
+      "pronunciation": "/ɪnˈʃʊrəns/",
+      "definition": "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.",
+      "sentences": [
+        "Make sure you have health insurance.",
+        "My travel insurance covers medical emergencies.",
+        "She pays a monthly premium for her insurance."
+      ]
+    },
+    {
+      "word": "Policy",
+      "pronunciation": "/ˈpɑːləsi/",
+      "definition": "A course or principle of action adopted or proposed by a government, party, business, or individual.",
+      "sentences": [
+        "The company has a strict no-smoking policy.",
+        "What is the government's economic policy?",
+        "They discussed the new privacy policy."
+      ]
+    },
+    {
+      "word": "Regulation",
+      "pronunciation": "/ˌrɛɡjuˈleɪʃn/",
+      "definition": "A rule or directive made and maintained by an authority.",
+      "sentences": [
+        "New government regulations affect the industry.",
+        "The company must follow strict safety regulations.",
+        "Environmental regulations protect the planet."
+      ]
+    },
+    {
+      "word": "Law",
+      "pronunciation": "/lɔː/",
+      "definition": "The system of rules that a particular country or community recognizes as regulating the actions of its members and may enforce by the imposition of penalties.",
+      "sentences": [
+        "It's against the law to steal.",
+        "The new law will protect consumers.",
+        "He studied law in university."
+      ]
+    },
+    {
+      "word": "Contract",
+      "pronunciation": "/ˈkɑːntrækt/",
+      "definition": "A written or spoken agreement, especially one concerning employment, sales, or tenancy, that is intended to be enforceable by law.",
+      "sentences": [
+        "He signed the employment contract.",
+        "Read the contract carefully before signing.",
+        "The two companies entered into a new contract."
+      ]
+    },
+    {
+      "word": "Agreement",
+      "pronunciation": "/əˈɡriːmənt/",
+      "definition": "Harmony or accordance in opinion or feeling.",
+      "sentences": [
+        "They reached an agreement on the terms.",
+        "The two parties signed a formal agreement.",
+        "We are in full agreement on this matter."
+      ]
+    },
+    {
+      "word": "Negotiation",
+      "pronunciation": "/nɪˌɡoʊʃiˈeɪʃn/",
+      "definition": "Discussion aimed at reaching an agreement.",
+      "sentences": [
+        "Successful negotiation requires flexibility.",
+        "They entered into negotiation to resolve the dispute.",
+        "The terms of the agreement were reached after long negotiations."
+      ]
+    },
+    {
+      "word": "Arbitration",
+      "pronunciation": "/ˌɑːrbɪˈtreɪʃn/",
+      "definition": "The use of an arbitrator to settle a dispute.",
+      "sentences": [
+        "They decided to go for arbitration instead of court.",
+        "Arbitration can be a faster way to resolve disputes.",
+        "The dispute was settled through binding arbitration."
+      ]
+    },
+    {
+      "word": "Mediation",
+      "pronunciation": "/ˌmiːdiˈeɪʃn/",
+      "definition": "Intervention in a dispute in order to resolve it; arbitration.",
+      "sentences": [
+        "They opted for mediation to settle their differences.",
+        "The mediator helped with the mediation process.",
+        "Mediation can help avoid court battles."
+      ]
+    },
+    {
+      "word": "Lawsuit",
+      "pronunciation": "/ˈlɔːˌsuːt/",
+      "definition": "A claim or dispute brought to a court of law for adjudication.",
+      "sentences": [
+        "The company faced a lawsuit from its former employee.",
+        "They filed a lawsuit for breach of contract.",
+        "The lawsuit dragged on for years."
+      ]
+    },
+    {
+      "word": "Litigation",
+      "pronunciation": "/ˌlɪtɪˈɡeɪʃn/",
+      "definition": "The process of taking legal action.",
+      "sentences": [
+        "The company is involved in a complex litigation.",
+        "Avoid litigation whenever possible.",
+        "He specializes in commercial litigation."
+      ]
+    },
+    {
+      "word": "Legal advice",
+      "pronunciation": "/ˈliːɡl ədˈvaɪs/",
+      "definition": "Professional advice about the law.",
+      "sentences": [
+        "Seek legal advice before signing any contract.",
+        "He received good legal advice from his lawyer.",
+        "The organization provides free legal advice."
+      ]
+    },
+    {
+      "word": "Attorney",
+      "pronunciation": "/əˈtɜːrni/",
+      "definition": "A person, typically a lawyer, appointed to act for another in business or legal matters.",
+      "sentences": [
+        "He hired an attorney to represent him.",
+        "The attorney advised him on his rights.",
+        "She is a corporate attorney."
+      ]
+    },
+    {
+      "word": "Lawyer",
+      "pronunciation": "/ˈlɔːjər/",
+      "definition": "A person who practices or studies law, especially (in the UK) a solicitor or (in the US) an attorney.",
+      "sentences": [
+        "My sister is a lawyer.",
+        "He consulted a lawyer about his case.",
+        "The lawyer presented a strong argument."
+      ]
+    },
+    {
+      "word": "Court",
+      "pronunciation": "/kɔːrt/",
+      "definition": "A body of people presided over by a judge, judges, or magistrate, and acting as a tribunal in civil and criminal cases.",
+      "sentences": [
+        "The case went to court.",
+        "He appeared in court for his hearing.",
+        "The judge presided over the court."
+      ]
+    },
+    {
+      "word": "Judge",
+      "pronunciation": "/dʒʌdʒ/",
+      "definition": "A public officer appointed to decide cases in a law court.",
+      "sentences": [
+        "The judge made a ruling.",
+        "The judge listened to all the evidence.",
+        "He wants to become a judge."
+      ]
+    },
+    {
+      "word": "Jury",
+      "pronunciation": "/ˈdʒʊri/",
+      "definition": "A body of people (typically twelve in number) sworn to give a verdict in a legal case on the basis of evidence submitted to them in court.",
+      "sentences": [
+        "The jury delivered its verdict.",
+        "The lawyer presented his case to the jury.",
+        "The jury listened carefully to the witnesses."
+      ]
+    },
+    {
+      "word": "Verdict",
+      "pronunciation": "/ˈvɜːrdɪkt/",
+      "definition": "A decision on a disputed issue in a civil or criminal case or an inquest.",
+      "sentences": [
+        "The verdict was not guilty.",
+        "Everyone waited anxiously for the verdict.",
+        "The jury returned a unanimous verdict."
+      ]
+    },
+    {
+      "word": "Witness",
+      "pronunciation": "/ˈwɪtnəs/",
+      "definition": "A person who sees an event, typically a crime or accident, take place.",
+      "sentences": [
+        "The police interviewed the witness.",
+        "He was a key witness in the trial.",
+        "The witness testified in court."
+      ]
+    },
+    {
+      "word": "Testimony",
+      "pronunciation": "/ˈtɛstɪˌmoʊni/",
+      "definition": "A formal written or spoken statement, especially one given in a court of law.",
+      "sentences": [
+        "Her testimony was crucial to the case.",
+        "He gave his testimony under oath.",
+        "The jury listened to the compelling testimony."
+      ]
+    },
+    {
+      "word": "Evidence",
+      "pronunciation": "/ˈɛvɪdəns/",
+      "definition": "The available body of facts or information indicating whether a belief or proposition is true or valid.",
+      "sentences": [
+        "The police collected evidence at the crime scene.",
+        "There was not enough evidence to prove his guilt.",
+        "The lawyer presented strong evidence."
+      ]
+    },
+    {
+      "word": "Investigation",
+      "pronunciation": "/ɪnˌvɛstɪˈɡeɪʃn/",
+      "definition": "The action of investigating something or someone; formal inquiry or research.",
+      "sentences": [
+        "The police launched an investigation into the incident.",
+        "The company conducted an internal investigation.",
+        "The investigation is ongoing."
+      ]
+    },
+    {
+      "word": "Crime",
+      "pronunciation": "/kraɪm/",
+      "definition": "An action or omission which constitutes an offense that may be prosecuted by the state and is punishable by law.",
+      "sentences": [
+        "Stealing is a crime.",
+        "He was charged with a serious crime.",
+        "The police are working to reduce crime in the city."
+      ]
+    },
+    {
+      "word": "Punishment",
+      "pronunciation": "/ˈpʌnɪʃmənt/",
+      "definition": "The infliction or imposition of a penalty as retribution for an offense.",
+      "sentences": [
+        "The judge handed down a severe punishment.",
+        "What is the punishment for this crime?",
+        "He received a fair punishment."
+      ]
+    },
+    {
+      "word": "Justice",
+      "pronunciation": "/ˈdʒʌstɪs/",
+      "definition": "Just behavior or treatment.",
+      "sentences": [
+        "Everyone deserves justice.",
+        "The court aims to ensure justice for all.",
+        "She fought for justice for the victims."
+      ]
+    },
+    {
+      "word": "Law enforcement",
+      "pronunciation": "/lɔː ɪnˈfɔːrsmənt/",
+      "definition": "The system of enforcing laws, especially by means of police.",
+      "sentences": [
+        "He works in law enforcement.",
+        "Effective law enforcement is crucial for public safety.",
+        "The new policy will help law enforcement."
+      ]
+    },
+    {
+      "word": "Police",
+      "pronunciation": "/pəˈliːs/",
+      "definition": "The civil force of a state, responsible for the prevention and detection of crime and the maintenance of public order.",
+      "sentences": [
+        "Call the police in an emergency.",
+        "The police arrived quickly at the scene.",
+        "She wants to join the police force."
+      ]
+    },
+    {
+      "word": "Detective",
+      "pronunciation": "/dɪˈtɛktɪv/",
+      "definition": "A person, especially a police officer, whose occupation is to investigate and solve crimes.",
+      "sentences": [
+        "The detective gathered clues.",
+        "She is a private detective.",
+        "The detective solved the mystery."
+      ]
+    },
+    {
+      "word": "Criminal",
+      "pronunciation": "/ˈkrɪmɪnl/",
+      "definition": "A person who has committed a crime.",
+      "sentences": [
+        "The police caught the criminal.",
+        "He was a notorious criminal.",
+        "The criminal was sentenced to prison."
+      ]
+    },
+    {
+      "word": "Victim",
+      "pronunciation": "/ˈvɪktɪm/",
+      "definition": "A person harmed, injured, or killed as a result of a crime, accident, or other event or action.",
+      "sentences": [
+        "The police helped the victim of the robbery.",
+        "She is a strong advocate for crime victims.",
+        "The accident had many victims."
+      ]
+    },
+    {
+      "word": "Suspect",
+      "pronunciation": "/ˈsʌspɛkt/",
+      "definition": "A person thought to be guilty of a crime or offense.",
+      "sentences": [
+        "The police questioned the suspect.",
+        "He is the main suspect in the case.",
+        "The suspect was arrested."
+      ]
+    },
+    {
+      "word": "Alibi",
+      "pronunciation": "/ˈælɪˌbaɪ/",
+      "definition": "A claim or piece of evidence that one was elsewhere when an act, typically a criminal one, is alleged to have taken place.",
+      "sentences": [
+        "He had a strong alibi for the night of the crime.",
+        "The suspect's alibi was confirmed.",
+        "She couldn't provide an alibi."
+      ]
+    },
+    {
+      "word": "Forensics",
+      "pronunciation": "/fəˈrɛnsɪks/",
+      "definition": "Scientific tests or techniques used in connection with the detection of crime.",
+      "sentences": [
+        "Forensics played a key role in solving the case.",
+        "She works in forensics.",
+        "The forensics team collected evidence."
+      ]
+    },
+    {
+      "word": "Prosecution",
+      "pronunciation": "/ˌprɑːsɪˈkjuːʃn/",
+      "definition": "The institution and conducting of legal proceedings against someone in respect of a criminal charge.",
+      "sentences": [
+        "The prosecution presented its case.",
+        "He faced prosecution for fraud.",
+        "The prosecution argued for a guilty verdict."
+      ]
+    },
+    {
+      "word": "Defense",
+      "pronunciation": "/dɪˈfɛns/",
+      "definition": "The case presented by or on behalf of the party being accused or sued in a lawsuit.",
+      "sentences": [
+        "The lawyer presented a strong defense for his client.",
+        "The defense argued that the evidence was insufficient.",
+        "He prepared his own defense."
+      ]
+    },
+    {
+      "word": "Trial",
+      "pronunciation": "/traɪəl/",
+      "definition": "A formal examination of evidence by a judge, and typically also a jury, in order to decide a criminal or civil case.",
+      "sentences": [
+        "The criminal trial lasted for weeks.",
+        "He is currently on trial for theft.",
+        "The trial attracted a lot of media attention."
+      ]
+    },
+    {
+      "word": "Sentence",
+      "pronunciation": "/ˈsɛntəns/",
+      "definition": "The punishment assigned to a defendant found guilty by a court, or fixed by law for a particular offense.",
+      "sentences": [
+        "The judge handed down a harsh sentence.",
+        "He received a prison sentence of five years.",
+        "The sentence was reduced on appeal."
+      ]
+    },
+    {
+      "word": "Prison",
+      "pronunciation": "/ˈprɪzn/",
+      "definition": "A building in which people are legally held as a punishment for a crime or while awaiting trial.",
+      "sentences": [
+        "He spent ten years in prison.",
+        "The new prison was built last year.",
+        "She visited her brother in prison."
+      ]
+    },
+    {
+      "word": "Jail",
+      "pronunciation": "/dʒeɪl/",
+      "definition": "A place for the confinement of people accused or convicted of a crime.",
+      "sentences": [
+        "He was held in jail overnight.",
+        "The suspect was released from jail on bail.",
+        "Local jails hold people awaiting trial."
+      ]
+    },
+    {
+      "word": "Fine",
+      "pronunciation": "/faɪn/",
+      "definition": "A sum of money exacted as a penalty for an offense or misdemeanor.",
+      "sentences": [
+        "He had to pay a large fine for speeding.",
+        "The parking fine was $50.",
+        "She received a fine for littering."
+      ]
+    },
+    {
+      "word": "Parole",
+      "pronunciation": "/pəˈroʊl/",
+      "definition": "The release of a prisoner temporarily (for a special purpose) or permanently before the completion of a sentence, on the promise of good behavior.",
+      "sentences": [
+        "He was granted parole after serving half his sentence.",
+        "She is eligible for parole next year.",
+        "Violating parole can lead to re-imprisonment."
+      ]
+    },
+    {
+      "word": "Probation",
+      "pronunciation": "/proʊˈbeɪʃn/",
+      "definition": "The release of an offender from detention, subject to a period of good behavior under supervision.",
+      "sentences": [
+        "He was sentenced to two years of probation.",
+        "She violated her probation terms.",
+        "The judge put him on probation instead of sending him to jail."
+      ]
+    },
+    {
+      "word": "Rehabilitation",
+      "pronunciation": "/ˌriːhəˌbɪlɪˈteɪʃn/",
+      "definition": "The action of restoring someone to health or normal life through training and therapy after illness or injury.",
+      "sentences": [
+        "The program focuses on prisoner rehabilitation.",
+        "He went to a drug rehabilitation center.",
+        "Rehabilitation aims to help offenders reintegrate into society."
+      ]
+    },
+    {
+      "word": "Restorative justice",
+      "pronunciation": "/rɪˈstɔːrətɪv ˈdʒʌstɪs/",
+      "definition": "An approach to justice that focuses on the rehabilitation of offenders through reconciliation with victims and the community at large.",
+      "sentences": [
+        "The program uses restorative justice to heal communities.",
+        "Restorative justice emphasizes repairing harm.",
+        "Victims often find healing through restorative justice processes."
+      ]
+    },
+    {
+      "word": "Civil law",
+      "pronunciation": "/ˈsɪvl lɔː/",
+      "definition": "The system of law concerned with private relations between members of a community rather than criminal, military, or religious affairs.",
+      "sentences": [
+        "He specializes in civil law cases.",
+        "Divorce is a matter of civil law.",
+        "Civil law deals with disputes between individuals."
+      ]
+    },
+    {
+      "word": "Criminal law",
+      "pronunciation": "/ˈkrɪmɪnl lɔː/",
+      "definition": "A system of law concerned with the punishment of those who commit crimes.",
+      "sentences": [
+        "Murder is a matter of criminal law.",
+        "He works as a criminal law attorney.",
+        "Criminal law protects society from harm."
+      ]
+    },
+    {
+      "word": "Constitution",
+      "pronunciation": "/ˌkɑːnstɪˈtuːʃn/",
+      "definition": "A body of fundamental principles or established precedents according to which a state or other organization is acknowledged to be governed.",
+      "sentences": [
+        "The country's constitution guarantees basic rights.",
+        "He studied the US Constitution.",
+        "The new law must comply with the constitution."
+      ]
+    },
+    {
+      "word": "Rights",
+      "pronunciation": "/raɪts/",
+      "definition": "Moral or legal entitlements to have or obtain something or to act in a certain way.",
+      "sentences": [
+        "Everyone has human rights.",
+        "Know your legal rights.",
+        "She fought for equal rights for all."
+      ]
+    },
+    {
+      "word": "Freedom",
+      "pronunciation": "/ˈfriːdəm/",
+      "definition": "The power or right to act, speak, or think as one wants without hindrance or restraint.",
+      "sentences": [
+        "They fought for their freedom.",
+        "He enjoys the freedom of working for himself.",
+        "Freedom of speech is an important right."
+      ]
+    },
+    {
+      "word": "Justice system",
+      "pronunciation": "/ˈdʒʌstɪs ˈsɪstəm/",
+      "definition": "The system of courts, judges, and police that deals with crime and punishment.",
+      "sentences": [
+        "The justice system aims to be fair.",
+        "He believes in reforming the justice system.",
+        "Understanding the justice system is complex."
+      ]
+    },
+    {
+      "word": "Legal system",
+      "pronunciation": "/ˈliːɡl ˈsɪstəm/",
+      "definition": "The system of rules, laws, and courts in a country.",
+      "sentences": [
+        "He is an expert in the country's legal system.",
+        "The legal system protects citizens' rights.",
+        "Navigating the legal system can be challenging."
+      ]
+    },
+    {
+      "word": "Judicial",
+      "pronunciation": "/dʒuːˈdɪʃl/",
+      "definition": "Of, by, or appropriate to a court or judge.",
+      "sentences": [
+        "The judicial branch interprets laws.",
+        "He works in the judicial system.",
+        "The decision was made by a judicial panel."
+      ]
+    },
+    {
+      "word": "Legislative",
+      "pronunciation": "/ˈlɛdʒɪsleɪtɪv/",
+      "definition": "Having the power to make laws.",
+      "sentences": [
+        "The legislative branch makes laws.",
+        "The new legislative session begins next month.",
+        "She works in the legislative assembly."
+      ]
+    },
+    {
+      "word": "Executive",
+      "pronunciation": "/ɪɡˈzɛkjətɪv/",
+      "definition": "Having the power to put plans, actions, or laws into effect.",
+      "sentences": [
+        "The executive branch enforces laws.",
+        "He holds an executive position in the company.",
+        "The CEO is a top executive."
+      ]
+    },
+    {
+      "word": "Government",
+      "pronunciation": "/ˈɡʌvərnmənt/",
+      "definition": "The governing body of a nation, state, or community.",
+      "sentences": [
+        "The government announced new policies.",
+        "Local government provides public services.",
+        "She works for the federal government."
+      ]
+    },
+    {
+      "word": "Politics",
+      "pronunciation": "/ˈpɑːlətɪks/",
+      "definition": "The activities associated with the governance of a country or area, especially the debate or conflict among individuals or parties having or hoping to achieve power.",
+      "sentences": [
+        "He is interested in local politics.",
+        "The discussion covered current events and politics.",
+        "She decided to pursue a career in politics."
+      ]
+    },
+    {
+      "word": "Democracy",
+      "pronunciation": "/dɪˈmɑːkrəsi/",
+      "definition": "A system of government by the whole population or all the eligible members of a state, typically through elected representatives.",
+      "sentences": [
+        "The country is a strong democracy.",
+        "Democracy allows citizens to vote.",
+        "He believes in the principles of democracy."
+      ]
+    },
+    {
+      "word": "Republic",
+      "pronunciation": "/rɪˈpʌblɪk/",
+      "definition": "A state in which supreme power is held by the people and their elected representatives, and which has an elected or nominated president rather than a monarch.",
+      "sentences": [
+        "The United States is a republic.",
+        "Many modern nations are republics.",
+        "The new republic was established after the war."
+      ]
+    },
+    {
+      "word": "Monarchy",
+      "pronunciation": "/ˈmɑːnɑːrki/",
+      "definition": "A form of government with a monarch at the head.",
+      "sentences": [
+        "The UK is a constitutional monarchy.",
+        "Ancient civilizations often had a monarchy.",
+        "The king ruled under a monarchy."
+      ]
+    },
+    {
+      "word": "Dictatorship",
+      "pronunciation": "/dɪkˈteɪtərˌʃɪp/",
+      "definition": "A country governed by a dictator.",
+      "sentences": [
+        "The country was under a strict dictatorship.",
+        "Life can be difficult under a dictatorship.",
+        "The people rebelled against the dictatorship."
+      ]
+    },
+    {
+      "word": "Election",
+      "pronunciation": "/ɪˈlɛkʃn/",
+      "definition": "A formal and organized choice by vote of a person for a political office or other position.",
+      "sentences": [
+        "The presidential election is next year.",
+        "She voted in the local election.",
+        "The results of the election were announced."
+      ]
+    },
+    {
+      "word": "Vote",
+      "pronunciation": "/voʊt/",
+      "definition": "A formal indication of a choice between two or more candidates or courses of action, expressed by ballot or a show of hands.",
+      "sentences": [
+        "Every citizen has the right to vote.",
+        "He cast his vote for the new mayor.",
+        "The motion passed by a majority vote."
+      ]
+    },
+    {
+      "word": "Candidate",
+      "pronunciation": "/ˈkændɪdət/",
+      "definition": "A person who is nominated for election.",
+      "sentences": [
+        "She is a strong candidate for the position.",
+        "The presidential candidate gave a speech.",
+        "He is a new candidate in the election."
+      ]
+    },
+    {
+      "word": "Campaign",
+      "pronunciation": "/kæmˈpeɪn/",
+      "definition": "An organized course of action to achieve a goal.",
+      "sentences": [
+        "The political campaign lasted for months.",
+        "She worked on the election campaign.",
+        "The advertising campaign was very successful."
+      ]
+    },
+    {
+      "word": "Policy maker",
+      "pronunciation": "/ˈpɑːləsi ˌmeɪkər/",
+      "definition": "A person responsible for making policies, especially in government.",
+      "sentences": [
+        "Policy makers decide on new laws.",
+        "She is an influential policy maker.",
+        "The meeting included various policy makers."
+      ]
+    },
+    {
+      "word": "Public servant",
+      "pronunciation": "/ˈpʌblɪk ˈsɜːrvənt/",
+      "definition": "A person who works for the government or a public organization.",
+      "sentences": [
+        "He dedicated his life to being a public servant.",
+        "Public servants work for the benefit of citizens.",
+        "She is a respected public servant."
+      ]
+    },
+    {
+      "word": "Bureaucracy",
+      "pronunciation": "/bjʊˈrɑːkrəsi/",
+      "definition": "A system of government in which most of the important decisions are made by state officials rather than by elected representatives.",
+      "sentences": [
+        "Dealing with government bureaucracy can be slow.",
+        "The company tried to reduce its internal bureaucracy.",
+        "Too much bureaucracy can hinder progress."
+      ]
+    },
+    {
+      "word": "Diplomacy",
+      "pronunciation": "/dɪˈploʊməsi/",
+      "definition": "The profession, activity, or skill of managing international relations, typically by a country's representatives abroad.",
+      "sentences": [
+        "He is skilled in international diplomacy.",
+        "Diplomacy is key to resolving conflicts peacefully.",
+        "She works in the field of diplomacy."
+      ]
+    },
+    {
+      "word": "International relations",
+      "pronunciation": "/ˌɪntərˈnæʃənl rɪˈleɪʃnz/",
+      "definition": "The study of the relationships between countries, including the roles of states, inter-governmental organizations, non-governmental organizations, and multinational corporations.",
+      "sentences": [
+        "He studied international relations in college.",
+        "Current events highlight the complexity of international relations.",
+        "She is an expert in international relations."
+      ]
+    },
+    {
+      "word": "Treaty",
+      "pronunciation": "/ˈtriːti/",
+      "definition": "A formally concluded and ratified agreement between countries.",
+      "sentences": [
+        "The two nations signed a peace treaty.",
+        "The treaty aims to reduce carbon emissions.",
+        "They are negotiating a new trade treaty."
+      ]
+    },
+    {
+      "word": "Alliance",
+      "pronunciation": "/əˈlaɪəns/",
+      "definition": "A union or association formed for mutual benefit, especially between countries or organizations.",
+      "sentences": [
+        "The two countries formed a military alliance.",
+        "They entered into a strategic alliance.",
+        "The political alliance was very strong."
+      ]
+    },
+    {
+      "word": "Embassy",
+      "pronunciation": "/ˈɛmbəsi/",
+      "definition": "The official residence or offices of an ambassador.",
+      "sentences": [
+        "He works at the American embassy in Paris.",
+        "The embassy issues visas.",
+        "She visited the embassy for passport renewal."
+      ]
+    },
+    {
+      "word": "Consulate",
+      "pronunciation": "/ˈkɑːnsələt/",
+      "definition": "The place or building in which a consul's duties are carried out.",
+      "sentences": [
+        "I went to the consulate to get a travel document.",
+        "The consulate provides services to citizens abroad.",
+        "He works at the local consulate."
+      ]
+    },
+    {
+      "word": "Ambassador",
+      "pronunciation": "/æmˈbæsədər/",
+      "definition": "An accredited diplomat sent by a country as its official representative to a foreign country.",
+      "sentences": [
+        "The new ambassador arrived last week.",
+        "She served as an ambassador to the United Nations.",
+        "The ambassador presented his credentials."
+      ]
+    },
+    {
+      "word": "Diplomat",
+      "pronunciation": "/ˈdɪpləˌmæt/",
+      "definition": "An official representing a country abroad.",
+      "sentences": [
+        "He is a skilled diplomat.",
+        "She works as a diplomat in the foreign service.",
+        "The diplomat negotiated the peace treaty."
+      ]
+    },
+    {
+      "word": "United Nations (UN)",
+      "pronunciation": "/juːˈnaɪtɪd ˈneɪʃnz/",
+      "definition": "An international organization formed in 1945 to promote international peace, security, and cooperation.",
+      "sentences": [
+        "The UN works to resolve global conflicts.",
+        "She works for the United Nations.",
+        "The UN plays a vital role in humanitarian aid."
+      ]
+    },
+    {
+      "word": "World Bank",
+      "pronunciation": "/wɜːrld bæŋk/",
+      "definition": "An international financial institution that provides loans and grants to the governments of poorer countries for the purpose of pursuing capital projects.",
+      "sentences": [
+        "The World Bank provides development assistance.",
+        "He works as an economist for the World Bank.",
+        "The World Bank supports projects in developing nations."
+      ]
+    },
+    {
+      "word": "International Monetary Fund (IMF)",
+      "pronunciation": "/ˌɪntərˈnæʃənl ˈmɑːnɪtɛri fʌnd/",
+      "definition": "An international organization that promotes global monetary cooperation, secures financial stability, facilitates international trade, promotes high employment and sustainable economic growth, and reduces poverty around the world.",
+      "sentences": [
+        "The IMF provides financial assistance to countries in need.",
+        "She works as a researcher for the International Monetary Fund.",
+        "The IMF plays a role in global financial stability."
+      ]
+    },
+    {
+      "word": "World Trade Organization (WTO)",
+      "pronunciation": "/wɜːrld treɪd ˌɔːrɡənɪˈzeɪʃn/",
+      "definition": "An intergovernmental organization that regulates international trade.",
+      "sentences": [
+        "The WTO aims to reduce trade barriers.",
+        "He works on trade policy at the World Trade Organization.",
+        "The WTO helps resolve trade disputes."
+      ]
+    }
+  ]
+}

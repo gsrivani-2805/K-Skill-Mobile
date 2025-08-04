@@ -1,0 +1,3054 @@
+Login Page
+
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+
+import 'package:frontend/auth/reset_password_page.dart';
+import 'package:frontend/auth/signup_page.dart';
+import 'package:frontend/screens/home.dart';
+import 'package:frontend/services/shared_prefs.dart';
+
+class LoginPage extends StatefulWidget {
+  const LoginPage({super.key});
+
+  @override
+  State<LoginPage> createState() => _LoginPageState();
+}
+
+class _LoginPageState extends State<LoginPage> {
+  final _formKey = GlobalKey<FormState>();
+
+  final TextEditingController _emailController = TextEditingController();
+  final TextEditingController _passwordController = TextEditingController();
+
+  bool _isLoading = false;
+
+  Future<void> _loginUser() async {
+    setState(() => _isLoading = true);
+
+    final email = _emailController.text.trim();
+    final password = _passwordController.text.trim();
+
+    try {
+      final response = await http.post(
+        Uri.parse("http://localhost:8080/api/auth/login"),
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode({'email': email, 'password': password}),
+      );
+
+      print("STATUS: ${response.statusCode}");
+      print("BODY: ${response.body}");
+
+      if (response.statusCode == 200) {
+        final data = json.decode(response.body);
+        final userId = data['user']['userId'];
+        final userName = data['user']['name'];
+
+        await SharedPrefsService.setUserId(userId);
+        await SharedPrefsService.setUserName(userName);
+
+        Navigator.pushReplacement(
+          context,
+          MaterialPageRoute(builder: (context) => const HomeScreen()),
+        );
+      } else if (response.statusCode == 401 || response.statusCode == 400) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text("Invalid email or password")),
+        );
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(content: Text("Login failed: ${response.statusCode}")),
+        );
+      }
+    } catch (e) {
+      print("Login exception: $e");
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text("An error occurred. Please try again.")),
+      );
+    } finally {
+      setState(() => _isLoading = false);
+    }
+  }
+
+  void _submitForm() {
+    if (_formKey.currentState!.validate()) {
+      _loginUser();
+    }
+  }
+
+  void _navigateToResetPassword() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => const ResetPasswordPage()),
+    );
+  }
+
+  void _navigateToSignUp() {
+    Navigator.push(
+      context,
+      MaterialPageRoute(builder: (context) => const SignUpPage()),
+    );
+  }
+
+  @override
+  void dispose() {
+    _emailController.dispose();
+    _passwordController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      body: Center(
+        child: SingleChildScrollView(
+          scrollDirection: Axis.horizontal,
+          child: Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            crossAxisAlignment: CrossAxisAlignment.center,
+            children: [
+              // Image
+              Container(
+                height: 400,
+                width: 350,
+                decoration: BoxDecoration(
+                  borderRadius: BorderRadius.circular(10),
+                ),
+                child: Image.asset('assets/images/login_side_image.png'),
+              ),
+
+              // Login form
+              SizedBox(
+                width: 300,
+                child: Form(
+                  key: _formKey,
+                  child: Column(
+                    children: [
+                      const Text(
+                        'Login',
+                        style: TextStyle(
+                          fontSize: 35,
+                          color: Colors.deepPurple,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 30),
+                      TextFormField(
+                        controller: _emailController,
+                        keyboardType: TextInputType.emailAddress,
+                        decoration: const InputDecoration(
+                          labelText: 'Email',
+                          hintText: 'Enter Email',
+                          prefixIcon: Icon(Icons.email),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) =>
+                            value!.isEmpty ? 'Please enter email' : null,
+                      ),
+                      const SizedBox(height: 30),
+                      TextFormField(
+                        controller: _passwordController,
+                        obscureText: true,
+                        decoration: const InputDecoration(
+                          labelText: 'Password',
+                          hintText: 'Enter Password',
+                          prefixIcon: Icon(Icons.lock),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) =>
+                            value!.isEmpty ? 'Please enter password' : null,
+                      ),
+                      const SizedBox(height: 30),
+                      SizedBox(
+                        width: double.infinity,
+                        child: ElevatedButton(
+                          onPressed: _isLoading ? null : _submitForm,
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor: Colors.deepPurple,
+                            foregroundColor: Colors.white,
+                            padding: const EdgeInsets.symmetric(vertical: 14),
+                          ),
+                          child: _isLoading
+                              ? const CircularProgressIndicator(color: Colors.white)
+                              : const Text('Login'),
+                        ),
+                      ),
+                      const SizedBox(height: 30),
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                        children: [
+                          GestureDetector(
+                            onTap: _navigateToResetPassword,
+                            child: const Text(
+                              'Forgot Password?',
+                              style: TextStyle(
+                                color: Colors.deepPurple,
+                                decoration: TextDecoration.underline,
+                              ),
+                            ),
+                          ),
+                          ElevatedButton(
+                            onPressed: _navigateToSignUp,
+                            style: ElevatedButton.styleFrom(
+                              backgroundColor: Colors.deepPurple,
+                              foregroundColor: Colors.white,
+                            ),
+                            child: const Text('Signup'),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ),
+                ),
+              ),
+              const SizedBox(width: 200),
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+}
+
+Signup Page
+
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:http/http.dart' as http;
+import 'package:frontend/services/shared_prefs.dart';
+
+class SignUpPage extends StatefulWidget {
+  const SignUpPage({super.key});
+
+  @override
+  State<SignUpPage> createState() => _SignUpPageState();
+}
+
+class _SignUpPageState extends State<SignUpPage> {
+  final _formKey = GlobalKey<FormState>();
+
+  final _nameController = TextEditingController();
+  final _emailController = TextEditingController();
+  final _passwordController = TextEditingController();
+  final _schoolController = TextEditingController();
+  final _addressController = TextEditingController();
+
+  String? _selectedClass;
+  String? _selectedGender;
+  bool _isLoading = false;
+
+  final List<String> _classes = ['Class 6', 'Class 7', 'Class 8', 'Class 9', 'Class 10'];
+  final List<String> _genders = ['Male', 'Female', 'Other'];
+
+  Future<void> _registerUser() async {
+    if (!_formKey.currentState!.validate()) return;
+
+    setState(() => _isLoading = true);
+
+    try {
+      final response = await http.post(
+        Uri.parse('http://localhost:8080/signup'),
+        headers: {'Content-Type': 'application/json'},
+        body: jsonEncode({
+          'name': _nameController.text.trim(),
+          'email': _emailController.text.trim(),
+          'password': _passwordController.text.trim(),
+          'class': _selectedClass,
+          'gender': _selectedGender,
+          'school': _schoolController.text.trim(),
+          'address': _addressController.text.trim(),
+        }),
+      );
+
+      final data = jsonDecode(response.body);
+      setState(() => _isLoading = false);
+
+      if (response.statusCode == 201) {
+        await SharedPrefsService.setUserName(data['user']['name']);
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Registered successfully!')),
+        );
+        Navigator.pop(context);
+      } else if (response.statusCode == 400) {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Email already exists.')),
+        );
+      } else {
+        ScaffoldMessenger.of(context).showSnackBar(
+          const SnackBar(content: Text('Signup failed. Please try again.')),
+        );
+      }
+    } catch (e) {
+      setState(() => _isLoading = false);
+      print("Exception: $e");
+      ScaffoldMessenger.of(context).showSnackBar(
+        const SnackBar(content: Text('Something went wrong!')),
+      );
+    }
+  }
+
+  @override
+  void dispose() {
+    _nameController.dispose();
+    _emailController.dispose();
+    _passwordController.dispose();
+    _schoolController.dispose();
+    _addressController.dispose();
+    super.dispose();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      appBar: AppBar(title: const Text("Sign Up")),
+      body: Center(
+        child: Row(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const SizedBox(width: 100),
+            // Signup form
+            SingleChildScrollView(
+              child: SizedBox(
+                width: 350,
+                child: Form(
+                  key: _formKey,
+                  child: Column(
+                    children: [
+                      const Text(
+                        'Sign Up',
+                        style: TextStyle(
+                          fontSize: 35,
+                          color: Colors.deepPurple,
+                          fontWeight: FontWeight.bold,
+                        ),
+                      ),
+                      const SizedBox(height: 30),
+
+                      // Name
+                      TextFormField(
+                        controller: _nameController,
+                        decoration: const InputDecoration(
+                          labelText: 'Name',
+                          prefixIcon: Icon(Icons.person),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) => value!.isEmpty ? 'Please enter name' : null,
+                      ),
+                      const SizedBox(height: 15),
+
+                      // Email
+                      TextFormField(
+                        controller: _emailController,
+                        keyboardType: TextInputType.emailAddress,
+                        decoration: const InputDecoration(
+                          labelText: 'Email',
+                          prefixIcon: Icon(Icons.email),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) => value!.isEmpty ? 'Please enter email' : null,
+                      ),
+                      const SizedBox(height: 15),
+
+                      // Password
+                      TextFormField(
+                        controller: _passwordController,
+                        obscureText: true,
+                        decoration: const InputDecoration(
+                          labelText: 'Password',
+                          prefixIcon: Icon(Icons.lock),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) => value!.length < 6
+                            ? 'Minimum 6 characters required'
+                            : null,
+                      ),
+                      const SizedBox(height: 15),
+
+                      // Class Dropdown
+                      DropdownButtonFormField<String>(
+                        value: _selectedClass,
+                        decoration: const InputDecoration(
+                          labelText: 'Class',
+                          prefixIcon: Icon(Icons.school),
+                          border: OutlineInputBorder(),
+                        ),
+                        items: _classes
+                            .map((cls) => DropdownMenuItem(
+                                  value: cls,
+                                  child: Text(cls),
+                                ))
+                            .toList(),
+                        onChanged: (val) => setState(() => _selectedClass = val),
+                        validator: (value) =>
+                            value == null ? 'Please select a class' : null,
+                      ),
+                      const SizedBox(height: 15),
+
+                      // Gender Dropdown
+                      DropdownButtonFormField<String>(
+                        value: _selectedGender,
+                        decoration: const InputDecoration(
+                          labelText: 'Gender',
+                          prefixIcon: Icon(Icons.person_outline),
+                          border: OutlineInputBorder(),
+                        ),
+                        items: _genders
+                            .map((gen) => DropdownMenuItem(
+                                  value: gen,
+                                  child: Text(gen),
+                                ))
+                            .toList(),
+                        onChanged: (val) => setState(() => _selectedGender = val),
+                        validator: (value) =>
+                            value == null ? 'Please select gender' : null,
+                      ),
+                      const SizedBox(height: 15),
+
+                      // School
+                      TextFormField(
+                        controller: _schoolController,
+                        decoration: const InputDecoration(
+                          labelText: 'School',
+                          prefixIcon: Icon(Icons.business),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) => value!.isEmpty ? 'Please enter school name' : null,
+                      ),
+                      const SizedBox(height: 15),
+
+                      // Address
+                      TextFormField(
+                        controller: _addressController,
+                        maxLines: 2,
+                        decoration: const InputDecoration(
+                          labelText: 'Address',
+                          prefixIcon: Icon(Icons.home),
+                          border: OutlineInputBorder(),
+                        ),
+                        validator: (value) => value!.isEmpty ? 'Please enter address' : null,
+                      ),
+                      const SizedBox(height: 25),
+
+                      _isLoading
+                          ? const CircularProgressIndicator()
+                          : SizedBox(
+                              width: double.infinity,
+                              child: ElevatedButton(
+                                onPressed: _registerUser,
+                                style: ElevatedButton.styleFrom(
+                                  backgroundColor: Colors.deepPurple,
+                                  foregroundColor: Colors.white,
+                                  padding: const EdgeInsets.symmetric(vertical: 14),
+                                ),
+                                child: const Text('Register'),
+                              ),
+                            ),
+                    ],
+                  ),
+                ),
+              ),
+            ),
+
+            const SizedBox(width: 50),
+
+            // Image
+            Container(
+              height: 400,
+              width: 350,
+              decoration: BoxDecoration(
+                borderRadius: BorderRadius.circular(10),
+              ),
+              child: Image.asset(
+                'assets/images/signup_side_image.png',
+                fit: BoxFit.contain,
+              ),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+}
+
+Profile Page
+
+import 'package:flutter/material.dart';
+
+class ProfileScreen extends StatelessWidget {
+  const ProfileScreen({Key? key}) : super(key: key);
+
+  @override
+  Widget build(BuildContext context) {
+    final userProfile = UserProfile(
+      name: 'Priya Sharma',
+      grade: '8th Class',
+      school: 'Government High School, Tirupati',
+      streak: 12,
+      totalLessons: 45,
+      completedLessons: 23,
+      level: 'Intermediate',
+      badges: ['First Steps', 'Week Warrior', 'Vocabulary Master'],
+    );
+
+    final assessmentScores = {
+      'reading': 78,
+      'listening': 65,
+      'vocabulary': 82,
+    };
+
+    return Scaffold(
+      backgroundColor: Colors.grey[50],
+      body: SafeArea(
+        child: SingleChildScrollView(
+          padding: const EdgeInsets.all(16),
+          child: Column(
+            children: [
+              // Profile Header
+              _buildProfileHeader(userProfile),
+              const SizedBox(height: 24),
+
+              // Stats Grid
+              _buildStatsGrid(userProfile),
+              const SizedBox(height: 24),
+
+              // Progress Section
+              _buildProgressSection(userProfile, assessmentScores),
+              const SizedBox(height: 24),
+
+              // Badges Section
+              _buildBadgesSection(userProfile),
+              const SizedBox(height: 80), // Space for bottom navigation
+            ],
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildProfileHeader(UserProfile userProfile) {
+    return Column(
+      children: [
+        Container(
+          width: 96,
+          height: 96,
+          decoration: BoxDecoration(
+            gradient: const LinearGradient(
+              colors: [Colors.blue, Colors.purple],
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+            ),
+            shape: BoxShape.circle,
+          ),
+          child: const Icon(
+            Icons.person,
+            size: 48,
+            color: Colors.white,
+          ),
+        ),
+        const SizedBox(height: 16),
+        Text(
+          userProfile.name,
+          style: const TextStyle(
+            fontSize: 24,
+            fontWeight: FontWeight.bold,
+            color: Colors.black87,
+          ),
+        ),
+        const SizedBox(height: 4),
+        Text(
+          '${userProfile.grade} • ${userProfile.school}',
+          style: TextStyle(
+            fontSize: 14,
+            color: Colors.grey[600],
+          ),
+          textAlign: TextAlign.center,
+        ),
+      ],
+    );
+  }
+
+  Widget _buildStatsGrid(UserProfile userProfile) {
+    final stats = [
+      StatItem(
+        icon: Icons.local_fire_department,
+        value: userProfile.streak.toString(),
+        label: 'Day Streak',
+        color: Colors.orange,
+      ),
+      StatItem(
+        icon: Icons.track_changes,
+        value: userProfile.completedLessons.toString(),
+        label: 'Lessons Done',
+        color: Colors.green,
+      ),
+      StatItem(
+        icon: Icons.star,
+        value: userProfile.level,
+        label: 'Current Level',
+        color: Colors.blue,
+      ),
+      StatItem(
+        icon: Icons.emoji_events,
+        value: userProfile.badges.length.toString(),
+        label: 'Badges',
+        color: Colors.purple,
+      ),
+    ];
+
+    return GridView.builder(
+      shrinkWrap: true,
+      physics: const NeverScrollableScrollPhysics(),
+      gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+        crossAxisCount: 2,
+        crossAxisSpacing: 16,
+        mainAxisSpacing: 16,
+        childAspectRatio: 1.1,
+      ),
+      itemCount: stats.length,
+      itemBuilder: (context, index) {
+        final stat = stats[index];
+        return Container(
+          padding: const EdgeInsets.all(16),
+          decoration: BoxDecoration(
+            color: stat.color.withOpacity(0.1),
+            borderRadius: BorderRadius.circular(12),
+            border: Border.all(color: stat.color.withOpacity(0.3)),
+          ),
+          child: Column(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              Icon(
+                stat.icon,
+                size: 32,
+                color: stat.color,
+              ),
+              const SizedBox(height: 8),
+              Text(
+                stat.value,
+                style: TextStyle(
+                  fontSize: 20,
+                  fontWeight: FontWeight.bold,
+                  color: stat.color,
+                ),
+              ),
+              const SizedBox(height: 4),
+              Text(
+                stat.label,
+                style: TextStyle(
+                  fontSize: 12,
+                  color: stat.color.withOpacity(0.8),
+                  fontWeight: FontWeight.w500,
+                ),
+                textAlign: TextAlign.center,
+              ),
+            ],
+          ),
+        );
+      },
+    );
+  }
+
+  Widget _buildProgressSection(UserProfile userProfile, Map<String, int> assessmentScores) {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.grey[300]!),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.grey.withOpacity(0.1),
+            spreadRadius: 1,
+            blurRadius: 3,
+            offset: const Offset(0, 2),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'Learning Progress',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+          const SizedBox(height: 16),
+          
+          // Overall Progress
+          _buildProgressItem(
+            'Overall Progress',
+            userProfile.completedLessons / userProfile.totalLessons,
+            Colors.blue,
+            '${((userProfile.completedLessons / userProfile.totalLessons) * 100).round()}%',
+          ),
+          const SizedBox(height: 16),
+          
+          // Assessment Scores
+          ...assessmentScores.entries.map((entry) {
+            return Column(
+              children: [
+                _buildProgressItem(
+                  entry.key.toUpperCase(),
+                  entry.value / 100,
+                  Colors.green,
+                  '${entry.value}%',
+                ),
+                const SizedBox(height: 16),
+              ],
+            );
+          }).toList(),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildProgressItem(String title, double progress, Color color, String percentage) {
+    return Column(
+      children: [
+        Row(
+          mainAxisAlignment: MainAxisAlignment.spaceBetween,
+          children: [
+            Text(
+              title,
+              style: const TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.w500,
+              ),
+            ),
+            Text(
+              percentage,
+              style: TextStyle(
+                fontSize: 14,
+                fontWeight: FontWeight.w600,
+                color: color,
+              ),
+            ),
+          ],
+        ),
+        const SizedBox(height: 8),
+        LinearProgressIndicator(
+          value: progress,
+          backgroundColor: Colors.grey[200],
+          valueColor: AlwaysStoppedAnimation<Color>(color),
+          minHeight: 8,
+        ),
+      ],
+    );
+  }
+
+  Widget _buildBadgesSection(UserProfile userProfile) {
+    return Container(
+      padding: const EdgeInsets.all(16),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(12),
+        border: Border.all(color: Colors.grey[300]!),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.grey.withOpacity(0.1),
+            spreadRadius: 1,
+            blurRadius: 3,
+            offset: const Offset(0, 2),
+          ),
+        ],
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          const Text(
+            'Achievements',
+            style: TextStyle(
+              fontSize: 18,
+              fontWeight: FontWeight.w600,
+            ),
+          ),
+          const SizedBox(height: 16),
+          GridView.builder(
+            shrinkWrap: true,
+            physics: const NeverScrollableScrollPhysics(),
+            gridDelegate: const SliverGridDelegateWithFixedCrossAxisCount(
+              crossAxisCount: 3,
+              crossAxisSpacing: 12,
+              mainAxisSpacing: 12,
+              childAspectRatio: 0.8,
+            ),
+            itemCount: userProfile.badges.length,
+            itemBuilder: (context, index) {
+              final badge = userProfile.badges[index];
+              return Column(
+                children: [
+                  Container(
+                    width: 48,
+                    height: 48,
+                    decoration: const BoxDecoration(
+                      gradient: LinearGradient(
+                        colors: [Colors.yellow, Colors.orange],
+                        begin: Alignment.topLeft,
+                        end: Alignment.bottomRight,
+                      ),
+                      shape: BoxShape.circle,
+                    ),
+                    child: const Icon(
+                      Icons.emoji_events,
+                      size: 24,
+                      color: Colors.white,
+                    ),
+                  ),
+                  const SizedBox(height: 8),
+                  Text(
+                    badge,
+                    style: TextStyle(
+                      fontSize: 12,
+                      color: Colors.grey[600],
+                      fontWeight: FontWeight.w500,
+                    ),
+                    textAlign: TextAlign.center,
+                  ),
+                ],
+              );
+            },
+          ),
+        ],
+      ),
+    );
+  }
+}
+
+class UserProfile {
+  final String name;
+  final String grade;
+  final String school;
+  final int streak;
+  final int totalLessons;
+  final int completedLessons;
+  final String level;
+  final List<String> badges;
+
+  UserProfile({
+    required this.name,
+    required this.grade,
+    required this.school,
+    required this.streak,
+    required this.totalLessons,
+    required this.completedLessons,
+    required this.level,
+    required this.badges,
+  });
+}
+
+class StatItem {
+  final IconData icon;
+  final String value;
+  final String label;
+  final Color color;
+
+  StatItem({
+    required this.icon,
+    required this.value,
+    required this.label,
+    required this.color,
+  });
+}
+
+//home Page
+
+// import 'package:flutter/material.dart';
+// import 'package:frontend/assessment/assessment_screen.dart';
+// import 'package:frontend/screens/widgets/dictionary_widget.dart';
+// import 'package:frontend/screens/widgets/vocabulary_widget.dart';
+// import 'package:frontend/services/shared_prefs.dart';
+
+// class HomeScreen extends StatefulWidget {
+//   const HomeScreen({Key? key}) : super(key: key);
+
+//   @override
+//   State<HomeScreen> createState() => _HomeScreenState();
+// }
+
+// class _HomeScreenState extends State<HomeScreen> {
+//   String? userName;
+//   int? currentStreak;
+
+//   @override
+//   void initState() {
+//     super.initState();
+//     _loadUserInfo();
+//   }
+
+//   Future<void> _loadUserInfo() async {
+//     final name = await SharedPrefsService.getUserName();
+//     final streak = await SharedPrefsService.getUserStreak();
+//     setState(() {
+//       userName = name;
+//       currentStreak = streak;
+//     });
+//   }
+
+//   @override
+//   Widget build(BuildContext context) {
+//     return Scaffold(
+//       backgroundColor: Colors.grey[50],
+//       body: SafeArea(
+//         child: SingleChildScrollView(
+//           padding: const EdgeInsets.all(16),
+//           child: Column(
+//             crossAxisAlignment: CrossAxisAlignment.start,
+//             children: [
+//               _buildWelcomeSection(),
+//               const SizedBox(height: 24),
+
+//               // Dictionary
+//               const DictionaryWidget(),
+//               const SizedBox(height: 24),
+
+//               // Assessment
+//               _buildDailyAssessment(),
+//               const SizedBox(height: 24),
+
+//               // Vocabulary Section Title
+//               const Text(
+//                 'Vocabulary Topics',
+//                 style: TextStyle(
+//                   fontSize: 20,
+//                   fontWeight: FontWeight.w600,
+//                   color: Colors.black87,
+//                 ),
+//               ),
+//               const SizedBox(height: 16),
+
+//               // Vocabulary Widget (fully responsive, includes its own title)
+//               VocabularyWidget(),
+
+//               const SizedBox(height: 80), // Bottom nav spacing
+//             ],
+//           ),
+//         ),
+//       ),
+//     );
+//   }
+
+//   Widget _buildWelcomeSection() {
+//     return Column(
+//       crossAxisAlignment: CrossAxisAlignment.start,
+//       children: [
+//         Text(
+//           'Welcome back, ${userName ?? 'User'}!',
+//           style: const TextStyle(
+//             fontSize: 24,
+//             fontWeight: FontWeight.bold,
+//             color: Colors.black87,
+//           ),
+//         ),
+//         const SizedBox(height: 8),
+//         Row(
+//           children: [
+//             Icon(
+//               Icons.local_fire_department,
+//               color: Colors.orange[600],
+//               size: 20,
+//             ),
+//             const SizedBox(width: 8),
+//             Text(
+//               '${currentStreak ?? 0} day streak',
+//               style: TextStyle(
+//                 fontSize: 16,
+//                 fontWeight: FontWeight.w600,
+//                 color: Colors.orange[600],
+//               ),
+//             ),
+//           ],
+//         ),
+//       ],
+//     );
+//   }
+
+//   Widget _buildDailyAssessment() {
+//     return Container(
+//       decoration: BoxDecoration(
+//         gradient: const LinearGradient(
+//           colors: [Colors.blue, Colors.purple],
+//           begin: Alignment.centerLeft,
+//           end: Alignment.centerRight,
+//         ),
+//         borderRadius: BorderRadius.circular(16),
+//       ),
+//       padding: const EdgeInsets.all(16),
+//       child: Column(
+//         crossAxisAlignment: CrossAxisAlignment.start,
+//         children: [
+//           const Text(
+//             'Daily Assessment',
+//             style: TextStyle(
+//               fontSize: 18,
+//               fontWeight: FontWeight.w600,
+//               color: Colors.white,
+//             ),
+//           ),
+//           const SizedBox(height: 8),
+//           const Text(
+//             'Test your skills and track progress',
+//             style: TextStyle(fontSize: 14, color: Colors.white),
+//           ),
+//           const SizedBox(height: 16),
+//           ElevatedButton(
+//             onPressed: () {
+//               Navigator.push(
+//                 context,
+//                 MaterialPageRoute(builder: (_) => const AssessmentScreen()),
+//               );
+//             },
+//             style: ElevatedButton.styleFrom(
+//               backgroundColor: Colors.deepPurple,
+//               shape: RoundedRectangleBorder(
+//                 borderRadius: BorderRadius.circular(30),
+//               ),
+//               padding: const EdgeInsets.symmetric(horizontal: 20, vertical: 12),
+//               foregroundColor: Colors.white,
+//               elevation: 4,
+//               shadowColor: Colors.black26,
+//             ),
+//             child: const Text("Take assessment"),
+//           ),
+//         ],
+//       ),
+//     );
+//   }
+// }
+
+// profile.dart
+
+import 'dart:convert';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
+import 'package:frontend/assessment/assessment_screen.dart';
+import 'package:frontend/auth/login_page.dart';
+import 'package:frontend/screens/learning.dart';
+import 'package:frontend/services/shared_prefs.dart';
+import 'package:http/http.dart' as http;
+
+class ProfileScreen extends StatefulWidget {
+  @override
+  _ProfileScreenState createState() => _ProfileScreenState();
+}
+
+class _ProfileScreenState extends State<ProfileScreen>
+    with SingleTickerProviderStateMixin {
+  late TabController _tabController;
+
+  Map<String, dynamic>? profileData;
+  bool loading = true;
+  String userName = 'Student';
+
+  int totalLessonsCompleted = 0;
+  int totalLessonsAvailable = 0;
+  bool lessonCountsLoaded = false;
+  String className = 'Not Set';
+  String schoolName = 'Not Set';
+
+  Map<String, int> totalLessons = {
+    'Basic': 0,
+    'Intermediate': 0,
+    'Advanced': 0,
+  };
+
+  List<String> allCompletedLessons = [];
+  Map<String, String> lessonTitlesMap = {};
+  String userLevel = 'Basic';
+
+  @override
+  void initState() {
+    super.initState();
+    _tabController = TabController(length: 3, vsync: this);
+    loadUserIdAndFetchProfile();
+  }
+
+  @override
+  void dispose() {
+    _tabController.dispose();
+    super.dispose();
+  }
+
+  Future<void> loadUserIdAndFetchProfile() async {
+    final id = await SharedPrefsService.getUserId();
+    final name = await SharedPrefsService.getUserName();
+    setState(() {
+      userName = name ?? 'Student';
+    });
+
+    if (id != null) {
+      fetchProfile(id);
+    }
+  }
+
+  Future<void> loadLessonsData() async {
+    final String response = await rootBundle.loadString(
+      'data/lessons/lessons.json',
+    );
+    final data = json.decode(response);
+
+    final levels = ['Basic', 'Intermediate', 'Advanced'];
+
+    int total = 0;
+    int completedCount = 0;
+    List<String> allLessons = [];
+
+    for (var level in levels) {
+      final lessonList = (data[level] as List<dynamic>?) ?? [];
+
+      // Count total lessons for that level
+      totalLessons[level] = lessonList.length;
+      total += lessonList.length;
+
+      // Store titles mapped to lesson keys (used in recent lessons, etc.)
+      for (var lesson in lessonList) {
+        lessonTitlesMap[lesson['lessonKey']] = lesson['title'];
+      }
+
+      // Get completed lessons from Shared Preferences
+      final completedLessons = await SharedPrefsService.getCompletedLessons(
+        level,
+      );
+      completedCount += completedLessons.length;
+      allLessons.addAll(completedLessons);
+    }
+
+    setState(() {
+      totalLessonsAvailable = total;
+      totalLessonsCompleted = completedCount;
+      allCompletedLessons = allLessons.reversed.toList();
+      lessonCountsLoaded = true;
+    });
+  }
+
+  Future<void> fetchProfile(String userId) async {
+    try {
+      final res = await http.get(
+        Uri.parse('http://localhost:8080/user/$userId'),
+      );
+      if (res.statusCode == 200) {
+        final data = json.decode(res.body);
+        final assessments = data['assessmentResults'] ?? [];
+
+        if (assessments.isNotEmpty) {
+          final latest = assessments.last;
+          final averageScore =
+              ((latest['readingScore'] +
+                          latest['listeningScore'] +
+                          latest['quizScore']) /
+                      3)
+                  .round();
+
+          if (averageScore >= 75) {
+            userLevel = 'Advanced';
+          } else if (averageScore >= 50) {
+            userLevel = 'Intermediate';
+          } else {
+            userLevel = 'Basic';
+          }
+        } else {
+          userLevel = 'Basic';
+        }
+
+        setState(() {
+          profileData = data;
+          className = data['class'] ?? 'Not Set';
+          schoolName = data['school'] ?? 'Not Set';
+          loading = false;
+        });
+
+        await loadLessonsData();
+      } else {
+        setState(() => loading = false);
+        ScaffoldMessenger.of(
+          context,
+        ).showSnackBar(SnackBar(content: Text('Failed to load profile')));
+      }
+    } catch (e) {
+      setState(() => loading = false);
+      ScaffoldMessenger.of(
+        context,
+      ).showSnackBar(SnackBar(content: Text('Error: $e')));
+    }
+  }
+
+  Future<void> _logout() async {
+    await SharedPrefsService.logout();
+    Navigator.pushReplacement(
+      context,
+      MaterialPageRoute(builder: (_) => LoginPage()),
+    );
+  }
+
+  int getOverallProgress() {
+    return totalLessonsAvailable > 0
+        ? ((totalLessonsCompleted / totalLessonsAvailable) * 100).round()
+        : 0;
+  }
+
+  int getAssessmentScore() {
+    final assessments = profileData?['assessmentResults'] ?? [];
+    if (assessments.isNotEmpty) {
+      final latest = assessments.last;
+      return ((latest['readingScore'] +
+                  latest['listeningScore'] +
+                  latest['quizScore']) /
+              3)
+          .round();
+    }
+    return 0;
+  }
+
+  List<Map<String, dynamic>> getRecentLessons() {
+    List<Map<String, dynamic>> recentLessons = [];
+
+    // Get last 4 completed lessons
+    final recentCompleted = allCompletedLessons.take(4).toList();
+
+    for (int i = 0; i < recentCompleted.length; i++) {
+      final lessonKey = recentCompleted[i];
+      recentLessons.add({
+        'id': i + 1,
+        'title': lessonTitlesMap[lessonKey] ?? lessonKey,
+        'level': _getLevelFromLessonKey(lessonKey),
+        'completed': true,
+        'score': 85 - (i * 3),
+      });
+    }
+
+    while (recentLessons.length < 4) {
+      recentLessons.add({
+        'id': recentLessons.length + 1,
+        'title': 'Upcoming Lesson',
+        'level': userLevel,
+        'completed': false,
+        'score': null,
+      });
+    }
+
+    return recentLessons;
+  }
+
+  String _getLevelFromLessonKey(String lessonKey) {
+    if (lessonKey.toLowerCase().startsWith('basic')) return 'Basic';
+    if (lessonKey.toLowerCase().startsWith('intermediate')) {
+      return 'Intermediate';
+    }
+    if (lessonKey.toLowerCase().startsWith('advanced')) return 'Advanced';
+    return userLevel;
+  }
+
+  List<Map<String, dynamic>> getLevelsProgress() {
+    final levelColors = [Colors.green, Colors.amber, Colors.red];
+    List<Map<String, dynamic>> levelsData = [];
+
+    for (int i = 0; i < ['Basic', 'Intermediate', 'Advanced'].length; i++) {
+      final level = ['Basic', 'Intermediate', 'Advanced'][i];
+      final completedCount = allCompletedLessons
+          .where(
+            (lessonKey) =>
+                lessonKey.toLowerCase().startsWith(level.toLowerCase()),
+          )
+          .length;
+      final total = totalLessons[level] ?? 1;
+      final progress = (completedCount / total * 100).round();
+
+      levelsData.add({
+        'level': level,
+        'color': levelColors[i],
+        'completed': progress == 100,
+        'lessons': total,
+        'completedLessons': completedCount,
+        'progress': progress.toDouble(),
+      });
+    }
+
+    return levelsData;
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    if (loading || profileData == null) {
+      return Scaffold(
+        body: Container(
+          decoration: BoxDecoration(
+            gradient: LinearGradient(
+              begin: Alignment.topLeft,
+              end: Alignment.bottomRight,
+              colors: [Colors.blue.shade50, Colors.blue.shade100],
+            ),
+          ),
+          child: Center(child: CircularProgressIndicator()),
+        ),
+      );
+    }
+
+    final streak = profileData!['currentStreak'] ?? 0;
+
+    return Scaffold(
+      body: Container(
+        decoration: BoxDecoration(
+          gradient: LinearGradient(
+            begin: Alignment.topLeft,
+            end: Alignment.bottomRight,
+            colors: [Colors.blue.shade50, Colors.blue.shade100],
+          ),
+        ),
+        child: SafeArea(
+          child: Padding(
+            padding: EdgeInsets.all(16),
+            child: Column(
+              children: [
+                _buildHeader(streak),
+                SizedBox(height: 16),
+                Expanded(child: _buildTabSection()),
+              ],
+            ),
+          ),
+        ),
+      ),
+    );
+  }
+
+  Widget _buildHeader(int streak) {
+    return Container(
+      padding: EdgeInsets.all(24),
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(16),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.1),
+            blurRadius: 10,
+            offset: Offset(0, 4),
+          ),
+        ],
+      ),
+      child: Row(
+        children: [
+          Container(
+            width: 80,
+            height: 80,
+            decoration: BoxDecoration(
+              gradient: LinearGradient(
+                colors: [Colors.blue.shade500, Colors.blue.shade600],
+                begin: Alignment.topLeft,
+                end: Alignment.bottomRight,
+              ),
+              borderRadius: BorderRadius.circular(40),
+            ),
+            child: Icon(Icons.person, size: 40, color: Colors.white),
+          ),
+          SizedBox(width: 16),
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  userName,
+                  style: TextStyle(
+                    fontSize: 24,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.grey.shade800,
+                  ),
+                ),
+                Text(
+                  'Class: $className',
+                  style: TextStyle(color: Colors.grey.shade600),
+                ),
+                Text(
+                  'School: $schoolName',
+                  style: TextStyle(color: Colors.grey.shade600),
+                ),
+              ],
+            ),
+          ),
+          Column(
+            crossAxisAlignment: CrossAxisAlignment.end,
+            children: [
+              Row(
+                children: [
+                  Icon(Icons.star, color: Colors.amber.shade500, size: 20),
+                  SizedBox(width: 4),
+                  Text(
+                    '$streak',
+                    style: TextStyle(
+                      fontSize: 20,
+                      fontWeight: FontWeight.bold,
+                      color: Colors.grey.shade800,
+                    ),
+                  ),
+                  SizedBox(width: 4),
+                  Text(
+                    'day streak',
+                    style: TextStyle(color: Colors.grey.shade600),
+                  ),
+                ],
+              ),
+              SizedBox(height: 8),
+              Container(
+                padding: EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+                decoration: BoxDecoration(
+                  color: _getLevelColor(userLevel),
+                  borderRadius: BorderRadius.circular(20),
+                ),
+                child: Text(
+                  '$userLevel Level',
+                  style: TextStyle(
+                    color: Colors.white,
+                    fontWeight: FontWeight.w600,
+                  ),
+                ),
+              ),
+              SizedBox(height: 8),
+              IconButton(
+                onPressed: _logout,
+                icon: Icon(Icons.logout, color: Colors.grey.shade600),
+                tooltip: 'Logout',
+              ),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Color _getLevelColor(String level) {
+    switch (level) {
+      case 'Basic':
+        return Colors.green.shade500;
+      case 'Intermediate':
+        return Colors.amber.shade500;
+      case 'Advanced':
+        return Colors.red.shade500;
+      default:
+        return Colors.blue.shade500;
+    }
+  }
+
+  Widget _buildTabSection() {
+    return Container(
+      decoration: BoxDecoration(
+        color: Colors.white,
+        borderRadius: BorderRadius.circular(16),
+        boxShadow: [
+          BoxShadow(
+            color: Colors.black.withOpacity(0.1),
+            blurRadius: 10,
+            offset: Offset(0, 4),
+          ),
+        ],
+      ),
+      child: Column(
+        children: [
+          TabBar(
+            controller: _tabController,
+            indicator: UnderlineTabIndicator(
+              borderSide: BorderSide(color: Colors.blue.shade600, width: 2),
+            ),
+            labelColor: Colors.blue.shade600,
+            unselectedLabelColor: Colors.grey.shade600,
+            tabs: [
+              Tab(
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.trending_up, size: 20),
+                    SizedBox(width: 8),
+                    Text('Overview'),
+                  ],
+                ),
+              ),
+              Tab(
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.track_changes, size: 20),
+                    SizedBox(width: 8),
+                    Text('Assessment'),
+                  ],
+                ),
+              ),
+              Tab(
+                child: Row(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    Icon(Icons.menu_book, size: 20),
+                    SizedBox(width: 8),
+                    Text('Levels'),
+                  ],
+                ),
+              ),
+            ],
+          ),
+          Expanded(
+            child: TabBarView(
+              controller: _tabController,
+              children: [
+                _buildOverviewTab(),
+                _buildAssessmentTab(),
+                _buildLevelsTab(),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildOverviewTab() {
+    final recentLessons = getRecentLessons();
+
+    return Padding(
+      padding: EdgeInsets.all(24),
+      child: Column(
+        children: [
+          // Progress Stats
+          Row(
+            children: [
+              Expanded(
+                child: _buildStatCard(
+                  'Overall Progress',
+                  '${getOverallProgress()}%',
+                  Icons.trending_up,
+                  Colors.green,
+                ),
+              ),
+              SizedBox(width: 16),
+              Expanded(
+                child: _buildStatCard(
+                  'Lessons Completed',
+                  '$totalLessonsCompleted/$totalLessonsAvailable',
+                  Icons.menu_book,
+                  Colors.blue,
+                ),
+              ),
+              SizedBox(width: 16),
+              Expanded(
+                child: _buildStatCard(
+                  'Assessment Score',
+                  '${getAssessmentScore()}/100',
+                  Icons.emoji_events,
+                  Colors.amber,
+                ),
+              ),
+            ],
+          ),
+          SizedBox(height: 24),
+          // Recent Lessons
+          Expanded(
+            child: Column(
+              crossAxisAlignment: CrossAxisAlignment.start,
+              children: [
+                Text(
+                  'Recent Lessons',
+                  style: TextStyle(
+                    fontSize: 20,
+                    fontWeight: FontWeight.bold,
+                    color: Colors.grey.shade800,
+                  ),
+                ),
+                SizedBox(height: 16),
+                Expanded(
+                  child: ListView.builder(
+                    itemCount: recentLessons.length,
+                    itemBuilder: (context, index) {
+                      final lesson = recentLessons[index];
+                      return Container(
+                        margin: EdgeInsets.only(bottom: 12),
+                        padding: EdgeInsets.all(16),
+                        decoration: BoxDecoration(
+                          color: Colors.grey.shade50,
+                          borderRadius: BorderRadius.circular(12),
+                        ),
+                        child: Row(
+                          children: [
+                            Icon(
+                              lesson['completed']
+                                  ? Icons.check_circle
+                                  : Icons.play_arrow,
+                              color: lesson['completed']
+                                  ? Colors.green
+                                  : Colors.blue,
+                              size: 24,
+                            ),
+                            SizedBox(width: 16),
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: [
+                                  Text(
+                                    lesson['title'],
+                                    style: TextStyle(
+                                      fontWeight: FontWeight.w600,
+                                      color: Colors.grey.shade800,
+                                    ),
+                                  ),
+                                  Text(
+                                    '${lesson['level']} Level',
+                                    style: TextStyle(
+                                      fontSize: 12,
+                                      color: Colors.grey.shade600,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                            lesson['completed']
+                                ? Text(
+                                    'Score: ${lesson['score']}/100',
+                                    style: TextStyle(
+                                      color: Colors.green.shade600,
+                                      fontWeight: FontWeight.w600,
+                                    ),
+                                  )
+                                : ElevatedButton(
+                                    onPressed: () {},
+                                    style: ElevatedButton.styleFrom(
+                                      backgroundColor: Colors.blue.shade500,
+                                      foregroundColor: Colors.white,
+                                    ),
+                                    child: Text('Start'),
+                                  ),
+                          ],
+                        ),
+                      );
+                    },
+                  ),
+                ),
+              ],
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildAssessmentTab() {
+    final assessments = profileData!['assessmentResults'] ?? [];
+
+    return SingleChildScrollView(
+      child: Padding(
+        padding: EdgeInsets.all(24),
+        child: Column(
+          children: [
+            Text(
+              'K-Skill Assessment Results',
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.bold,
+                color: Colors.grey.shade800,
+              ),
+            ),
+            SizedBox(height: 8),
+            Text(
+              'Assessment scores and Proficiency level',
+              style: TextStyle(color: Colors.grey.shade600),
+              textAlign: TextAlign.center,
+            ),
+            SizedBox(height: 32),
+            if (assessments.isNotEmpty) ...[
+              Row(
+                children: [
+                  Expanded(
+                    child: _buildAssessmentCard(
+                      'Grammar & Vocabulary',
+                      Icons.psychology,
+                      assessments.last['quizScore'],
+                    ),
+                  ),
+                  SizedBox(width: 16),
+                  Expanded(
+                    child: _buildAssessmentCard(
+                      'Reading Test',
+                      Icons.description,
+                      assessments.last['readingScore'],
+                    ),
+                  ),
+                  SizedBox(width: 16),
+                  Expanded(
+                    child: _buildAssessmentCard(
+                      'Listening Test',
+                      Icons.headphones,
+                      assessments.last['listeningScore'],
+                    ),
+                  ),
+                ],
+              ),
+              SizedBox(height: 32),
+              Container(
+                padding: EdgeInsets.all(32),
+                decoration: BoxDecoration(
+                  gradient: LinearGradient(
+                    colors: [Colors.blue.shade500, Colors.blue.shade600],
+                  ),
+                  borderRadius: BorderRadius.circular(12),
+                ),
+                child: Column(
+                  children: [
+                    Text(
+                      'Overall Assessment Score',
+                      style: TextStyle(
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                        color: Colors.white,
+                      ),
+                    ),
+                    SizedBox(height: 16),
+                    RichText(
+                      text: TextSpan(
+                        children: [
+                          TextSpan(
+                            text: '${getAssessmentScore()}',
+                            style: TextStyle(
+                              fontSize: 48,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.white,
+                            ),
+                          ),
+                          TextSpan(
+                            text: '/100',
+                            style: TextStyle(fontSize: 24, color: Colors.white),
+                          ),
+                        ],
+                      ),
+                    ),
+                    SizedBox(height: 16),
+                    RichText(
+                      text: TextSpan(
+                        children: [
+                          TextSpan(
+                            text: 'Recommended Level: ',
+                            style: TextStyle(fontSize: 18, color: Colors.white),
+                          ),
+                          TextSpan(
+                            text: userLevel,
+                            style: TextStyle(
+                              fontSize: 18,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.amber.shade300,
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+            ] else ...[
+              Text(
+                'No assessments completed yet.',
+                style: TextStyle(fontSize: 18, color: Colors.grey.shade600),
+              ),
+              SizedBox(height: 20),
+              ElevatedButton(
+                onPressed: () {
+                  Navigator.push(
+                    context,
+                    MaterialPageRoute(builder: (_) => const AssessmentScreen()),
+                  );
+                },
+                style: ElevatedButton.styleFrom(
+                  backgroundColor: Colors.blue.shade500,
+                  foregroundColor: Colors.white,
+                  padding: EdgeInsets.symmetric(horizontal: 32, vertical: 16),
+                ),
+                child: Text('Take Assessment'),
+              ),
+            ],
+          ],
+        ),
+      ),
+    );
+  }
+
+  Widget _buildLevelsTab() {
+    if (!lessonCountsLoaded) {
+      return Center(child: CircularProgressIndicator());
+    }
+
+    final levelsData = getLevelsProgress();
+
+    return Padding(
+      padding: EdgeInsets.all(24),
+      child: ListView.builder(
+        itemCount: levelsData.length,
+        itemBuilder: (context, index) {
+          final level = levelsData[index];
+          return Container(
+            margin: EdgeInsets.only(bottom: 16),
+            padding: EdgeInsets.all(24),
+            decoration: BoxDecoration(
+              border: Border.all(color: level['color'], width: 2),
+              borderRadius: BorderRadius.circular(12),
+              color: Colors.white,
+            ),
+            child: Column(
+              children: [
+                Row(
+                  children: [
+                    Icon(
+                      level['completed']
+                          ? Icons.check_circle
+                          : Icons.play_arrow,
+                      size: 32,
+                      color: level['completed'] ? Colors.green : level['color'],
+                    ),
+                    SizedBox(width: 16),
+                    Expanded(
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Text(
+                            '${level['level']} Level',
+                            style: TextStyle(
+                              fontSize: 20,
+                              fontWeight: FontWeight.bold,
+                              color: Colors.grey.shade800,
+                            ),
+                          ),
+                          Text(
+                            '${level['completedLessons']}/${level['lessons']} lessons completed',
+                            style: TextStyle(color: Colors.grey.shade600),
+                          ),
+                        ],
+                      ),
+                    ),
+                    Column(
+                      crossAxisAlignment: CrossAxisAlignment.end,
+                      children: [
+                        Text(
+                          '${level['progress'].toInt()}%',
+                          style: TextStyle(
+                            fontSize: 20,
+                            fontWeight: FontWeight.bold,
+                            color: level['color'],
+                          ),
+                        ),
+                        SizedBox(height: 8),
+                        ElevatedButton(
+                          onPressed: () {
+                            Navigator.push(
+                              context,
+                              MaterialPageRoute(
+                                builder: (_) => const LearningScreen(),
+                              ),
+                            );
+                          },
+                          style: ElevatedButton.styleFrom(
+                            backgroundColor: level['color'],
+                            foregroundColor: Colors.white,
+                          ),
+                          child: Text('Continue Learning'),
+                        ),
+                      ],
+                    ),
+                  ],
+                ),
+                SizedBox(height: 16),
+                LinearProgressIndicator(
+                  value: level['progress'] / 100,
+                  backgroundColor: Colors.grey.shade200,
+                  valueColor: AlwaysStoppedAnimation<Color>(level['color']),
+                  minHeight: 8,
+                ),
+              ],
+            ),
+          );
+        },
+      ),
+    );
+  }
+
+  Widget _buildStatCard(
+    String title,
+    String value,
+    IconData icon,
+    Color color,
+  ) {
+    return Container(
+      padding: EdgeInsets.all(20),
+      decoration: BoxDecoration(
+        gradient: LinearGradient(
+          colors: [color, color],
+          begin: Alignment.topLeft,
+          end: Alignment.bottomRight,
+        ),
+        borderRadius: BorderRadius.circular(12),
+      ),
+      child: Column(
+        crossAxisAlignment: CrossAxisAlignment.start,
+        children: [
+          Row(
+            mainAxisAlignment: MainAxisAlignment.spaceBetween,
+            children: [
+              Expanded(
+                child: Column(
+                  crossAxisAlignment: CrossAxisAlignment.start,
+                  children: [
+                    Text(
+                      title,
+                      style: TextStyle(color: Colors.white70, fontSize: 12),
+                    ),
+                    SizedBox(height: 4),
+                    Text(
+                      value,
+                      style: TextStyle(
+                        color: Colors.white,
+                        fontSize: 20,
+                        fontWeight: FontWeight.bold,
+                      ),
+                    ),
+                  ],
+                ),
+              ),
+              Icon(icon, color: Colors.white70, size: 28),
+            ],
+          ),
+        ],
+      ),
+    );
+  }
+
+  Widget _buildAssessmentCard(String title, IconData icon, int score) {
+    bool completed = score > 0;
+
+    return Container(
+      padding: EdgeInsets.all(24),
+      decoration: BoxDecoration(
+        border: Border.all(color: Colors.green.shade500, width: 2),
+        borderRadius: BorderRadius.circular(12),
+        color: Colors.green.shade50,
+      ),
+      child: Column(
+        children: [
+          Icon(icon, size: 48, color: Colors.green.shade500),
+          SizedBox(height: 16),
+          Text(
+            title,
+            style: TextStyle(
+              fontSize: 16,
+              fontWeight: FontWeight.w600,
+              color: Colors.grey.shade800,
+            ),
+            textAlign: TextAlign.center,
+          ),
+          SizedBox(height: 16),
+          if (completed) ...[
+            Text(
+              '$score/100',
+              style: TextStyle(
+                fontSize: 24,
+                fontWeight: FontWeight.bold,
+                color: Colors.green.shade600,
+              ),
+            ),
+            SizedBox(height: 8),
+            Icon(Icons.check_circle, color: Colors.green.shade500, size: 24),
+          ] else ...[
+            ElevatedButton(
+              onPressed: () {},
+              style: ElevatedButton.styleFrom(
+                backgroundColor: Colors.blue.shade500,
+                foregroundColor: Colors.white,
+              ),
+              child: Text('Start Test'),
+            ),
+          ],
+        ],
+      ),
+    );
+  }
+}
+
+
+import 'package:flutter/material.dart';
+import 'package:frontend/assessment/assessment_screen.dart';
+import 'package:frontend/assessment/listening_screen.dart';
+import 'package:frontend/assessment/quiz_screen.dart';
+import 'package:frontend/assessment/reading_screen.dart';
+import 'package:frontend/auth/login_page.dart';
+import 'package:frontend/screens/dashboard.dart';
+import 'package:frontend/screens/profile.dart';
+import 'package:shared_preferences/shared_preferences.dart';
+
+void main() async {
+  WidgetsFlutterBinding.ensureInitialized();
+  SharedPreferences prefs = await SharedPreferences.getInstance();
+  bool isLoggedIn = prefs.getBool('isLoggedIn') ?? false;
+  String lastRoute = prefs.getString('lastRoute') ?? '/dashboard';
+
+  runApp(MyKSkillApp(
+    isLoggedIn: isLoggedIn,
+    initialRoute: isLoggedIn ? lastRoute : '/login',
+  ));
+}
+
+class MyKSkillApp extends StatelessWidget {
+  final bool isLoggedIn;
+  final String initialRoute;
+
+  const MyKSkillApp({required this.isLoggedIn, required this.initialRoute, super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      title: 'K-Skill App',
+      debugShowCheckedModeBanner: false,
+      initialRoute: initialRoute,
+      routes: {
+        '/login': (context) => LoginPage(),
+        '/profile': (context) => RouteAwareWrapper(routeName: '/profile', child: ProfileScreen()),
+        '/reading': (context) => const RouteAwareWrapper(routeName: '/reading', child: ReadingScreen()),
+        '/assessment': (context) => const RouteAwareWrapper(routeName: '/assessment', child: AssessmentScreen()),
+        '/listening': (context) => const RouteAwareWrapper(routeName: '/listening', child: ListeningScreen()),
+        '/quiz': (context) => const RouteAwareWrapper(routeName: '/quiz', child: QuizScreen()),
+        '/dashboard': (context) => const RouteAwareWrapper(routeName: '/dashboard', child: DashboardScreen()),
+      },
+    );
+  }
+}
+class RouteAwareWrapper extends StatefulWidget {
+  final Widget child;
+  final String routeName;
+
+  const RouteAwareWrapper({
+    super.key,
+    required this.child,
+    required this.routeName,
+  });
+
+  @override
+  State<RouteAwareWrapper> createState() => _RouteAwareWrapperState();
+}
+
+class _RouteAwareWrapperState extends State<RouteAwareWrapper> {
+  @override
+  void initState() {
+    super.initState();
+    _storeCurrentRoute();
+  }
+
+  void _storeCurrentRoute() async {
+    final prefs = await SharedPreferences.getInstance();
+    await prefs.setString('lastRoute', widget.routeName);
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return widget.child;
+  }
+}
+
+
+import 'package:flutter/material.dart';
+import 'package:speech_to_text/speech_to_text.dart' as stt;
+import 'package:flutter_tts/flutter_tts.dart';
+import 'package:http/http.dart' as http;
+import 'dart:convert';
+
+class SpeakingPractice extends StatefulWidget {
+  @override
+  _SpeakingPracticeState createState() => _SpeakingPracticeState();
+}
+
+class _SpeakingPracticeState extends State<SpeakingPractice> 
+    with TickerProviderStateMixin {
+  // Speech and TTS instances
+  late stt.SpeechToText _speech;
+  late FlutterTts _flutterTts;
+  late AnimationController _pulseController;
+  late Animation<double> _pulseAnimation;
+
+  // State variables
+  bool _isListening = false;
+  bool _isProcessing = false;
+  bool _isSessionActive = false;
+  bool _isSpeaking = false;
+  String _userSpeech = '';
+  String _currentResponse = '';
+  List<Map<String, String>> _conversationHistory = [];
+
+  // Groq API configuration
+  static const String _groqApiKey = "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";
+  static const String _groqApiUrl = 'https://api.groq.com/openai/v1/chat/completions';
+
+  @override
+  void initState() {
+    super.initState();
+    _speech = stt.SpeechToText();
+    _flutterTts = FlutterTts();
+    _initializeTts();
+    _initializeAnimations();
+  }
+
+  void _initializeAnimations() {
+    _pulseController = AnimationController(
+      duration: Duration(milliseconds: 1200),
+      vsync: this,
+    );
+    _pulseAnimation = Tween<double>(
+      begin: 1.0,
+      end: 1.2,
+    ).animate(CurvedAnimation(
+      parent: _pulseController,
+      curve: Curves.easeInOut,
+    ));
+  }
+
+  void _initializeTts() async {
+    await _flutterTts.setLanguage("en-US");
+    await _flutterTts.setPitch(1.0);
+    await _flutterTts.setSpeechRate(0.8);
+    await _flutterTts.setVolume(1.0);
+
+    // Set completion handler to know when TTS is done
+    _flutterTts.setCompletionHandler(() {
+      setState(() {
+        _isSpeaking = false;
+      });
+    });
+
+    _flutterTts.setStartHandler(() {
+      setState(() {
+        _isSpeaking = true;
+      });
+    });
+
+    // Add error handler
+    _flutterTts.setErrorHandler((msg) {
+      print("TTS Error: $msg");
+      setState(() {
+        _isSpeaking = false;
+      });
+    });
+  }
+
+  Future<void> _speakText(String text) async {
+    if (text.trim().isEmpty) return;
+    
+    setState(() {
+      _isSpeaking = true;
+    });
+    
+    try {
+      await _flutterTts.speak(text);
+    } catch (e) {
+      print("Error speaking text: $e");
+      setState(() {
+        _isSpeaking = false;
+      });
+    }
+  }
+
+  // Manual start listening
+  void _startListening() async {
+    bool available = await _speech.initialize(
+      onError: (error) {
+        print("Speech recognition error: $error");
+        setState(() {
+          _isListening = false;
+        });
+        _pulseController.stop();
+        ScaffoldMessenger.of(context).showSnackBar(
+          SnackBar(
+            content: Text('Speech error: ${error.errorMsg}'),
+            backgroundColor: Colors.red[400],
+          ),
+        );
+      },
+      onStatus: (status) {
+        print("Speech recognition status: $status");
+        if (status == 'notListening' && _isListening) {
+          setState(() {
+            _isListening = false;
+          });
+          _pulseController.stop();
+          // Process the speech when listening stops
+          if (_userSpeech.trim().isNotEmpty) {
+            _processUserInput(_userSpeech);
+          }
+        }
+      },
+    );
+
+    if (!available) {
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(
+          content: Text('Speech recognition not available'),
+          backgroundColor: Colors.red[400],
+        ),
+      );
+      return;
+    }
+
+    setState(() {
+      _isListening = true;
+      _userSpeech = '';
+    });
+
+    _pulseController.repeat(reverse: true);
+
+    _speech.listen(
+      onResult: (val) {
+        setState(() {
+          _userSpeech = val.recognizedWords;
+        });
+      },
+      partialResults: true,
+      localeId: 'en_US',
+      cancelOnError: true,
+    );
+  }
+
+  // Manual stop listening
+  void _stopListening() {
+    setState(() => _isListening = false);
+    _speech.stop();
+    _pulseController.stop();
+    
+    if (_userSpeech.trim().isNotEmpty) {
+      _processUserInput(_userSpeech);
+    }
+  }
+
+  // Generate LLM response with focus on error correction and follow-up
+  Future<String> _generateLLMResponse(String userInput) async {
+    try {
+      // Add user input to conversation history
+      _conversationHistory.add({'role': 'user', 'content': userInput});
+
+      // Keep only last 6 messages to avoid token limits
+      if (_conversationHistory.length > 6) {
+        _conversationHistory = _conversationHistory.sublist(_conversationHistory.length - 6);
+      }
+
+      // Prepare the messages for Groq API with improved prompt
+      List<Map<String, String>> messages = [
+        {
+          'role': 'system',
+          'content': '''You are an English speaking tutor. Your job is to:
+1. Analyze the user's speech for grammar, vocabulary, and pronunciation errors
+2. If there are errors, gently correct them by providing the correct version
+3. Always ask a follow-up question to continue the conversation
+4. Keep responses under 40 words
+5. Be encouraging and supportive
+6. Focus on practical English improvement
+
+Format your response as:
+- First, acknowledge what they said
+- Then, if needed, provide gentle corrections like "You could also say: [correct version]"
+- Finally, ask an engaging follow-up question'''
+        },
+        ..._conversationHistory,
+      ];
+
+      final response = await http.post(
+        Uri.parse(_groqApiUrl),
+        headers: {
+          'Authorization': 'Bearer $_groqApiKey',
+          'Content-Type': 'application/json',
+        },
+        body: jsonEncode({
+          'model': 'llama3-8b-8192',
+          'messages': messages,
+          'max_tokens': 100,
+          'temperature': 0.8,
+        }),
+      );
+
+      if (response.statusCode == 200) {
+        final data = jsonDecode(response.body);
+        String llmResponse = data['choices'][0]['message']['content'].trim();
+
+        // Add LLM response to conversation history
+        _conversationHistory.add({'role': 'assistant', 'content': llmResponse});
+
+        return llmResponse;
+      } else {
+        print('Groq API Error: ${response.statusCode} - ${response.body}');
+        throw Exception('Failed to get response from Groq API: ${response.statusCode}');
+      }
+    } catch (e) {
+      print('Error generating LLM response: $e');
+      return 'Sorry, I encountered an error. Could you please repeat that?';
+    }
+  }
+
+  // Process user input and generate response
+  void _processUserInput(String userInput) async {
+    if (userInput.trim().isEmpty) return;
+
+    setState(() {
+      _isProcessing = true;
+      _currentResponse = 'Analyzing your speech...';
+    });
+
+    try {
+      String llmResponse = await _generateLLMResponse(userInput);
+
+      setState(() {
+        _currentResponse = llmResponse;
+        _isProcessing = false;
+      });
+
+      // Small delay before speaking to ensure UI updates
+      await Future.delayed(Duration(milliseconds: 500));
+      
+      // Speak the LLM response
+      await _speakText(llmResponse);
+    } catch (e) {
+      print('Error processing user input: $e');
+      setState(() {
+        _currentResponse = 'Sorry, something went wrong. Please try again.';
+        _isProcessing = false;
+      });
+      await _speakText('Sorry, something went wrong. Please try again.');
+    }
+  }
+
+  // Start the conversation session
+  void _startSession() async {
+    setState(() {
+      _isSessionActive = true;
+      _conversationHistory.clear();
+      _currentResponse = 'Hello! I\'m your English tutor. Let\'s practice speaking together!';
+      _userSpeech = '';
+    });
+
+    // Speak the welcome message when session starts
+    await _speakText('Hello! I\'m your English tutor. Let\'s practice speaking together!');
+  }
+
+  // End the conversation session
+  void _endSession() {
+    setState(() {
+      _isSessionActive = false;
+      _isListening = false;
+      _isProcessing = false;
+      _isSpeaking = false;
+      _currentResponse = 'Session ended. Tap "Start Session" to begin again.';
+      _userSpeech = '';
+      _conversationHistory.clear();
+    });
+
+    _speech.stop();
+    _flutterTts.stop();
+    _pulseController.stop();
+  }
+
+  @override
+  Widget build(BuildContext context) {
+    return Scaffold(
+      backgroundColor: Colors.grey[50],
+      appBar: AppBar(
+        backgroundColor: Colors.transparent,
+        elevation: 0,
+        title: Text(
+          'Speaking Practice',
+          style: TextStyle(
+            color: Colors.deepPurple[700],
+            fontWeight: FontWeight.bold,
+            fontSize: 20,
+          ),
+        ),
+        centerTitle: true,
+        actions: [
+          if (_isSessionActive)
+            IconButton(
+              onPressed: _endSession,
+              icon: Icon(Icons.stop_circle_outlined, color: Colors.red[400]),
+              tooltip: 'End Session',
+            ),
+        ],
+      ),
+      body: SafeArea(
+        child: Stack(
+          children: [
+            // Main content
+            Padding(
+              padding: const EdgeInsets.all(16.0),
+              child: Column(
+                children: [
+                  // Compact Status Display
+                  Container(
+                    width: double.infinity,
+                    padding: EdgeInsets.symmetric(vertical: 12, horizontal: 16),
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                        colors: [Colors.deepPurple[400]!, Colors.deepPurple[600]!],
+                        begin: Alignment.centerLeft,
+                        end: Alignment.centerRight,
+                      ),
+                      borderRadius: BorderRadius.circular(12),
+                      boxShadow: [
+                        BoxShadow(
+                          color: Colors.deepPurple.withOpacity(0.2),
+                          blurRadius: 6,
+                          offset: Offset(0, 2),
+                        ),
+                      ],
+                    ),
+                    child: Row(
+                      children: [
+                        Container(
+                          padding: EdgeInsets.all(8),
+                          decoration: BoxDecoration(
+                            color: Colors.white.withOpacity(0.2),
+                            shape: BoxShape.circle,
+                          ),
+                          child: Icon(
+                            _isListening
+                                ? Icons.mic
+                                : _isProcessing
+                                ? Icons.psychology
+                                : _isSpeaking
+                                ? Icons.volume_up
+                                : _isSessionActive
+                                ? Icons.mic_none
+                                : Icons.play_circle_outline,
+                            size: 20,
+                            color: Colors.white,
+                          ),
+                        ),
+                        SizedBox(width: 12),
+                        Expanded(
+                          child: Text(
+                            _getStatusText(),
+                            style: TextStyle(
+                              fontSize: 14,
+                              fontWeight: FontWeight.w500,
+                              color: Colors.white,
+                            ),
+                          ),
+                        ),
+                      ],
+                    ),
+                  ),
+
+                  SizedBox(height: 16),
+
+                  // User Speech Display (Compact)
+                  if (_userSpeech.isNotEmpty)
+                    Container(
+                      width: double.infinity,
+                      padding: EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: Colors.blue[50],
+                        borderRadius: BorderRadius.circular(12),
+                        border: Border.all(color: Colors.blue[200]!),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Icon(Icons.person, color: Colors.blue[700], size: 16),
+                              SizedBox(width: 6),
+                              Text(
+                                'You said:',
+                                style: TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.blue[700],
+                                  fontSize: 12,
+                                ),
+                              ),
+                            ],
+                          ),
+                          SizedBox(height: 4),
+                          Text(
+                            _userSpeech,
+                            style: TextStyle(fontSize: 13, height: 1.3),
+                            maxLines: 2,
+                            overflow: TextOverflow.ellipsis,
+                          ),
+                        ],
+                      ),
+                    ),
+
+                  if (_userSpeech.isNotEmpty) SizedBox(height: 12),
+
+                  // AI Response Display (Compact)
+                  Expanded(
+                    child: Container(
+                      width: double.infinity,
+                      padding: EdgeInsets.all(12),
+                      decoration: BoxDecoration(
+                        color: Colors.green[50],
+                        borderRadius: BorderRadius.circular(12),
+                        border: Border.all(color: Colors.green[200]!),
+                      ),
+                      child: Column(
+                        crossAxisAlignment: CrossAxisAlignment.start,
+                        children: [
+                          Row(
+                            children: [
+                              Icon(Icons.smart_toy, color: Colors.green[700], size: 16),
+                              SizedBox(width: 6),
+                              Text(
+                                'AI Tutor:',
+                                style: TextStyle(
+                                  fontWeight: FontWeight.bold,
+                                  color: Colors.green[700],
+                                  fontSize: 12,
+                                ),
+                              ),
+                            ],
+                          ),
+                          SizedBox(height: 8),
+                          Expanded(
+                            child: SingleChildScrollView(
+                              child: Text(
+                                _currentResponse.isEmpty
+                                    ? (!_isSessionActive 
+                                        ? 'Tap "Start Session" to begin practicing English speaking!'
+                                        : 'Ready to help you practice English speaking...')
+                                    : _currentResponse,
+                                style: TextStyle(fontSize: 13, height: 1.4),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+                  ),
+
+                  SizedBox(height: 100), // Space for floating button
+                ],
+              ),
+            ),
+
+            // Floating Action Buttons
+            Positioned(
+              bottom: 30,
+              left: 0,
+              right: 0,
+              child: !_isSessionActive
+                  ? _buildFloatingStartButton()
+                  : _buildFloatingMicButton(),
+            ),
+          ],
+        ),
+      ),
+    );
+  }
+
+  // Floating Start Session Button
+  Widget _buildFloatingStartButton() {
+    return Center(
+      child: Container(
+        height: 56,
+        width: 200,
+        decoration: BoxDecoration(
+          borderRadius: BorderRadius.circular(28),
+          boxShadow: [
+            BoxShadow(
+              color: Colors.green.withOpacity(0.3),
+              blurRadius: 12,
+              offset: Offset(0, 6),
+            ),
+          ],
+        ),
+        child: ElevatedButton.icon(
+          onPressed: _startSession,
+          icon: Icon(Icons.play_arrow, size: 24),
+          label: Text(
+            'Start Session',
+            style: TextStyle(fontSize: 16, fontWeight: FontWeight.w600),
+          ),
+          style: ElevatedButton.styleFrom(
+            backgroundColor: Colors.green[500],
+            foregroundColor: Colors.white,
+            shape: RoundedRectangleBorder(
+              borderRadius: BorderRadius.circular(28),
+            ),
+            elevation: 0,
+          ),
+        ),
+      ),
+    );
+  }
+
+  // Floating Microphone Button (Similar to your reference)
+  Widget _buildFloatingMicButton() {
+    bool canTap = !(_isSpeaking || _isProcessing);
+    
+    return Center(
+      child: Column(
+        mainAxisSize: MainAxisSize.min,
+        children: [
+          // Status indicators row
+          Row(
+            mainAxisAlignment: MainAxisAlignment.center,
+            children: [
+              // Listening indicator
+              if (_isListening)
+                Container(
+                  margin: EdgeInsets.only(bottom: 16),
+                  padding: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: Colors.red[100],
+                    borderRadius: BorderRadius.circular(16),
+                    border: Border.all(color: Colors.red[300]!),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Container(
+                        width: 6,
+                        height: 6,
+                        decoration: BoxDecoration(
+                          color: Colors.red,
+                          shape: BoxShape.circle,
+                        ),
+                      ),
+                      SizedBox(width: 4),
+                      Text(
+                        'Listening...',
+                        style: TextStyle(
+                          color: Colors.red[700],
+                          fontSize: 11,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              
+              // Processing indicator
+              if (_isProcessing)
+                Container(
+                  margin: EdgeInsets.only(bottom: 16),
+                  padding: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: Colors.orange[100],
+                    borderRadius: BorderRadius.circular(16),
+                    border: Border.all(color: Colors.orange[300]!),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      SizedBox(
+                        width: 10,
+                        height: 10,
+                        child: CircularProgressIndicator(
+                          strokeWidth: 1.5,
+                          valueColor: AlwaysStoppedAnimation<Color>(Colors.orange[700]!),
+                        ),
+                      ),
+                      SizedBox(width: 4),
+                      Text(
+                        'Processing...',
+                        style: TextStyle(
+                          color: Colors.orange[700],
+                          fontSize: 11,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+              
+              // Speaking indicator
+              if (_isSpeaking)
+                Container(
+                  margin: EdgeInsets.only(bottom: 16),
+                  padding: EdgeInsets.symmetric(horizontal: 12, vertical: 6),
+                  decoration: BoxDecoration(
+                    color: Colors.purple[100],
+                    borderRadius: BorderRadius.circular(16),
+                    border: Border.all(color: Colors.purple[300]!),
+                  ),
+                  child: Row(
+                    mainAxisSize: MainAxisSize.min,
+                    children: [
+                      Icon(Icons.volume_up, size: 12, color: Colors.purple[700]),
+                      SizedBox(width: 4),
+                      Text(
+                        'Speaking...',
+                        style: TextStyle(
+                          color: Colors.purple[700],
+                          fontSize: 11,
+                          fontWeight: FontWeight.w500,
+                        ),
+                      ),
+                    ],
+                  ),
+                ),
+            ],
+          ),
+          
+          // Main microphone button
+          GestureDetector(
+            onTap: canTap 
+                ? (_isListening ? _stopListening : _startListening)
+                : null,
+            child: AnimatedBuilder(
+              animation: _pulseAnimation,
+              builder: (context, child) {
+                return Transform.scale(
+                  scale: _isListening ? _pulseAnimation.value : 1.0,
+                  child: Container(
+                    width: 80,
+                    height: 80,
+                    decoration: BoxDecoration(
+                      gradient: LinearGradient(
+                        colors: _isListening 
+                          ? [Colors.red[400]!, Colors.red[600]!]
+                          : canTap
+                          ? [Colors.blue[400]!, Colors.blue[600]!]
+                          : [Colors.grey[400]!, Colors.grey[500]!],
+                        begin: Alignment.topCenter,
+                        end: Alignment.bottomCenter,
+                      ),
+                      shape: BoxShape.circle,
+                      boxShadow: [
+                        BoxShadow(
+                          color: (_isListening ? Colors.red : canTap ? Colors.blue : Colors.grey).withOpacity(0.4),
+                          blurRadius: 16,
+                          offset: Offset(0, 8),
+                        ),
+                      ],
+                    ),
+                    child: Icon(
+                      _isListening ? Icons.stop : Icons.mic,
+                      size: 36,
+                      color: Colors.white,
+                    ),
+                  ),
+                );
+              },
+            ),
+          ),
+        ],
+      ),
+    );
+  }
+
+  String _getStatusText() {
+    if (_isListening) return 'Listening... Tap microphone to stop';
+    if (_isProcessing) return 'Processing your speech...';
+    if (_isSpeaking) return 'AI is speaking... Please wait';
+    if (_isSessionActive) return 'Ready! Tap microphone to speak';
+    return 'Tap "Start Session" to begin';
+  }
+
+  @override
+  void dispose() {
+    _speech.cancel();
+    _flutterTts.stop();
+    _pulseController.dispose();
+    super.dispose();
+  }
+}
+
+assets:
+
+  #assessment
+  - assets/data/assessment/listening_sentence.json
+  - assets/data/assessment/quiz_questions.json
+  - assets/data/assessment/reading_passage.json
+
+  #practice
+  - assets/data/practice/listening_sentences.json
+  - assets/data/practice/reading_passages.json
+  
+  #logos
+  - assets/images/boy.png
+  - assets/images/girl.png
+  - assets/images/kskill_logo.png
+  - assets/images/children.jpg
+  - assets/images/login_side_image.png
+
+  #lessons
+  - assets/data/lessons/english_curriculum.json
+
+  - assets/data/lessons/basic/
+  - assets/data/lessons/intermediate/
+  - assets/data/lessons/advanced/
+
+  - assets/data/lessons/basic/module-1/L1_M1_L1.json
+  - assets/data/lessons/basic/module-1/L1_M1_L2.json
+  - assets/data/lessons/basic/module-1/L1_M1_L3.json
+
+  - assets/data/lessons/basic/module-2/L1_M2_L1.json
+  - assets/data/lessons/basic/module-2/L1_M2_L2.json
+  - assets/data/lessons/basic/module-2/L1_M2_L3.json
+  - assets/data/lessons/basic/module-2/L1_M2_L4.json
+  - assets/data/lessons/basic/module-2/L1_M2_L5.json
+
+  - assets/data/lessons/basic/module-3/L1_M3_L1.json
+  - assets/data/lessons/basic/module-3/L1_M3_L2.json 
+  - assets/data/lessons/basic/module-3/L1_M3_L3.json 
+  - assets/data/lessons/basic/module-3/L1_M3_L4.json 
+  - assets/data/lessons/basic/module-3/L1_M3_L5.json 
+  - assets/data/lessons/basic/module-3/L1_M3_L6.json 
+  - assets/data/lessons/basic/module-3/L1_M3_L7.json 
+  - assets/data/lessons/basic/module-3/L1_M3_L8.json
+
+  - assets/data/lessons/basic/module-4/L1_M4_L1.json
+  - assets/data/lessons/basic/module-4/L1_M4_L2.json
+  - assets/data/lessons/basic/module-4/L1_M4_L3.json
+
+  - assets/data/lessons/basic/module-5/L1_M5_L1.json
+  - assets/data/lessons/basic/module-5/L1_M5_L2.json
+  - assets/data/lessons/basic/module-5/L1_M5_L3.json
+  - assets/data/lessons/basic/module-5/L1_M5_L4.json
+  - assets/data/lessons/basic/module-5/L1_M5_L5.json
+
+  - assets/data/lessons/intermediate/module-1/L2_M1_L1.json
+  - assets/data/lessons/intermediate/module-1/L2_M1_L2.json
+  - assets/data/lessons/intermediate/module-1/L2_M1_L3.json
+  - assets/data/lessons/intermediate/module-1/L2_M1_L4.json
+  - assets/data/lessons/intermediate/module-1/L2_M1_L5.json
+
+  - assets/data/lessons/intermediate/module-2/L2_M2_L1.json
+  - assets/data/lessons/intermediate/module-2/L2_M2_L2.json
+  - assets/data/lessons/intermediate/module-2/L2_M2_L3.json
+  - assets/data/lessons/intermediate/module-2/L2_M2_L4.json
+  - assets/data/lessons/intermediate/module-2/L2_M2_L5.json
+  - assets/data/lessons/intermediate/module-2/L2_M2_L6.json
+  - assets/data/lessons/intermediate/module-2/L2_M2_L7.json
+
+  - assets/data/lessons/intermediate/module-3/L2_M3_L1.json
+  - assets/data/lessons/intermediate/module-3/L2_M3_L2.json
+  - assets/data/lessons/intermediate/module-3/L2_M3_L3.json
+  - assets/data/lessons/intermediate/module-3/L2_M3_L4.json
+  - assets/data/lessons/intermediate/module-3/L2_M3_L5.json
+
+  - assets/data/lessons/intermediate/module-4/L2_M4_L1.json
+  - assets/data/lessons/intermediate/module-4/L2_M4_L2.json
+  - assets/data/lessons/intermediate/module-4/L2_M4_L3.json
+  - assets/data/lessons/intermediate/module-4/L2_M4_L4.json
+  - assets/data/lessons/intermediate/module-4/L2_M4_L5.json
+
+  - assets/data/lessons/intermediate/module-5/L2_M5_L1.json
+  - assets/data/lessons/intermediate/module-5/L2_M5_L2.json
+  - assets/data/lessons/intermediate/module-5/L2_M5_L3.json
+  - assets/data/lessons/intermediate/module-5/L2_M5_L4.json
+  - assets/data/lessons/intermediate/module-5/L2_M5_L5.json
+
+  - assets/data/lessons/advanced/module-1/L3_M1_L1.json
+  - assets/data/lessons/advanced/module-1/L3_M1_L2.json
+  - assets/data/lessons/advanced/module-1/L3_M1_L3.json
+  - assets/data/lessons/advanced/module-1/L3_M1_L4.json
+
+  - assets/data/lessons/advanced/module-2/L3_M2_L1.json
+  - assets/data/lessons/advanced/module-2/L3_M2_L2.json
+  - assets/data/lessons/advanced/module-2/L3_M2_L3.json
+  - assets/data/lessons/advanced/module-2/L3_M2_L4.json
+
+  - assets/data/lessons/advanced/module-3/L3_M3_L1.json
+  - assets/data/lessons/advanced/module-3/L3_M3_L2.json
+  - assets/data/lessons/advanced/module-3/L3_M3_L3.json
+  - assets/data/lessons/advanced/module-3/L3_M3_L4.json
+
+  - assets/data/lessons/advanced/module-4/L3_M4_L1.json
+  - assets/data/lessons/advanced/module-4/L3_M4_L2.json
+  - assets/data/lessons/advanced/module-4/L3_M4_L3.json
+  - assets/data/lessons/advanced/module-4/L3_M4_L4.json
+
+  #quizzes
+  - assets/data/quizzes/
+  - assets/data/quizzes/basic/
+  - assets/data/quizzes/intermediate/
+  - assets/data/quizzes/advanced/
+
+  - assets/data/quizzes/basic/module-1/L1_M1_Q1.json
+  - assets/data/quizzes/basic/module-1/L1_M1_Q2.json
+  - assets/data/quizzes/basic/module-1/L1_M1_Q3.json
+
+  - assets/data/quizzes/basic/module-2/L1_M2_Q1.json
+  - assets/data/quizzes/basic/module-2/L1_M2_Q2.json
+  - assets/data/quizzes/basic/module-2/L1_M2_Q3.json
+  - assets/data/quizzes/basic/module-2/L1_M2_Q4.json
+  - assets/data/quizzes/basic/module-2/L1_M2_Q5.json
+
+  - assets/data/quizzes/basic/module-3/L1_M3_Q1.json
+  - assets/data/quizzes/basic/module-3/L1_M3_Q2.json 
+  - assets/data/quizzes/basic/module-3/L1_M3_Q3.json 
+  - assets/data/quizzes/basic/module-3/L1_M3_Q4.json 
+  - assets/data/quizzes/basic/module-3/L1_M3_Q5.json 
+  - assets/data/quizzes/basic/module-3/L1_M3_Q6.json 
+  - assets/data/quizzes/basic/module-3/L1_M3_Q7.json 
+  - assets/data/quizzes/basic/module-3/L1_M3_Q8.json
+
+  - assets/data/quizzes/basic/module-4/L1_M4_Q1.json
+  - assets/data/quizzes/basic/module-4/L1_M4_Q2.json
+  - assets/data/quizzes/basic/module-4/L1_M4_Q3.json
+
+  - assets/data/quizzes/basic/module-5/L1_M5_Q1.json
+  - assets/data/quizzes/basic/module-5/L1_M5_Q2.json
+  - assets/data/quizzes/basic/module-5/L1_M5_Q3.json
+  - assets/data/quizzes/basic/module-5/L1_M5_Q4.json
+  - assets/data/quizzes/basic/module-5/L1_M5_Q5.json
+
+  - assets/data/quizzes/intermediate/module-1/L2_M1_Q1.json
+  - assets/data/quizzes/intermediate/module-1/L2_M1_Q2.json
+  - assets/data/quizzes/intermediate/module-1/L2_M1_Q3.json
+  - assets/data/quizzes/intermediate/module-1/L2_M1_Q4.json
+  - assets/data/quizzes/intermediate/module-1/L2_M1_Q5.json
+
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q1.json
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q2.json
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q3.json
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q4.json
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q5.json
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q6.json
+  - assets/data/quizzes/intermediate/module-2/L2_M2_Q7.json
+
+  - assets/data/quizzes/intermediate/module-3/L2_M3_Q1.json
+  - assets/data/quizzes/intermediate/module-3/L2_M3_Q2.json
+  - assets/data/quizzes/intermediate/module-3/L2_M3_Q3.json
+  - assets/data/quizzes/intermediate/module-3/L2_M3_Q4.json
+  - assets/data/quizzes/intermediate/module-3/L2_M3_Q5.json
+
+  - assets/data/quizzes/intermediate/module-4/L2_M4_Q1.json
+  - assets/data/quizzes/intermediate/module-4/L2_M4_Q2.json
+  - assets/data/quizzes/intermediate/module-4/L2_M4_Q3.json
+  - assets/data/quizzes/intermediate/module-4/L2_M4_Q4.json
+  - assets/data/quizzes/intermediate/module-4/L2_M4_Q5.json
+
+  - assets/data/quizzes/intermediate/module-5/L2_M5_Q1.json
+  - assets/data/quizzes/intermediate/module-5/L2_M5_Q2.json
+  - assets/data/quizzes/intermediate/module-5/L2_M5_Q3.json
+  - assets/data/quizzes/intermediate/module-5/L2_M5_Q4.json
+  - assets/data/quizzes/intermediate/module-5/L2_M5_Q5.json
+
+  - assets/data/quizzes/advanced/module-1/L3_M1_Q1.json
+  - assets/data/quizzes/advanced/module-1/L3_M1_Q2.json
+  - assets/data/quizzes/advanced/module-1/L3_M1_Q3.json
+  - assets/data/quizzes/advanced/module-1/L3_M1_Q4.json
+
+  - assets/data/quizzes/advanced/module-2/L3_M2_Q1.json
+  - assets/data/quizzes/advanced/module-2/L3_M2_Q2.json
+  - assets/data/quizzes/advanced/module-2/L3_M2_Q3.json
+  - assets/data/quizzes/advanced/module-2/L3_M2_Q4.json
+
+  - assets/data/quizzes/advanced/module-3/L3_M3_Q1.json
+  - assets/data/quizzes/advanced/module-3/L3_M3_Q2.json
+  - assets/data/quizzes/advanced/module-3/L3_M3_Q3.json
+  - assets/data/quizzes/advanced/module-3/L3_M3_Q4.json
+
+  - assets/data/quizzes/advanced/module-4/L3_M4_Q1.json
+  - assets/data/quizzes/advanced/module-4/L3_M4_Q2.json
+  - assets/data/quizzes/advanced/module-4/L3_M4_Q3.json
+  - assets/data/quizzes/advanced/module-4/L3_M4_Q4.json
+
+  - assets/images/
+
+  #images for each lesson
+  - assets/images/
+  - assets/images/basic/
+  - assets/images/intermediate/
+  - assets/images/advanced/
+
+  - assets/images/basic/module-1/lesson-1/
+  - assets/images/basic/module-1/lesson-2/
+  - assets/images/basic/module-1/lesson-3/
+
+  - assets/images/basic/module-2/lesson-1/
+  - assets/images/basic/module-2/lesson-2/
+  - assets/images/basic/module-2/lesson-3/
+  - assets/images/basic/module-2/lesson-4/
+  - assets/images/basic/module-2/lesson-5/  
+
+  - assets/images/basic/module-3/lesson-1/
+  - assets/images/basic/module-3/lesson-2/
+  - assets/images/basic/module-3/lesson-3/
+  - assets/images/basic/module-3/lesson-4/
+  - assets/images/basic/module-3/lesson-5/
+  - assets/images/basic/module-3/lesson-6/
+  - assets/images/basic/module-3/lesson-7/
+  - assets/images/basic/module-3/lesson-8/
+
+  - assets/images/basic/module-4/lesson-1/
+  - assets/images/basic/module-4/lesson-2/
+  - assets/images/basic/module-4/lesson-3/
+
+  - assets/images/basic/module-5/lesson-1/
+  - assets/images/basic/module-5/lesson-2/
+  - assets/images/basic/module-5/lesson-3/
+  - assets/images/basic/module-5/lesson-4/
+  - assets/images/basic/module-5/lesson-5/
+
+  - assets/images/intermediate/module-1/lesson-1/
+  - assets/images/intermediate/module-1/lesson-2/
+  - assets/images/intermediate/module-1/lesson-3/
+  - assets/images/intermediate/module-1/lesson-4/
+  - assets/images/intermediate/module-1/lesson-5/
+
+  - assets/images/intermediate/module-2/lesson-1/
+  - assets/images/intermediate/module-2/lesson-2/
+  - assets/images/intermediate/module-2/lesson-3/
+  - assets/images/intermediate/module-2/lesson-4/
+  - assets/images/intermediate/module-2/lesson-5/
+  - assets/images/intermediate/module-2/lesson-6/
+  - assets/images/intermediate/module-2/lesson-7/
+
+  - assets/images/intermediate/module-3/lesson-1/
+  - assets/images/intermediate/module-3/lesson-2/
+  - assets/images/intermediate/module-3/lesson-3/
+  - assets/images/intermediate/module-3/lesson-4/
+  - assets/images/intermediate/module-3/lesson-5/
+
+  - assets/images/intermediate/module-4/lesson-1/
+  - assets/images/intermediate/module-4/lesson-2/
+  - assets/images/intermediate/module-4/lesson-3/
+  - assets/images/intermediate/module-4/lesson-4/
+  - assets/images/intermediate/module-4/lesson-5/
+
+  - assets/images/intermediate/module-5/lesson-1/
+  - assets/images/intermediate/module-5/lesson-2/
+  - assets/images/intermediate/module-5/lesson-3/
+  - assets/images/intermediate/module-5/lesson-4/
+  - assets/images/intermediate/module-5/lesson-5/
+
+  - assets/images/advanced/module-1/lesson-1/
+  - assets/images/advanced/module-1/lesson-2/
+  - assets/images/advanced/module-1/lesson-3/
+  - assets/images/advanced/module-1/lesson-4/
+
+  - assets/images/advanced/module-2/lesson-1/
+  - assets/images/advanced/module-2/lesson-2/
+  - assets/images/advanced/module-2/lesson-3/
+  - assets/images/advanced/module-2/lesson-4/
+
+  - assets/images/advanced/module-3/lesson-1/
+  - assets/images/advanced/module-3/lesson-2/
+  - assets/images/advanced/module-3/lesson-3/
+  - assets/images/advanced/module-3/lesson-4/
+
+  - assets/images/advanced/module-4/lesson-1/
+  - assets/images/advanced/module-4/lesson-2/
+  - assets/images/advanced/module-4/lesson-3/
+  - assets/images/advanced/module-4/lesson-4/
+
+  - assets/audio/
+
+  - assets/vocabulary/agriculture.json
+  - assets/vocabulary/arts.json
+  - assets/vocabulary/business.json
+  - assets/vocabulary/climate.json
+  - assets/vocabulary/digital.json
+  - assets/vocabulary/economics.json
+  - assets/vocabulary/education.json
+  - assets/vocabulary/entertainment.json
+  - assets/vocabulary/family.json
+  - assets/vocabulary/food.json
+  - assets/vocabulary/government.json
+  - assets/vocabulary/health.json
+  - assets/vocabulary/history.json
+  - assets/vocabulary/home.json
+  - assets/vocabulary/nature.json
+  - assets/vocabulary/philosophy.json
+  - assets/vocabulary/science.json
+  - assets/vocabulary/shopping.json
+  - assets/vocabulary/space.json
+  - assets/vocabulary/sports.json
+  - assets/vocabulary/technology.json
+  - assets/vocabulary/psychology.json
+  - assets/vocabulary/transportation.json
+  - assets/vocabulary/travel.json

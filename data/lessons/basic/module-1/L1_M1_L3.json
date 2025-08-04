@@ -1,0 +1,714 @@
+{
+  "level": "Beginner",
+  "module": "PHONICS & PRONUNCIATION",
+  "lesson_number": 3,
+  "lesson_title": "Syllables",
+  "objectives": [
+    "Learn to find and count the sound parts in words.",
+    "Understand how to break words into smaller, speakable parts.",
+    "Improve your understanding of how words are built with sounds."
+  ],
+  "topics": [
+    {
+      "title": "What are Syllables?",
+      "subtopics": [
+        {
+          "title": "Understanding Syllables",
+          "sections": [
+            {
+              "text": "When we speak words, we do not say them all at once. We say them in small parts or 'beats'. Each part has one vowel sound. These small parts are called syllables. Think of it like clapping your hands for each part of a word.",
+              "examples": [
+                {
+                  "label": "Cat",
+                  "value": "cat (1 syllable)"
+                },
+                {
+                  "label": "Dog",
+                  "value": "dog (1 syllable)"
+                },
+                {
+                  "label": "Run",
+                  "value": "run (1 syllable)"
+                },
+                {
+                  "label": "Water",
+                  "value": "wa-ter (2 syllables)"
+                },
+                {
+                  "label": "Happy",
+                  "value": "hap-py (2 syllables)"
+                },
+                {
+                  "label": "Farmer",
+                  "value": "far-mer (2 syllables)"
+                },
+                {
+                  "label": "Elephant",
+                  "value": "el-e-phant (3 syllables)"
+                },
+                {
+                  "label": "Banana",
+                  "value": "ba-na-na (3 syllables)"
+                },
+                {
+                  "label": "Hospital",
+                  "value": "hos-pi-tal (3 syllables)"
+                },
+                {
+                  "label": "Information",
+                  "value": "in-for-ma-tion (4 syllables)"
+                },
+                {
+                  "label": "Education",
+                  "value": "ed-u-ca-tion (4 syllables)"
+                },
+                {
+                  "label": "Celebration",
+                  "value": "cel-e-bra-tion (4 syllables)"
+                }
+              ],
+              "usage_examples": [
+                "The word 'cat' has one clap.",
+                "The word 'water' has two claps: wa-ter.",
+                "The word 'elephant' has three claps: el-e-phant.",
+                "The word 'information' has four claps: in-for-ma-tion.",
+                "Our 'school' has one clap.",
+                "The 'dog' barks loudly.",
+                "Let's 'run' together.",
+                "She is a 'hap-py' girl.",
+                "The 'far-mer' grows rice.",
+                "Eat a 'ba-na-na' every day.",
+                "The 'hos-pi-tal' is near.",
+                "Good 'ed-u-ca-tion' is important."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p1"
+              }
+            },
+            {
+              "text": "Every syllable must have at least one vowel sound. A vowel sound is made by the letters A, E, I, O, U, and sometimes Y. The sound of the vowel is what makes a syllable.",
+              "examples": [
+                {
+                  "label": "Sun",
+                  "value": "sun (has 'u' vowel sound)"
+                },
+                {
+                  "label": "Tree",
+                  "value": "tree (has 'ee' vowel sound)"
+                },
+                {
+                  "label": "Big",
+                  "value": "big (has 'i' vowel sound)"
+                },
+                {
+                  "label": "Go",
+                  "value": "go (has 'o' vowel sound)"
+                },
+                {
+                  "label": "Sky",
+                  "value": "sky (has 'y' making 'i' sound)"
+                },
+                {
+                  "label": "Farm",
+                  "value": "farm (has 'a' vowel sound)"
+                },
+                {
+                  "label": "Pen",
+                  "value": "pen (has 'e' vowel sound)"
+                }
+              ],
+              "usage_examples": [
+                "The 'sun' is bright.",
+                "A green 'tree' stands tall.",
+                "The 'big' house.",
+                "Let's 'go' to the market.",
+                "The 'sky' is blue.",
+                "The 'farm' is far away.",
+                "Write with a 'pen'."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p2"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Counting Syllables",
+          "sections": [
+            {
+              "text": "To count syllables, you can put your hand under your chin. Each time your chin drops as you say a word, that's a syllable. Or, you can clap your hands for each vowel sound you hear.",
+              "examples": [
+                {
+                  "label": "Farm",
+                  "value": "farm (1 syllable - chin drops once)"
+                },
+                {
+                  "label": "River",
+                  "value": "ri-ver (2 syllables - chin drops twice)"
+                },
+                {
+                  "label": "Garden",
+                  "value": "gar-den (2 syllables - chin drops twice)"
+                },
+                {
+                  "label": "Buffalo",
+                  "value": "buf-fa-lo (3 syllables - chin drops three times)"
+                },
+                {
+                  "label": "Vegetable",
+                  "value": "veg-e-ta-ble (4 syllables - chin drops four times)"
+                },
+                {
+                  "label": "Cow",
+                  "value": "cow (1 syllable)"
+                },
+                {
+                  "label": "Chicken",
+                  "value": "chick-en (2 syllables)"
+                },
+                {
+                  "label": "Donkey",
+                  "value": "don-key (2 syllables)"
+                },
+                {
+                  "label": "Elephant",
+                  "value": "el-e-phant (3 syllables)"
+                },
+                {
+                  "label": "Mango",
+                  "value": "man-go (2 syllables)"
+                },
+                {
+                  "label": "Tomato",
+                  "value": "to-ma-to (3 syllables)"
+                },
+                {
+                  "label": "Potato",
+                  "value": "po-ta-to (3 syllables)"
+                },
+                {
+                  "label": "School",
+                  "value": "school (1 syllable)"
+                },
+                {
+                  "label": "Student",
+                  "value": "stu-dent (2 syllables)"
+                },
+                {
+                  "label": "Teacher",
+                  "value": "teach-er (2 syllables)"
+                },
+                {
+                  "label": "Notebook",
+                  "value": "note-book (2 syllables)"
+                },
+                {
+                  "label": "Classroom",
+                  "value": "class-room (2 syllables)"
+                },
+                {
+                  "label": "Library",
+                  "value": "li-bra-ry (3 syllables)"
+                },
+                {
+                  "label": "Principal",
+                  "value": "prin-ci-pal (3 syllables)"
+                },
+                {
+                  "label": "Examination",
+                  "value": "ex-am-i-na-tion (5 syllables)"
+                }
+              ],
+              "usage_examples": [
+                "We work on the 'farm'. (1 clap)",
+                "The 'river' flows nearby. (2 claps)",
+                "My mother works in the 'garden'. (2 claps)",
+                "A 'buffalo' helps in the field. (3 claps)",
+                "We eat fresh 'vegetable's. (4 claps)",
+                "The 'cow' gives milk. (1 clap)",
+                "The 'chicken' lays eggs. (2 claps)",
+                "The 'don-key' carries loads. (2 claps)",
+                "An 'el-e-phant' is big. (3 claps)",
+                "I like to eat 'man-go'. (2 claps)",
+                "We need a 'to-ma-to' for the curry. (3 claps)",
+                "Boil the 'po-ta-to'es. (3 claps)",
+                "Our 'school' is big. (1 clap)",
+                "Every 'stu-dent' should study hard. (2 claps)",
+                "The 'teach-er' helps us learn. (2 claps)",
+                "Write in your 'note-book'. (2 claps)",
+                "Sit in the 'class-room'. (2 claps)",
+                "Read books in the 'li-bra-ry'. (3 claps)",
+                "The 'prin-ci-pal' is strict. (3 claps)",
+                "The 'ex-am-i-na-tion' is next week. (5 claps)"
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p3"
+              },
+              "table": {
+                "title": "Counting Syllables Examples",
+                "headers": ["Word", "How to Say", "Number of Syllables", "Claps"],
+                "rows": [
+                  ["Book", "book", "1", "1 clap"],
+                  ["Pencil", "pen-cil", "2", "2 claps"],
+                  ["Computer", "com-pu-ter", "3", "3 claps"],
+                  ["Celebration", "cel-e-bra-tion", "4", "4 claps"],
+                  ["Understanding", "un-der-stand-ing", "4", "4 claps"],
+                  ["Family", "fa-mi-ly", "3", "3 claps"],
+                  ["Farmer", "far-mer", "2", "2 claps"],
+                  ["Village", "vil-lage", "2", "2 claps"],
+                  ["Education", "ed-u-ca-tion", "4", "4 claps"],
+                  ["Teacher", "teach-er", "2", "2 claps"],
+                  ["River", "ri-ver", "2", "2 claps"],
+                  ["Garden", "gar-den", "2", "2 claps"],
+                  ["Buffalo", "buf-fa-lo", "3", "3 claps"],
+                  ["Vegetable", "veg-e-ta-ble", "4", "4 claps"],
+                  ["Cow", "cow", "1", "1 clap"],
+                  ["Chicken", "chick-en", "2", "2 claps"],
+                  ["Donkey", "don-key", "2", "2 claps"],
+                  ["Mango", "man-go", "2", "2 claps"],
+                  ["Tomato", "to-ma-to", "3", "3 claps"],
+                  ["Potato", "po-ta-to", "3", "3 claps"],
+                  ["Notebook", "note-book", "2", "2 claps"],
+                  ["Classroom", "class-room", "2", "2 claps"],
+                  ["Library", "li-bra-ry", "3", "3 claps"],
+                  ["Principal", "prin-ci-pal", "3", "3 claps"],
+                  ["Examination", "ex-am-i-na-tion", "5", "5 claps"],
+                  ["Community", "com-mu-ni-ty", "4", "4 claps"],
+                  ["Development", "de-vel-op-ment", "4", "4 claps"],
+                  ["Important", "im-por-tant", "3", "3 claps"],
+                  ["Difficult", "dif-fi-cult", "3", "3 claps"],
+                  ["Beautiful", "beau-ti-ful", "3", "3 claps"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Syllable Types",
+      "subtopics": [
+        {
+          "title": "Open Syllables",
+          "sections": [
+            {
+              "text": "An open syllable ends with a vowel sound. The vowel sound is usually long, meaning it says its name (like 'A' in 'name', 'E' in 'me', 'I' in 'hi', 'O' in 'go', 'U' in 'music').",
+              "examples": [
+                {
+                  "label": "Go",
+                  "value": "go (ends with 'o', long 'o' sound)"
+                },
+                {
+                  "label": "Me",
+                  "value": "me (ends with 'e', long 'e' sound)"
+                },
+                {
+                  "label": "Hi",
+                  "value": "hi (ends with 'i', long 'i' sound)"
+                },
+                {
+                  "label": "No",
+                  "value": "no (ends with 'o', long 'o' sound)"
+                },
+                {
+                  "label": "She",
+                  "value": "she (ends with 'e', long 'e' sound)"
+                },
+                {
+                  "label": "We",
+                  "value": "we (ends with 'e', long 'e' sound)"
+                },
+                {
+                  "label": "My",
+                  "value": "my (ends with 'y', long 'i' sound)"
+                },
+                {
+                  "label": "So",
+                  "value": "so (ends with 'o', long 'o' sound)"
+                }
+              ],
+              "usage_examples": [
+                "Let's 'go' to the farm.",
+                "Look at 'me'!",
+                "Say 'hi' to your friends.",
+                "There is 'no' problem.",
+                "'She' is my sister.",
+                "'We' are friends.",
+                "'My' book is new.",
+                "'So' you understand now."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p4"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Closed Syllables",
+          "sections": [
+            {
+              "text": "A closed syllable ends with a consonant (any letter that is not A, E, I, O, U). The vowel sound in a closed syllable is usually short (like 'a' in 'cat', 'e' in 'bed', 'i' in 'sit', 'o' in 'hot', 'u' in 'cup').",
+              "examples": [
+                {
+                  "label": "Cat",
+                  "value": "cat (ends with 't', short 'a' sound)"
+                },
+                {
+                  "label": "Bed",
+                  "value": "bed (ends with 'd', short 'e' sound)"
+                },
+                {
+                  "label": "Sit",
+                  "value": "sit (ends with 't', short 'i' sound)"
+                },
+                {
+                  "label": "Hot",
+                  "value": "hot (ends with 't', short 'o' sound)"
+                },
+                {
+                  "label": "Run",
+                  "value": "run (ends with 'n', short 'u' sound)"
+                },
+                {
+                  "label": "Fish",
+                  "value": "fish (ends with 'sh', short 'i' sound)"
+                },
+                {
+                  "label": "Jump",
+                  "value": "jump (ends with 'mp', short 'u' sound)"
+                },
+                {
+                  "label": "Desk",
+                  "value": "desk (ends with 'sk', short 'e' sound)"
+                }
+              ],
+              "usage_examples": [
+                "The 'cat' is sleeping.",
+                "I sleep on a 'bed'.",
+                "Please 'sit' down.",
+                "The tea is 'hot'.",
+                "Let's 'run' in the field.",
+                "I saw a 'fish' in the river.",
+                "Let's 'jump' high.",
+                "Put your book on the 'desk'."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p5"
+              },
+              "table": {
+                "title": "Open vs. Closed Syllables",
+                "headers": ["Type", "Ends With", "Vowel Sound", "Example"],
+                "rows": [
+                  ["Open Syllable", "Vowel", "Long", "me, go, hi, we, my, so"],
+                  ["Closed Syllable", "Consonant", "Short", "cat, bed, run, fish, jump, desk"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Vowel Team Syllables",
+          "sections": [
+            {
+              "text": "A vowel team syllable has two or more vowels together that make one new vowel sound. When two vowels go walking, the first one does the talking (it makes its long sound) and the second one is silent.",
+              "examples": [
+                {
+                  "label": "Boat",
+                  "value": "boat ('oa' makes long 'o' sound)"
+                },
+                {
+                  "label": "Rain",
+                  "value": "rain ('ai' makes long 'a' sound)"
+                },
+                {
+                  "label": "Read",
+                  "value": "read ('ea' makes long 'e' sound)"
+                },
+                {
+                  "label": "Play",
+                  "value": "play ('ay' makes long 'a' sound)"
+                },
+                {
+                  "label": "Loud",
+                  "value": "loud ('ou' makes 'ow' sound)"
+                },
+                {
+                  "label": "Feet",
+                  "value": "feet ('ee' makes long 'e' sound)"
+                },
+                {
+                  "label": "Blue",
+                  "value": "blue ('ue' makes long 'u' sound)"
+                }
+              ],
+              "usage_examples": [
+                "We sailed a 'boat' on the lake.",
+                "The 'rain' makes the plants grow.",
+                "I like to 'read' books.",
+                "Let's 'play' in the field.",
+                "Speak 'loud'ly so I can hear.",
+                "My 'feet' are tired.",
+                "The sky is 'blue'."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p6"
+              },
+              "table": {
+                "title": "Common Vowel Teams",
+                "headers": ["Vowel Team", "Sound", "Example Words"],
+                "rows": [
+                  ["ai", "long A", "rain, sail, train"],
+                  ["ea", "long E", "read, tea, eat"],
+                  ["oa", "long O", "boat, road, coat"],
+                  ["ee", "long E", "feet, tree, sleep"],
+                  ["ou", "ow/oo", "loud, shout, soup"],
+                  ["ay", "long A", "play, day, say"],
+                  ["ow", "long O / ow", "snow, cow, grow"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Vowel-Consonant-e (Magic E) Syllables",
+          "sections": [
+            {
+              "text": "In a Vowel-Consonant-e syllable, a vowel is followed by one consonant and then a silent 'e'. The 'e' at the end is silent, but it makes the vowel before the consonant say its long name.",
+              "examples": [
+                {
+                  "label": "Bike",
+                  "value": "bike (silent 'e' makes 'i' long)"
+                },
+                {
+                  "label": "Cake",
+                  "value": "cake (silent 'e' makes 'a' long)"
+                },
+                {
+                  "label": "Kite",
+                  "value": "kite (silent 'e' makes 'i' long)"
+                },
+                {
+                  "label": "Hope",
+                  "value": "hope (silent 'e' makes 'o' long)"
+                },
+                {
+                  "label": "Tune",
+                  "value": "tune (silent 'e' makes 'u' long)"
+                },
+                {
+                  "label": "Name",
+                  "value": "name (silent 'e' makes 'a' long)"
+                },
+                {
+                  "label": "Home",
+                  "value": "home (silent 'e' makes 'o' long)"
+                }
+              ],
+              "usage_examples": [
+                "I ride my 'bike' to school.",
+                "My mother baked a delicious 'cake'.",
+                "Fly your 'kite' high in the sky.",
+                "I 'hope' you are well.",
+                "Sing a happy 'tune'.",
+                "What is your 'name'?",
+                "I am going 'home'."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Rules for Syllable Division",
+      "subtopics": [
+        {
+          "title": "Dividing Words into Syllables",
+          "sections": [
+            {
+              "text": "Knowing how to divide words into syllables helps with reading and pronunciation. Here are some simple rules:",
+              "examples": [
+                {
+                  "label": "Rule 1: Compound Words",
+                  "value": "Divide between the two smaller words. Example: sun-set, black-board, tooth-brush, class-room."
+                },
+                {
+                  "label": "Rule 2: Two Consonants Between Vowels",
+                  "value": "If there are two different consonants between two vowels, divide between the consonants. Example: gar-den, sis-ter, bas-ket, doc-tor, com-mon."
+                },
+                {
+                  "label": "Rule 3: One Consonant Between Vowels",
+                  "value": "If there is one consonant between two vowels, the consonant usually goes with the second vowel (making an open syllable). Example: ho-tel, pa-per, ti-ger, o-pen, mu-sic."
+                },
+                {
+                  "label": "Rule 4: 'le' at the End",
+                  "value": "If a word ends with '-le' and has a consonant before it, that consonant often goes with '-le'. Example: ta-ble, ap-ple, lit-tle, can-dle, pur-ple."
+                },
+                {
+                  "label": "Rule 5: Prefixes and Suffixes",
+                  "value": "Divide between a base word and its prefix (start of a word) or suffix (end of a word). Example: un-happy, read-ing, farm-er, re-play, teach-er."
+                }
+              ],
+              "usage_examples": [
+                "The 'sun-set' is beautiful.",
+                "My 'sis-ter' is kind.",
+                "We stayed in a 'ho-tel'.",
+                "This is a big 'ta-ble'.",
+                "He is 'un-hap-py' today.",
+                "I am 'read-ing' a book.",
+                "The 'farm-er' is busy.",
+                "Please 're-play' the song.",
+                "Our 'teach-er' is good."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p8"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Practice Dividing Words",
+          "sections": [
+            {
+              "text": "Let's practice dividing some words you know into syllables. Remember to listen for the vowel sounds and where the word naturally breaks.",
+              "examples": [
+                {
+                  "label": "School",
+                  "value": "school (1 syllable)"
+                },
+                {
+                  "label": "Student",
+                  "value": "stu-dent (2 syllables)"
+                },
+                {
+                  "label": "Teacher",
+                  "value": "teach-er (2 syllables)"
+                },
+                {
+                  "label": "Village",
+                  "value": "vil-lage (2 syllables)"
+                },
+                {
+                  "label": "Government",
+                  "value": "gov-ern-ment (3 syllables)"
+                },
+                {
+                  "label": "Hospital",
+                  "value": "hos-pi-tal (3 syllables)"
+                },
+                {
+                  "label": "Agriculture",
+                  "value": "ag-ri-cul-ture (4 syllables)"
+                },
+                {
+                  "label": "Celebration",
+                  "value": "cel-e-bra-tion (4 syllables)"
+                },
+                {
+                  "label": "Community",
+                  "value": "com-mu-ni-ty (4 syllables)"
+                },
+                {
+                  "label": "Development",
+                  "value": "de-vel-op-ment (4 syllables)"
+                },
+                {
+                  "label": "Beautiful",
+                  "value": "beau-ti-ful (3 syllables)"
+                },
+                {
+                  "label": "Important",
+                  "value": "im-por-tant (3 syllables)"
+                },
+                {
+                  "label": "Difficult",
+                  "value": "dif-fi-cult (3 syllables)"
+                },
+                {
+                  "label": "Tomorrow",
+                  "value": "to-mor-row (3 syllables)"
+                },
+                {
+                  "label": "Yesterday",
+                  "value": "yes-ter-day (3 syllables)"
+                },
+                {
+                  "label": "Family",
+                  "value": "fa-mi-ly (3 syllables)"
+                },
+                {
+                  "label": "Friendship",
+                  "value": "friend-ship (2 syllables)"
+                },
+                {
+                  "label": "Happiness",
+                  "value": "hap-pi-ness (3 syllables)"
+                },
+                {
+                  "label": "Knowledge",
+                  "value": "knowl-edge (2 syllables)"
+                },
+                {
+                  "label": "Problem",
+                  "value": "prob-lem (2 syllables)"
+                },
+                {
+                  "label": "Solution",
+                  "value": "so-lu-tion (3 syllables)"
+                },
+                {
+                  "label": "Computer",
+                  "value": "com-pu-ter (3 syllables)"
+                },
+                {
+                  "label": "Internet",
+                  "value": "in-ter-net (3 syllables)"
+                },
+                {
+                  "label": "Mobile",
+                  "value": "mo-bile (2 syllables)"
+                },
+                {
+                  "label": "Telephone",
+                  "value": "tel-e-phone (3 syllables)"
+                }
+              ],
+              "usage_examples": [
+                "Our 'school' is big.",
+                "Every 'stu-dent' should study hard.",
+                "The 'teach-er' helps us learn.",
+                "Our 'vil-lage' is peaceful.",
+                "The 'gov-ern-ment' builds roads.",
+                "My aunt works in the 'hos-pi-tal'.",
+                "'Ag-ri-cul-ture' is important for food.",
+                "We had a big 'cel-e-bra-tion'.",
+                "Our 'com-mu-ni-ty' works together.",
+                "The 'de-vel-op-ment' of the village is good.",
+                "The flower is 'beau-ti-ful'.",
+                "It is 'im-por-tant' to listen.",
+                "This sum is 'dif-fi-cult'.",
+                "I will go 'to-mor-row'.",
+                "We played 'yes-ter-day'.",
+                "My 'fa-mi-ly' is loving.",
+                "Good 'friend-ship' is valuable.",
+                "We wish you 'hap-pi-ness'.",
+                "Gain more 'knowl-edge'.",
+                "Solve the 'prob-lem'.",
+                "Find a 'so-lu-tion'.",
+                "I use a 'com-pu-ter'.",
+                "The 'in-ter-net' is fast.",
+                "I have a 'mo-bile' phone.",
+                "Call me on the 'tel-e-phone'."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-3/p9"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

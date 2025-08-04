@@ -1,0 +1,367 @@
+
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 4,
+  "lesson_title": "Verbs: Action Words and What We Do",
+  "objectives": [
+    "Understand that verbs are words that show actions or states of being.",
+    "Learn to identify action verbs and helping verbs in sentences.",
+    "Practice using verbs in their present, past, and future forms correctly."
+  ],
+  "topics": [
+    {
+      "title": "1. What are Verbs (Action Words)?",
+      "subtopics": [
+        {
+          "title": "1.1. Verbs: Showing What Someone or Something Does",
+          "sections": [
+            {
+              "text": "A verb is a word that shows an action (what someone or something does) or a state (how someone or something is). Verbs are the 'doing' words in a sentence. Every sentence must have a verb.",
+              "examples": [
+                {
+                  "label": "Action Example 1",
+                  "value": "The farmer **plows** the field. ('plows' shows action)"
+                },
+                {
+                  "label": "Action Example 2",
+                  "value": "I **eat** rice every day. ('eat' shows action)"
+                },
+                {
+                  "label": "State Example 1",
+                  "value": "She **is** happy. ('is' shows state of being)"
+                },
+                {
+                  "label": "Action Example 3",
+                  "value": "Birds **fly** in the sky. ('fly' shows action)"
+                },
+                {
+                  "label": "Action Example 4",
+                  "value": "Children **play** in the playground. ('play' shows action)"
+                }
+              ],
+              "usage_examples": [
+                "My mother **cooks** food for us.",
+                "The dog **barks** at strangers.",
+                "We **study** English at school.",
+                "The sun **shines** brightly.",
+                "I **sleep** for eight hours every night.",
+                "Our well **provides** water for the village.",
+                "Students **learn** new things daily.",
+                "The wind **blows** gently.",
+                "A spider **spins** a web.",
+                "The carpenter **builds** a house."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Types of Verbs",
+      "subtopics": [
+        {
+          "title": "2.1. Action Verbs: What We Do",
+          "sections": [
+            {
+              "text": "Action verbs describe an action, either physical (like running) or mental (like thinking). Most verbs you use will be action verbs.",
+              "examples": [
+                {
+                  "label": "Physical Action 1",
+                  "value": "Ram **runs** fast."
+                },
+                {
+                  "label": "Physical Action 2",
+                  "value": "They **sow** seeds in the field."
+                },
+                {
+                  "label": "Mental Action 1",
+                  "value": "I **think** about my lesson."
+                },
+                {
+                  "label": "Physical Action 3",
+                  "value": "Sita **draws** a picture."
+                },
+                {
+                  "label": "Physical Action 4",
+                  "value": "The peon **rings** the bell."
+                }
+              ],
+              "usage_examples": [
+                "We **walk** to school every day.",
+                "My grandmother **tells** stories.",
+                "The farmers **harvest** their crops in spring.",
+                "I **read** a book before sleeping.",
+                "He **drinks** milk every morning.",
+                "Children **jump** with joy.",
+                "The teacher **explains** the lesson.",
+                "We **share** our food with friends.",
+                "The well **gives** us water.",
+                "The tailor **stitches** clothes.",
+                "We **celebrate** festivals together."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Helping Verbs (Auxiliary Verbs): Helping Other Verbs",
+          "sections": [
+            {
+              "text": "Helping verbs work with main verbs to show when an action happened (time or tense) or to add other meanings. The most common helping verbs are forms of 'be' (am, is, are, was, were), 'do' (do, does, did), and 'have' (has, have, had).",
+              "examples": [
+                {
+                  "label": "Using 'be'",
+                  "value": "I **am** studying. (am helps 'studying' show present time)"
+                },
+                {
+                  "label": "Using 'do'",
+                  "value": "She **does** not sing. (does helps 'sing' show negative meaning)"
+                },
+                {
+                  "label": "Using 'have'",
+                  "value": "We **have** eaten. (have helps 'eaten' show finished action)"
+                },
+                {
+                  "label": "Using 'be' (past)",
+                  "value": "They **were** playing. (were helps 'playing' show past time)"
+                },
+                {
+                  "label": "Using 'do' (past)",
+                  "value": "Did you **go**? (did helps 'go' form a question)"
+                }
+              ],
+              "usage_examples": [
+                "He **is** going to the market.",
+                "They **are** learning English.",
+                "I **was** sleeping when you called.",
+                "We **were** helping the farmer yesterday.",
+                "Do you **like** mangoes?",
+                "She **does** her homework neatly.",
+                "I **did** not see him.",
+                "He **has** finished his work.",
+                "They **have** built a new house.",
+                "You **will** succeed.",
+                "We **have** seen that movie.",
+                "What **did** you do yesterday?"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              },
+              "table": {
+                "title": "Common Helping Verbs",
+                "headers": ["Helping Verb Family", "Forms", "Example with Main Verb"],
+                "rows": [
+                  ["Be", "am, is, are", "I am reading; He is going; They are playing"],
+                  ["Be (Past)", "was, were", "I was cooking; They were running"],
+                  ["Do", "do, does, did", "I do not know; She does not eat; We did not go"],
+                  ["Have", "has, have, had", "He has seen; I have studied; They had finished"],
+                  ["Modals", "will, should, can", "She will come; You should rest; I can help"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. More Verb Types",
+      "subtopics": [
+        {
+          "title": "3.1. Linking Verbs",
+          "sections": [
+            {
+              "text": "A linking verb connects the subject of a sentence to a word or phrase that describes or renames it. [3, 7] These verbs don't show action; they show a state of being. [1] The most common linking verbs are forms of the verb 'to be' (am, is, are, was, were). [2, 6]",
+              "examples": [
+                {
+                  "label": "Example 1",
+                  "value": "The sky **is** blue. ('is' links 'sky' to its description 'blue')"
+                },
+                {
+                  "label": "Example 2",
+                  "value": "He **seems** tired. ('seems' links 'he' to his state 'tired')"
+                },
+                {
+                  "label": "Example 3",
+                  "value": "She **became** a doctor. ('became' links 'she' to her new identity 'a doctor')"
+                },
+                {
+                    "label": "Example 4",
+                    "value": "The food **tastes** delicious. ('tastes' links 'food' to its quality 'delicious')"
+                }
+              ],
+              "usage_examples": [
+                "I **am** a student.",
+                "The milk **tastes** sour.",
+                "They **were** happy to see us.",
+                "The flowers **smell** wonderful.",
+                "You **look** great today.",
+                "He **feels** sick today.",
+                "The students **appear** ready for the test.",
+                "He **remained** silent."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. Transitive and Intransitive Verbs",
+          "sections": [
+            {
+              "text": "A transitive verb is an action verb that needs a direct object to complete its meaning. [14, 15] The object is the person or thing that receives the action of the verb. An intransitive verb is an action verb that does not need a direct object to make sense. [15, 17]",
+              "examples": [
+                {
+                  "label": "Transitive Example 1",
+                  "value": "The farmer **planted** a tree. (The object 'a tree' receives the action of 'planted')"
+                },
+                {
+                  "label": "Intransitive Example 1",
+                  "value": "The birds **flew**. (The verb 'flew' does not need an object)"
+                },
+                {
+                  "label": "Transitive Example 2",
+                  "value": "She **kicked** the ball. (The object 'the ball' receives the action of 'kicked')"
+                },
+                {
+                  "label": "Intransitive Example 2",
+                  "value": "The baby **cried** loudly. (The verb 'cried' is complete without an object)"
+                }
+              ],
+              "usage_examples": [
+                "He **reads** a book. (Transitive)",
+                "The sun **shines**. (Intransitive)",
+                "I **wrote** a letter. (Transitive)",
+                "They **arrived** early. (Intransitive)",
+                "We **ate** our dinner. (Transitive)",
+                "The old man **laughed**. (Intransitive)",
+                "The girl **sings** a song. (Transitive)",
+                "The bell **rang**. (Intransitive)"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.3. Regular and Irregular Verbs",
+          "sections": [
+            {
+              "text": "When we talk about the past, verbs can be regular or irregular. Regular verbs form their past tense by adding '-ed' or '-d'. [18, 19] Irregular verbs do not follow this rule and change in different ways. [19, 20]",
+              "examples": [
+                {
+                  "label": "Regular Verb Example",
+                  "value": "walk -> **walked**"
+                },
+                {
+                  "label": "Irregular Verb Example",
+                  "value": "go -> **went**"
+                },
+                {
+                  "label": "Regular Verb Example",
+                  "value": "play -> **played**"
+                },
+                {
+                  "label": "Irregular Verb Example",
+                  "value": "eat -> **ate**"
+                },
+                {
+                    "label": "Regular Verb Example",
+                    "value": "talk -> **talked**"
+                  },
+                  {
+                    "label": "Irregular Verb Example",
+                    "value": "begin -> **began**"
+                  }
+              ],
+              "usage_examples": [
+                "Yesterday, we **played** in the park. (Regular)",
+                "Last week, I **saw** my friend. (Irregular)",
+                "She **cooked** a delicious meal. (Regular)",
+                "He **took** the book from the table. (Irregular)",
+                "They **cleaned** the classroom. (Regular)",
+                "I **made** a card for my mother. (Irregular)",
+                "He **broke** the glass. (Irregular)",
+                "We **waited** for the bus. (Regular)"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              },
+              "table": {
+                "title": "Common Irregular Verbs (Present vs. Past)",
+                "headers": ["Present Form", "Past Form", "Example Sentence (Past)"],
+                "rows": [
+                  ["go", "went", "I **went** to school."],
+                  ["eat", "ate", "We **ate** lunch."],
+                  ["see", "saw", "I **saw** a bird."],
+                  ["make", "made", "My mother **made** a sweet."],
+                  ["give", "gave", "I **gave** him a book."],
+                  ["take", "took", "He **took** my pen."],
+                  ["run", "ran", "We **ran** in the field."],
+                  ["sing", "sang", "She **sang** a song."],
+                  ["buy", "bought", "I **bought** a new pen."],
+                  ["think", "thought", "He **thought** about the problem."]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.4. Modal Verbs",
+          "sections": [
+            {
+              "text": "Modal verbs are a special kind of helping verb. [3] They are used with a main verb to express ideas like ability, possibility, necessity, or permission. [5, 6] Common modal verbs include can, could, may, might, will, would, should, and must. [3]",
+              "examples": [
+                {
+                  "label": "Ability",
+                  "value": "I **can** swim."
+                },
+                {
+                  "label": "Possibility",
+                  "value": "It **might** rain today."
+                },
+                {
+                  "label": "Necessity",
+                  "value": "You **must** finish your homework."
+                },
+                {
+                  "label": "Permission",
+                  "value": "**May** I borrow your pen?"
+                },
+                {
+                  "label": "Advice",
+                  "value": "You **should** rest."
+                },
+                {
+                  "label": "Offer",
+                  "value": "**Would** you like some tea?"
+                }
+              ],
+              "usage_examples": [
+                "She **can** speak three languages.",
+                "We **will** go to the village fair tomorrow.",
+                "He **should** wear a coat.",
+                "You **must** not be late.",
+                "**Could** you please help me?",
+                "They **might** come to the party.",
+                "It **may** be sunny later.",
+                "I **would** prefer to stay home."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-4/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

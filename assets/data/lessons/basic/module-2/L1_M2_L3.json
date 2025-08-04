@@ -1,0 +1,1260 @@
+{
+  "level": "Beginner",
+  "module": "BASIC VOCABULARY",
+  "lesson_number": 3,
+  "lesson_title": "Numbers, Colors, Days, and Months",
+  "objectives": [
+    "Learn to count and recognize numbers from 1 to 100.",
+    "Identify and name basic colors commonly seen around us.",
+    "Memorize the names of the days of the week and months of the year."
+  ],
+  "topics": [
+    {
+      "title": "1. Learning Numbers (1-100)",
+      "subtopics": [
+        {
+          "title": "1.1. Numbers 1 to 10",
+          "sections": [
+            {
+              "text": "Numbers help us count things like how many students are in the class or how many animals are on the farm. Let's start with counting from 1 to 10.",
+              "examples": [
+                {
+                  "label": "One",
+                  "value": "1"
+                },
+                {
+                  "label": "Two",
+                  "value": "2"
+                },
+                {
+                  "label": "Three",
+                  "value": "3"
+                },
+                {
+                  "label": "Four",
+                  "value": "4"
+                },
+                {
+                  "label": "Five",
+                  "value": "5"
+                }
+              ],
+              "usage_examples": [
+                "I have one book in my bag.",
+                "There are two bullocks in our field.",
+                "My family has three members.",
+                "We saw four birds on the tree.",
+                "I have five fingers on one hand."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p1"
+              },
+              "table": {
+                "title": "Numbers 1 to 10",
+                "headers": ["Number", "Word"],
+                "rows": [
+                  ["1", "One"],
+                  ["2", "Two"],
+                  ["3", "Three"],
+                  ["4", "Four"],
+                  ["5", "Five"],
+                  ["6", "Six"],
+                  ["7", "Seven"],
+                  ["8", "Eight"],
+                  ["9", "Nine"],
+                  ["10", "Ten"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "1.2. Numbers 11 to 20",
+          "sections": [
+            {
+              "text": "After ten, we continue counting. These numbers are a little different, but easy to learn.",
+              "examples": [
+                {
+                  "label": "Eleven",
+                  "value": "11"
+                },
+                {
+                  "label": "Twelve",
+                  "value": "12"
+                },
+                {
+                  "label": "Thirteen",
+                  "value": "13"
+                },
+                {
+                  "label": "Fourteen",
+                  "value": "14"
+                },
+                {
+                  "label": "Fifteen",
+                  "value": "15"
+                }
+              ],
+              "usage_examples": [
+                "There are eleven players in a cricket team.",
+                "I am twelve years old.",
+                "There are thirteen students present today.",
+                "We have fourteen mangoes in the basket.",
+                "There are fifteen cows in our village."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p2"
+              },
+              "table": {
+                "title": "Numbers 11 to 20",
+                "headers": ["Number", "Word"],
+                "rows": [
+                  ["11", "Eleven"],
+                  ["12", "Twelve"],
+                  ["13", "Thirteen"],
+                  ["14", "Fourteen"],
+                  ["15", "Fifteen"],
+                  ["16", "Sixteen"],
+                  ["17", "Seventeen"],
+                  ["18", "Eighteen"],
+                  ["19", "Nineteen"],
+                  ["20", "Twenty"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "1.3. Numbers 21 to 50",
+          "sections": [
+            {
+              "text": "From twenty-one, we combine the tens (twenty, thirty, forty, fifty) with numbers from one to nine.",
+              "examples": [
+                {
+                  "label": "Twenty-one",
+                  "value": "21"
+                },
+                {
+                  "label": "Thirty",
+                  "value": "30"
+                },
+                {
+                  "label": "Forty-five",
+                  "value": "45"
+                },
+                {
+                  "label": "Fifty",
+                  "value": "50"
+                }
+              ],
+              "usage_examples": [
+                "Our classroom has twenty-one desks.",
+                "There are thirty students in my class.",
+                "My father is forty-five years old.",
+                "Our village has about fifty houses.",
+                "I scored twenty-five marks in the test."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p3"
+              },
+              "table": {
+                "title": "Numbers 21 to 50 (Examples)",
+                "headers": ["Number", "Word"],
+                "rows": [
+                  ["21", "Twenty-one"],
+                  ["22", "Twenty-two"],
+                  ["30", "Thirty"],
+                  ["31", "Thirty-one"],
+                  ["40", "Forty"],
+                  ["45", "Forty-five"],
+                  ["50", "Fifty"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "1.4. Numbers 51 to 100",
+          "sections": [
+            {
+              "text": "The pattern continues from fifty-one to one hundred. Practice these to count larger groups of things.",
+              "examples": [
+                {
+                  "label": "Fifty-five",
+                  "value": "55"
+                },
+                {
+                  "label": "Sixty",
+                  "value": "60"
+                },
+                {
+                  "label": "Seventy-three",
+                  "value": "73"
+                },
+                {
+                  "label": "Eighty-eight",
+                  "value": "88"
+                },
+                {
+                  "label": "One hundred",
+                  "value": "100"
+                }
+              ],
+              "usage_examples": [
+                "My grandmother is fifty-five years old.",
+                "There are sixty minutes in one hour.",
+                "The distance to the city is seventy-three kilometers.",
+                "We collected eighty-eight apples from the orchard.",
+                "There are one hundred pages in this notebook."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p4"
+              },
+              "table": {
+                "title": "Tens from 60 to 100",
+                "headers": ["Number", "Word"],
+                "rows": [
+                  ["60", "Sixty"],
+                  ["70", "Seventy"],
+                  ["80", "Eighty"],
+                  ["90", "Ninety"],
+                  ["100", "One hundred"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Knowing Colors",
+      "subtopics": [
+        {
+          "title": "2.1. Basic Colors Around Us",
+          "sections": [
+            {
+              "text": "Colors make our world beautiful! We see many colors in nature and around our homes and school.",
+              "examples": [
+                {
+                  "label": "Red",
+                  "value": "The color of ripe tomatoes, blood, or some flowers. It is a bright, strong color."
+                },
+                {
+                  "label": "Blue",
+                  "value": "The color of a clear sky or the ocean. It is a cool and calm color."
+                },
+                {
+                  "label": "Green",
+                  "value": "The color of grass, leaves, and most plants. It is the color of nature and freshness."
+                },
+                {
+                  "label": "Yellow",
+                  "value": "The color of the sun, lemons, or some ripe mangoes. It is a bright and happy color."
+                },
+                {
+                  "label": "Black",
+                  "value": "The darkest color, like the night sky without stars or charcoal. It absorbs all light."
+                },
+                {
+                  "label": "White",
+                  "value": "The lightest color, like milk, snow, or clouds. It reflects all light."
+                },
+                {
+                  "label": "Brown",
+                  "value": "The color of soil, wood, or tree trunks. It is a common color in nature."
+                },
+                {
+                  "label": "Orange",
+                  "value": "The color of an orange fruit or a marigold flower. It is a warm and energetic color."
+                },
+                {
+                  "label": "Pink",
+                  "value": "A light shade of red. Many flowers are pink."
+                },
+                {
+                  "label": "Purple",
+                  "value": "The color of a brinjal (eggplant) or some grapes. It is a mix of red and blue."
+                },
+                {
+                  "label": "Grey",
+                  "value": "The color of ash or a cloudy sky. It is a mix of black and white."
+                }
+              ],
+              "usage_examples": [
+                "My school uniform has a red stripe.",
+                "The sky is blue today.",
+                "Our fields are green with new crops.",
+                "The sun is yellow and bright.",
+                "The blackboard is black.",
+                "My shirt is white and clean.",
+                "The soil in our village is brown.",
+                "The marigold flowers in the garden are orange.",
+                "My little sister has a pink dress.",
+                "The brinjal curry my mother cooks is purple.",
+                "The smoke from the fire is grey."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p5"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Days of the Week",
+      "subtopics": [
+        {
+          "title": "3.1. Naming the Days",
+          "sections": [
+            {
+              "text": "There are seven days in a week. Knowing them helps us talk about when things happen, like school days or market days.",
+              "examples": [
+                {
+                  "label": "Monday",
+                  "value": "The first day of the school week after the weekend."
+                },
+                {
+                  "label": "Tuesday",
+                  "value": "The day after Monday."
+                },
+                {
+                  "label": "Wednesday",
+                  "value": "The middle day of the school week."
+                },
+                {
+                  "label": "Thursday",
+                  "value": "The day before Friday."
+                },
+                {
+                  "label": "Friday",
+                  "value": "The last day of the school week before the weekend."
+                },
+                {
+                  "label": "Saturday",
+                  "value": "The first day of the weekend, a holiday for many."
+                },
+                {
+                  "label": "Sunday",
+                  "value": "The second day of the weekend, often a day for rest or family."
+                }
+              ],
+              "usage_examples": [
+                "Today is Monday, so we have English class.",
+                "We play sports on Tuesday afternoons.",
+                "The village market is on Wednesday.",
+                "I visit my grandparents every Thursday.",
+                "School closes for the weekend on Friday.",
+                "We clean our house on Saturday.",
+                "Sunday is a holiday, and we go to the temple."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p6"
+              },
+              "table": {
+                "title": "Days of the Week",
+                "headers": ["Day", "Meaning/Use"],
+                "rows": [
+                  ["Monday", "Start of the school/work week"],
+                  ["Tuesday", "The day after Monday"],
+                  ["Wednesday", "The middle of the week"],
+                  ["Thursday", "The day before Friday"],
+                  ["Friday", "End of the school/work week"],
+                  ["Saturday", "First day of the weekend"],
+                  ["Sunday", "Second day of the weekend, often a rest day"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. Common Time Words",
+          "sections": [
+            {
+              "text": "These words help us talk about time relative to 'now'.",
+              "examples": [
+                {
+                  "label": "Today",
+                  "value": "The present day; the day we are currently in."
+                },
+                {
+                  "label": "Tomorrow",
+                  "value": "The day after today."
+                },
+                {
+                  "label": "Yesterday",
+                  "value": "The day before today."
+                }
+              ],
+              "usage_examples": [
+                "Today, I have my Maths exam.",
+                "Tomorrow, we will visit the village fair.",
+                "Yesterday, I played cricket with my friends.",
+                "What are you doing today?",
+                "Tomorrow is my sister's birthday.",
+                "We had a holiday yesterday."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Months of the Year",
+      "subtopics": [
+        {
+          "title": "4.1. Naming the Months",
+          "sections": [
+            {
+              "text": "There are twelve months in one year. Each month has about 30 or 31 days. Knowing them helps us mark important events like festivals and birthdays.",
+              "examples": [
+                {
+                  "label": "January",
+                  "value": "The first month of the year, often cold."
+                },
+                {
+                  "label": "February",
+                  "value": "The second month, shortest month with 28 or 29 days."
+                },
+                {
+                  "label": "March",
+                  "value": "The third month, when spring starts and fields become green again. [2]"
+                },
+                {
+                  "label": "April",
+                  "value": "The fourth month, often with some rain or hotter weather starting. [2]"
+                },
+                {
+                  "label": "May",
+                  "value": "The fifth month, usually very hot, often the start of summer vacation. [2]"
+                },
+                {
+                  "label": "June",
+                  "value": "The sixth month, when the monsoon season often begins. [2]"
+                },
+                {
+                  "label": "July",
+                  "value": "The seventh month, often with heavy rains. [2]"
+                },
+                {
+                  "label": "August",
+                  "value": "The eighth month, another rainy month in many places. [2]"
+                },
+                {
+                  "label": "September",
+                  "value": "The ninth month, when schools often start after a break. [2]"
+                },
+                {
+                  "label": "October",
+                  "value": "The tenth month, many festivals like Diwali and Dussehra are celebrated. [2]"
+                },
+                {
+                  "label": "November",
+                  "value": "The eleventh month, the weather starts to get cooler. [2]"
+                },
+                {
+                  "label": "December",
+                  "value": "The twelfth and last month of the year, often a cold month."
+                }
+              ],
+              "usage_examples": [
+                "My school reopens in July.",
+                "Our main festival is celebrated in October.",
+                "My birthday is in May.",
+                "The harvest season is usually in March.",
+                "The new year starts in January.",
+                "We have a long holiday in December.",
+                "It rains a lot in August."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p8"
+              },
+              "table": {
+                "title": "Months of the Year",
+                "headers": ["Month Name", "Number in Year"],
+                "rows": [
+                  ["January", "1"],
+                  ["February", "2"],
+                  ["March", "3"],
+                  ["April", "4"],
+                  ["May", "5"],
+                  ["June", "6"],
+                  ["July", "7"],
+                  ["August", "8"],
+                  ["September", "9"],
+                  ["October", "10"],
+                  ["November", "11"],
+                  ["December", "12"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Time Descriptions",
+      "subtopics": [
+        {
+          "title": "5.1. Units of Time",
+          "sections": [
+            {
+              "text": "These words help us measure time from very short to very long periods.",
+              "examples": [
+                {
+                  "label": "Second",
+                  "value": "A very short unit of time. There are 60 seconds in a minute. [2]"
+                },
+                {
+                  "label": "Minute",
+                  "value": "A unit of time equal to 60 seconds. [2]"
+                },
+                {
+                  "label": "Hour",
+                  "value": "A unit of time equal to 60 minutes. [2]"
+                },
+                {
+                  "label": "Day",
+                  "value": "A period of 24 hours. [2]"
+                },
+                {
+                  "label": "Week",
+                  "value": "A period of seven days. [2]"
+                },
+                {
+                  "label": "Fortnight",
+                  "value": "A period of two weeks or 14 days."
+                },
+                {
+                  "label": "Month",
+                  "value": "A period of about 30 days or 4 weeks. [2]"
+                },
+                {
+                  "label": "Year",
+                  "value": "A period of 12 months or 365 days. [2]"
+                },
+                {
+                  "label": "Decade",
+                  "value": "A period of ten years. [2, 4]"
+                },
+                {
+                  "label": "Century",
+                  "value": "A period of one hundred years. [2, 4]"
+                },
+                {
+                  "label": "Millennium",
+                  "value": "A period of one thousand years. [2]"
+                },
+                {
+                  "label": "Moment",
+                  "value": "A very brief period of time. [4]"
+                },
+                {
+                  "label": "Period",
+                  "value": "A length or portion of time."
+                },
+                {
+                  "label": "Era",
+                  "value": "A long and distinct period of history with a particular feature. [4]"
+                },
+                {
+                  "label": "Age",
+                  "value": "A distinct period in history."
+                }
+              ],
+              "usage_examples": [
+                "Wait a second, I am coming.",
+                "I will be there in five minutes.",
+                "The school is one hour away.",
+                "I will see you the day after tomorrow.",
+                "We have a holiday next week.",
+                "My uncle will visit us for a fortnight.",
+                "My birthday is next month.",
+                "A new year brings new hope.",
+                "Many things changed in the last decade.",
+                "This temple was built a century ago.",
+                "A millennium is a very long time.",
+                "He thought for a moment before answering.",
+                "The rainy period will begin soon.",
+                "It was an era of peace and prosperity.",
+                "The Stone Age was a very early period of human history."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p9"
+              }
+            }
+          ]
+        },
+        {
+          "title": "5.2. Frequency and Pace",
+          "sections": [
+            {
+              "text": "These words describe how often or how fast something happens.",
+              "examples": [
+                {
+                  "label": "Always",
+                  "value": "At all times; on every occasion. [14]"
+                },
+                {
+                  "label": "Often",
+                  "value": "Many times; frequently."
+                },
+                {
+                  "label": "Usually",
+                  "value": "In the way that is most common or normal. [14]"
+                },
+                {
+                  "label": "Sometimes",
+                  "value": "On some occasions but not all the time. [14]"
+                },
+                {
+                  "label": "Rarely",
+                  "value": "Not often; seldom. [14]"
+                },
+                {
+                  "label": "Never",
+                  "value": "At no time in the past or future. [14]"
+                },
+                {
+                  "label": "Daily",
+                  "value": "Happening or done every day."
+                },
+                {
+                  "label": "Weekly",
+                  "value": "Happening or done every week."
+                },
+                {
+                  "label": "Monthly",
+                  "value": "Happening or done every month."
+                },
+                {
+                  "label": "Annually",
+                  "value": "Happening once every year."
+                },
+                {
+                  "label": "Fast",
+                  "value": "Moving at a high speed."
+                },
+                {
+                  "label": "Slow",
+                  "value": "Moving at a low speed."
+                },
+                {
+                  "label": "Quick",
+                  "value": "Happening in a short time."
+                },
+                {
+                  "label": "Gradual",
+                  "value": "Taking place slowly over a period of time."
+                },
+                {
+                  "label": "Sudden",
+                  "value": "Happening quickly and unexpectedly."
+                }
+              ],
+              "usage_examples": [
+                "You should always tell the truth.",
+                "I often go to the temple with my grandmother.",
+                "We usually have dinner at 8 p.m.",
+                "Sometimes, we play inside the house.",
+                "He rarely comes to the village.",
+                "I have never seen a tiger.",
+                "The milkman comes daily.",
+                "The village market is held weekly.",
+                "We get a monthly magazine.",
+                "The school has its annual function in December.",
+                "A cheetah can run very fast.",
+                "The bullock cart is a slow vehicle.",
+                "She gave a quick reply.",
+                "There has been a gradual improvement in his health.",
+                "The sudden rain surprised everyone."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p10"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "6. Parts of Day",
+      "subtopics": [
+        {
+          "title": "6.1. Main Divisions of the Day",
+          "sections": [
+            {
+              "text": "A day is divided into different parts based on the position of the sun. [1]",
+              "examples": [
+                {
+                  "label": "Morning",
+                  "value": "The period from sunrise to noon. [3]"
+                },
+                {
+                  "label": "Afternoon",
+                  "value": "The time from noon or lunchtime until evening. [3]"
+                },
+                {
+                  "label": "Evening",
+                  "value": "The period at the end of the day, usually from about 6 p.m. to bedtime. [1]"
+                },
+                {
+                  "label": "Night",
+                  "value": "The period from sunset to sunrise when it is dark. [3]"
+                },
+                {
+                  "label": "Daytime",
+                  "value": "The period when there is daylight, from sunrise to sunset. [3]"
+                },
+                {
+                  "label": "Night-time",
+                  "value": "The period when it is night."
+                }
+              ],
+              "usage_examples": [
+                "The birds chirp in the morning.",
+                "I take a nap in the afternoon.",
+                "We light the lamps in the evening.",
+                "The stars shine at night.",
+                "In the daytime, the village is full of activity.",
+                "Owls are active during the night-time."
+              ],
+              "media": {
+                "image": ""
+              }
+            }
+          ]
+        },
+        {
+          "title": "6.2. Specific Points in the Day",
+          "sections": [
+            {
+              "text": "These words refer to the transitional times at the beginning and end of daylight.",
+              "examples": [
+                {
+                  "label": "Dawn",
+                  "value": "The first appearance of light in the sky before sunrise. [3]"
+                },
+                {
+                  "label": "Sunrise",
+                  "value": "The time in the morning when the sun appears over the horizon. [3]"
+                },
+                {
+                  "label": "Noon",
+                  "value": "The middle of the day; twelve o'clock. [3]"
+                },
+                {
+                  "label": "Midday",
+                  "value": "Another word for noon, the middle of the day. [3]"
+                },
+                {
+                  "label": "Sunset",
+                  "value": "The time in the evening when the sun disappears below the horizon. [3]"
+                },
+                {
+                  "label": "Dusk",
+                  "value": "The time at the end of the day just before it gets dark. [3]"
+                },
+                {
+                  "label": "Twilight",
+                  "value": "The soft, glowing light from the sky when the sun is below the horizon, just after sunset or before sunrise. [3]"
+                },
+                {
+                  "label": "Midnight",
+                  "value": "The middle of the night; twelve o'clock at night. [3]"
+                }
+              ],
+              "usage_examples": [
+                "The farmer woke up at dawn to go to the fields.",
+                "The view of the sunrise from the hill is beautiful.",
+                "We eat our lunch at noon.",
+                "The sun is directly overhead at midday.",
+                "The cows return home at sunset.",
+                "It gets cool at dusk.",
+                "The sky was a beautiful orange during twilight.",
+                "The street was empty at midnight."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p11"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "7. Color Properties",
+      "subtopics": [
+        {
+          "title": "7.1. Lightness and Darkness",
+          "sections": [
+            {
+              "text": "These words help describe how light or dark a color is.",
+              "examples": [
+                {
+                  "label": "Light",
+                  "value": "A color that is pale or not dark, like light blue or light green."
+                },
+                {
+                  "label": "Dark",
+                  "value": "A color that is closer to black than white, like dark red or dark brown."
+                },
+                {
+                  "label": "Pale",
+                  "value": "A color that is very light, lacking intensity. [11]"
+                },
+                {
+                  "label": "Deep",
+                  "value": "A color that is very dark and rich. [18]"
+                },
+                {
+                  "label": "Shade",
+                  "value": "A variety of a color made by adding black to it. [16]"
+                },
+                {
+                  "label": "Tint",
+                  "value": "A variety of a color made by adding white to it. [16]"
+                },
+                {
+                  "label": "Tone",
+                  "value": "A variety of a color made by adding grey to it. [16]"
+                }
+              ],
+              "usage_examples": [
+                "The sky is a light blue color.",
+                "The forest looks dark at night.",
+                "She wore a pale yellow sari.",
+                "The well is very deep and dark.",
+                "This is a darker shade of green.",
+                "Pink is a tint of red.",
+                "The wall is painted in a soft tone of grey."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p12"
+              }
+            }
+          ]
+        },
+        {
+          "title": "7.2. Intensity and Appearance",
+          "sections": [
+            {
+              "text": "These words describe how strong a color is or what it looks like.",
+              "examples": [
+                {
+                  "label": "Bright",
+                  "value": "A color that is strong and easy to see; full of light."
+                },
+                {
+                  "label": "Dull",
+                  "value": "A color that is not bright or shiny. [11]"
+                },
+                {
+                  "label": "Vivid",
+                  "value": "A color that is very bright and clear. [11, 18]"
+                },
+                {
+                  "label": "Rich",
+                  "value": "A color that is strong and deep. [18]"
+                },
+                {
+                  "label": "Warm",
+                  "value": "Colors like red, yellow, and orange that make you think of heat. [9, 17]"
+                },
+                {
+                  "label": "Cool",
+                  "value": "Colors like blue, green, and purple that make you think of cold. [9]"
+                },
+                {
+                  "label": "Neutral",
+                  "value": "Colors that are not on the color wheel, like black, white, grey, and brown. [9]"
+                },
+                {
+                  "label": "Shiny",
+                  "value": "Reflecting light; bright."
+                },
+                {
+                  "label": "Matte",
+                  "value": "Not shiny; dull."
+                },
+                {
+                  "label": "Colorful",
+                  "value": "Having many different colors."
+                },
+                {
+                  "label": "Plain",
+                  "value": "Having only one color and no pattern."
+                },
+                {
+                  "label": "Patterned",
+                  "value": "Having a repeated decorative design."
+                },
+                {
+                  "label": "Striped",
+                  "value": "Marked with lines or bands of color."
+                },
+                {
+                  "label": "Spotted",
+                  "value": "Marked with round dots."
+                },
+                {
+                  "label": "Transparent",
+                  "value": "You can see through it, like glass."
+                }
+              ],
+              "usage_examples": [
+                "The peacock has bright feathers.",
+                "The color of the old wall is dull.",
+                "The painting was full of vivid colors.",
+                "She likes rich, dark colors.",
+                "Red is a warm color.",
+                "Blue is a cool color.",
+                "The soil is a neutral brown color.",
+                "The new pot is very shiny.",
+                "The wall has a matte finish.",
+                "The butterfly is very colorful.",
+                "My shirt is plain white.",
+                "She wore a patterned dress.",
+                "The tiger is a striped animal.",
+                "The deer has a spotted coat.",
+                "Water is transparent."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p13"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "8. Seasons",
+      "subtopics": [
+        {
+          "title": "8.1. The Main Seasons",
+          "sections": [
+            {
+              "text": "A year is divided into different seasons, each with its own weather. In India, we often experience six seasons. [7]",
+              "examples": [
+                {
+                  "label": "Spring (Vasant)",
+                  "value": "The season when flowers bloom and new leaves appear. The weather is pleasant. [5, 6]"
+                },
+                {
+                  "label": "Summer (Grishma)",
+                  "value": "The hottest season of the year, with long and sunny days. [5, 6]"
+                },
+                {
+                  "label": "Monsoon (Varsha)",
+                  "value": "The rainy season, when we get a lot of rainfall. [6, 7]"
+                },
+                {
+                  "label": "Autumn (Sharad)",
+                  "value": "The season when trees shed their leaves and the weather starts to cool down. [5, 6]"
+                },
+                {
+                  "label": "Pre-Winter (Hemant)",
+                  "value": "The season just before winter when it starts to get cold. [7]"
+                },
+                {
+                  "label": "Winter (Shishir)",
+                  "value": "The coldest season of the year, with short days and long nights. [5, 6]"
+                }
+              ],
+              "usage_examples": [
+                "The garden looks beautiful in spring.",
+                "We eat mangoes and ice cream in summer.",
+                "Farmers wait for the monsoon to plant their crops.",
+                "The ground is covered with dry leaves in autumn.",
+                "We start wearing light sweaters in the pre-winter season.",
+                "People sit around a fire to keep warm in winter."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p14"
+              }
+            }
+          ]
+        },
+        {
+          "title": "8.2. Words to Describe Seasonal Weather",
+          "sections": [
+            {
+              "text": "These words help us talk about the kind of weather in different seasons.",
+              "examples": [
+                {
+                  "label": "Hot",
+                  "value": "Having a high temperature; what we feel in summer."
+                },
+                {
+                  "label": "Cold",
+                  "value": "Having a low temperature; what we feel in winter."
+                },
+                {
+                  "label": "Warm",
+                  "value": "Pleasantly high temperature; not too hot."
+                },
+                {
+                  "label": "Cool",
+                  "value": "Pleasantly low temperature; not too cold."
+                },
+                {
+                  "label": "Humid",
+                  "value": "Feeling wet or damp in the air, especially during monsoon. [2]"
+                },
+                {
+                  "label": "Dry",
+                  "value": "Having little or no rain."
+                },
+                {
+                  "label": "Sunny",
+                  "value": "With bright sunshine and no clouds."
+                },
+                {
+                  "label": "Cloudy",
+                  "value": "When the sky is covered with clouds."
+                },
+                {
+                  "label": "Rainy",
+                  "value": "When rain is falling."
+                },
+                {
+                  "label": "Windy",
+                  "value": "With a lot of wind blowing."
+                },
+                {
+                  "label": "Stormy",
+                  "value": "With strong winds, heavy rain, and sometimes thunder and lightning."
+                },
+                {
+                  "label": "Foggy",
+                  "value": "Full of thick cloud-like air close to the ground, common in winter mornings."
+                },
+                {
+                  "label": "Pleasant",
+                  "value": "Nice and enjoyable weather."
+                },
+                {
+                  "label": "Harsh",
+                  "value": "Very severe and unpleasant weather."
+                },
+                {
+                  "label": "Mild",
+                  "value": "Gentle weather, not extreme."
+                }
+              ],
+              "usage_examples": [
+                "It is very hot in the afternoon.",
+                "Wear warm clothes on a cold day.",
+                "The morning sun feels warm on the skin.",
+                "A cool breeze is blowing.",
+                "The air is very humid during the rainy season.",
+                "The weather is very dry in May.",
+                "Let's play outside on this sunny day.",
+                "It looks like it will rain on this cloudy day.",
+                "I love the sound of a rainy afternoon.",
+                "It is difficult to walk on a windy day.",
+                "The sea becomes rough during stormy weather.",
+                "The roads are not visible on a foggy morning.",
+                "The weather in spring is very pleasant.",
+                "The summer sun can be very harsh.",
+                "The winter in our village is usually mild."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p15"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "9. Time References",
+      "subtopics": [
+        {
+          "title": "9.1. Relative to the Present",
+          "sections": [
+            {
+              "text": "Words that describe time in relation to now, the past, or the future.",
+              "examples": [
+                {
+                  "label": "Now",
+                  "value": "At the present time or moment. [14]"
+                },
+                {
+                  "label": "Then",
+                  "value": "At that time (in the past or future)."
+                },
+                {
+                  "label": "Today",
+                  "value": "This present day. [19]"
+                },
+                {
+                  "label": "Yesterday",
+                  "value": "The day before today. [14]"
+                },
+                {
+                  "label": "Tomorrow",
+                  "value": "The day after today. [14]"
+                },
+                {
+                  "label": "Tonight",
+                  "value": "The evening or night of the present day."
+                },
+                {
+                  "label": "The day before yesterday",
+                  "value": "Two days ago."
+                },
+                {
+                  "label": "The day after tomorrow",
+                  "value": "In two days' time."
+                },
+                {
+                  "label": "This week",
+                  "value": "The current week. [19]"
+                },
+                {
+                  "label": "Last week",
+                  "value": "The week before the present one. [14]"
+                },
+                {
+                  "label": "Next week",
+                  "value": "The week after the present one. [14]"
+                },
+                {
+                  "label": "Current",
+                  "value": "Happening or being used or done now."
+                },
+                {
+                  "label": "Recent",
+                  "value": "Having happened or started only a short time ago."
+                },
+                {
+                  "label": "Previous",
+                  "value": "Existing or happening before the present time."
+                },
+                {
+                  "label": "Upcoming",
+                  "value": "Happening soon; forthcoming."
+                }
+              ],
+              "usage_examples": [
+                "I am busy right now.",
+                "I was in school then.",
+                "What is the date today?",
+                "We had a guest yesterday.",
+                "Tomorrow is a holiday.",
+                "We will watch a movie tonight.",
+                "I met him the day before yesterday.",
+                "The results will be out the day after tomorrow.",
+                "I have a test this week.",
+                "I was unwell last week.",
+                "My uncle will come next week.",
+                "What is the current time?",
+                "There has been a recent change in the weather.",
+                "The previous owner sold the house.",
+                "Are you prepared for the upcoming exam?"
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p16"
+              }
+            }
+          ]
+        },
+        {
+          "title": "9.2. Connecting Time",
+          "sections": [
+            {
+              "text": "Words that connect events in time or show their duration.",
+              "examples": [
+                {
+                  "label": "Before",
+                  "value": "At an earlier time. [19]"
+                },
+                {
+                  "label": "After",
+                  "value": "At a later time. [19]"
+                },
+                {
+                  "label": "During",
+                  "value": "Throughout the whole of a period of time. [14]"
+                },
+                {
+                  "label": "While",
+                  "value": "During the time that something is happening. [19]"
+                },
+                {
+                  "label": "Until",
+                  "value": "Up to the point in time that. [19]"
+                },
+                {
+                  "label": "Since",
+                  "value": "From a time in the past until now. [19]"
+                },
+                {
+                  "label": "For",
+                  "value": "Used to show a period of time. [14]"
+                },
+                {
+                  "label": "Ago",
+                  "value": "Before the present; in the past. [19]"
+                },
+                {
+                  "label": "Later",
+                  "value": "At a time in the future. [14]"
+                },
+                {
+                  "label": "Early",
+                  "value": "Before the usual or expected time. [4]"
+                },
+                {
+                  "label": "Late",
+                  "value": "After the usual or expected time. [4]"
+                },
+                {
+                  "label": "When",
+                  "value": "At or on which time. [19]"
+                },
+                {
+                  "label": "As soon as",
+                  "value": "Immediately at the moment that. [19]"
+                },
+                {
+                  "label": "Meanwhile",
+                  "value": "In the time between two events."
+                },
+                {
+                  "label": "Eventually",
+                  "value": "In the end, especially after a long time."
+                }
+              ],
+              "usage_examples": [
+                "Wash your hands before eating.",
+                "I will play after finishing my homework.",
+                "Don't talk during the class.",
+                "My mother was cooking while I was studying.",
+                "Wait until the rain stops.",
+                "He has been living here since 2010.",
+                "I waited for an hour.",
+                "He left two days ago.",
+                "I will call you later.",
+                "The farmer gets up early in the morning.",
+                "Why are you late for school?",
+                "I was happy when I heard the news.",
+                "Come home as soon as school is over.",
+                "You set the table. Meanwhile, I'll finish cooking.",
+                "After trying many times, he eventually succeeded."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-3/p17"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,2456 @@
+{
+  "title": "Travel",
+  "icon": "✈️",
+  "words": [
+    {
+      "word": "Travel",
+      "pronunciation": "/ˈtrævəl/",
+      "definition": "To go from one place to another, often over a long distance.",
+      "sentences": [
+        "We love to travel to new countries.",
+        "How often do you travel for work?",
+        "My dream is to travel around the world."
+      ]
+    },
+    {
+      "word": "Trip",
+      "pronunciation": "/trɪp/",
+      "definition": "A journey to a place and back again, especially for pleasure.",
+      "sentences": [
+        "We are planning a trip to the beach.",
+        "Did you enjoy your trip?",
+        "The school trip was very exciting."
+      ]
+    },
+    {
+      "word": "Journey",
+      "pronunciation": "/ˈdʒɜːrni/",
+      "definition": "An act of traveling from one place to another, usually over a long distance.",
+      "sentences": [
+        "The train journey was long but beautiful.",
+        "They started their journey early in the morning.",
+        "Every journey begins with a single step."
+      ]
+    },
+    {
+      "word": "Vacation",
+      "pronunciation": "/veɪˈkeɪʃən/",
+      "definition": "A period of time when you are not working or studying and can relax or travel.",
+      "sentences": [
+        "We are going on vacation next month.",
+        "Where did you spend your last vacation?",
+        "I need a long vacation to rest."
+      ]
+    },
+    {
+      "word": "Holiday",
+      "pronunciation": "/ˈhɑːlədeɪ/",
+      "definition": "A day of celebration or rest, or a period of time when you do not work.",
+      "sentences": [
+        "Happy holidays to everyone!",
+        "We spent our summer holiday at the lake.",
+        "Many people travel during public holidays."
+      ]
+    },
+    {
+      "word": "Tourist",
+      "pronunciation": "/ˈtʊrɪst/",
+      "definition": "A person who is traveling or visiting a place for pleasure.",
+      "sentences": [
+        "Many tourists visit Paris every year.",
+        "The city welcomes all tourists.",
+        "I feel like a tourist in my own town sometimes."
+      ]
+    },
+    {
+      "word": "Passport",
+      "pronunciation": "/ˈpæspɔːrt/",
+      "definition": "An official document that allows you to travel to foreign countries.",
+      "sentences": [
+        "Don't forget your passport when you travel abroad.",
+        "My passport expires next year.",
+        "You need a valid passport to enter the country."
+      ]
+    },
+    {
+      "word": "Visa",
+      "pronunciation": "/ˈviːzə/",
+      "definition": "An official mark put in your passport that allows you to enter or leave a country.",
+      "sentences": [
+        "I need a visa to visit that country.",
+        "Applying for a visa can take time.",
+        "Some countries offer visa-free travel."
+      ]
+    },
+    {
+      "word": "Luggage",
+      "pronunciation": "/ˈlʌɡɪdʒ/",
+      "definition": "Bags and suitcases that you take with you when you travel.",
+      "sentences": [
+        "Please put your luggage in the trunk.",
+        "My luggage is too heavy.",
+        "We collected our luggage from the carousel."
+      ]
+    },
+    {
+      "word": "Suitcase",
+      "pronunciation": "/ˈsuːtkeɪs/",
+      "definition": "A rectangular case with a handle, used for carrying clothes and other belongings when traveling.",
+      "sentences": [
+        "I packed my clothes in a large suitcase.",
+        "He carried his suitcase up the stairs.",
+        "My suitcase has wheels, which is very helpful."
+      ]
+    },
+    {
+      "word": "Backpack",
+      "pronunciation": "/ˈbækˌpæk/",
+      "definition": "A bag carried on the back, used for carrying things, especially by hikers or students.",
+      "sentences": [
+        "She carried her books in a backpack.",
+        "He packed his backpack for the hike.",
+        "A small backpack is good for a day trip."
+      ]
+    },
+    {
+      "word": "Ticket",
+      "pronunciation": "/ˈtɪkɪt/",
+      "definition": "A piece of paper or electronic document that shows you have paid for a journey or event.",
+      "sentences": [
+        "I bought a train ticket to the city.",
+        "Do you have your concert ticket?",
+        "Show your ticket at the entrance."
+      ]
+    },
+    {
+      "word": "Boarding pass",
+      "pronunciation": "/ˈbɔːrdɪŋ pæs/",
+      "definition": "A document that allows you to get on a plane or ship.",
+      "sentences": [
+        "You need your boarding pass to enter the gate.",
+        "I printed my boarding pass at home.",
+        "Show your boarding pass and passport."
+      ]
+    },
+    {
+      "word": "Airport",
+      "pronunciation": "/ˈɛərˌpɔːrt/",
+      "definition": "A place where airplanes take off and land, with buildings for passengers.",
+      "sentences": [
+        "We arrived at the airport two hours early.",
+        "The airport was very busy.",
+        "My flight departs from Terminal 2 at the airport."
+      ]
+    },
+    {
+      "word": "Airplane",
+      "pronunciation": "/ˈɛərˌpleɪn/",
+      "definition": "A vehicle with wings and engines that flies through the air.",
+      "sentences": [
+        "The airplane took off smoothly.",
+        "I love watching airplanes fly.",
+        "We traveled by airplane to London."
+      ]
+    },
+    {
+      "word": "Flight",
+      "pronunciation": "/flaɪt/",
+      "definition": "A journey made by an airplane.",
+      "sentences": [
+        "Our flight was delayed due to bad weather.",
+        "The flight to New York takes six hours.",
+        "I hope to have a comfortable flight."
+      ]
+    },
+    {
+      "word": "Pilot",
+      "pronunciation": "/ˈpaɪlət/",
+      "definition": "A person who operates the controls of an aircraft.",
+      "sentences": [
+        "The pilot announced our arrival.",
+        "My uncle is a pilot.",
+        "The pilot landed the plane safely."
+      ]
+    },
+    {
+      "word": "Flight attendant",
+      "pronunciation": "/flaɪt əˈtɛndənt/",
+      "definition": "A person who serves passengers on an aircraft.",
+      "sentences": [
+        "The flight attendant offered us drinks.",
+        "She wants to become a flight attendant.",
+        "Flight attendants ensure passenger safety."
+      ]
+    },
+    {
+      "word": "Gate",
+      "pronunciation": "/ɡeɪt/",
+      "definition": "A specific area in an airport where passengers wait to board a flight.",
+      "sentences": [
+        "Our flight is departing from Gate 10.",
+        "Please proceed to your boarding gate.",
+        "The gate number was changed at the last minute."
+      ]
+    },
+    {
+      "word": "Terminal",
+      "pronunciation": "/ˈtɜːrmɪnl/",
+      "definition": "A building at an airport where passengers arrive and depart.",
+      "sentences": [
+        "We arrived at Terminal 3.",
+        "Which terminal does your airline use?",
+        "The new terminal is very modern."
+      ]
+    },
+    {
+      "word": "Check-in",
+      "pronunciation": "/ˈtʃɛk ɪn/",
+      "definition": "The act of registering your arrival at a hotel or airport.",
+      "sentences": [
+        "We need to check-in an hour before the flight.",
+        "The check-in desk is on the right.",
+        "Online check-in saves time."
+      ]
+    },
+    {
+      "word": "Departure",
+      "pronunciation": "/dɪˈpɑːrtʃər/",
+      "definition": "The act of leaving a place.",
+      "sentences": [
+        "The departure time is 9:00 AM.",
+        "We waved goodbye at her departure.",
+        "Check the departure board for updates."
+      ]
+    },
+    {
+      "word": "Arrival",
+      "pronunciation": "/əˈraɪvəl/",
+      "definition": "The act of reaching a place.",
+      "sentences": [
+        "Her arrival was delayed by traffic.",
+        "We waited for their arrival at the station.",
+        "The arrival gate is usually crowded."
+      ]
+    },
+    {
+      "word": "Customs",
+      "pronunciation": "/ˈkʌstəmz/",
+      "definition": "The place at an airport or border where your bags are checked for illegal goods.",
+      "sentences": [
+        "We had to go through customs after landing.",
+        "Do you have anything to declare at customs?",
+        "Customs officers check passports."
+      ]
+    },
+    {
+      "word": "Immigration",
+      "pronunciation": "/ˌɪmɪˈɡreɪʃən/",
+      "definition": "The process of entering a country to live or work, or the place where officials check your right to enter.",
+      "sentences": [
+        "We passed through immigration quickly.",
+        "The immigration officer checked my visa.",
+        "Long lines at immigration are common."
+      ]
+    },
+    {
+      "word": "Layover",
+      "pronunciation": "/ˈleɪˌoʊvər/",
+      "definition": "A period of time when you are waiting at an airport for another flight.",
+      "sentences": [
+        "We have a long layover in Dubai.",
+        "A short layover is better than a long one.",
+        "What can we do during our layover?"
+      ]
+    },
+    {
+      "word": "Connection",
+      "pronunciation": "/kəˈnɛkʃən/",
+      "definition": "A flight or train that allows you to continue your journey after arriving on another.",
+      "sentences": [
+        "I missed my connection flight.",
+        "Is there a direct connection to the city center?",
+        "Our connection time is very short."
+      ]
+    },
+    {
+      "word": "Train",
+      "pronunciation": "/treɪn/",
+      "definition": "A form of transport that runs on railway tracks.",
+      "sentences": [
+        "We took the train to the next town.",
+        "The train station is nearby.",
+        "High-speed trains are very fast."
+      ]
+    },
+    {
+      "word": "Station",
+      "pronunciation": "/ˈsteɪʃən/",
+      "definition": "A place where trains or buses stop for passengers to get on or off.",
+      "sentences": [
+        "Meet me at the train station.",
+        "The bus station is very crowded.",
+        "Is this the last station?"
+      ]
+    },
+    {
+      "word": "Bus",
+      "pronunciation": "/bʌs/",
+      "definition": "A large road vehicle that carries passengers, usually along a fixed route.",
+      "sentences": [
+        "I take the bus to school every day.",
+        "The bus stop is just around the corner.",
+        "The bus was full of tourists."
+      ]
+    },
+    {
+      "word": "Car",
+      "pronunciation": "/kɑːr/",
+      "definition": "A road vehicle with an engine, usually with four wheels, that can carry a small number of passengers.",
+      "sentences": [
+        "We rented a car for our trip.",
+        "My new car is blue.",
+        "Driving a car gives you freedom."
+      ]
+    },
+    {
+      "word": "Taxi",
+      "pronunciation": "/ˈtæksi/",
+      "definition": "A car with a driver that you pay to take you somewhere.",
+      "sentences": [
+        "Let's take a taxi to the hotel.",
+        "The taxi driver was very friendly.",
+        "Can you call a taxi for me?"
+      ]
+    },
+    {
+      "word": "Subway",
+      "pronunciation": "/ˈsʌbweɪ/",
+      "definition": "An underground railway system in a city.",
+      "sentences": [
+        "The subway is a fast way to travel in the city.",
+        "Take the subway to the museum.",
+        "The subway station is always busy."
+      ]
+    },
+    {
+      "word": "Map",
+      "pronunciation": "/mæp/",
+      "definition": "A drawing of an area, showing roads, rivers, towns, etc.",
+      "sentences": [
+        "We used a map to find our way.",
+        "Can you show me on the map?",
+        "I always carry a map when I travel."
+      ]
+    },
+    {
+      "word": "Guide",
+      "pronunciation": "/ɡaɪd/",
+      "definition": "A person who shows the way to others, especially on a tour.",
+      "sentences": [
+        "Our tour guide was very knowledgeable.",
+        "The guide led us through the forest.",
+        "We hired a local guide for the city tour."
+      ]
+    },
+    {
+      "word": "Hotel",
+      "pronunciation": "/hoʊˈtɛl/",
+      "definition": "A building where travelers can pay to stay and eat meals.",
+      "sentences": [
+        "We booked a nice hotel by the beach.",
+        "The hotel room was very comfortable.",
+        "Is there a hotel near the airport?"
+      ]
+    },
+    {
+      "word": "Hostel",
+      "pronunciation": "/ˈhɑːstl/",
+      "definition": "A cheap place to stay, especially for young travelers, with shared rooms.",
+      "sentences": [
+        "Many backpackers stay in hostels.",
+        "The hostel had a common kitchen.",
+        "Hostels are good for meeting new people."
+      ]
+    },
+    {
+      "word": "Resort",
+      "pronunciation": "/rɪˈzɔːrt/",
+      "definition": "A place where many people go for holidays, usually with hotels, restaurants, and entertainment.",
+      "sentences": [
+        "We stayed at a luxury resort in the mountains.",
+        "This resort has a large swimming pool.",
+        "The family-friendly resort offers many activities."
+      ]
+    },
+    {
+      "word": "Accommodation",
+      "pronunciation": "/əˌkɑːməˈdeɪʃən/",
+      "definition": "A place where you can live or stay.",
+      "sentences": [
+        "We found good accommodation near the city center.",
+        "The price includes flight and accommodation.",
+        "Finding suitable accommodation can be tricky."
+      ]
+    },
+    {
+      "word": "Reservation",
+      "pronunciation": "/ˌrɛzərˈveɪʃən/",
+      "definition": "An arrangement to have a hotel room, a table at a restaurant, etc., kept for you.",
+      "sentences": [
+        "Do you have a reservation?",
+        "I made a reservation for two nights.",
+        "It's wise to make a reservation during peak season."
+      ]
+    },
+    {
+      "word": "Book (verb)",
+      "pronunciation": "/bʊk/",
+      "definition": "To arrange to use or have something at a particular time in the future.",
+      "sentences": [
+        "We need to book our flights soon.",
+        "I booked a table at the restaurant.",
+        "You can book tickets online."
+      ]
+    },
+    {
+      "word": "Pack",
+      "pronunciation": "/pæk/",
+      "definition": "To put things into a bag or suitcase to take them with you.",
+      "sentences": [
+        "I need to pack my clothes for the trip.",
+        "Did you pack enough socks?",
+        "She helped me pack my suitcase."
+      ]
+    },
+    {
+      "word": "Unpack",
+      "pronunciation": "/ʌnˈpæk/",
+      "definition": "To take things out of a bag or suitcase.",
+      "sentences": [
+        "It's time to unpack our bags.",
+        "He unpacked his belongings and put them away.",
+        "I always unpack as soon as I arrive."
+      ]
+    },
+    {
+      "word": "Sightseeing",
+      "pronunciation": "/ˈsaɪtˌsiːɪŋ/",
+      "definition": "The activity of visiting famous or interesting places, especially as a tourist.",
+      "sentences": [
+        "We spent the day sightseeing in the city.",
+        "Sightseeing is my favorite part of traveling.",
+        "The bus tour offers great sightseeing opportunities."
+      ]
+    },
+    {
+      "word": "Explore",
+      "pronunciation": "/ɪkˈsplɔːr/",
+      "definition": "To travel around a place in order to find out what is there.",
+      "sentences": [
+        "Let's explore the old town.",
+        "I love to explore new cultures.",
+        "We explored the forest for hours."
+      ]
+    },
+    {
+      "word": "Landmark",
+      "pronunciation": "/ˈlændˌmɑːrk/",
+      "definition": "A building or place that is easily recognized, especially one that is important in history.",
+      "sentences": [
+        "The Eiffel Tower is a famous landmark.",
+        "We visited several historical landmarks.",
+        "The statue is a well-known landmark in the city."
+      ]
+    },
+    {
+      "word": "Museum",
+      "pronunciation": "/mjuːˈziːəm/",
+      "definition": "A building where collections of valuable and interesting objects are kept and shown to the public.",
+      "sentences": [
+        "We spent the afternoon at the art museum.",
+        "The museum has many ancient artifacts.",
+        "Children love visiting interactive museums."
+      ]
+    },
+    {
+      "word": "Beach",
+      "pronunciation": "/biːtʃ/",
+      "definition": "An area of sand or stones next to the sea or a lake.",
+      "sentences": [
+        "Let's go to the beach tomorrow.",
+        "The kids played on the beach.",
+        "The beach was very crowded."
+      ]
+    },
+    {
+      "word": "Mountain",
+      "pronunciation": "/ˈmaʊntən/",
+      "definition": "A very high hill, often with a pointed top.",
+      "sentences": [
+        "We hiked up the mountain.",
+        "The view from the mountain top was amazing.",
+        "Many people enjoy skiing in the mountains."
+      ]
+    },
+    {
+      "word": "City",
+      "pronunciation": "/ˈsɪti/",
+      "definition": "A large and important town.",
+      "sentences": [
+        "New York is a very big city.",
+        "We are visiting a new city next week.",
+        "The city lights were beautiful at night."
+      ]
+    },
+    {
+      "word": "Country",
+      "pronunciation": "/ˈkʌntri/",
+      "definition": "An area of land that has its own government and is known by a specific name.",
+      "sentences": [
+        "Which country are you from?",
+        "I want to visit every country in Europe.",
+        "Traveling to a new country is exciting."
+      ]
+    },
+    {
+      "word": "Capital",
+      "pronunciation": "/ˈkæpɪtl/",
+      "definition": "The most important city or town of a country or region, usually where the government is.",
+      "sentences": [
+        "Paris is the capital of France.",
+        "We visited the capital city last summer.",
+        "The capital is known for its history."
+      ]
+    },
+    {
+      "word": "Currency",
+      "pronunciation": "/ˈkɜːrənsi/",
+      "definition": "The system of money used in a particular country.",
+      "sentences": [
+        "What is the local currency?",
+        "I need to exchange my currency.",
+        "The currency exchange rate changes daily."
+      ]
+    },
+    {
+      "word": "Cash",
+      "pronunciation": "/kæʃ/",
+      "definition": "Money in the form of coins or banknotes.",
+      "sentences": [
+        "Do you have any cash on you?",
+        "I prefer to pay with cash.",
+        "Many small shops only accept cash."
+      ]
+    },
+    {
+      "word": "Credit card",
+      "pronunciation": "/ˈkrɛdɪt kɑːrd/",
+      "definition": "A small plastic card that allows you to buy things and pay for them later.",
+      "sentences": [
+        "Can I pay with a credit card?",
+        "Always keep your credit card safe.",
+        "Some places don't accept credit cards."
+      ]
+    },
+    {
+      "word": "ATM",
+      "pronunciation": "/ˌeɪ tiː ˈɛm/",
+      "definition": "A machine that allows you to get money from your bank account using a card.",
+      "sentences": [
+        "Is there an ATM nearby?",
+        "I need to withdraw cash from the ATM.",
+        "The ATM is out of order."
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "pronunciation": "/ˌsuːvəˈnɪr/",
+      "definition": "Something you buy or keep to remind you of a place you visited.",
+      "sentences": [
+        "I bought a souvenir for my mom.",
+        "This T-shirt is a souvenir from Rome.",
+        "Many shops sell local souvenirs."
+      ]
+    },
+    {
+      "word": "Postcard",
+      "pronunciation": "/ˈpoʊstˌkɑːrd/",
+      "definition": "A card with a picture on one side, used for sending messages by mail without an envelope.",
+      "sentences": [
+        "I sent a postcard to my friend.",
+        "Let's buy some postcards to send home.",
+        "The postcard shows a beautiful sunset."
+      ]
+    },
+    {
+      "word": "Restaurant",
+      "pronunciation": "/ˈrɛstəˌrɑːnt/",
+      "definition": "A place where you can buy and eat a meal.",
+      "sentences": [
+        "We had dinner at a nice restaurant.",
+        "This restaurant serves delicious local food.",
+        "Is there a good restaurant nearby?"
+      ]
+    },
+    {
+      "word": "Cafe",
+      "pronunciation": "/kæˈfeɪ/",
+      "definition": "A small restaurant where you can buy drinks, especially coffee, and simple meals.",
+      "sentences": [
+        "Let's meet at the cafe for coffee.",
+        "The cafe has free Wi-Fi.",
+        "I like to read in a quiet cafe."
+      ]
+    },
+    {
+      "word": "Menu",
+      "pronunciation": "/ˈmɛnjuː/",
+      "definition": "A list of the food and drinks that are available in a restaurant.",
+      "sentences": [
+        "Can I see the menu, please?",
+        "The menu has many options.",
+        "What's on the special menu today?"
+      ]
+    },
+    {
+      "word": "Waiter/Waitress",
+      "pronunciation": "/ˈweɪtər/ /ˈweɪtrəs/",
+      "definition": "A person who serves food and drinks in a restaurant.",
+      "sentences": [
+        "The waiter took our order.",
+        "The waitress was very polite.",
+        "We waited for the waiter to bring the bill."
+      ]
+    },
+    {
+      "word": "Bill",
+      "pronunciation": "/bɪl/",
+      "definition": "A piece of paper that shows how much money you owe for food, drinks, or services.",
+      "sentences": [
+        "Can we have the bill, please?",
+        "The bill came to fifty dollars.",
+        "Don't forget to pay the bill."
+      ]
+    },
+    {
+      "word": "Tip",
+      "pronunciation": "/tɪp/",
+      "definition": "A small amount of money given to someone who has provided a service, in addition to the payment.",
+      "sentences": [
+        "It's polite to leave a tip for good service.",
+        "How much should we tip the driver?",
+        "The waiter received a generous tip."
+      ]
+    },
+    {
+      "word": "Souvenir shop",
+      "pronunciation": "/ˌsuːvəˈnɪr ʃɑːp/",
+      "definition": "A shop that sells items that remind you of a place you visited.",
+      "sentences": [
+        "We bought gifts at the souvenir shop.",
+        "The souvenir shop was full of interesting things.",
+        "Let's visit the souvenir shop before we leave."
+      ]
+    },
+    {
+      "word": "Market",
+      "pronunciation": "/ˈmɑːrkɪt/",
+      "definition": "A public place where people buy and sell goods, often outdoors.",
+      "sentences": [
+        "The local market sells fresh fruits.",
+        "We bought some crafts at the market.",
+        "The night market is very lively."
+      ]
+    },
+    {
+      "word": "Local",
+      "pronunciation": "/ˈloʊkl/",
+      "definition": "Relating to the particular area or neighborhood where you are.",
+      "sentences": [
+        "We tried the local food.",
+        "Ask a local for directions.",
+        "The local people were very welcoming."
+      ]
+    },
+    {
+      "word": "Foreign",
+      "pronunciation": "/ˈfɔːrən/",
+      "definition": "From or relating to a country that is not your own.",
+      "sentences": [
+        "I love to learn foreign languages.",
+        "She is studying abroad in a foreign country.",
+        "Many foreign visitors come here."
+      ]
+    },
+    {
+      "word": "Culture",
+      "pronunciation": "/ˈkʌltʃər/",
+      "definition": "The customs, arts, social institutions, and achievements of a particular nation, people, or group.",
+      "sentences": [
+        "We learned about the local culture.",
+        "Travel helps you experience new cultures.",
+        "Food is an important part of a country's culture."
+      ]
+    },
+    {
+      "word": "Language",
+      "pronunciation": "/ˈlæŋɡwɪdʒ/",
+      "definition": "The system of communication used by a particular community or country.",
+      "sentences": [
+        "Do you speak the local language?",
+        "Learning a new language is fun.",
+        "English is a widely spoken language."
+      ]
+    },
+    {
+      "word": "Phrasebook",
+      "pronunciation": "/ˈfreɪzbʊk/",
+      "definition": "A small book containing common phrases in a foreign language.",
+      "sentences": [
+        "I bought a phrasebook for my trip.",
+        "A phrasebook can be very useful.",
+        "She used a phrasebook to ask for directions."
+      ]
+    },
+    {
+      "word": "Translate",
+      "pronunciation": "/trænsˈleɪt/",
+      "definition": "To change words from one language into another.",
+      "sentences": [
+        "Can you translate this for me?",
+        "I use an app to translate.",
+        "It's hard to translate poetry well."
+      ]
+    },
+    {
+      "word": "Directions",
+      "pronunciation": "/dɪˈrɛkʃənz/",
+      "definition": "Instructions about how to get from one place to another.",
+      "sentences": [
+        "Can you give me directions to the station?",
+        "We got lost because we didn't follow the directions.",
+        "The map provides clear directions."
+      ]
+    },
+    {
+      "word": "North",
+      "pronunciation": "/nɔːrθ/",
+      "definition": "The direction that is opposite to the south.",
+      "sentences": [
+        "The city is located to the north.",
+        "Birds fly north in the spring.",
+        "The compass needle points north."
+      ]
+    },
+    {
+      "word": "South",
+      "pronunciation": "/saʊθ/",
+      "definition": "The direction that is opposite to the north.",
+      "sentences": [
+        "We drove south for two hours.",
+        "The warmest part of the country is in the south.",
+        "The wind is blowing from the south."
+      ]
+    },
+    {
+      "word": "East",
+      "pronunciation": "/iːst/",
+      "definition": "The direction where the sun rises.",
+      "sentences": [
+        "The sun rises in the east.",
+        "Go east for about a mile.",
+        "Japan is an East Asian country."
+      ]
+    },
+    {
+      "word": "West",
+      "pronunciation": "/wɛst/",
+      "definition": "The direction where the sun sets.",
+      "sentences": [
+        "The sun sets in the west.",
+        "The road goes west.",
+        "California is on the west coast."
+      ]
+    },
+    {
+      "word": "Left",
+      "pronunciation": "/lɛft/",
+      "definition": "On or to the side of your body that is not your right side.",
+      "sentences": [
+        "Turn left at the next corner.",
+        "Keep to the left side of the road.",
+        "My house is on the left."
+      ]
+    },
+    {
+      "word": "Right",
+      "pronunciation": "/raɪt/",
+      "definition": "On or to the side of your body that is not your left side.",
+      "sentences": [
+        "Turn right after the bridge.",
+        "The store is on your right.",
+        "He writes with his right hand."
+      ]
+    },
+    {
+      "word": "Straight",
+      "pronunciation": "/streɪt/",
+      "definition": "In a direct line; not curving or bending.",
+      "sentences": [
+        "Go straight ahead for two blocks.",
+        "The road is straight and flat.",
+        "Walk straight until you see the park."
+      ]
+    },
+    {
+      "word": "Abroad",
+      "pronunciation": "/əˈbrɔːd/",
+      "definition": "In or to a foreign country.",
+      "sentences": [
+        "She decided to study abroad.",
+        "Have you ever lived abroad?",
+        "Many people travel abroad for holidays."
+      ]
+    },
+    {
+      "word": "Overnight",
+      "pronunciation": "/ˌoʊvərˈnaɪt/",
+      "definition": "For the duration of a night; during the night.",
+      "sentences": [
+        "We took an overnight train.",
+        "The package arrived overnight.",
+        "We stayed overnight at a friend's house."
+      ]
+    },
+    {
+      "word": "Itinerary",
+      "pronunciation": "/aɪˈtɪnərɛri/",
+      "definition": "A plan of a journey, including the route and places you will visit.",
+      "sentences": [
+        "Our itinerary includes visits to three cities.",
+        "The travel agent helped us plan our itinerary.",
+        "Stick to the itinerary to save time."
+      ]
+    },
+    {
+      "word": "Destination",
+      "pronunciation": "/ˌdɛstɪˈneɪʃən/",
+      "definition": "The place to which someone or something is going or being sent.",
+      "sentences": [
+        "Our final destination is Rome.",
+        "What is your dream travel destination?",
+        "We arrived safely at our destination."
+      ]
+    },
+    {
+      "word": "Departure lounge",
+      "pronunciation": "/dɪˈpɑːrtʃər laʊndʒ/",
+      "definition": "The area in an airport where passengers wait before boarding their flight.",
+      "sentences": [
+        "We waited in the departure lounge.",
+        "The departure lounge was very crowded.",
+        "You can find shops in the departure lounge."
+      ]
+    },
+    {
+      "word": "Baggage claim",
+      "pronunciation": "/ˈbæɡɪdʒ kleɪm/",
+      "definition": "The area in an airport where passengers collect their luggage after a flight.",
+      "sentences": [
+        "Go to baggage claim to get your suitcase.",
+        "There's a long wait at baggage claim.",
+        "My bag was the last one on the baggage claim carousel."
+      ]
+    },
+    {
+      "word": "Carry-on",
+      "pronunciation": "/ˈkæri ɑːn/",
+      "definition": "A small bag or suitcase that you are allowed to take onto an airplane with you.",
+      "sentences": [
+        "I only brought a small carry-on bag.",
+        "Make sure your carry-on fits in the overhead bin.",
+        "Liquids in carry-on bags have restrictions."
+      ]
+    },
+    {
+      "word": "Window seat",
+      "pronunciation": "/ˈwɪndoʊ siːt/",
+      "definition": "A seat next to a window, especially on a plane or train.",
+      "sentences": [
+        "I prefer a window seat on flights.",
+        "Do you want an aisle or a window seat?",
+        "The window seat offers great views."
+      ]
+    },
+    {
+      "word": "Aisle seat",
+      "pronunciation": "/ˈaɪl siːt/",
+      "definition": "A seat next to the passage between rows of seats, especially on a plane or train.",
+      "sentences": [
+        "He always chooses an aisle seat.",
+        "An aisle seat makes it easy to get up.",
+        "I prefer an aisle seat for long flights."
+      ]
+    },
+    {
+      "word": "Overhead bin",
+      "pronunciation": "/ˌoʊvərˈhɛd bɪn/",
+      "definition": "A storage compartment above the seats in an airplane.",
+      "sentences": [
+        "Put your carry-on in the overhead bin.",
+        "The overhead bin was full.",
+        "Please close the overhead bin securely."
+      ]
+    },
+    {
+      "word": "Seatbelt",
+      "pronunciation": "/ˈsiːtbɛlt/",
+      "definition": "A strap worn in a vehicle or aircraft to hold you in your seat in case of an accident.",
+      "sentences": [
+        "Please fasten your seatbelt.",
+        "Always wear your seatbelt for safety.",
+        "The seatbelt sign is now off."
+      ]
+    },
+    {
+      "word": "Take off (verb)",
+      "pronunciation": "/teɪk ɔːf/",
+      "definition": "When an aircraft leaves the ground and begins to fly.",
+      "sentences": [
+        "The plane will take off in five minutes.",
+        "We watched the planes take off.",
+        "The take-off was very smooth."
+      ]
+    },
+    {
+      "word": "Land (verb)",
+      "pronunciation": "/lænd/",
+      "definition": "When an aircraft returns to the ground after flying.",
+      "sentences": [
+        "The plane will land soon.",
+        "We landed safely in New York.",
+        "The pilot prepared to land the aircraft."
+      ]
+    },
+    {
+      "word": "Cruise",
+      "pronunciation": "/kruːz/",
+      "definition": "A holiday on a ship, sailing from place to place.",
+      "sentences": [
+        "They went on a cruise to the Caribbean.",
+        "A cruise is a relaxing way to travel.",
+        "The cruise ship was huge."
+      ]
+    },
+    {
+      "word": "Ship",
+      "pronunciation": "/ʃɪp/",
+      "definition": "A large boat used for traveling long distances, especially across the sea.",
+      "sentences": [
+        "The ship sailed across the ocean.",
+        "We saw a big ship in the harbor.",
+        "The cruise ship has many restaurants."
+      ]
+    },
+    {
+      "word": "Ferry",
+      "pronunciation": "/ˈfɛri/",
+      "definition": "A boat that transports people and vehicles across a body of water.",
+      "sentences": [
+        "We took the ferry to the island.",
+        "The ferry ride was very pleasant.",
+        "The ferry runs every hour."
+      ]
+    },
+    {
+      "word": "Port",
+      "pronunciation": "/pɔːrt/",
+      "definition": "A town or city with a harbor where ships load and unload.",
+      "sentences": [
+        "The ship arrived at the port.",
+        "Many goods are imported through this port.",
+        "The port was busy with activity."
+      ]
+    },
+    {
+      "word": "Harbor",
+      "pronunciation": "/ˈhɑːrbər/",
+      "definition": "A place on the coast where ships can shelter.",
+      "sentences": [
+        "The boats were anchored in the harbor.",
+        "The harbor is full of fishing boats.",
+        "We walked along the harbor at sunset."
+      ]
+    },
+    {
+      "word": "Passport control",
+      "pronunciation": "/ˈpæspɔːrt kənˈtroʊl/",
+      "definition": "The place where your passport is checked when you enter or leave a country.",
+      "sentences": [
+        "We waited in line at passport control.",
+        "Passport control can take a long time.",
+        "Have your passport ready for passport control."
+      ]
+    },
+    {
+      "word": "Duty-free",
+      "pronunciation": "/ˈduːti friː/",
+      "definition": "Goods that you can buy without paying tax, especially at airports or on planes.",
+      "sentences": [
+        "I bought some perfume at the duty-free shop.",
+        "Duty-free items are often cheaper.",
+        "The airport has a large duty-free area."
+      ]
+    },
+    {
+      "word": "Exchange rate",
+      "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "The value of one country's money compared to another country's money.",
+      "sentences": [
+        "What's the current exchange rate for dollars to euros?",
+        "The exchange rate is favorable today.",
+        "Check the exchange rate before you travel."
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "pronunciation": "/ˌsuːvəˈnɪr/",
+      "definition": "Something you buy or keep to remind you of a place you visited.",
+      "sentences": [
+        "I bought a souvenir for my mom.",
+        "This T-shirt is a souvenir from Rome.",
+        "Many shops sell local souvenirs."
+      ]
+    },
+    {
+      "word": "Postcard",
+      "pronunciation": "/ˈpoʊstˌkɑːrd/",
+      "definition": "A card with a picture on one side, used for sending messages by mail without an envelope.",
+      "sentences": [
+        "I sent a postcard to my friend.",
+        "Let's buy some postcards to send home.",
+        "The postcard shows a beautiful sunset."
+      ]
+    },
+    {
+      "word": "Guidebook",
+      "pronunciation": "/ˈɡaɪdˌbʊk/",
+      "definition": "A book that gives information about a place, for tourists.",
+      "sentences": [
+        "We used a guidebook to find the best restaurants.",
+        "This guidebook has a map of the city.",
+        "A good guidebook is essential for planning a trip."
+      ]
+    },
+    {
+      "word": "Tour",
+      "pronunciation": "/tʊr/",
+      "definition": "A journey through a place, often with a guide, to see its sights.",
+      "sentences": [
+        "We took a guided tour of the castle.",
+        "The bus tour lasted three hours.",
+        "They offer walking tours of the historic district."
+      ]
+    },
+    {
+      "word": "Excursion",
+      "pronunciation": "/ɪkˈskɜːrʒən/",
+      "definition": "A short journey or trip, especially one engaged in as a leisure activity.",
+      "sentences": [
+        "We went on an excursion to the nearby island.",
+        "The school organized an excursion to the museum.",
+        "The boat offers daily excursions."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "pronunciation": "/ədˈvɛntʃər/",
+      "definition": "An exciting and sometimes dangerous experience.",
+      "sentences": [
+        "Traveling is a great adventure.",
+        "They went on an adventure into the jungle.",
+        "Life is an adventure, enjoy the ride."
+      ]
+    },
+    {
+      "word": "Experience",
+      "pronunciation": "/ɪkˈspɪriəns/",
+      "definition": "Knowledge or skill gained over time, or an event that affects you.",
+      "sentences": [
+        "Traveling offers many new experiences.",
+        "It was an unforgettable experience.",
+        "I want to experience local traditions."
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "pronunciation": "/ˌsuːvəˈnɪr/",
+      "definition": "Something you buy or keep to remind you of a place you visited.",
+      "sentences": [
+        "I bought a souvenir for my mom.",
+        "This T-shirt is a souvenir from Rome.",
+        "Many shops sell local souvenirs."
+      ]
+    },
+    {
+      "word": "Postcard",
+      "pronunciation": "/ˈpoʊstˌkɑːrd/",
+      "definition": "A card with a picture on one side, used for sending messages by mail without an envelope.",
+      "sentences": [
+        "I sent a postcard to my friend.",
+        "Let's buy some postcards to send home.",
+        "The postcard shows a beautiful sunset."
+      ]
+    },
+    {
+      "word": "Passport holder",
+      "pronunciation": "/ˈpæspɔːrt ˈhoʊldər/",
+      "definition": "A cover or case for holding a passport and other travel documents.",
+      "sentences": [
+        "Keep your passport in a passport holder.",
+        "She bought a new leather passport holder.",
+        "A passport holder helps keep documents organized."
+      ]
+    },
+    {
+      "word": "Travel insurance",
+      "pronunciation": "/ˈtrævəl ɪnˈʃʊrəns/",
+      "definition": "Insurance that protects you against financial risks and losses while traveling.",
+      "sentences": [
+        "It's wise to buy travel insurance.",
+        "Travel insurance covers medical emergencies abroad.",
+        "Read the terms of your travel insurance carefully."
+      ]
+    },
+    {
+      "word": "Vaccination",
+      "pronunciation": "/ˌvæksɪˈneɪʃən/",
+      "definition": "An injection that protects you against a disease.",
+      "sentences": [
+        "Some countries require specific vaccinations.",
+        "Get your vaccinations before traveling.",
+        "The doctor advised on necessary vaccinations."
+      ]
+    },
+    {
+      "word": "Jet lag",
+      "pronunciation": "/ˈdʒɛt læɡ/",
+      "definition": "A feeling of tiredness and confusion caused by traveling quickly across different time zones.",
+      "sentences": [
+        "I suffered from bad jet lag after my flight.",
+        "How do you deal with jet lag?",
+        "Try to adjust your sleep schedule to avoid jet lag."
+      ]
+    },
+    {
+      "word": "Layover",
+      "pronunciation": "/ˈleɪˌoʊvər/",
+      "definition": "A period of time when you are waiting at an airport for another flight.",
+      "sentences": [
+        "We have a long layover in Dubai.",
+        "A short layover is better than a long one.",
+        "What can we do during our layover?"
+      ]
+    },
+    {
+      "word": "Delay",
+      "pronunciation": "/dɪˈleɪ/",
+      "definition": "A situation in which something happens later than it should.",
+      "sentences": [
+        "Our flight had a two-hour delay.",
+        "Traffic caused a delay in our journey.",
+        "We hope there are no more delays."
+      ]
+    },
+    {
+      "word": "Cancel",
+      "pronunciation": "/ˈkænsəl/",
+      "definition": "To decide that something planned will not happen.",
+      "sentences": [
+        "They had to cancel their trip.",
+        "The flight was canceled due to bad weather.",
+        "We had to cancel our hotel reservation."
+      ]
+    },
+    {
+      "word": "Refund",
+      "pronunciation": "/ˈriːfʌnd/",
+      "definition": "A sum of money that is returned to you, for example, because you have paid too much or because you returned goods.",
+      "sentences": [
+        "I asked for a refund for the canceled ticket.",
+        "Can I get a refund if I return this?",
+        "The company offered a full refund."
+      ]
+    },
+    {
+      "word": "Baggage drop",
+      "pronunciation": "/ˈbæɡɪdʒ drɑːp/",
+      "definition": "The area at an airport where you leave your checked luggage.",
+      "sentences": [
+        "Go to the baggage drop after checking in online.",
+        "The baggage drop queue was very long.",
+        "You can use the self-service baggage drop."
+      ]
+    },
+    {
+      "word": "Security check",
+      "pronunciation": "/sɪˈkjʊrəti tʃɛk/",
+      "definition": "An examination of people or things to ensure they are not dangerous or illegal.",
+      "sentences": [
+        "Everyone must pass through the security check.",
+        "The security check at the airport is strict.",
+        "Be prepared for a thorough security check."
+      ]
+    },
+    {
+      "word": "Boarding gate",
+      "pronunciation": "/ˈbɔːrdɪŋ ɡeɪt/",
+      "definition": "The gate from which passengers board an aircraft.",
+      "sentences": [
+        "Please proceed to boarding gate B2.",
+        "The announcement for boarding gate was made.",
+        "We waited near the boarding gate."
+      ]
+    },
+    {
+      "word": "Departure board",
+      "pronunciation": "/dɪˈpɑːrtʃər bɔːrd/",
+      "definition": "A large display at an airport or station showing departure times and gate numbers.",
+      "sentences": [
+        "Check the departure board for your flight status.",
+        "The departure board showed a delay for our flight.",
+        "Look for your flight number on the departure board."
+      ]
+    },
+    {
+      "word": "Arrivals hall",
+      "pronunciation": "/əˈraɪvəlz hɔːl/",
+      "definition": "The area in an airport where passengers arrive.",
+      "sentences": [
+        "We met them in the arrivals hall.",
+        "The arrivals hall was crowded with welcoming families.",
+        "You can find car rental desks in the arrivals hall."
+      ]
+    },
+    {
+      "word": "Information desk",
+      "pronunciation": "/ˌɪnfərˈmeɪʃən dɛsk/",
+      "definition": "A place where you can get information, especially in a public building.",
+      "sentences": [
+        "Ask at the information desk for help.",
+        "The information desk is open 24 hours.",
+        "They directed me to the information desk."
+      ]
+    },
+    {
+      "word": "Lost and found",
+      "pronunciation": "/lɔːst ənd faʊnd/",
+      "definition": "A place where lost items are kept until they are claimed by their owners.",
+      "sentences": [
+        "I reported my lost wallet at the lost and found.",
+        "Check the lost and found for your umbrella.",
+        "The airport has a lost and found office."
+      ]
+    },
+    {
+      "word": "Shuttle bus",
+      "pronunciation": "/ˈʃʌtl bʌs/",
+      "definition": "A bus that travels regularly between two places.",
+      "sentences": [
+        "Take the shuttle bus to the hotel.",
+        "The airport offers a free shuttle bus service.",
+        "The shuttle bus runs every 15 minutes."
+      ]
+    },
+    {
+      "word": "Rental car",
+      "pronunciation": "/ˈrɛntl kɑːr/",
+      "definition": "A car that you pay to use for a short period of time.",
+      "sentences": [
+        "We picked up our rental car at the airport.",
+        "A rental car gives you flexibility.",
+        "Make sure to return the rental car with a full tank."
+      ]
+    },
+    {
+      "word": "Road trip",
+      "pronunciation": "/ˈroʊd trɪp/",
+      "definition": "A long journey by car.",
+      "sentences": [
+        "We are planning a road trip across the country.",
+        "Road trips are fun with friends.",
+        "Our road trip took us through beautiful scenery."
+      ]
+    },
+    {
+      "word": "Toll booth",
+      "pronunciation": "/toʊl buːθ/",
+      "definition": "A small building where you pay money to use a road or bridge.",
+      "sentences": [
+        "Slow down for the toll booth.",
+        "We paid the fee at the toll booth.",
+        "The toll booth accepts cash and cards."
+      ]
+    },
+    {
+      "word": "Rest stop",
+      "pronunciation": "/ˈrɛst stɑːp/",
+      "definition": "A place beside a road where drivers can stop to rest, eat, or use restrooms.",
+      "sentences": [
+        "Let's take a break at the next rest stop.",
+        "The rest stop had a small cafe.",
+        "We stopped at a rest stop to stretch our legs."
+      ]
+    },
+    {
+      "word": "Campsite",
+      "pronunciation": "/ˈkæmpˌsaɪt/",
+      "definition": "A place where people can set up tents or park caravans for camping.",
+      "sentences": [
+        "We found a nice campsite by the lake.",
+        "The campsite has facilities for cooking.",
+        "We booked a campsite for the weekend."
+      ]
+    },
+    {
+      "word": "Tent",
+      "pronunciation": "/tɛnt/",
+      "definition": "A portable shelter made of cloth, supported by poles and ropes, used for camping.",
+      "sentences": [
+        "We slept in a tent.",
+        "Setting up the tent was easy.",
+        "Make sure your tent is waterproof."
+      ]
+    },
+    {
+      "word": "Sleeping bag",
+      "pronunciation": "/ˈsliːpɪŋ bæɡ/",
+      "definition": "A warm bag that you sleep in when camping.",
+      "sentences": [
+        "I brought my sleeping bag for the camping trip.",
+        "A good sleeping bag keeps you warm.",
+        "Roll up your sleeping bag before leaving."
+      ]
+    },
+    {
+      "word": "Campfire",
+      "pronunciation": "/ˈkæmpˌfaɪər/",
+      "definition": "A fire made outdoors, typically at a campsite.",
+      "sentences": [
+        "We sat around the campfire and told stories.",
+        "Be careful with the campfire.",
+        "We roasted marshmallows over the campfire."
+      ]
+    },
+    {
+      "word": "Hiking",
+      "pronunciation": "/ˈhaɪkɪŋ/",
+      "definition": "The activity of walking long distances in the countryside.",
+      "sentences": [
+        "We went hiking in the mountains.",
+        "Hiking is a great way to see nature.",
+        "Wear comfortable shoes for hiking."
+      ]
+    },
+    {
+      "word": "Trail",
+      "pronunciation": "/treɪl/",
+      "definition": "A path or track made across open country or through woods.",
+      "sentences": [
+        "We followed the hiking trail.",
+        "The trail led us to a beautiful waterfall.",
+        "Stay on the marked trail for safety."
+      ]
+    },
+    {
+      "word": "View",
+      "pronunciation": "/vjuː/",
+      "definition": "What you can see from a particular place.",
+      "sentences": [
+        "The hotel room has a great view of the ocean.",
+        "The view from the top of the hill was stunning.",
+        "We stopped to admire the view."
+      ]
+    },
+    {
+      "word": "Scenery",
+      "pronunciation": "/ˈsiːnəri/",
+      "definition": "The natural features of a landscape, especially when they are attractive to look at.",
+      "sentences": [
+        "The scenery in the countryside is beautiful.",
+        "We enjoyed the breathtaking scenery during our drive.",
+        "The region is famous for its stunning scenery."
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "pronunciation": "/ˌsuːvəˈnɪr/",
+      "definition": "Something you buy or keep to remind you of a place you visited.",
+      "sentences": [
+        "I bought a souvenir for my mom.",
+        "This T-shirt is a souvenir from Rome.",
+        "Many shops sell local souvenirs."
+      ]
+    },
+    {
+      "word": "Postcard",
+      "pronunciation": "/ˈpoʊstˌkɑːrd/",
+      "definition": "A card with a picture on one side, used for sending messages by mail without an envelope.",
+      "sentences": [
+        "I sent a postcard to my friend.",
+        "Let's buy some postcards to send home.",
+        "The postcard shows a beautiful sunset."
+      ]
+    },
+    {
+      "word": "Passport control",
+      "pronunciation": "/ˈpæspɔːrt kənˈtroʊl/",
+      "definition": "The place where your passport is checked when you enter or leave a country.",
+      "sentences": [
+        "We waited in line at passport control.",
+        "Passport control can take a long time.",
+        "Have your passport ready for passport control."
+      ]
+    },
+    {
+      "word": "Duty-free",
+      "pronunciation": "/ˈduːti friː/",
+      "definition": "Goods that you can buy without paying tax, especially at airports or on planes.",
+      "sentences": [
+        "I bought some perfume at the duty-free shop.",
+        "Duty-free items are often cheaper.",
+        "The airport has a large duty-free area."
+      ]
+    },
+    {
+      "word": "Exchange rate",
+      "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "The value of one country's money compared to another country's money.",
+      "sentences": [
+        "What's the current exchange rate for dollars to euros?",
+        "The exchange rate is favorable today.",
+        "Check the exchange rate before you travel."
+      ]
+    },
+    {
+      "word": "Local cuisine",
+      "pronunciation": "/ˈloʊkl kwɪˈziːn/",
+      "definition": "The style of cooking and food typical of a particular region or country.",
+      "sentences": [
+        "We tried the local cuisine, and it was delicious.",
+        "Exploring local cuisine is a highlight of traveling.",
+        "The restaurant specializes in local cuisine."
+      ]
+    },
+    {
+      "word": "Street food",
+      "pronunciation": "/striːt fuːd/",
+      "definition": "Ready-to-eat food or drink sold by a vendor in a street or other public place.",
+      "sentences": [
+        "The night market is famous for its street food.",
+        "We enjoyed trying different street food dishes.",
+        "Street food is often cheap and tasty."
+      ]
+    },
+    {
+      "word": "Souvenir",
+      "pronunciation": "/ˌsuːvəˈnɪr/",
+      "definition": "Something you buy or keep to remind you of a place you visited.",
+      "sentences": [
+        "I bought a souvenir for my mom.",
+        "This T-shirt is a souvenir from Rome.",
+        "Many shops sell local souvenirs."
+      ]
+    },
+    {
+      "word": "Postcard",
+      "pronunciation": "/ˈpoʊstˌkɑːrd/",
+      "definition": "A card with a picture on one side, used for sending messages by mail without an envelope.",
+      "sentences": [
+        "I sent a postcard to my friend.",
+        "Let's buy some postcards to send home.",
+        "The postcard shows a beautiful sunset."
+      ]
+    },
+    {
+      "word": "Passport control",
+      "pronunciation": "/ˈpæspɔːrt kənˈtroʊl/",
+      "definition": "The place where your passport is checked when you enter or leave a country.",
+      "sentences": [
+        "We waited in line at passport control.",
+        "Passport control can take a long time.",
+        "Have your passport ready for passport control."
+      ]
+    },
+    {
+      "word": "Duty-free",
+      "pronunciation": "/ˈduːti friː/",
+      "definition": "Goods that you can buy without paying tax, especially at airports or on planes.",
+      "sentences": [
+        "I bought some perfume at the duty-free shop.",
+        "Duty-free items are often cheaper.",
+        "The airport has a large duty-free area."
+      ]
+    },
+    {
+      "word": "Exchange rate",
+      "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "The value of one country's money compared to another country's money.",
+      "sentences": [
+        "What's the current exchange rate for dollars to euros?",
+        "The exchange rate is favorable today.",
+        "Check the exchange rate before you travel."
+      ]
+    },
+    {
+      "word": "Local cuisine",
+      "pronunciation": "/ˈloʊkl kwɪˈziːn/",
+      "definition": "The style of cooking and food typical of a particular region or country.",
+      "sentences": [
+        "We tried the local cuisine, and it was delicious.",
+        "Exploring local cuisine is a highlight of traveling.",
+        "The restaurant specializes in local cuisine."
+      ]
+    },
+    {
+      "word": "Street food",
+      "pronunciation": "/striːt fuːd/",
+      "definition": "Ready-to-eat food or drink sold by a vendor in a street or other public place.",
+      "sentences": [
+        "The night market is famous for its street food.",
+        "We enjoyed trying different street food dishes.",
+        "Street food is often cheap and tasty."
+      ]
+    },
+    {
+      "word": "Public transport",
+      "pronunciation": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "definition": "A system of buses, trains, etc., that is available to everyone.",
+      "sentences": [
+        "We used public transport to get around the city.",
+        "Public transport is often cheaper than taxis.",
+        "Many cities have excellent public transport systems."
+      ]
+    },
+    {
+      "word": "Timetable",
+      "pronunciation": "/ˈtaɪmˌteɪbl/",
+      "definition": "A list of the times when buses, trains, or planes arrive and depart.",
+      "sentences": [
+        "Check the timetable for the next train.",
+        "The bus timetable is posted at the stop.",
+        "We need to follow the flight timetable."
+      ]
+    },
+    {
+      "word": "Platform",
+      "pronunciation": "/ˈplætˌfɔːrm/",
+      "definition": "A raised area next to a railway track where passengers get on and off trains.",
+      "sentences": [
+        "The train departs from platform 5.",
+        "Wait behind the yellow line on the platform.",
+        "We met on the train platform."
+      ]
+    },
+    {
+      "word": "Luggage cart",
+      "pronunciation": "/ˈlʌɡɪdʒ kɑːrt/",
+      "definition": "A small vehicle used for carrying luggage, especially at airports.",
+      "sentences": [
+        "Get a luggage cart for your heavy bags.",
+        "Luggage carts are available near the entrance.",
+        "Push the luggage cart carefully."
+      ]
+    },
+    {
+      "word": "Terminal building",
+      "pronunciation": "/ˈtɜːrmɪnl ˈbɪldɪŋ/",
+      "definition": "The main building at an airport where passengers handle their travel procedures.",
+      "sentences": [
+        "Our flight leaves from the international terminal building.",
+        "The terminal building has many shops and restaurants.",
+        "Follow the signs to the correct terminal building."
+      ]
+    },
+    {
+      "word": "Boarding area",
+      "pronunciation": "/ˈbɔːrdɪŋ ˈɛəriə/",
+      "definition": "The area where passengers wait to board a plane or other transport.",
+      "sentences": [
+        "We waited in the boarding area for our flight.",
+        "The boarding area was quite crowded.",
+        "Find your gate in the boarding area."
+      ]
+    },
+    {
+      "word": "Travel agency",
+      "pronunciation": "/ˈtrævəl ˈeɪdʒənsi/",
+      "definition": "A business that helps people to plan and book trips.",
+      "sentences": [
+        "We booked our holiday through a travel agency.",
+        "The travel agency offered a great package deal.",
+        "Visit a travel agency for expert advice."
+      ]
+    },
+    {
+      "word": "Travel agent",
+      "pronunciation": "/ˈtrævəl ˈeɪdʒənt/",
+      "definition": "A person whose job is to help people plan and book trips.",
+      "sentences": [
+        "Our travel agent found us a cheap flight.",
+        "Consult a travel agent for complex itineraries.",
+        "The travel agent gave us good recommendations."
+      ]
+    },
+    {
+      "word": "Package tour",
+      "pronunciation": "/ˈpækɪdʒ tʊr/",
+      "definition": "A holiday organized by a travel company that includes travel, accommodation, and sometimes meals and activities.",
+      "sentences": [
+        "We went on a package tour to Egypt.",
+        "Package tours are convenient for first-time travelers.",
+        "The package tour included all excursions."
+      ]
+    },
+    {
+      "word": "All-inclusive",
+      "pronunciation": "/ˌɔːl ɪnˈkluːsɪv/",
+      "definition": "A holiday or resort where the price includes all meals, drinks, and activities.",
+      "sentences": [
+        "We booked an all-inclusive resort for our honeymoon.",
+        "All-inclusive deals are great for budgeting.",
+        "The all-inclusive package made our trip stress-free."
+      ]
+    },
+    {
+      "word": "Half board",
+      "pronunciation": "/hæf bɔːrd/",
+      "definition": "A hotel rate that includes breakfast and either lunch or dinner.",
+      "sentences": [
+        "Our hotel stay was on a half board basis.",
+        "Half board is a good option if you plan to eat out for one meal.",
+        "The half board package suited our needs perfectly."
+      ]
+    },
+    {
+      "word": "Full board",
+      "pronunciation": "/fʊl bɔːrd/",
+      "definition": "A hotel rate that includes breakfast, lunch, and dinner.",
+      "sentences": [
+        "The resort offers full board options.",
+        "Full board is convenient for families with children.",
+        "We chose full board so we didn't have to worry about meals."
+      ]
+    },
+    {
+      "word": "Self-catering",
+      "pronunciation": "/ˌsɛlfˈkeɪtərɪŋ/",
+      "definition": "A holiday where you stay in accommodation with cooking facilities and prepare your own meals.",
+      "sentences": [
+        "We prefer self-catering holidays to save money.",
+        "The self-catering apartment had a fully equipped kitchen.",
+        "Self-catering gives you more flexibility with meal times."
+      ]
+    },
+    {
+      "word": "Vacation rental",
+      "pronunciation": "/veɪˈkeɪʃən ˈrɛntl/",
+      "definition": "A house or apartment that you can rent for a holiday.",
+      "sentences": [
+        "We found a beautiful vacation rental near the beach.",
+        "Vacation rentals are popular for group travel.",
+        "Booking a vacation rental can be cheaper than a hotel."
+      ]
+    },
+    {
+      "word": "Homestay",
+      "pronunciation": "/ˈhoʊmˌsteɪ/",
+      "definition": "A stay at a private house or apartment, often with a local family, especially for students or tourists.",
+      "sentences": [
+        "I experienced the local culture through a homestay.",
+        "Homestay programs are great for language learners.",
+        "Our homestay hosts were very welcoming."
+      ]
+    },
+    {
+      "word": "Guesthouse",
+      "pronunciation": "/ˈɡɛstˌhaʊs/",
+      "definition": "A private house offering accommodation to paying guests.",
+      "sentences": [
+        "We stayed at a charming guesthouse in the village.",
+        "The guesthouse offered a delicious homemade breakfast.",
+        "Many guesthouses are family-run businesses."
+      ]
+    },
+    {
+      "word": "Boutique hotel",
+      "pronunciation": "/buːˈtiːk hoʊˈtɛl/",
+      "definition": "A small, stylish hotel, typically located in a fashionable urban area.",
+      "sentences": [
+        "We stayed at a lovely boutique hotel in the city center.",
+        "Boutique hotels offer unique and personalized experiences.",
+        "This boutique hotel has a very modern design."
+      ]
+    },
+    {
+      "word": "Eco-tourism",
+      "pronunciation": "/ˈiːkoʊ ˈtʊrɪzəm/",
+      "definition": "Tourism directed towards exotic, often threatened, natural environments, intended to support conservation efforts and observe wildlife.",
+      "sentences": [
+        "Eco-tourism helps protect the environment.",
+        "Many travelers are interested in eco-tourism.",
+        "The region promotes eco-tourism to preserve its natural beauty."
+      ]
+    },
+    {
+      "word": "Sustainable tourism",
+      "pronunciation": "/səˈsteɪnəbl ˈtʊrɪzəm/",
+      "definition": "Tourism that respects both local people and the environment, and does not cause damage to either.",
+      "sentences": [
+        "Sustainable tourism aims to minimize negative impacts.",
+        "We support companies practicing sustainable tourism.",
+        "Sustainable tourism benefits local communities."
+      ]
+    },
+    {
+      "word": "Backpacking",
+      "pronunciation": "/ˈbækˌpækɪŋ/",
+      "definition": "Traveling or hiking with a backpack.",
+      "sentences": [
+        "They went backpacking across Southeast Asia.",
+        "Backpacking is a popular way to travel on a budget.",
+        "You need good gear for backpacking."
+      ]
+    },
+    {
+      "word": "Interrail pass",
+      "pronunciation": "/ˈɪntərˌreɪl pæs/",
+      "definition": "A train ticket that allows unlimited rail travel in certain European countries for a specific period.",
+      "sentences": [
+        "I bought an Interrail pass for my European adventure.",
+        "An Interrail pass is great for exploring multiple countries.",
+        "Many students use an Interrail pass for summer travel."
+      ]
+    },
+    {
+      "word": "Eurail pass",
+      "pronunciation": "/ˈjʊəreɪl pæs/",
+      "definition": "A train ticket similar to an Interrail pass, but for non-European residents traveling in Europe.",
+      "sentences": [
+        "He used a Eurail pass to travel through Europe.",
+        "The Eurail pass offers flexibility for travelers.",
+        "Is a Eurail pass suitable for my trip?"
+      ]
+    },
+    {
+      "word": "Travel blog",
+      "pronunciation": "/ˈtrævəl blɑːɡ/",
+      "definition": "An online journal where a person writes about their travel experiences.",
+      "sentences": [
+        "She writes a popular travel blog.",
+        "I follow several travel blogs for inspiration.",
+        "His travel blog has amazing photos."
+      ]
+    },
+    {
+      "word": "Travel vlogger",
+      "pronunciation": "/ˈtrævəl ˈvlɑːɡər/",
+      "definition": "A person who creates video blogs about their travel experiences.",
+      "sentences": [
+        "The travel vlogger shared tips for budget travel.",
+        "Many people enjoy watching travel vloggers.",
+        "She dreams of becoming a full-time travel vlogger."
+      ]
+    },
+    {
+      "word": "Itinerary planner",
+      "pronunciation": "/aɪˈtɪnərɛri ˈplænər/",
+      "definition": "A tool or person that helps organize the details of a trip, including routes, schedules, and activities.",
+      "sentences": [
+        "I used an online itinerary planner for my trip.",
+        "A good itinerary planner saves a lot of time.",
+        "She works as a professional itinerary planner."
+      ]
+    },
+    {
+      "word": "Travel guide",
+      "pronunciation": "/ˈtrævəl ɡaɪd/",
+      "definition": "A person who leads tourists, or a book that gives information for tourists.",
+      "sentences": [
+        "Our travel guide was very knowledgeable about the history.",
+        "I bought a new travel guide for Japan.",
+        "The travel guide helped us discover hidden gems."
+      ]
+    },
+    {
+      "word": "Day trip",
+      "pronunciation": "/deɪ trɪp/",
+      "definition": "A journey to a place and back again on the same day.",
+      "sentences": [
+        "We went on a day trip to the countryside.",
+        "A day trip is perfect for a quick escape.",
+        "The bus offers day trips to the national park."
+      ]
+    },
+    {
+      "word": "Round trip",
+      "pronunciation": "/raʊnd trɪp/",
+      "definition": "A journey to a place and back again.",
+      "sentences": [
+        "I bought a round trip ticket to New York.",
+        "A round trip ticket is usually cheaper than two one-way tickets.",
+        "Our round trip journey was very smooth."
+      ]
+    },
+    {
+      "word": "One-way",
+      "pronunciation": "/wʌn weɪ/",
+      "definition": "A journey or ticket that allows you to travel in only one direction.",
+      "sentences": [
+        "I only need a one-way ticket to London.",
+        "Is this a one-way street?",
+        "One-way flights can sometimes be expensive."
+      ]
+    },
+    {
+      "word": "Direct flight",
+      "pronunciation": "/daɪˈrɛkt flaɪt/",
+      "definition": "A flight that goes from one place to another without stopping.",
+      "sentences": [
+        "We took a direct flight to save time.",
+        "Are there any direct flights to Rome?",
+        "Direct flights are often more expensive."
+      ]
+    },
+    {
+      "word": "Connecting flight",
+      "pronunciation": "/kəˈnɛktɪŋ flaɪt/",
+      "definition": "A flight that allows you to continue your journey after arriving on another flight.",
+      "sentences": [
+        "I have a connecting flight in Frankfurt.",
+        "Make sure you have enough time for your connecting flight.",
+        "My connecting flight was delayed."
+      ]
+    },
+    {
+      "word": "Long-haul flight",
+      "pronunciation": "/ˌlɔːŋ hɔːl flaɪt/",
+      "definition": "A flight that travels a very long distance.",
+      "sentences": [
+        "Long-haul flights can be tiring.",
+        "I always try to sleep on long-haul flights.",
+        "Prepare for a long-haul flight with entertainment."
+      ]
+    },
+    {
+      "word": "Short-haul flight",
+      "pronunciation": "/ˌʃɔːrt hɔːl flaɪt/",
+      "definition": "A flight that travels a short distance.",
+      "sentences": [
+        "Short-haul flights are usually quicker.",
+        "Most domestic flights are short-haul.",
+        "I prefer short-haul flights for convenience."
+      ]
+    },
+    {
+      "word": "Economy class",
+      "pronunciation": "/ɪˈkɑːnəmi klæs/",
+      "definition": "The cheapest class of seats on an airplane or train.",
+      "sentences": [
+        "We flew economy class to save money.",
+        "Economy class seats are usually smaller.",
+        "Many airlines offer good service in economy class."
+      ]
+    },
+    {
+      "word": "Business class",
+      "pronunciation": "/ˈbɪznɪs klæs/",
+      "definition": "A class of seats on an airplane or train that is more expensive than economy class and offers better services.",
+      "sentences": [
+        "He traveled in business class for comfort.",
+        "Business class offers more legroom.",
+        "The company paid for her business class ticket."
+      ]
+    },
+    {
+      "word": "First class",
+      "pronunciation": "/fɜːrst klæs/",
+      "definition": "The most expensive and luxurious class of seats on an airplane or train.",
+      "sentences": [
+        "First class offers premium service and amenities.",
+        "They enjoyed a luxurious journey in first class.",
+        "First class tickets are very expensive."
+      ]
+    },
+    {
+      "word": "Overbooked",
+      "pronunciation": "/ˌoʊvərˈbʊkt/",
+      "definition": "When an airline or hotel has sold more tickets or rooms than are available.",
+      "sentences": [
+        "The flight was overbooked, so some passengers were delayed.",
+        "Hotels can sometimes be overbooked during peak season.",
+        "Being overbooked can be frustrating for travelers."
+      ]
+    },
+    {
+      "word": "Layover",
+      "pronunciation": "/ˈleɪˌoʊvər/",
+      "definition": "A period of time when you are waiting at an airport for another flight.",
+      "sentences": [
+        "We have a long layover in Dubai.",
+        "A short layover is better than a long one.",
+        "What can we do during our layover?"
+      ]
+    },
+    {
+      "word": "Customs declaration form",
+      "pronunciation": "/ˈkʌstəmz ˌdɛkləˈreɪʃən fɔːrm/",
+      "definition": "A document that lists goods brought into a country, which may be subject to duty.",
+      "sentences": [
+        "Fill out the customs declaration form carefully.",
+        "You need to complete a customs declaration form upon arrival.",
+        "The customs declaration form asks about prohibited items."
+      ]
+    },
+    {
+      "word": "Border control",
+      "pronunciation": "/ˈbɔːrdər kənˈtroʊl/",
+      "definition": "The place where officials check people entering or leaving a country.",
+      "sentences": [
+        "We passed through border control quickly.",
+        "Border control officers checked our visas.",
+        "Expect queues at border control during busy times."
+      ]
+    },
+    {
+      "word": "Travel agency",
+      "pronunciation": "/ˈtrævəl ˈeɪdʒənsi/",
+      "definition": "A business that helps people to plan and book trips.",
+      "sentences": [
+        "We booked our holiday through a travel agency.",
+        "The travel agency offered a great package deal.",
+        "Visit a travel agency for expert advice."
+      ]
+    },
+    {
+      "word": "Travel agent",
+      "pronunciation": "/ˈtrævəl ˈeɪdʒənt/",
+      "definition": "A person whose job is to help people plan and book trips.",
+      "sentences": [
+        "Our travel agent found us a cheap flight.",
+        "Consult a travel agent for complex itineraries.",
+        "The travel agent gave us good recommendations."
+      ]
+    },
+    {
+      "word": "Tourist information center",
+      "pronunciation": "/ˈtʊrɪst ˌɪnfərˈmeɪʃən ˈsɛntər/",
+      "definition": "A place where tourists can get information about local attractions, accommodation, and transport.",
+      "sentences": [
+        "We picked up a map at the tourist information center.",
+        "The tourist information center provides free brochures.",
+        "Ask at the tourist information center for events."
+      ]
+    },
+    {
+      "word": "Local guide",
+      "pronunciation": "/ˈloʊkl ɡaɪd/",
+      "definition": "A person who shows visitors around a specific area and provides information about it.",
+      "sentences": [
+        "We hired a local guide to show us around the ancient ruins.",
+        "A local guide can offer unique insights.",
+        "The local guide knew all the best spots."
+      ]
+    },
+    {
+      "word": "Travel budget",
+      "pronunciation": "/ˈtrævəl ˈbʌdʒɪt/",
+      "definition": "The amount of money you have available to spend on a trip.",
+      "sentences": [
+        "We need to stick to our travel budget.",
+        "Planning a travel budget helps manage expenses.",
+        "Our travel budget was quite limited this year."
+      ]
+    },
+    {
+      "word": "Expense",
+      "pronunciation": "/ɪkˈspɛns/",
+      "definition": "The cost of something; money spent.",
+      "sentences": [
+        "Accommodation is a major travel expense.",
+        "Keep track of your travel expenses.",
+        "Food and transport are common expenses."
+      ]
+    },
+    {
+      "word": "Receipt",
+      "pronunciation": "/rɪˈsiːt/",
+      "definition": "A piece of paper that shows that you have paid for something.",
+      "sentences": [
+        "Keep all your receipts for travel expenses.",
+        "Can I have a receipt, please?",
+        "The receipt shows the total amount paid."
+      ]
+    },
+    {
+      "word": "Foreign exchange",
+      "pronunciation": "/ˈfɔːrən ɪksˈtʃeɪndʒ/",
+      "definition": "The system by which one country's money is exchanged for another's.",
+      "sentences": [
+        "I need to get some foreign exchange before my trip.",
+        "Foreign exchange rates fluctuate daily.",
+        "You can get foreign exchange at the bank."
+      ]
+    },
+    {
+      "word": "Travel adapter",
+      "pronunciation": "/ˈtrævəl əˈdæptər/",
+      "definition": "A device that allows you to plug electrical appliances into sockets in foreign countries.",
+      "sentences": [
+        "Don't forget your travel adapter for Europe.",
+        "A universal travel adapter is very useful.",
+        "My phone charger needs a travel adapter."
+      ]
+    },
+    {
+      "word": "Power bank",
+      "pronunciation": "/ˈpaʊər bæŋk/",
+      "definition": "A portable device for charging electronic devices such as mobile phones.",
+      "sentences": [
+        "Bring a power bank to keep your phone charged.",
+        "My power bank is fully charged.",
+        "A power bank is essential for long journeys."
+      ]
+    },
+    {
+      "word": "Neck pillow",
+      "pronunciation": "/nɛk ˈpɪloʊ/",
+      "definition": "A small pillow shaped to support the neck, often used during travel.",
+      "sentences": [
+        "A neck pillow makes long flights more comfortable.",
+        "I always use a neck pillow when I travel.",
+        "This neck pillow is very soft."
+      ]
+    },
+    {
+      "word": "Eye mask",
+      "pronunciation": "/aɪ mæsk/",
+      "definition": "A soft cover worn over the eyes to block out light, especially for sleeping.",
+      "sentences": [
+        "An eye mask helps me sleep on the plane.",
+        "Don't forget your eye mask for the overnight journey.",
+        "The eye mask blocked out all the light."
+      ]
+    },
+    {
+      "word": "Earplugs",
+      "pronunciation": "/ˈɪərˌplʌɡz/",
+      "definition": "Small pieces of soft material that you put into your ears to keep out noise.",
+      "sentences": [
+        "Wear earplugs to block out the noise.",
+        "Earplugs are useful for sleeping in noisy places.",
+        "I always pack earplugs for my travels."
+      ]
+    },
+    {
+      "word": "Travel sickness",
+      "pronunciation": "/ˈtrævəl ˈsɪknɪs/",
+      "definition": "A feeling of nausea and dizziness experienced while traveling in a vehicle.",
+      "sentences": [
+        "She gets travel sickness on long bus rides.",
+        "Take medication for travel sickness before your journey.",
+        "Eating light can help prevent travel sickness."
+      ]
+    },
+    {
+      "word": "First-aid kit",
+      "pronunciation": "/ˌfɜːrst ˈeɪd kɪt/",
+      "definition": "A box containing basic medical supplies for treating minor injuries.",
+      "sentences": [
+        "Always carry a first-aid kit when hiking.",
+        "The first-aid kit had bandages and antiseptic wipes.",
+        "A small first-aid kit is essential for travel."
+      ]
+    },
+    {
+      "word": "Sunscreen",
+      "pronunciation": "/ˈsʌnˌskriːn/",
+      "definition": "A cream or lotion that you put on your skin to protect it from the sun.",
+      "sentences": [
+        "Don't forget to apply sunscreen at the beach.",
+        "Sunscreen is important to prevent sunburn.",
+        "Reapply sunscreen every few hours."
+      ]
+    },
+    {
+      "word": "Insect repellent",
+      "pronunciation": "/ˈɪnsɛkt rɪˈpɛlənt/",
+      "definition": "A substance that keeps insects away.",
+      "sentences": [
+        "Use insect repellent to avoid mosquito bites.",
+        "Insect repellent is crucial in tropical areas.",
+        "Spray insect repellent before going outdoors."
+      ]
+    },
+    {
+      "word": "Passport photo",
+      "pronunciation": "/ˈpæspɔːrt ˈfoʊtoʊ/",
+      "definition": "A small photograph of your face, used for identification in a passport.",
+      "sentences": [
+        "You need two passport photos for the visa application.",
+        "Get your passport photos taken professionally.",
+        "The passport photo must meet specific requirements."
+      ]
+    },
+    {
+      "word": "Travel documents",
+      "pronunciation": "/ˈtrævəl ˈdɑːkjumənts/",
+      "definition": "All the papers and tickets needed for a journey.",
+      "sentences": [
+        "Keep all your travel documents in one place.",
+        "Make copies of your travel documents.",
+        "Ensure all your travel documents are valid."
+      ]
+    },
+    {
+      "word": "E-ticket",
+      "pronunciation": "/ˈiː tɪkɪt/",
+      "definition": "An electronic ticket, especially for an airline flight.",
+      "sentences": [
+        "I received my e-ticket by email.",
+        "You can show your e-ticket on your phone.",
+        "E-tickets are convenient and paperless."
+      ]
+    },
+    {
+      "word": "Boarding gate",
+      "pronunciation": "/ˈbɔːrdɪŋ ɡeɪt/",
+      "definition": "The gate from which passengers board an aircraft.",
+      "sentences": [
+        "Please proceed to boarding gate B2.",
+        "The announcement for boarding gate was made.",
+        "We waited near the boarding gate."
+      ]
+    },
+    {
+      "word": "Departure board",
+      "pronunciation": "/dɪˈpɑːrtʃər bɔːrd/",
+      "definition": "A large display at an airport or station showing departure times and gate numbers.",
+      "sentences": [
+        "Check the departure board for your flight status.",
+        "The departure board showed a delay for our flight.",
+        "Look for your flight number on the departure board."
+      ]
+    },
+    {
+      "word": "Arrivals hall",
+      "pronunciation": "/əˈraɪvəlz hɔːl/",
+      "definition": "The area in an airport where passengers arrive.",
+      "sentences": [
+        "We met them in the arrivals hall.",
+        "The arrivals hall was crowded with welcoming families.",
+        "You can find car rental desks in the arrivals hall."
+      ]
+    },
+    {
+      "word": "Information desk",
+      "pronunciation": "/ˌɪnfərˈmeɪʃən dɛsk/",
+      "definition": "A place where you can get information, especially in a public building.",
+      "sentences": [
+        "Ask at the information desk for help.",
+        "The information desk is open 24 hours.",
+        "They directed me to the information desk."
+      ]
+    },
+    {
+      "word": "Lost and found",
+      "pronunciation": "/lɔːst ənd faʊnd/",
+      "definition": "A place where lost items are kept until they are claimed by their owners.",
+      "sentences": [
+        "I reported my lost wallet at the lost and found.",
+        "Check the lost and found for your umbrella.",
+        "The airport has a lost and found office."
+      ]
+    },
+    {
+      "word": "Shuttle bus",
+      "pronunciation": "/ˈʃʌtl bʌs/",
+      "definition": "A bus that travels regularly between two places.",
+      "sentences": [
+        "Take the shuttle bus to the hotel.",
+        "The airport offers a free shuttle bus service.",
+        "The shuttle bus runs every 15 minutes."
+      ]
+    },
+    {
+      "word": "Rental car",
+      "pronunciation": "/ˈrɛntl kɑːr/",
+      "definition": "A car that you pay to use for a short period of time.",
+      "sentences": [
+        "We picked up our rental car at the airport.",
+        "A rental car gives you flexibility.",
+        "Make sure to return the rental car with a full tank."
+      ]
+    },
+    {
+      "word": "Road trip",
+      "pronunciation": "/ˈroʊd trɪp/",
+      "definition": "A long journey by car.",
+      "sentences": [
+        "We are planning a road trip across the country.",
+        "Road trips are fun with friends.",
+        "Our road trip took us through beautiful scenery."
+      ]
+    },
+    {
+      "word": "Toll booth",
+      "pronunciation": "/toʊl buːθ/",
+      "definition": "A small building where you pay money to use a road or bridge.",
+      "sentences": [
+        "Slow down for the toll booth.",
+        "We paid the fee at the toll booth.",
+        "The toll booth accepts cash and cards."
+      ]
+    },
+    {
+      "word": "Rest stop",
+      "pronunciation": "/ˈrɛst stɑːp/",
+      "definition": "A place beside a road where drivers can stop to rest, eat, or use restrooms.",
+      "sentences": [
+        "Let's take a break at the next rest stop.",
+        "The rest stop had a small cafe.",
+        "We stopped at a rest stop to stretch our legs."
+      ]
+    },
+    {
+      "word": "Campsite",
+      "pronunciation": "/ˈkæmpˌsaɪt/",
+      "definition": "A place where people can set up tents or park caravans for camping.",
+      "sentences": [
+        "We found a nice campsite by the lake.",
+        "The campsite has facilities for cooking.",
+        "We booked a campsite for the weekend."
+      ]
+    },
+    {
+      "word": "Tent",
+      "pronunciation": "/tɛnt/",
+      "definition": "A portable shelter made of cloth, supported by poles and ropes, used for camping.",
+      "sentences": [
+        "We slept in a tent.",
+        "Setting up the tent was easy.",
+        "Make sure your tent is waterproof."
+      ]
+    },
+    {
+      "word": "Sleeping bag",
+      "pronunciation": "/ˈsliːpɪŋ bæɡ/",
+      "definition": "A warm bag that you sleep in when camping.",
+      "sentences": [
+        "I brought my sleeping bag for the camping trip.",
+        "A good sleeping bag keeps you warm.",
+        "Roll up your sleeping bag before leaving."
+      ]
+    },
+    {
+      "word": "Campfire",
+      "pronunciation": "/ˈkæmpˌfaɪər/",
+      "definition": "A fire made outdoors, typically at a campsite.",
+      "sentences": [
+        "We sat around the campfire and told stories.",
+        "Be careful with the campfire.",
+        "We roasted marshmallows over the campfire."
+      ]
+    },
+    {
+      "word": "Hiking",
+      "pronunciation": "/ˈhaɪkɪŋ/",
+      "definition": "The activity of walking long distances in the countryside.",
+      "sentences": [
+        "We went hiking in the mountains.",
+        "Hiking is a great way to see nature.",
+        "Wear comfortable shoes for hiking."
+      ]
+    },
+    {
+      "word": "Trail",
+      "pronunciation": "/treɪl/",
+      "definition": "A path or track made across open country or through woods.",
+      "sentences": [
+        "We followed the hiking trail.",
+        "The trail led us to a beautiful waterfall.",
+        "Stay on the marked trail for safety."
+      ]
+    },
+    {
+      "word": "View",
+      "pronunciation": "/vjuː/",
+      "definition": "What you can see from a particular place.",
+      "sentences": [
+        "The hotel room has a great view of the ocean.",
+        "The view from the top of the hill was stunning.",
+        "We stopped to admire the view."
+      ]
+    },
+    {
+      "word": "Scenery",
+      "pronunciation": "/ˈsiːnəri/",
+      "definition": "The natural features of a landscape, especially when they are attractive to look at.",
+      "sentences": [
+        "The scenery in the countryside is beautiful.",
+        "We enjoyed the breathtaking scenery during our drive.",
+        "The region is famous for its stunning scenery."
+      ]
+    },
+    {
+      "word": "Landmark",
+      "pronunciation": "/ˈlændˌmɑːrk/",
+      "definition": "A building or place that is easily recognized, especially one that is important in history.",
+      "sentences": [
+        "The Eiffel Tower is a famous landmark.",
+        "We visited several historical landmarks.",
+        "The statue is a well-known landmark in the city."
+      ]
+    },
+    {
+      "word": "Museum",
+      "pronunciation": "/mjuːˈziːəm/",
+      "definition": "A building where collections of valuable and interesting objects are kept and shown to the public.",
+      "sentences": [
+        "We spent the afternoon at the art museum.",
+        "The museum has many ancient artifacts.",
+        "Children love visiting interactive museums."
+      ]
+    },
+    {
+      "word": "Art gallery",
+      "pronunciation": "/ɑːrt ˈɡæləri/",
+      "definition": "A room or building for showing works of art.",
+      "sentences": [
+        "We visited a modern art gallery.",
+        "The art gallery displayed paintings by local artists.",
+        "Is there an art gallery near here?"
+      ]
+    },
+    {
+      "word": "Historical site",
+      "pronunciation": "/hɪˈstɔːrɪkl saɪt/",
+      "definition": "A place that is important in history.",
+      "sentences": [
+        "Rome has many historical sites.",
+        "We learned a lot at the historical site.",
+        "Preserving historical sites is important."
+      ]
+    },
+    {
+      "word": "National park",
+      "pronunciation": "/ˈnæʃənl pɑːrk/",
+      "definition": "An area of natural beauty protected by the government for public enjoyment.",
+      "sentences": [
+        "We went camping in a national park.",
+        "Yellowstone is a famous national park.",
+        "National parks offer many outdoor activities."
+      ]
+    },
+    {
+      "word": "Wildlife",
+      "pronunciation": "/ˈwaɪldˌlaɪf/",
+      "definition": "Animals and plants that live independently of humans, in natural conditions.",
+      "sentences": [
+        "We saw amazing wildlife in the jungle.",
+        "Protecting wildlife is important.",
+        "The national park is home to diverse wildlife."
+      ]
+    },
+    {
+      "word": "Zoo",
+      "pronunciation": "/zuː/",
+      "definition": "A place where wild animals are kept for people to look at.",
+      "sentences": [
+        "We took the kids to the zoo.",
+        "The zoo has many different animals.",
+        "The panda is the most popular animal at the zoo."
+      ]
+    },
+    {
+      "word": "Aquarium",
+      "pronunciation": "/əˈkwɛəriəm/",
+      "definition": "A building where fish and other water animals are kept and shown to the public.",
+      "sentences": [
+        "We visited the large aquarium in the city.",
+        "The aquarium has a huge shark tank.",
+        "Children love watching the fish at the aquarium."
+      ]
+    },
+    {
+      "word": "Theme park",
+      "pronunciation": "/ˈθiːm pɑːrk/",
+      "definition": "A large amusement park that is based on a particular subject or subjects.",
+      "sentences": [
+        "Disneyland is a famous theme park.",
+        "We spent the whole day at the theme park.",
+        "Theme parks offer rides and entertainment."
+      ]
+    },
+    {
+      "word": "Amusement park",
+      "pronunciation": "/əˈmjuːzmənt pɑːrk/",
+      "definition": "A large outdoor area with rides, games, and other entertainment.",
+      "sentences": [
+        "The amusement park has a big roller coaster.",
+        "We had a lot of fun at the amusement park.",
+        "Many families visit amusement parks in summer."
+      ]
+    },
+    {
+      "word": "Water park",
+      "pronunciation": "/ˈwɔːtər pɑːrk/",
+      "definition": "An amusement park that features water play areas, such as slides and pools.",
+      "sentences": [
+        "The water park is a great place to cool down.",
+        "Kids love the slides at the water park.",
+        "We spent the afternoon at the water park."
+      ]
+    },
+    {
+      "word": "Resort town",
+      "pronunciation": "/rɪˈzɔːrt taʊn/",
+      "definition": "A town where many people go for holidays, usually with hotels, restaurants, and entertainment.",
+      "sentences": [
+        "This is a popular resort town for winter sports.",
+        "The resort town is always busy during peak season.",
+        "Many resort towns are located by the sea."
+      ]
+    },
+    {
+      "word": "Ski resort",
+      "pronunciation": "/skiː rɪˈzɔːrt/",
+      "definition": "A place where people go to ski, with facilities for skiing and accommodation.",
+      "sentences": [
+        "We went to a ski resort for our winter holiday.",
+        "The ski resort has many slopes for all levels.",
+        "The ski resort offers equipment rental."
+      ]
+    },
+    {
+      "word": "Beach resort",
+      "pronunciation": "/biːtʃ rɪˈzɔːrt/",
+      "definition": "A resort located on or near a beach.",
+      "sentences": [
+        "We stayed at a beautiful beach resort.",
+        "The beach resort offers water sports.",
+        "Many beach resorts have private beaches."
+      ]
+    },
+    {
+      "word": "Mountain resort",
+      "pronunciation": "/ˈmaʊntən rɪˈzɔːrt/",
+      "definition": "A resort located in a mountainous area.",
+      "sentences": [
+        "The mountain resort is perfect for hiking.",
+        "We enjoyed the fresh air at the mountain resort.",
+        "The mountain resort offers stunning views."
+      ]
+    }
+  ]
+}

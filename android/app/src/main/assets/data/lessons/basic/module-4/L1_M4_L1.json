@@ -1,0 +1,314 @@
+{
+  "level": "Beginner",
+  "module": "SPEAKING & LISTENING",
+  "lesson_number": 1,
+  "lesson_title": "Introducing Yourself: Telling About You",
+  "objectives": [
+    "Learn simple ways to greet others and say your name.",
+    "Practice sharing basic information about yourself, like your village and class.",
+    "Build confidence to speak in English with others."
+  ],
+  "topics": [
+    {
+      "title": "1. Starting Your Introduction: Greetings and Name",
+      "subtopics": [
+        {
+          "title": "1.1. Greetings: Saying Hello",
+          "sections": [
+            {
+              "text": "When you meet someone, you first say 'Hello' or 'Hi'. This shows you are friendly and ready to talk. The greeting can change based on the time of day.",
+              "examples": [
+                {
+                  "label": "Hello",
+                  "value": "A common and polite way to start a conversation with anyone, any time."
+                },
+                {
+                  "label": "Hi",
+                  "value": "A more casual and friendly way to greet people you know well, like friends or classmates."
+                },
+                {
+                  "label": "Good morning",
+                  "value": "Use this greeting from sunrise until noon (12:00 PM)."
+                },
+                {
+                  "label": "Good afternoon",
+                  "value": "Use this greeting from noon (12:00 PM) until evening (around 5:00 PM)."
+                },
+                {
+                  "label": "Good evening",
+                  "value": "Use this greeting from evening (around 5:00 PM) until night (before sleeping)."
+                }
+              ],
+              "usage_examples": [
+                "**Hello**, how are you?",
+                "**Hi**, Rahul! What are you doing?",
+                "**Good morning**, teacher!",
+                "**Good afternoon**, everyone in the classroom.",
+                "**Good evening**, uncle and auntie.",
+                "**Hello**, my new friend.",
+                "**Good morning**, sun!"
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "1.2. Saying Your Name",
+          "sections": [
+            {
+              "text": "After greeting, the most important step is to tell your name. This helps others know who you are. You can use 'My name is...' or 'I am...'.",
+              "examples": [
+                {
+                  "label": "My name is...",
+                  "value": "A formal and complete way to state your name."
+                },
+                {
+                  "label": "I am...",
+                  "value": "A shorter and more direct way to state your name."
+                },
+                {
+                  "label": "You can call me...",
+                  "value": "Use this if you have a nickname or prefer a shorter version of your name."
+                }
+              ],
+              "usage_examples": [
+                "Hello, **my name is Ram**.",
+                "Hi, **I am Sita**.",
+                "Good morning, **my name is Priya**.",
+                "I am Rahul, and **you can call me Rahul**.",
+                "My name is Anand. What is your name?",
+                "Hello, I am Deepa, a student from this village.",
+                "Good evening, I am your new neighbor, Suresh."
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Sharing More About Yourself",
+      "subtopics": [
+        {
+          "title": "2.1. Where You Are From (Village/Place)",
+          "sections": [
+            {
+              "text": "Tell people where you live or where your home is. This helps them understand your background.",
+              "examples": [
+                {
+                  "label": "I am from...",
+                  "value": "Use this to state your village or town."
+                },
+                {
+                  "label": "I live in...",
+                  "value": "Use this to state the name of your village."
+                },
+                {
+                  "label": "Our village is called...",
+                  "value": "A way to introduce your village."
+                }
+              ],
+              "usage_examples": [
+                "I am Ram. **I am from Shantipur village**.",
+                "My name is Priya. **I live in Basantpur**.",
+                "Hello, I am Ganesh. **Our village is called Kherwadi**.",
+                "We are from a small village near the river.",
+                "I am from a farming family in this village.",
+                "What village are you from?",
+                "My home is in this beautiful village."
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Your Class and School",
+          "sections": [
+            {
+              "text": "Tell others which class you study in and the name of your school. This is important when meeting new classmates or teachers.",
+              "examples": [
+                {
+                  "label": "I study in class...",
+                  "value": "State your current class or standard."
+                },
+                {
+                  "label": "I am in class...",
+                  "value": "Another way to state your class."
+                },
+                {
+                  "label": "My school is...",
+                  "value": "State the name of your school."
+                },
+                {
+                  "label": "I go to...",
+                  "value": "Used to say which school you attend."
+                }
+              ],
+              "usage_examples": [
+                "I am Sita. **I study in class 6**.",
+                "My name is Rohan. **I am in class 8 at Government High School**.",
+                "Hello, I am Pooja. **My school is the local Zilla Parishad school**.",
+                "I go to school in the next village.",
+                "We study in the same class.",
+                "Which class are you in?",
+                "My brother studies in class 10."
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.3. Your Family and Their Work",
+          "sections": [
+            {
+              "text": "You can also talk about your family members and what they do. This gives a little more information about your daily life.",
+              "examples": [
+                {
+                  "label": "My father is a...",
+                  "value": "Tell about your father's profession."
+                },
+                {
+                  "label": "My mother is a...",
+                  "value": "Tell about your mother's profession or role at home."
+                },
+                {
+                  "label": "I have one brother/sister.",
+                  "value": "Share information about your siblings."
+                },
+                {
+                  "label": "We are a farming family.",
+                  "value": "A simple way to describe your family's main work."
+                }
+              ],
+              "usage_examples": [
+                "My name is Arjun. **My father is a farmer**.",
+                "I am Lakshmi. **My mother is a homemaker and helps in the fields**.",
+                "I have an **elder brother and a younger sister**.",
+                "We are a **farming family**, and we grow rice.",
+                "My father is a **shopkeeper** in the village.",
+                "My mother sells milk in the market.",
+                "I live with my **grandparents and parents**."
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.4. Your Hobbies and Interests (Optional)",
+          "sections": [
+            {
+              "text": "You can share what you like to do in your free time. This makes your introduction more personal and interesting.",
+              "examples": [
+                {
+                  "label": "I like to...",
+                  "value": "Express your favorite activities."
+                },
+                {
+                  "label": "My hobby is...",
+                  "value": "Another way to talk about your favorite pastime."
+                },
+                {
+                  "label": "I enjoy...",
+                  "value": "A more advanced way to express liking something."
+                }
+              ],
+              "usage_examples": [
+                "Hello, I am Ravi. **I like to play cricket**.",
+                "My name is Geeta. **My hobby is drawing pictures**.",
+                "I am a student. **I enjoy reading storybooks**.",
+                "In the evenings, I like to help my father on the farm.",
+                "I enjoy listening to music and singing folk songs.",
+                "My hobby is collecting stamps.",
+                "What do you like to do in your free time?"
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Practicing for Confidence",
+      "subtopics": [
+        {
+          "title": "3.1. Speaking Clearly and Slowly",
+          "sections": [
+            {
+              "text": "When you introduce yourself, speak slowly and clearly. Don't rush. This helps others understand you easily and makes you feel more confident.",
+              "examples": [
+                {
+                  "label": "Speak Slowly",
+                  "value": "Take your time with each word. Don't rush."
+                },
+                {
+                  "label": "Speak Clearly",
+                  "value": "Open your mouth well and make sure each sound is heard."
+                },
+                {
+                  "label": "Practice Pronunciation",
+                  "value": "Say new words many times until they feel easy on your tongue."
+                }
+              ],
+              "usage_examples": [
+                "**Speak slowly**, so everyone can understand your name.",
+                "Try to **speak clearly** when you introduce yourself.",
+                "Let's **practice pronunciation** of village names.",
+                "Take a deep breath before you speak.",
+                "It's okay to make mistakes; just try again and speak clearly.",
+                "Your voice is clear and easy to understand."
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. Practice with Friends and Role-Play",
+          "sections": [
+            {
+              "text": "Practice introducing yourself with your friends, classmates, or family members. You can pretend to meet new people. This is called 'role-play'. The more you practice, the more confident you will become.",
+              "examples": [
+                {
+                  "label": "Partner Practice",
+                  "value": "One student introduces, the other listens and then introduces themselves."
+                },
+                {
+                  "label": "Circle Introduction",
+                  "value": "Everyone sits in a circle and introduces themselves one by one."
+                },
+                {
+                  "label": "Role-play New Friend",
+                  "value": "Pretend you meet a new friend at the village fair and introduce yourself."
+                }
+              ],
+              "usage_examples": [
+                "Let's do a **partner introduction** exercise.",
+                "In our **circle introduction**, everyone will say their name and village.",
+                "Today, we will **role-play** meeting a new teacher.",
+                "Practice helps you speak without fear.",
+                "Listen carefully when your friend introduces themselves.",
+                "We can practice our introductions every day after school."
+              ],
+              "media": {
+                "image": "images/basic/module-4/lesson-1/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

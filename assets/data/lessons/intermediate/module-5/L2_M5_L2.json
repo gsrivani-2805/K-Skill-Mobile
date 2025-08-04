@@ -1,0 +1,649 @@
+{
+  "level": "Intermediate",
+  "module": "Real Life & Role Play English",
+  "lesson_number": 2,
+  "lesson_title": "Asking for Directions",
+  "objectives": [
+    "Request directions politely",
+    "Understand and give directional instructions",
+    "Use prepositions of place and movement",
+    "Practice helpful conversation skills"
+  ],
+  "topics": [
+    {
+      "title": "Basic Direction Words and Phrases",
+      "subtopics": [
+        {
+          "title": "Understanding Key Direction Words",
+          "sections": [
+            {
+              "text": "When you want to go somewhere new, you need to know some special words to ask for or give directions. These words tell you where to go. They help you find your way, like 'left', 'right', and 'straight'.",
+              "examples": [
+                {
+                  "label": "Straight",
+                  "value": "నేరుగా"
+                },
+                {
+                  "label": "Left",
+                  "value": "ఎడమ"
+                },
+                {
+                  "label": "Right",
+                  "value": "కుడి"
+                },
+                {
+                  "label": "Turn",
+                  "value": "తిరగండి"
+                },
+                {
+                  "label": "Go",
+                  "value": "వెళ్ళండి"
+                },
+                {
+                  "label": "Walk",
+                  "value": "నడవండి"
+                },
+                {
+                  "label": "Cross",
+                  "value": "దాటండి"
+                },
+                {
+                  "label": "Along",
+                  "value": "వెంబడి"
+                },
+                {
+                  "label": "Towards",
+                  "value": "వైపు"
+                },
+                {
+                  "label": "Next to",
+                  "value": "పక్కన"
+                },
+                {
+                  "label": "Opposite",
+                  "value": "ఎదురుగా"
+                },
+                {
+                  "label": "Behind",
+                  "value": "వెనుక"
+                },
+                {
+                  "label": "In front of",
+                  "value": "ముందు"
+                },
+                {
+                  "label": "Corner",
+                  "value": "మూల"
+                },
+                {
+                  "label": "Bridge",
+                  "value": "వంతెన"
+                }
+              ],
+              "usage_examples": [
+                "Go straight down this road.",
+                "Turn left at the next street.",
+                "The shop is on your right side.",
+                "Please turn right at the crossroads.",
+                "Walk along the river bank.",
+                "Go towards the big banyan tree.",
+                "The well is next to the school.",
+                "The post office is opposite the bank.",
+                "My house is behind the temple.",
+                "The market is in front of the bus stand.",
+                "Turn left at the corner.",
+                "Cross the small bridge over the canal.",
+                "Go straight until you see the big field.",
+                "The health center is on the right side.",
+                "Take the path that goes to the left."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              },
+              "table": {
+                "title": "Basic Direction Words",
+                "headers": ["English Word", "Meaning", "Example"],
+                "rows": [
+                  ["Straight", "నేరుగా", "Go straight ahead."],
+                  ["Left", "ఎడమ", "Turn left at the shop."],
+                  ["Right", "కుడి", "The school is on your right."],
+                  ["Turn", "తిరగండి", "Turn at the temple."],
+                  ["Go", "వెళ్ళండి", "Go down this road."],
+                  ["Walk", "నడవండి", "Walk for five minutes."],
+                  ["Cross", "దాటండి", "Cross the road carefully."],
+                  ["Near", "దగ్గర", "The well is near my house."],
+                  [
+                    "Opposite",
+                    "ఎదురుగా",
+                    "The post office is opposite the bank."
+                  ],
+                  [
+                    "Next to",
+                    "పక్కన",
+                    "The market is next to the big tree."
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Prepositions of Place and Movement",
+          "sections": [
+            {
+              "text": "Prepositions are small words that tell us the position or movement of things. When giving directions, they are very helpful. Words like 'at', 'on', 'in', 'near', 'across', 'through' help make your directions clear.",
+              "examples": [
+                {
+                  "label": "At",
+                  "value": "వద్ద (e.g., at the school, at the corner)"
+                },
+                {
+                  "label": "On",
+                  "value": "మీద (e.g., on the right, on the road)"
+                },
+                {
+                  "label": "In",
+                  "value": "లో (e.g., in the village, in front of the building)"
+                },
+                {
+                  "label": "Near",
+                  "value": "దగ్గర (e.g., near the temple)"
+                },
+                {
+                  "label": "Across",
+                  "value": "అడ్డంగా (e.g., across the river)"
+                },
+                {
+                  "label": "Through",
+                  "value": "ద్వారా (e.g., through the forest)"
+                },
+                {
+                  "label": "To",
+                  "value": "కు (e.g., go to the market)"
+                },
+                {
+                  "label": "From",
+                  "value": "నుండి (e.g., 5 minutes from here)"
+                },
+                {
+                  "label": "Between",
+                  "value": "మధ్య (e.g., between the two shops)"
+                },
+                {
+                  "label": "Behind",
+                  "value": "వెనుక (e.g., behind the school)"
+                },
+                {
+                  "label": "In front of",
+                  "value": "ముందు (e.g., in front of the house)"
+                },
+                {
+                  "label": "Along",
+                  "value": "వెంబడి (e.g., along the road)"
+                },
+                {
+                  "label": "Over",
+                  "value": "పైగా (e.g., over the bridge)"
+                },
+                {
+                  "label": "Past",
+                  "value": "దాటి (e.g., walk past the well)"
+                },
+                {
+                  "label": "Into",
+                  "value": "లోనికి (e.g., turn into the lane)"
+                }
+              ],
+              "usage_examples": [
+                "The meeting is at the school.",
+                "The shop is on the main road.",
+                "You will find it in the middle of the village.",
+                "The bus stand is near the temple.",
+                "Walk across the bridge.",
+                "Go through the small lane.",
+                "We need to go to the market.",
+                "The health center is far from here.",
+                "The library is between the school and the temple.",
+                "My house is behind the post office.",
+                "The police station is in front of the bank.",
+                "Walk along the river for a bit.",
+                "Go over the small hill.",
+                "Walk past the old banyan tree.",
+                "Turn into the narrow lane."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Landmarks, Distance, and Time Expressions",
+          "sections": [
+            {
+              "text": "When you give directions, it's helpful to mention known places, called 'landmarks'. These are places everyone knows, like a big temple, a school, or a main market. Also, tell people about the 'distance' (how far it is) and 'time' (how long it takes to reach there).",
+              "examples": [
+                {
+                  "label": "Landmark 1",
+                  "value": "The big banyan tree"
+                },
+                {
+                  "label": "Landmark 2",
+                  "value": "The village temple"
+                },
+                {
+                  "label": "Landmark 3",
+                  "value": "The primary school"
+                },
+                {
+                  "label": "Landmark 4",
+                  "value": "The main market square"
+                },
+                {
+                  "label": "Landmark 5",
+                  "value": "The old well"
+                },
+                {
+                  "label": "Landmark 6",
+                  "value": "The government hospital"
+                },
+                {
+                  "label": "Landmark 7",
+                  "value": "The police station"
+                },
+                {
+                  "label": "Landmark 8",
+                  "value": "The bus stand"
+                },
+                {
+                  "label": "Landmark 9",
+                  "value": "The river bridge"
+                },
+                {
+                  "label": "Landmark 10",
+                  "value": "The water tank"
+                },
+                {
+                  "label": "Distance 1",
+                  "value": "200 meters"
+                },
+                {
+                  "label": "Distance 2",
+                  "value": "Half a kilometer"
+                },
+                {
+                  "label": "Distance 3",
+                  "value": "A little far"
+                },
+                {
+                  "label": "Distance 4",
+                  "value": "Not far from here"
+                },
+                {
+                  "label": "Time 1",
+                  "value": "5 minutes walk"
+                },
+                {
+                  "label": "Time 2",
+                  "value": "About 10 minutes by cycle"
+                },
+                {
+                  "label": "Time 3",
+                  "value": "A short walk"
+                },
+                {
+                  "label": "Time 4",
+                  "value": "It will take some time"
+                },
+                {
+                  "label": "General distance",
+                  "value": "Around one kilometer"
+                },
+                {
+                  "label": "Very close",
+                  "value": "Just nearby"
+                }
+              ],
+              "usage_examples": [
+                "Go straight until you reach the big banyan tree.",
+                "The health center is near the village temple.",
+                "The shop is opposite the primary school.",
+                "Walk about 200 meters from here.",
+                "It's a 5 minutes walk to the market.",
+                "The bus stand is near the old well.",
+                "The new bank is not far from here.",
+                "It's about 10 minutes by cycle to the government hospital.",
+                "You will see the police station on your left after the river bridge.",
+                "The water tank is a good landmark to find the way.",
+                "The market is a little far from the main road.",
+                "The meeting hall is just nearby the school.",
+                "It's around one kilometer from this point.",
+                "It will take some time to reach the district office.",
+                "Walk past the big field, then you will see it."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Asking for Directions Politely",
+      "subtopics": [
+        {
+          "title": "Polite Questions to Ask for Directions",
+          "sections": [
+            {
+              "text": "When you ask someone for directions, always be polite. Start with phrases like 'Excuse me' or 'Could you please'. This shows respect and makes people more willing to help you.",
+              "examples": [
+                {
+                  "label": "Common 1",
+                  "value": "Excuse me, can you tell me how to reach the post office?"
+                },
+                {
+                  "label": "Common 2",
+                  "value": "How do I get to the nearest health center?"
+                },
+                {
+                  "label": "Polite request",
+                  "value": "Could you please tell me the way to the school?"
+                },
+                {
+                  "label": "Simple request",
+                  "value": "Where is the main market from here?"
+                },
+                {
+                  "label": "Asking for clarity",
+                  "value": "Is this the road to Rampur village?"
+                },
+                {
+                  "label": "About distance",
+                  "value": "Is the temple far from here?"
+                },
+                {
+                  "label": "Asking for show",
+                  "value": "Can you show me the way to the bus stand?"
+                },
+                {
+                  "label": "Looking for specific",
+                  "value": "I am looking for the house of Mr. Sharma. Can you help me?"
+                },
+                {
+                  "label": "Seeking assistance",
+                  "value": "Could you guide me to the nearest bank?"
+                },
+                {
+                  "label": "General inquiry",
+                  "value": "I am new here. How do I get to the village office?"
+                },
+                {
+                  "label": "Is this right way?",
+                  "value": "Am I going the right way to the fair?"
+                },
+                {
+                  "label": "Shortest route",
+                  "value": "What is the shortest way to the river?"
+                },
+                {
+                  "label": "Asking for train station",
+                  "value": "Excuse me, how can I reach the railway station?"
+                },
+                {
+                  "label": "Asking for help",
+                  "value": "Could you help me find this address?"
+                },
+                {
+                  "label": "Confused",
+                  "value": "I am a bit lost. Can you point me towards the main road?"
+                }
+              ],
+              "usage_examples": [
+                "Excuse me, can you tell me how to reach the post office?",
+                "How do I get to the nearest health center from here?",
+                "Could you please tell me the way to the school?",
+                "Where is the main market from here?",
+                "Is this the road to Rampur village?",
+                "Is the temple far from here?",
+                "Can you show me the way to the bus stand?",
+                "I am looking for the house of Mr. Sharma. Can you help me?",
+                "Could you guide me to the nearest bank?",
+                "I am new here. How do I get to the village office?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Giving Directions Clearly",
+      "subtopics": [
+        {
+          "title": "Step-by-Step Instructions",
+          "sections": [
+            {
+              "text": "When you give directions, tell people step by step. Use simple commands and mention landmarks clearly. Imagine you are walking with them in your mind and telling them what to do at each turn or important spot.",
+              "examples": [
+                {
+                  "label": "Simple step 1",
+                  "value": "Go straight for about 200 meters."
+                },
+                {
+                  "label": "Simple step 2",
+                  "value": "Then, turn left at the big banyan tree."
+                },
+                {
+                  "label": "Simple step 3",
+                  "value": "Walk past the old well."
+                },
+                {
+                  "label": "Landmark use 1",
+                  "value": "You will see the village temple on your right side."
+                },
+                {
+                  "label": "Landmark use 2",
+                  "value": "The school is opposite the temple."
+                },
+                {
+                  "label": "Crossing",
+                  "value": "Cross the small bridge over the canal."
+                },
+                {
+                  "label": "Following a path",
+                  "value": "Follow the path that goes downhill."
+                },
+                {
+                  "label": "Road type",
+                  "value": "Continue on the dirt road for a while."
+                },
+                {
+                  "label": "Junction",
+                  "value": "At the junction, take the road to the right."
+                },
+                {
+                  "label": "Destination",
+                  "value": "The market will be on your left side after the sweet shop."
+                },
+                {
+                  "label": "No turns",
+                  "value": "Just keep going straight, don't turn anywhere."
+                },
+                {
+                  "label": "Long walk",
+                  "value": "You will have to walk for about 15 minutes."
+                },
+                {
+                  "label": "At the corner",
+                  "value": "Turn right at the corner where the chai stall is."
+                },
+                {
+                  "label": "Past a point",
+                  "value": "Go past the school building."
+                },
+                {
+                  "label": "Final destination",
+                  "value": "It will be the last house in that lane."
+                }
+              ],
+              "usage_examples": [
+                "Go straight for about 200 meters.",
+                "Then, turn left at the big banyan tree.",
+                "Walk past the old well on your left.",
+                "You will see the village temple on your right side.",
+                "The school is opposite the temple.",
+                "Cross the small bridge over the canal.",
+                "Follow the path that goes downhill towards the river.",
+                "Continue on the dirt road for a while.",
+                "At the junction, take the road to the right.",
+                "The market will be on your left side after the sweet shop."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Polite Ways to Give Directions",
+          "sections": [
+            {
+              "text": "When giving directions, also be polite and helpful. You can start by saying 'Sure,' or 'Yes, I can help you.' End by saying 'You're welcome' or 'No problem' after they thank you.",
+              "examples": [
+                {
+                  "label": "Confirm willingness",
+                  "value": "Yes, I can help you with that."
+                },
+                {
+                  "label": "Positive start",
+                  "value": "Sure, it's easy to find."
+                },
+                {
+                  "label": "Initial instruction",
+                  "value": "First, go straight from here."
+                },
+                {
+                  "label": "Offering details",
+                  "value": "It's about a 10-minute walk."
+                },
+                {
+                  "label": "Confirming understanding",
+                  "value": "Did you understand?"
+                },
+                {
+                  "label": "Asking for repeat",
+                  "value": "Should I repeat it?"
+                },
+                {
+                  "label": "Ending politeness 1",
+                  "value": "You're welcome."
+                },
+                {
+                  "label": "Ending politeness 2",
+                  "value": "No problem at all."
+                },
+                {
+                  "label": "Good wishes",
+                  "value": "Hope you find it easily."
+                },
+                {
+                  "label": "Offering more help",
+                  "value": "If you get lost, you can ask someone else."
+                },
+                {
+                  "label": "Clear phrasing",
+                  "value": "So, first left, then straight, then right."
+                },
+                {
+                  "label": "Helping words",
+                  "value": "It's not very far."
+                },
+                {
+                  "label": "Simple confirmation",
+                  "value": "Yes, you are on the right path."
+                },
+                {
+                  "label": "Friendly ending",
+                  "value": "Have a good day."
+                },
+                {
+                  "label": "Reassurance",
+                  "value": "Don't worry, it's quite simple."
+                }
+              ],
+              "usage_examples": [
+                "Yes, I can help you with that. The school is nearby.",
+                "Sure, it's easy to find. First, go straight from this point.",
+                "It's about a 10-minute walk from here.",
+                "Did you understand the directions?",
+                "You're welcome. Hope you find it easily.",
+                "No problem at all. Just follow the main road.",
+                "First left, then straight, then right at the temple. Got it?",
+                "It's not very far, just a short walk.",
+                "Yes, you are on the right path to the market.",
+                "Don't worry, it's quite simple to reach."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Practice Conversations",
+      "subtopics": [
+        {
+          "title": "Sample Conversation: To the Post Office",
+          "sections": [
+            {
+              "text": "Read this conversation where someone asks for and gets directions to a common place like a post office in a village setting.",
+              "examples": [],
+              "usage_examples": [
+                "Ramesh: Excuse me, uncle. Can you tell me how to reach the post office?\nUncle: Yes, beta. It's not far from here. First, go straight down this road. You will see the big peepal tree after about 50 meters.\nRamesh: Okay, the peepal tree.\nUncle: Yes. From there, take a left turn. Walk for about 100 meters, and you will see the primary school on your right side.\nRamesh: The primary school, on the right.\nUncle: Correct. The post office is just opposite the school. You can't miss it.\nRamesh: Thank you very much for your help, uncle!\nUncle: You're welcome, beta. Have a good day."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Sample Conversation: To the Health Center",
+          "sections": [
+            {
+              "text": "Here's another example of asking for directions to a health center. Notice the details given about landmarks and distance.",
+              "examples": [],
+              "usage_examples": [
+                "Lady: Excuse me, young man. I am new here. How do I get to the health center?\nBoy: Good morning, madam. The health center is a little far, but I can guide you. From here, walk straight past the village market. Keep walking until you reach the small bridge over the stream.\nLady: The bridge, okay.\nBoy: After crossing the bridge, you will see a small lane going to your right. Take that lane. Walk through that lane for about 3 minutes. The health center will be the big white building at the end of the lane, on your left.\nLady: Thank you so much for the clear directions. Is it about a 15-minute walk?\nBoy: Yes, madam, approximately 15 minutes walk. Or 5 minutes by cycle. Hope you find it easily.\nLady: Thank you again, God bless you."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Role-Play Activity: Giving and Asking for Directions",
+          "sections": [
+            {
+              "text": "Let's practice! Work with a partner. One person will ask for directions, and the other will give directions. You can use the map of your school or imagine your village for this.\n\nScenario 1 (School):\n*   Student 1: You are new to the school. Ask for directions to the Principal's office.\n*   Student 2: You know the school well. Give directions from the classroom to the Principal's office.\n\nScenario 2 (Village):\n*   Student 1: You are a visitor looking for the nearest well/pond.\n*   Student 2: You are a villager. Give directions from the main road to the well/pond.\n\nRemember to use polite language, clear direction words, and mention landmarks. You can also talk about distance and time.",
+              "examples": [],
+              "usage_examples": [
+                "Student 1: Excuse me, can you tell me how to reach the Principal's office?\nStudent 2: Yes, go straight down this corridor, then turn right at the library. His office is next to the staff room.\nStudent 1: Is it far from here?\nStudent 2: No, it's a short walk, maybe two minutes.\nStudent 1: Thank you very much.\nStudent 2: You're welcome.\nStudent 1: Excuse me, where is the nearest well?\nStudent 2: From here, walk straight past the temple. Then turn left at the mango tree. The well is on your right side.\nStudent 1: How far is it?\nStudent 2: About a five-minute walk. It's not far.\nStudent 1: Thank you for your help.\nStudent 2: No problem."
+              ],
+              "media": {
+                "image": "images/intermediate/module-5/lesson-2/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

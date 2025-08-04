@@ -1,0 +1,1936 @@
+{
+  "title": "Science & Research",
+  "icon": "🔬",
+  "words": [
+    {
+      "word": "Science",
+      "pronunciation": "/ˈsaɪəns/",
+      "definition": "The study of the natural world through observation and experiment.",
+      "sentences": [
+        "We learn about plants in science class.",
+        "Science helps us understand how things work.",
+        "She loves reading science books."
+      ]
+    },
+    {
+      "word": "Research",
+      "pronunciation": "/rɪˈsɜːrtʃ/",
+      "definition": "Careful study of a subject to discover new facts or information.",
+      "sentences": [
+        "I need to do some research for my project.",
+        "Scientists conduct research to find cures.",
+        "Good research requires careful planning."
+      ]
+    },
+    {
+      "word": "Experiment",
+      "pronunciation": "/ɪkˈspɛrɪmənt/",
+      "definition": "A scientific test done to discover something or to prove a theory.",
+      "sentences": [
+        "We did a fun experiment in the lab.",
+        "The results of the experiment were surprising.",
+        "Always follow safety rules during an experiment."
+      ]
+    },
+    {
+      "word": "Observe",
+      "pronunciation": "/əbˈzɜːrv/",
+      "definition": "To watch carefully, especially to learn something.",
+      "sentences": [
+        "We will observe the stars tonight.",
+        "Scientists observe animal behavior.",
+        "Please observe the safety instructions."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "pronunciation": "/haɪˈpɑːθəsɪs/",
+      "definition": "An idea or guess that is not yet proven, but is used as a starting point for research.",
+      "sentences": [
+        "We formed a hypothesis before starting the experiment.",
+        "His hypothesis was that plants need light to grow.",
+        "A good hypothesis can be tested."
+      ]
+    },
+    {
+      "word": "Theory",
+      "pronunciation": "/ˈθɪəri/",
+      "definition": "A well-supported explanation for a wide range of observations or phenomena.",
+      "sentences": [
+        "The theory of gravity explains why things fall.",
+        "Scientists continue to test existing theories.",
+        "It's just a theory, but it makes sense."
+      ]
+    },
+    {
+      "word": "Data",
+      "pronunciation": "/ˈdeɪtə/",
+      "definition": "Facts or information used to draw conclusions.",
+      "sentences": [
+        "We collected a lot of data from the survey.",
+        "Analyze the data carefully.",
+        "The data showed a clear trend."
+      ]
+    },
+    {
+      "word": "Analyze",
+      "pronunciation": "/ˈænəˌlaɪz/",
+      "definition": "To examine something carefully and in detail to understand it.",
+      "sentences": [
+        "We need to analyze the results of the experiment.",
+        "She will analyze the text for hidden meanings.",
+        "The detective tried to analyze the clues."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒn/",
+      "definition": "A judgment or decision reached after careful thought.",
+      "sentences": [
+        "What conclusion did you draw from the experiment?",
+        "The report presented a clear conclusion.",
+        "In conclusion, the results support our hypothesis."
+      ]
+    },
+    {
+      "word": "Result",
+      "pronunciation": "/rɪˈzʌlt/",
+      "definition": "The outcome or consequence of an action or event.",
+      "sentences": [
+        "The results of the test will be known tomorrow.",
+        "We were happy with the positive results.",
+        "The experiment produced unexpected results."
+      ]
+    },
+    {
+      "word": "Discovery",
+      "pronunciation": "/dɪˈskʌvəri/",
+      "definition": "The act of finding something new or previously unknown.",
+      "sentences": [
+        "Scientists made an important discovery about the universe.",
+        "The archaeological discovery was very exciting.",
+        "Every day brings a new discovery in science."
+      ]
+    },
+    {
+      "word": "Innovation",
+      "pronunciation": "/ˌɪnəˈveɪʃn/",
+      "definition": "The introduction of new ideas, methods, or products.",
+      "sentences": [
+        "Technological innovation is changing the world.",
+        "The company is known for its innovation in design.",
+        "His invention was a true innovation."
+      ]
+    },
+    {
+      "word": "Technology",
+      "pronunciation": "/tɛkˈnɑːlədʒi/",
+      "definition": "The application of scientific knowledge for practical purposes.",
+      "sentences": [
+        "New technology makes our lives easier.",
+        "He is interested in computer technology.",
+        "The school invests in modern technology."
+      ]
+    },
+    {
+      "word": "Engineer",
+      "pronunciation": "/ˌɛndʒɪˈnɪr/",
+      "definition": "A person who designs, builds, or maintains engines, machines, or public works.",
+      "sentences": [
+        "My dad is a civil engineer.",
+        "The software engineer created a new app.",
+        "Engineers solve complex problems."
+      ]
+    },
+    {
+      "word": "Scientist",
+      "pronunciation": "/ˈsaɪəntɪst/",
+      "definition": "A person who is studying or has studied science and whose work is in a scientific field.",
+      "sentences": [
+        "The scientist conducted many experiments.",
+        "She wants to be a scientist when she grows up.",
+        "Famous scientists have changed our understanding of the world."
+      ]
+    },
+    {
+      "word": "Laboratory (Lab)",
+      "pronunciation": "/ˈlæbrəˌtɔːri/",
+      "definition": "A room or building equipped for scientific experiments, research, or teaching.",
+      "sentences": [
+        "We conducted the experiment in the school lab.",
+        "The research laboratory is very advanced.",
+        "Be careful when working in the lab."
+      ]
+    },
+    {
+      "word": "Microscope",
+      "pronunciation": "/ˈmaɪkrəˌskoʊp/",
+      "definition": "An optical instrument used for viewing very small objects, such as cells or bacteria, typically magnified several hundred times.",
+      "sentences": [
+        "We looked at cells under the microscope.",
+        "The microscope helped us see tiny details.",
+        "A powerful microscope is needed for this research."
+      ]
+    },
+    {
+      "word": "Telescope",
+      "pronunciation": "/ˈtɛlɪˌskoʊp/",
+      "definition": "An optical instrument designed to make distant objects appear nearer, containing an arrangement of lenses or of curved mirrors and lenses, by which rays of light are collected and focused in the observer's eye.",
+      "sentences": [
+        "We used a telescope to view the moon.",
+        "The new space telescope captures amazing images.",
+        "He bought a powerful telescope for stargazing."
+      ]
+    },
+    {
+      "word": "Observation",
+      "pronunciation": "/ˌɑːbzərˈveɪʃn/",
+      "definition": "The action or process of observing something or someone carefully or in order to gain information.",
+      "sentences": [
+        "Careful observation is key in scientific study.",
+        "The teacher encouraged scientific observation.",
+        "Her detailed observations were recorded."
+      ]
+    },
+    {
+      "word": "Measurement",
+      "pronunciation": "/ˈmɛʒərmənt/",
+      "definition": "The action of measuring something.",
+      "sentences": [
+        "Accurate measurement is important in experiments.",
+        "Take precise measurements for the ingredients.",
+        "The measurement of temperature is done with a thermometer."
+      ]
+    },
+    {
+      "word": "Variable",
+      "pronunciation": "/ˈvɛəriəbl/",
+      "definition": "An element, feature, or factor that is liable to vary or change.",
+      "sentences": [
+        "In an experiment, you change one variable at a time.",
+        "Temperature is a key variable in this reaction.",
+        "Identify the independent and dependent variables."
+      ]
+    },
+    {
+      "word": "Control group",
+      "pronunciation": "/kənˈtroʊl ɡruːp/",
+      "definition": "The group in an experiment that does not receive treatment and is used for comparison.",
+      "sentences": [
+        "The control group received a placebo.",
+        "Compare the results of the experimental group with the control group.",
+        "The control group helps ensure the experiment is fair."
+      ]
+    },
+    {
+      "word": "Experimental group",
+      "pronunciation": "/ɪkˌspɛrɪˈmɛntl ɡruːp/",
+      "definition": "The group in an experiment that receives the treatment being tested.",
+      "sentences": [
+        "The experimental group received the new medicine.",
+        "The results from the experimental group were compared to the control.",
+        "The experimental group showed significant changes."
+      ]
+    },
+    {
+      "word": "Procedure",
+      "pronunciation": "/prəˈsiːdʒər/",
+      "definition": "An established or official way of doing something.",
+      "sentences": [
+        "Follow the correct procedure for the experiment.",
+        "The safety procedure must be strictly followed.",
+        "The doctor explained the medical procedure."
+      ]
+    },
+    {
+      "word": "Method",
+      "pronunciation": "/ˈmɛθəd/",
+      "definition": "A particular procedure for accomplishing or approaching something, especially a systematic or established one.",
+      "sentences": [
+        "Which method did you use for your research?",
+        "The scientific method involves observation and testing.",
+        "She developed a new teaching method."
+      ]
+    },
+    {
+      "word": "Analysis",
+      "pronunciation": "/əˈnæləsɪs/",
+      "definition": "Detailed examination of the elements or structure of something.",
+      "sentences": [
+        "The data requires careful analysis.",
+        "She presented her analysis of the survey results.",
+        "A thorough analysis was performed."
+      ]
+    },
+    {
+      "word": "Report",
+      "pronunciation": "/rɪˈpɔːrt/",
+      "definition": "A spoken or written account of something observed, heard, done, or investigated.",
+      "sentences": [
+        "Write a science report on your findings.",
+        "The news report was about the latest discovery.",
+        "Submit your research report by Friday."
+      ]
+    },
+    {
+      "word": "Publication",
+      "pronunciation": "/ˌpʌblɪˈkeɪʃn/",
+      "definition": "The act of making something available to the general public.",
+      "sentences": [
+        "His research was accepted for publication in a journal.",
+        "The scientific publication features new studies.",
+        "The book's publication date is next month."
+      ]
+    },
+    {
+      "word": "Journal",
+      "pronunciation": "/ˈdʒɜːrnl/",
+      "definition": "A newspaper or magazine that deals with a particular subject or professional activity.",
+      "sentences": [
+        "She published her findings in a scientific journal.",
+        "He reads a medical journal every week.",
+        "The academic journal features peer-reviewed articles."
+      ]
+    },
+    {
+      "word": "Peer review",
+      "pronunciation": "/pɪər rɪˈvjuː/",
+      "definition": "Evaluation of a person's work or performance by a group of people at the same level.",
+      "sentences": [
+        "All scientific papers undergo peer review.",
+        "Peer review helps ensure the quality of research.",
+        "His article was accepted after a rigorous peer review."
+      ]
+    },
+    {
+      "word": "Abstract",
+      "pronunciation": "/ˈæbstrækt/",
+      "definition": "A summary of the contents of a book, article, or speech.",
+      "sentences": [
+        "Read the abstract to get an idea of the paper's content.",
+        "The conference program included an abstract for each presentation.",
+        "Write a concise abstract for your research."
+      ]
+    },
+    {
+      "word": "Introduction",
+      "pronunciation": "/ˌɪntrəˈdʌkʃn/",
+      "definition": "The action of introducing something.",
+      "sentences": [
+        "The introduction of the research paper explains the background.",
+        "Start your essay with a strong introduction.",
+        "The teacher gave an introduction to the new unit."
+      ]
+    },
+    {
+      "word": "Methodology",
+      "pronunciation": "/ˌmɛθəˈdɑːlədʒi/",
+      "definition": "A system of methods used in a particular area of study or activity.",
+      "sentences": [
+        "The research methodology was clearly described.",
+        "He explained the scientific methodology of his study.",
+        "Choosing the right methodology is crucial for research."
+      ]
+    },
+    {
+      "word": "Results section",
+      "pronunciation": "/rɪˈzʌlts ˈsɛkʃn/",
+      "definition": "The part of a scientific paper where the findings of the study are presented.",
+      "sentences": [
+        "The results section contained many graphs and tables.",
+        "Read the results section to see the main findings.",
+        "The results section must be objective and factual."
+      ]
+    },
+    {
+      "word": "Discussion section",
+      "pronunciation": "/dɪˈskʌʃn ˈsɛkʃn/",
+      "definition": "The part of a scientific paper where the meaning and implications of the results are interpreted.",
+      "sentences": [
+        "The discussion section explains what the results mean.",
+        "He elaborated on his findings in the discussion section.",
+        "The discussion section connects the results to existing theories."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒn/",
+      "definition": "A judgment or decision reached after careful thought.",
+      "sentences": [
+        "What conclusion did you draw from the experiment?",
+        "The report presented a clear conclusion.",
+        "In conclusion, the results support our hypothesis."
+      ]
+    },
+    {
+      "word": "References",
+      "pronunciation": "/ˈrɛfərənsɪz/",
+      "definition": "A list of sources cited in a scholarly work.",
+      "sentences": [
+        "Always include a list of references at the end of your paper.",
+        "Check the references for more information.",
+        "The quality of your references is important."
+      ]
+    },
+    {
+      "word": "Citation",
+      "pronunciation": "/saɪˈteɪʃn/",
+      "definition": "A quotation from or reference to a book, paper, or author, especially in a scholarly work.",
+      "sentences": [
+        "Remember to include proper citation for all your sources.",
+        "Learning how to write a good citation is important.",
+        "The essay had many accurate citations."
+      ]
+    },
+    {
+      "word": "Plagiarism",
+      "pronunciation": "/ˈpleɪdʒəˌrɪzəm/",
+      "definition": "The practice of taking someone else's work or ideas and passing them off as one's own.",
+      "sentences": [
+        "Submitting copied work is considered plagiarism.",
+        "The teacher warned students about plagiarism.",
+        "Always cite your sources to avoid plagiarism."
+      ]
+    },
+    {
+      "word": "Integrity",
+      "pronunciation": "/ɪnˈtɛɡrəti/",
+      "definition": "The quality of being honest and having strong moral principles.",
+      "sentences": [
+        "Scientific integrity is crucial for reliable research.",
+        "He always acts with integrity in his work.",
+        "Maintaining integrity builds trust."
+      ]
+    },
+    {
+      "word": "Ethics",
+      "pronunciation": "/ˈɛθɪks/",
+      "definition": "Moral principles that govern a person's behavior or the conducting of an activity.",
+      "sentences": [
+        "Research ethics are strictly followed in studies involving humans.",
+        "The course covers professional ethics.",
+        "Good ethics are important in all scientific fields."
+      ]
+    },
+    {
+      "word": "Peer",
+      "pronunciation": "/pɪər/",
+      "definition": "A person of the same age, status, or ability as another.",
+      "sentences": [
+        "Scientists often collaborate with their peers.",
+        "He asked his peer for help with the experiment.",
+        "Peer review is a vital part of scientific publication."
+      ]
+    },
+    {
+      "word": "Collaboration",
+      "pronunciation": "/kəˌlæbəˈreɪʃn/",
+      "definition": "The action of working with someone to produce or create something.",
+      "sentences": [
+        "International collaboration is common in scientific research.",
+        "The project required strong collaboration among team members.",
+        "Effective collaboration leads to better results."
+      ]
+    },
+    {
+      "word": "Interdisciplinary",
+      "pronunciation": "/ˌɪntərˈdɪsəplɪˌnɛri/",
+      "definition": "Relating to more than one branch of knowledge.",
+      "sentences": [
+        "The project involved an interdisciplinary team of scientists.",
+        "Interdisciplinary research combines different fields of study.",
+        "She enjoys working on interdisciplinary projects."
+      ]
+    },
+    {
+      "word": "Hypothesis testing",
+      "pronunciation": "/haɪˈpɑːθəsɪs ˈtɛstɪŋ/",
+      "definition": "A statistical method used to make decisions about a population based on sample data.",
+      "sentences": [
+        "Scientists use hypothesis testing to evaluate their ideas.",
+        "The experiment involved rigorous hypothesis testing.",
+        "Understanding hypothesis testing is crucial for research."
+      ]
+    },
+    {
+      "word": "Statistical analysis",
+      "pronunciation": "/stəˈtɪstɪkl əˈnæləsɪs/",
+      "definition": "The process of collecting, organizing, and interpreting data to identify patterns and trends.",
+      "sentences": [
+        "The researchers used advanced statistical analysis.",
+        "Statistical analysis helps draw meaningful conclusions from data.",
+        "He is skilled in statistical analysis."
+      ]
+    },
+    {
+      "word": "Quantitative research",
+      "pronunciation": "/ˈkwɑːntɪˌteɪtɪv rɪˈsɜːrtʃ/",
+      "definition": "Research that focuses on numerical data and statistical analysis.",
+      "sentences": [
+        "The study used quantitative research methods.",
+        "Quantitative research often involves surveys and experiments.",
+        "She prefers quantitative research for its measurable results."
+      ]
+    },
+    {
+      "word": "Qualitative research",
+      "pronunciation": "/ˈkwɑːlɪˌteɪtɪv rɪˈsɜːrtʃ/",
+      "definition": "Research that focuses on understanding experiences, perspectives, and meanings, often using non-numerical data.",
+      "sentences": [
+        "The study used qualitative research to explore people's opinions.",
+        "Interviews and focus groups are common in qualitative research.",
+        "Qualitative research provides rich, detailed insights."
+      ]
+    },
+    {
+      "word": "Case study",
+      "pronunciation": "/keɪs ˈstʌdi/",
+      "definition": "An intensive investigation of a single individual, group, or event.",
+      "sentences": [
+        "The psychologist published a detailed case study.",
+        "We analyzed a famous historical case study.",
+        "A case study provides in-depth understanding of a specific situation."
+      ]
+    },
+    {
+      "word": "Survey",
+      "pronunciation": "/ˈsɜːrveɪ/",
+      "definition": "A general view, examination, or description of someone or something.",
+      "sentences": [
+        "We conducted a survey to gather public opinion.",
+        "The results of the survey were surprising.",
+        "Fill out the survey to provide your feedback."
+      ]
+    },
+    {
+      "word": "Questionnaire",
+      "pronunciation": "/ˌkwɛstʃəˈnɛr/",
+      "definition": "A set of printed or written questions with a choice of answers, devised for the purposes of a survey or statistical study.",
+      "sentences": [
+        "Please fill out the questionnaire completely.",
+        "The researchers designed a detailed questionnaire.",
+        "The questionnaire helped gather valuable data."
+      ]
+    },
+    {
+      "word": "Interview",
+      "pronunciation": "/ˈɪntərˌvjuː/",
+      "definition": "A meeting of people face to face, especially for consultation.",
+      "sentences": [
+        "She conducted an interview with the expert.",
+        "The job interview went well.",
+        "He prepared questions for the interview."
+      ]
+    },
+    {
+      "word": "Focus group",
+      "pronunciation": "/ˈfoʊkəs ɡruːp/",
+      "definition": "A diverse group of people assembled to participate in a guided discussion about a particular product or topic before it is launched.",
+      "sentences": [
+        "The company held a focus group to get feedback on the new product.",
+        "Focus groups provide qualitative insights.",
+        "She moderated the focus group discussion."
+      ]
+    },
+    {
+      "word": "Sample size",
+      "pronunciation": "/ˈsæmpl saɪz/",
+      "definition": "The number of observations or individuals included in a sample.",
+      "sentences": [
+        "A larger sample size often leads to more reliable results.",
+        "The study had a small sample size.",
+        "Determine the appropriate sample size for your research."
+      ]
+    },
+    {
+      "word": "Bias",
+      "pronunciation": "/ˈbaɪəs/",
+      "definition": "Prejudice in favor of or against one thing, person, or group compared with another, usually in a way considered to be unfair.",
+      "sentences": [
+        "Try to avoid bias in your research.",
+        "The survey results showed a clear bias.",
+        "Recognizing your own bias is important."
+      ]
+    },
+    {
+      "word": "Validity",
+      "pronunciation": "/vəˈlɪdəti/",
+      "definition": "The quality of being logically or factually sound; soundness or cogency.",
+      "sentences": [
+        "The experiment's validity was questioned.",
+        "Ensure the validity of your research methods.",
+        "The test has high statistical validity."
+      ]
+    },
+    {
+      "word": "Reliability",
+      "pronunciation": "/rɪˌlaɪəˈbɪləti/",
+      "definition": "The quality of being trustworthy or of performing consistently well.",
+      "sentences": [
+        "The data showed high reliability.",
+        "Ensure the reliability of your measurement tools.",
+        "A good experiment has both validity and reliability."
+      ]
+    },
+    {
+      "word": "Replication",
+      "pronunciation": "/ˌrɛplɪˈkeɪʃn/",
+      "definition": "The action of copying or reproducing something.",
+      "sentences": [
+        "Scientists often perform replication to confirm results.",
+        "The study's findings need independent replication.",
+        "Replication is a cornerstone of scientific method."
+      ]
+    },
+    {
+      "word": "Peer-reviewed",
+      "pronunciation": "/pɪər rɪˈvjuːd/",
+      "definition": "Having been evaluated by a group of experts in the same field.",
+      "sentences": [
+        "Only peer-reviewed articles are published in this journal.",
+        "Peer-reviewed research is considered more credible.",
+        "She submitted her paper to a peer-reviewed journal."
+      ]
+    },
+    {
+      "word": "Open access",
+      "pronunciation": "/ˈoʊpən ˈæksɛs/",
+      "definition": "The practice of providing unrestricted access to peer-reviewed scholarly research.",
+      "sentences": [
+        "Many journals now offer open access to their articles.",
+        "Open access makes research available to everyone.",
+        "She prefers publishing in open access journals."
+      ]
+    },
+    {
+      "word": "Citation index",
+      "pronunciation": "/saɪˈteɪʃn ˈɪndɛks/",
+      "definition": "An index of publications in which each entry is accompanied by a list of all the publications that have cited it.",
+      "sentences": [
+        "The citation index helps track the impact of research.",
+        "He used the citation index to find related articles.",
+        "A high citation index indicates influential work."
+      ]
+    },
+    {
+      "word": "Impact factor",
+      "pronunciation": "/ˈɪmpækt ˈfæktər/",
+      "definition": "A measure of the frequency with which the average article in a journal has been cited in a particular year.",
+      "sentences": [
+        "The journal has a high impact factor.",
+        "Researchers often aim to publish in journals with a good impact factor.",
+        "The impact factor reflects a journal's influence."
+      ]
+    },
+    {
+      "word": "Grant proposal",
+      "pronunciation": "/ɡrænt prəˈpoʊzl/",
+      "definition": "A document written to request financial support for a project or research.",
+      "sentences": [
+        "She submitted a grant proposal for her new study.",
+        "Writing a successful grant proposal requires skill.",
+        "The committee reviewed all the grant proposals."
+      ]
+    },
+    {
+      "word": "Funding agency",
+      "pronunciation": "/ˈfʌndɪŋ ˈeɪdʒənsi/",
+      "definition": "An organization that provides financial support for research or projects.",
+      "sentences": [
+        "The research received money from a government funding agency.",
+        "She applied to several funding agencies.",
+        "The funding agency supports innovative research."
+      ]
+    },
+    {
+      "word": "Ethics committee",
+      "pronunciation": "/ˈɛθɪks kəˈmɪti/",
+      "definition": "A committee that reviews research proposals to ensure they meet ethical guidelines.",
+      "sentences": [
+        "All research involving human subjects must be approved by the ethics committee.",
+        "The ethics committee ensures patient safety.",
+        "She presented her research plan to the ethics committee."
+      ]
+    },
+    {
+      "word": "Informed consent",
+      "pronunciation": "/ɪnˈfɔːrmd kənˈsɛnt/",
+      "definition": "Permission granted in the knowledge of the possible consequences, typically that which is given by a patient to a doctor for treatment with full knowledge of the possible risks and benefits.",
+      "sentences": [
+        "Researchers must obtain informed consent from participants.",
+        "Informed consent is a crucial ethical principle in research.",
+        "The document explained the study to ensure informed consent."
+      ]
+    },
+    {
+      "word": "Confidentiality",
+      "pronunciation": "/ˌkɑːnfɪˌdɛnʃiˈæləti/",
+      "definition": "The state of keeping or being kept secret or private.",
+      "sentences": [
+        "Participant data is protected by strict confidentiality.",
+        "Researchers must ensure the confidentiality of their subjects.",
+        "Maintaining confidentiality builds trust."
+      ]
+    },
+    {
+      "word": "Anonymity",
+      "pronunciation": "/ˌænəˈnɪməti/",
+      "definition": "The condition of being anonymous.",
+      "sentences": [
+        "Some surveys offer complete anonymity to participants.",
+        "Researchers often guarantee anonymity to encourage honest responses.",
+        "The data was collected with full anonymity."
+      ]
+    },
+    {
+      "word": "Scientific method",
+      "pronunciation": "/saɪənˈtɪfɪk ˈmɛθəd/",
+      "definition": "A method of procedure that has characterized natural science since the 17th century, consisting in systematic observation, measurement, and experiment, and the formulation, testing, and modification of hypotheses.",
+      "sentences": [
+        "The scientific method is the foundation of all scientific inquiry.",
+        "Students learn the steps of the scientific method.",
+        "Following the scientific method ensures reliable results."
+      ]
+    },
+    {
+      "word": "Observation",
+      "pronunciation": "/ˌɑːbzərˈveɪʃn/",
+      "definition": "The action or process of observing something or someone carefully or in order to gain information.",
+      "sentences": [
+        "Careful observation is key in scientific study.",
+        "The teacher encouraged scientific observation.",
+        "Her detailed observations were recorded."
+      ]
+    },
+    {
+      "word": "Hypothesis",
+      "pronunciation": "/haɪˈpɑːθəsɪs/",
+      "definition": "An idea or guess that is not yet proven, but is used as a starting point for research.",
+      "sentences": [
+        "We formed a hypothesis before starting the experiment.",
+        "His hypothesis was that plants need light to grow.",
+        "A good hypothesis can be tested."
+      ]
+    },
+    {
+      "word": "Experimentation",
+      "pronunciation": "/ɪkˌspɛrɪmɛnˈteɪʃn/",
+      "definition": "The process of performing scientific experiments.",
+      "sentences": [
+        "Experimentation is crucial for scientific discovery.",
+        "The lab is dedicated to cutting-edge experimentation.",
+        "Through careful experimentation, they confirmed their theory."
+      ]
+    },
+    {
+      "word": "Data collection",
+      "pronunciation": "/ˈdeɪtə kəˈlɛkʃn/",
+      "definition": "The process of gathering and measuring information on targeted variables in an established systematic fashion.",
+      "sentences": [
+        "The first step in research is data collection.",
+        "They used surveys for their data collection.",
+        "Accurate data collection is essential for valid results."
+      ]
+    },
+    {
+      "word": "Data analysis",
+      "pronunciation": "/ˈdeɪtə əˈnæləsɪs/",
+      "definition": "The process of inspecting, cleansing, transforming, and modeling data with the goal of discovering useful information, informing conclusions, and supporting decision-making.",
+      "sentences": [
+        "After data collection, the next step is data analysis.",
+        "He used software for his data analysis.",
+        "Effective data analysis reveals insights."
+      ]
+    },
+    {
+      "word": "Interpretation",
+      "pronunciation": "/ɪnˌtɜːrprɪˈteɪʃn/",
+      "definition": "The action of explaining the meaning of something.",
+      "sentences": [
+        "The interpretation of the results was complex.",
+        "Different scientists may have different interpretations of the data.",
+        "Her interpretation of the ancient text was insightful."
+      ]
+    },
+    {
+      "word": "Conclusion",
+      "pronunciation": "/kənˈkluːʒn/",
+      "definition": "A judgment or decision reached after careful thought.",
+      "sentences": [
+        "What conclusion did you draw from the experiment?",
+        "The report presented a clear conclusion.",
+        "In conclusion, the results support our hypothesis."
+      ]
+    },
+    {
+      "word": "Scientific theory",
+      "pronunciation": "/saɪənˈtɪfɪk ˈθɪəri/",
+      "definition": "A well-substantiated explanation of some aspect of the natural world, based on a body of facts that have been repeatedly confirmed through observation and experiment.",
+      "sentences": [
+        "Evolution is a widely accepted scientific theory.",
+        "A scientific theory is supported by a lot of evidence.",
+        "The new findings strengthen the existing scientific theory."
+      ]
+    },
+    {
+      "word": "Law (scientific)",
+      "pronunciation": "/lɔː/",
+      "definition": "A statement of fact, deduced from observation, to the effect that a particular natural or scientific phenomenon always occurs if certain conditions are present.",
+      "sentences": [
+        "Newton's laws of motion are fundamental scientific laws.",
+        "A scientific law describes what happens, not why.",
+        "The law of conservation of energy is a key principle."
+      ]
+    },
+    {
+      "word": "Principle",
+      "pronunciation": "/ˈprɪnsəpl/",
+      "definition": "A fundamental truth or proposition that serves as the foundation for a system of belief or behavior or for a chain of reasoning.",
+      "sentences": [
+        "The experiment demonstrated a basic scientific principle.",
+        "He explained the underlying principles of physics.",
+        "Adhere to ethical principles in research."
+      ]
+    },
+    {
+      "word": "Model",
+      "pronunciation": "/ˈmɑːdl/",
+      "definition": "A simplified representation of a system or phenomenon, often used to understand or predict its behavior.",
+      "sentences": [
+        "Scientists use mathematical models to predict climate change.",
+        "The teacher used a physical model of the solar system.",
+        "Building a model helps visualize complex ideas."
+      ]
+    },
+    {
+      "word": "Simulation",
+      "pronunciation": "/ˌsɪmjuˈleɪʃn/",
+      "definition": "The imitation of the operation of a real-world process or system over time.",
+      "sentences": [
+        "They used computer simulation to test the design.",
+        "Flight simulators train pilots.",
+        "The simulation showed how the virus might spread."
+      ]
+    },
+    {
+      "word": "Hypothesis generation",
+      "pronunciation": "/haɪˈpɑːθəsɪs ˌdʒɛnəˈreɪʃn/",
+      "definition": "The process of forming a testable explanation for an observation.",
+      "sentences": [
+        "The first step in research is often hypothesis generation.",
+        "Brainstorming helps with hypothesis generation.",
+        "Effective hypothesis generation leads to fruitful research."
+      ]
+    },
+    {
+      "word": "Peer collaboration",
+      "pronunciation": "/pɪər kəˌlæbəˈreɪʃn/",
+      "definition": "Working together with colleagues or individuals of similar standing.",
+      "sentences": [
+        "Peer collaboration is common in scientific research.",
+        "The project benefited from strong peer collaboration.",
+        "Encourage peer collaboration among students."
+      ]
+    },
+    {
+      "word": "Research question",
+      "pronunciation": "/rɪˈsɜːrtʃ ˈkwɛstʃən/",
+      "definition": "A clear, focused, concise, complex, and arguable question around which you center your research.",
+      "sentences": [
+        "Formulating a good research question is essential.",
+        "The study aimed to answer a specific research question.",
+        "Her research question guided the entire project."
+      ]
+    },
+    {
+      "word": "Literature review",
+      "pronunciation": "/ˈlɪtərətʃər rɪˈvjuː/",
+      "definition": "A comprehensive summary of scholarly articles, books, and other sources relevant to a particular area of research.",
+      "sentences": [
+        "He started his thesis by conducting a literature review.",
+        "A good literature review identifies gaps in existing knowledge.",
+        "Her literature review was very thorough."
+      ]
+    },
+    {
+      "word": "Methodology section",
+      "pronunciation": "/ˌmɛθəˈdɑːlədʒi ˈsɛkʃn/",
+      "definition": "The part of a research paper that describes how the research was conducted.",
+      "sentences": [
+        "The methodology section explained the experimental design.",
+        "Clearly describe your procedures in the methodology section.",
+        "The methodology section helps others replicate the study."
+      ]
+    },
+    {
+      "word": "Discussion section",
+      "pronunciation": "/dɪˈskʌʃn ˈsɛkʃn/",
+      "definition": "The part of a research paper where the meaning and implications of the results are interpreted.",
+      "sentences": [
+        "The discussion section explains what the results mean.",
+        "He elaborated on his findings in the discussion section.",
+        "The discussion section connects the results to existing theories."
+      ]
+    },
+    {
+      "word": "Limitations",
+      "pronunciation": "/ˌlɪmɪˈteɪʃnz/",
+      "definition": "A restricting condition or a lack of ability.",
+      "sentences": [
+        "All studies have certain limitations.",
+        "The researchers acknowledged the limitations of their study.",
+        "Understanding the limitations helps interpret the results."
+      ]
+    },
+    {
+      "word": "Future research",
+      "pronunciation": "/ˈfjuːtʃər rɪˈsɜːrtʃ/",
+      "definition": "Areas of study or questions that could be explored in subsequent studies.",
+      "sentences": [
+        "The paper suggests several avenues for future research.",
+        "His findings open up new possibilities for future research.",
+        "What are the implications for future research?"
+      ]
+    },
+    {
+      "word": "Bibliography",
+      "pronunciation": "/ˌbɪbliˈɑːɡrəfi/",
+      "definition": "A list of the books referred to in a scholarly work.",
+      "sentences": [
+        "Include a bibliography at the end of your research paper.",
+        "The bibliography lists all the sources used.",
+        "She spent hours compiling the bibliography."
+      ]
+    },
+    {
+      "word": "Appendix",
+      "pronunciation": "/əˈpɛndɪks/",
+      "definition": "A section or table of additional matter at the end of a book or document.",
+      "sentences": [
+        "The raw data is available in the appendix.",
+        "Check the appendix for the full questionnaire.",
+        "The appendix provides supplementary information."
+      ]
+    },
+    {
+      "word": "Footnote",
+      "pronunciation": "/ˈfʊtˌnoʊt/",
+      "definition": "A note at the bottom of a page, giving further information or a reference.",
+      "sentences": [
+        "The author added a footnote to explain the term.",
+        "Check the footnote for the source of the quote.",
+        "Some academic papers use many footnotes."
+      ]
+    },
+    {
+      "word": "Endnote",
+      "pronunciation": "/ˈɛndˌnoʊt/",
+      "definition": "A note printed at the end of a book or section of a book, rather than at the bottom of the page.",
+      "sentences": [
+        "All the references were listed in the endnotes.",
+        "The book included detailed endnotes.",
+        "You can find more information in the endnote section."
+      ]
+    },
+    {
+      "word": "Primary source",
+      "pronunciation": "/ˈpraɪməri sɔːrs/",
+      "definition": "An original document or firsthand account.",
+      "sentences": [
+        "Letters and diaries are examples of primary sources.",
+        "Historians often rely on primary sources for research.",
+        "The old photograph was a valuable primary source."
+      ]
+    },
+    {
+      "word": "Secondary source",
+      "pronunciation": "/ˈsɛkənˌdɛri sɔːrs/",
+      "definition": "A document or recording that relates or discusses information originally presented elsewhere.",
+      "sentences": [
+        "Textbooks and encyclopedias are often secondary sources.",
+        "She used a secondary source for background information.",
+        "Analyzing secondary sources helps to understand different perspectives."
+      ]
+    },
+    {
+      "word": "Empirical",
+      "pronunciation": "/ɪmˈpɪrɪkl/",
+      "definition": "Based on, concerned with, or verifiable by observation or experience rather than theory or pure logic.",
+      "sentences": [
+        "The study provided strong empirical evidence.",
+        "Empirical research relies on direct observation.",
+        "Her findings were based on empirical data."
+      ]
+    },
+    {
+      "word": "Theoretical",
+      "pronunciation": "/ˌθɪəˈrɛtɪkl/",
+      "definition": "Concerned with the theories or hypotheses rather than the practical application of a subject.",
+      "sentences": [
+        "He developed a new theoretical model.",
+        "The research focused on the theoretical aspects of the problem.",
+        "It's a purely theoretical concept for now."
+      ]
+    },
+    {
+      "word": "Quantitative data",
+      "pronunciation": "/ˈkwɑːntɪˌteɪtɪv ˈdeɪtə/",
+      "definition": "Numerical data that can be measured or counted.",
+      "sentences": [
+        "The survey collected a lot of quantitative data.",
+        "Charts and graphs are used to display quantitative data.",
+        "Statistical analysis is applied to quantitative data."
+      ]
+    },
+    {
+      "word": "Qualitative data",
+      "pronunciation": "/ˈkwɑːlɪˌteɪtɪv ˈdeɪtə/",
+      "definition": "Descriptive data that is observed rather than measured.",
+      "sentences": [
+        "Interviews provide rich qualitative data.",
+        "She analyzed the themes in the qualitative data.",
+        "Qualitative data helps understand experiences and meanings."
+      ]
+    },
+    {
+      "word": "Hypothesis-driven",
+      "pronunciation": "/haɪˈpɑːθəsɪs ˈdrɪvn/",
+      "definition": "Guided by a specific hypothesis or set of hypotheses.",
+      "sentences": [
+        "The research adopted a hypothesis-driven approach.",
+        "A hypothesis-driven study aims to test specific predictions.",
+        "His work is highly hypothesis-driven."
+      ]
+    },
+    {
+      "word": "Data-driven",
+      "pronunciation": "/ˈdeɪtə ˈdrɪvn/",
+      "definition": "Determined by or dependent on data.",
+      "sentences": [
+        "Decisions should be data-driven.",
+        "The company uses a data-driven approach to marketing.",
+        "His research is highly data-driven."
+      ]
+    },
+    {
+      "word": "Evidence-based",
+      "pronunciation": "/ˈɛvɪdəns beɪst/",
+      "definition": "Based on or supported by factual information.",
+      "sentences": [
+        "Doctors practice evidence-based medicine.",
+        "The policy decisions are evidence-based.",
+        "She uses an evidence-based approach in her teaching."
+      ]
+    },
+    {
+      "word": "Scientific literacy",
+      "pronunciation": "/saɪənˈtɪfɪk ˈlɪtərəsi/",
+      "definition": "The knowledge and understanding of scientific concepts and processes required for personal decision-making, participation in civic and cultural affairs, and economic productivity.",
+      "sentences": [
+        "Promoting scientific literacy is important for all citizens.",
+        "The goal is to improve public scientific literacy.",
+        "A good education fosters scientific literacy."
+      ]
+    },
+    {
+      "word": "Critical thinking",
+      "pronunciation": "/ˈkrɪtɪkl ˈθɪŋkɪŋ/",
+      "definition": "The objective analysis and evaluation of an issue in order to form a judgment.",
+      "sentences": [
+        "Developing critical thinking skills is essential for scientists.",
+        "The debate helped us practice critical thinking.",
+        "Teachers encourage critical thinking in students."
+      ]
+    },
+    {
+      "word": "Problem-solving",
+      "pronunciation": "/ˈprɑːbləm ˈsɑːlvɪŋ/",
+      "definition": "The process of finding solutions to difficult or complex issues.",
+      "sentences": [
+        "Science often involves complex problem-solving.",
+        "We used teamwork for problem-solving.",
+        "Good problem-solving is important in research."
+      ]
+    },
+    {
+      "word": "Curiosity",
+      "pronunciation": "/ˌkjʊriˈɑːsəti/",
+      "definition": "A strong desire to know or learn something.",
+      "sentences": [
+        "Scientific curiosity drives new discoveries.",
+        "Encourage children's natural curiosity.",
+        "Her curiosity led her to explore new topics."
+      ]
+    },
+    {
+      "word": "Inquiry",
+      "pronunciation": "/ˈɪnkwəri/",
+      "definition": "An act of asking for information.",
+      "sentences": [
+        "Learning through inquiry helps deep understanding.",
+        "The student made an inquiry about the research project.",
+        "Scientific inquiry is a continuous process."
+      ]
+    },
+    {
+      "word": "Discovery",
+      "pronunciation": "/dɪˈskʌvəri/",
+      "definition": "The act of finding something new.",
+      "sentences": [
+        "Science is full of exciting discoveries.",
+        "Learning is a journey of discovery.",
+        "The new archaeological discovery was important."
+      ]
+    },
+    {
+      "word": "Breakthrough",
+      "pronunciation": "/ˈbreɪkˌθruː/",
+      "definition": "A sudden, dramatic, and important discovery or development.",
+      "sentences": [
+        "Scientists announced a major breakthrough in cancer treatment.",
+        "The new invention was a technological breakthrough.",
+        "Every breakthrough opens new doors for research."
+      ]
+    },
+    {
+      "word": "Paradigm",
+      "pronunciation": "/ˈpærəˌdaɪm/",
+      "definition": "A typical example or pattern of something; a model.",
+      "sentences": [
+        "The new theory represented a shift in the scientific paradigm.",
+        "His work challenged the existing paradigm.",
+        "A change in paradigm can revolutionize a field."
+      ]
+    },
+    {
+      "word": "Replication crisis",
+      "pronunciation": "/ˌrɛplɪˈkeɪʃn ˈkraɪsɪs/",
+      "definition": "A methodological crisis in science in which scientists have found that the results of many scientific studies are difficult or impossible to reproduce.",
+      "sentences": [
+        "The field is currently addressing the replication crisis.",
+        "The replication crisis highlights the importance of rigorous methods.",
+        "Efforts are being made to overcome the replication crisis."
+      ]
+    },
+    {
+      "word": "Open science",
+      "pronunciation": "/ˈoʊpən ˈsaɪəns/",
+      "definition": "The movement to make scientific research and its dissemination accessible to all levels of an inquiring society, amateur or professional.",
+      "sentences": [
+        "Open science promotes transparency and collaboration.",
+        "Many researchers are advocating for open science practices.",
+        "The goal of open science is to make research more accessible."
+      ]
+    },
+    {
+      "word": "Citizen science",
+      "pronunciation": "/ˈsɪtɪzn ˈsaɪəns/",
+      "definition": "Scientific research conducted, in whole or in part, by amateur or nonprofessional scientists.",
+      "sentences": [
+        "The bird-watching project is an example of citizen science.",
+        "Citizen science allows the public to contribute to research.",
+        "Many environmental studies rely on citizen science data."
+      ]
+    },
+    {
+      "word": "Science communication",
+      "pronunciation": "/ˈsaɪəns kəˌmjuːnɪˈkeɪʃn/",
+      "definition": "The practice of informing, educating, sharing wonder, and raising engagement with science.",
+      "sentences": [
+        "Good science communication helps the public understand research.",
+        "She specializes in science communication.",
+        "Effective science communication bridges the gap between experts and the public."
+      ]
+    },
+    {
+      "word": "Public engagement",
+      "pronunciation": "/ˈpʌblɪk ɪnˈɡeɪdʒmənt/",
+      "definition": "The involvement of the public in decision-making or activities.",
+      "sentences": [
+        "Scientists are encouraged to increase their public engagement.",
+        "Public engagement with science is growing.",
+        "The museum hosts events for public engagement with research."
+      ]
+    },
+    {
+      "word": "Scientific literacy",
+      "pronunciation": "/saɪənˈtɪfɪk ˈlɪtərəsi/",
+      "definition": "The knowledge and understanding of scientific concepts and processes required for personal decision-making, participation in civic and cultural affairs, and economic productivity.",
+      "sentences": [
+        "Promoting scientific literacy is important for all citizens.",
+        "The goal is to improve public scientific literacy.",
+        "A good education fosters scientific literacy."
+      ]
+    },
+    {
+      "word": "STEM education",
+      "pronunciation": "/stɛm ˌɛdʒuˈkeɪʃn/",
+      "definition": "An educational approach that integrates Science, Technology, Engineering, and Mathematics.",
+      "sentences": [
+        "The school has a strong STEM education program.",
+        "Promoting STEM education prepares students for future careers.",
+        "Many initiatives focus on improving STEM education."
+      ]
+    },
+    {
+      "word": "STEAM education",
+      "pronunciation": "/stiːm ˌɛdʒuˈkeɪʃn/",
+      "definition": "An educational approach that integrates Science, Technology, Engineering, Arts, and Mathematics.",
+      "sentences": [
+        "The school now includes arts in its STEAM education initiatives.",
+        "STEAM education combines creativity with technical skills.",
+        "The new project is part of the school's STEAM education focus."
+      ]
+    },
+    {
+      "word": "Lab equipment",
+      "pronunciation": "/læb ɪˈkwɪpmənt/",
+      "definition": "Tools and apparatus used in a laboratory.",
+      "sentences": [
+        "The new lab equipment is very advanced.",
+        "Handle all lab equipment carefully.",
+        "The school invested in modern lab equipment."
+      ]
+    },
+    {
+      "word": "Beaker",
+      "pronunciation": "/ˈbiːkər/",
+      "definition": "A flat-bottomed cylindrical container, usually with a pouring lip, used in laboratories.",
+      "sentences": [
+        "Pour the liquid into the beaker.",
+        "The chemist used a glass beaker.",
+        "The beaker contained a colorful solution."
+      ]
+    },
+    {
+      "word": "Test tube",
+      "pronunciation": "/tɛst tuːb/",
+      "definition": "A thin glass tube closed at one end, used in chemistry and biology for holding small amounts of liquids or for heating.",
+      "sentences": [
+        "Put the sample in the test tube.",
+        "The scientist filled several test tubes.",
+        "Hold the test tube with a clamp."
+      ]
+    },
+    {
+      "word": "Microscope slide",
+      "pronunciation": "/ˈmaɪkrəˌskoʊp slaɪd/",
+      "definition": "A small flat rectangular piece of glass on which specimens are mounted for microscopic examination.",
+      "sentences": [
+        "Place the specimen on the microscope slide.",
+        "She prepared a new microscope slide.",
+        "View the cells on the microscope slide."
+      ]
+    },
+    {
+      "word": "Bunsen burner",
+      "pronunciation": "/ˈbʌnsən ˈbɜːrnər/",
+      "definition": "A small adjustable gas burner used in laboratories.",
+      "sentences": [
+        "Light the Bunsen burner carefully.",
+        "We used a Bunsen burner to heat the solution.",
+        "Adjust the flame of the Bunsen burner."
+      ]
+    },
+    {
+      "word": "Safety goggles",
+      "pronunciation": "/ˈseɪfti ˈɡɑːɡlz/",
+      "definition": "Protective eyewear that encloses or protects the area surrounding the eye in order to prevent particulates, water or chemicals from striking the eyes.",
+      "sentences": [
+        "Always wear safety goggles in the lab.",
+        "The teacher reminded us to put on our safety goggles.",
+        "Your safety goggles protect your eyes."
+      ]
+    },
+    {
+      "word": "Gloves",
+      "pronunciation": "/ɡlʌvz/",
+      "definition": "A covering for the hand worn for protection against cold or dirt and typically having separate sheaths for each finger and the thumb.",
+      "sentences": [
+        "Wear gloves when handling chemicals.",
+        "The doctor put on sterile gloves.",
+        "These gloves protect your hands."
+      ]
+    },
+    {
+      "word": "Lab coat",
+      "pronunciation": "/læb koʊt/",
+      "definition": "A white coat worn by scientists and medical professionals in a laboratory or clinical setting.",
+      "sentences": [
+        "Put on your lab coat before entering the lab.",
+        "The lab coat protects your clothes from spills.",
+        "She always wears a clean lab coat."
+      ]
+    },
+    {
+      "word": "Chemical",
+      "pronunciation": "/ˈkɛmɪkl/",
+      "definition": "A distinct compound or substance, especially one which has been purified or prepared artificially.",
+      "sentences": [
+        "Be careful when mixing chemicals.",
+        "The experiment involved several different chemicals.",
+        "Some chemicals can be dangerous."
+      ]
+    },
+    {
+      "word": "Solution",
+      "pronunciation": "/səˈluːʃn/",
+      "definition": "A liquid mixture in which the minor component (the solute) is uniformly distributed within the major component (the solvent).",
+      "sentences": [
+        "Pour the solution into the beaker.",
+        "The experiment required a precise solution.",
+        "The blue solution changed color."
+      ]
+    },
+    {
+      "word": "Mixture",
+      "pronunciation": "/ˈmɪkstʃər/",
+      "definition": "A substance made by mixing other substances together.",
+      "sentences": [
+        "The experiment involved creating a new mixture.",
+        "The salad is a colorful mixture of vegetables.",
+        "Oil and water form an immiscible mixture."
+      ]
+    },
+    {
+      "word": "Element",
+      "pronunciation": "/ˈɛlɪmənt/",
+      "definition": "A substance that cannot be chemically broken down into simpler substances.",
+      "sentences": [
+        "Oxygen is a chemical element.",
+        "The periodic table lists all the known elements.",
+        "Gold is a precious element."
+      ]
+    },
+    {
+      "word": "Compound",
+      "pronunciation": "/ˈkɑːmpaʊnd/",
+      "definition": "A substance formed when two or more chemical elements are chemically bonded together.",
+      "sentences": [
+        "Water is a chemical compound of hydrogen and oxygen.",
+        "Salt is a common compound.",
+        "He studied organic compounds."
+      ]
+    },
+    {
+      "word": "Molecule",
+      "pronunciation": "/ˈmɑːlɪˌkjuːl/",
+      "definition": "A group of atoms bonded together, representing the smallest fundamental unit of a chemical compound that can take part in a chemical reaction.",
+      "sentences": [
+        "Water is made of H2O molecules.",
+        "Scientists study the structure of molecules.",
+        "A single drop of water contains billions of molecules."
+      ]
+    },
+    {
+      "word": "Atom",
+      "pronunciation": "/ˈætəm/",
+      "definition": "The basic unit of a chemical element.",
+      "sentences": [
+        "Everything is made up of tiny atoms.",
+        "An atom consists of protons, neutrons, and electrons.",
+        "Scientists can split an atom."
+      ]
+    },
+    {
+      "word": "Proton",
+      "pronunciation": "/ˈproʊtɑːn/",
+      "definition": "A stable subatomic particle occurring in all atomic nuclei, with a positive electric charge equal in magnitude to that of an electron.",
+      "sentences": [
+        "The nucleus of an atom contains protons and neutrons.",
+        "A proton has a positive charge.",
+        "The number of protons determines the element."
+      ]
+    },
+    {
+      "word": "Neutron",
+      "pronunciation": "/ˈnuːtrɑːn/",
+      "definition": "A subatomic particle of about the same mass as a proton but without an electric charge, present in all atomic nuclei except those of ordinary hydrogen.",
+      "sentences": [
+        "Neutrons are found in the nucleus of an atom.",
+        "A neutron has no electric charge.",
+        "The number of neutrons can vary in isotopes."
+      ]
+    },
+    {
+      "word": "Electron",
+      "pronunciation": "/ɪˈlɛktrɑːn/",
+      "definition": "A stable subatomic particle with a negative electric charge, found in all atoms and acting as the primary carrier of electricity in solids.",
+      "sentences": [
+        "Electrons orbit the nucleus of an atom.",
+        "An electron has a negative charge.",
+        "The flow of electrons creates electricity."
+      ]
+    },
+    {
+      "word": "Cell",
+      "pronunciation": "/sɛl/",
+      "definition": "The smallest structural and functional unit of an organism, typically microscopic and consisting of cytoplasm and a nucleus enclosed in a membrane.",
+      "sentences": [
+        "All living things are made of cells.",
+        "We looked at plant cells under the microscope.",
+        "Blood cells carry oxygen."
+      ]
+    },
+    {
+      "word": "Organism",
+      "pronunciation": "/ˈɔːrɡəˌnɪzəm/",
+      "definition": "An individual animal, plant, or single-celled life form.",
+      "sentences": [
+        "A bacterium is a single-celled organism.",
+        "Scientists study different types of organisms.",
+        "Every living organism needs energy."
+      ]
+    },
+    {
+      "word": "Ecosystem",
+      "pronunciation": "/ˈiːkoʊˌsɪstəm/",
+      "definition": "A biological community of interacting organisms and their physical environment.",
+      "sentences": [
+        "The rainforest is a complex ecosystem.",
+        "Pollution can harm an ecosystem.",
+        "Scientists study how different parts of an ecosystem interact."
+      ]
+    },
+    {
+      "word": "Habitat",
+      "pronunciation": "/ˈhæbɪˌtæt/",
+      "definition": "The natural home or environment of an animal, plant, or other organism.",
+      "sentences": [
+        "The forest is the natural habitat of many animals.",
+        "Loss of habitat threatens many species.",
+        "The polar bear's habitat is the Arctic."
+      ]
+    },
+    {
+      "word": "Species",
+      "pronunciation": "/ˈspiːʃiːz/",
+      "definition": "A group of living organisms consisting of similar individuals capable of exchanging genes or interbreeding.",
+      "sentences": [
+        "There are many different species of birds.",
+        "Scientists discover new species every year.",
+        "Protecting endangered species is important."
+      ]
+    },
+    {
+      "word": "Evolution",
+      "pronunciation": "/ˌɛvəˈluːʃn/",
+      "definition": "The process by which different kinds of living organisms are thought to have developed and diversified from earlier forms during the history of the earth.",
+      "sentences": [
+        "The evolution of humans took millions of years.",
+        "Darwin's theory of evolution is widely accepted.",
+        "Understanding evolution helps us understand life on Earth."
+      ]
+    },
+    {
+      "word": "Genetics",
+      "pronunciation": "/dʒɪˈnɛtɪks/",
+      "definition": "The study of heredity and the variation of inherited characteristics.",
+      "sentences": [
+        "She is researching the genetics of rare diseases.",
+        "Genetics plays a role in many health conditions.",
+        "The field of genetics is rapidly advancing."
+      ]
+    },
+    {
+      "word": "DNA",
+      "pronunciation": "/ˌdiː ɛn ˈeɪ/",
+      "definition": "Deoxyribonucleic acid, a self-replicating material present in nearly all living organisms as the main constituent of chromosomes. It is the carrier of genetic information.",
+      "sentences": [
+        "Our bodies contain DNA in every cell.",
+        "Scientists can analyze DNA to identify individuals.",
+        "The structure of DNA was a major discovery."
+      ]
+    },
+    {
+      "word": "Gene",
+      "pronunciation": "/dʒiːn/",
+      "definition": "A unit of heredity that is transferred from a parent to offspring and is held to determine some characteristic of the offspring.",
+      "sentences": [
+        "Some diseases are caused by faulty genes.",
+        "Scientists are studying how different genes work.",
+        "Each gene carries specific instructions."
+      ]
+    },
+    {
+      "word": "Chromosome",
+      "pronunciation": "/ˈkroʊməˌsoʊm/",
+      "definition": "A threadlike structure of nucleic acids and protein found in the nucleus of most living cells, carrying genetic information in the form of genes.",
+      "sentences": [
+        "Humans have 23 pairs of chromosomes.",
+        "Chromosomes carry our genetic material.",
+        "Scientists can map chromosomes."
+      ]
+    },
+    {
+      "word": "Biology",
+      "pronunciation": "/baɪˈɑːlədʒi/",
+      "definition": "The study of living organisms.",
+      "sentences": [
+        "We learned about plants and animals in biology class.",
+        "She is studying marine biology.",
+        "Biology is a fascinating subject."
+      ]
+    },
+    {
+      "word": "Chemistry",
+      "pronunciation": "/ˈkɛmɪstri/",
+      "definition": "The branch of science concerned with the substances of which matter is composed, the investigation of their properties and reactions, and the use of such reactions to form new substances.",
+      "sentences": [
+        "We mix chemicals in chemistry class.",
+        "She is studying organic chemistry.",
+        "Chemistry helps us understand how materials interact."
+      ]
+    },
+    {
+      "word": "Physics",
+      "pronunciation": "/ˈfɪzɪks/",
+      "definition": "The branch of science concerned with the nature and properties of matter and energy.",
+      "sentences": [
+        "We learned about forces and motion in physics class.",
+        "He is studying theoretical physics.",
+        "Physics explains the fundamental laws of the universe."
+      ]
+    },
+    {
+      "word": "Astronomy",
+      "pronunciation": "/əˈstrɑːnəmi/",
+      "definition": "The branch of science that deals with celestial objects, space, and the physical universe as a whole.",
+      "sentences": [
+        "He is interested in astronomy and space.",
+        "We studied planets and stars in astronomy class.",
+        "Astronomy is an ancient science."
+      ]
+    },
+    {
+      "word": "Geology",
+      "pronunciation": "/dʒiˈɑːlədʒi/",
+      "definition": "The science that deals with the earth's physical structure and substance, its history, and the processes that act on it.",
+      "sentences": [
+        "We learned about rocks and volcanoes in geology class.",
+        "She is studying the geology of the mountains.",
+        "Geology helps us understand Earth's past."
+      ]
+    },
+    {
+      "word": "Ecology",
+      "pronunciation": "/ɪˈkɑːlədʒi/",
+      "definition": "The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+      "sentences": [
+        "He studies the ecology of rainforests.",
+        "Ecology helps us understand environmental issues.",
+        "The course covers various aspects of ecology."
+      ]
+    },
+    {
+      "word": "Meteorology",
+      "pronunciation": "/ˌmiːtiəˈrɑːlədʒi/",
+      "definition": "The branch of science concerned with the processes and phenomena of the atmosphere, especially as a means of forecasting the weather.",
+      "sentences": [
+        "He studies meteorology to predict weather patterns.",
+        "Meteorology is important for understanding climate.",
+        "The TV weather report is based on meteorology."
+      ]
+    },
+    {
+      "word": "Oceanography",
+      "pronunciation": "/ˌoʊʃəˈnɑːɡrəfi/",
+      "definition": "The branch of science that deals with the physical and biological properties and phenomena of the sea.",
+      "sentences": [
+        "She is studying marine life in oceanography.",
+        "Oceanography helps us understand the oceans.",
+        "He is a professor of oceanography."
+      ]
+    },
+    {
+      "word": "Paleontology",
+      "pronunciation": "/ˌpeɪliɑːnˈtɑːlədʒi/",
+      "definition": "The branch of science concerned with fossil animals and plants.",
+      "sentences": [
+        "He studies dinosaurs in paleontology.",
+        "Paleontology helps us learn about ancient life.",
+        "She dreams of becoming a paleontologist."
+      ]
+    },
+    {
+      "word": "Anthropology",
+      "pronunciation": "/ˌænθrəˈpɑːlədʒi/",
+      "definition": "The study of humanity.",
+      "sentences": [
+        "She studies human cultures in anthropology.",
+        "Anthropology explores human societies and their development.",
+        "He is an expert in cultural anthropology."
+      ]
+    },
+    {
+      "word": "Psychology",
+      "pronunciation": "/saɪˈkɑːlədʒi/",
+      "definition": "The scientific study of the human mind and its functions, especially those affecting behavior in a given context.",
+      "sentences": [
+        "He is studying psychology to understand human behavior.",
+        "Psychology helps us understand thoughts and emotions.",
+        "She works as a clinical psychologist."
+      ]
+    },
+    {
+      "word": "Sociology",
+      "pronunciation": "/ˌsoʊsiˈɑːlədʒi/",
+      "definition": "The study of the development, structure, and functioning of human society.",
+      "sentences": [
+        "She is studying social groups in sociology.",
+        "Sociology helps us understand society and its problems.",
+        "He is a professor of sociology."
+      ]
+    },
+    {
+      "word": "Economics",
+      "pronunciation": "/ˌiːkəˈnɑːmɪks/",
+      "definition": "The branch of knowledge concerned with the production, consumption, and transfer of wealth.",
+      "sentences": [
+        "He studies how societies manage resources in economics.",
+        "Economics helps us understand markets and prices.",
+        "She is an expert in international economics."
+      ]
+    },
+    {
+      "word": "Statistics",
+      "pronunciation": "/stəˈtɪstɪks/",
+      "definition": "The practice or science of collecting and analyzing numerical data in large quantities, especially for the purpose of inferring proportions in a whole from those in a representative sample.",
+      "sentences": [
+        "He uses statistics to analyze data.",
+        "Statistics helps us make sense of numbers.",
+        "The report presented various statistics."
+      ]
+    },
+    {
+      "word": "Algorithm",
+      "pronunciation": "/ˈælɡəˌrɪðəm/",
+      "definition": "A process or set of rules to be followed in calculations or other problem-solving operations, especially by a computer.",
+      "sentences": [
+        "The computer program uses a complex algorithm.",
+        "He designed a new algorithm for data sorting.",
+        "Understanding the algorithm helps in coding."
+      ]
+    },
+    {
+      "word": "Data science",
+      "pronunciation": "/ˈdeɪtə ˈsaɪəns/",
+      "definition": "An interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from structured and unstructured data.",
+      "sentences": [
+        "She is studying data science to work with big data.",
+        "Data science combines statistics, computer science, and domain knowledge.",
+        "The field of data science is growing rapidly."
+      ]
+    },
+    {
+      "word": "Artificial intelligence (AI)",
+      "pronunciation": "/ˌɑːrtɪˈfɪʃl ɪnˈtɛlɪdʒəns/",
+      "definition": "The theory and development of computer systems able to perform tasks that normally require human intelligence.",
+      "sentences": [
+        "AI is used in many modern technologies.",
+        "He is researching the future of artificial intelligence.",
+        "AI can help solve complex problems."
+      ]
+    },
+    {
+      "word": "Machine learning",
+      "pronunciation": "/məˈʃiːn ˈlɜːrnɪŋ/",
+      "definition": "The scientific study of algorithms and statistical models that computer systems use to perform a specific task without using explicit instructions, relying on patterns and inference instead.",
+      "sentences": [
+        "Machine learning is a subset of AI.",
+        "He uses machine learning to analyze large datasets.",
+        "Machine learning models can learn from data."
+      ]
+    },
+    {
+      "word": "Robotics",
+      "pronunciation": "/roʊˈbɑːtɪks/",
+      "definition": "The branch of technology that deals with the design, construction, operation, and application of robots.",
+      "sentences": [
+        "He is studying robotics in engineering school.",
+        "Robotics is used in manufacturing.",
+        "The new factory uses advanced robotics."
+      ]
+    },
+    {
+      "word": "Biotechnology",
+      "pronunciation": "/ˌbaɪoʊtɛkˈnɑːlədʒi/",
+      "definition": "The exploitation of biological processes for industrial and other purposes, especially the genetic manipulation of microorganisms for the production of antibiotics, hormones, etc.",
+      "sentences": [
+        "Biotechnology is used to create new medicines.",
+        "The company is a leader in biotechnology research.",
+        "Advances in biotechnology have transformed healthcare."
+      ]
+    },
+    {
+      "word": "Nanotechnology",
+      "pronunciation": "/ˌnænoʊtɛkˈnɑːlədʒi/",
+      "definition": "The branch of technology that deals with dimensions and tolerances of less than 100 nanometers, especially the manipulation of individual atoms and molecules.",
+      "sentences": [
+        "Nanotechnology has potential in many fields.",
+        "Researchers are exploring the uses of nanotechnology in medicine.",
+        "The future of materials science may involve nanotechnology."
+      ]
+    },
+    {
+      "word": "Quantum physics",
+      "pronunciation": "/ˈkwɑːntəm ˈfɪzɪks/",
+      "definition": "The branch of physics that deals with the behavior of matter and light on an atomic and subatomic level.",
+      "sentences": [
+        "Quantum physics explains the behavior of tiny particles.",
+        "He is a theoretical physicist specializing in quantum physics.",
+        "Understanding quantum physics is challenging."
+      ]
+    },
+    {
+      "word": "Astrophysics",
+      "pronunciation": "/ˌæstroʊˈfɪzɪks/",
+      "definition": "The branch of astronomy concerned with the physical nature of stars and other celestial bodies, and the application of the laws and theories of physics to the interpretation of astronomical phenomena.",
+      "sentences": [
+        "She studies black holes in astrophysics.",
+        "Astrophysics combines astronomy and physics.",
+        "He is a leading expert in astrophysics."
+      ]
+    },
+    {
+      "word": "Neuroscience",
+      "pronunciation": "/ˌnʊroʊˈsaɪəns/",
+      "definition": "Any of the sciences that deal with the structure or function of the nervous system and brain.",
+      "sentences": [
+        "He studies the brain in neuroscience.",
+        "Neuroscience helps us understand how the brain works.",
+        "Advances in neuroscience are rapid."
+      ]
+    },
+    {
+      "word": "Genomics",
+      "pronunciation": "/dʒɪˈnoʊmɪks/",
+      "definition": "The branch of molecular biology concerned with the structure, function, evolution, and mapping of genomes.",
+      "sentences": [
+        "Genomics is revolutionizing medicine.",
+        "She works in cancer genomics research.",
+        "The field of genomics is rapidly expanding."
+      ]
+    },
+    {
+      "word": "Bioinformatics",
+      "pronunciation": "/ˌbaɪoʊɪnfərˈmætɪks/",
+      "definition": "The application of computer technology to the management and analysis of biological data.",
+      "sentences": [
+        "Bioinformatics is essential for analyzing large biological datasets.",
+        "He uses bioinformatics tools in his research.",
+        "She is studying bioinformatics in graduate school."
+      ]
+    },
+    {
+      "word": "Climate science",
+      "pronunciation": "/ˈklaɪmət ˈsaɪəns/",
+      "definition": "The scientific study of climate, including its causes, changes, and effects.",
+      "sentences": [
+        "Climate science helps us understand global warming.",
+        "He is a researcher in climate science.",
+        "The latest findings from climate science are concerning."
+      ]
+    },
+    {
+      "word": "Environmental science",
+      "pronunciation": "/ɪnˌvaɪrənˈmɛntl ˈsaɪəns/",
+      "definition": "The study of how natural systems work and how humans interact with them.",
+      "sentences": [
+        "She studies pollution in environmental science.",
+        "Environmental science addresses issues like conservation.",
+        "He has a degree in environmental science."
+      ]
+    },
+    {
+      "word": "Sustainable development",
+      "pronunciation": "/səˌsteɪnəbl dɪˈvɛləpmənt/",
+      "definition": "Development that meets the needs of the present without compromising the ability of future generations to meet their own needs.",
+      "sentences": [
+        "The project focuses on sustainable development.",
+        "Sustainable development balances economic growth with environmental protection.",
+        "She is an advocate for sustainable development."
+      ]
+    },
+    {
+      "word": "Renewable energy",
+      "pronunciation": "/rɪˈnuːəbl ˈɛnərdʒi/",
+      "definition": "Energy from a source that is not depleted when used, such as wind or solar power.",
+      "sentences": [
+        "Solar panels generate renewable energy.",
+        "Investing in renewable energy is important for the future.",
+        "Many countries are shifting to renewable energy sources."
+      ]
+    },
+    {
+      "word": "Fossil fuels",
+      "pronunciation": "/ˈfɑːsl fjuːəlz/",
+      "definition": "Natural fuel such as coal or gas, formed in the geological past from the remains of living organisms.",
+      "sentences": [
+        "Burning fossil fuels contributes to climate change.",
+        "Oil and coal are examples of fossil fuels.",
+        "Reducing reliance on fossil fuels is a global goal."
+      ]
+    },
+    {
+      "word": "Greenhouse gases",
+      "pronunciation": "/ˈɡriːnˌhaʊs ˈɡæsɪz/",
+      "definition": "Gases in Earth's atmosphere that trap heat.",
+      "sentences": [
+        "Carbon dioxide is a major greenhouse gas.",
+        "Reducing greenhouse gases is crucial to combat climate change.",
+        "The report highlighted the increase in greenhouse gases."
+      ]
+    },
+    {
+      "word": "Climate change",
+      "pronunciation": "/ˈklaɪmət tʃeɪndʒ/",
+      "definition": "A long-term change in the average weather patterns that characterize the Earth's local, regional, and global climates.",
+      "sentences": [
+        "Climate change is a serious global issue.",
+        "Scientists are studying the effects of climate change.",
+        "We need to take action to address climate change."
+      ]
+    },
+    {
+      "word": "Global warming",
+      "pronunciation": "/ˈɡloʊbl ˈwɔːrmɪŋ/",
+      "definition": "A gradual increase in the overall temperature of the earth's atmosphere generally attributed to the greenhouse effect caused by increased levels of carbon dioxide, CFCs, and other pollutants.",
+      "sentences": [
+        "Global warming is causing polar ice caps to melt.",
+        "Reducing emissions helps fight global warming.",
+        "The effects of global warming are becoming more evident."
+      ]
+    },
+    {
+      "word": "Pollution",
+      "pronunciation": "/pəˈluːʃn/",
+      "definition": "The presence in or introduction into the environment of a substance or thing that has harmful or poisonous effects.",
+      "sentences": [
+        "Air pollution is a problem in many cities.",
+        "Factories cause a lot of pollution.",
+        "We need to reduce plastic pollution."
+      ]
+    },
+    {
+      "word": "Conservation",
+      "pronunciation": "/ˌkɑːnsərˈveɪʃn/",
+      "definition": "The protection of animals, plants, and natural resources.",
+      "sentences": [
+        "Wildlife conservation is very important.",
+        "She works in environmental conservation.",
+        "Water conservation helps save resources."
+      ]
+    },
+    {
+      "word": "Biodiversity",
+      "pronunciation": "/ˌbaɪoʊdaɪˈvɜːrsəti/",
+      "definition": "The variety of life in the world or in a particular habitat or ecosystem.",
+      "sentences": [
+        "Protecting biodiversity is crucial for healthy ecosystems.",
+        "The rainforest has high biodiversity.",
+        "Loss of biodiversity is a major concern."
+      ]
+    },
+    {
+      "word": "Ecology",
+      "pronunciation": "/ɪˈkɑːlədʒi/",
+      "definition": "The branch of biology that deals with the relations of organisms to one another and to their physical surroundings.",
+      "sentences": [
+        "He studies the ecology of rainforests.",
+        "Ecology helps us understand environmental issues.",
+        "The course covers various aspects of ecology."
+      ]
+    },
+    {
+      "word": "Sustainability",
+      "pronunciation": "/səˌsteɪnəˈbɪləti/",
+      "definition": "The ability to be maintained at a certain rate or level.",
+      "sentences": [
+        "The company focuses on environmental sustainability.",
+        "Economic sustainability is crucial for long-term growth.",
+        "They are working towards greater sustainability in their operations."
+      ]
+    },
+    {
+      "word": "Research ethics",
+      "pronunciation": "/rɪˈsɜːrtʃ ˈɛθɪks/",
+      "definition": "The moral principles guiding research, especially concerning human subjects and data handling.",
+      "sentences": [
+        "All studies must adhere to strict research ethics.",
+        "The university has a committee for research ethics.",
+        "Understanding research ethics is vital for all scientists."
+      ]
+    },
+    {
+      "word": "Scientific integrity",
+      "pronunciation": "/saɪənˈtɪfɪk ɪnˈtɛɡrəti/",
+      "definition": "Adherence to ethical principles and professional standards in scientific research and reporting.",
+      "sentences": [
+        "Maintaining scientific integrity is crucial for credible research.",
+        "The journal emphasizes scientific integrity in all submissions.",
+        "A breach of scientific integrity can damage a researcher's reputation."
+      ]
+    },
+    {
+      "word": "Data privacy",
+      "pronunciation": "/ˈdeɪtə ˈpraɪvəsi/",
+      "definition": "The right of individuals to control their personal information.",
+      "sentences": [
+        "Ensuring data privacy is essential in research involving human subjects.",
+        "New regulations aim to protect data privacy.",
+        "The company prioritizes customer data privacy."
+      ]
+    },
+    {
+      "word": "Open data",
+      "pronunciation": "/ˈoʊpən ˈdeɪtə/",
+      "definition": "Data that can be freely used, re-used and redistributed by anyone.",
+      "sentences": [
+        "Many scientific journals encourage sharing open data.",
+        "Open data promotes transparency and reproducibility in research.",
+        "The government launched a portal for open data."
+      ]
+    },
+    {
+      "word": "Reproducibility",
+      "pronunciation": "/rɪˌproʊdjuːsəˈbɪləti/",
+      "definition": "The ability of a scientific experiment or study to be replicated by others, yielding consistent results.",
+      "sentences": [
+        "Ensuring reproducibility is a key goal in scientific research.",
+        "The lack of reproducibility is a concern in some fields.",
+        "Scientists strive for high reproducibility in their experiments."
+      ]
+    },
+    {
+      "word": "Falsifiability",
+      "pronunciation": "/ˌfɔːlsɪfaɪəˈbɪləti/",
+      "definition": "The capacity for a statement, theory, or hypothesis to be contradicted by evidence.",
+      "sentences": [
+        "A scientific hypothesis must have falsifiability.",
+        "The concept of falsifiability is central to the scientific method.",
+        "Without falsifiability, a theory cannot be truly scientific."
+      ]
+    },
+    {
+      "word": "Peer review process",
+      "pronunciation": "/pɪər rɪˈvjuː ˈprɑːsɛs/",
+      "definition": "The evaluation of scientific, academic, or professional work by others working in the same field.",
+      "sentences": [
+        "The article went through a rigorous peer review process.",
+        "The peer review process helps maintain quality in publications.",
+        "Understanding the peer review process is important for authors."
+      ]
+    },
+    {
+      "word": "Scientific community",
+      "pronunciation": "/saɪənˈtɪfɪk kəˈmjuːnɪti/",
+      "definition": "The body of all scientists, their relationships and interactions.",
+      "sentences": [
+        "The new discovery was welcomed by the scientific community.",
+        "The scientific community collaborates on global challenges.",
+        "He is a respected member of the scientific community."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,4570 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which word is a noun?",
+          "options": ["Run", "Happy", "Book", "Slowly"],
+          "correct_answer": "Book",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct article: I saw ___ eagle in the sky.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "An",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 3,
+          "question": "She ___ a beautiful song.",
+          "options": ["sing", "sings", "singing", "sang"],
+          "correct_answer": "sings",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 4,
+          "question": "What is the plural of 'boy'?",
+          "options": ["Boyes", "Boys", "Boies", "Boy's"],
+          "correct_answer": "Boys",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 5,
+          "question": "The cat is sleeping ___ the table.",
+          "options": ["in", "on", "under", "at"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 6,
+          "question": "___ are my friends.",
+          "options": ["He", "She", "They", "It"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 7,
+          "question": "This is a ___ dress.",
+          "options": ["beauty", "beautiful", "beautifully", "beautify"],
+          "correct_answer": "beautiful",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 8,
+          "question": "My father is ___ doctor.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 9,
+          "question": "The dogs ___ barking.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 10,
+          "question": "Which one is a verb?",
+          "options": ["Table", "Jump", "Red", "Happily"],
+          "correct_answer": "Jump",
+          "grammar_type": "Verbs"
+        },
+        {
+          "id": 11,
+          "question": "The book is ___ the bag.",
+          "options": ["in", "on", "at", "with"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 12,
+          "question": "What is the plural of 'leaf'?",
+          "options": ["Leafs", "Leaves", "Leafes", "Leavs"],
+          "correct_answer": "Leaves",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 13,
+          "question": "___ is my brother.",
+          "options": ["They", "We", "He", "You"],
+          "correct_answer": "He",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 14,
+          "question": "I have ___ orange.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 15,
+          "question": "The sun ___ in the east.",
+          "options": ["rise", "rises", "rising", "rose"],
+          "correct_answer": "rises",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 16,
+          "question": "He is an ___ man.",
+          "options": ["honest", "honesty", "honestly", "honor"],
+          "correct_answer": "honest",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 17,
+          "question": "We are going ___ school.",
+          "options": ["to", "at", "in", "on"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 18,
+          "question": "What is the plural of 'woman'?",
+          "options": ["Womans", "Woman's", "Womens", "Women"],
+          "correct_answer": "Women",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 19,
+          "question": "This is ___ book.",
+          "options": ["I", "my", "me", "mine"],
+          "correct_answer": "my",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 20,
+          "question": "A cow ___ us milk.",
+          "options": ["give", "gives", "giving", "gave"],
+          "correct_answer": "gives",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 21,
+          "question": "Which word describes a person, place, or thing?",
+          "options": ["Verb", "Adjective", "Noun", "Adverb"],
+          "correct_answer": "Noun",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 22,
+          "question": "The sky is ___.",
+          "options": ["blue", "bluely", "blueness", "bluer"],
+          "correct_answer": "blue",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 23,
+          "question": "I live ___ India.",
+          "options": ["at", "on", "in", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 24,
+          "question": "What is the plural of 'mouse'?",
+          "options": ["Mouses", "Mice", "Mices", "Mouse"],
+          "correct_answer": "Mice",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 25,
+          "question": "___ am a student.",
+          "options": ["He", "She", "I", "You"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 26,
+          "question": "Birds ___ in the sky.",
+          "options": ["fly", "flies", "flying", "flew"],
+          "correct_answer": "fly",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 27,
+          "question": "He drives his car ___.",
+          "options": ["slow", "slower", "slowly", "slowness"],
+          "correct_answer": "slowly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 28,
+          "question": "She is sitting ___ a chair.",
+          "options": ["in", "on", "at", "with"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 29,
+          "question": "I need ___ water.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "no article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 30,
+          "question": "What is the plural of 'child'?",
+          "options": ["Childs", "Childrens", "Children", "Childes"],
+          "correct_answer": "Children",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 31,
+          "question": "The elephant is a ___ animal.",
+          "options": ["big", "bigger", "biggest", "bigly"],
+          "correct_answer": "big",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 32,
+          "question": "He ___ to school every day.",
+          "options": ["go", "goes", "going", "gone"],
+          "correct_answer": "goes",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 33,
+          "question": "The stars shine ___ night.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 34,
+          "question": "This pen is ___.",
+          "options": ["her", "she", "hers", "her's"],
+          "correct_answer": "hers",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 35,
+          "question": "What is the plural of 'foot'?",
+          "options": ["Foots", "Feets", "Footes", "Feet"],
+          "correct_answer": "Feet",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 36,
+          "question": "I eat ___ apple every day.",
+          "options": ["a", "an", "the", "some"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 37,
+          "question": "My sister and I ___ playing.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 38,
+          "question": "Which word shows an action?",
+          "options": ["Happy", "Sing", "House", "Quickly"],
+          "correct_answer": "Sing",
+          "grammar_type": "Verbs"
+        },
+        {
+          "id": 39,
+          "question": "The boy is standing ___ the tree.",
+          "options": ["in", "on", "behind", "at"],
+          "correct_answer": "behind",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 40,
+          "question": "What is the plural of 'potato'?",
+          "options": ["Potatos", "Potatoes", "Potato's", "Potatoe"],
+          "correct_answer": "Potatoes",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 41,
+          "question": "The flower smells ___.",
+          "options": ["sweet", "sweetly", "sweetness", "sweeter"],
+          "correct_answer": "sweet",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 42,
+          "question": "The cat ___ milk.",
+          "options": ["drink", "drinks", "drinking", "drank"],
+          "correct_answer": "drinks",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 43,
+          "question": "He is hiding ___ the door.",
+          "options": ["on", "at", "behind", "in"],
+          "correct_answer": "behind",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 44,
+          "question": "___ is a sunny day.",
+          "options": ["He", "She", "It", "They"],
+          "correct_answer": "It",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 45,
+          "question": "What is the plural of 'man'?",
+          "options": ["Mans", "Men", "Man's", "Mens"],
+          "correct_answer": "Men",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 46,
+          "question": "Can you see ___ moon?",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 47,
+          "question": "I ___ happy.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Verbs (to be)"
+        },
+        {
+          "id": 48,
+          "question": "The girl sings ___.",
+          "options": ["sweet", "sweeter", "sweetly", "sweetness"],
+          "correct_answer": "sweetly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 49,
+          "question": "The books are ___ the shelf.",
+          "options": ["in", "on", "at", "under"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 50,
+          "question": "What is the plural of 'goose'?",
+          "options": ["Gooses", "Geese", "Goose", "Geeses"],
+          "correct_answer": "Geese",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 51,
+          "question": "My school is ___ our house.",
+          "options": ["near", "on", "at", "in"],
+          "correct_answer": "near",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 52,
+          "question": "He is ___ honest boy.",
+          "options": ["a", "an", "the", "some"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 53,
+          "question": "We ___ from India.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs (to be)"
+        },
+        {
+          "id": 54,
+          "question": "This is a ___ story.",
+          "options": ["interest", "interesting", "interested", "interestingly"],
+          "correct_answer": "interesting",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 55,
+          "question": "What is the plural of 'fish'?",
+          "options": ["Fishes", "Fishs", "Fish", "Fishez"],
+          "correct_answer": "Fish",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 56,
+          "question": "The dog is loyal ___ its owner.",
+          "options": ["to", "for", "with", "at"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 57,
+          "question": "She gave ___ a gift.",
+          "options": ["I", "my", "me", "mine"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 58,
+          "question": "Each of the students ___ a book.",
+          "options": ["have", "has", "having", "is have"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 59,
+          "question": "He works ___.",
+          "options": ["hard", "hardly", "hardness", "harder"],
+          "correct_answer": "hard",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 60,
+          "question": "What is the plural of 'deer'?",
+          "options": ["Deers", "Deeres", "Deer", "Deer's"],
+          "correct_answer": "Deer",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 61,
+          "question": "The meeting will be ___ Monday.",
+          "options": ["in", "at", "on", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 62,
+          "question": "___ is your name?",
+          "options": ["Who", "What", "When", "Where"],
+          "correct_answer": "What",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 63,
+          "question": "You ___ very kind.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs (to be)"
+        },
+        {
+          "id": 64,
+          "question": "The train arrived ___.",
+          "options": ["late", "lately", "lateness", "later"],
+          "correct_answer": "late",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 65,
+          "question": "What is the plural of 'sheep'?",
+          "options": ["Sheeps", "Sheepes", "Sheepses", "Sheep"],
+          "correct_answer": "Sheep",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 66,
+          "question": "I am waiting ___ the bus stop.",
+          "options": ["in", "on", "at", "for"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 67,
+          "question": "This is ___ house.",
+          "options": ["they", "their", "them", "theirs"],
+          "correct_answer": "their",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 68,
+          "question": "One of my friends ___ coming.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 69,
+          "question": "She speaks English ___.",
+          "options": ["good", "well", "better", "best"],
+          "correct_answer": "well",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 70,
+          "question": "What is the plural of 'tooth'?",
+          "options": ["Tooths", "Teeths", "Teeth", "Tooth"],
+          "correct_answer": "Teeth",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 71,
+          "question": "He is afraid ___ dogs.",
+          "options": ["of", "from", "with", "about"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 72,
+          "question": "___ are you going?",
+          "options": ["Who", "What", "When", "Where"],
+          "correct_answer": "Where",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 73,
+          "question": "The news ___ interesting.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 74,
+          "question": "The tortoise walks ___.",
+          "options": ["slow", "slower", "slowly", "slowness"],
+          "correct_answer": "slowly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 75,
+          "question": "What is the plural of 'person'?",
+          "options": ["Persons", "Peoples", "People", "Person's"],
+          "correct_answer": "People",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 76,
+          "question": "The class starts ___ 9 a.m.",
+          "options": ["in", "on", "at", "from"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 77,
+          "question": "Please give this to ___.",
+          "options": ["he", "his", "him", "he's"],
+          "correct_answer": "him",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 78,
+          "question": "The quality of the apples ___ not good.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 79,
+          "question": "It is a ___ day.",
+          "options": ["sun", "sunny", "sunnily", "sunnier"],
+          "correct_answer": "sunny",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 80,
+          "question": "What is the plural of 'cactus'?",
+          "options": ["Cactuses", "Cacti", "Cactis", "Cactus"],
+          "correct_answer": "Cacti",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 81,
+          "question": "She is good ___ mathematics.",
+          "options": ["in", "at", "on", "with"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 82,
+          "question": "___ old is your grandfather?",
+          "options": ["What", "How", "When", "Which"],
+          "correct_answer": "How",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 83,
+          "question": "Neither of the two boys ___ present.",
+          "options": ["was", "were", "are", "be"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 84,
+          "question": "The soldier fought ___.",
+          "options": ["brave", "bravely", "bravery", "braver"],
+          "correct_answer": "bravely",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 85,
+          "question": "What is the plural of 'ox'?",
+          "options": ["Oxes", "Oxen", "Oxs", "Ox's"],
+          "correct_answer": "Oxen",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 86,
+          "question": "I will see you ___ the evening.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 87,
+          "question": "The cat is washing ___ paws.",
+          "options": ["it's", "its", "it", "its'"],
+          "correct_answer": "its",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 88,
+          "question": "A pair of scissors ___ on the table.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 89,
+          "question": "That is a very ___ building.",
+          "options": ["tall", "taller", "tallest", "tally"],
+          "correct_answer": "tall",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 90,
+          "question": "What is the plural of 'crisis'?",
+          "options": ["Crisises", "Crisi", "Crises", "Crisis"],
+          "correct_answer": "Crises",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 91,
+          "question": "He is married ___ my cousin.",
+          "options": ["with", "to", "by", "at"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 92,
+          "question": "___ is knocking at the door?",
+          "options": ["Who", "What", "Which", "Whom"],
+          "correct_answer": "Who",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 93,
+          "question": "The jury ___ divided in their opinion.",
+          "options": ["was", "were", "is", "has"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 94,
+          "question": "The story is ___ written.",
+          "options": ["good", "well", "better", "best"],
+          "correct_answer": "well",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 95,
+          "question": "What is the plural of 'analysis'?",
+          "options": ["Analysises", "Analyses", "Analysis", "Analysi"],
+          "correct_answer": "Analyses",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 96,
+          "question": "The train goes ___ the tunnel.",
+          "options": ["through", "across", "over", "in"],
+          "correct_answer": "through",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 97,
+          "question": "Can you help ___?",
+          "options": ["we", "our", "us", "ours"],
+          "correct_answer": "us",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 98,
+          "question": "Bread and butter ___ my favorite breakfast.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 99,
+          "question": "The children are playing ___ in the garden.",
+          "options": ["happy", "happier", "happily", "happiness"],
+          "correct_answer": "happily",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 100,
+          "question": "What is the plural of 'fungus'?",
+          "options": ["Funguses", "Fungi", "Fungis", "Fungus"],
+          "correct_answer": "Fungi",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 101,
+          "question": "Choose the correct punctuation: The boy shouted stop",
+          "options": [".", ",", "!", "?"],
+          "correct_answer": "!",
+          "grammar_type": "Punctuation"
+        },
+        {
+          "id": 102,
+          "question": "I have ___ pet dog.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 103,
+          "question": "The teacher ___ us a lesson.",
+          "options": ["teach", "teaches", "teaching", "is teach"],
+          "correct_answer": "teaches",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 104,
+          "question": "Which sentence is correct?",
+          "options": ["She is a girl good.", "She a good girl is.", "She is a good girl.", "A good girl she is."],
+          "correct_answer": "She is a good girl.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 105,
+          "question": "The cat is sitting ___ the mat.",
+          "options": ["on", "in", "at", "with"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 106,
+          "question": "___ is your mother.",
+          "options": ["He", "She", "They", "It"],
+          "correct_answer": "She",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 107,
+          "question": "The giraffe has a ___ neck.",
+          "options": ["long", "longer", "longest", "longly"],
+          "correct_answer": "long",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 108,
+          "question": "I saw ___ old man.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 109,
+          "question": "You and he ___ friends.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 110,
+          "question": "Which one is a place?",
+          "options": ["School", "Read", "Green", "Quickly"],
+          "correct_answer": "School",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 111,
+          "question": "The keys are ___ the table.",
+          "options": ["in", "on", "at", "with"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 112,
+          "question": "What is the plural of 'bus'?",
+          "options": ["Buses", "Busses", "Bus's", "Bus"],
+          "correct_answer": "Buses",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 113,
+          "question": "Give the book to ___.",
+          "options": ["they", "their", "them", "theirs"],
+          "correct_answer": "them",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 114,
+          "question": "He wants ___ ice cream.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 115,
+          "question": "The baby ___ crying.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 116,
+          "question": "The lion is a ___ animal.",
+          "options": ["wild", "wildly", "wildness", "wilder"],
+          "correct_answer": "wild",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 117,
+          "question": "The birds are flying ___ the trees.",
+          "options": ["over", "under", "in", "at"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 118,
+          "question": "What is the plural of 'fox'?",
+          "options": ["Fox", "Fox's", "Foxes", "Foxen"],
+          "correct_answer": "Foxes",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 119,
+          "question": "This bag is ___.",
+          "options": ["I", "my", "me", "mine"],
+          "correct_answer": "mine",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 120,
+          "question": "Fish ___ in water.",
+          "options": ["live", "lives", "living", "is live"],
+          "correct_answer": "live",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 121,
+          "question": "Which word is a color?",
+          "options": ["Walk", "Red", "Chair", "Softly"],
+          "correct_answer": "Red",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 122,
+          "question": "The boy is ___.",
+          "options": ["tall", "taller", "tallest", "tally"],
+          "correct_answer": "tall",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 123,
+          "question": "The party is ___ Saturday.",
+          "options": ["at", "on", "in", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 124,
+          "question": "What is the plural of 'city'?",
+          "options": ["Citys", "Cities", "City's", "Citiez"],
+          "correct_answer": "Cities",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 125,
+          "question": "___ are playing football.",
+          "options": ["He", "She", "We", "It"],
+          "correct_answer": "We",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 126,
+          "question": "A baker ___ bread.",
+          "options": ["bake", "bakes", "baking", "is bake"],
+          "correct_answer": "bakes",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 127,
+          "question": "The rabbit runs ___.",
+          "options": ["fast", "fastly", "faster", "fastest"],
+          "correct_answer": "fast",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 128,
+          "question": "He was born ___ 2005.",
+          "options": ["in", "on", "at", "with"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 129,
+          "question": "I need ___ pen.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 130,
+          "question": "What is the plural of 'knife'?",
+          "options": ["Knifes", "Knive", "Knives", "Knife's"],
+          "correct_answer": "Knives",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 131,
+          "question": "The coffee is ___.",
+          "options": ["hot", "hotly", "hotness", "hotter"],
+          "correct_answer": "hot",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 132,
+          "question": "The children ___ laughing.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 133,
+          "question": "I am going ___ the market.",
+          "options": ["to", "at", "in", "on"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 134,
+          "question": "That car is ___.",
+          "options": ["our", "we", "us", "ours"],
+          "correct_answer": "ours",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 135,
+          "question": "What is the plural of 'shelf'?",
+          "options": ["Shelfs", "Shelves", "Shelfes", "Shelve"],
+          "correct_answer": "Shelves",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 136,
+          "question": "She is ___ university student.",
+          "options": ["a", "an", "the", "some"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 137,
+          "question": "Either he or his friends ___ mistaken.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 138,
+          "question": "Which word is an animal?",
+          "options": ["Run", "Tiger", "Big", "Slowly"],
+          "correct_answer": "Tiger",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 139,
+          "question": "The bridge is ___ the river.",
+          "options": ["in", "on", "across", "at"],
+          "correct_answer": "across",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 140,
+          "question": "What is the plural of 'hero'?",
+          "options": ["Heros", "Heroes", "Hero's", "Heroe"],
+          "correct_answer": "Heroes",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 141,
+          "question": "The music is too ___.",
+          "options": ["loud", "loudly", "loudness", "louder"],
+          "correct_answer": "loud",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 142,
+          "question": "The man ___ fast.",
+          "options": ["run", "runs", "running", "is run"],
+          "correct_answer": "runs",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 143,
+          "question": "The cat jumped ___ the wall.",
+          "options": ["on", "at", "over", "in"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 144,
+          "question": "___ are you crying?",
+          "options": ["Why", "What", "Who", "Where"],
+          "correct_answer": "Why",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 145,
+          "question": "What is the plural of 'wife'?",
+          "options": ["Wifes", "Wives", "Wive", "Wife's"],
+          "correct_answer": "Wives",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 146,
+          "question": "___ Ganga is a holy river.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 147,
+          "question": "He ___ a good boy.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Verbs (to be)"
+        },
+        {
+          "id": 148,
+          "question": "The girl speaks ___.",
+          "options": ["polite", "politer", "politely", "politeness"],
+          "correct_answer": "politely",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 149,
+          "question": "I agree ___ you.",
+          "options": ["to", "with", "on", "by"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 150,
+          "question": "What is the plural of 'life'?",
+          "options": ["Lifes", "Lives", "Life's", "Live"],
+          "correct_answer": "Lives",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 151,
+          "question": "The train is ___ the station.",
+          "options": ["near", "on", "at", "in"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 152,
+          "question": "He is ___ M.L.A.",
+          "options": ["a", "an", "the", "some"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 153,
+          "question": "They ___ my cousins.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs (to be)"
+        },
+        {
+          "id": 154,
+          "question": "This is a ___ task.",
+          "options": ["difficulty", "difficult", "difficultly", "more difficult"],
+          "correct_answer": "difficult",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 155,
+          "question": "What is the plural of 'roof'?",
+          "options": ["Roofs", "Rooves", "Roofes", "Roof"],
+          "correct_answer": "Roofs",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 156,
+          "question": "The teacher is proud ___ her students.",
+          "options": ["of", "for", "with", "at"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 157,
+          "question": "The book belongs to ___.",
+          "options": ["she", "her", "hers", "she's"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 158,
+          "question": "Many a student ___ tried.",
+          "options": ["have", "has", "having", "is have"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 159,
+          "question": "He answered the question ___.",
+          "options": ["correct", "correctly", "correctness", "more correct"],
+          "correct_answer": "correctly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 160,
+          "question": "What is the plural of 'dwarf'?",
+          "options": ["Dwarfs", "Dwarves", "Both are correct", "Dwarve"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 161,
+          "question": "The boy fell ___ the river.",
+          "options": ["in", "into", "on", "at"],
+          "correct_answer": "into",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 162,
+          "question": "___ book is this?",
+          "options": ["Who", "Whose", "Whom", "Which"],
+          "correct_answer": "Whose",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 163,
+          "question": "The police ___ investigating the case.",
+          "options": ["is", "am", "are", "has"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 164,
+          "question": "The baby slept ___.",
+          "options": ["sound", "soundly", "soundness", "sounder"],
+          "correct_answer": "soundly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 165,
+          "question": "What is the plural of 'echo'?",
+          "options": ["Echo", "Echoes", "Echos", "Echo's"],
+          "correct_answer": "Echoes",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 166,
+          "question": "I prefer tea ___ coffee.",
+          "options": ["than", "to", "over", "from"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 167,
+          "question": "The choice is ___.",
+          "options": ["you", "your", "yours", "you's"],
+          "correct_answer": "yours",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 168,
+          "question": "The cattle ___ grazing in the field.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 169,
+          "question": "It is a ___ story.",
+          "options": ["true", "truly", "truth", "truer"],
+          "correct_answer": "true",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 170,
+          "question": "What is the plural of 'volcano'?",
+          "options": ["Volcanos", "Volcanoes", "Both are correct", "Volcano"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 171,
+          "question": "He died ___ cholera.",
+          "options": ["of", "from", "with", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 172,
+          "question": "___ did you meet yesterday?",
+          "options": ["Who", "Whose", "Whom", "Which"],
+          "correct_answer": "Whom",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 173,
+          "question": "The committee ___ chosen its chairman.",
+          "options": ["have", "has", "are", "is"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 174,
+          "question": "She completed the work ___.",
+          "options": ["quick", "quicker", "quickly", "quickness"],
+          "correct_answer": "quickly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 175,
+          "question": "What is the plural of 'phenomenon'?",
+          "options": ["Phenomenons", "Phenomena", "Phenomenon", "Phenomeni"],
+          "correct_answer": "Phenomena",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 176,
+          "question": "The frog jumped ___ the well.",
+          "options": ["in", "on", "into", "at"],
+          "correct_answer": "into",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 177,
+          "question": "The boy hurt ___.",
+          "options": ["he", "his", "him", "himself"],
+          "correct_answer": "himself",
+          "grammar_type": "Pronouns (Reflexive)"
+        },
+        {
+          "id": 178,
+          "question": "Mathematics ___ my favorite subject.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 179,
+          "question": "The room is very ___.",
+          "options": ["clean", "cleanly", "cleanness", "cleaner"],
+          "correct_answer": "clean",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 180,
+          "question": "What is the plural of 'criterion'?",
+          "options": ["Criterions", "Criteria", "Criterion", "Criterias"],
+          "correct_answer": "Criteria",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 181,
+          "question": "Distribute the sweets ___ the two brothers.",
+          "options": ["among", "between", "in", "with"],
+          "correct_answer": "between",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 182,
+          "question": "___ of these pens is yours?",
+          "options": ["Who", "What", "Which", "Whose"],
+          "correct_answer": "Which",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 183,
+          "question": "The poet and singer ___ dead.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 184,
+          "question": "The sun shines ___.",
+          "options": ["bright", "brighter", "brightly", "brightness"],
+          "correct_answer": "brightly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 185,
+          "question": "What is the plural of 'bacterium'?",
+          "options": ["Bacteriums", "Bacteria", "Bacterium", "Bacterias"],
+          "correct_answer": "Bacteria",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 186,
+          "question": "Distribute the sweets ___ all the students.",
+          "options": ["among", "between", "in", "with"],
+          "correct_answer": "among",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 187,
+          "question": "We enjoyed ___ at the party.",
+          "options": ["we", "our", "us", "ourselves"],
+          "correct_answer": "ourselves",
+          "grammar_type": "Pronouns (Reflexive)"
+        },
+        {
+          "id": 188,
+          "question": "The poet and the singer ___ dead.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 189,
+          "question": "The test was ___.",
+          "options": ["easy", "easily", "easiness", "easier"],
+          "correct_answer": "easy",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 190,
+          "question": "What is the plural of 'datum'?",
+          "options": ["Datums", "Data", "Datas", "Datum"],
+          "correct_answer": "Data",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 191,
+          "question": "He has been absent ___ last week.",
+          "options": ["for", "since", "from", "at"],
+          "correct_answer": "since",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 192,
+          "question": "___ is the capital of France?",
+          "options": ["What", "Which", "Where", "Who"],
+          "correct_answer": "What",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 193,
+          "question": "Slow and steady ___ the race.",
+          "options": ["win", "wins", "winning", "is win"],
+          "correct_answer": "wins",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 194,
+          "question": "The wind blew ___.",
+          "options": ["gentle", "gently", "gentleness", "gentler"],
+          "correct_answer": "gently",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 195,
+          "question": "What is the plural of 'curriculum'?",
+          "options": ["Curriculums", "Curricula", "Both are correct", "Curriculum"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 196,
+          "question": "He has been living here ___ ten years.",
+          "options": ["for", "since", "from", "at"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 197,
+          "question": "The girl ___ did this is my sister.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "who",
+          "grammar_type": "Pronouns (Relative)"
+        },
+        {
+          "id": 198,
+          "question": "The captain, with all his players, ___ praised.",
+          "options": ["was", "were", "are", "be"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 199,
+          "question": "The flowers are very ___.",
+          "options": ["beauty", "beautiful", "beautifully", "beautify"],
+          "correct_answer": "beautiful",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 200,
+          "question": "What is the plural of 'syllabus'?",
+          "options": ["Syllabuses", "Syllabi", "Both are correct", "Syllabu"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 201,
+          "question": "The monkey is on the branch ___ the tree.",
+          "options": ["of", "in", "at", "for"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 202,
+          "question": "I have ___ European friend.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 203,
+          "question": "A lot of work ___ to be done.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 204,
+          "question": "Which sentence is a question?",
+          "options": ["He is a doctor.", "Is he a doctor.", "Is he a doctor?", "He is a doctor?"],
+          "correct_answer": "Is he a doctor?",
+          "grammar_type": "Punctuation"
+        },
+        {
+          "id": 205,
+          "question": "He jumped ___ the swimming pool.",
+          "options": ["in", "on", "into", "at"],
+          "correct_answer": "into",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 206,
+          "question": "She taught ___ to read.",
+          "options": ["I", "my", "me", "myself"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 207,
+          "question": "This is a ___ movie.",
+          "options": ["bore", "boring", "bored", "boringly"],
+          "correct_answer": "boring",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 208,
+          "question": "I need ___ help with my homework.",
+          "options": ["a", "an", "some", "the"],
+          "correct_answer": "some",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 209,
+          "question": "No news ___ good news.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 210,
+          "question": "Which one is a thing?",
+          "options": ["Eat", "Happy", "Chair", "Loudly"],
+          "correct_answer": "Chair",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 211,
+          "question": "The cat is hiding ___ the bed.",
+          "options": ["on", "under", "at", "with"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 212,
+          "question": "What is the plural of 'story'?",
+          "options": ["Storys", "Stories", "Story's", "Storeys"],
+          "correct_answer": "Stories",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 213,
+          "question": "The dog wags ___ tail.",
+          "options": ["it's", "its", "it", "its'"],
+          "correct_answer": "its",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 214,
+          "question": "She is ___ hour late.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 215,
+          "question": "The colour of these flowers ___ lovely.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 216,
+          "question": "He is a ___ man.",
+          "options": ["kindness", "kind", "kindly", "kinder"],
+          "correct_answer": "kind",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 217,
+          "question": "The boy is walking ___ the road.",
+          "options": ["along", "at", "in", "on top"],
+          "correct_answer": "along",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 218,
+          "question": "What is the plural of 'key'?",
+          "options": ["Key", "Key's", "Keyes", "Keys"],
+          "correct_answer": "Keys",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 219,
+          "question": "This is for ___.",
+          "options": ["you", "your", "yours", "yourself"],
+          "correct_answer": "you",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 220,
+          "question": "The team ___ ready for the match.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 221,
+          "question": "Which word describes an action?",
+          "options": ["Book", "Write", "Yellow", "Sadly"],
+          "correct_answer": "Write",
+          "grammar_type": "Verbs"
+        },
+        {
+          "id": 222,
+          "question": "The water is ___.",
+          "options": ["cold", "coldly", "coldness", "colder"],
+          "correct_answer": "cold",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 223,
+          "question": "The school is closed ___ Sunday.",
+          "options": ["at", "on", "in", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 224,
+          "question": "What is the plural of 'baby'?",
+          "options": ["Babys", "Babies", "Baby's", "Babyes"],
+          "correct_answer": "Babies",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 225,
+          "question": "___ are going to the cinema.",
+          "options": ["He", "She", "They", "It"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 226,
+          "question": "A florist ___ flowers.",
+          "options": ["sell", "sells", "selling", "is sell"],
+          "correct_answer": "sells",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 227,
+          "question": "He did the work ___.",
+          "options": ["careful", "carefully", "carefulness", "more careful"],
+          "correct_answer": "carefully",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 228,
+          "question": "The book fell ___ the table.",
+          "options": ["from", "on", "at", "with"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 229,
+          "question": "I want ___ glass of water.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 230,
+          "question": "What is the plural of 'church'?",
+          "options": ["Churchs", "Churches", "Church", "Church's"],
+          "correct_answer": "Churches",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 231,
+          "question": "The food is ___.",
+          "options": ["delicious", "deliciously", "deliciousness", "more delicious"],
+          "correct_answer": "delicious",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 232,
+          "question": "The players ___ running.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 233,
+          "question": "I will wait ___ 6 o'clock.",
+          "options": ["until", "at", "in", "on"],
+          "correct_answer": "until",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 234,
+          "question": "That house is ___.",
+          "options": ["their", "they", "them", "theirs"],
+          "correct_answer": "theirs",
+          "grammar_type": "Pronouns (Possessive)"
+        },
+        {
+          "id": 235,
+          "question": "What is the plural of 'half'?",
+          "options": ["Halfs", "Halves", "Halve", "Half's"],
+          "correct_answer": "Halves",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 236,
+          "question": "My brother is ___ engineer.",
+          "options": ["a", "an", "the", "some"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 237,
+          "question": "Neither you nor he ___ to blame.",
+          "options": ["is", "am", "are", "were"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 238,
+          "question": "Which word is a feeling?",
+          "options": ["Jump", "Sadness", "Table", "Loudly"],
+          "correct_answer": "Sadness",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 239,
+          "question": "The cat is walking ___ the wall.",
+          "options": ["in", "on", "along", "at"],
+          "correct_answer": "along",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 240,
+          "question": "What is the plural of 'elf'?",
+          "options": ["Elfs", "Elves", "Elve", "Elf's"],
+          "correct_answer": "Elves",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 241,
+          "question": "The exam was ___.",
+          "options": ["difficulty", "difficult", "difficultly", "more difficult"],
+          "correct_answer": "difficult",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 242,
+          "question": "The girl ___ well.",
+          "options": ["dance", "dances", "dancing", "is dance"],
+          "correct_answer": "dances",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 243,
+          "question": "He is sitting ___ his friend.",
+          "options": ["on", "at", "beside", "in"],
+          "correct_answer": "beside",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 244,
+          "question": "___ is your birthday?",
+          "options": ["Why", "What", "When", "Where"],
+          "correct_answer": "When",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 245,
+          "question": "What is the plural of 'thief'?",
+          "options": ["Thiefs", "Thieves", "Thieve", "Thief's"],
+          "correct_answer": "Thieves",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 246,
+          "question": "I read ___ Ramayana.",
+          "options": ["a", "an", "the", "no article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 247,
+          "question": "She ___ a beautiful voice.",
+          "options": ["have", "has", "is", "be"],
+          "correct_answer": "has",
+          "grammar_type": "Verbs (to have)"
+        },
+        {
+          "id": 248,
+          "question": "The student answered ___.",
+          "options": ["clever", "cleverer", "cleverly", "cleverness"],
+          "correct_answer": "cleverly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 249,
+          "question": "I am fond ___ music.",
+          "options": ["to", "with", "of", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 250,
+          "question": "What is the plural of 'loaf'?",
+          "options": ["Loafs", "Loaves", "Loafe", "Loaf's"],
+          "correct_answer": "Loaves",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 251,
+          "question": "The plane flew ___ the clouds.",
+          "options": ["above", "under", "in", "at"],
+          "correct_answer": "above",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 252,
+          "question": "He is ___ one-eyed man.",
+          "options": ["a", "an", "the", "some"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 253,
+          "question": "The gentry of this town ___ not invited.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 254,
+          "question": "This is an ___ chair.",
+          "options": ["comfort", "comfortable", "comfortably", "more comfortable"],
+          "correct_answer": "comfortable",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 255,
+          "question": "What is the plural of 'scarf'?",
+          "options": ["Scarfs", "Scarves", "Both are correct", "Scarve"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 256,
+          "question": "He is suffering ___ fever.",
+          "options": ["of", "from", "with", "by"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 257,
+          "question": "The girls helped ___.",
+          "options": ["they", "their", "them", "themselves"],
+          "correct_answer": "themselves",
+          "grammar_type": "Pronouns (Reflexive)"
+        },
+        {
+          "id": 258,
+          "question": "A number of students ___ absent today.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 259,
+          "question": "He shouted ___ at the man.",
+          "options": ["angry", "angrily", "anger", "angrier"],
+          "correct_answer": "angrily",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 260,
+          "question": "What is the plural of 'quiz'?",
+          "options": ["Quiz", "Quizes", "Quizzes", "Quiz's"],
+          "correct_answer": "Quizzes",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 261,
+          "question": "The river flows ___ the bridge.",
+          "options": ["over", "under", "through", "on"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 262,
+          "question": "___ is your favourite color?",
+          "options": ["Who", "What", "When", "Which"],
+          "correct_answer": "What",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 263,
+          "question": "The number of students ___ increasing.",
+          "options": ["is", "am", "are", "were"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 264,
+          "question": "The child is very ___.",
+          "options": ["playful", "playfully", "playfulness", "more playful"],
+          "correct_answer": "playful",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 265,
+          "question": "What is the plural of 'species'?",
+          "options": ["Specieses", "Speciess", "Species", "Specie"],
+          "correct_answer": "Species",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 266,
+          "question": "She is junior ___ me.",
+          "options": ["than", "to", "from", "of"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 267,
+          "question": "The cat ___ is sleeping is mine.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "which",
+          "grammar_type": "Pronouns (Relative)"
+        },
+        {
+          "id": 268,
+          "question": "The Arabian Nights ___ a famous book.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 269,
+          "question": "The teacher explained the lesson ___.",
+          "options": ["clear", "clearly", "clearness", "clearer"],
+          "correct_answer": "clearly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 270,
+          "question": "What is the plural of 'series'?",
+          "options": ["Serieses", "Seriess", "Series", "Serie"],
+          "correct_answer": "Series",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 271,
+          "question": "He sat ___ me.",
+          "options": ["to", "beside", "on", "at"],
+          "correct_answer": "beside",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 272,
+          "question": "___ did you give the book to?",
+          "options": ["Who", "Whom", "Whose", "Which"],
+          "correct_answer": "Whom",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 273,
+          "question": "All the furniture ___ new.",
+          "options": ["is", "am", "are", "were"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 274,
+          "question": "The weather is ___ today.",
+          "options": ["pleasant", "pleasantly", "pleasantness", "more pleasant"],
+          "correct_answer": "pleasant",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 275,
+          "question": "What is the plural of 'means'?",
+          "options": ["Meanses", "Meanss", "Means", "Mean"],
+          "correct_answer": "Means",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 276,
+          "question": "The work was done ___ haste.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 277,
+          "question": "I saw ___ myself in the mirror.",
+          "options": ["I", "my", "me", "myself"],
+          "correct_answer": "myself",
+          "grammar_type": "Pronouns (Reflexive)"
+        },
+        {
+          "id": 278,
+          "question": "Fifty miles ___ a long distance.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 279,
+          "question": "The bird sang ___.",
+          "options": ["sweet", "sweetly", "sweetness", "sweeter"],
+          "correct_answer": "sweetly",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 280,
+          "question": "What is the plural of 'alumnus'?",
+          "options": ["Alumnuses", "Alumni", "Alumnus", "Alumnae"],
+          "correct_answer": "Alumni",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 281,
+          "question": "He has no control ___ himself.",
+          "options": ["on", "over", "at", "in"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 282,
+          "question": "___ of the two sisters is elder?",
+          "options": ["Who", "Whom", "Which", "What"],
+          "correct_answer": "Which",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 283,
+          "question": "The scissors ___ sharp.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 284,
+          "question": "The story is ___ interesting.",
+          "options": ["very", "much", "more", "most"],
+          "correct_answer": "very",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 285,
+          "question": "What is the plural of 'apparatus'?",
+          "options": ["Apparatuses", "Apparati", "Apparatus", "Apparatu"],
+          "correct_answer": "Apparatus",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 286,
+          "question": "The boy is good ___ drawing.",
+          "options": ["in", "on", "at", "with"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 287,
+          "question": "The man ___ you met is my uncle.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "whom",
+          "grammar_type": "Pronouns (Relative)"
+        },
+        {
+          "id": 288,
+          "question": "The United States ___ a big country.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 289,
+          "question": "This is a ___ picture.",
+          "options": ["color", "colorful", "colorfully", "more colorful"],
+          "correct_answer": "colorful",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 290,
+          "question": "What is the plural of 'index'?",
+          "options": ["Indexes", "Indices", "Both are correct", "Index"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 291,
+          "question": "I am tired ___ walking.",
+          "options": ["of", "from", "with", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 292,
+          "question": "___ is the matter?",
+          "options": ["Who", "What", "When", "Where"],
+          "correct_answer": "What",
+          "grammar_type": "Question Words"
+        },
+        {
+          "id": 293,
+          "question": "The trousers you bought ___ too loose.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 294,
+          "question": "She performed ___ on stage.",
+          "options": ["beautiful", "beautifully", "beauty", "more beautiful"],
+          "correct_answer": "beautifully",
+          "grammar_type": "Adverbs"
+        },
+        {
+          "id": 295,
+          "question": "What is the plural of 'radius'?",
+          "options": ["Radiuses", "Radii", "Radius", "Radi"],
+          "correct_answer": "Radii",
+          "grammar_type": "Nouns (Plural)"
+        },
+        {
+          "id": 296,
+          "question": "The cat is fond ___ milk.",
+          "options": ["of", "for", "with", "at"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 297,
+          "question": "The house ___ roof is red is ours.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "whose",
+          "grammar_type": "Pronouns (Relative)"
+        },
+        {
+          "id": 298,
+          "question": "My spectacles ___ missing.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 299,
+          "question": "The boy is very ___.",
+          "options": ["intelligence", "intelligent", "intelligently", "more intelligent"],
+          "correct_answer": "intelligent",
+          "grammar_type": "Adjectives"
+        },
+        {
+          "id": 300,
+          "question": "What is the plural of 'axis'?",
+          "options": ["Axises", "Axes", "Axis", "Axi"],
+          "correct_answer": "Axes",
+          "grammar_type": "Nouns (Plural)"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 1,
+          "question": "She ___ to the market yesterday.",
+          "options": ["go", "goes", "gone", "went"],
+          "correct_answer": "went",
+          "grammar_type": "Tenses (Simple Past)"
+        },
+        {
+          "id": 2,
+          "question": "If you study hard, you ___ pass the exam.",
+          "options": ["would", "will", "can", "may"],
+          "correct_answer": "will",
+          "grammar_type": "Conditional Sentences (Type 1)"
+        },
+        {
+          "id": 3,
+          "question": "He said, 'I am busy.' Change to reported speech.",
+          "options": ["He said that he is busy.", "He said that he was busy.", "He said that I am busy.", "He said that he were busy."],
+          "correct_answer": "He said that he was busy.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 4,
+          "question": "You ___ finish your homework before you go out.",
+          "options": ["can", "may", "should", "would"],
+          "correct_answer": "should",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 5,
+          "question": "I have ___ my lunch.",
+          "options": ["eat", "ate", "eaten", "eating"],
+          "correct_answer": "eaten",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 6,
+          "question": "It's a beautiful day, ___?",
+          "options": ["is it", "isn't it", "was it", "wasn't it"],
+          "correct_answer": "isn't it",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 7,
+          "question": "He is working hard ___ he can succeed.",
+          "options": ["but", "so that", "or", "and"],
+          "correct_answer": "so that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 8,
+          "question": "They ___ football when I saw them.",
+          "options": ["play", "played", "were playing", "had played"],
+          "correct_answer": "were playing",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 9,
+          "question": "If I were a bird, I ___ fly.",
+          "options": ["will", "can", "would", "shall"],
+          "correct_answer": "would",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 10,
+          "question": "She asked, 'Where are you going?' Change to reported speech.",
+          "options": ["She asked where I was going.", "She asked where was I going.", "She asked where I am going.", "She asked me where you are going."],
+          "correct_answer": "She asked where I was going.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 11,
+          "question": "___ I borrow your pen, please?",
+          "options": ["Must", "Should", "May", "Would"],
+          "correct_answer": "May",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 12,
+          "question": "We ___ for the bus for an hour.",
+          "options": ["are waiting", "have been waiting", "waited", "were waiting"],
+          "correct_answer": "have been waiting",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 13,
+          "question": "You went to the party, ___?",
+          "options": ["did you", "didn't you", "do you", "don't you"],
+          "correct_answer": "didn't you",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 14,
+          "question": "Work hard, ___ you will fail.",
+          "options": ["and", "but", "or", "so"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 15,
+          "question": "The train ___ before I reached the station.",
+          "options": ["left", "had left", "was leaving", "leaves"],
+          "correct_answer": "had left",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 16,
+          "question": "If you had told me, I ___ you.",
+          "options": ["will help", "would help", "would have helped", "help"],
+          "correct_answer": "would have helped",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 17,
+          "question": "The teacher said, 'The Earth is round.' Change to reported speech.",
+          "options": ["The teacher said that the Earth was round.", "The teacher said that the Earth is round.", "The teacher said the Earth is round.", "The teacher said that the Earth has been round."],
+          "correct_answer": "The teacher said that the Earth is round.",
+          "grammar_type": "Reported Speech (Universal Truth)"
+        },
+        {
+          "id": 18,
+          "question": "You ___ not worry, everything will be fine.",
+          "options": ["must", "should", "need", "ought to"],
+          "correct_answer": "need",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 19,
+          "question": "By this time tomorrow, we ___ our destination.",
+          "options": ["will reach", "will be reaching", "will have reached", "reached"],
+          "correct_answer": "will have reached",
+          "grammar_type": "Tenses (Future Perfect)"
+        },
+        {
+          "id": 20,
+          "question": "He can't speak French, ___?",
+          "options": ["can he", "can't he", "is he", "isn't he"],
+          "correct_answer": "can he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 21,
+          "question": "___ he is poor, he is honest.",
+          "options": ["Because", "Although", "So", "If"],
+          "correct_answer": "Although",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 22,
+          "question": "Look! The bus ___.",
+          "options": ["comes", "is coming", "has come", "came"],
+          "correct_answer": "is coming",
+          "grammar_type": "Tenses (Present Continuous)"
+        },
+        {
+          "id": 23,
+          "question": "Unless you work hard, you ___ succeed.",
+          "options": ["will", "will not", "would", "would not"],
+          "correct_answer": "will not",
+          "grammar_type": "Conditional Sentences"
+        },
+        {
+          "id": 24,
+          "question": "He ordered me, 'Go away.' Change to reported speech.",
+          "options": ["He ordered me to go away.", "He ordered me that I should go away.", "He told me to go away.", "He requested me to go away."],
+          "correct_answer": "He ordered me to go away.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 25,
+          "question": "It ___ rain tonight. The sky is very cloudy.",
+          "options": ["can", "may", "must", "should"],
+          "correct_answer": "may",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 26,
+          "question": "I ___ this movie before.",
+          "options": ["see", "saw", "have seen", "am seeing"],
+          "correct_answer": "have seen",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 27,
+          "question": "Let's go for a walk, ___?",
+          "options": ["shall we", "should we", "will we", "would we"],
+          "correct_answer": "shall we",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 28,
+          "question": "He is both a singer ___ a dancer.",
+          "options": ["or", "but", "also", "and"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 29,
+          "question": "She ___ in this house since 2010.",
+          "options": ["is living", "has been living", "lived", "was living"],
+          "correct_answer": "has been living",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 30,
+          "question": "If I had money, I ___ a new car.",
+          "options": ["will buy", "would buy", "would have bought", "buy"],
+          "correct_answer": "would buy",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 31,
+          "question": "She said, 'Alas! I am ruined.' Change to reported speech.",
+          "options": ["She exclaimed with sorrow that she was ruined.", "She said with sorrow she is ruined.", "She exclaimed that she is ruined.", "She cried that she was ruined."],
+          "correct_answer": "She exclaimed with sorrow that she was ruined.",
+          "grammar_type": "Reported Speech (Exclamatory)"
+        },
+        {
+          "id": 32,
+          "question": "We ___ to respect our elders.",
+          "options": ["ought", "must", "should", "need"],
+          "correct_answer": "ought",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 33,
+          "question": "He ___ the work by next Monday.",
+          "options": ["will finish", "will be finishing", "will have finished", "finishes"],
+          "correct_answer": "will have finished",
+          "grammar_type": "Tenses (Future Perfect)"
+        },
+        {
+          "id": 34,
+          "question": "Nobody was there, ___?",
+          "options": ["was he", "wasn't he", "were they", "weren't they"],
+          "correct_answer": "were they",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 35,
+          "question": "He is not only intelligent ___ hardworking.",
+          "options": ["and", "or", "but also", "so"],
+          "correct_answer": "but also",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 36,
+          "question": "When I arrived, the party ___ already started.",
+          "options": ["has", "had", "was", "is"],
+          "correct_answer": "had",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 37,
+          "question": "Had I known, I ___ there.",
+          "options": ["would go", "would have gone", "will go", "go"],
+          "correct_answer": "would have gone",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 38,
+          "question": "The captain commanded the soldiers, 'March on.'",
+          "options": ["The captain commanded the soldiers to march on.", "The captain told the soldiers to march on.", "The captain commanded to march on.", "The captain said to the soldiers to march on."],
+          "correct_answer": "The captain commanded the soldiers to march on.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 39,
+          "question": "He ___ run very fast when he was young.",
+          "options": ["can", "could", "may", "might"],
+          "correct_answer": "could",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 40,
+          "question": "At this moment, they ___ a movie.",
+          "options": ["watch", "are watching", "have watched", "watched"],
+          "correct_answer": "are watching",
+          "grammar_type": "Tenses (Present Continuous)"
+        },
+        {
+          "id": 41,
+          "question": "Somebody has stolen my pen, ___?",
+          "options": ["hasn't he", "hasn't she", "haven't they", "hasn't it"],
+          "correct_answer": "haven't they",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 42,
+          "question": "Wait here ___ I come back.",
+          "options": ["unless", "until", "so that", "because"],
+          "correct_answer": "until",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 43,
+          "question": "I wish I ___ a king.",
+          "options": ["am", "was", "were", "be"],
+          "correct_answer": "were",
+          "grammar_type": "Subjunctive Mood"
+        },
+        {
+          "id": 44,
+          "question": "If it ___, we will cancel the trip.",
+          "options": ["rain", "rains", "rained", "is raining"],
+          "correct_answer": "rains",
+          "grammar_type": "Conditional Sentences (Type 1)"
+        },
+        {
+          "id": 45,
+          "question": "She said, 'What a beautiful sight!'",
+          "options": ["She exclaimed that it was a very beautiful sight.", "She said what a beautiful sight it was.", "She exclaimed that it is a beautiful sight.", "She told that it was a beautiful sight."],
+          "correct_answer": "She exclaimed that it was a very beautiful sight.",
+          "grammar_type": "Reported Speech (Exclamatory)"
+        },
+        {
+          "id": 46,
+          "question": "Drivers ___ wear a seatbelt.",
+          "options": ["must", "can", "may", "might"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 47,
+          "question": "He ___ for two hours when his friend arrived.",
+          "options": ["was sleeping", "had been sleeping", "slept", "is sleeping"],
+          "correct_answer": "had been sleeping",
+          "grammar_type": "Tenses (Past Perfect Continuous)"
+        },
+        {
+          "id": 48,
+          "question": "I have little time to spare, ___?",
+          "options": ["have I", "haven't I", "do I", "don't I"],
+          "correct_answer": "have I",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 49,
+          "question": "Either you ___ your brother has done it.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 50,
+          "question": "She ___ English for five years.",
+          "options": ["is studying", "has been studying", "studies", "studied"],
+          "correct_answer": "has been studying",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 51,
+          "question": "If I were you, I ___ not do that.",
+          "options": ["will", "would", "shall", "can"],
+          "correct_answer": "would",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 52,
+          "question": "He said to me, 'Please help me.'",
+          "options": ["He requested me to help him.", "He told me to help him.", "He asked me to please help him.", "He requested me that I should help him."],
+          "correct_answer": "He requested me to help him.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 53,
+          "question": "You ___ to see a doctor. You look ill.",
+          "options": ["should", "must", "ought", "need"],
+          "correct_answer": "ought",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 54,
+          "question": "This time next week, I ___ on a beach.",
+          "options": ["will lie", "will be lying", "will have lain", "lie"],
+          "correct_answer": "will be lying",
+          "grammar_type": "Tenses (Future Continuous)"
+        },
+        {
+          "id": 55,
+          "question": "Nothing is impossible, ___?",
+          "options": ["is it", "isn't it", "is nothing", "are they"],
+          "correct_answer": "is it",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 56,
+          "question": "Neither the teacher ___ the students were present.",
+          "options": ["or", "and", "nor", "but"],
+          "correct_answer": "nor",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 57,
+          "question": "I ___ him last Monday.",
+          "options": ["meet", "met", "have met", "was meeting"],
+          "correct_answer": "met",
+          "grammar_type": "Tenses (Simple Past)"
+        },
+        {
+          "id": 58,
+          "question": "Were I the Prime Minister, I ___ corruption.",
+          "options": ["will end", "would end", "would have ended", "end"],
+          "correct_answer": "would end",
+          "grammar_type": "Conditional Sentences (Inversion)"
+        },
+        {
+          "id": 59,
+          "question": "She said, 'I will do it tomorrow.'",
+          "options": ["She said that she will do it the next day.", "She said that she would do it tomorrow.", "She said that she would do it the next day.", "She said that she will do it tomorrow."],
+          "correct_answer": "She said that she would do it the next day.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 60,
+          "question": "How ___ you open my letter?",
+          "options": ["dare", "need", "must", "should"],
+          "correct_answer": "dare",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 61,
+          "question": "The earth ___ around the sun.",
+          "options": ["revolves", "is revolving", "has revolved", "revolved"],
+          "correct_answer": "revolves",
+          "grammar_type": "Tenses (Simple Present - Universal Truth)"
+        },
+        {
+          "id": 62,
+          "question": "Few people knew the answer, ___?",
+          "options": ["did they", "didn't they", "do they", "don't they"],
+          "correct_answer": "did they",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 63,
+          "question": "He ran fast ___ he missed the train.",
+          "options": ["and", "but", "so", "because"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 64,
+          "question": "She just ___ out.",
+          "options": ["went", "has gone", "had gone", "is going"],
+          "correct_answer": "has gone",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 65,
+          "question": "Should you see him, give him this message.",
+          "options": ["If you see him...", "When you see him...", "Because you see him...", "Although you see him..."],
+          "correct_answer": "If you see him...",
+          "grammar_type": "Conditional Sentences (Inversion)"
+        },
+        {
+          "id": 66,
+          "question": "My father said to me, 'Don't waste your time.'",
+          "options": ["My father advised me not to waste my time.", "My father said me not to waste my time.", "My father told me do not waste your time.", "My father advised me to not waste my time."],
+          "correct_answer": "My father advised me not to waste my time.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 67,
+          "question": "One ___ do one's duty.",
+          "options": ["must", "should", "can", "may"],
+          "correct_answer": "should",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 68,
+          "question": "The children ___ in the garden since morning.",
+          "options": ["are playing", "have been playing", "played", "were playing"],
+          "correct_answer": "have been playing",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 69,
+          "question": "Open the door, ___?",
+          "options": ["will you", "won't you", "can you", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Question Tags (Imperative)"
+        },
+        {
+          "id": 70,
+          "question": "Make hay ___ the sun shines.",
+          "options": ["while", "when", "as", "since"],
+          "correct_answer": "while",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 71,
+          "question": "It's high time you ___ your studies.",
+          "options": ["start", "started", "should start", "have started"],
+          "correct_answer": "started",
+          "grammar_type": "Subjunctive Mood"
+        },
+        {
+          "id": 72,
+          "question": "If I ___ the address, I would have gone there.",
+          "options": ["know", "knew", "had known", "have known"],
+          "correct_answer": "had known",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 73,
+          "question": "He said, 'Hurrah! We have won the match.'",
+          "options": ["He exclaimed with joy that they had won the match.", "He said with joy that they have won the match.", "He exclaimed that they won the match.", "He shouted that they had won the match."],
+          "correct_answer": "He exclaimed with joy that they had won the match.",
+          "grammar_type": "Reported Speech (Exclamatory)"
+        },
+        {
+          "id": 74,
+          "question": "I ___ rather die than beg.",
+          "options": ["would", "should", "could", "might"],
+          "correct_answer": "would",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 75,
+          "question": "She ___ a novel at the moment.",
+          "options": ["reads", "is reading", "has read", "read"],
+          "correct_answer": "is reading",
+          "grammar_type": "Tenses (Present Continuous)"
+        },
+        {
+          "id": 76,
+          "question": "I am right, ___?",
+          "options": ["am I", "amn't I", "are I", "aren't I"],
+          "correct_answer": "aren't I",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 77,
+          "question": "He is slow, ___ he is steady.",
+          "options": ["and", "but", "so", "or"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 78,
+          "question": "The patient ___ before the doctor came.",
+          "options": ["died", "had died", "was dying", "has died"],
+          "correct_answer": "had died",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 79,
+          "question": "Suppose you are the king, what ___ you do?",
+          "options": ["will", "would", "shall", "can"],
+          "correct_answer": "would",
+          "grammar_type": "Conditional Sentences"
+        },
+        {
+          "id": 80,
+          "question": "She said, 'May you live long!'",
+          "options": ["She prayed that I might live long.", "She wished that I may live long.", "She said that I might live long.", "She prayed that I may live long."],
+          "correct_answer": "She prayed that I might live long.",
+          "grammar_type": "Reported Speech (Optative)"
+        },
+        {
+          "id": 81,
+          "question": "You ___ not enter the hall without permission.",
+          "options": ["shall", "will", "can", "may"],
+          "correct_answer": "shall",
+          "grammar_type": "Modal Verbs (Command)"
+        },
+        {
+          "id": 82,
+          "question": "She often ___ to the temple.",
+          "options": ["go", "goes", "is going", "has gone"],
+          "correct_answer": "goes",
+          "grammar_type": "Tenses (Simple Present)"
+        },
+        {
+          "id": 83,
+          "question": "He seldom goes there, ___?",
+          "options": ["does he", "doesn't he", "is he", "isn't he"],
+          "correct_answer": "does he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 84,
+          "question": "He will not pass ___ he works hard.",
+          "options": ["if", "unless", "until", "when"],
+          "correct_answer": "unless",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 85,
+          "question": "I ___ him for a long time.",
+          "options": ["know", "knew", "have known", "am knowing"],
+          "correct_answer": "have known",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 86,
+          "question": "If I ___ you, I would accept the offer.",
+          "options": ["am", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 87,
+          "question": "He said, 'I must go now.'",
+          "options": ["He said that he must go then.", "He said that he had to go then.", "He said that he must have to go then.", "He said that he had to go now."],
+          "correct_answer": "He said that he had to go then.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 88,
+          "question": "Work hard, lest you ___ fail.",
+          "options": ["should", "would", "will", "may"],
+          "correct_answer": "should",
+          "grammar_type": "Modal Verbs"
+        },
+        {
+          "id": 89,
+          "question": "They ___ for Delhi tomorrow.",
+          "options": ["leave", "are leaving", "have left", "left"],
+          "correct_answer": "are leaving",
+          "grammar_type": "Tenses (Future Arrangement)"
+        },
+        {
+          "id": 90,
+          "question": "Don't make a noise, ___?",
+          "options": ["do you", "don't you", "will you", "shall you"],
+          "correct_answer": "will you",
+          "grammar_type": "Question Tags (Imperative)"
+        },
+        {
+          "id": 91,
+          "question": "Two and two ___ four.",
+          "options": ["make", "makes", "is making", "have made"],
+          "correct_answer": "make",
+          "grammar_type": "Tenses (Simple Present)"
+        },
+        {
+          "id": 92,
+          "question": "I ___ this book since morning.",
+          "options": ["read", "am reading", "have been reading", "had read"],
+          "correct_answer": "have been reading",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 93,
+          "question": "Had he worked hard, he ___ passed.",
+          "options": ["would", "would have", "will have", "had"],
+          "correct_answer": "would have",
+          "grammar_type": "Conditional Sentences (Inversion)"
+        },
+        {
+          "id": 94,
+          "question": "The teacher asked the boy, 'Why are you late?'",
+          "options": ["The teacher asked the boy why he was late.", "The teacher asked the boy why was he late.", "The teacher asked the boy why he is late.", "The teacher asked the boy that why he was late."],
+          "correct_answer": "The teacher asked the boy why he was late.",
+          "grammar_type": "Reported Speech (Interrogative)"
+        },
+        {
+          "id": 95,
+          "question": "Candidates ___ answer all the questions.",
+          "options": ["must", "can", "may", "might"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs (Instruction)"
+        },
+        {
+          "id": 96,
+          "question": "The sun ___ when we set out.",
+          "options": ["shone", "was shining", "had shone", "shines"],
+          "correct_answer": "was shining",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 97,
+          "question": "This is the same boy ___ I met yesterday.",
+          "options": ["that", "who", "whom", "which"],
+          "correct_answer": "that",
+          "grammar_type": "Conjunctions/Relative Pronouns"
+        },
+        {
+          "id": 98,
+          "question": "He walks as if he ___ lame.",
+          "options": ["is", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Subjunctive Mood"
+        },
+        {
+          "id": 99,
+          "question": "I ___ him only one letter up to now.",
+          "options": ["sent", "have sent", "had sent", "am sending"],
+          "correct_answer": "have sent",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 100,
+          "question": "If you heat ice, it ___.",
+          "options": ["melt", "melts", "will melt", "would melt"],
+          "correct_answer": "melts",
+          "grammar_type": "Conditional Sentences (Zero)"
+        },
+        {
+          "id": 101,
+          "question": "I ___ a new car last month.",
+          "options": ["buy", "bought", "have bought", "am buying"],
+          "correct_answer": "bought",
+          "grammar_type": "Tenses (Simple Past)"
+        },
+        {
+          "id": 102,
+          "question": "If she ___, she would have caught the bus.",
+          "options": ["hurries", "hurried", "had hurried", "has hurried"],
+          "correct_answer": "had hurried",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 103,
+          "question": "He said to her, 'I will meet you here tomorrow.'",
+          "options": ["He told her that he would meet her there the next day.", "He told her that he will meet her there tomorrow.", "He told her that he would meet her here the next day.", "He told her that he would meet you there the next day."],
+          "correct_answer": "He told her that he would meet her there the next day.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 104,
+          "question": "You ___ be joking!",
+          "options": ["must", "should", "can", "may"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs (Deduction)"
+        },
+        {
+          "id": 105,
+          "question": "What ___ you doing at 9 pm last night?",
+          "options": ["was", "were", "are", "did"],
+          "correct_answer": "were",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 106,
+          "question": "She has finished her work, ___?",
+          "options": ["has she", "hasn't she", "does she", "doesn't she"],
+          "correct_answer": "hasn't she",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 107,
+          "question": "He was ill, ___ he did not come to school.",
+          "options": ["but", "or", "so", "and"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 108,
+          "question": "By the time the police arrived, the thief ___.",
+          "options": ["escaped", "has escaped", "had escaped", "was escaping"],
+          "correct_answer": "had escaped",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 109,
+          "question": "If I found a wallet on the street, I ___ take it to the police.",
+          "options": ["will", "would", "can", "shall"],
+          "correct_answer": "would",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 110,
+          "question": "The boy said, 'My father is a doctor.'",
+          "options": ["The boy said that his father was a doctor.", "The boy said that my father was a doctor.", "The boy said that his father is a doctor.", "The boy said his father was a doctor."],
+          "correct_answer": "The boy said that his father was a doctor.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 111,
+          "question": "That man ___ be the principal; he looks too young.",
+          "options": ["must", "can't", "shouldn't", "may not"],
+          "correct_answer": "can't",
+          "grammar_type": "Modal Verbs (Deduction)"
+        },
+        {
+          "id": 112,
+          "question": "She ___ for this company for ten years by next month.",
+          "options": ["will work", "will be working", "will have been working", "works"],
+          "correct_answer": "will have been working",
+          "grammar_type": "Tenses (Future Perfect Continuous)"
+        },
+        {
+          "id": 113,
+          "question": "He never tells a lie, ___?",
+          "options": ["does he", "doesn't he", "is he", "isn't he"],
+          "correct_answer": "does he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 114,
+          "question": "I will call you ___ I finish my work.",
+          "options": ["as soon as", "so that", "unless", "in case"],
+          "correct_answer": "as soon as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 115,
+          "question": "I ___ a strange noise a minute ago.",
+          "options": ["hear", "heard", "have heard", "was hearing"],
+          "correct_answer": "heard",
+          "grammar_type": "Tenses (Simple Past)"
+        },
+        {
+          "id": 116,
+          "question": "If the weather ___ better, we would have gone for a swim.",
+          "options": ["was", "were", "had been", "is"],
+          "correct_answer": "had been",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 117,
+          "question": "She asked me, 'Do you like coffee?'",
+          "options": ["She asked me if I liked coffee.", "She asked me do I like coffee.", "She asked me that if I liked coffee.", "She asked me if I like coffee."],
+          "correct_answer": "She asked me if I liked coffee.",
+          "grammar_type": "Reported Speech (Interrogative)"
+        },
+        {
+          "id": 118,
+          "question": "You ___ have told me earlier!",
+          "options": ["should", "must", "would", "could"],
+          "correct_answer": "should",
+          "grammar_type": "Modal Verbs (Regret)"
+        },
+        {
+          "id": 119,
+          "question": "The phone rang while I ___ a bath.",
+          "options": ["had", "was having", "have had", "am having"],
+          "correct_answer": "was having",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 120,
+          "question": "Everyone is here, ___?",
+          "options": ["is he", "isn't he", "are they", "aren't they"],
+          "correct_answer": "aren't they",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 121,
+          "question": "He is rich, ___ he is not contented.",
+          "options": ["and", "so", "yet", "for"],
+          "correct_answer": "yet",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 122,
+          "question": "I ___ never seen such a beautiful sunset before.",
+          "options": ["have", "had", "am", "was"],
+          "correct_answer": "have",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 123,
+          "question": "What would you do if you ___ a million dollars?",
+          "options": ["win", "won", "had won", "have won"],
+          "correct_answer": "won",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 124,
+          "question": "The teacher told the students, 'Be quiet.'",
+          "options": ["The teacher told the students to be quiet.", "The teacher said to the students to be quiet.", "The teacher told the students that they should be quiet.", "The teacher ordered the students be quiet."],
+          "correct_answer": "The teacher told the students to be quiet.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 125,
+          "question": "I ___ swim across the river when I was young.",
+          "options": ["can", "could", "may", "might"],
+          "correct_answer": "could",
+          "grammar_type": "Modal Verbs (Ability in the past)"
+        },
+        {
+          "id": 126,
+          "question": "She ___ for her exams for the last two weeks.",
+          "options": ["is preparing", "prepares", "has been preparing", "prepared"],
+          "correct_answer": "has been preparing",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 127,
+          "question": "Please don't forget to post the letter, ___?",
+          "options": ["do you", "don't you", "will you", "won't you"],
+          "correct_answer": "will you",
+          "grammar_type": "Question Tags (Imperative)"
+        },
+        {
+          "id": 128,
+          "question": "I waited for him ___ he arrived.",
+          "options": ["unless", "until", "so that", "because"],
+          "correct_answer": "until",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 129,
+          "question": "The Prime Minister ___ here tomorrow.",
+          "options": ["arrives", "is arriving", "will arrive", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Tenses (Future)"
+        },
+        {
+          "id": 130,
+          "question": "If I had wings, I ___ to you.",
+          "options": ["will fly", "would fly", "would have flown", "can fly"],
+          "correct_answer": "would fly",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 131,
+          "question": "He said, 'I have done my homework.'",
+          "options": ["He said that he has done his homework.", "He said that he had done his homework.", "He said that he did his homework.", "He said that he had did his homework."],
+          "correct_answer": "He said that he had done his homework.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 132,
+          "question": "You ___ not make a noise in the library.",
+          "options": ["must", "should", "can", "may"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs (Prohibition)"
+        },
+        {
+          "id": 133,
+          "question": "It ___ heavily since last night.",
+          "options": ["is raining", "was raining", "has been raining", "had rained"],
+          "correct_answer": "has been raining",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 134,
+          "question": "He has a lot of books, ___?",
+          "options": ["has he", "hasn't he", "does he", "doesn't he"],
+          "correct_answer": "hasn't he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 135,
+          "question": "___ you are tired, you can take a rest.",
+          "options": ["If", "Although", "Because", "Unless"],
+          "correct_answer": "If",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 136,
+          "question": "She ___ TV when the doorbell rang.",
+          "options": ["watched", "was watching", "had watched", "is watching"],
+          "correct_answer": "was watching",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 137,
+          "question": "If you don't hurry, you ___ miss the train.",
+          "options": ["will", "would", "can", "may"],
+          "correct_answer": "will",
+          "grammar_type": "Conditional Sentences (Type 1)"
+        },
+        {
+          "id": 138,
+          "question": "The old man said, 'God bless you.'",
+          "options": ["The old man prayed that God might bless me.", "The old man said that God bless me.", "The old man wished that God might bless me.", "The old man prayed that God may bless me."],
+          "correct_answer": "The old man prayed that God might bless me.",
+          "grammar_type": "Reported Speech (Optative)"
+        },
+        {
+          "id": 139,
+          "question": "___ God have mercy on you!",
+          "options": ["May", "Might", "Can", "Could"],
+          "correct_answer": "May",
+          "grammar_type": "Modal Verbs (Wish)"
+        },
+        {
+          "id": 140,
+          "question": "I ___ this place before I met you.",
+          "options": ["visited", "had visited", "was visiting", "have visited"],
+          "correct_answer": "had visited",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 141,
+          "question": "There is a mistake in your answer, ___?",
+          "options": ["is there", "isn't there", "is it", "isn't it"],
+          "correct_answer": "isn't there",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 142,
+          "question": "I could not come ___ I was busy.",
+          "options": ["so", "because", "but", "and"],
+          "correct_answer": "because",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 143,
+          "question": "We ___ for his call since 5 p.m.",
+          "options": ["are waiting", "have been waiting", "waited", "were waiting"],
+          "correct_answer": "have been waiting",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 144,
+          "question": "If I had practiced more, I ___ won the match.",
+          "options": ["would", "will have", "could have", "can have"],
+          "correct_answer": "could have",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 145,
+          "question": "He said, 'I came here yesterday.'",
+          "options": ["He said that he had come there the previous day.", "He said that he came there yesterday.", "He said that he had come here the day before.", "He said that he came there the previous day."],
+          "correct_answer": "He said that he had come there the previous day.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 146,
+          "question": "You ___ not touch the exhibits in the museum.",
+          "options": ["must", "can", "may", "need"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs (Prohibition)"
+        },
+        {
+          "id": 147,
+          "question": "The concert ___ by the time we get there.",
+          "options": ["will start", "will be starting", "will have started", "starts"],
+          "correct_answer": "will have started",
+          "grammar_type": "Tenses (Future Perfect)"
+        },
+        {
+          "id": 148,
+          "question": "A little progress has been made, ___?",
+          "options": ["has it", "hasn't it", "have they", "haven't they"],
+          "correct_answer": "hasn't it",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 149,
+          "question": "I like neither tea ___ coffee.",
+          "options": ["or", "and", "nor", "but"],
+          "correct_answer": "nor",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 150,
+          "question": "The last train ___ at midnight.",
+          "options": ["leave", "leaves", "is leaving", "has left"],
+          "correct_answer": "leaves",
+          "grammar_type": "Tenses (Simple Present)"
+        },
+        {
+          "id": 151,
+          "question": "If I ___ a ghost, I would frighten people.",
+          "options": ["am", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 152,
+          "question": "She said to me, 'What is your name?'",
+          "options": ["She asked me what my name was.", "She asked me what was my name.", "She asked me what my name is.", "She asked me that what my name was."],
+          "correct_answer": "She asked me what my name was.",
+          "grammar_type": "Reported Speech (Interrogative)"
+        },
+        {
+          "id": 153,
+          "question": "He ___ be at home; his car is outside.",
+          "options": ["must", "can't", "should", "may"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs (Deduction)"
+        },
+        {
+          "id": 154,
+          "question": "I ___ my keys. I can't find them anywhere.",
+          "options": ["lost", "have lost", "had lost", "was losing"],
+          "correct_answer": "have lost",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 155,
+          "question": "He has to go to the meeting, ___?",
+          "options": ["has he", "hasn't he", "does he", "doesn't he"],
+          "correct_answer": "doesn't he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 156,
+          "question": "She is not only beautiful ___ kind.",
+          "options": ["and", "or", "but also", "so"],
+          "correct_answer": "but also",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 157,
+          "question": "The students ___ when the teacher entered.",
+          "options": ["were shouting", "shouted", "had shouted", "are shouting"],
+          "correct_answer": "were shouting",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 158,
+          "question": "If I ___ you, I would apologize.",
+          "options": ["am", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 159,
+          "question": "The doctor advised me, 'Take rest.'",
+          "options": ["The doctor advised me to take rest.", "The doctor said me to take rest.", "The doctor advised me that I should take rest.", "The doctor advised to take rest."],
+          "correct_answer": "The doctor advised me to take rest.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 160,
+          "question": "It ___ be true, but I don't think so.",
+          "options": ["can", "could", "may", "might"],
+          "correct_answer": "may",
+          "grammar_type": "Modal Verbs (Possibility)"
+        },
+        {
+          "id": 161,
+          "question": "He ___ in this city since his childhood.",
+          "options": ["is living", "has been living", "lived", "was living"],
+          "correct_answer": "has been living",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 162,
+          "question": "Mind your own business, ___?",
+          "options": ["will you", "won't you", "can you", "can't you"],
+          "correct_answer": "will you",
+          "grammar_type": "Question Tags (Imperative)"
+        },
+        {
+          "id": 163,
+          "question": "He is honest, ___ everyone trusts him.",
+          "options": ["but", "or", "so", "and"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 164,
+          "question": "After he ___ his work, he went to bed.",
+          "options": ["finished", "had finished", "was finishing", "has finished"],
+          "correct_answer": "had finished",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 165,
+          "question": "If you had asked, I ___ you.",
+          "options": ["would help", "will help", "would have helped", "help"],
+          "correct_answer": "would have helped",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 166,
+          "question": "He said, 'I am unwell.'",
+          "options": ["He said that he is unwell.", "He said that he was unwell.", "He said that I was unwell.", "He said that he were unwell."],
+          "correct_answer": "He said that he was unwell.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 167,
+          "question": "You ___ to obey the traffic rules.",
+          "options": ["ought", "must", "should", "need"],
+          "correct_answer": "ought",
+          "grammar_type": "Modal Verbs (Obligation)"
+        },
+        {
+          "id": 168,
+          "question": "This time tomorrow, we ___ to Mumbai.",
+          "options": ["will travel", "will be travelling", "will have travelled", "travel"],
+          "correct_answer": "will be travelling",
+          "grammar_type": "Tenses (Future Continuous)"
+        },
+        {
+          "id": 169,
+          "question": "He is hardly ever on time, ___?",
+          "options": ["is he", "isn't he", "does he", "doesn't he"],
+          "correct_answer": "is he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 170,
+          "question": "I will wait for you ___ you return.",
+          "options": ["unless", "until", "so that", "because"],
+          "correct_answer": "until",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 171,
+          "question": "I wish I ___ younger.",
+          "options": ["am", "was", "were", "be"],
+          "correct_answer": "were",
+          "grammar_type": "Subjunctive Mood"
+        },
+        {
+          "id": 172,
+          "question": "If you mix red and yellow, you ___ orange.",
+          "options": ["get", "will get", "would get", "got"],
+          "correct_answer": "get",
+          "grammar_type": "Conditional Sentences (Zero)"
+        },
+        {
+          "id": 173,
+          "question": "She said, 'I saw a movie last night.'",
+          "options": ["She said that she had seen a movie the previous night.", "She said that she saw a movie last night.", "She said that she had seen a movie last night.", "She said that she has seen a movie the previous night."],
+          "correct_answer": "She said that she had seen a movie the previous night.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 174,
+          "question": "___ I use your phone?",
+          "options": ["Must", "Should", "May", "Would"],
+          "correct_answer": "May",
+          "grammar_type": "Modal Verbs (Permission)"
+        },
+        {
+          "id": 175,
+          "question": "They ___ here for a very long time.",
+          "options": ["are living", "have been living", "lived", "were living"],
+          "correct_answer": "have been living",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 176,
+          "question": "We had a good time, ___?",
+          "options": ["had we", "hadn't we", "did we", "didn't we"],
+          "correct_answer": "hadn't we",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 177,
+          "question": "He is neither a fool ___ a knave.",
+          "options": ["or", "and", "nor", "but"],
+          "correct_answer": "nor",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 178,
+          "question": "The sun ___ brightly when I got up.",
+          "options": ["shone", "was shining", "had shone", "shines"],
+          "correct_answer": "was shining",
+          "grammar_type": "Tenses (Past Continuous)"
+        },
+        {
+          "id": 179,
+          "question": "If I were the principal, I ___ change the rules.",
+          "options": ["will", "would", "can", "shall"],
+          "correct_answer": "would",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 180,
+          "question": "He said, 'Let us go for a walk.'",
+          "options": ["He suggested that they should go for a walk.", "He said that let us go for a walk.", "He proposed to go for a walk.", "He asked if they should go for a walk."],
+          "correct_answer": "He suggested that they should go for a walk.",
+          "grammar_type": "Reported Speech (Imperative)"
+        },
+        {
+          "id": 181,
+          "question": "You ___ pay the taxes in time.",
+          "options": ["must", "can", "may", "might"],
+          "correct_answer": "must",
+          "grammar_type": "Modal Verbs (Obligation)"
+        },
+        {
+          "id": 182,
+          "question": "She ___ her degree by the end of this year.",
+          "options": ["will complete", "will be completing", "will have completed", "completes"],
+          "correct_answer": "will have completed",
+          "grammar_type": "Tenses (Future Perfect)"
+        },
+        {
+          "id": 183,
+          "question": "Someone is knocking at the door, ___?",
+          "options": ["is he", "isn't he", "are they", "aren't they"],
+          "correct_answer": "isn't he",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 184,
+          "question": "He is not only a good student ___ a good athlete.",
+          "options": ["and", "or", "but also", "so"],
+          "correct_answer": "but also",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 185,
+          "question": "I ___ him at the party last night.",
+          "options": ["see", "saw", "have seen", "was seeing"],
+          "correct_answer": "saw",
+          "grammar_type": "Tenses (Simple Past)"
+        },
+        {
+          "id": 186,
+          "question": "If you had run faster, you ___ the race.",
+          "options": ["would win", "will win", "would have won", "win"],
+          "correct_answer": "would have won",
+          "grammar_type": "Conditional Sentences (Type 3)"
+        },
+        {
+          "id": 187,
+          "question": "She said, 'I may go to the party.'",
+          "options": ["She said that she may go to the party.", "She said that she might go to the party.", "She said that she might be going to the party.", "She said that she can go to the party."],
+          "correct_answer": "She said that she might go to the party.",
+          "grammar_type": "Reported Speech"
+        },
+        {
+          "id": 188,
+          "question": "You ___ have been more careful.",
+          "options": ["should", "must", "would", "could"],
+          "correct_answer": "should",
+          "grammar_type": "Modal Verbs (Criticism)"
+        },
+        {
+          "id": 189,
+          "question": "The children ___ since 8 o'clock in the morning.",
+          "options": ["are playing", "have been playing", "played", "were playing"],
+          "correct_answer": "have been playing",
+          "grammar_type": "Tenses (Present Perfect Continuous)"
+        },
+        {
+          "id": 190,
+          "question": "They used to live here, ___?",
+          "options": ["did they", "didn't they", "do they", "don't they"],
+          "correct_answer": "didn't they",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 191,
+          "question": "He is poor, ___ he is happy.",
+          "options": ["and", "but", "so", "or"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 192,
+          "question": "When I reached home, my mother ___ dinner.",
+          "options": ["cooked", "was cooking", "had cooked", "is cooking"],
+          "correct_answer": "had cooked",
+          "grammar_type": "Tenses (Past Perfect)"
+        },
+        {
+          "id": 193,
+          "question": "If I ___ the answer, I would tell you.",
+          "options": ["know", "knew", "had known", "have known"],
+          "correct_answer": "knew",
+          "grammar_type": "Conditional Sentences (Type 2)"
+        },
+        {
+          "id": 194,
+          "question": "He said, 'The sun rises in the east.'",
+          "options": ["He said that the sun rose in the east.", "He said that the sun rises in the east.", "He said that the sun has risen in the east.", "He said the sun rises in the east."],
+          "correct_answer": "He said that the sun rises in the east.",
+          "grammar_type": "Reported Speech (Universal Truth)"
+        },
+        {
+          "id": 195,
+          "question": "He ___ swim very well.",
+          "options": ["can", "could", "may", "might"],
+          "correct_answer": "can",
+          "grammar_type": "Modal Verbs (Ability)"
+        },
+        {
+          "id": 196,
+          "question": "I ___ my homework already.",
+          "options": ["finish", "finished", "have finished", "am finishing"],
+          "correct_answer": "have finished",
+          "grammar_type": "Tenses (Present Perfect)"
+        },
+        {
+          "id": 197,
+          "question": "I am a student, ___?",
+          "options": ["am I", "amn't I", "are I", "aren't I"],
+          "correct_answer": "aren't I",
+          "grammar_type": "Question Tags"
+        },
+        {
+          "id": 198,
+          "question": "She is intelligent ___ she is lazy.",
+          "options": ["and", "but", "so", "or"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 199,
+          "question": "He ___ for London tomorrow morning.",
+          "options": ["leaves", "is leaving", "will leave", "Both B and C"],
+          "correct_answer": "is leaving",
+          "grammar_type": "Tenses (Future Arrangement)"
+        },
+        {
+          "id": 200,
+          "question": "If it rains, the match ___ cancelled.",
+          "options": ["will be", "would be", "will have been", "is"],
+          "correct_answer": "will be",
+          "grammar_type": "Conditional Sentences (Type 1)"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The letter was written by the clerk. Change the voice.",
+          "options": ["The clerk was writing the letter.", "The clerk writes the letter.", "The clerk wrote the letter.", "The clerk has written the letter."],
+          "correct_answer": "The clerk wrote the letter.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 2,
+          "question": "Identify the error: The committee were divided in its opinion.",
+          "options": ["The committee", "were divided", "in", "its opinion"],
+          "correct_answer": "its opinion",
+          "grammar_type": "Error Spotting (Pronoun Agreement)"
+        },
+        {
+          "id": 3,
+          "question": "He enjoys ___ cricket.",
+          "options": ["to play", "playing", "play", "to playing"],
+          "correct_answer": "playing",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 4,
+          "question": "This is the house ___ I was born.",
+          "options": ["that", "which", "where", "when"],
+          "correct_answer": "where",
+          "grammar_type": "Clauses (Adverb)"
+        },
+        {
+          "id": 5,
+          "question": "Who taught you French? Change the voice.",
+          "options": ["By whom was French taught to you?", "By whom were you taught French?", "By whom you were taught French?", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 6,
+          "question": "I have ___ friends in the city, so I feel lonely.",
+          "options": ["few", "a few", "the few", "little"],
+          "correct_answer": "few",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 7,
+          "question": "___ a doctor, he also writes novels.",
+          "options": ["Beside", "Besides", "Despite", "In spite of"],
+          "correct_answer": "Besides",
+          "grammar_type": "Complex Sentences"
+        },
+        {
+          "id": 8,
+          "question": "I saw him ___ the street.",
+          "options": ["cross", "to cross", "crossing", "Both A and C"],
+          "correct_answer": "Both A and C",
+          "grammar_type": "Participles"
+        },
+        {
+          "id": 9,
+          "question": "The police are looking into the matter. 'Looking into' means:",
+          "options": ["searching", "investigating", "finding", "watching"],
+          "correct_answer": "investigating",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 10,
+          "question": "It is time to close the shop. Change the voice.",
+          "options": ["It is time for the shop to be closed.", "It is time the shop was closed.", "The shop is to be closed now.", "The shop should be closed now."],
+          "correct_answer": "It is time for the shop to be closed.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 11,
+          "question": "Identify the error: No sooner did the teacher entered the class than the students stood up.",
+          "options": ["No sooner did", "the teacher entered", "the class than", "the students stood up"],
+          "correct_answer": "the teacher entered",
+          "grammar_type": "Error Spotting (Inversion)"
+        },
+        {
+          "id": 12,
+          "question": "He is used to ___ in long queues.",
+          "options": ["wait", "waiting", "waits", "to wait"],
+          "correct_answer": "waiting",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 13,
+          "question": "I don't know ___ he will come.",
+          "options": ["that", "if", "whether", "what"],
+          "correct_answer": "whether",
+          "grammar_type": "Clauses (Noun)"
+        },
+        {
+          "id": 14,
+          "question": "They will have to do the work. Change the voice.",
+          "options": ["The work will have to be done by them.", "The work will be done by them.", "The work has to be done by them.", "The work will have been done by them."],
+          "correct_answer": "The work will have to be done by them.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 15,
+          "question": "There is ___ milk in the jug for the tea.",
+          "options": ["little", "a little", "the little", "few"],
+          "correct_answer": "a little",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 16,
+          "question": "Hardly had he left ___ it started raining.",
+          "options": ["than", "then", "when", "that"],
+          "correct_answer": "when",
+          "grammar_type": "Complex Sentences (Inversion)"
+        },
+        {
+          "id": 17,
+          "question": "___ by the noise, the baby woke up.",
+          "options": ["Waking", "Woken", "Having woken", "Being woken"],
+          "correct_answer": "Woken",
+          "grammar_type": "Participles"
+        },
+        {
+          "id": 18,
+          "question": "The firemen managed to put out the fire. 'Put out' means:",
+          "options": ["ignite", "postpone", "extinguish", "wear"],
+          "correct_answer": "extinguish",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 19,
+          "question": "Circumstances will oblige me to go. Change the voice.",
+          "options": ["I will be obliged to go by circumstances.", "I would be obliged to go by circumstances.", "I shall be obliged to go by circumstances.", "I should be obliged to go by circumstances."],
+          "correct_answer": "I shall be obliged to go by circumstances.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 20,
+          "question": "Identify the error: I am looking forward to meet you.",
+          "options": ["I am", "looking forward", "to meet", "you"],
+          "correct_answer": "to meet",
+          "grammar_type": "Error Spotting (Gerunds)"
+        },
+        {
+          "id": 21,
+          "question": "I avoid ___ to him.",
+          "options": ["to speak", "speaking", "speak", "to speaking"],
+          "correct_answer": "speaking",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 22,
+          "question": "The reason ___ he failed is not known.",
+          "options": ["that", "why", "which", "because"],
+          "correct_answer": "why",
+          "grammar_type": "Clauses (Adjective)"
+        },
+        {
+          "id": 23,
+          "question": "The doctor is attending to the patient. Change the voice.",
+          "options": ["The patient is attended to by the doctor.", "The patient is being attended to by the doctor.", "The patient was being attended to by the doctor.", "The patient is being attended by the doctor."],
+          "correct_answer": "The patient is being attended to by the doctor.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 24,
+          "question": "___ knowledge is a dangerous thing.",
+          "options": ["Little", "A little", "The little", "Few"],
+          "correct_answer": "A little",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 25,
+          "question": "Not only did he help her, ___ gave her some money.",
+          "options": ["but also he", "but he also", "and he also", "but also"],
+          "correct_answer": "but he also",
+          "grammar_type": "Complex Sentences (Inversion)"
+        },
+        {
+          "id": 26,
+          "question": "___ the work, he went home.",
+          "options": ["Finishing", "Having finished", "Finished", "To finish"],
+          "correct_answer": "Having finished",
+          "grammar_type": "Participles (Perfect)"
+        },
+        {
+          "id": 27,
+          "question": "I cannot put up with this insult. 'Put up with' means:",
+          "options": ["tolerate", "stop", "accept", "understand"],
+          "correct_answer": "tolerate",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 28,
+          "question": "One should keep one's promise. Change the voice.",
+          "options": ["A promise should be kept.", "One's promise should be kept.", "Promise should be kept.", "Promises should be kept by one."],
+          "correct_answer": "A promise should be kept.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 29,
+          "question": "Identify the error: He is one of the tallest boy in the class.",
+          "options": ["He is", "one of the", "tallest boy", "in the class"],
+          "correct_answer": "tallest boy",
+          "grammar_type": "Error Spotting (Nouns)"
+        },
+        {
+          "id": 30,
+          "question": "It's no use ___ over spilt milk.",
+          "options": ["to cry", "crying", "cry", "to crying"],
+          "correct_answer": "crying",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 31,
+          "question": "Pay attention to ___ the teacher says.",
+          "options": ["that", "what", "which", "who"],
+          "correct_answer": "what",
+          "grammar_type": "Clauses (Noun)"
+        },
+        {
+          "id": 32,
+          "question": "The people elected him president. Change the voice.",
+          "options": ["He was elected president by the people.", "He is elected president.", "President was elected by him.", "He was elected by the people president."],
+          "correct_answer": "He was elected president by the people.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 33,
+          "question": "I have read ___ books I had.",
+          "options": ["few", "a few", "the few", "little"],
+          "correct_answer": "the few",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 34,
+          "question": "___ his poverty, he is generous.",
+          "options": ["Despite of", "In spite of", "Although", "Because of"],
+          "correct_answer": "In spite of",
+          "grammar_type": "Complex Sentences"
+        },
+        {
+          "id": 35,
+          "question": "The book, ___ I bought yesterday, is very interesting.",
+          "options": ["that", "which", "who", "what"],
+          "correct_answer": "which",
+          "grammar_type": "Clauses (Adjective - Non-defining)"
+        },
+        {
+          "id": 36,
+          "question": "The prisoner was called for an explanation. 'Called for' means:",
+          "options": ["shouted", "demanded", "asked", "summoned"],
+          "correct_answer": "demanded",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 37,
+          "question": "Do not insult the poor. Change the voice.",
+          "options": ["Let the poor not be insulted.", "The poor should not be insulted.", "You are ordered not to insult the poor.", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 38,
+          "question": "Identify the error: The sceneries of Kashmir are very charming.",
+          "options": ["The sceneries", "of Kashmir", "are very", "charming"],
+          "correct_answer": "The sceneries",
+          "grammar_type": "Error Spotting (Nouns)"
+        },
+        {
+          "id": 39,
+          "question": "Would you mind ___ the window?",
+          "options": ["to open", "opening", "open", "to opening"],
+          "correct_answer": "opening",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 40,
+          "question": "He succeeded because he worked hard. (Choose a simple sentence)",
+          "options": ["He worked hard and succeeded.", "He succeeded by working hard.", "As he worked hard, he succeeded.", "He worked hard, so he succeeded."],
+          "correct_answer": "He succeeded by working hard.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 41,
+          "question": "His conduct surprised me. Change the voice.",
+          "options": ["I was surprised by his conduct.", "I was surprised at his conduct.", "I am surprised by his conduct.", "I am surprised at his conduct."],
+          "correct_answer": "I was surprised at his conduct.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 42,
+          "question": "He has spent ___ money he had.",
+          "options": ["little", "a little", "the little", "few"],
+          "correct_answer": "the little",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 43,
+          "question": "He is too weak to walk. (Remove 'too')",
+          "options": ["He is so weak that he cannot walk.", "He is very weak and cannot walk.", "He is weak so he cannot walk.", "He cannot walk as he is weak."],
+          "correct_answer": "He is so weak that he cannot walk.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 44,
+          "question": "A ___ stone gathers no moss.",
+          "options": ["roll", "rolling", "rolled", "to roll"],
+          "correct_answer": "rolling",
+          "grammar_type": "Participles (Adjective)"
+        },
+        {
+          "id": 45,
+          "question": "The meeting was called off. 'Called off' means:",
+          "options": ["started", "postponed", "cancelled", "held"],
+          "correct_answer": "cancelled",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 46,
+          "question": "The noise of the traffic kept me awake. Change the voice.",
+          "options": ["I was kept awake by the noise of the traffic.", "I am kept awake by the noise of the traffic.", "I kept awake by the noise of the traffic.", "The traffic noise kept me awake."],
+          "correct_answer": "I was kept awake by the noise of the traffic.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 47,
+          "question": "Identify the error: He is senior than me by two years.",
+          "options": ["He is", "senior than me", "by two years", "No error"],
+          "correct_answer": "senior than me",
+          "grammar_type": "Error Spotting (Adjectives)"
+        },
+        {
+          "id": 48,
+          "question": "He stopped ___ and started working.",
+          "options": ["to talk", "talking", "talk", "to talking"],
+          "correct_answer": "talking",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 49,
+          "question": "I know the man ___ stole your purse.",
+          "options": ["that", "which", "who", "whom"],
+          "correct_answer": "who",
+          "grammar_type": "Clauses (Adjective)"
+        },
+        {
+          "id": 50,
+          "question": "They are building a new bridge. Change the voice.",
+          "options": ["A new bridge is built by them.", "A new bridge is being built by them.", "A new bridge has been built by them.", "A new bridge was being built by them."],
+          "correct_answer": "A new bridge is being built by them.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 51,
+          "question": "___ student in the class is capable of passing the exam.",
+          "options": ["Each", "Every", "All", "Some"],
+          "correct_answer": "Every",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 52,
+          "question": "He is rich, yet he is not happy. (Choose a simple sentence)",
+          "options": ["In spite of his riches, he is not happy.", "He is rich but not happy.", "Although he is rich, he is not happy.", "He is rich and unhappy."],
+          "correct_answer": "In spite of his riches, he is not happy.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 53,
+          "question": "I remember ___ him at the party.",
+          "options": ["to see", "seeing", "saw", "to have seen"],
+          "correct_answer": "seeing",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 54,
+          "question": "He broke down in the middle of his speech. 'Broke down' means:",
+          "options": ["stopped", "failed", "became emotional", "fell down"],
+          "correct_answer": "became emotional",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 55,
+          "question": "The Romans expected to conquer Carthage. Change the voice.",
+          "options": ["It was expected by the Romans that they would conquer Carthage.", "Carthage was expected to be conquered by the Romans.", "To conquer Carthage was expected by the Romans.", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 56,
+          "question": "Identify the error: If I was you, I would not do it.",
+          "options": ["If I was you", "I would not", "do it", "No error"],
+          "correct_answer": "If I was you",
+          "grammar_type": "Error Spotting (Subjunctive Mood)"
+        },
+        {
+          "id": 57,
+          "question": "He made me ___.",
+          "options": ["to laugh", "laughing", "laugh", "to laughing"],
+          "correct_answer": "laugh",
+          "grammar_type": "Gerunds and Infinitives (Bare Infinitive)"
+        },
+        {
+          "id": 58,
+          "question": "Tell me ___ you have put my book.",
+          "options": ["that", "which", "where", "what"],
+          "correct_answer": "where",
+          "grammar_type": "Clauses (Noun)"
+        },
+        {
+          "id": 59,
+          "question": "The President gave him a reward. Change the voice.",
+          "options": ["He was given a reward by the President.", "A reward was given to him by the President.", "He has been given a reward.", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 60,
+          "question": "There isn't ___ sugar in the pot.",
+          "options": ["many", "much", "a few", "some"],
+          "correct_answer": "much",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 61,
+          "question": "He confessed his guilt. (Choose a complex sentence)",
+          "options": ["He confessed that he was guilty.", "He was guilty and he confessed it.", "His guilt was confessed by him.", "He said, 'I am guilty.'"],
+          "correct_answer": "He confessed that he was guilty.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 62,
+          "question": "Have you ever been to London? The sentence is an example of:",
+          "options": ["Present Indefinite", "Past Indefinite", "Present Perfect", "Past Perfect"],
+          "correct_answer": "Present Perfect",
+          "grammar_type": "Tense Identification"
+        },
+        {
+          "id": 63,
+          "question": "I can't make out what you are saying. 'Make out' means:",
+          "options": ["create", "understand", "pretend", "tolerate"],
+          "correct_answer": "understand",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 64,
+          "question": "Why did you write such a letter? Change the voice.",
+          "options": ["Why was such a letter written by you?", "Why such a letter was written by you?", "Why did such a letter be written by you?", "Why you wrote such a letter?"],
+          "correct_answer": "Why was such a letter written by you?",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 65,
+          "question": "Identify the error: The two first chapters of this book are dull.",
+          "options": ["The two first", "chapters of", "this book", "are dull"],
+          "correct_answer": "The two first",
+          "grammar_type": "Error Spotting (Adjectives - Order)"
+        },
+        {
+          "id": 66,
+          "question": "I want him ___ the work.",
+          "options": ["to do", "doing", "do", "does"],
+          "correct_answer": "to do",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 67,
+          "question": "This is the same dog ___ bit me.",
+          "options": ["who", "which", "that", "whom"],
+          "correct_answer": "that",
+          "grammar_type": "Clauses (Adjective)"
+        },
+        {
+          "id": 68,
+          "question": "The cat drank all the milk. Change the voice.",
+          "options": ["All the milk was drunk by the cat.", "All the milk is drunk by the cat.", "The cat had drunk all the milk.", "The milk was all drunk by the cat."],
+          "correct_answer": "All the milk was drunk by the cat.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 69,
+          "question": "I don't have ___ money with me.",
+          "options": ["some", "any", "many", "a few"],
+          "correct_answer": "any",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 70,
+          "question": "He is so proud that he will not beg. (Choose a simple sentence)",
+          "options": ["He is too proud to beg.", "He is very proud and will not beg.", "His pride prevents him from begging.", "He will not beg because of his pride."],
+          "correct_answer": "He is too proud to beg.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 71,
+          "question": "The boy, ___ father is a doctor, is my friend.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "whose",
+          "grammar_type": "Clauses (Adjective)"
+        },
+        {
+          "id": 72,
+          "question": "The government has called out the army. 'Called out' means:",
+          "options": ["shouted", "summoned", "cancelled", "ordered"],
+          "correct_answer": "summoned",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 73,
+          "question": "I saw him opening the box. Change the voice.",
+          "options": ["He was seen to open the box.", "He was seen opening the box by me.", "The box was seen being opened by him.", "He was seen to be opening the box."],
+          "correct_answer": "He was seen opening the box by me.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 74,
+          "question": "Identify the error: He is taller than me.",
+          "options": ["He is", "taller", "than", "me"],
+          "correct_answer": "me",
+          "grammar_type": "Error Spotting (Pronouns)"
+        },
+        {
+          "id": 75,
+          "question": "He went to the market with a view to ___ vegetables.",
+          "options": ["buy", "buying", "bought", "to buy"],
+          "correct_answer": "buying",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 76,
+          "question": "He is the man ___ everyone respects.",
+          "options": ["who", "whom", "whose", "that"],
+          "correct_answer": "whom",
+          "grammar_type": "Clauses (Adjective)"
+        },
+        {
+          "id": 77,
+          "question": "Someone has picked my pocket. Change the voice.",
+          "options": ["My pocket has been picked.", "My pocket was picked.", "My pocket is picked.", "Someone's pocket is picked."],
+          "correct_answer": "My pocket has been picked.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 78,
+          "question": "Can you give me ___ information?",
+          "options": ["some", "any", "many", "a few"],
+          "correct_answer": "some",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 79,
+          "question": "He ran so fast that he won the race. (Choose a simple sentence)",
+          "options": ["He ran fast enough to win the race.", "He ran very fast and won the race.", "He ran fast to win the race.", "By running fast, he won the race."],
+          "correct_answer": "He ran fast enough to win the race.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 80,
+          "question": "___ a fine day, we went for a picnic.",
+          "options": ["Being", "It being", "Having been", "It was"],
+          "correct_answer": "It being",
+          "grammar_type": "Participles (Nominative Absolute)"
+        },
+        {
+          "id": 81,
+          "question": "The company decided to do away with old rules. 'Do away with' means:",
+          "options": ["abolish", "follow", "create", "change"],
+          "correct_answer": "abolish",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 82,
+          "question": "Please help me. Change the voice.",
+          "options": ["You are requested to help me.", "You are ordered to help me.", "Let me be helped.", "I should be helped."],
+          "correct_answer": "You are requested to help me.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 83,
+          "question": "Identify the error: The cattle is grazing in the field.",
+          "options": ["The cattle", "is grazing", "in the field", "No error"],
+          "correct_answer": "is grazing",
+          "grammar_type": "Error Spotting (Nouns)"
+        },
+        {
+          "id": 84,
+          "question": "He let me ___.",
+          "options": ["to go", "going", "go", "to have gone"],
+          "correct_answer": "go",
+          "grammar_type": "Gerunds and Infinitives (Bare Infinitive)"
+        },
+        {
+          "id": 85,
+          "question": "That he is honest is known to all. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause", "Principal Clause"],
+          "correct_answer": "Noun Clause",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 86,
+          "question": "We must listen to his words. Change the voice.",
+          "options": ["His words must be listened to by us.", "His words must be listened by us.", "His words must be listened to.", "His words must be listened."],
+          "correct_answer": "His words must be listened to.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 87,
+          "question": "He did not buy ___ of the two pens.",
+          "options": ["either", "neither", "any", "none"],
+          "correct_answer": "either",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 88,
+          "question": "He is not only foolish but also obstinate. (Choose a simple sentence)",
+          "options": ["Besides being foolish, he is obstinate.", "He is foolish and obstinate.", "He is foolish as well as obstinate.", "He is both foolish and obstinate."],
+          "correct_answer": "Besides being foolish, he is obstinate.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 89,
+          "question": "The captain ordered the soldiers to fire. 'Fire' is used as:",
+          "options": ["A noun", "An adjective", "A verb", "An adverb"],
+          "correct_answer": "A verb",
+          "grammar_type": "Parts of Speech"
+        },
+        {
+          "id": 90,
+          "question": "The child could not make up his mind. 'Make up' means:",
+          "options": ["decide", "understand", "create", "compensate"],
+          "correct_answer": "decide",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 91,
+          "question": "They laughed at him. Change the voice.",
+          "options": ["He was laughed by them.", "He was laughed at by them.", "He was being laughed at by them.", "He is laughed at by them."],
+          "correct_answer": "He was laughed at by them.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 92,
+          "question": "Identify the error: He is the most perfect gentleman.",
+          "options": ["He is", "the most perfect", "gentleman", "No error"],
+          "correct_answer": "the most perfect",
+          "grammar_type": "Error Spotting (Adjectives)"
+        },
+        {
+          "id": 93,
+          "question": "I am accustomed to ___ hard.",
+          "options": ["work", "working", "worked", "to work"],
+          "correct_answer": "working",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 94,
+          "question": "The place where he lives is not known. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause", "Principal Clause"],
+          "correct_answer": "Adjective Clause",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 95,
+          "question": "The king gave the man a reward. The indirect object is:",
+          "options": ["the king", "the man", "a reward", "gave"],
+          "correct_answer": "the man",
+          "grammar_type": "Objects (Direct/Indirect)"
+        },
+        {
+          "id": 96,
+          "question": "___ of the accusations is true.",
+          "options": ["None", "Neither", "Either", "Some"],
+          "correct_answer": "None",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 97,
+          "question": "He must work hard to win the prize. (Choose a compound sentence)",
+          "options": ["He must work hard and win the prize.", "He must work hard or he will not win the prize.", "He must work hard so that he can win the prize.", "If he works hard, he will win the prize."],
+          "correct_answer": "He must work hard or he will not win the prize.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 98,
+          "question": "The sun having risen, the fog disappeared. This is a:",
+          "options": ["Simple Sentence", "Compound Sentence", "Complex Sentence", "Nominative Absolute Construction"],
+          "correct_answer": "Nominative Absolute Construction",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 99,
+          "question": "She takes after her mother. 'Takes after' means:",
+          "options": ["follows", "looks after", "resembles", "respects"],
+          "correct_answer": "resembles",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 100,
+          "question": "It is being read by us. Change the voice.",
+          "options": ["We are reading it.", "We read it.", "We have read it.", "We were reading it."],
+          "correct_answer": "We are reading it.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 101,
+          "question": "Identify the error: One must do his duty to his country.",
+          "options": ["One must do", "his duty", "to his country", "No error"],
+          "correct_answer": "his duty",
+          "grammar_type": "Error Spotting (Pronouns)"
+        },
+        {
+          "id": 102,
+          "question": "He is busy ___ his homework.",
+          "options": ["to do", "doing", "in doing", "with doing"],
+          "correct_answer": "doing",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 103,
+          "question": "He will not come if it rains. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause of Condition", "Adverb Clause of Reason"],
+          "correct_answer": "Adverb Clause of Condition",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 104,
+          "question": "I made him do the work. Change the voice.",
+          "options": ["He was made to do the work by me.", "He was made do the work by me.", "He did the work by me.", "The work was done by him."],
+          "correct_answer": "He was made to do the work by me.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 105,
+          "question": "There are ___ books on the shelf; you can take one.",
+          "options": ["a few", "few", "a little", "little"],
+          "correct_answer": "a few",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 106,
+          "question": "He worked hard, but he failed. (Choose a complex sentence)",
+          "options": ["Although he worked hard, he failed.", "Despite working hard, he failed.", "He failed because he worked hard.", "He worked hard and failed."],
+          "correct_answer": "Although he worked hard, he failed.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 107,
+          "question": "To err is human. 'To err' is:",
+          "options": ["A gerund", "A participle", "An infinitive", "A verb"],
+          "correct_answer": "An infinitive",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 108,
+          "question": "The government has brought about many changes. 'Brought about' means:",
+          "options": ["caused to happen", "published", "stopped", "carried"],
+          "correct_answer": "caused to happen",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 109,
+          "question": "The boy was punished for misconduct. Change the voice.",
+          "options": ["The teacher punished the boy for misconduct.", "Misconduct punished the boy.", "The boy's punishment was misconduct.", "Someone punished the boy for misconduct."],
+          "correct_answer": "The teacher punished the boy for misconduct.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 110,
+          "question": "Identify the error: He is as good if not better than his brother.",
+          "options": ["He is", "as good if not", "better than", "his brother"],
+          "correct_answer": "as good if not",
+          "grammar_type": "Error Spotting (Comparison)"
+        },
+        {
+          "id": 111,
+          "question": "He is addicted to ___.",
+          "options": ["smoke", "smoking", "be smoked", "to smoke"],
+          "correct_answer": "smoking",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 112,
+          "question": "I will do it when I have time. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause of Time", "Adverb Clause of Condition"],
+          "correct_answer": "Adverb Clause of Time",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 113,
+          "question": "The audience loudly cheered the Mayor's speech. Change the voice.",
+          "options": ["The Mayor's speech was loudly cheered by the audience.", "The Mayor's speech is loudly cheered.", "The audience's cheer was for the Mayor's speech.", "The speech of the Mayor was cheered."],
+          "correct_answer": "The Mayor's speech was loudly cheered by the audience.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 114,
+          "question": "He has ___ experience in this field.",
+          "options": ["many", "much", "a few", "several"],
+          "correct_answer": "much",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 115,
+          "question": "In the event of being late, you will be punished. (Choose a complex sentence)",
+          "options": ["If you are late, you will be punished.", "You will be punished because you are late.", "You are late and you will be punished.", "You will be punished for being late."],
+          "correct_answer": "If you are late, you will be punished.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 116,
+          "question": "He is a man to be admired. 'To be admired' is:",
+          "options": ["A gerund", "A passive infinitive", "An active infinitive", "A participle"],
+          "correct_answer": "A passive infinitive",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 117,
+          "question": "Never give in to despair. 'Give in' means:",
+          "options": ["distribute", "surrender", "stop", "provide"],
+          "correct_answer": "surrender",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 118,
+          "question": "Let him do the work. Change the voice.",
+          "options": ["Let the work be done by him.", "He should do the work.", "The work is to be done by him.", "He is ordered to do the work."],
+          "correct_answer": "Let the work be done by him.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 119,
+          "question": "Identify the error: Let you and I do it.",
+          "options": ["Let", "you and I", "do it", "No error"],
+          "correct_answer": "you and I",
+          "grammar_type": "Error Spotting (Pronouns)"
+        },
+        {
+          "id": 120,
+          "question": "He is fond of ___ novels.",
+          "options": ["read", "to read", "reading", "to reading"],
+          "correct_answer": "reading",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 121,
+          "question": "He works hard so that he may pass. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause of Purpose", "Adverb Clause of Result"],
+          "correct_answer": "Adverb Clause of Purpose",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 122,
+          "question": "The child is crying for the toy. The verb 'crying' is:",
+          "options": ["Transitive", "Intransitive", "Linking", "Auxiliary"],
+          "correct_answer": "Intransitive",
+          "grammar_type": "Verbs (Transitive/Intransitive)"
+        },
+        {
+          "id": 123,
+          "question": "___ of the two books will do.",
+          "options": ["Either", "Neither", "Any", "None"],
+          "correct_answer": "Either",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 124,
+          "question": "He is very fat. He cannot run. (Combine using 'too...to')",
+          "options": ["He is too fat to run.", "He is so fat to run.", "He is very fat to run.", "He is fat enough to run."],
+          "correct_answer": "He is too fat to run.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 125,
+          "question": "I have no chair to sit on. The infinitive 'to sit' modifies:",
+          "options": ["I", "have", "no", "chair"],
+          "correct_answer": "chair",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 126,
+          "question": "The police are looking for the culprit. 'Looking for' means:",
+          "options": ["searching for", "investigating", "caring for", "examining"],
+          "correct_answer": "searching for",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 127,
+          "question": "The noise of the blast woke the sleeping dog. The word 'sleeping' is a:",
+          "options": ["Gerund", "Participle", "Infinitive", "Verb"],
+          "correct_answer": "Participle",
+          "grammar_type": "Participles"
+        },
+        {
+          "id": 128,
+          "question": "Identify the error: The wages of sin are death.",
+          "options": ["The wages", "of sin", "are", "death"],
+          "correct_answer": "are",
+          "grammar_type": "Error Spotting (Subject-Verb Agreement)"
+        },
+        {
+          "id": 129,
+          "question": "He prevented me from ___ there.",
+          "options": ["go", "to go", "going", "to going"],
+          "correct_answer": "going",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 130,
+          "question": "He ran as fast as he could. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause of Manner", "Adverb Clause of Degree"],
+          "correct_answer": "Adverb Clause of Manner",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 131,
+          "question": "The bird flies. The verb 'flies' is:",
+          "options": ["Transitive", "Intransitive", "Linking", "Auxiliary"],
+          "correct_answer": "Intransitive",
+          "grammar_type": "Verbs (Transitive/Intransitive)"
+        },
+        {
+          "id": 132,
+          "question": "How ___ money do you need?",
+          "options": ["many", "much", "few", "a lot"],
+          "correct_answer": "much",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 133,
+          "question": "He is honest. Everyone knows it. (Combine into a complex sentence)",
+          "options": ["Everyone knows that he is honest.", "Everyone knows him to be honest.", "He is honest and everyone knows it.", "Everyone knows his honesty."],
+          "correct_answer": "Everyone knows that he is honest.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 134,
+          "question": "He has a house to live in. The infinitive 'to live' modifies:",
+          "options": ["He", "has", "house", "in"],
+          "correct_answer": "house",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 135,
+          "question": "The strike was called off. 'Called off' means:",
+          "options": ["postponed", "cancelled", "started", "continued"],
+          "correct_answer": "cancelled",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 136,
+          "question": "The wounded man was being helped by some boys. Change the voice.",
+          "options": ["Some boys were helping the wounded man.", "Some boys helped the wounded man.", "The wounded man was helped by some boys.", "Some boys are helping the wounded man."],
+          "correct_answer": "Some boys were helping the wounded man.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 137,
+          "question": "Identify the error: Either of the roads lead to the station.",
+          "options": ["Either of", "the roads", "lead to", "the station"],
+          "correct_answer": "lead to",
+          "grammar_type": "Error Spotting (Subject-Verb Agreement)"
+        },
+        {
+          "id": 138,
+          "question": "He is on the point of ___ a new business.",
+          "options": ["start", "to start", "starting", "to starting"],
+          "correct_answer": "starting",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 139,
+          "question": "He is richer than I am. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause of Comparison", "Principal Clause"],
+          "correct_answer": "Adverb Clause of Comparison",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 140,
+          "question": "He gave me a book. The verb 'gave' is:",
+          "options": ["Transitive", "Intransitive", "Ditransitive", "Linking"],
+          "correct_answer": "Ditransitive",
+          "grammar_type": "Verbs (Transitive/Intransitive)"
+        },
+        {
+          "id": 141,
+          "question": "How ___ pages have you read?",
+          "options": ["many", "much", "few", "a lot of"],
+          "correct_answer": "many",
+          "grammar_type": "Determiners"
+        },
+        {
+          "id": 142,
+          "question": "The boy was disobedient, so the teacher punished him. (Choose a simple sentence)",
+          "options": ["The teacher punished the boy for his disobedience.", "The boy was punished because he was disobedient.", "The teacher punished the disobedient boy.", "Being disobedient, the boy was punished."],
+          "correct_answer": "The teacher punished the boy for his disobedience.",
+          "grammar_type": "Sentence Transformation"
+        },
+        {
+          "id": 143,
+          "question": "His desire to succeed is very strong. 'To succeed' is:",
+          "options": ["A gerund", "A participle", "An infinitive", "A verb"],
+          "correct_answer": "An infinitive",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 144,
+          "question": "I cannot carry on this work. 'Carry on' means:",
+          "options": ["stop", "lift", "continue", "finish"],
+          "correct_answer": "continue",
+          "grammar_type": "Phrasal Verbs"
+        },
+        {
+          "id": 145,
+          "question": "The national anthem is being sung by the girls. Change the voice.",
+          "options": ["The girls are singing the national anthem.", "The girls sing the national anthem.", "The girls were singing the national anthem.", "The girls have sung the national anthem."],
+          "correct_answer": "The girls are singing the national anthem.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 146,
+          "question": "Identify the error: He is my cousin brother.",
+          "options": ["He is", "my", "cousin brother", "No error"],
+          "correct_answer": "cousin brother",
+          "grammar_type": "Error Spotting (Redundancy)"
+        },
+        {
+          "id": 147,
+          "question": "He is averse to ___ anyone.",
+          "options": ["help", "to help", "helping", "to helping"],
+          "correct_answer": "helping",
+          "grammar_type": "Gerunds and Infinitives"
+        },
+        {
+          "id": 148,
+          "question": "I am glad that you have come. (The underlined part is a...)",
+          "options": ["Noun Clause", "Adjective Clause", "Adverb Clause of Reason", "Adverb Clause of Time"],
+          "correct_answer": "Adverb Clause of Reason",
+          "grammar_type": "Clause Identification"
+        },
+        {
+          "id": 149,
+          "question": "The baby sleeps. The verb 'sleeps' is:",
+          "options": ["Transitive", "Intransitive", "Linking", "Auxiliary"],
+          "correct_answer": "Intransitive",
+          "grammar_type": "Verbs (Transitive/Intransitive)"
+        },
+        {
+          "id": 150,
+          "question": "He took ___ of the two choices.",
+          "options": ["either", "neither", "any", "none"],
+          "correct_answer": "neither",
+          "grammar_type": "Determiners"
+        }
+      ]
+    }
+  ]
+}
+

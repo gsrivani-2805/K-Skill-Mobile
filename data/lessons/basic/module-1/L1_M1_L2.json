@@ -1,0 +1,363 @@
+{
+  "level": "Beginner",
+  "module": "PHONICS & PRONUNCIATION",
+  "lesson_number": 2,
+  "lesson_title": "Word Stress",
+  "objectives": [
+    "Understand how some parts of a word are spoken louder and longer.",
+    "Learn to find the strong part of words when speaking.",
+    "Improve how clearly you speak English words."
+  ],
+  "topics": [
+    {
+      "title": "1. What is Word Stress?",
+      "subtopics": [
+        {
+          "title": "1.1. Understanding Stress in Words",
+          "sections": [
+            {
+              "text": "In English, when we speak a word with more than one part (syllable), we say one part louder, longer, and with a higher sound. This strong part is called the 'stressed syllable'. It is like giving more power to one part of the word.",
+              "examples": [
+                {
+                  "label": "Water",
+                  "value": "WA-ter (stress on 'WA')"
+                },
+                {
+                  "label": "Apple",
+                  "value": "AP-ple (stress on 'AP')"
+                },
+                {
+                  "label": "Teacher",
+                  "value": "TEA-cher (stress on 'TEA')"
+                },
+                {
+                  "label": "Village",
+                  "value": "VIL-lage (stress on 'VIL')"
+                },
+                {
+                  "label": "Market",
+                  "value": "MAR-ket (stress on 'MAR')"
+                },
+                {
+                  "label": "Father",
+                  "value": "FA-ther (stress on 'FA')"
+                },
+                {
+                  "label": "Beautiful",
+                  "value": "BEAU-ti-ful (stress on 'BEAU')"
+                },
+                {
+                  "label": "Computer",
+                  "value": "com-PU-ter (stress on 'PU')"
+                }
+              ],
+              "usage_examples": [
+                "Please bring some WA-ter.",
+                "I like to eat a red AP-ple.",
+                "Our TEA-cher is very kind.",
+                "We live in a small VIL-lage.",
+                "Let's go to the MAR-ket today.",
+                "My FA-ther works on the farm.",
+                "The flower is BEAU-ti-ful.",
+                "I am learning to use a com-PU-ter.",
+                "The CHI-cken is running.",
+                "He is a STU-dent.",
+                "This is my FA-mi-ly.",
+                "Let's eat a ba-NA-na.",
+                "The weather is PER-fect.",
+                "Open the WIN-dow.",
+                "He is a DOC-tor."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-2/p1"
+              }
+            },
+            {
+              "text": "Why is word stress important? It helps people understand you better. If you stress the wrong part, the word might sound strange, or sometimes, it can even change the meaning of the word. Correct stress makes your English sound natural and clear.",
+              "examples": [
+                {
+                  "label": "Correct Stress",
+                  "value": "PHO-to-graph (correct)"
+                },
+                {
+                  "label": "Incorrect Stress",
+                  "value": "pho-TO-graph (sounds unusual)"
+                },
+                {
+                  "label": "Correct Stress",
+                  "value": "PO-lice (correct)"
+                },
+                {
+                  "label": "Incorrect Stress",
+                  "value": "po-LICE (sounds unusual)"
+                }
+              ],
+              "usage_examples": [
+                "Please take my PHO-to-graph.",
+                "Saying 'pho-TO-graph' can make it hard to understand.",
+                "The PO-lice officer helped the villagers.",
+                "Stressing the wrong syllable can confuse the listener.",
+                "Good pronunciation includes correct word stress."
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Primary and Secondary Stress",
+      "subtopics": [
+        {
+          "title": "2.1. Primary Stress: The Strongest Part",
+          "sections": [
+            {
+              "text": "Every word with more than one syllable has one main stressed syllable. This is called 'primary stress'. It is the loudest, longest, and highest-pitched part of the word. Think of it as the most important beat in the word.",
+              "examples": [
+                {
+                  "label": "Hospital",
+                  "value": "HOS-pi-tal (primary stress on 'HOS')"
+                },
+                {
+                  "label": "Government",
+                  "value": "GOV-ern-ment (primary stress on 'GOV')"
+                },
+                {
+                  "label": "Elephant",
+                  "value": "EL-e-phant (primary stress on 'EL')"
+                },
+                {
+                  "label": "Computer",
+                  "value": "com-PU-ter (primary stress on 'PU')"
+                },
+                {
+                  "label": "Family",
+                  "value": "FA-mi-ly (primary stress on 'FA')"
+                },
+                {
+                  "label": "Important",
+                  "value": "im-POR-tant (primary stress on 'POR')"
+                },
+                {
+                  "label": "Understand",
+                  "value": "un-der-STAND (primary stress on 'STAND')"
+                },
+                {
+                  "label": "Tomorrow",
+                  "value": "to-MOR-row (primary stress on 'MOR')"
+                }
+              ],
+              "usage_examples": [
+                "My uncle works at the HOS-pi-tal.",
+                "The GOV-ern-ment helps our village.",
+                "An EL-e-phant is a big animal.",
+                "I use a com-PU-ter for studies.",
+                "My FA-mi-ly is very important to me.",
+                "This is an im-POR-tant lesson.",
+                "Do you un-der-STAND?",
+                "We will go to the city to-MOR-row.",
+                "The weather is BEAU-ti-ful today.",
+                "We had a good con-ver-SA-tion.",
+                "This is a di-FFI-cult question.",
+                "My brother is in-TEL-li-gent.",
+                "Farming is our oc-cu-PA-tion.",
+                "This is a TRAD-i-tion in our village.",
+                "We need to pro-TECT our environment."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-2/p2"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Secondary Stress: A Little Stronger",
+          "sections": [
+            {
+              "text": "Some longer words have another syllable that is also stressed, but not as strongly as the primary stress. This is called 'secondary stress'. It is stronger than an unstressed syllable but weaker than the primary stressed syllable. You can often hear it in words with four or more syllables.",
+              "examples": [
+                {
+                  "label": "Celebration",
+                  "value": "ce-le-BRA-tion (primary on 'BRA', secondary on 'ce')"
+                },
+                {
+                  "label": "Information",
+                  "value": "in-for-MA-tion (primary on 'MA', secondary on 'in')"
+                },
+                {
+                  "label": "Education",
+                  "value": "e-du-CA-tion (primary on 'CA', secondary on 'e')"
+                },
+                {
+                  "label": "Agriculture",
+                  "value": "ag-ri-CUL-ture (primary on 'CUL', secondary on 'ag')"
+                },
+                {
+                  "label": "University",
+                  "value": "u-ni-VER-si-ty (primary on 'VER', secondary on 'u')"
+                },
+                {
+                  "label": "Recommendation",
+                  "value": "re-com-men-DA-tion (primary on 'DA', secondary on 're')"
+                },
+                {
+                  "label": "Communication",
+                  "value": "com-mu-ni-CA-tion (primary on 'CA', secondary on 'com')"
+                },
+                {
+                  "label": "Responsibility",
+                  "value": "re-spon-si-BI-li-ty (primary on 'BI', secondary on 're')"
+                }
+              ],
+              "usage_examples": [
+                "We had a big ce-le-BRA-tion in the village.",
+                "I need some in-for-MA-tion about the school.",
+                "Good e-du-CA-tion is important for everyone.",
+                "Ag-ri-CUL-ture is the main work here.",
+                "My brother wants to go to u-ni-VER-si-ty.",
+                "I need a re-com-men-DA-tion letter.",
+                "Good com-mu-ni-CA-tion is key.",
+                "It is my re-spon-si-BI-li-ty.",
+                "We learned about e-lec-TRI-ci-ty.",
+                "He has a good per-so-NA-li-ty.",
+                "This is a great op-por-TU-ni-ty.",
+                "What are your qua-li-fi-CA-tions?",
+                "I have no un-der-STAND-ing of this topic.",
+                "This is an in-ter-NA-tion-al school.",
+                "I like pho-to-GRA-phic art."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-2/p3"
+              },
+              "table": {
+                "title": "Primary vs. Secondary Stress Examples",
+                "headers": ["Word", "Primary Stress", "Secondary Stress", "Unstressed Syllables"],
+                "rows": [
+                  ["Celebration", "BRA", "ce", "le, tion"],
+                  ["Information", "MA", "in", "for, tion"],
+                  ["Education", "CA", "e", "du, tion"],
+                  ["Agriculture", "CUL", "ag", "ri, ture"],
+                  ["University", "VER", "u", "ni, si, ty"],
+                  ["Communication", "CA", "com", "mu, ni, tion"],
+                  ["Responsibility", "BI", "re", "spon, si, li, ty"],
+                  ["International", "NA", "in", "ter, tion, al"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. How Stress Changes Meaning",
+      "subtopics": [
+        {
+          "title": "3.1. Noun vs. Verb Stress: Same Word, Different Meaning",
+          "sections": [
+            {
+              "text": "Some words in English can be both a noun (a thing) and a verb (an action). The meaning changes depending on where you put the stress. If the stress is on the first syllable, it's usually a noun. If the stress is on the second syllable, it's usually a verb.",
+              "examples": [
+                {
+                  "label": "Present (Noun)",
+                  "value": "PRE-sent (a gift)"
+                },
+                {
+                  "label": "Present (Verb)",
+                  "value": "pre-SENT (to give or show)"
+                },
+                {
+                  "label": "Record (Noun)",
+                  "value": "RE-cord (a piece of information or music)"
+                },
+                {
+                  "label": "Record (Verb)",
+                  "value": "re-CORD (to write down or save sound)"
+                },
+                {
+                  "label": "Object (Noun)",
+                  "value": "OB-ject (a thing)"
+                },
+                {
+                  "label": "Object (Verb)",
+                  "value": "ob-JECT (to disagree)"
+                },
+                {
+                  "label": "Conduct (Noun)",
+                  "value": "CON-duct (behavior)"
+                },
+                {
+                  "label": "Conduct (Verb)",
+                  "value": "con-DUCT (to lead or manage)"
+                },
+                {
+                  "label": "Rebel (Noun)",
+                  "value": "RE-bel (a person who fights against authority)"
+                },
+                {
+                  "label": "Rebel (Verb)",
+                  "value": "re-BEL (to fight against authority)"
+                },
+                {
+                  "label": "Increase (Noun)",
+                  "value": "IN-crease (a rise in number or amount)"
+                },
+                {
+                  "label": "Increase (Verb)",
+                  "value": "in-CREASE (to make bigger or more)"
+                },
+                {
+                  "label": "Protest (Noun)",
+                  "value": "PRO-test (a statement or action expressing disapproval)"
+                },
+                {
+                  "label": "Protest (Verb)",
+                  "value": "pro-TEST (to express an objection to something)"
+                }
+              ],
+              "usage_examples": [
+                "My friend gave me a nice PRE-sent.",
+                "I will pre-SENT my work tomorrow.",
+                "Keep a RE-cord of your attendance.",
+                "Please re-CORD the song.",
+                "What is that OB-ject on the table?",
+                "I ob-JECT to your idea.",
+                "His CON-duct was very good.",
+                "She will con-DUCT the meeting.",
+                "The RE-bel fought for freedom.",
+                "They decided to re-BEL against the rules.",
+                "There was an IN-crease in rainfall this year.",
+                "We need to in-CREASE our efforts.",
+                "The farmers held a PRO-test.",
+                "They will pro-TEST the new law.",
+                "This is a DE-sert (dry land). They will de-SERT (abandon) the village."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-2/p4"
+              },
+              "table": {
+                "title": "Words Changing Meaning with Stress",
+                "headers": ["Word", "Stress Pattern", "Part of Speech", "Meaning"],
+                "rows": [
+                  ["present", "PRE-sent", "Noun", "A gift"],
+                  ["present", "pre-SENT", "Verb", "To give or show"],
+                  ["record", "RE-cord", "Noun", "A piece of information/music"],
+                  ["record", "re-CORD", "Verb", "To write down/save sound"],
+                  ["object", "OB-ject", "Noun", "A thing"],
+                  ["object", "ob-JECT", "Verb", "To disagree"],
+                  ["conduct", "CON-duct", "Noun", "Behavior"],
+                  ["conduct", "con-DUCT", "Verb", "To lead or manage"],
+                  ["rebel", "RE-bel", "Noun", "A person who fights against authority"],
+                  ["rebel", "re-BEL", "Verb", "To fight against authority"],
+                  ["increase", "IN-crease", "Noun", "A rise in amount"],
+                  ["increase", "in-CREASE", "Verb", "To make bigger"],
+                  ["protest", "PRO-test", "Noun", "An expression of disapproval"],
+                  ["protest", "pro-TEST", "Verb", "To object to something"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

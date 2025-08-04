@@ -1,0 +1,3176 @@
+{
+  "title": "Transportation",
+  "icon": "🚗",
+  "words": [
+    {
+      "word": "Car",
+      "pronunciation": "/kɑːr/",
+      "definition": "A road vehicle with an engine, used for carrying a small number of people.",
+      "sentences": [
+        "My dad drives his car to work every day.",
+        "We went on a long trip in our new car.",
+        "The red car is parked outside."
+      ]
+    },
+    {
+      "word": "Bus",
+      "pronunciation": "/bʌs/",
+      "definition": "A large road vehicle that carries many passengers along a fixed route.",
+      "sentences": [
+        "I take the bus to school in the morning.",
+        "The bus stop is near my house.",
+        "Many people ride the bus to save money."
+      ]
+    },
+    {
+      "word": "Train",
+      "pronunciation": "/treɪn/",
+      "definition": "A form of transport that runs on railway tracks, carrying passengers or goods.",
+      "sentences": [
+        "We traveled by train to the mountains.",
+        "The train arrived on time at the station.",
+        "Children love to watch the big train go by."
+      ]
+    },
+    {
+      "word": "Bicycle",
+      "pronunciation": "/ˈbaɪsɪkl/",
+      "definition": "A vehicle with two wheels, propelled by pedals.",
+      "sentences": [
+        "She rides her bicycle to the park.",
+        "Always wear a helmet when you ride a bicycle.",
+        "My new bicycle is blue."
+      ]
+    },
+    {
+      "word": "Motorcycle",
+      "pronunciation": "/ˈmoʊtərˌsaɪkl/",
+      "definition": "A two-wheeled vehicle with an engine.",
+      "sentences": [
+        "He enjoys riding his motorcycle on weekends.",
+        "Motorcycles can be very fast.",
+        "The motorcycle parked next to the car."
+      ]
+    },
+    {
+      "word": "Truck",
+      "pronunciation": "/trʌk/",
+      "definition": "A large road vehicle used for carrying heavy goods.",
+      "sentences": [
+        "The truck delivered furniture to our house.",
+        "Big trucks drive on the highway.",
+        "He drives a large truck for his job."
+      ]
+    },
+    {
+      "word": "Airplane",
+      "pronunciation": "/ˈɛərpleɪn/",
+      "definition": "A powered flying vehicle with fixed wings and a jet engine or propeller.",
+      "sentences": [
+        "We flew in an airplane to visit my grandparents.",
+        "The airplane took off from the airport.",
+        "Airplanes can travel very long distances."
+      ]
+    },
+    {
+      "word": "Boat",
+      "pronunciation": "/boʊt/",
+      "definition": "A small vessel for traveling over water.",
+      "sentences": [
+        "We went fishing in a small boat.",
+        "The boat sailed across the lake.",
+        "Many people enjoy going out on their boats."
+      ]
+    },
+    {
+      "word": "Ship",
+      "pronunciation": "/ʃɪp/",
+      "definition": "A large vessel that travels over water, especially the ocean.",
+      "sentences": [
+        "The cargo ship carried many containers.",
+        "We saw a big cruise ship at the harbor.",
+        "The ship sailed to a faraway land."
+      ]
+    },
+    {
+      "word": "Subway",
+      "pronunciation": "/ˈsʌbweɪ/",
+      "definition": "An underground railway system in a city.",
+      "sentences": [
+        "I take the subway to get around the city quickly.",
+        "The subway station is always busy.",
+        "The subway trains run every few minutes."
+      ]
+    },
+    {
+      "word": "Taxi",
+      "pronunciation": "/ˈtæksi/",
+      "definition": "A car with a driver that you pay to take you somewhere.",
+      "sentences": [
+        "We called a taxi to go to the airport.",
+        "The taxi driver was very friendly.",
+        "It's easier to get a taxi in the city center."
+      ]
+    },
+    {
+      "word": "Scooter",
+      "pronunciation": "/ˈskuːtər/",
+      "definition": "A light two-wheeled open motor vehicle or a child's toy with a footboard and handlebars.",
+      "sentences": [
+        "He rides an electric scooter to work.",
+        "My little sister got a new scooter for her birthday.",
+        "Scooters are good for short distances."
+      ]
+    },
+    {
+      "word": "Pedestrian",
+      "pronunciation": "/pɪˈdɛstriən/",
+      "definition": "A person walking rather than traveling in a vehicle.",
+      "sentences": [
+        "Pedestrians should use the crosswalk.",
+        "The street was full of pedestrians.",
+        "Be careful when driving near pedestrians."
+      ]
+    },
+    {
+      "word": "Driver",
+      "pronunciation": "/ˈdraɪvər/",
+      "definition": "A person who drives a vehicle.",
+      "sentences": [
+        "The bus driver stopped at every stop.",
+        "She is a careful driver.",
+        "The race car driver won the competition."
+      ]
+    },
+    {
+      "word": "Passenger",
+      "pronunciation": "/ˈpæsɪndʒər/",
+      "definition": "A person traveling in a vehicle but not driving it.",
+      "sentences": [
+        "There were many passengers on the train.",
+        "The airplane can carry hundreds of passengers.",
+        "He was a passenger in his friend's car."
+      ]
+    },
+    {
+      "word": "Pilot",
+      "pronunciation": "/ˈpaɪlət/",
+      "definition": "A person who operates the flying controls of an aircraft.",
+      "sentences": [
+        "The pilot announced our arrival time.",
+        "She dreams of becoming an airplane pilot.",
+        "The pilot landed the plane smoothly."
+      ]
+    },
+    {
+      "word": "Captain",
+      "pronunciation": "/ˈkæptɪn/",
+      "definition": "The person in command of a ship or an aircraft.",
+      "sentences": [
+        "The ship's captain guided it through the storm.",
+        "The captain welcomed us aboard.",
+        "He is the captain of the fishing boat."
+      ]
+    },
+    {
+      "word": "Conductor",
+      "pronunciation": "/kənˈdʌktər/",
+      "definition": "A person who collects fares on a bus or train, or who leads an orchestra.",
+      "sentences": [
+        "The train conductor checked our tickets.",
+        "The bus conductor helped me find a seat.",
+        "He wants to be a music conductor someday."
+      ]
+    },
+    {
+      "word": "Ticket",
+      "pronunciation": "/ˈtɪkɪt/",
+      "definition": "A piece of paper or card that allows you to travel on public transport.",
+      "sentences": [
+        "I bought a train ticket to the city.",
+        "Show your ticket to the driver.",
+        "The airline tickets were expensive."
+      ]
+    },
+    {
+      "word": "Station",
+      "pronunciation": "/ˈsteɪʃən/",
+      "definition": "A place where trains or buses stop for passengers.",
+      "sentences": [
+        "We waited for the train at the station.",
+        "The bus station is very busy in the morning.",
+        "The police station is across the street."
+      ]
+    },
+    {
+      "word": "Airport",
+      "pronunciation": "/ˈɛərˌpɔːrt/",
+      "definition": "A place where aircraft regularly take off and land, with facilities for passengers.",
+      "sentences": [
+        "Our flight departs from the main airport.",
+        "I arrived at the airport two hours early.",
+        "The airport has many shops and restaurants."
+      ]
+    },
+    {
+      "word": "Port",
+      "pronunciation": "/pɔːrt/",
+      "definition": "A town or city with a harbor where ships load and unload.",
+      "sentences": [
+        "The ship docked at the port.",
+        "Many goods arrive at the port by sea.",
+        "The port is a busy place for trade."
+      ]
+    },
+    {
+      "word": "Road",
+      "pronunciation": "/roʊd/",
+      "definition": "A wide way leading from one place to another, especially one with a specially prepared surface.",
+      "sentences": [
+        "The road was covered in snow.",
+        "Drive carefully on this winding road.",
+        "They built a new road to the beach."
+      ]
+    },
+    {
+      "word": "Street",
+      "pronunciation": "/striːt/",
+      "definition": "A public road in a city or town.",
+      "sentences": [
+        "Our house is on a quiet street.",
+        "Children played in the street.",
+        "The streetlights came on at dusk."
+      ]
+    },
+    {
+      "word": "Highway",
+      "pronunciation": "/ˈhaɪweɪ/",
+      "definition": "A main road, especially one connecting major towns or cities.",
+      "sentences": [
+        "We drove on the highway to get there faster.",
+        "The highway was busy with traffic.",
+        "The speed limit on the highway is high."
+      ]
+    },
+    {
+      "word": "Bridge",
+      "pronunciation": "/brɪdʒ/",
+      "definition": "A structure carrying a road, path, railway, etc., across a river, road, or other obstacle.",
+      "sentences": [
+        "The car drove over the long bridge.",
+        "The bridge connects the two sides of the city.",
+        "They built a new bridge across the river."
+      ]
+    },
+    {
+      "word": "Tunnel",
+      "pronunciation": "/ˈtʌnəl/",
+      "definition": "An artificial underground passage, especially one built through a hill or under a river or city.",
+      "sentences": [
+        "The train went through a dark tunnel.",
+        "The tunnel was very long.",
+        "They are building a new tunnel under the mountain."
+      ]
+    },
+    {
+      "word": "Traffic",
+      "pronunciation": "/ˈtræfɪk/",
+      "definition": "Vehicles moving on a road or public highway.",
+      "sentences": [
+        "There was a lot of traffic on the way to work.",
+        "Traffic was heavy during rush hour.",
+        "The police officer directed traffic."
+      ]
+    },
+    {
+      "word": "Commute",
+      "pronunciation": "/kəˈmjuːt/",
+      "definition": "To travel some distance regularly between one's home and place of work or study.",
+      "sentences": [
+        "My dad has a long commute every day.",
+        "She commutes by train to the city.",
+        "His commute takes about an hour."
+      ]
+    },
+    {
+      "word": "Journey",
+      "pronunciation": "/ˈdʒɜːrni/",
+      "definition": "An act of traveling from one place to another.",
+      "sentences": [
+        "We had a long journey by car.",
+        "The train journey was very scenic.",
+        "Every journey begins with a single step."
+      ]
+    },
+    {
+      "word": "Travel",
+      "pronunciation": "/ˈtrævəl/",
+      "definition": "To go from one place to another, typically over a distance.",
+      "sentences": [
+        "I love to travel to new countries.",
+        "They plan to travel around the world next year.",
+        "Travel can be very exciting."
+      ]
+    },
+    {
+      "word": "Destination",
+      "pronunciation": "/ˌdɛstɪˈneɪʃən/",
+      "definition": "The place to which someone or something is going or being sent.",
+      "sentences": [
+        "Our destination was a small village in the mountains.",
+        "We reached our destination after a long drive.",
+        "What is your final destination?"
+      ]
+    },
+    {
+      "word": "Map",
+      "pronunciation": "/mæp/",
+      "definition": "A diagrammatic representation of an area of land or sea showing physical features, cities, roads, etc.",
+      "sentences": [
+        "We used a map to find our way.",
+        "The treasure map showed hidden clues.",
+        "She drew a map to her house."
+      ]
+    },
+    {
+      "word": "Route",
+      "pronunciation": "/ruːt/",
+      "definition": "A way or course taken in getting from a starting point to a destination.",
+      "sentences": [
+        "We took the scenic route to avoid traffic.",
+        "What is the shortest route to the city center?",
+        "The bus follows a fixed route."
+      ]
+    },
+    {
+      "word": "Sign",
+      "pronunciation": "/saɪn/",
+      "definition": "A notice or indication that gives information, a warning, or an instruction.",
+      "sentences": [
+        "The road sign showed the way to the airport.",
+        "Pay attention to the traffic signs.",
+        "There was a 'Stop' sign at the intersection."
+      ]
+    },
+    {
+      "word": "Light",
+      "pronunciation": "/laɪt/",
+      "definition": "A traffic light, which controls the flow of traffic.",
+      "sentences": [
+        "The car stopped at the red light.",
+        "Wait for the green light before crossing.",
+        "The traffic light changed to yellow."
+      ]
+    },
+    {
+      "word": "Stop",
+      "pronunciation": "/stɒp/",
+      "definition": "To cease moving or operating.",
+      "sentences": [
+        "The bus will stop at the next corner.",
+        "Please stop the car here.",
+        "The train made an emergency stop."
+      ]
+    },
+    {
+      "word": "Go",
+      "pronunciation": "/ɡoʊ/",
+      "definition": "To move from one place to another.",
+      "sentences": [
+        "The light turned green, so we could go.",
+        "Let's go for a walk.",
+        "The car started to go very fast."
+      ]
+    },
+    {
+      "word": "Park",
+      "pronunciation": "/pɑːrk/",
+      "definition": "To bring a vehicle to a halt and leave it temporarily.",
+      "sentences": [
+        "You can park your car in the parking lot.",
+        "I need to find a place to park.",
+        "Don't park here, it's a no-parking zone."
+      ]
+    },
+    {
+      "word": "Garage",
+      "pronunciation": "/ˈɡærɑːʒ/",
+      "definition": "A building or shed for housing a motor vehicle or vehicles.",
+      "sentences": [
+        "My dad keeps his car in the garage.",
+        "The old garage needs repairs.",
+        "He built a new garage next to his house."
+      ]
+    },
+    {
+      "word": "Fuel",
+      "pronunciation": "/fjuːəl/",
+      "definition": "Material such as coal, gas, or oil that is burned to produce heat or power.",
+      "sentences": [
+        "We need to put more fuel in the car.",
+        "The airplane uses a special type of fuel.",
+        "Fuel prices have gone up recently."
+      ]
+    },
+    {
+      "word": "Gas",
+      "pronunciation": "/ɡæs/",
+      "definition": "A common term for gasoline, a fuel for cars.",
+      "sentences": [
+        "I need to fill up the car with gas.",
+        "The gas station is just around the corner.",
+        "We ran out of gas on the highway."
+      ]
+    },
+    {
+      "word": "Electric",
+      "pronunciation": "/ɪˈlɛktrɪk/",
+      "definition": "Powered by electricity.",
+      "sentences": [
+        "Electric cars are becoming more popular.",
+        "She rides an electric scooter.",
+        "The train uses electric power."
+      ]
+    },
+    {
+      "word": "Hybrid",
+      "pronunciation": "/ˈhaɪbrɪd/",
+      "definition": "A vehicle that uses both a gasoline engine and an electric motor.",
+      "sentences": [
+        "Hybrid cars are more fuel-efficient.",
+        "My parents bought a new hybrid car.",
+        "Hybrid technology helps reduce pollution."
+      ]
+    },
+    {
+      "word": "Engine",
+      "pronunciation": "/ˈɛndʒɪn/",
+      "definition": "A machine with moving parts that converts power into motion.",
+      "sentences": [
+        "The car's engine made a strange noise.",
+        "The mechanic fixed the engine.",
+        "The airplane has powerful engines."
+      ]
+    },
+    {
+      "word": "Wheel",
+      "pronunciation": "/wiːl/",
+      "definition": "A circular object that revolves on an axle and is fixed below a vehicle or other object to enable it to move easily over the ground.",
+      "sentences": [
+        "The car has four wheels.",
+        "My bicycle has two wheels.",
+        "The wheel came off the toy car."
+      ]
+    },
+    {
+      "word": "Tire",
+      "pronunciation": "/ˈtaɪər/",
+      "definition": "A rubber covering, usually inflated, placed around the wheel of a vehicle.",
+      "sentences": [
+        "My car has a flat tire.",
+        "You need to check the tire pressure.",
+        "The bicycle tire needs air."
+      ]
+    },
+    {
+      "word": "Brake",
+      "pronunciation": "/breɪk/",
+      "definition": "A device used for slowing or stopping a moving vehicle.",
+      "sentences": [
+        "Press the brake pedal to slow down.",
+        "The car's brakes squeaked loudly.",
+        "Always check your bicycle brakes."
+      ]
+    },
+    {
+      "word": "Steering wheel",
+      "pronunciation": "/ˈstɪərɪŋ wiːl/",
+      "definition": "A wheel that the driver turns to steer a vehicle.",
+      "sentences": [
+        "He held the steering wheel tightly.",
+        "Learning to turn the steering wheel smoothly takes practice.",
+        "The steering wheel is on the left side in this car."
+      ]
+    },
+    {
+      "word": "Seatbelt",
+      "pronunciation": "/ˈsiːtbɛlt/",
+      "definition": "A safety belt worn in a vehicle to prevent injury in a crash.",
+      "sentences": [
+        "Always wear your seatbelt when driving.",
+        "The seatbelt clicked securely.",
+        "Make sure all passengers wear their seatbelts."
+      ]
+    },
+    {
+      "word": "Helmet",
+      "pronunciation": "/ˈhɛlmɪt/",
+      "definition": "A hard hat that protects the head, worn by motorcyclists, cyclists, etc.",
+      "sentences": [
+        "He put on his helmet before riding the motorcycle.",
+        "Always wear a helmet when cycling.",
+        "The football player wore a protective helmet."
+      ]
+    },
+    {
+      "word": "Fare",
+      "pronunciation": "/fɛər/",
+      "definition": "The money a passenger pays for a journey on public transport.",
+      "sentences": [
+        "The bus fare is two dollars.",
+        "How much is the train fare to London?",
+        "Children pay a reduced fare."
+      ]
+    },
+    {
+      "word": "Schedule",
+      "pronunciation": "/ˈskɛdʒuːl/",
+      "definition": "A plan of times when things will happen, especially for public transport.",
+      "sentences": [
+        "Check the train schedule for departure times.",
+        "The bus runs on a strict schedule.",
+        "Our travel schedule is very tight."
+      ]
+    },
+    {
+      "word": "Departure",
+      "pronunciation": "/dɪˈpɑːrtʃər/",
+      "definition": "The action of leaving, especially to start a journey.",
+      "sentences": [
+        "Our flight departure was delayed by an hour.",
+        "We arrived at the airport two hours before departure.",
+        "The train's departure time is 10 AM."
+      ]
+    },
+    {
+      "word": "Arrival",
+      "pronunciation": "/əˈraɪvəl/",
+      "definition": "The action of reaching a destination.",
+      "sentences": [
+        "We waited for their arrival at the station.",
+        "The flight's arrival time is 3 PM.",
+        "Their arrival was celebrated with cheers."
+      ]
+    },
+    {
+      "word": "Terminal",
+      "pronunciation": "/ˈtɜːrmɪnl/",
+      "definition": "A building at an airport or port where passengers arrive and depart.",
+      "sentences": [
+        "Our flight is departing from Terminal 3.",
+        "The cruise ship terminal was very busy.",
+        "I'll meet you at the arrival terminal."
+      ]
+    },
+    {
+      "word": "Platform",
+      "pronunciation": "/ˈplætfɔːrm/",
+      "definition": "A raised level surface alongside a railway track, where passengers get on and off trains.",
+      "sentences": [
+        "The train is on Platform 5.",
+        "Wait behind the yellow line on the platform.",
+        "We stood on the platform waiting for the subway."
+      ]
+    },
+    {
+      "word": "Gate",
+      "pronunciation": "/ɡeɪt/",
+      "definition": "An exit or entrance in an airport where passengers board or leave an aircraft.",
+      "sentences": [
+        "Our flight is boarding at Gate B20.",
+        "Please proceed to your assigned gate.",
+        "The gate number was displayed on the screen."
+      ]
+    },
+    {
+      "word": "Runway",
+      "pronunciation": "/ˈrʌnweɪ/",
+      "definition": "A strip of ground where aircraft take off and land.",
+      "sentences": [
+        "The airplane sped down the runway.",
+        "The runway was clear for takeoff.",
+        "Birds on the runway caused a delay."
+      ]
+    },
+    {
+      "word": "Dock",
+      "pronunciation": "/dɒk/",
+      "definition": "A landing place for boats and ships.",
+      "sentences": [
+        "The boat was tied to the dock.",
+        "We walked along the dock to see the ships.",
+        "The cargo was unloaded at the dock."
+      ]
+    },
+    {
+      "word": "Harbor",
+      "pronunciation": "/ˈhɑːrbər/",
+      "definition": "A place on the coast where ships may find shelter.",
+      "sentences": [
+        "Many boats were anchored in the harbor.",
+        "The city has a beautiful natural harbor.",
+        "We watched the ships leave the harbor."
+      ]
+    },
+    {
+      "word": "Vehicle",
+      "pronunciation": "/ˈviːɪkl/",
+      "definition": "A machine used for transporting people or goods, especially on land.",
+      "sentences": [
+        "A car is a type of vehicle.",
+        "Emergency vehicles have sirens.",
+        "He owns several vehicles."
+      ]
+    },
+    {
+      "word": "Transport",
+      "pronunciation": "/ˈtrænspɔːrt/",
+      "definition": "The system or means of conveying people or goods from one place to another.",
+      "sentences": [
+        "Public transport is very convenient in the city.",
+        "We need better transport links to the airport.",
+        "The company specializes in goods transport."
+      ]
+    },
+    {
+      "word": "Public transport",
+      "pronunciation": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "definition": "Buses, trains, and other forms of transport that are available to everyone and run on fixed routes.",
+      "sentences": [
+        "I use public transport to save money and help the environment.",
+        "Public transport can be crowded during rush hour.",
+        "Many cities have excellent public transport systems."
+      ]
+    },
+    {
+      "word": "Private car",
+      "pronunciation": "/ˈpraɪvət kɑːr/",
+      "definition": "A car owned and used by an individual or family, not for public use.",
+      "sentences": [
+        "We prefer to use our private car for long trips.",
+        "Having a private car gives you more flexibility.",
+        "Not everyone can afford a private car."
+      ]
+    },
+    {
+      "word": "Ride",
+      "pronunciation": "/raɪd/",
+      "definition": "To sit on and control a bicycle, motorcycle, or horse, or to be carried in a vehicle.",
+      "sentences": [
+        "Do you want to ride my bicycle?",
+        "She enjoys a long ride on her horse.",
+        "We went for a ride in the countryside."
+      ]
+    },
+    {
+      "word": "Drive",
+      "pronunciation": "/draɪv/",
+      "definition": "To operate and control the direction and speed of a motor vehicle.",
+      "sentences": [
+        "He learned to drive when he was 18.",
+        "I will drive you to the station.",
+        "It's a long drive to the coast."
+      ]
+    },
+    {
+      "word": "Walk",
+      "pronunciation": "/wɔːk/",
+      "definition": "To move at a regular pace by lifting and setting down each foot in turn, never having both feet off the ground at once.",
+      "sentences": [
+        "I like to walk to school on sunny days.",
+        "Let's go for a walk in the park.",
+        "It's a short walk from here to the shop."
+      ]
+    },
+    {
+      "word": "Fly",
+      "pronunciation": "/flaɪ/",
+      "definition": "To travel through the air using an aircraft.",
+      "sentences": [
+        "We will fly to Paris next month.",
+        "Birds can fly high in the sky.",
+        "He learned how to fly a small plane."
+      ]
+    },
+    {
+      "word": "Sail",
+      "pronunciation": "/seɪl/",
+      "definition": "To travel in a boat or ship, especially one powered by sails or an engine.",
+      "sentences": [
+        "They sailed across the ocean.",
+        "We went for a sail on the lake.",
+        "The ship will sail at dawn."
+      ]
+    },
+    {
+      "word": "Cruise",
+      "pronunciation": "/kruːz/",
+      "definition": "A holiday during which you travel on a ship or boat and visit a number of places.",
+      "sentences": [
+        "They went on a cruise to the Caribbean.",
+        "The cruise ship was huge and luxurious.",
+        "I want to go on a world cruise someday."
+      ]
+    },
+    {
+      "word": "Trip",
+      "pronunciation": "/trɪp/",
+      "definition": "A journey or excursion, especially for pleasure.",
+      "sentences": [
+        "We took a day trip to the beach.",
+        "Our family trip to the mountains was fun.",
+        "He planned a business trip to New York."
+      ]
+    },
+    {
+      "word": "Tour",
+      "pronunciation": "/tʊər/",
+      "definition": "A journey for pleasure in which several places are visited.",
+      "sentences": [
+        "We went on a guided tour of the city.",
+        "The band is on a world tour.",
+        "She enjoyed the bus tour of the historical sites."
+      ]
+    },
+    {
+      "word": "Navigation",
+      "pronunciation": "/ˌnævɪˈɡeɪʃən/",
+      "definition": "The process or activity of accurately ascertaining one's position and planning and following a route.",
+      "sentences": [
+        "GPS helps with car navigation.",
+        "Sailors need good navigation skills.",
+        "The app provides voice navigation."
+      ]
+    },
+    {
+      "word": "GPS",
+      "pronunciation": "/ˌdʒiː piː ˈɛs/",
+      "definition": "Global Positioning System, a satellite-based navigation system.",
+      "sentences": [
+        "My phone has GPS to help me find places.",
+        "We used GPS to navigate through the forest.",
+        "The car's built-in GPS is very useful."
+      ]
+    },
+    {
+      "word": "Lane",
+      "pronunciation": "/leɪn/",
+      "definition": "A narrow road or a designated strip for vehicles on a road.",
+      "sentences": [
+        "Stay in your lane while driving.",
+        "The bicycle lane is for cyclists only.",
+        "The highway has three lanes in each direction."
+      ]
+    },
+    {
+      "word": "Exit",
+      "pronunciation": "/ˈɛɡzɪt/",
+      "definition": "A way out of a place or a road leading off a highway.",
+      "sentences": [
+        "Take the next exit off the highway.",
+        "The emergency exit is clearly marked.",
+        "We missed our exit and had to turn around."
+      ]
+    },
+    {
+      "word": "Entrance",
+      "pronunciation": "/ˈɛntrəns/",
+      "definition": "A point or place of entering.",
+      "sentences": [
+        "The entrance to the parking garage is on the left.",
+        "We met at the main entrance of the building.",
+        "The airport entrance was crowded."
+      ]
+    },
+    {
+      "word": "Speed",
+      "pronunciation": "/spiːd/",
+      "definition": "The rate at which someone or something is able to move or operate.",
+      "sentences": [
+        "The car reached a high speed on the highway.",
+        "Drive at a safe speed.",
+        "The train travels at incredible speed."
+      ]
+    },
+    {
+      "word": "Speed limit",
+      "pronunciation": "/spiːd ˈlɪmɪt/",
+      "definition": "The maximum speed at which vehicles may legally travel on a particular stretch of road.",
+      "sentences": [
+        "Always obey the speed limit.",
+        "The speed limit here is 50 miles per hour.",
+        "Driving over the speed limit is dangerous."
+      ]
+    },
+    {
+      "word": "Pedestrian crossing",
+      "pronunciation": "/pɪˈdɛstriən ˈkrɒsɪŋ/",
+      "definition": "A place on a road where pedestrians can cross safely.",
+      "sentences": [
+        "Use the pedestrian crossing to cross the street.",
+        "The pedestrian crossing has traffic lights.",
+        "Always look both ways at a pedestrian crossing."
+      ]
+    },
+    {
+      "word": "Sidewalk",
+      "pronunciation": "/ˈsaɪdwɔːk/",
+      "definition": "A paved path for pedestrians at the side of a road.",
+      "sentences": [
+        "Walk on the sidewalk, not in the street.",
+        "Children rode their bikes on the sidewalk.",
+        "The sidewalk was wet after the rain."
+      ]
+    },
+    {
+      "word": "Crosswalk",
+      "pronunciation": "/ˈkrɔːswɔːk/",
+      "definition": "A part of a road marked for pedestrians to cross.",
+      "sentences": [
+        "Wait at the crosswalk for the light to change.",
+        "The crosswalk is painted with white lines.",
+        "Always use the crosswalk for safety."
+      ]
+    },
+    {
+      "word": "Traffic jam",
+      "pronunciation": "/ˈtræfɪk dʒæm/",
+      "definition": "A long line of vehicles on a road that cannot move or can only move very slowly.",
+      "sentences": [
+        "We were stuck in a huge traffic jam for an hour.",
+        "Traffic jams are common during rush hour.",
+        "I hate being in a traffic jam."
+      ]
+    },
+    {
+      "word": "Rush hour",
+      "pronunciation": "/rʌʃ ˈaʊər/",
+      "definition": "A time during the day when traffic is heaviest.",
+      "sentences": [
+        "Avoid traveling during rush hour if possible.",
+        "The trains are very crowded during rush hour.",
+        "Rush hour usually happens in the morning and evening."
+      ]
+    },
+    {
+      "word": "Bus stop",
+      "pronunciation": "/bʌs stɒp/",
+      "definition": "A designated place where a bus regularly stops to pick up and drop off passengers.",
+      "sentences": [
+        "I waited for the bus at the bus stop.",
+        "The new bus stop has a shelter.",
+        "She missed her bus because she was late to the bus stop."
+      ]
+    },
+    {
+      "word": "Train station",
+      "pronunciation": "/treɪn ˈsteɪʃən/",
+      "definition": "A place where trains stop for passengers to get on or off.",
+      "sentences": [
+        "We met at the train station.",
+        "The train station has many platforms.",
+        "He bought his ticket at the train station."
+      ]
+    },
+    {
+      "word": "Taxi stand",
+      "pronunciation": "/ˈtæksi stænd/",
+      "definition": "A place where taxis wait for passengers.",
+      "sentences": [
+        "You can find a taxi at the taxi stand outside the hotel.",
+        "There's a taxi stand near the airport exit.",
+        "We waited in line at the taxi stand."
+      ]
+    },
+    {
+      "word": "Car rental",
+      "pronunciation": "/kɑːr ˈrɛntəl/",
+      "definition": "A service that allows you to rent a car for a period of time.",
+      "sentences": [
+        "We used a car rental service for our vacation.",
+        "Car rental can be expensive.",
+        "He booked a car rental online."
+      ]
+    },
+    {
+      "word": "Car share",
+      "pronunciation": "/kɑːr ʃɛər/",
+      "definition": "An arrangement in which a group of people share the use of one or more cars.",
+      "sentences": [
+        "My friends and I use a car share service.",
+        "Car share can save money and reduce traffic.",
+        "She joined a car share program in her city."
+      ]
+    },
+    {
+      "word": "Ride-sharing",
+      "pronunciation": "/raɪd ˈʃɛərɪŋ/",
+      "definition": "A service that arranges for people to share rides in private cars, often through a mobile app.",
+      "sentences": [
+        "I use a ride-sharing app to get around at night.",
+        "Ride-sharing is a convenient way to travel.",
+        "Many people use ride-sharing services instead of taxis."
+      ]
+    },
+    {
+      "word": "Bicycle lane",
+      "pronunciation": "/ˈbaɪsɪkl leɪn/",
+      "definition": "A part of a road or a separate path designated for bicycles.",
+      "sentences": [
+        "Always ride your bike in the bicycle lane.",
+        "The city is building more bicycle lanes.",
+        "The bicycle lane makes cycling safer."
+      ]
+    },
+    {
+      "word": "Pedestrian zone",
+      "pronunciation": "/pɪˈdɛstriən zoʊn/",
+      "definition": "An area where vehicles are not allowed, only pedestrians.",
+      "sentences": [
+        "The city center has a large pedestrian zone.",
+        "We enjoyed walking in the pedestrian zone.",
+        "Cars are not allowed in the pedestrian zone."
+      ]
+    },
+    {
+      "word": "Parking lot",
+      "pronunciation": "/ˈpɑːrkɪŋ lɒt/",
+      "definition": "An area for parking cars.",
+      "sentences": [
+        "The parking lot was full.",
+        "I found a space in the parking lot.",
+        "The supermarket has a large parking lot."
+      ]
+    },
+    {
+      "word": "Parking garage",
+      "pronunciation": "/ˈpɑːrkɪŋ ˈɡærɑːʒ/",
+      "definition": "A multi-story building for parking cars.",
+      "sentences": [
+        "We parked our car in the parking garage.",
+        "The parking garage was very tall.",
+        "It's expensive to park in the city parking garage."
+      ]
+    },
+    {
+      "word": "Toll",
+      "pronunciation": "/toʊl/",
+      "definition": "A charge payable for permission to use a particular bridge or road.",
+      "sentences": [
+        "We had to pay a toll to cross the bridge.",
+        "Some highways have tolls.",
+        "The toll booth collected the money."
+      ]
+    },
+    {
+      "word": "Toll booth",
+      "pronunciation": "/toʊl buːθ/",
+      "definition": "A small building where tolls are collected.",
+      "sentences": [
+        "The line at the toll booth was long.",
+        "Pay your toll at the toll booth.",
+        "The toll booth attendant smiled."
+      ]
+    },
+    {
+      "word": "Roundabout",
+      "pronunciation": "/ˈraʊndəbaʊt/",
+      "definition": "A circular intersection where traffic flows in one direction around a central island.",
+      "sentences": [
+        "Take the third exit at the roundabout.",
+        "Roundabouts can be confusing at first.",
+        "The new roundabout improved traffic flow."
+      ]
+    },
+    {
+      "word": "Intersection",
+      "pronunciation": "/ˌɪntərˈsɛkʃən/",
+      "definition": "A point where two or more roads meet or cross.",
+      "sentences": [
+        "Be careful at busy intersections.",
+        "The accident happened at the intersection.",
+        "Traffic lights control the intersection."
+      ]
+    },
+    {
+      "word": "Turn",
+      "pronunciation": "/tɜːrn/",
+      "definition": "To change direction while moving.",
+      "sentences": [
+        "Turn left at the next street.",
+        "The car made a sharp turn.",
+        "It's your turn to drive."
+      ]
+    },
+    {
+      "word": "Straight",
+      "pronunciation": "/streɪt/",
+      "definition": "In a direct line; not curving or bending.",
+      "sentences": [
+        "Go straight ahead for two miles.",
+        "The road is straight for a long way.",
+        "Keep driving straight until you see the sign."
+      ]
+    },
+    {
+      "word": "Left",
+      "pronunciation": "/lɛft/",
+      "definition": "Toward or on the side of the body that is to the west when one is facing north.",
+      "sentences": [
+        "Turn left at the traffic light.",
+        "Keep to the left side of the road.",
+        "My house is on the left."
+      ]
+    },
+    {
+      "word": "Right",
+      "pronunciation": "/raɪt/",
+      "definition": "Toward or on the side of the body that is to the east when one is facing north.",
+      "sentences": [
+        "Turn right after the bridge.",
+        "The car is on your right.",
+        "Take the first right turn."
+      ]
+    },
+    {
+      "word": "Accelerate",
+      "pronunciation": "/əkˈsɛləreɪt/",
+      "definition": "To increase speed.",
+      "sentences": [
+        "Press the pedal to accelerate the car.",
+        "The car accelerated quickly.",
+        "You need to accelerate to merge onto the highway."
+      ]
+    },
+    {
+      "word": "Decelerate",
+      "pronunciation": "/diːˈsɛləreɪt/",
+      "definition": "To reduce speed; slow down.",
+      "sentences": [
+        "He had to decelerate quickly to avoid an accident.",
+        "The train decelerated as it approached the station.",
+        "Decelerate smoothly when coming to a stop."
+      ]
+    },
+    {
+      "word": "Signal",
+      "pronunciation": "/ˈsɪɡnəl/",
+      "definition": "A gesture, sound, or action that conveys information or an instruction.",
+      "sentences": [
+        "Always use your turn signal when changing lanes.",
+        "The traffic signal turned red.",
+        "He gave a hand signal to stop."
+      ]
+    },
+    {
+      "word": "Mirror",
+      "pronunciation": "/ˈmɪrər/",
+      "definition": "A surface, typically glass coated with a metallic amalgam, which reflects a clear image.",
+      "sentences": [
+        "Check your rearview mirror before changing lanes.",
+        "The side mirror was broken.",
+        "She adjusted the mirror to see better."
+      ]
+    },
+    {
+      "word": "Windshield",
+      "pronunciation": "/ˈwɪndʃiːld/",
+      "definition": "The front window of a car or other vehicle.",
+      "sentences": [
+        "The rain hit the windshield hard.",
+        "Clean your windshield for better visibility.",
+        "A crack appeared in the car's windshield."
+      ]
+    },
+    {
+      "word": "Wiper",
+      "pronunciation": "/ˈwaɪpər/",
+      "definition": "A device with a rubber blade that moves across a windshield to clear rain or snow.",
+      "sentences": [
+        "Turn on the wipers during heavy rain.",
+        "The car's wipers were old and needed replacing.",
+        "He used the rear wiper to clear the back window."
+      ]
+    },
+    {
+      "word": "Trunk",
+      "pronunciation": "/trʌŋk/",
+      "definition": "The enclosed storage space in the rear of a car.",
+      "sentences": [
+        "Put the luggage in the car's trunk.",
+        "The trunk was full of groceries.",
+        "He opened the trunk to get his bag."
+      ]
+    },
+    {
+      "word": "Hood",
+      "pronunciation": "/hʊd/",
+      "definition": "The hinged cover over the engine of a motor vehicle.",
+      "sentences": [
+        "The mechanic lifted the car's hood.",
+        "Smoke came out from under the hood.",
+        "He checked the engine under the hood."
+      ]
+    },
+    {
+      "word": "Bumper",
+      "pronunciation": "/ˈbʌmpər/",
+      "definition": "A horizontal bar at the front or rear of a motor vehicle to absorb impact in a collision.",
+      "sentences": [
+        "The car had a dent in its front bumper.",
+        "He accidentally hit the parking pole with his bumper.",
+        "The bumper protects the car in small crashes."
+      ]
+    },
+    {
+      "word": "Headlight",
+      "pronunciation": "/ˈhɛdˌlaɪt/",
+      "definition": "A powerful light on the front of a motor vehicle or bicycle.",
+      "sentences": [
+        "Turn on your headlights when it's dark.",
+        "One of the car's headlights was broken.",
+        "The headlights lit up the road ahead."
+      ]
+    },
+    {
+      "word": "Taillight",
+      "pronunciation": "/ˈteɪlˌlaɪt/",
+      "definition": "A red light on the rear of a motor vehicle or bicycle.",
+      "sentences": [
+        "The car's taillights glowed in the fog.",
+        "Make sure your taillights are working.",
+        "He saw the red taillights in the distance."
+      ]
+    },
+    {
+      "word": "Exhaust",
+      "pronunciation": "/ɪɡˈzɔːst/",
+      "definition": "The waste gases from an engine, or the system through which they are expelled.",
+      "sentences": [
+        "Black smoke came from the car's exhaust pipe.",
+        "The exhaust system needed repairs.",
+        "Car exhaust can pollute the air."
+      ]
+    },
+    {
+      "word": "Seat",
+      "pronunciation": "/siːt/",
+      "definition": "A thing made or used for sitting on.",
+      "sentences": [
+        "Take a seat in the back of the car.",
+        "The bus seats were comfortable.",
+        "He adjusted his car seat."
+      ]
+    },
+    {
+      "word": "Gear",
+      "pronunciation": "/ɡɪər/",
+      "definition": "A mechanism for transmitting motion, especially a toothed wheel.",
+      "sentences": [
+        "He shifted into a higher gear.",
+        "The car has five forward gears.",
+        "Learning to change gears takes practice."
+      ]
+    },
+    {
+      "word": "Clutch",
+      "pronunciation": "/klʌtʃ/",
+      "definition": "A pedal in a car that disengages the engine from the gearbox.",
+      "sentences": [
+        "Press the clutch before changing gears.",
+        "Learning to use the clutch smoothly is tricky.",
+        "He accidentally stalled the car by releasing the clutch too fast."
+      ]
+    },
+    {
+      "word": "Accelerator",
+      "pronunciation": "/əkˈsɛləˌreɪtər/",
+      "definition": "A foot pedal that controls the speed of a vehicle's engine.",
+      "sentences": [
+        "Press the accelerator to go faster.",
+        "He pushed the accelerator to the floor.",
+        "The car responded quickly to the accelerator."
+      ]
+    },
+    {
+      "word": "Brake pedal",
+      "pronunciation": "/breɪk ˈpɛdl/",
+      "definition": "A foot pedal that operates the brakes of a vehicle.",
+      "sentences": [
+        "He pressed the brake pedal firmly.",
+        "The brake pedal felt soft.",
+        "Always keep your foot near the brake pedal."
+      ]
+    },
+    {
+      "word": "Horn",
+      "pronunciation": "/hɔːrn/",
+      "definition": "A device on a vehicle for sounding a warning.",
+      "sentences": [
+        "He honked the car's horn to get attention.",
+        "Don't use your horn unnecessarily.",
+        "The truck's horn was very loud."
+      ]
+    },
+    {
+      "word": "Siren",
+      "pronunciation": "/ˈsaɪrən/",
+      "definition": "A device that makes a loud, wailing sound, used as a signal or warning.",
+      "sentences": [
+        "We heard the police siren in the distance.",
+        "The ambulance siren was very loud.",
+        "The fire truck rushed by with its siren blaring."
+      ]
+    },
+    {
+      "word": "Emergency vehicle",
+      "pronunciation": "/ɪˈmɜːrdʒənsi ˈviːɪkl/",
+      "definition": "A vehicle used for emergency services, such as ambulances, fire trucks, and police cars.",
+      "sentences": [
+        "Make way for emergency vehicles.",
+        "Emergency vehicles have special lights and sirens.",
+        "The road was cleared for the emergency vehicle."
+      ]
+    },
+    {
+      "word": "Ambulance",
+      "pronunciation": "/ˈæmbjʊləns/",
+      "definition": "A vehicle equipped for carrying sick or injured people.",
+      "sentences": [
+        "The ambulance rushed to the scene of the accident.",
+        "We heard the ambulance siren approaching.",
+        "The paramedics arrived in an ambulance."
+      ]
+    },
+    {
+      "word": "Fire truck",
+      "pronunciation": "/ˈfaɪər trʌk/",
+      "definition": "A vehicle carrying firefighters and equipment for fighting large fires.",
+      "sentences": [
+        "The fire truck arrived quickly at the burning building.",
+        "Children love to see a fire truck up close.",
+        "The fire truck has a long ladder."
+      ]
+    },
+    {
+      "word": "Police car",
+      "pronunciation": "/pəˈliːs kɑːr/",
+      "definition": "A car used by police officers.",
+      "sentences": [
+        "The police car patrolled the streets.",
+        "We saw a police car with its lights flashing.",
+        "The police car stopped next to the broken-down vehicle."
+      ]
+    },
+    {
+      "word": "Train tracks",
+      "pronunciation": "/treɪn træks/",
+      "definition": "The parallel steel rails on which trains run.",
+      "sentences": [
+        "Never walk on the train tracks.",
+        "The train tracks stretched into the distance.",
+        "The train moved smoothly along the tracks."
+      ]
+    },
+    {
+      "word": "Railway",
+      "pronunciation": "/ˈreɪlweɪ/",
+      "definition": "A track made of steel rails along which trains run.",
+      "sentences": [
+        "The railway line connects many towns.",
+        "He works for the national railway company.",
+        "The railway runs through the countryside."
+      ]
+    },
+    {
+      "word": "Subway station",
+      "pronunciation": "/ˈsʌbweɪ ˈsteɪʃən/",
+      "definition": "A station for an underground railway system.",
+      "sentences": [
+        "We met at the subway station entrance.",
+        "The subway station was very crowded.",
+        "You can catch the train at the nearest subway station."
+      ]
+    },
+    {
+      "word": "Ferry",
+      "pronunciation": "/ˈfɛri/",
+      "definition": "A boat or ship for conveying passengers and goods, especially over a relatively short distance and as a regular service.",
+      "sentences": [
+        "We took the ferry across the river.",
+        "The ferry can carry cars and trucks.",
+        "The ferry ride was very pleasant."
+      ]
+    },
+    {
+      "word": "Cargo ship",
+      "pronunciation": "/ˈkɑːrɡoʊ ʃɪp/",
+      "definition": "A ship that carries goods rather than passengers.",
+      "sentences": [
+        "The cargo ship transported goods across the ocean.",
+        "Many products arrive by cargo ship.",
+        "The cargo ship was loaded with containers."
+      ]
+    },
+    {
+      "word": "Sailboat",
+      "pronunciation": "/ˈseɪlˌboʊt/",
+      "definition": "A boat propelled by sails.",
+      "sentences": [
+        "They went for a ride in their sailboat.",
+        "The sailboat glided smoothly on the water.",
+        "He learned to sail a sailboat."
+      ]
+    },
+    {
+      "word": "Jet",
+      "pronunciation": "/dʒɛt/",
+      "definition": "An aircraft powered by jet engines.",
+      "sentences": [
+        "The fighter jet flew very fast.",
+        "We saw a commercial jet flying overhead.",
+        "Jet travel is very common now."
+      ]
+    },
+    {
+      "word": "Helicopter",
+      "pronunciation": "/ˈhɛlɪˌkɒptər/",
+      "definition": "An aircraft that gets its lift from rotors rotating on a vertical axis.",
+      "sentences": [
+        "The helicopter landed on the roof of the hospital.",
+        "We took a helicopter tour of the city.",
+        "The police used a helicopter to search for the missing person."
+      ]
+    },
+    {
+      "word": "Hot air balloon",
+      "pronunciation": "/hɒt ɛər bəˈluːn/",
+      "definition": "A large balloon with a basket underneath, propelled by heated air.",
+      "sentences": [
+        "We went on a hot air balloon ride at sunrise.",
+        "Hot air balloons offer amazing views.",
+        "The colorful hot air balloon floated in the sky."
+      ]
+    },
+    {
+      "word": "Spaceship",
+      "pronunciation": "/ˈspeɪsˌʃɪp/",
+      "definition": "A vehicle used for travel in outer space.",
+      "sentences": [
+        "Astronauts travel in a spaceship.",
+        "The spaceship launched into orbit.",
+        "Children often dream of flying in a spaceship."
+      ]
+    },
+    {
+      "word": "Astronaut",
+      "pronunciation": "/ˈæstrəˌnɔːt/",
+      "definition": "A person who is trained to travel in a spacecraft.",
+      "sentences": [
+        "The astronaut walked on the moon.",
+        "She wants to become an astronaut.",
+        "Astronauts train for many years."
+      ]
+    },
+    {
+      "word": "Flight attendant",
+      "pronunciation": "/flaɪt əˈtɛndənt/",
+      "definition": "A person who serves passengers on an aircraft.",
+      "sentences": [
+        "The flight attendant offered us drinks.",
+        "She works as a flight attendant.",
+        "The flight attendant showed us the safety procedures."
+      ]
+    },
+    {
+      "word": "Ticket counter",
+      "pronunciation": "/ˈtɪkɪt ˈkaʊntər/",
+      "definition": "A place at an airport or station where tickets are sold or checked.",
+      "sentences": [
+        "Go to the ticket counter to check in for your flight.",
+        "The ticket counter was very busy.",
+        "He bought his train ticket at the ticket counter."
+      ]
+    },
+    {
+      "word": "Baggage claim",
+      "pronunciation": "/ˈbæɡɪdʒ kleɪm/",
+      "definition": "The area in an airport where arriving passengers collect their luggage.",
+      "sentences": [
+        "We waited at baggage claim for our suitcases.",
+        "My luggage arrived safely at baggage claim.",
+        "The baggage claim area was crowded."
+      ]
+    },
+    {
+      "word": "Security check",
+      "pronunciation": "/sɪˈkjʊrɪti tʃɛk/",
+      "definition": "An inspection carried out to ensure safety and prevent unauthorized access.",
+      "sentences": [
+        "You need to go through a security check at the airport.",
+        "The security check took a long time.",
+        "Remove your shoes for the security check."
+      ]
+    },
+    {
+      "word": "Boarding pass",
+      "pronunciation": "/ˈbɔːrdɪŋ pæs/",
+      "definition": "A pass that allows you to board a ship or aircraft.",
+      "sentences": [
+        "Show your boarding pass at the gate.",
+        "I printed my boarding pass at home.",
+        "Don't lose your boarding pass."
+      ]
+    },
+    {
+      "word": "Passport",
+      "pronunciation": "/ˈpæspɔːrt/",
+      "definition": "An official document issued by a government, certifying the holder's identity and citizenship, and entitling them to travel abroad.",
+      "sentences": [
+        "You need a passport to travel internationally.",
+        "I renewed my passport last month.",
+        "Show your passport at immigration."
+      ]
+    },
+    {
+      "word": "Visa",
+      "pronunciation": "/ˈviːzə/",
+      "definition": "An endorsement on a passport indicating that the holder is allowed to enter, leave, or stay for a specified period in a country.",
+      "sentences": [
+        "You might need a visa to visit that country.",
+        "She applied for a tourist visa.",
+        "The visa allows him to stay for 90 days."
+      ]
+    },
+    {
+      "word": "Customs",
+      "pronunciation": "/ˈkʌstəmz/",
+      "definition": "The official department that collects duties on goods entering and leaving a country.",
+      "sentences": [
+        "We had to declare our goods at customs.",
+        "The customs officer checked our bags.",
+        "Passing through customs can take time."
+      ]
+    },
+    {
+      "word": "Luggage",
+      "pronunciation": "/ˈlʌɡɪdʒ/",
+      "definition": "Suitcases or other bags used for packing personal belongings when traveling.",
+      "sentences": [
+        "Please place your luggage in the overhead bin.",
+        "He had too much luggage for his trip.",
+        "The airline lost my luggage."
+      ]
+    },
+    {
+      "word": "Backpack",
+      "pronunciation": "/ˈbækˌpæk/",
+      "definition": "A bag with shoulder straps, carried on the back.",
+      "sentences": [
+        "I packed my clothes in my backpack for the hike.",
+        "She carries her books in a backpack.",
+        "His backpack was heavy."
+      ]
+    },
+    {
+      "word": "Suitcase",
+      "pronunciation": "/ˈsuːtkeɪs/",
+      "definition": "A rectangular case with a handle, used for carrying clothes and other possessions when traveling.",
+      "sentences": [
+        "I packed my suitcase for the vacation.",
+        "The suitcase had wheels, making it easy to pull.",
+        "He opened his suitcase to unpack."
+      ]
+    },
+    {
+      "word": "Overhead bin",
+      "pronunciation": "/ˈoʊvərˌhɛd bɪn/",
+      "definition": "An enclosed storage space above the seats in an aircraft or bus.",
+      "sentences": [
+        "Place your small bag in the overhead bin.",
+        "The overhead bin was full.",
+        "He struggled to close the overhead bin."
+      ]
+    },
+    {
+      "word": "Aisle",
+      "pronunciation": "/aɪl/",
+      "definition": "A passage between rows of seats in a church, theater, airplane, or train.",
+      "sentences": [
+        "I prefer an aisle seat on the airplane.",
+        "Walk down the aisle to find your seat.",
+        "The flight attendant walked down the aisle."
+      ]
+    },
+    {
+      "word": "Window seat",
+      "pronunciation": "/ˈwɪndoʊ siːt/",
+      "definition": "A seat next to a window in a vehicle or aircraft.",
+      "sentences": [
+        "She always asks for a window seat to see the view.",
+        "I got a great window seat on the train.",
+        "He likes to sleep in the window seat."
+      ]
+    },
+    {
+      "word": "Middle seat",
+      "pronunciation": "/ˈmɪdl siːt/",
+      "definition": "A seat between two other seats in a row, especially on an airplane.",
+      "sentences": [
+        "No one likes to get the middle seat on a long flight.",
+        "He was stuck in the middle seat.",
+        "The middle seat is not very comfortable."
+      ]
+    },
+    {
+      "word": "Turbulence",
+      "pronunciation": "/ˈtɜːrbjʊləns/",
+      "definition": "Violent or unsteady movement of air or water, or some other fluid.",
+      "sentences": [
+        "The airplane experienced some turbulence during the flight.",
+        "The pilot announced a period of light turbulence.",
+        "Turbulence can make flying feel bumpy."
+      ]
+    },
+    {
+      "word": "Landing",
+      "pronunciation": "/ˈlændɪŋ/",
+      "definition": "The action of an aircraft or boat coming to the ground or a surface.",
+      "sentences": [
+        "The airplane made a smooth landing.",
+        "We prepared for landing.",
+        "The landing gear deployed."
+      ]
+    },
+    {
+      "word": "Takeoff",
+      "pronunciation": "/ˈteɪkˌɒf/",
+      "definition": "The action of an aircraft leaving the ground.",
+      "sentences": [
+        "The airplane was ready for takeoff.",
+        "We felt a push during takeoff.",
+        "Takeoff was delayed due to bad weather."
+      ]
+    },
+    {
+      "word": "Cruise ship",
+      "pronunciation": "/kruːz ʃɪp/",
+      "definition": "A large passenger ship used for pleasure voyages.",
+      "sentences": [
+        "We went on a cruise ship for our vacation.",
+        "The cruise ship had many swimming pools.",
+        "The port was filled with giant cruise ships."
+      ]
+    },
+    {
+      "word": "Pier",
+      "pronunciation": "/pɪər/",
+      "definition": "A platform extending from the shore over water, supported by piles or columns, used as a landing place for ships.",
+      "sentences": [
+        "We walked along the pier to the end.",
+        "The ferry docked at the pier.",
+        "Many people were fishing from the pier."
+      ]
+    },
+    {
+      "word": "Compass",
+      "pronunciation": "/ˈkʌmpəs/",
+      "definition": "An instrument containing a magnetized pointer that shows the direction of magnetic north.",
+      "sentences": [
+        "He used a compass to find his way in the forest.",
+        "A compass is useful for navigation.",
+        "The compass needle pointed north."
+      ]
+    },
+    {
+      "word": "Adventure",
+      "pronunciation": "/ədˈvɛntʃər/",
+      "definition": "An unusual and exciting, typically hazardous, experience or activity.",
+      "sentences": [
+        "Traveling to new places is always an adventure.",
+        "They went on a hiking adventure in the mountains.",
+        "Life is a great adventure."
+      ]
+    },
+    {
+      "word": "Exploration",
+      "pronunciation": "/ˌɛkspləˈreɪʃən/",
+      "definition": "The action of traveling in or through an unfamiliar area in order to learn about it.",
+      "sentences": [
+        "Space exploration is a fascinating field.",
+        "We went on an exploration of the old castle.",
+        "The exploration team discovered a new cave."
+      ]
+    },
+    {
+      "word": "Travel bag",
+      "pronunciation": "/ˈtrævəl bæɡ/",
+      "definition": "A bag used for carrying personal belongings when traveling.",
+      "sentences": [
+        "She packed her travel bag for the weekend trip.",
+        "He carried a small travel bag onto the plane.",
+        "My travel bag is easy to carry."
+      ]
+    },
+    {
+      "word": "Passport holder",
+      "pronunciation": "/ˈpæspɔːrt ˈhoʊldər/",
+      "definition": "A cover or case for a passport.",
+      "sentences": [
+        "Keep your passport in a passport holder.",
+        "She bought a new leather passport holder.",
+        "The passport holder protects the document."
+      ]
+    },
+    {
+      "word": "Travel insurance",
+      "pronunciation": "/ˈtrævəl ɪnˈʃʊrəns/",
+      "definition": "Insurance that covers medical expenses, trip cancellation, lost luggage, and other losses incurred while traveling.",
+      "sentences": [
+        "It's wise to buy travel insurance for international trips.",
+        "Travel insurance can protect you from unexpected problems.",
+        "He purchased travel insurance before his vacation."
+      ]
+    },
+    {
+      "word": "Travel guide",
+      "pronunciation": "/ˈtrævəl ɡaɪd/",
+      "definition": "A book or website that provides information for travelers about a place.",
+      "sentences": [
+        "We used a travel guide to plan our trip.",
+        "The travel guide recommended many restaurants.",
+        "She bought a travel guide for her trip to Italy."
+      ]
+    },
+    {
+      "word": "Tourist",
+      "pronunciation": "/ˈtʊrɪst/",
+      "definition": "A person who is traveling or visiting a place for pleasure or culture.",
+      "sentences": [
+        "Many tourists visit the city in summer.",
+        "The tourist took many photos of the landmark.",
+        "She works as a tour guide for tourists."
+      ]
+    },
+    {
+      "word": "Local",
+      "pronunciation": "/ˈloʊkəl/",
+      "definition": "Relating to or characteristic of a particular place or neighborhood.",
+      "sentences": [
+        "We asked a local for directions.",
+        "The restaurant serves local food.",
+        "She enjoys exploring local markets."
+      ]
+    },
+    {
+      "word": "Landmark",
+      "pronunciation": "/ˈlændmɑːrk/",
+      "definition": "An object or feature of a landscape or town that is easily seen and recognized, often used as a guide.",
+      "sentences": [
+        "The Eiffel Tower is a famous landmark in Paris.",
+        "The old church is a local landmark.",
+        "We used the tall building as a landmark."
+      ]
+    },
+    {
+      "word": "Attraction",
+      "pronunciation": "/əˈtrækʃən/",
+      "definition": "A place or feature that draws visitors by providing something of interest or pleasure.",
+      "sentences": [
+        "The city has many tourist attractions.",
+        "The amusement park is a popular attraction.",
+        "What are the main attractions in this area?"
+      ]
+    },
+    {
+      "word": "Itinerary",
+      "pronunciation": "/aɪˈtɪnərɛri/",
+      "definition": "A planned route or journey.",
+      "sentences": [
+        "Our itinerary includes visits to three cities.",
+        "She prepared a detailed itinerary for the trip.",
+        "The travel agent helped us plan our itinerary."
+      ]
+    },
+    {
+      "word": "Booking",
+      "pronunciation": "/ˈbʊkɪŋ/",
+      "definition": "An arrangement to reserve a place, seat, or room.",
+      "sentences": [
+        "I made a booking for the flight online.",
+        "Do you have a hotel booking?",
+        "The restaurant requires a booking in advance."
+      ]
+    },
+    {
+      "word": "Reservation",
+      "pronunciation": "/ˌrɛzərˈveɪʃən/",
+      "definition": "An arrangement by which something is secured in advance, such as a table in a restaurant or a room in a hotel.",
+      "sentences": [
+        "We have a dinner reservation for 7 PM.",
+        "Did you make a reservation for the train?",
+        "The hotel reservation was confirmed."
+      ]
+    },
+    {
+      "word": "Hotel",
+      "pronunciation": "/hoʊˈtɛl/",
+      "definition": "An establishment providing lodging and other services for travelers.",
+      "sentences": [
+        "We stayed at a nice hotel near the beach.",
+        "The hotel has a swimming pool.",
+        "I booked a room at the hotel."
+      ]
+    },
+    {
+      "word": "Hostel",
+      "pronunciation": "/ˈhɒstəl/",
+      "definition": "An establishment that provides inexpensive food and lodging for a specific group of people, such as students, workers, or travelers.",
+      "sentences": [
+        "Many young travelers stay in hostels.",
+        "The hostel offers shared rooms.",
+        "It's cheaper to stay in a hostel than a hotel."
+      ]
+    },
+    {
+      "word": "Motel",
+      "pronunciation": "/ˈmoʊtɛl/",
+      "definition": "A roadside hotel designed primarily for motorists, typically with rooms arranged in a low building or buildings with parking directly outside.",
+      "sentences": [
+        "We stopped at a motel for the night during our road trip.",
+        "The motel had a small swimming pool.",
+        "Motels are convenient for drivers."
+      ]
+    },
+    {
+      "word": "Resort",
+      "pronunciation": "/rɪˈzɔːrt/",
+      "definition": "A place that is a popular destination for vacations or recreation.",
+      "sentences": [
+        "We stayed at a luxury resort for our honeymoon.",
+        "The resort offers many activities.",
+        "Many people go to beach resorts for relaxation."
+      ]
+    },
+    {
+      "word": "Camping",
+      "pronunciation": "/ˈkæmpɪŋ/",
+      "definition": "The activity of spending a holiday living in a tent.",
+      "sentences": [
+        "We went camping in the forest last summer.",
+        "Camping is a great way to enjoy nature.",
+        "You need a tent and sleeping bag for camping."
+      ]
+    },
+    {
+      "word": "Glamping",
+      "pronunciation": "/ˈɡlæmpɪŋ/",
+      "definition": "A form of camping involving accommodation and facilities more luxurious than those associated with traditional camping.",
+      "sentences": [
+        "She prefers glamping to traditional camping.",
+        "Glamping offers comfort in nature.",
+        "We tried glamping for the first time last year."
+      ]
+    },
+    {
+      "word": "Tent",
+      "pronunciation": "/tɛnt/",
+      "definition": "A portable shelter made of cloth, supported by poles and ropes, used for camping.",
+      "sentences": [
+        "We set up our tent in the campsite.",
+        "The tent kept us dry during the rain.",
+        "He bought a new tent for his hiking trip."
+      ]
+    },
+    {
+      "word": "Sleeping bag",
+      "pronunciation": "/ˈsliːpɪŋ bæɡ/",
+      "definition": "A warm bag that you sleep in when camping.",
+      "sentences": [
+        "I brought my sleeping bag for the camping trip.",
+        "The sleeping bag kept me warm at night.",
+        "You need a good sleeping bag for cold weather."
+      ]
+    },
+    {
+      "word": "Hiking",
+      "pronunciation": "/ˈhaɪkɪŋ/",
+      "definition": "The activity of walking long distances, especially in the countryside or mountains.",
+      "sentences": [
+        "We went hiking in the national park.",
+        "Hiking is a great way to stay fit.",
+        "She loves hiking in the mountains."
+      ]
+    },
+    {
+      "word": "Trekking",
+      "pronunciation": "/ˈtrɛkɪŋ/",
+      "definition": "A long arduous journey, typically on foot.",
+      "sentences": [
+        "They went trekking in the Himalayas.",
+        "Trekking requires good physical condition.",
+        "He enjoyed the trekking experience."
+      ]
+    },
+    {
+      "word": "Trail",
+      "pronunciation": "/treɪl/",
+      "definition": "A path or track made across open country or through woods.",
+      "sentences": [
+        "We followed the hiking trail to the waterfall.",
+        "The trail was covered with leaves.",
+        "The mountain trail was steep."
+      ]
+    },
+    {
+      "word": "Path",
+      "pronunciation": "/pæθ/",
+      "definition": "A way or track made by the regular movement of people or animals.",
+      "sentences": [
+        "The path led to the river.",
+        "Follow the garden path.",
+        "We walked along a narrow path."
+      ]
+    },
+    {
+      "word": "Mountain",
+      "pronunciation": "/ˈmaʊntɪn/",
+      "definition": "A large natural elevation of the earth's surface rising abruptly from the surrounding level.",
+      "sentences": [
+        "We climbed a tall mountain.",
+        "The mountain range was covered in snow.",
+        "Many people love hiking in the mountains."
+      ]
+    },
+    {
+      "word": "Forest",
+      "pronunciation": "/ˈfɒrɪst/",
+      "definition": "A large area of land covered with trees and undergrowth.",
+      "sentences": [
+        "We got lost in the dense forest.",
+        "Many animals live in the forest.",
+        "The forest was quiet and peaceful."
+      ]
+    },
+    {
+      "word": "Beach",
+      "pronunciation": "/biːtʃ/",
+      "definition": "A sandy or pebbly shore by the sea or a lake.",
+      "sentences": [
+        "We spent the day at the beach.",
+        "The children built sandcastles on the beach.",
+        "The beach was crowded with people."
+      ]
+    },
+    {
+      "word": "Lake",
+      "pronunciation": "/leɪk/",
+      "definition": "A large body of water surrounded by land.",
+      "sentences": [
+        "We went swimming in the lake.",
+        "The lake was calm and clear.",
+        "Many birds live by the lake."
+      ]
+    },
+    {
+      "word": "River",
+      "pronunciation": "/ˈrɪvər/",
+      "definition": "A large natural stream of water flowing in a channel to the sea, a lake, or another river.",
+      "sentences": [
+        "The boat sailed down the river.",
+        "The river flows through the city.",
+        "We went fishing in the river."
+      ]
+    },
+    {
+      "word": "Ocean",
+      "pronunciation": "/ˈoʊʃən/",
+      "definition": "A very large expanse of sea, especially one of the five main divisions of the earth.",
+      "sentences": [
+        "The vast ocean stretched as far as the eye could see.",
+        "Many different creatures live in the ocean.",
+        "We swam in the warm ocean water."
+      ]
+    },
+    {
+      "word": "Island",
+      "pronunciation": "/ˈaɪlənd/",
+      "definition": "A piece of land surrounded by water.",
+      "sentences": [
+        "We visited a small island for our vacation.",
+        "The island was covered in palm trees.",
+        "They sailed to a deserted island."
+      ]
+    },
+    {
+      "word": "Desert",
+      "pronunciation": "/ˈdɛzərt/",
+      "definition": "A dry, barren area of land, especially one where rainfall is extremely low.",
+      "sentences": [
+        "The desert can be very hot during the day.",
+        "Camels are well-suited for living in the desert.",
+        "We saw amazing rock formations in the desert."
+      ]
+    },
+    {
+      "word": "City",
+      "pronunciation": "/ˈsɪti/",
+      "definition": "A large town.",
+      "sentences": [
+        "New York is a very big city.",
+        "We visited the city for a weekend trip.",
+        "The city lights were beautiful at night."
+      ]
+    },
+    {
+      "word": "Town",
+      "pronunciation": "/taʊn/",
+      "definition": "A built-up area with a name, smaller than a city but larger than a village.",
+      "sentences": [
+        "She lives in a small town.",
+        "The town has a charming main street.",
+        "We drove through several towns on our journey."
+      ]
+    },
+    {
+      "word": "Village",
+      "pronunciation": "/ˈvɪlɪdʒ/",
+      "definition": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+      "sentences": [
+        "He grew up in a quiet village.",
+        "The village has a small shop and a church.",
+        "We walked through the picturesque village."
+      ]
+    },
+    {
+      "word": "Countryside",
+      "pronunciation": "/ˈkʌntriˌsaɪd/",
+      "definition": "The land outside of cities and towns.",
+      "sentences": [
+        "We spent the weekend in the peaceful countryside.",
+        "The countryside is beautiful in spring.",
+        "Many people enjoy living in the countryside."
+      ]
+    },
+    {
+      "word": "Urban",
+      "pronunciation": "/ˈɜːrbən/",
+      "definition": "Relating to a city or town.",
+      "sentences": [
+        "Urban areas often have heavy traffic.",
+        "She prefers urban living to rural living.",
+        "The project focuses on urban development."
+      ]
+    },
+    {
+      "word": "Rural",
+      "pronunciation": "/ˈrʊərəl/",
+      "definition": "Relating to the countryside rather than the city.",
+      "sentences": [
+        "He lives in a rural area with many farms.",
+        "Rural life is often quiet and peaceful.",
+        "The school is located in a rural setting."
+      ]
+    },
+    {
+      "word": "Suburb",
+      "pronunciation": "/ˈsʌbɜːrb/",
+      "definition": "An outlying district of a city, especially a residential one.",
+      "sentences": [
+        "Many families live in the suburbs.",
+        "He commutes from the suburb to the city center.",
+        "The suburbs offer a quieter lifestyle."
+      ]
+    },
+    {
+      "word": "Downtown",
+      "pronunciation": "/ˈdaʊnˌtaʊn/",
+      "definition": "The central business or commercial area of a city or town.",
+      "sentences": [
+        "Let's go downtown for dinner.",
+        "The bus goes straight to downtown.",
+        "Many offices are located downtown."
+      ]
+    },
+    {
+      "word": "Uptown",
+      "pronunciation": "/ˈʌpˌtaʊn/",
+      "definition": "Toward or in the upper part of a town or city.",
+      "sentences": [
+        "She lives uptown, away from the busy center.",
+        "The uptown train is coming soon.",
+        "Uptown areas are often residential."
+      ]
+    },
+    {
+      "word": "Neighborhood",
+      "pronunciation": "/ˈneɪbərˌhʊd/",
+      "definition": "A district, especially one forming a community within a town or city.",
+      "sentences": [
+        "Our neighborhood is very friendly.",
+        "He grew up in this neighborhood.",
+        "The park is in a quiet neighborhood."
+      ]
+    },
+    {
+      "word": "District",
+      "pronunciation": "/ˈdɪstrɪkt/",
+      "definition": "An area of a country or city, especially one regarded as a distinct unit because of its particular characteristics.",
+      "sentences": [
+        "The financial district is very busy during the day.",
+        "This is the historical district of the city.",
+        "The city is divided into several districts."
+      ]
+    },
+    {
+      "word": "Mechanic",
+      "pronunciation": "/mɪˈkænɪk/",
+      "definition": "A skilled worker who repairs and maintains motor vehicles.",
+      "sentences": [
+        "The mechanic fixed my car's engine.",
+        "She took her car to the mechanic.",
+        "The mechanic gave me a quote for the repairs."
+      ]
+    },
+    {
+      "word": "Dealership",
+      "pronunciation": "/ˈdiːlərʃɪp/",
+      "definition": "An authorized dealer's business premises.",
+      "sentences": [
+        "We bought our new car from the dealership.",
+        "The car dealership has many models.",
+        "He works at a car dealership."
+      ]
+    },
+    {
+      "word": "Rental car",
+      "pronunciation": "/ˈrɛntəl kɑːr/",
+      "definition": "A car that you rent from a company.",
+      "sentences": [
+        "We picked up our rental car at the airport.",
+        "The rental car was a small sedan.",
+        "He returned the rental car on time."
+      ]
+    },
+    {
+      "word": "Road trip",
+      "pronunciation": "/roʊd trɪp/",
+      "definition": "A long journey by car.",
+      "sentences": [
+        "We went on an epic road trip across the country.",
+        "Road trips are a great way to see new places.",
+        "They planned their road trip for the summer."
+      ]
+    },
+    {
+      "word": "Commuter",
+      "pronunciation": "/kəˈmjuːtər/",
+      "definition": "A person who travels some distance to work on a regular basis.",
+      "sentences": [
+        "Many commuters use the train during rush hour.",
+        "He is a daily commuter.",
+        "The city provides services for commuters."
+      ]
+    },
+    {
+      "word": "Public transportation",
+      "pronunciation": "/ˈpʌblɪk ˌtrænspɔːrˈteɪʃən/",
+      "definition": "The system of buses, trains, etc., provided by the government or a company for public use.",
+      "sentences": [
+        "Public transportation is efficient in big cities.",
+        "I rely on public transportation to get around.",
+        "The city is improving its public transportation network."
+      ]
+    },
+    {
+      "word": "Traffic light",
+      "pronunciation": "/ˈtræfɪk laɪt/",
+      "definition": "A set of colored lights at an intersection that control the flow of traffic.",
+      "sentences": [
+        "Stop at the red traffic light.",
+        "The traffic light turned green.",
+        "He waited patiently at the traffic light."
+      ]
+    },
+    {
+      "word": "Parking space",
+      "pronunciation": "/ˈpɑːrkɪŋ speɪs/",
+      "definition": "An area where a vehicle can be parked.",
+      "sentences": [
+        "I looked for a parking space for a long time.",
+        "The parking space was very small.",
+        "He found a free parking space."
+      ]
+    },
+    {
+      "word": "One-way street",
+      "pronunciation": "/wʌn weɪ striːt/",
+      "definition": "A street where traffic is allowed to move in only one direction.",
+      "sentences": [
+        "Be careful, this is a one-way street.",
+        "You can't turn left here, it's a one-way street.",
+        "The new one-way street helped ease traffic."
+      ]
+    },
+    {
+      "word": "Dead end",
+      "pronunciation": "/dɛd ɛnd/",
+      "definition": "A street or passage that is closed at one end.",
+      "sentences": [
+        "We drove down a dead end street.",
+        "The path led to a dead end.",
+        "It was a dead end, so we had to turn back."
+      ]
+    },
+    {
+      "word": "Detour",
+      "pronunciation": "/ˈdiːtʊər/",
+      "definition": "A long or roundabout route taken to avoid something or to visit somewhere along the way.",
+      "sentences": [
+        "We had to take a detour because of road construction.",
+        "The detour added an extra hour to our trip.",
+        "Follow the signs for the detour."
+      ]
+    },
+    {
+      "word": "Toll road",
+      "pronunciation": "/toʊl roʊd/",
+      "definition": "A road for which a toll is charged.",
+      "sentences": [
+        "The new highway is a toll road.",
+        "Toll roads can save time on long journeys.",
+        "He avoids toll roads to save money."
+      ]
+    },
+    {
+      "word": "Car wash",
+      "pronunciation": "/kɑːr wɒʃ/",
+      "definition": "A place where cars are cleaned.",
+      "sentences": [
+        "I took my dirty car to the car wash.",
+        "The car wash uses automatic brushes.",
+        "She goes to the car wash every week."
+      ]
+    },
+    {
+      "word": "Repair shop",
+      "pronunciation": "/rɪˈpɛər ʃɒp/",
+      "definition": "A place where things are repaired.",
+      "sentences": [
+        "I took my bicycle to the repair shop.",
+        "The car needs to go to the repair shop.",
+        "The repair shop fixed my phone quickly."
+      ]
+    },
+    {
+      "word": "Gas station",
+      "pronunciation": "/ɡæs ˈsteɪʃən/",
+      "definition": "A place where gasoline is sold for motor vehicles.",
+      "sentences": [
+        "We stopped at the gas station to fill up the tank.",
+        "The gas station also sells snacks.",
+        "He works at a gas station."
+      ]
+    },
+    {
+      "word": "Service station",
+      "pronunciation": "/ˈsɜːrvɪs ˈsteɪʃən/",
+      "definition": "A place by a road where fuel, repairs, and other services are available to motorists.",
+      "sentences": [
+        "We stopped at a service station on the highway.",
+        "The service station had a restaurant and restrooms.",
+        "You can get your tires checked at the service station."
+      ]
+    },
+    {
+      "word": "Rest stop",
+      "pronunciation": "/rɛst stɒp/",
+      "definition": "An area beside a road where drivers can stop to rest.",
+      "sentences": [
+        "We took a break at the rest stop.",
+        "The rest stop had picnic tables.",
+        "Many drivers use rest stops on long journeys."
+      ]
+    },
+    {
+      "word": "Speedometer",
+      "pronunciation": "/spiːˈdɒmɪtər/",
+      "definition": "An instrument on a vehicle's dashboard indicating its speed.",
+      "sentences": [
+        "The speedometer showed we were going too fast.",
+        "He glanced at the speedometer.",
+        "The digital speedometer was easy to read."
+      ]
+    },
+    {
+      "word": "Odometer",
+      "pronunciation": "/oʊˈdɒmɪtər/",
+      "definition": "An instrument for measuring the distance traveled by a vehicle.",
+      "sentences": [
+        "The odometer showed how many miles the car had driven.",
+        "He checked the odometer before buying the used car.",
+        "The odometer reading was very high."
+      ]
+    },
+    {
+      "word": "Dashboard",
+      "pronunciation": "/ˈdæʃbɔːrd/",
+      "definition": "The panel under the windshield of a car or other vehicle, containing instruments and controls.",
+      "sentences": [
+        "The car's dashboard lit up with warnings.",
+        "She placed her phone on the dashboard.",
+        "The dashboard has a touchscreen display."
+      ]
+    },
+    {
+      "word": "Glove compartment",
+      "pronunciation": "/ɡlʌv kəmˈpɑːrtmənt/",
+      "definition": "A small compartment in the dashboard of a car, typically on the passenger side.",
+      "sentences": [
+        "I keep my car documents in the glove compartment.",
+        "She found an old map in the glove compartment.",
+        "The glove compartment was full of papers."
+      ]
+    },
+    {
+      "word": "Sunroof",
+      "pronunciation": "/ˈsʌnˌruːf/",
+      "definition": "A panel in the roof of a car that can be opened to let in light or air.",
+      "sentences": [
+        "My car has a sunroof, which is great on sunny days.",
+        "He opened the sunroof to feel the breeze.",
+        "The sunroof allows more light into the car."
+      ]
+    },
+    {
+      "word": "Convertible",
+      "pronunciation": "/kənˈvɜːrtəbl/",
+      "definition": "A car with a roof that can be folded back or removed.",
+      "sentences": [
+        "They drove a convertible along the coast.",
+        "She dreams of owning a red convertible.",
+        "The convertible roof folded down easily."
+      ]
+    },
+    {
+      "word": "SUV (Sport Utility Vehicle)",
+      "pronunciation": "/ˌɛs juː ˈviː/",
+      "definition": "A large vehicle that is designed to be used on rough roads but is often used on city roads.",
+      "sentences": [
+        "Many families own an SUV for its space.",
+        "The SUV can carry many passengers and luggage.",
+        "He drives a large black SUV."
+      ]
+    },
+    {
+      "word": "Sedan",
+      "pronunciation": "/sɪˈdæn/",
+      "definition": "A car with a closed body, four doors, and a separate trunk.",
+      "sentences": [
+        "He drives a comfortable four-door sedan.",
+        "The rental car was a white sedan.",
+        "Sedans are popular for daily commuting."
+      ]
+    },
+    {
+      "word": "Hatchback",
+      "pronunciation": "/ˈhætʃbæk/",
+      "definition": "A car with a door at the back that opens upwards and includes the rear window.",
+      "sentences": [
+        "Her small hatchback is easy to park.",
+        "The hatchback offers good cargo space.",
+        "He bought a new red hatchback."
+      ]
+    },
+    {
+      "word": "Pickup truck",
+      "pronunciation": "/ˈpɪkʌp trʌk/",
+      "definition": "A light truck with an open back for carrying goods.",
+      "sentences": [
+        "He used his pickup truck to move furniture.",
+        "Pickup trucks are popular in rural areas.",
+        "The pickup truck has a large bed."
+      ]
+    },
+    {
+      "word": "Van",
+      "pronunciation": "/væn/",
+      "definition": "A medium-sized motor vehicle, typically without side windows in the rear, for transporting goods or people.",
+      "sentences": [
+        "The delivery van stopped at our house.",
+        "They used a large van for their camping trip.",
+        "The band travels in a tour van."
+      ]
+    },
+    {
+      "word": "Minivan",
+      "pronunciation": "/ˈmɪniˌvæn/",
+      "definition": "A small van, typically used as a family vehicle, with multiple rows of seats.",
+      "sentences": [
+        "Many families choose a minivan for its space.",
+        "The minivan can seat seven people.",
+        "She drives a minivan to take her kids to school."
+      ]
+    },
+    {
+      "word": "Limousine (Limo)",
+      "pronunciation": "/ˈlɪməˌziːn/",
+      "definition": "A large, luxurious car, especially one driven by a chauffeur.",
+      "sentences": [
+        "They arrived at the party in a fancy limousine.",
+        "She hired a limo for her wedding day.",
+        "The celebrity stepped out of the limo."
+      ]
+    },
+    {
+      "word": "Sports car",
+      "pronunciation": "/spɔːrts kɑːr/",
+      "definition": "A low, fast car, typically a two-seater.",
+      "sentences": [
+        "He dreams of owning a fast sports car.",
+        "The red sports car sped down the road.",
+        "Sports cars are often very expensive."
+      ]
+    },
+    {
+      "word": "Off-road vehicle",
+      "pronunciation": "/ɒf roʊd ˈviːɪkl/",
+      "definition": "A vehicle designed for use on rough terrain, not paved roads.",
+      "sentences": [
+        "They used an off-road vehicle to explore the desert.",
+        "Off-road vehicles are built for tough conditions.",
+        "He enjoys driving his off-road vehicle on trails."
+      ]
+    },
+    {
+      "word": "Motorhome",
+      "pronunciation": "/ˈmoʊtərˌhoʊm/",
+      "definition": "A large motor vehicle designed to be used as living accommodation.",
+      "sentences": [
+        "They traveled across the country in their motorhome.",
+        "A motorhome is like a house on wheels.",
+        "Many people enjoy vacationing in a motorhome."
+      ]
+    },
+    {
+      "word": "Camper van",
+      "pronunciation": "/ˈkæmpər væn/",
+      "definition": "A van equipped as a self-contained traveling home.",
+      "sentences": [
+        "They rented a camper van for their trip to the coast.",
+        "Camper vans are popular for outdoor adventures.",
+        "She converted an old van into a camper van."
+      ]
+    },
+    {
+      "word": "Recreational vehicle (RV)",
+      "pronunciation": "/ˌrɛkriˈeɪʃənəl ˈviːɪkl/",
+      "definition": "A vehicle that combines transportation and living quarters for travel and recreation.",
+      "sentences": [
+        "Many families travel in RVs during the summer.",
+        "RVs offer comfort on the road.",
+        "He bought a new RV for retirement."
+      ]
+    },
+    {
+      "word": "Bicycle helmet",
+      "pronunciation": "/ˈbaɪsɪkl ˈhɛlmɪt/",
+      "definition": "A protective helmet worn by cyclists.",
+      "sentences": [
+        "Always wear a bicycle helmet for safety.",
+        "His bicycle helmet is bright yellow.",
+        "The bicycle helmet saved him from injury."
+      ]
+    },
+    {
+      "word": "Bike rack",
+      "pronunciation": "/baɪk ræk/",
+      "definition": "A frame for carrying bicycles on a car or bus.",
+      "sentences": [
+        "We put our bikes on the car's bike rack.",
+        "The bus has a bike rack on the front.",
+        "He installed a new bike rack on his SUV."
+      ]
+    },
+    {
+      "word": "Bike path",
+      "pronunciation": "/baɪk pæθ/",
+      "definition": "A path or lane specifically for bicycles.",
+      "sentences": [
+        "We rode our bikes along the scenic bike path.",
+        "The city is expanding its bike path network.",
+        "The bike path is separate from the road."
+      ]
+    },
+    {
+      "word": "Pedal",
+      "pronunciation": "/ˈpɛdl/",
+      "definition": "A foot-operated lever used to control or power a mechanism.",
+      "sentences": [
+        "Push the pedal to make the bicycle go.",
+        "The car has an accelerator pedal and a brake pedal.",
+        "She pressed the pedal gently."
+      ]
+    },
+    {
+      "word": "Handlebars",
+      "pronunciation": "/ˈhændlˌbɑːrz/",
+      "definition": "The steering bar of a bicycle or motorcycle.",
+      "sentences": [
+        "He held onto the handlebars tightly.",
+        "The bicycle's handlebars were rusty.",
+        "She adjusted the height of the handlebars."
+      ]
+    },
+    {
+      "word": "Saddle",
+      "pronunciation": "/ˈsædl/",
+      "definition": "A seat for a rider on a bicycle or horse.",
+      "sentences": [
+        "The bicycle saddle was uncomfortable.",
+        "He adjusted the saddle height on his bike.",
+        "The horse's saddle was made of leather."
+      ]
+    },
+    {
+      "word": "Spoke",
+      "pronunciation": "/spoʊk/",
+      "definition": "Each of the rods connecting the center of a wheel to its rim.",
+      "sentences": [
+        "One of the bicycle spokes was bent.",
+        "The wheel had many thin spokes.",
+        "He tightened the loose spoke."
+      ]
+    },
+    {
+      "word": "Chain",
+      "pronunciation": "/tʃeɪn/",
+      "definition": "A series of connected metal links used to transmit power, as in a bicycle.",
+      "sentences": [
+        "The bicycle chain needed oiling.",
+        "The chain came off the gears.",
+        "He fixed the broken chain on his bike."
+      ]
+    },
+    {
+      "word": "Gear (bicycle)",
+      "pronunciation": "/ɡɪər/",
+      "definition": "A mechanism for transmitting motion, especially a toothed wheel, used to change the speed of a bicycle.",
+      "sentences": [
+        "My bicycle has multiple gears for different terrains.",
+        "He shifted into a lower gear for the uphill climb.",
+        "Learning to use bicycle gears improves riding."
+      ]
+    },
+    {
+      "word": "Helmet (motorcycle)",
+      "pronunciation": "/ˈhɛlmɪt/",
+      "definition": "A hard hat worn by motorcyclists for protection.",
+      "sentences": [
+        "Always wear a motorcycle helmet when riding.",
+        "His motorcycle helmet has a clear visor.",
+        "The helmet is a crucial safety item for motorcyclists."
+      ]
+    },
+    {
+      "word": "Gloves (motorcycle)",
+      "pronunciation": "/ɡlʌvz/",
+      "definition": "Protective coverings for the hands worn by motorcyclists.",
+      "sentences": [
+        "He put on his motorcycle gloves before starting the engine.",
+        "Motorcycle gloves protect your hands in a fall.",
+        "She bought new leather gloves for riding."
+      ]
+    },
+    {
+      "word": "Jacket (motorcycle)",
+      "pronunciation": "/ˈdʒækɪt/",
+      "definition": "A protective outer garment worn by motorcyclists.",
+      "sentences": [
+        "His motorcycle jacket is made of thick leather.",
+        "A good motorcycle jacket offers protection and warmth.",
+        "She zipped up her motorcycle jacket."
+      ]
+    },
+    {
+      "word": "Boots (motorcycle)",
+      "pronunciation": "/buːts/",
+      "definition": "Protective footwear worn by motorcyclists.",
+      "sentences": [
+        "He wears special boots for riding his motorcycle.",
+        "Motorcycle boots protect your feet and ankles.",
+        "Her boots were scuffed from many rides."
+      ]
+    },
+    {
+      "word": "Sidecar",
+      "pronunciation": "/ˈsaɪdˌkɑːr/",
+      "definition": "A small, one-wheeled passenger vehicle attached to the side of a motorcycle.",
+      "sentences": [
+        "The dog loves riding in the motorcycle's sidecar.",
+        "He drove his motorcycle with a sidecar.",
+        "Sidecars are not very common anymore."
+      ]
+    },
+    {
+      "word": "Scooter (motor)",
+      "pronunciation": "/ˈskuːtər/",
+      "definition": "A light two-wheeled open motor vehicle.",
+      "sentences": [
+        "He rides his motor scooter to the market.",
+        "Motor scooters are fuel-efficient.",
+        "She parked her scooter outside the cafe."
+      ]
+    },
+    {
+      "word": "Moped",
+      "pronunciation": "/ˈmoʊpɛd/",
+      "definition": "A motor vehicle with pedals like a bicycle and a small engine.",
+      "sentences": [
+        "He rides a moped to work.",
+        "Mopeds are popular in some European cities.",
+        "The moped is easy to park."
+      ]
+    },
+    {
+      "word": "Tram",
+      "pronunciation": "/træm/",
+      "definition": "A public transport vehicle running on rails, usually in the street.",
+      "sentences": [
+        "The tram runs through the city center.",
+        "We took the tram to the museum.",
+        "Trams are a quiet form of transport."
+      ]
+    },
+    {
+      "word": "Trolleybus",
+      "pronunciation": "/ˈtrɒliˌbʌs/",
+      "definition": "A bus powered by electricity from overhead wires.",
+      "sentences": [
+        "The city uses trolleybuses for public transport.",
+        "Trolleybuses are environmentally friendly.",
+        "The trolleybus moved silently down the street."
+      ]
+    },
+    {
+      "word": "Cable car",
+      "pronunciation": "/ˈkeɪbl kɑːr/",
+      "definition": "A vehicle that hangs from and is pulled by a moving cable, typically used for transport up and down mountains.",
+      "sentences": [
+        "We took a cable car up the mountain.",
+        "The cable car offered amazing views.",
+        "San Francisco is famous for its cable cars."
+      ]
+    },
+    {
+      "word": "Gondola",
+      "pronunciation": "/ˈɡɒndələ/",
+      "definition": "A long, narrow boat used in Venice, propelled by a single oar.",
+      "sentences": [
+        "We took a romantic ride in a gondola in Venice.",
+        "The gondola glided smoothly on the canal.",
+        "The gondolier sang a traditional song."
+      ]
+    },
+    {
+      "word": "Rickshaw",
+      "pronunciation": "/ˈrɪkʃɔː/",
+      "definition": "A light two-wheeled passenger vehicle drawn by one or more people, or pulled by a bicycle.",
+      "sentences": [
+        "We rode a rickshaw through the busy streets.",
+        "Rickshaws are a common form of transport in some Asian cities.",
+        "The rickshaw driver pedaled quickly."
+      ]
+    },
+    {
+      "word": "Tuk-tuk",
+      "pronunciation": "/ˈtʊk tʊk/",
+      "definition": "A type of motorized rickshaw, common in Southeast Asia.",
+      "sentences": [
+        "We took a tuk-tuk to the market in Thailand.",
+        "Tuk-tuks are a fun way to explore the city.",
+        "The tuk-tuk driver navigated through traffic."
+      ]
+    },
+    {
+      "word": "Canoe",
+      "pronunciation": "/kəˈnuː/",
+      "definition": "A narrow, open boat, pointed at both ends, propelled by paddles.",
+      "sentences": [
+        "We went canoeing on the lake.",
+        "The canoe glided silently through the water.",
+        "He learned to paddle a canoe."
+      ]
+    },
+    {
+      "word": "Kayak",
+      "pronunciation": "/ˈkaɪæk/",
+      "definition": "A type of canoe, typically decked, propelled by a double-bladed paddle.",
+      "sentences": [
+        "She went kayaking in the ocean.",
+        "Kayaking is a great way to explore the coastline.",
+        "He bought a new kayak for his adventures."
+      ]
+    },
+    {
+      "word": "Paddleboat",
+      "pronunciation": "/ˈpædlˌboʊt/",
+      "definition": "A small boat propelled by pedals, often used for recreation on lakes.",
+      "sentences": [
+        "We rented a paddleboat at the park.",
+        "Paddleboats are fun for families.",
+        "She pedaled the paddleboat around the lake."
+      ]
+    },
+    {
+      "word": "Jet ski",
+      "pronunciation": "/dʒɛt skiː/",
+      "definition": "A small, fast boat that resembles a motorcycle, for one or two riders.",
+      "sentences": [
+        "He loves riding his jet ski on the ocean.",
+        "Jet skis are popular water sports vehicles.",
+        "You need to be careful when riding a jet ski."
+      ]
+    },
+    {
+      "word": "Submarine",
+      "pronunciation": "/ˈsʌbməriːn/",
+      "definition": "A warship with a streamlined hull designed to operate completely submerged in the sea for long periods.",
+      "sentences": [
+        "The submarine explored the deep ocean.",
+        "He watched a documentary about submarines.",
+        "The submarine can stay underwater for weeks."
+      ]
+    },
+    {
+      "word": "Yacht",
+      "pronunciation": "/jɒt/",
+      "definition": "A medium-sized sailboat or motorboat equipped for cruising or racing.",
+      "sentences": [
+        "They sailed their luxury yacht around the islands.",
+        "He dreams of owning a large yacht.",
+        "The yacht was anchored in the bay."
+      ]
+    },
+    {
+      "word": "Motorboat",
+      "pronunciation": "/ˈmoʊtərˌboʊt/",
+      "definition": "A boat powered by a motor.",
+      "sentences": [
+        "We went water skiing behind a motorboat.",
+        "The motorboat sped across the lake.",
+        "He rented a motorboat for the day."
+      ]
+    },
+    {
+      "word": "Lifeboat",
+      "pronunciation": "/ˈlaɪfˌboʊt/",
+      "definition": "A special boat carried by ships for use in an emergency.",
+      "sentences": [
+        "The crew lowered the lifeboat during the emergency.",
+        "Lifeboats are essential safety equipment on ships.",
+        "Everyone boarded the lifeboat calmly."
+      ]
+    },
+    {
+      "word": "Rowboat",
+      "pronunciation": "/ˈroʊˌboʊt/",
+      "definition": "A small boat propelled by oars.",
+      "sentences": [
+        "We rented a rowboat and went out on the pond.",
+        "He used oars to propel the rowboat.",
+        "The rowboat drifted slowly on the water."
+      ]
+    },
+    {
+      "word": "Paddles",
+      "pronunciation": "/ˈpædlz/",
+      "definition": "Short oars with a wide blade, used for propelling a canoe or kayak.",
+      "sentences": [
+        "We used paddles to move the canoe.",
+        "He dipped his paddle into the water.",
+        "The paddles were made of wood."
+      ]
+    },
+    {
+      "word": "Oars",
+      "pronunciation": "/ɔːrz/",
+      "definition": "Long poles with a flat blade at one end, used to propel a boat.",
+      "sentences": [
+        "He pulled hard on the oars to move the rowboat.",
+        "The boat had two pairs of oars.",
+        "She learned to row with oars."
+      ]
+    },
+    {
+      "word": "Sail",
+      "pronunciation": "/seɪl/",
+      "definition": "A piece of material extended on a mast to catch the wind and propel a boat.",
+      "sentences": [
+        "The boat's sail caught the wind.",
+        "They raised the main sail.",
+        "The white sail stood out against the blue sky."
+      ]
+    },
+    {
+      "word": "Mast",
+      "pronunciation": "/mæst/",
+      "definition": "A tall upright post on a boat or ship, carrying a sail or sails.",
+      "sentences": [
+        "The ship had a tall mast.",
+        "The flag flew from the top of the mast.",
+        "He climbed the mast to fix the sail."
+      ]
+    },
+    {
+      "word": "Anchor",
+      "pronunciation": "/ˈæŋkər/",
+      "definition": "A heavy object attached to a rope or chain and used to moor a vessel to the seabed.",
+      "sentences": [
+        "The ship dropped its anchor in the bay.",
+        "The anchor held the boat in place.",
+        "He weighed the anchor before sailing."
+      ]
+    },
+    {
+      "word": "Deck",
+      "pronunciation": "/dɛk/",
+      "definition": "The floor of a ship or boat.",
+      "sentences": [
+        "We walked on the ship's upper deck.",
+        "The deck was wet from the waves.",
+        "He enjoyed the view from the deck."
+      ]
+    },
+    {
+      "word": "Cabin",
+      "pronunciation": "/ˈkæbɪn/",
+      "definition": "A private room on a ship or aircraft.",
+      "sentences": [
+        "Our cabin on the cruise ship was very comfortable.",
+        "The pilot sits in the cockpit, which is also a type of cabin.",
+        "She went to her cabin to rest."
+      ]
+    },
+    {
+      "word": "Gangway",
+      "pronunciation": "/ˈɡæŋweɪ/",
+      "definition": "A movable walkway used to board or leave a ship or aircraft.",
+      "sentences": [
+        "Passengers walked up the gangway to board the ship.",
+        "The gangway was lowered for boarding.",
+        "He waited at the bottom of the gangway."
+      ]
+    },
+    {
+      "word": "Life jacket",
+      "pronunciation": "/laɪf ˈdʒækɪt/",
+      "definition": "A sleeveless jacket of buoyant or inflatable material, used to keep a person afloat in water.",
+      "sentences": [
+        "Always wear a life jacket when on a boat.",
+        "The life jacket kept him afloat.",
+        "Children must wear life jackets on the ferry."
+      ]
+    },
+    {
+      "word": "Buoy",
+      "pronunciation": "/buːi/",
+      "definition": "An anchored float serving as a navigation mark, to show the position of dangers or to mark a channel.",
+      "sentences": [
+        "The boat sailed past the red buoy.",
+        "Buoys mark the safe channel for ships.",
+        "He saw a buoy floating in the distance."
+      ]
+    },
+    {
+      "word": "Lighthouse",
+      "pronunciation": "/ˈlaɪtˌhaʊs/",
+      "definition": "A tower or other structure containing a powerful light, built on a coast or island to guide ships.",
+      "sentences": [
+        "The lighthouse guided the ships safely to shore.",
+        "We visited an old lighthouse on the cliff.",
+        "The lighthouse beam shone brightly in the fog."
+      ]
+    },
+    {
+      "word": "Ferry terminal",
+      "pronunciation": "/ˈfɛri ˈtɜːrmɪnl/",
+      "definition": "A building or area where ferries arrive and depart.",
+      "sentences": [
+        "We drove to the ferry terminal to catch our boat.",
+        "The ferry terminal was busy with travelers.",
+        "You can buy tickets at the ferry terminal."
+      ]
+    },
+    {
+      "word": "Port authority",
+      "pronunciation": "/pɔːrt ɔːˈθɒrɪti/",
+      "definition": "An organization that manages and operates a port.",
+      "sentences": [
+        "The port authority controls ship movements in the harbor.",
+        "He works for the port authority.",
+        "The port authority ensures safety at sea."
+      ]
+    },
+    {
+      "word": "Air traffic control",
+      "pronunciation": "/ɛər ˈtræfɪk kənˈtroʊl/",
+      "definition": "The service provided by ground-based controllers who direct aircraft in flight and on the ground.",
+      "sentences": [
+        "Air traffic control guided the plane to land.",
+        "Pilots communicate with air traffic control.",
+        "Air traffic control ensures safe flights."
+      ]
+    },
+    {
+      "word": "Control tower",
+      "pronunciation": "/kənˈtroʊl ˈtaʊər/",
+      "definition": "A tall building at an airport from which air traffic is controlled.",
+      "sentences": [
+        "The pilot received instructions from the control tower.",
+        "The control tower has a clear view of the runways.",
+        "Lights blinked from the control tower."
+      ]
+    },
+    {
+      "word": "Hangar",
+      "pronunciation": "/ˈhæŋər/",
+      "definition": "A large building with extensive floor area, typically for housing aircraft.",
+      "sentences": [
+        "The airplane was stored in the hangar.",
+        "The hangar was big enough for several jets.",
+        "He works in an aircraft hangar."
+      ]
+    },
+    {
+      "word": "Jet bridge",
+      "pronunciation": "/dʒɛt brɪdʒ/",
+      "definition": "A movable enclosed walkway that extends from an airport terminal gate to an aircraft, allowing passengers to board and disembark without going outside.",
+      "sentences": [
+        "Passengers walked through the jet bridge to board the plane.",
+        "The jet bridge connected directly to the aircraft door.",
+        "The jet bridge retracted after boarding was complete."
+      ]
+    },
+    {
+      "word": "Boarding gate",
+      "pronunciation": "/ˈbɔːrdɪŋ ɡeɪt/",
+      "definition": "The specific gate at an airport from which passengers board an aircraft.",
+      "sentences": [
+        "Please proceed to boarding gate 25.",
+        "The announcement was made for boarding at gate 10.",
+        "We waited near our boarding gate."
+      ]
+    },
+    {
+      "word": "Check-in counter",
+      "pronunciation": "/ˈtʃɛk ɪn ˈkaʊntər/",
+      "definition": "A place at an airport or hotel where you register your arrival.",
+      "sentences": [
+        "Go to the check-in counter to get your boarding pass.",
+        "The check-in counter was very busy.",
+        "He waited in line at the check-in counter."
+      ]
+    },
+    {
+      "word": "Security checkpoint",
+      "pronunciation": "/sɪˈkjʊrɪti ˈtʃɛkˌpɔɪnt/",
+      "definition": "A place where people and their belongings are inspected for security reasons.",
+      "sentences": [
+        "All passengers must pass through the security checkpoint.",
+        "The security checkpoint had a long line.",
+        "He quickly went through the security checkpoint."
+      ]
+    },
+    {
+      "word": "Duty-free shop",
+      "pronunciation": "/ˈduːti friː ʃɒp/",
+      "definition": "A shop at an airport or port where goods can be bought without paying taxes.",
+      "sentences": [
+        "She bought perfume at the duty-free shop.",
+        "Duty-free shops are popular for travelers.",
+        "He bought chocolates at the duty-free shop before his flight."
+      ]
+    },
+    {
+      "word": "Concourse",
+      "pronunciation": "/ˈkɒŋkɔːrs/",
+      "definition": "A large open area inside a public building, especially an airport or train station, where people can gather.",
+      "sentences": [
+        "The airport concourse was filled with travelers.",
+        "We met in the main concourse of the station.",
+        "The concourse had many shops and cafes."
+      ]
+    },
+    {
+      "word": "Lounge",
+      "pronunciation": "/laʊndʒ/",
+      "definition": "A comfortable public room in a hotel, airport, or club.",
+      "sentences": [
+        "We waited for our flight in the airport lounge.",
+        "The hotel lounge was very relaxing.",
+        "She enjoyed a drink in the executive lounge."
+      ]
+    },
+    {
+      "word": "Baggage carousel",
+      "pronunciation": "/ˈbæɡɪdʒ ˈkærəˌsɛl/",
+      "definition": "A moving conveyor belt in an airport from which passengers collect their luggage.",
+      "sentences": [
+        "Our suitcases appeared on baggage carousel number 3.",
+        "He waited patiently by the baggage carousel.",
+        "Many people stood around the baggage carousel."
+      ]
+    },
+    {
+      "word": "Customs declaration",
+      "pronunciation": "/ˈkʌstəmz ˌdɛkləˈreɪʃən/",
+      "definition": "A written statement of goods being imported or exported, for customs purposes.",
+      "sentences": [
+        "You need to fill out a customs declaration form.",
+        "The customs declaration asked about food items.",
+        "He signed the customs declaration before leaving the airport."
+      ]
+    },
+    {
+      "word": "Immigration",
+      "pronunciation": "/ˌɪmɪˈɡreɪʃən/",
+      "definition": "The place in an airport or port where officials check your passport and visa.",
+      "sentences": [
+        "We passed through immigration quickly.",
+        "The immigration officer stamped my passport.",
+        "Long lines formed at immigration."
+      ]
+    },
+    {
+      "word": "Departure lounge",
+      "pronunciation": "/dɪˈpɑːrtʃər laʊndʒ/",
+      "definition": "A waiting area for passengers before they board an aircraft or ship.",
+      "sentences": [
+        "We waited in the departure lounge for our flight.",
+        "The departure lounge was crowded with travelers.",
+        "She read a book in the departure lounge."
+      ]
+    },
+    {
+      "word": "Arrivals hall",
+      "pronunciation": "/əˈraɪvəlz hɔːl/",
+      "definition": "The area in an airport where arriving passengers exit after collecting their luggage.",
+      "sentences": [
+        "My family was waiting for me in the arrivals hall.",
+        "The arrivals hall was full of people meeting loved ones.",
+        "He walked through the arrivals hall with his suitcase."
+      ]
+    },
+    {
+      "word": "Connecting flight",
+      "pronunciation": "/kəˈnɛktɪŋ flaɪt/",
+      "definition": "A flight that departs after another flight has arrived, allowing passengers to transfer between them.",
+      "sentences": [
+        "I have a short layover before my connecting flight.",
+        "His connecting flight was delayed.",
+        "Make sure you have enough time for your connecting flight."
+      ]
+    },
+    {
+      "word": "Direct flight",
+      "pronunciation": "/daɪˈrɛkt flaɪt/",
+      "definition": "A flight that goes from one place to another without stopping.",
+      "sentences": [
+        "We took a direct flight to our destination.",
+        "Direct flights are usually more expensive.",
+        "It was a direct flight, so we arrived quickly."
+      ]
+    },
+    {
+      "word": "Non-stop flight",
+      "pronunciation": "/nɒn stɒp flaɪt/",
+      "definition": "A flight that travels from its departure airport to its destination airport without any intermediate stops.",
+      "sentences": [
+        "The non-stop flight to Tokyo was 12 hours long.",
+        "She prefers non-stop flights to avoid layovers.",
+        "Finding a non-stop flight can be challenging."
+      ]
+    },
+    {
+      "word": "Layover",
+      "pronunciation": "/ˈleɪˌoʊvər/",
+      "definition": "A period of rest or waiting between two stages of a journey.",
+      "sentences": [
+        "We had a three-hour layover in Dubai.",
+        "A long layover can be tiring.",
+        "He used his layover to explore the airport."
+      ]
+    },
+    {
+      "word": "Turboprop",
+      "pronunciation": "/ˈtɜːrboʊprɒp/",
+      "definition": "An aircraft engine in which a turbine drives a propeller.",
+      "sentences": [
+        "Small regional planes often use turboprop engines.",
+        "The turboprop aircraft is good for short flights.",
+        "You can hear the distinct sound of a turboprop."
+      ]
+    },
+    {
+      "word": "Jet engine",
+      "pronunciation": "/dʒɛt ˈɛndʒɪn/",
+      "definition": "An engine that generates a powerful thrust by expelling a jet of fluid.",
+      "sentences": [
+        "Modern airplanes use powerful jet engines.",
+        "The jet engine roared during takeoff.",
+        "Jet engines are very efficient for high speeds."
+      ]
+    },
+    {
+      "word": "Cockpit",
+      "pronunciation": "/ˈkɒkpɪt/",
+      "definition": "The compartment for the pilot and co-pilot in an aircraft.",
+      "sentences": [
+        "The pilot sat in the cockpit.",
+        "Children often dream of seeing the cockpit.",
+        "The cockpit has many controls and displays."
+      ]
+    },
+    {
+      "word": "Fuselage",
+      "pronunciation": "/ˈfjuːzɪlɑːʒ/",
+      "definition": "The main body of an aircraft.",
+      "sentences": [
+        "The fuselage of the airplane is very long.",
+        "The fuselage holds the passengers and cargo.",
+        "Engineers designed a new fuselage shape."
+      ]
+    },
+    {
+      "word": "Wing",
+      "pronunciation": "/wɪŋ/",
+      "definition": "A main lateral appendage of an aircraft, providing lift.",
+      "sentences": [
+        "The airplane's wings are very strong.",
+        "He sat by the window and looked at the wing.",
+        "Birds use their wings to fly."
+      ]
+    },
+    {
+      "word": "Tail (aircraft)",
+      "pronunciation": "/teɪl/",
+      "definition": "The rear part of an aircraft.",
+      "sentences": [
+        "The airplane's tail has the airline's logo.",
+        "The tail helps stabilize the aircraft.",
+        "He saw the tail of the plane disappearing into the clouds."
+      ]
+    },
+    {
+      "word": "Propeller",
+      "pronunciation": "/prəˈpɛlər/",
+      "definition": "A mechanical device for propelling a boat or aircraft, consisting of a revolving shaft with blades.",
+      "sentences": [
+        "The small plane had a large propeller.",
+        "The propeller spun rapidly.",
+        "Propellers push the air or water."
+      ]
+    },
+    {
+      "word": "Air traffic controller",
+      "pronunciation": "/ɛər ˈtræfɪk kənˈtroʊlər/",
+      "definition": "A person who manages the flow of aircraft in and out of airports and through airspace.",
+      "sentences": [
+        "The air traffic controller guided the planes safely.",
+        "Air traffic controllers have a very important job.",
+        "She dreams of becoming an air traffic controller."
+      ]
+    },
+    {
+      "word": "Ground crew",
+      "pronunciation": "/ɡraʊnd kruː/",
+      "definition": "The personnel who service an aircraft on the ground.",
+      "sentences": [
+        "The ground crew prepared the plane for takeoff.",
+        "The ground crew loaded the luggage.",
+        "He works as part of the ground crew."
+      ]
+    },
+    {
+      "word": "Takeoff roll",
+      "pronunciation": "/ˈteɪkˌɒf roʊl/",
+      "definition": "The distance an aircraft travels along the runway before becoming airborne.",
+      "sentences": [
+        "The takeoff roll was smooth and quick.",
+        "The plane needed a long takeoff roll.",
+        "He felt the acceleration during the takeoff roll."
+      ]
+    },
+    {
+      "word": "Landing gear",
+      "pronunciation": "/ˈlændɪŋ ɡɪər/",
+      "definition": "The undercarriage of an aircraft, including the wheels or floats, used for landing and takeoff.",
+      "sentences": [
+        "The pilot lowered the landing gear before landing.",
+        "The landing gear retracted after takeoff.",
+        "He checked the landing gear before the flight."
+      ]
+    },
+    {
+      "word": "Flight path",
+      "pronunciation": "/flaɪt pæθ/",
+      "definition": "The route taken by an aircraft.",
+      "sentences": [
+        "The airplane followed its designated flight path.",
+        "The flight path took us over the mountains.",
+        "Air traffic control monitors the flight path."
+      ]
+    },
+    {
+      "word": "Airborne",
+      "pronunciation": "/ˈɛərˌbɔːrn/",
+      "definition": "Transported by air; in the air.",
+      "sentences": [
+        "The plane became airborne quickly.",
+        "Once airborne, the flight was smooth.",
+        "The helicopter was airborne in minutes."
+      ]
+    },
+    {
+      "word": "Disembark",
+      "pronunciation": "/ˌdɪsɪmˈbɑːrk/",
+      "definition": "To leave a ship, aircraft, or other vehicle.",
+      "sentences": [
+        "Passengers began to disembark after the plane landed.",
+        "We disembarked from the ferry at the port.",
+        "It took a while for everyone to disembark."
+      ]
+    },
+    {
+      "word": "Embark",
+      "pronunciation": "/ɪmˈbɑːrk/",
+      "definition": "To go on board a ship, aircraft, or other vehicle for a journey.",
+      "sentences": [
+        "We will embark on our cruise at 4 PM.",
+        "Passengers were asked to embark at Gate 7.",
+        "He was excited to embark on his adventure."
+      ]
+    },
+    {
+      "word": "Voyage",
+      "pronunciation": "/ˈvɔɪɪdʒ/",
+      "definition": "A long journey by sea or in space.",
+      "sentences": [
+        "The ship embarked on a long voyage across the ocean.",
+        "The voyage to the moon took several days.",
+        "It was a memorable voyage."
+      ]
+    },
+    {
+      "word": "Expedition",
+      "pronunciation": "/ˌɛkspɪˈdɪʃən/",
+      "definition": "A journey or voyage undertaken by a group of people with a particular purpose, especially of exploration, research, or war.",
+      "sentences": [
+        "They went on an expedition to the Amazon rainforest.",
+        "The scientific expedition discovered new species.",
+        "He led a climbing expedition to Mount Everest."
+      ]
+    }
+  ]
+}

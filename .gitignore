@@ -1,0 +1,22 @@
+# Flutter build
+build/
+.dart_tool/
+.flutter-*
+
+# Node.js
+backend/node_modules/
+backend/.env
+
+# Sensitive keys/config
+lib/config/api_config.dart
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# OS & Logs
+.DS_Store
+Thumbs.db
+*.log
+*.lock

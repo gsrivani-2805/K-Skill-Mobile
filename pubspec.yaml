@@ -1,0 +1,345 @@
+name: K_Skill
+description: "An English Learning Platform"
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.8.1
+
+dependencies:
+  flutter:
+    sdk: flutter
+  shared_preferences: ^2.2.2
+  cupertino_icons: ^1.0.8
+  my_app: ^1.0.0
+  audioplayers: ^6.5.0
+  speech_to_text: ^7.1.0
+  http: ^1.4.0
+  flutter_tts: ^4.2.3
+  google_fonts: ^6.1.0
+  flutter_markdown: ^0.7.7+1
+  string_similarity: ^2.0.0
+  permission_handler: ^12.0.1
+  flutter_sound: ^9.28.0
+  record: ^6.0.0
+  path_provider: ^2.1.5
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^6.0.0
+  flutter_launcher_icons: ^0.13.1
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "images/kskill_logo.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+
+  #assessment
+  - data/assessment/listening_sentence.json
+  - data/assessment/quiz_questions.json
+  - data/assessment/reading_passage.json
+
+  #practice
+  - data/practice/listening_sentences.json
+  - data/practice/reading_passages.json
+  
+  #logos
+  - images/boy.png
+  - images/girl.png
+  - images/kskill_logo.png
+  - images/children.jpg
+  - images/login_side_image.png
+
+  #lessons
+  - data/lessons/english_curriculum.json
+
+  - data/lessons/basic/
+  - data/lessons/intermediate/
+  - data/lessons/advanced/
+
+  - data/lessons/basic/module-1/L1_M1_L1.json
+  - data/lessons/basic/module-1/L1_M1_L2.json
+  - data/lessons/basic/module-1/L1_M1_L3.json
+
+  - data/lessons/basic/module-2/L1_M2_L1.json
+  - data/lessons/basic/module-2/L1_M2_L2.json
+  - data/lessons/basic/module-2/L1_M2_L3.json
+  - data/lessons/basic/module-2/L1_M2_L4.json
+  - data/lessons/basic/module-2/L1_M2_L5.json
+
+  - data/lessons/basic/module-3/L1_M3_L1.json
+  - data/lessons/basic/module-3/L1_M3_L2.json 
+  - data/lessons/basic/module-3/L1_M3_L3.json 
+  - data/lessons/basic/module-3/L1_M3_L4.json 
+  - data/lessons/basic/module-3/L1_M3_L5.json 
+  - data/lessons/basic/module-3/L1_M3_L6.json 
+  - data/lessons/basic/module-3/L1_M3_L7.json 
+  - data/lessons/basic/module-3/L1_M3_L8.json
+
+  - data/lessons/basic/module-4/L1_M4_L1.json
+  - data/lessons/basic/module-4/L1_M4_L2.json
+  - data/lessons/basic/module-4/L1_M4_L3.json
+
+  - data/lessons/basic/module-5/L1_M5_L1.json
+  - data/lessons/basic/module-5/L1_M5_L2.json
+  - data/lessons/basic/module-5/L1_M5_L3.json
+  - data/lessons/basic/module-5/L1_M5_L4.json
+  - data/lessons/basic/module-5/L1_M5_L5.json
+
+  - data/lessons/intermediate/module-1/L2_M1_L1.json
+  - data/lessons/intermediate/module-1/L2_M1_L2.json
+  - data/lessons/intermediate/module-1/L2_M1_L3.json
+  - data/lessons/intermediate/module-1/L2_M1_L4.json
+  - data/lessons/intermediate/module-1/L2_M1_L5.json
+
+  - data/lessons/intermediate/module-2/L2_M2_L1.json
+  - data/lessons/intermediate/module-2/L2_M2_L2.json
+  - data/lessons/intermediate/module-2/L2_M2_L3.json
+  - data/lessons/intermediate/module-2/L2_M2_L4.json
+  - data/lessons/intermediate/module-2/L2_M2_L5.json
+  - data/lessons/intermediate/module-2/L2_M2_L6.json
+  - data/lessons/intermediate/module-2/L2_M2_L7.json
+
+  - data/lessons/intermediate/module-3/L2_M3_L1.json
+  - data/lessons/intermediate/module-3/L2_M3_L2.json
+  - data/lessons/intermediate/module-3/L2_M3_L3.json
+  - data/lessons/intermediate/module-3/L2_M3_L4.json
+  - data/lessons/intermediate/module-3/L2_M3_L5.json
+
+  - data/lessons/intermediate/module-4/L2_M4_L1.json
+  - data/lessons/intermediate/module-4/L2_M4_L2.json
+  - data/lessons/intermediate/module-4/L2_M4_L3.json
+  - data/lessons/intermediate/module-4/L2_M4_L4.json
+  - data/lessons/intermediate/module-4/L2_M4_L5.json
+
+  - data/lessons/intermediate/module-5/L2_M5_L1.json
+  - data/lessons/intermediate/module-5/L2_M5_L2.json
+  - data/lessons/intermediate/module-5/L2_M5_L3.json
+  - data/lessons/intermediate/module-5/L2_M5_L4.json
+  - data/lessons/intermediate/module-5/L2_M5_L5.json
+
+  - data/lessons/advanced/module-1/L3_M1_L1.json
+  - data/lessons/advanced/module-1/L3_M1_L2.json
+  - data/lessons/advanced/module-1/L3_M1_L3.json
+  - data/lessons/advanced/module-1/L3_M1_L4.json
+
+  - data/lessons/advanced/module-2/L3_M2_L1.json
+  - data/lessons/advanced/module-2/L3_M2_L2.json
+  - data/lessons/advanced/module-2/L3_M2_L3.json
+  - data/lessons/advanced/module-2/L3_M2_L4.json
+
+  - data/lessons/advanced/module-3/L3_M3_L1.json
+  - data/lessons/advanced/module-3/L3_M3_L2.json
+  - data/lessons/advanced/module-3/L3_M3_L3.json
+  - data/lessons/advanced/module-3/L3_M3_L4.json
+
+  - data/lessons/advanced/module-4/L3_M4_L1.json
+  - data/lessons/advanced/module-4/L3_M4_L2.json
+  - data/lessons/advanced/module-4/L3_M4_L3.json
+  - data/lessons/advanced/module-4/L3_M4_L4.json
+
+  #quizzes
+  - data/quizzes/
+  - data/quizzes/basic/
+  - data/quizzes/intermediate/
+  - data/quizzes/advanced/
+
+  - data/quizzes/basic/module-1/L1_M1_Q1.json
+  - data/quizzes/basic/module-1/L1_M1_Q2.json
+  - data/quizzes/basic/module-1/L1_M1_Q3.json
+
+  - data/quizzes/basic/module-2/L1_M2_Q1.json
+  - data/quizzes/basic/module-2/L1_M2_Q2.json
+  - data/quizzes/basic/module-2/L1_M2_Q3.json
+  - data/quizzes/basic/module-2/L1_M2_Q4.json
+  - data/quizzes/basic/module-2/L1_M2_Q5.json
+
+  - data/quizzes/basic/module-3/L1_M3_Q1.json
+  - data/quizzes/basic/module-3/L1_M3_Q2.json 
+  - data/quizzes/basic/module-3/L1_M3_Q3.json 
+  - data/quizzes/basic/module-3/L1_M3_Q4.json 
+  - data/quizzes/basic/module-3/L1_M3_Q5.json 
+  - data/quizzes/basic/module-3/L1_M3_Q6.json 
+  - data/quizzes/basic/module-3/L1_M3_Q7.json 
+  - data/quizzes/basic/module-3/L1_M3_Q8.json
+
+  - data/quizzes/basic/module-4/L1_M4_Q1.json
+  - data/quizzes/basic/module-4/L1_M4_Q2.json
+  - data/quizzes/basic/module-4/L1_M4_Q3.json
+
+  - data/quizzes/basic/module-5/L1_M5_Q1.json
+  - data/quizzes/basic/module-5/L1_M5_Q2.json
+  - data/quizzes/basic/module-5/L1_M5_Q3.json
+  - data/quizzes/basic/module-5/L1_M5_Q4.json
+  - data/quizzes/basic/module-5/L1_M5_Q5.json
+
+  - data/quizzes/intermediate/module-1/L2_M1_Q1.json
+  - data/quizzes/intermediate/module-1/L2_M1_Q2.json
+  - data/quizzes/intermediate/module-1/L2_M1_Q3.json
+  - data/quizzes/intermediate/module-1/L2_M1_Q4.json
+  - data/quizzes/intermediate/module-1/L2_M1_Q5.json
+
+  - data/quizzes/intermediate/module-2/L2_M2_Q1.json
+  - data/quizzes/intermediate/module-2/L2_M2_Q2.json
+  - data/quizzes/intermediate/module-2/L2_M2_Q3.json
+  - data/quizzes/intermediate/module-2/L2_M2_Q4.json
+  - data/quizzes/intermediate/module-2/L2_M2_Q5.json
+  - data/quizzes/intermediate/module-2/L2_M2_Q6.json
+  - data/quizzes/intermediate/module-2/L2_M2_Q7.json
+
+  - data/quizzes/intermediate/module-3/L2_M3_Q1.json
+  - data/quizzes/intermediate/module-3/L2_M3_Q2.json
+  - data/quizzes/intermediate/module-3/L2_M3_Q3.json
+  - data/quizzes/intermediate/module-3/L2_M3_Q4.json
+  - data/quizzes/intermediate/module-3/L2_M3_Q5.json
+
+  - data/quizzes/intermediate/module-4/L2_M4_Q1.json
+  - data/quizzes/intermediate/module-4/L2_M4_Q2.json
+  - data/quizzes/intermediate/module-4/L2_M4_Q3.json
+  - data/quizzes/intermediate/module-4/L2_M4_Q4.json
+  - data/quizzes/intermediate/module-4/L2_M4_Q5.json
+
+  - data/quizzes/intermediate/module-5/L2_M5_Q1.json
+  - data/quizzes/intermediate/module-5/L2_M5_Q2.json
+  - data/quizzes/intermediate/module-5/L2_M5_Q3.json
+  - data/quizzes/intermediate/module-5/L2_M5_Q4.json
+  - data/quizzes/intermediate/module-5/L2_M5_Q5.json
+
+  - data/quizzes/advanced/module-1/L3_M1_Q1.json
+  - data/quizzes/advanced/module-1/L3_M1_Q2.json
+  - data/quizzes/advanced/module-1/L3_M1_Q3.json
+  - data/quizzes/advanced/module-1/L3_M1_Q4.json
+
+  - data/quizzes/advanced/module-2/L3_M2_Q1.json
+  - data/quizzes/advanced/module-2/L3_M2_Q2.json
+  - data/quizzes/advanced/module-2/L3_M2_Q3.json
+  - data/quizzes/advanced/module-2/L3_M2_Q4.json
+
+  - data/quizzes/advanced/module-3/L3_M3_Q1.json
+  - data/quizzes/advanced/module-3/L3_M3_Q2.json
+  - data/quizzes/advanced/module-3/L3_M3_Q3.json
+  - data/quizzes/advanced/module-3/L3_M3_Q4.json
+
+  - data/quizzes/advanced/module-4/L3_M4_Q1.json
+  - data/quizzes/advanced/module-4/L3_M4_Q2.json
+  - data/quizzes/advanced/module-4/L3_M4_Q3.json
+  - data/quizzes/advanced/module-4/L3_M4_Q4.json
+
+  - images/
+
+  #images for each lesson
+  - images/
+  - images/basic/
+  - images/intermediate/
+  - images/advanced/
+
+  - images/basic/module-1/lesson-1/
+  - images/basic/module-1/lesson-2/
+  - images/basic/module-1/lesson-3/
+
+  - images/basic/module-2/lesson-1/
+  - images/basic/module-2/lesson-2/
+  - images/basic/module-2/lesson-3/
+  - images/basic/module-2/lesson-4/
+  - images/basic/module-2/lesson-5/  
+
+  - images/basic/module-3/lesson-1/
+  - images/basic/module-3/lesson-2/
+  - images/basic/module-3/lesson-3/
+  - images/basic/module-3/lesson-4/
+  - images/basic/module-3/lesson-5/
+  - images/basic/module-3/lesson-6/
+  - images/basic/module-3/lesson-7/
+  - images/basic/module-3/lesson-8/
+
+  - images/basic/module-4/lesson-1/
+  - images/basic/module-4/lesson-2/
+  - images/basic/module-4/lesson-3/
+
+  - images/basic/module-5/lesson-1/
+  - images/basic/module-5/lesson-2/
+  - images/basic/module-5/lesson-3/
+  - images/basic/module-5/lesson-4/
+  - images/basic/module-5/lesson-5/
+
+  - images/intermediate/module-1/lesson-1/
+  - images/intermediate/module-1/lesson-2/
+  - images/intermediate/module-1/lesson-3/
+  - images/intermediate/module-1/lesson-4/
+  - images/intermediate/module-1/lesson-5/
+
+  - images/intermediate/module-2/lesson-1/
+  - images/intermediate/module-2/lesson-2/
+  - images/intermediate/module-2/lesson-3/
+  - images/intermediate/module-2/lesson-4/
+  - images/intermediate/module-2/lesson-5/
+  - images/intermediate/module-2/lesson-6/
+  - images/intermediate/module-2/lesson-7/
+
+  - images/intermediate/module-3/lesson-1/
+  - images/intermediate/module-3/lesson-2/
+  - images/intermediate/module-3/lesson-3/
+  - images/intermediate/module-3/lesson-4/
+  - images/intermediate/module-3/lesson-5/
+
+  - images/intermediate/module-4/lesson-1/
+  - images/intermediate/module-4/lesson-2/
+  - images/intermediate/module-4/lesson-3/
+  - images/intermediate/module-4/lesson-4/
+  - images/intermediate/module-4/lesson-5/
+
+  - images/intermediate/module-5/lesson-1/
+  - images/intermediate/module-5/lesson-2/
+  - images/intermediate/module-5/lesson-3/
+  - images/intermediate/module-5/lesson-4/
+  - images/intermediate/module-5/lesson-5/
+
+  - images/advanced/module-1/lesson-1/
+  - images/advanced/module-1/lesson-2/
+  - images/advanced/module-1/lesson-3/
+  - images/advanced/module-1/lesson-4/
+
+  - images/advanced/module-2/lesson-1/
+  - images/advanced/module-2/lesson-2/
+  - images/advanced/module-2/lesson-3/
+  - images/advanced/module-2/lesson-4/
+
+  - images/advanced/module-3/lesson-1/
+  - images/advanced/module-3/lesson-2/
+  - images/advanced/module-3/lesson-3/
+  - images/advanced/module-3/lesson-4/
+
+  - images/advanced/module-4/lesson-1/
+  - images/advanced/module-4/lesson-2/
+  - images/advanced/module-4/lesson-3/
+  - images/advanced/module-4/lesson-4/
+
+  - vocabulary/agriculture.json
+  - vocabulary/arts.json
+  - vocabulary/business.json
+  - vocabulary/climate.json
+  - vocabulary/digital.json
+  - vocabulary/economics.json
+  - vocabulary/education.json
+  - vocabulary/entertainment.json
+  - vocabulary/family.json
+  - vocabulary/food.json
+  - vocabulary/government.json
+  - vocabulary/health.json
+  - vocabulary/history.json
+  - vocabulary/home.json
+  - vocabulary/nature.json
+  - vocabulary/philosophy.json
+  - vocabulary/science.json
+  - vocabulary/shopping.json
+  - vocabulary/space.json
+  - vocabulary/sports.json
+  - vocabulary/technology.json
+  - vocabulary/psychology.json
+  - vocabulary/transportation.json
+  - vocabulary/travel.json

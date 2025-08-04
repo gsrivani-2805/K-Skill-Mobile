@@ -1,0 +1,300 @@
+{
+  "level": "Beginner",
+  "module": "PHONICS & PRONUNCIATION",
+  "lesson_number": 1,
+  "lesson_title": "Structure of Phonics",
+  "objectives": [
+    "Understand the relationship between letters and sounds",
+    "Recognize 26 alphabet sounds",
+    "Practice correct pronunciation",
+    "Identify common sound patterns (digraphs, diphthongs, r-controlled, short/long vowels)"
+  ],
+  "topics": [
+    {
+      "title": "Introduction to Phonics",
+      "subtopics": [
+        {
+          "title": "Definition of Phonics",
+          "sections": [
+            {
+              "text": "Phonics is a method of teaching reading and writing by helping learners connect sounds (phonemes) with letters or groups of letters (graphemes). It focuses on how letters and combinations of letters represent different sounds in spoken language.",
+              "examples": [
+                {
+                  "label": "The letter \"s\"",
+                  "value": "makes the sound /s/ as in sun."
+                },
+                {
+                  "label": "The letters \"ch\"",
+                  "value": "together make the sound /ch/ as in chair."
+                }
+              ],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p1"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Types of Phonics",
+          "sections": [
+            {
+              "text": "There are several methods used to teach phonics, each with a slightly different approach to connecting sounds and letters.",
+              "examples": [],
+              "usage_examples": [],
+              "media": {},
+              "table": {
+                "title": "Types of Phonics",
+                "headers": ["Type", "Focus", "Method", "Example"],
+                "rows": [
+                  ["Synthetic Phonics", "Individual sounds", "Blend phonemes", "/c/ /a/ /t/ → cat"],
+                  ["Analytic Phonics", "Whole word to parts", "Analyze letter-sound relationships", "cat → c, a, t"],
+                  ["Analogy Phonics", "Known word parts", "Use word families", "cat → bat, hat"],
+                  ["Embedded Phonics", "Context-based", "Teach while reading", "th in \"that\""],
+                  ["Onset-Rime Phonics", "Word parts", "Combine onset and rime", "sn + ap = snap"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Alphabet Sounds",
+      "subtopics": [
+        {
+          "title": "Letter Names and Sounds",
+          "sections": [
+            {
+              "text": "English has 26 letters, but these letters represent many more sounds. It's important to differentiate between the letter's name (e.g., 'A', 'B', 'C') and the sound it makes in a word (e.g., /æ/, /b/, /k/).",
+              "examples": [],
+              "usage_examples": [
+                "**Rural Context Examples:**",
+                "A for agriculture (sound /æ/ as in apple)",
+                "B for buffalo (sound /b/ as in ball)",
+                "C for cow (sound /k/ as in cat)",
+                "D for drought (sound /d/ as in dog)",
+                "Use familiar village objects for each letter to make learning relatable.",
+                "",
+                "**Interactive Activities:**",
+                "Sound matching games with local objects (e.g., matching the 'b' sound to a picture of a buffalo).",
+                "Clapping exercises for each sound (e.g., clap for each sound in 'c-o-w').",
+                "Mirror practice for mouth movements (e.g., observing mouth shape for the /m/ sound to ensure correct articulation)."
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p2"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Common Sound Patterns",
+      "subtopics": [
+        {
+          "title": "Structure of 24 Consonant Sounds",
+          "sections": [
+            {
+              "text": "Consonant sounds are produced by obstructing airflow in the vocal tract. There are 24 consonant sounds in English, which are categorized based on their 'manner of articulation' (how the air is obstructed) and 'place of articulation' (where in the mouth the obstruction occurs).",
+              "examples": [],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p3"
+              },
+              "table": {
+                "title": "Categories of Consonant Sounds",
+                "headers": ["Type", "Sounds", "Examples"],
+                "rows": [
+                  ["Plosives (Stops)", "/p/, /b/, /t/, /d/, /k/, /g/", "pen, bat, top, dog, cat, go"],
+                  ["Fricatives", "/f/, /v/, /s/, /z/, /θ/, /ð/, /ʃ/, /ʒ/, /h/", "fan, van, sun, zip, think, this, ship, treasure, hat"],
+                  ["Affricates", "/tʃ/, /dʒ/", "chip, jam"],
+                  ["Nasals", "/m/, /n/, /ŋ/", "man, nose, ring"],
+                  ["Approximants", "/l/, /r/, /w/, /j/", "lamp, red, win, yes"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Digraphs",
+          "sections": [
+            {
+              "text": "A digraph is a combination of two letters that represent a single sound (phoneme). They can be consonant digraphs (two consonants making one sound) or vowel digraphs (two vowels making one sound).",
+              "examples": [
+                {
+                  "label": "\"sh\" in ship",
+                  "value": "produces the /ʃ/ sound."
+                },
+                {
+                  "label": "\"ph\" in phone",
+                  "value": "produces the /f/ sound."
+                }
+              ],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p4"
+              },
+              "table": {
+                "title": "Common Digraphs",
+                "headers": ["Type", "Examples", "Sound Produced"],
+                "rows": [
+                  ["Consonant Digraphs", "ch, sh, th, ph, wh", "/tʃ/, /ʃ/, /θ/, /f/, /w/"],
+                  ["Vowel Digraphs", "ai, ea, oa, ee, ie", "/eɪ/, /iː/, /oʊ/ etc."]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Diphthongs",
+          "sections": [
+            {
+              "text": "A diphthong is a single vowel sound that begins as one vowel sound and glides into another within the same syllable. It's often described as a 'gliding vowel' or a 'double vowel sound'.",
+              "examples": [],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p5"
+              },
+              "table": {
+                "title": "Common Diphthongs",
+                "headers": ["Diphthong Sound", "Examples", "Sound Moves From"],
+                "rows": [
+                  ["/aɪ/", "hi, cry, light", "a → i"],
+                  ["/eɪ/", "day, rain, play", "e → i"],
+                  ["/ɔɪ/", "boy, toy, coin", "o → i"],
+                  ["/aʊ/", "now, cow, out", "a → u"],
+                  ["/oʊ/", "no, boat, go", "o → u"],
+                  ["/ɪə/", "ear, near, idea", "i → uh"],
+                  ["/eə/", "air, care, bear", "e → uh"],
+                  ["/ʊə/", "pure, tour", "u → uh"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "R-Controlled Vowel Sounds",
+          "sections": [
+            {
+              "text": "R-controlled vowels are vowels that are followed by the letter \"r\". The \"r\" changes the sound of the vowel, making it neither short nor long. These are also known as 'vowel + r' sounds.",
+              "examples": [],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p6"
+              },
+              "table": {
+                "title": "R-Controlled Vowel Sounds",
+                "headers": ["Vowel + r", "Sound", "Examples"],
+                "rows": [
+                  ["ar", "/ɑːr/", "car, star"],
+                  ["er", "/ɜːr/", "her, fern"],
+                  ["ir", "/ɜːr/", "bird, girl"],
+                  ["ur", "/ɜːr/", "turn, fur"],
+                  ["or", "/ɔːr/", "fork, storm"],
+                  ["ear", "/ɪər/", "hear, clear"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Short Vowel Sounds",
+          "sections": [
+            {
+              "text": "Short vowels are quick, relaxed sounds made by a single vowel, typically found in closed syllables (syllables ending in a consonant). They do not 'say their name'.",
+              "examples": [],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p7"
+              },
+              "table": {
+                "title": "Short Vowel Sounds",
+                "headers": ["Vowel", "Sound", "Example Words"],
+                "rows": [
+                  ["a", "/æ/", "cat, apple"],
+                  ["e", "/ɛ/", "bed, red"],
+                  ["i", "/ɪ/", "pig, sit"],
+                  ["o", "/ɒ/", "dog, hot (UK)"],
+                  ["u", "/ʌ/", "cup, sun"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Long Vowel Sounds",
+          "sections": [
+            {
+              "text": "Long vowels 'say their name' (e.g., the 'a' in 'cake' sounds like the letter 'A'). They are often found in open syllables (syllables ending in a vowel) or with a silent 'e' at the end of the word (e.g., 'kite').",
+              "examples": [],
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p8"
+              },
+              "table": {
+                "title": "Long Vowel Sounds",
+                "headers": ["Vowel", "Sound", "Example Words"],
+                "rows": [
+                  ["a", "/eɪ/", "cake, name"],
+                  ["e", "/iː/", "me, tree"],
+                  ["i", "/aɪ/", "ice, kite"],
+                  ["o", "/oʊ/", "home, rope"],
+                  ["u", "/juː/ or /uː/", "cute, flute, rule"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Practice with Sound Patterns",
+          "sections": [
+            {
+              "text": "Here are comprehensive lists of words categorized by the sound patterns we've learned. Practice reading them aloud to reinforce your understanding and pronunciation of each sound.",
+              "examples": [],
+              "usage_examples": [
+                "**Short Vowel Words:**",
+                "cat, hat, mat, pat, rat, cap, gap, lap, map, tap",
+                "bed, fed, led, red, wed, bet, get, jet, met, set",
+                "bit, fit, hit, kit, sit, tip, dip, hip, lip, rip",
+                "pot, hot, lot, not, rot, cop, hop, mop, pop, top",
+                "cut, gut, hut, nut, rut, cub, dub, rub, sub, tub",
+                "",
+                "**Long Vowel Words:**",
+                "cake, bake, lake, make, take, cane, lane, mane, pane, vane",
+                "see, bee, fee, tee, wee, deed, feed, need, seed, weed",
+                "bike, hike, like, mike, pine, kite, fine, line, mine, vine",
+                "boat, coat, goat, moat, note, cone, bone, lone, tone, zone",
+                "cute, flute, mute, rude, tube",
+                "",
+                "**R-Controlled Words:**",
+                "car, bar, far, jar, star, cart, dart, part, tart, yard",
+                "her, fern, germ, term, stern, herd, nerd, perk, clerk, verb",
+                "bird, dirt, fir, girl, stir, hurl, pearl, swirl",
+                "corn, born, horn, scorn, storm, form, norm, warm",
+                "fur, burr, purr, spur, turn, burn, churn, spurn, lurk",
+                "",
+                "**Diphthong Words:**",
+                "boy, toy, joy, coy, soy",
+                "out, cow, how, now, plow, down, frown, gown, town, crown",
+                "coin, join, loin, point, void, oil, spoil, broil, moil, roil",
+                "",
+                "**Digraph Words:**",
+                "chip, chop, chin, chat, check",
+                "ship, shop, shed, shut, wish, dish, fish, hush, lash, push",
+                "thin, thick, thumb, think, thrill",
+                "whiz, whip, when, which, white",
+                "sing, ring, wing, king, long, strong, wrong",
+                "bang, fang, hang, rang, sang",
+                "bath, math, path, with, cloth"
+              ],
+              "media": {
+                "image": "images/basic/module-1/lesson-1/p9"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

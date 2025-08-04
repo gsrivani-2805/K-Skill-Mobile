@@ -1,0 +1,629 @@
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 1,
+  "lesson_title": "Nouns: Naming Words Around Us",
+  "objectives": [
+    "Understand that nouns are words that name people, places, animals, or things.",
+    "Learn to identify different kinds of nouns like common, proper, concrete, and abstract nouns.",
+    "Practice using singular and plural nouns correctly in simple sentences."
+  ],
+  "topics": [
+    {
+      "title": "1. What is a Noun?",
+      "subtopics": [
+        {
+          "title": "1.1. Naming People, Places, Animals, Things",
+          "sections": [
+            {
+              "text": "A noun is a word that names a person, a place, an animal, or a thing. Everything around us has a name, and these names are nouns. Think of all the things you see in your village, at home, or at school – almost everything has a name, and that name is a noun.",
+              "examples": [
+                {
+                  "label": "Person",
+                  "value": "Teacher, farmer, mother, student, Ram, doctor, friend"
+                },
+                {
+                  "label": "Place",
+                  "value": "Village, school, field, market, home, well, city, river"
+                },
+                {
+                  "label": "Animal",
+                  "value": "Cow, goat, dog, bird, fish, lion, cat"
+                },
+                {
+                  "label": "Thing",
+                  "value": "Book, pen, chair, water, tree, soil, tractor, mobile"
+                }
+              ],
+              "usage_examples": [
+                "The **farmer** works in the **field**.",
+                "My **mother** cooks tasty **food**.",
+                "The **cow** gives us **milk**.",
+                "I read a **book** in the **classroom**.",
+                "The **student** goes to **school**.",
+                "My **friend** lives in a small **village**.",
+                "A **doctor** helps sick **people**.",
+                "The **lion** is a strong **animal**.",
+                "I drink **water** from the **well**.",
+                "My **teacher** writes with a **pen**.",
+                "The **bird** is sitting on a **tree**.",
+                "My **brother** rides a **bicycle**.",
+                "The **cat** is sleeping on a **mat**.",
+                "We buy **vegetables** from the **market**.",
+                "The **river** flows near our **house**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Types of Nouns",
+      "subtopics": [
+        {
+          "title": "2.1. Common Nouns: General Names",
+          "sections": [
+            {
+              "text": "Common nouns are general names for people, places, animals, or things. They do not name any one special or particular thing. They are not capitalized unless they start a sentence.",
+              "examples": [
+                {
+                  "label": "Person",
+                  "value": "boy, girl, man, woman, teacher, doctor, friend, sister"
+                },
+                {
+                  "label": "Place",
+                  "value": "village, city, river, mountain, school, shop, farm, hospital"
+                },
+                {
+                  "label": "Animal",
+                  "value": "dog, cat, cow, bird, monkey, snake, tiger, horse"
+                },
+                {
+                  "label": "Thing",
+                  "value": "table, chair, pen, book, flower, crop, phone, computer"
+                }
+              ],
+              "usage_examples": [
+                "Many **farmers** live in our **village**.",
+                "The **students** are sitting on the **benches**.",
+                "A **dog** barks loudly at night.",
+                "I saw a **river** flowing near the **mountain**.",
+                "The **children** are playing in the **field**.",
+                "My **friend** gave me a **book**.",
+                "The **teacher** is writing on the **board**.",
+                "A **doctor** works in a **hospital**.",
+                "That **woman** is buying **vegetables** from a **shop**.",
+                "The **carpenter** made a new **chair**.",
+                "I saw a beautiful **flower** in the **garden**.",
+                "A **boy** is flying a **kite**.",
+                "That **city** has many tall **buildings**.",
+                "A **monkey** is eating a **banana**.",
+                "The **cat** is chasing a **mouse**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p2"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Proper Nouns: Special Names",
+          "sections": [
+            {
+              "text": "Proper nouns are special names for particular people, places, animals, or things. They always begin with a capital letter, no matter where they are in a sentence. Think of names of people, specific villages, festivals, or months.",
+              "examples": [
+                {
+                  "label": "Specific Person",
+                  "value": "Ram, Sita, Rahul, Meena, Uncle Sharma, Mrs. Devi"
+                },
+                {
+                  "label": "Specific Place",
+                  "value": "Delhi, Mumbai, India, Maharashtra, Ganga River, Taj Mahal, Shantipur"
+                },
+                {
+                  "label": "Specific Animal (Name)",
+                  "value": "Buddy (a dog's name), Shera (a lion's name), Moti (a cow's name)"
+                },
+                {
+                  "label": "Specific Thing/Event/Time",
+                  "value": "Diwali, Holi, January, Monday, English (language), The Ramayana (book)"
+                }
+              ],
+              "usage_examples": [
+                "**Ram** went to **Delhi** last month.",
+                "My sister's name is **Priya**.",
+                "We celebrate **Diwali** with great joy.",
+                "The **Ganga River** is very holy.",
+                "Our village is called **Shantipur**.",
+                "My friend **Rahul** and I study at **Adarsh Public School**.",
+                "I was born in **January**.",
+                "My favorite day of the week is **Sunday**.",
+                "We visited the **Taj Mahal** in **Agra**.",
+                "Our teacher, **Mr. Verma**, teaches us **English**.",
+                "My dog's name is **Buddy**.",
+                "**India** is a beautiful country.",
+                "The next big festival is **Holi**.",
+                "I am reading **The Jungle Book**.",
+                "We are going to **Mumbai** for our holidays."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p3"
+              },
+              "table": {
+                "title": "Common Nouns vs. Proper Nouns",
+                "headers": ["Common Noun (General)", "Proper Noun (Specific)"],
+                "rows": [
+                  ["boy", "Rahul"],
+                  ["village", "Shantipur"],
+                  ["river", "Ganga"],
+                  ["festival", "Diwali"],
+                  ["day", "Monday"],
+                  ["teacher", "Ms. Devi"],
+                  ["dog", "Moti"],
+                  ["country", "India"],
+                  ["month", "March"],
+                  ["book", "The Ramayana"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.3. Concrete Nouns: Things We Can See and Touch",
+          "sections": [
+            {
+              "text": "Concrete nouns are names of things you can see, touch, hear, smell, or taste. They are real, physical things. Most common nouns are also concrete nouns.",
+              "examples": [
+                {
+                  "label": "See",
+                  "value": "Tree, road, house, cloud, sun, moon, star"
+                },
+                {
+                  "label": "Touch",
+                  "value": "Stone, water, soil, book, pen, hand, cloth, table"
+                },
+                {
+                  "label": "Hear",
+                  "value": "Bell, music, rain, bird (the sound), thunder, horn"
+                },
+                {
+                  "label": "Smell",
+                  "value": "Flower, food, smoke, perfume, soil (after rain)"
+                },
+                {
+                  "label": "Taste",
+                  "value": "Mango, rice, salt, sugar, lemon, water"
+                }
+              ],
+              "usage_examples": [
+                "I picked a **flower** from the **garden**.",
+                "The **water** in the **well** is clean.",
+                "My **house** has a red **roof**.",
+                "I can hear the **bell** ringing for school.",
+                "The **soil** in the **field** is very fertile.",
+                "The **mango** tastes very sweet.",
+                "I can smell the **smoke** from the fire.",
+                "The **rain** is falling on the tin roof.",
+                "He threw a **stone** into the **pond**.",
+                "My **mother** is cooking **food** in the kitchen.",
+                "The **farmer** drives a **tractor**.",
+                "I am writing with a **pen** in my **notebook**.",
+                "I can feel the **wind** on my **face**.",
+                "We listen to **music** on the **radio**.",
+                "The bright **sun** is in the **sky**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p4"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.4. Abstract Nouns: Ideas and Feelings",
+          "sections": [
+            {
+              "text": "Abstract nouns are names of ideas, feelings, qualities, or conditions that you cannot see, touch, hear, smell, or taste. They are things that exist in our minds or as concepts.",
+              "examples": [
+                {
+                  "label": "Feeling",
+                  "value": "Happiness, sadness, anger, love, fear, joy, excitement"
+                },
+                {
+                  "label": "Idea",
+                  "value": "Freedom, knowledge, truth, peace, justice, idea, dream"
+                },
+                {
+                  "label": "Quality",
+                  "value": "Kindness, bravery, honesty, beauty, courage, patience, wisdom"
+                },
+                {
+                  "label": "Condition",
+                  "value": "Poverty, sickness, childhood, friendship, health, wealth"
+                }
+              ],
+              "usage_examples": [
+                "We all wish for **peace** in our village.",
+                "His **kindness** made everyone happy.",
+                "She felt great **happiness** on her birthday.",
+                "Our country fought for **freedom**.",
+                "It is important to always tell the **truth**.",
+                "The soldier was awarded for his **bravery**.",
+                "**Honesty** is the best policy.",
+                "Their **friendship** is very strong.",
+                "**Laughter** is good for your **health**.",
+                "You need a lot of **patience** for this work.",
+                "The old man is known for his **wisdom**.",
+                "We must fight against **poverty**.",
+                "**Childhood** is a time of great **joy**.",
+                "She has a great **love** for animals.",
+                "He could not hide his **excitement**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p5"
+              },
+              "table": {
+                "title": "Concrete Nouns vs. Abstract Nouns",
+                "headers": ["Concrete Noun (Physical)", "Abstract Noun (Idea/Feeling)"],
+                "rows": [
+                  ["stone", "love"],
+                  ["school", "knowledge"],
+                  ["farmer", "bravery"],
+                  ["rain", "happiness"],
+                  ["food", "hunger"],
+                  ["friend", "friendship"],
+                  ["king", "justice"],
+                  ["child", "childhood"],
+                  ["book", "idea"],
+                  ["flower", "beauty"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.5. Collective Nouns: Names for Groups",
+          "sections": [
+            {
+              "text": "Collective nouns are words that name a group or collection of people, animals, or things as a single unit.",
+              "examples": [
+                {
+                  "label": "Group of People",
+                  "value": "family, team, army, crowd, class, audience"
+                },
+                {
+                  "label": "Group of Animals",
+                  "value": "herd (of cows), flock (of sheep/birds), swarm (of bees), pack (of wolves)"
+                },
+                {
+                  "label": "Group of Things",
+                  "value": "bunch (of keys/grapes), fleet (of ships), forest (of trees), library (of books)"
+                }
+              ],
+              "usage_examples": [
+                "Our **family** lives in a small house.",
+                "A **herd** of cows is grazing in the field.",
+                "The cricket **team** won the match.",
+                "I saw a **flock** of birds flying south.",
+                "She gave me a **bunch** of grapes.",
+                "The entire **class** was silent.",
+                "A large **crowd** gathered at the market.",
+                "The Indian **army** is very brave.",
+                "A **swarm** of bees flew out of the hive.",
+                "Our school has a big **library** of books."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p6"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.6. Compound Nouns: Two Words Make One Noun",
+          "sections": [
+            {
+              "text": "Compound nouns are made up of two or more words combined to create a single noun. They can be written as one word, as two separate words, or with a hyphen.",
+              "examples": [
+                {
+                  "label": "One Word (Closed)",
+                  "value": "classroom, football, sunlight, homework, notebook, bedroom"
+                },
+                {
+                  "label": "Two Words (Open)",
+                  "value": "village well, post office, bus stop, water tank, living room, high school"
+                },
+                {
+                  "label": "Hyphenated",
+                  "value": "mother-in-law, sister-in-law, self-control, ten-year-old"
+                }
+              ],
+              "usage_examples": [
+                "The students are in the **classroom**.",
+                "I have to finish my **homework**.",
+                "Let's meet at the **bus stop**.",
+                "The **post office** is near the school.",
+                "The **sunlight** is very bright.",
+                "My **mother-in-law** is very kind.",
+                "We play **football** in the evening.",
+                "I write notes in my **notebook**.",
+                "The **water tank** for our village is huge.",
+                "My brother goes to **high school**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p7"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Singular and Plural Nouns",
+      "subtopics": [
+        {
+          "title": "3.1. Singular Nouns: One Thing",
+          "sections": [
+            {
+              "text": "A singular noun names only one person, place, animal, or thing.",
+              "examples": [
+                {
+                  "label": "One Person",
+                  "value": "girl, boy, teacher, man, woman, child"
+                },
+                {
+                  "label": "One Place",
+                  "value": "village, farm, school, house, shop, temple"
+                },
+                {
+                  "label": "One Animal",
+                  "value": "cow, goat, dog, bird, horse, lion"
+                },
+                {
+                  "label": "One Thing",
+                  "value": "book, pen, tree, flower, table, bus"
+                }
+              ],
+              "usage_examples": [
+                "I have one **pen**.",
+                "There is a big **tree** near our house.",
+                "My **cow** gives milk.",
+                "The **teacher** is in the classroom.",
+                "Our **village** has a pond.",
+                "A **child** is playing with a **toy**.",
+                "The **farmer** has a **tractor**.",
+                "I see a **bird** on the **branch**.",
+                "My **friend** has a new **bicycle**.",
+                "The **shop** sells fresh **fruit**.",
+                "A **woman** is carrying a **pot**.",
+                "The **river** flows through the **valley**.",
+                "There is a **bus** at the bus stop.",
+                "The **dog** is a faithful **animal**.",
+                "A **boy** is reading a **book**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p8"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. Plural Nouns: More Than One",
+          "sections": [
+            {
+              "text": "A plural noun names more than one person, place, animal, or thing. Most nouns become plural by adding '-s' at the end. But some nouns have special rules.",
+              "examples": [
+                {
+                  "label": "Adding '-s'",
+                  "value": "cow -> cows, book -> books, village -> villages, flower -> flowers"
+                },
+                {
+                  "label": "Adding '-es' (for s, x, z, sh, ch)",
+                  "value": "bus -> buses, box -> boxes, bench -> benches, bush -> bushes"
+                },
+                {
+                  "label": "Changing 'y' to 'ies' (if 'y' comes after consonant)",
+                  "value": "story -> stories, family -> families, city -> cities, baby -> babies"
+                },
+                {
+                  "label": "Changing 'f'/'fe' to 'ves'",
+                  "value": "leaf -> leaves, knife -> knives, wife -> wives, life -> lives"
+                },
+                {
+                  "label": "Irregular Plurals (No rule)",
+                  "value": "man -> men, child -> children, mouse -> mice, foot -> feet, tooth -> teeth"
+                }
+              ],
+              "usage_examples": [
+                "We have many **cows** on our farm.",
+                "There are three **books** on the table.",
+                "The **children** are playing in the field.",
+                "The **buses** arrive early at the station.",
+                "Our **families** live together in the village.",
+                "The **leaves** on the trees are turning yellow.",
+                "The **stories** my grandmother tells are interesting.",
+                "The **men** and **women** work together on the farm.",
+                "I bought some **potatoes** and **tomatoes**.",
+                "There are many **benches** in the park.",
+                "She washed the **dishes** after dinner.",
+                "Two **mice** ran across the floor.",
+                "I need to buy new **knives** for the kitchen.",
+                "Big **cities** have many tall buildings.",
+                "The dentist cleaned my **teeth**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p9"
+              },
+              "table": {
+                "title": "Singular to Plural Noun Rules",
+                "headers": ["Rule", "Singular", "Plural", "Example in Sentence"],
+                "rows": [
+                  ["Add -s", "dog", "dogs", "I saw three dogs."],
+                  ["Add -es", "bush", "bushes", "There are many bushes."],
+                  ["Change y to ies", "city", "cities", "Big cities have tall buildings."],
+                  ["Change f/fe to ves", "wolf", "wolves", "Wolves live in forests."],
+                  ["Irregular", "man", "men", "Two men are talking."],
+                  ["Irregular", "child", "children", "The children are happy."],
+                  ["Irregular", "foot", "feet", "Wash your feet."],
+                  ["Irregular", "tooth", "teeth", "Brush your teeth."]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Possessive Nouns: Showing Ownership",
+      "subtopics": [
+        {
+          "title": "4.1. Making Nouns Show Who Owns Something",
+          "sections": [
+            {
+              "text": "Possessive nouns show that something belongs to a person, animal, or thing. We usually use an apostrophe (') and an 's' to show this ownership.",
+              "usage_examples": [],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p10"
+              }
+            }
+          ]
+        },
+        {
+          "title": "4.2. Singular Possessive Nouns",
+          "sections": [
+            {
+              "text": "To show ownership for a singular noun, add an apostrophe (') and an 's' at the end of the noun.",
+              "examples": [
+                {
+                  "label": "Example 1",
+                  "value": "The book of the boy -> the **boy's** book"
+                },
+                {
+                  "label": "Example 2",
+                  "value": "The tail of the cow -> the **cow's** tail"
+                },
+                {
+                  "label": "Example 3",
+                  "value": "The house of Ram -> **Ram's** house"
+                }
+              ],
+              "usage_examples": [
+                "This is **Ram's** house.",
+                "The **farmer's** field is very large.",
+                "My **mother's** cooking is the best.",
+                "I found the **teacher's** pen.",
+                "The **dog's** bark is loud.",
+                "I am wearing my **sister's** dress.",
+                "This is the **doctor's** clinic.",
+                "The **monkey's** tail is long.",
+                "I borrowed **Priya's** notebook.",
+                "The **sun's** light is very bright."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p11"
+              }
+            }
+          ]
+        },
+        {
+          "title": "4.3. Plural Possessive Nouns",
+          "sections": [
+            {
+              "text": "For plural nouns that already end in 's', just add an apostrophe (') after the 's'. For plural nouns that do not end in 's' (irregular plurals), add an apostrophe and an 's'.",
+              "examples": [
+                {
+                  "label": "Plural ending in 's'",
+                  "value": "The books of the boys -> the **boys'** books"
+                },
+                {
+                  "label": "Plural ending in 's'",
+                  "value": "The work of the farmers -> the **farmers'** work"
+                },
+                {
+                  "label": "Plural not ending in 's'",
+                  "value": "The toys of the children -> the **children's** toys"
+                },
+                {
+                  "label": "Plural not ending in 's'",
+                  "value": "The meeting of the men -> the **men's** meeting"
+                }
+              ],
+              "usage_examples": [
+                "This is the **students'** classroom.",
+                "The **farmers'** work is very hard.",
+                "The **children's** laughter filled the air.",
+                "The **men's** meeting is today.",
+                "We need to clean the **cows'** shed.",
+                "My **parents'** house is in the village.",
+                "The **teachers'** room is on the first floor.",
+                "The **women's** group meets every week.",
+                "You can hear the **birds'** songs in the morning.",
+                "The **horses'** stables are behind the house."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p12"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "5. Using Nouns in Sentences",
+      "subtopics": [
+        {
+          "title": "5.1. Nouns as Subject and Object",
+          "sections": [
+            {
+              "text": "Nouns are very important in sentences. They can act as the subject (who or what is doing the action) or the object (who or what is receiving the action).",
+              "examples": [
+                {
+                  "label": "Subject",
+                  "value": "The **farmer** works hard. (**Farmer** is the one working.)"
+                },
+                {
+                  "label": "Subject",
+                  "value": "**Rain** helps the crops grow. (**Rain** is doing the action of helping.)"
+                },
+                {
+                  "label": "Object",
+                  "value": "I read a **book**. (**Book** is what I read.)"
+                },
+                {
+                  "label": "Object",
+                  "value": "She gave **water** to the plant. (**Water** is what she gave.)"
+                },
+                {
+                  "label": "Subject and Object",
+                  "value": "The **teacher** (S) explains the **lesson** (O)."
+                }
+              ],
+              "usage_examples": [
+                "My **mother** (S) cooks delicious **food** (O).",
+                "The **teacher** (S) teaches **English** (O).",
+                "I drink **milk** (O) every day.",
+                "We play **cricket** (O) in the field.",
+                "The **well** (S) provides clean **water** (O) for the village.",
+                "**Birds** (S) build **nests** (O).",
+                "The **sun** (S) gives **light** (O).",
+                "**Children** (S) drink **milk** (O).",
+                "My **sister** (S) drew a **picture** (O).",
+                "The **carpenter** (S) fixed the **chair** (O).",
+                "**Farmers** (S) grow **crops** (O).",
+                "The **dog** (S) is chasing the **cat** (O).",
+                "I bought **vegetables** (O) from the market.",
+                "The **postman** (S) delivered a **letter** (O).",
+                "The **students** (S) are reading their **books** (O)."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-1/p13"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

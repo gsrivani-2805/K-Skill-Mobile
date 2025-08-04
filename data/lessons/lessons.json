@@ -1,0 +1,80 @@
+{
+  "Level1_Beginner": {
+    "title": "BEGINNER (Foundation Stage)",
+    "focus": "Build confidence, understand sounds, use basic vocabulary, and construct simple sentences.",
+    "modules": {
+      "L1_M1": {
+        "title": "Phonics & Pronunciation",
+        "lessons": {
+          "L1_M1_L1": {
+            "title": "Structure of Phonics",
+            "file_path": "lessons/basic/module-1/L1_M1_L1.json",
+            "quiz_path": "assessment/quiz_questions.json"
+          }
+        }
+      },
+      "L1_M2": {
+        "title": "Basic Vocabulary",
+        "lessons": {
+          "L1_M2_L1": {
+            "title": "School & Classroom Objects",
+            "file_path": "lessons/basic/module-2/L1_M2_L1.json",
+            "quiz_path": "assessments/quiz_questions.json"
+          }
+        }
+      }
+    }
+  },
+  "Level2_Intermediate": {
+    "title": "INTERMEDIATE (Skill Builder Stage)",
+    "focus": "Build fluency in sentence formation, comprehension, everyday usage, and structured writing.",
+    "modules": {
+      "L2_M1": {
+        "title": "Sentence Formation & Tenses",
+        "lessons": {
+          "L2_M1_L1": {
+            "title": "Tenses and Types of Tenses",
+            "file_path": "lessons/intermediate/module-1/L2_M1_L1.json",
+            "quiz_path": "assessments/quiz_questions.json"
+          }
+        }
+      },
+      "L2_M2": {
+        "title": "Grammar Expansion",
+        "lessons": {
+          "L2_M2_L1": {
+            "title": "Adverbs and Types of Adverbs",
+            "file_path": "lessons/intermediate/module-2/L2_M2_L1.json",
+            "quiz_path": "assessments/quiz_questions.json"
+          }
+        }
+      }
+    }
+  },
+  "Level3_Advanced": {
+    "title": "ADVANCED (Application Stage)",
+    "focus": "Apply skills in real-world scenarios, public speaking, creative writing, and textbook-based academic learning.",
+    "modules": {
+      "L3_M1": {
+        "title": "Grammar Mastery",
+        "lessons": {
+          "L3_M1_L1": {
+            "title": "Direct and Indirect Speech",
+            "file_path": "lessons/advanced/module-1/L3_M1_L1.json",
+            "quiz_path": "assessments/quiz_questions.json"
+          }
+        }
+      },
+      "L3_M2": {
+        "title": "Creative & Academic Writing",
+        "lessons": {
+          "L3_M2_L1": {
+            "title": "Writing a Folk Tale",
+            "file_path": "lessons/advanced/module-2/L3_M2_L1.json",
+            "quiz_path": "assessments/quiz_questions.json"
+          }
+        }
+      }
+    }
+  }
+}

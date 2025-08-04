@@ -1,0 +1,1436 @@
+{
+  "title": "Shopping & Commerce",
+  "icon": "🛍️",
+  "words": [
+    {
+      "word": "Shop",
+      "pronunciation": "/ʃɑːp/",
+      "definition": "A place where goods are sold.",
+      "sentences": [
+        "I need to go to the grocery **shop**.",
+        "There's a new clothes **shop** downtown.",
+        "This **shop** sells fresh produce."
+      ]
+    },
+    {
+      "word": "Store",
+      "pronunciation": "/stɔːr/",
+      "definition": "A place where goods are sold, often larger than a shop.",
+      "sentences": [
+        "The department **store** has many floors.",
+        "I bought a new book at the book **store**.",
+        "The convenience **store** is open late."
+      ]
+    },
+    {
+      "word": "Buy",
+      "pronunciation": "/baɪ/",
+      "definition": "To get something by paying money for it.",
+      "sentences": [
+        "I want to **buy** a new toy.",
+        "She decided to **buy** a red dress.",
+        "We need to **buy** more milk."
+      ]
+    },
+    {
+      "word": "Sell",
+      "pronunciation": "/sɛl/",
+      "definition": "To give something to someone in exchange for money.",
+      "sentences": [
+        "They **sell** fresh vegetables at the market.",
+        "He wants to **sell** his old bicycle.",
+        "The company **sells** products online."
+      ]
+    },
+    {
+      "word": "Customer",
+      "pronunciation": "/ˈkʌstəmər/",
+      "definition": "A person who buys goods or services from a shop or business.",
+      "sentences": [
+        "The **customer** asked for help.",
+        "Good service keeps **customers** happy.",
+        "The shop thanked its loyal **customers**."
+      ]
+    },
+    {
+      "word": "Shopper",
+      "pronunciation": "/ˈʃɑːpər/",
+      "definition": "A person who is shopping.",
+      "sentences": [
+        "Many **shoppers** were at the mall today.",
+        "The **shopper** looked for a discount.",
+        "She is a careful **shopper**."
+      ]
+    },
+    {
+      "word": "Cashier",
+      "pronunciation": "/kæˈʃɪr/",
+      "definition": "A person whose job is to receive and pay out money in a shop or bank.",
+      "sentences": [
+        "The **cashier** scanned my items.",
+        "The **cashier** gave me my change.",
+        "She smiled at the friendly **cashier**."
+      ]
+    },
+    {
+      "word": "Receipt",
+      "pronunciation": "/rɪˈsiːt/",
+      "definition": "A piece of paper that shows you have paid for something.",
+      "sentences": [
+        "Please keep your **receipt**.",
+        "I got a **receipt** after buying groceries.",
+        "You need the **receipt** to return an item."
+      ]
+    },
+    {
+      "word": "Price",
+      "pronunciation": "/praɪs/",
+      "definition": "The amount of money for which something is bought or sold.",
+      "sentences": [
+        "What is the **price** of this shirt?",
+        "The **price** of gas went up.",
+        "The store offered a special **price**."
+      ]
+    },
+    {
+      "word": "Cost",
+      "pronunciation": "/kɔːst/",
+      "definition": "The amount of money needed to buy, do, or get something.",
+      "sentences": [
+        "The total **cost** was $50.",
+        "What is the **cost** of living here?",
+        "He calculated the **cost** of the trip."
+      ]
+    },
+    {
+      "word": "Discount",
+      "pronunciation": "/ˈdɪskaʊnt/",
+      "definition": "A reduction in the usual price of something.",
+      "sentences": [
+        "I got a **discount** on the shoes.",
+        "The store offers a student **discount**.",
+        "Look for items on **discount**."
+      ]
+    },
+    {
+      "word": "Sale",
+      "pronunciation": "/seɪl/",
+      "definition": "A period when a shop sells goods at reduced prices.",
+      "sentences": [
+        "The store is having a big **sale**.",
+        "I bought this dress on **sale**.",
+        "The end-of-season **sale** starts tomorrow."
+      ]
+    },
+    {
+      "word": "Bargain",
+      "pronunciation": "/ˈbɑːrɡɪn/",
+      "definition": "Something bought or offered for sale at a surprisingly low price.",
+      "sentences": [
+        "This coat was a real **bargain**.",
+        "I love finding a good **bargain**.",
+        "She always looks for a **bargain** when shopping."
+      ]
+    },
+    {
+      "word": "Offer",
+      "pronunciation": "/ˈɔːfər/",
+      "definition": "A special price or deal, usually for a limited time.",
+      "sentences": [
+        "The supermarket has a special **offer** on milk.",
+        "This is a limited-time **offer**.",
+        "They made a good **offer** for the car."
+      ]
+    },
+    {
+      "word": "Coupon",
+      "pronunciation": "/ˈkuːpɑːn/",
+      "definition": "A voucher entitling the holder to a discount on a particular product.",
+      "sentences": [
+        "I used a **coupon** to save money.",
+        "Do you have any **coupons** for this item?",
+        "She clipped the **coupon** from the newspaper."
+      ]
+    },
+    {
+      "word": "Cash",
+      "pronunciation": "/kæʃ/",
+      "definition": "Money in the form of coins or banknotes.",
+      "sentences": [
+        "I paid with **cash**.",
+        "Do you have enough **cash**?",
+        "He prefers to pay in **cash**."
+      ]
+    },
+    {
+      "word": "Credit card",
+      "pronunciation": "/ˈkrɛdɪt kɑːrd/",
+      "definition": "A small plastic card issued by a bank, allowing the holder to purchase goods or services on credit.",
+      "sentences": [
+        "I paid with my **credit card**.",
+        "Do you accept **credit cards** here?",
+        "He used his **credit card** for online shopping."
+      ]
+    },
+    {
+      "word": "Debit card",
+      "pronunciation": "/ˈdɛbɪt kɑːrd/",
+      "definition": "A card issued by a bank allowing the holder to transfer money electronically from their bank account when making a purchase.",
+      "sentences": [
+        "I paid with my **debit card** directly from my bank account.",
+        "You can use a **debit card** at most stores.",
+        "She prefers using her **debit card** to cash."
+      ]
+    },
+    {
+      "word": "Online shopping",
+      "pronunciation": "/ˈɑːnˌlaɪn ˈʃɑːpɪŋ/",
+      "definition": "Buying goods or services over the internet.",
+      "sentences": [
+        "I do most of my **online shopping** for clothes.",
+        "**Online shopping** is very convenient.",
+        "Many people prefer **online shopping** to going to stores."
+      ]
+    },
+    {
+      "word": "E-commerce",
+      "pronunciation": "/ˈiː ˌkɑːmɜːrs/",
+      "definition": "Commercial transactions conducted electronically on the Internet.",
+      "sentences": [
+        "Many businesses are moving to **e-commerce**.",
+        "The growth of **e-commerce** has changed how we shop.",
+        "She works in the **e-commerce** industry."
+      ]
+    },
+    {
+      "word": "Delivery",
+      "pronunciation": "/dɪˈlɪvəri/",
+      "definition": "The action of delivering letters, parcels, or goods.",
+      "sentences": [
+        "My package is out for **delivery** today.",
+        "The store offers free home **delivery**.",
+        "Expect the food **delivery** in 30 minutes."
+      ]
+    },
+    {
+      "word": "Shipping",
+      "pronunciation": "/ˈʃɪpɪŋ/",
+      "definition": "The action of sending goods by ship, or by any other means of transport.",
+      "sentences": [
+        "The **shipping** cost was extra.",
+        "They offer fast **shipping** worldwide.",
+        "My order is ready for **shipping**."
+      ]
+    },
+    {
+      "word": "Return",
+      "pronunciation": "/rɪˈtɜːrn/",
+      "definition": "To send, take, or put (something) back to its original place or position.",
+      "sentences": [
+        "I need to **return** this shirt, it's too small.",
+        "You can **return** items within 30 days.",
+        "She got a full refund after she **returned** the product."
+      ]
+    },
+    {
+      "word": "Refund",
+      "pronunciation": "/ˈriːfʌnd/",
+      "definition": "A sum of money paid back to a customer, especially when they return goods.",
+      "sentences": [
+        "I got a full **refund** for the faulty item.",
+        "The store offers a no-questions-asked **refund** policy.",
+        "He requested a **refund** for the canceled concert tickets."
+      ]
+    },
+    {
+      "word": "Exchange",
+      "pronunciation": "/ɪksˈtʃeɪndʒ/",
+      "definition": "To give something and receive something else in return.",
+      "sentences": [
+        "I want to **exchange** this shirt for a different size.",
+        "The store allows **exchange** within 7 days.",
+        "Can I **exchange** this item for another color?"
+      ]
+    },
+    {
+      "word": "Warranty",
+      "pronunciation": "/ˈwɔːrənti/",
+      "definition": "A written guarantee, issued to the purchaser of an article by its manufacturer, promising to repair or replace it if necessary within a specified period.",
+      "sentences": [
+        "The TV comes with a one-year **warranty**.",
+        "Keep your **warranty** card safe.",
+        "The repair was covered under **warranty**."
+      ]
+    },
+    {
+      "word": "Guarantee",
+      "pronunciation": "/ˌɡærənˈtiː/",
+      "definition": "A formal promise or assurance that certain conditions will be fulfilled.",
+      "sentences": [
+        "The product comes with a money-back **guarantee**.",
+        "They offer a quality **guarantee**.",
+        "I can **guarantee** you'll love this product."
+      ]
+    },
+    {
+      "word": "Brand",
+      "pronunciation": "/brænd/",
+      "definition": "A type of product manufactured by a particular company under a particular name.",
+      "sentences": [
+        "What is your favorite clothing **brand**?",
+        "This is a well-known luxury **brand**.",
+        "The new **brand** quickly gained popularity."
+      ]
+    },
+    {
+      "word": "Product",
+      "pronunciation": "/ˈprɑːdʌkt/",
+      "definition": "An article or substance that is manufactured or refined for sale.",
+      "sentences": [
+        "This new **product** is very popular.",
+        "The company launched a new line of beauty **products**.",
+        "Always read the label before using a **product**."
+      ]
+    },
+    {
+      "word": "Item",
+      "pronunciation": "/ˈaɪtəm/",
+      "definition": "An individual article or unit, especially one that is part of a list, collection, or series.",
+      "sentences": [
+        "I bought several **items** at the store.",
+        "This is the last **item** on my shopping list.",
+        "The cashier scanned each **item**."
+      ]
+    },
+    {
+      "word": "Goods",
+      "pronunciation": "/ɡʊdz/",
+      "definition": "Merchandise or possessions.",
+      "sentences": [
+        "The store sells a variety of **goods**.",
+        "These **goods** are imported from other countries.",
+        "They transport **goods** by truck."
+      ]
+    },
+    {
+      "word": "Merchandise",
+      "pronunciation": "/ˈmɜːrtʃənˌdaɪz/",
+      "definition": "Goods to be bought and sold.",
+      "sentences": [
+        "The store displayed its new **merchandise**.",
+        "They have a wide range of **merchandise**.",
+        "The shop sells official sports **merchandise**."
+      ]
+    },
+    {
+      "word": "Stock",
+      "pronunciation": "/stɑːk/",
+      "definition": "The goods or merchandise kept on the premises of a business or warehouse and available for sale or distribution.",
+      "sentences": [
+        "The store has a lot of items in **stock**.",
+        "We are out of **stock** of that particular item.",
+        "The new shipment of goods will arrive next week to replenish **stock**."
+      ]
+    },
+    {
+      "word": "Inventory",
+      "pronunciation": "/ˈɪnvənˌtɔːri/",
+      "definition": "A complete list of items such as property, goods in stock, or the contents of a building.",
+      "sentences": [
+        "The store conducts a weekly **inventory**.",
+        "They checked the **inventory** to see if the item was available.",
+        "Managing **inventory** efficiently is important for businesses."
+      ]
+    },
+    {
+      "word": "Supply",
+      "pronunciation": "/səˈplaɪ/",
+      "definition": "A stock of a resource from which a person or place can be provided with the necessary amount of that resource.",
+      "sentences": [
+        "The demand for the product exceeded the **supply**.",
+        "We have a good **supply** of fresh water.",
+        "The store needs to order more **supply**."
+      ]
+    },
+    {
+      "word": "Demand",
+      "pronunciation": "/dɪˈmænd/",
+      "definition": "The desire of consumers for a particular commodity or service.",
+      "sentences": [
+        "There is high **demand** for new smartphones.",
+        "The company couldn't meet the sudden **demand**.",
+        "The **demand** for organic food is growing."
+      ]
+    },
+    {
+      "word": "Market",
+      "pronunciation": "/ˈmɑːrkɪt/",
+      "definition": "A regular gathering of people for the purchase and sale of provisions, livestock, and other commodities.",
+      "sentences": [
+        "I bought fresh vegetables at the farmer's **market**.",
+        "The stock **market** is volatile today.",
+        "They are trying to enter the international **market**."
+      ]
+    },
+    {
+      "word": "Economy",
+      "pronunciation": "/ɪˈkɑːnəmi/",
+      "definition": "The state of a country or region in terms of the production and consumption of goods and services and the supply of money.",
+      "sentences": [
+        "The country's **economy** is growing.",
+        "Understanding the **economy** is important for business.",
+        "The global **economy** faces challenges."
+      ]
+    },
+    {
+      "word": "Commerce",
+      "pronunciation": "/ˈkɑːmɜːrs/",
+      "definition": "The activity of buying and selling, especially on a large scale.",
+      "sentences": [
+        "International **commerce** is vital for many countries.",
+        "The city is a center of trade and **commerce**.",
+        "He studied global **commerce** in college."
+      ]
+    },
+    {
+      "word": "Trade",
+      "pronunciation": "/treɪd/",
+      "definition": "The action of buying and selling goods and services.",
+      "sentences": [
+        "The two countries engage in active **trade**.",
+        "Fair **trade** practices benefit producers.",
+        "He learned a skilled **trade**."
+      ]
+    },
+    {
+      "word": "Transaction",
+      "pronunciation": "/trænˈzækʃn/",
+      "definition": "An instance of buying or selling something; a business deal.",
+      "sentences": [
+        "The bank processed the online **transaction**.",
+        "Every credit card purchase is a financial **transaction**.",
+        "The business recorded all its daily **transactions**."
+      ]
+    },
+    {
+      "word": "Payment",
+      "pronunciation": "/ˈpeɪmənt/",
+      "definition": "The act of paying money or the money paid.",
+      "sentences": [
+        "The monthly **payment** is due on the first.",
+        "I made a quick **payment** online.",
+        "She received her final **payment** for the project."
+      ]
+    },
+    {
+      "word": "Currency",
+      "pronunciation": "/ˈkɜːrənsi/",
+      "definition": "A system of money in general use in a particular country.",
+      "sentences": [
+        "The local **currency** is the dollar.",
+        "Exchange your **currency** before traveling.",
+        "What is the official **currency** of Japan?"
+      ]
+    },
+    {
+      "word": "Exchange rate",
+      "pronunciation": "/ɪksˈtʃeɪndʒ reɪt/",
+      "definition": "The value of one currency for the purpose of conversion to another.",
+      "sentences": [
+        "The **exchange rate** for the euro is favorable today.",
+        "Check the **exchange rate** before converting money.",
+        "Fluctuations in the **exchange rate** can affect trade."
+      ]
+    },
+    {
+      "word": "Budget",
+      "pronunciation": "/ˈbʌdʒɪt/",
+      "definition": "An estimate of income and expenditure for a set period of time.",
+      "sentences": [
+        "I need to stick to my weekly **budget**.",
+        "The company approved the marketing **budget**.",
+        "Plan your travel **budget** carefully."
+      ]
+    },
+    {
+      "word": "Expense",
+      "pronunciation": "/ɪkˈspɛns/",
+      "definition": "The cost incurred in or required for something.",
+      "sentences": [
+        "Travel **expenses** can add up quickly.",
+        "Keep track of every **expense**.",
+        "Housing is a major **expense** for many families."
+      ]
+    },
+    {
+      "word": "Income",
+      "pronunciation": "/ˈɪnkʌm/",
+      "definition": "Money received, especially on a regular basis, for work or through investments.",
+      "sentences": [
+        "His monthly **income** covers all his expenses.",
+        "They have a steady **income**.",
+        "She manages her **income** carefully."
+      ]
+    },
+    {
+      "word": "Savings",
+      "pronunciation": "/ˈseɪvɪŋz/",
+      "definition": "Money one has saved, especially through a bank or other financial institution.",
+      "sentences": [
+        "She puts a portion of her income into **savings**.",
+        "He used his **savings** to buy a car.",
+        "Building up your **savings** is a good financial habit."
+      ]
+    },
+    {
+      "word": "Investment",
+      "pronunciation": "/ɪnˈvɛstmənt/",
+      "definition": "The action or process of investing money for profit or material result.",
+      "sentences": [
+        "Buying a house is a big **investment**.",
+        "He made a wise **investment** in stocks.",
+        "Education is a valuable **investment** in your future."
+      ]
+    },
+    {
+      "word": "Debt",
+      "pronunciation": "/dɛt/",
+      "definition": "A sum of money that is owed or due.",
+      "sentences": [
+        "He is trying to pay off his student **debt**.",
+        "Avoid getting into too much **debt**.",
+        "The company is struggling with its **debt**."
+      ]
+    },
+    {
+      "word": "Loan",
+      "pronunciation": "/loʊn/",
+      "definition": "A sum of money that is borrowed and expected to be paid back with interest.",
+      "sentences": [
+        "He took out a bank **loan** to start his business.",
+        "Many students take out a student **loan** for college.",
+        "She applied for a small **loan**."
+      ]
+    },
+    {
+      "word": "Interest",
+      "pronunciation": "/ˈɪntrəst/",
+      "definition": "Money paid regularly at a particular rate for the use of money lent, or for delaying the repayment of a debt.",
+      "sentences": [
+        "The bank offers a high **interest** rate on savings accounts.",
+        "You have to pay **interest** on a loan.",
+        "The **interest** charges increased."
+      ]
+    },
+    {
+      "word": "Bank",
+      "pronunciation": "/bæŋk/",
+      "definition": "A financial establishment that lends and borrows money and provides other financial services.",
+      "sentences": [
+        "I need to go to the **bank** to deposit money.",
+        "She opened a new account at the **bank**.",
+        "The **bank** is open until 5 PM."
+      ]
+    },
+    {
+      "word": "Account",
+      "pronunciation": "/əˈkaʊnt/",
+      "definition": "A record or statement of financial expenditure or receipts relating to a particular period or purpose.",
+      "sentences": [
+        "I have a savings **account** at the bank.",
+        "Check your bank **account** balance.",
+        "She opened a new checking **account**."
+      ]
+    },
+    {
+      "word": "Deposit",
+      "pronunciation": "/dɪˈpɑːzɪt/",
+      "definition": "A sum of money placed or kept in a bank account, usually to gain interest.",
+      "sentences": [
+        "I need to **deposit** this check.",
+        "She made a large **deposit** into her savings account.",
+        "The landlord requires a security **deposit**."
+      ]
+    },
+    {
+      "word": "Withdraw",
+      "pronunciation": "/wɪðˈdrɔː/",
+      "definition": "To take money out of an account.",
+      "sentences": [
+        "I need to **withdraw** some cash from the ATM.",
+        "You can **withdraw** money at any time.",
+        "He decided to **withdraw** from the competition."
+      ]
+    },
+    {
+      "word": "ATM",
+      "pronunciation": "/ˌeɪ tiː ˈɛm/",
+      "definition": "Automated Teller Machine; a machine that allows bank customers to perform basic transactions.",
+      "sentences": [
+        "I got cash from the **ATM**.",
+        "The nearest **ATM** is around the corner.",
+        "You can deposit money at some **ATMs**."
+      ]
+    },
+    {
+      "word": "Credit",
+      "pronunciation": "/ˈkrɛdɪt/",
+      "definition": "The ability of a customer to obtain goods or services before payment, based on the trust that payment will be made in the future.",
+      "sentences": [
+        "He bought the car on **credit**.",
+        "It's important to have good **credit**.",
+        "She applied for a line of **credit**."
+      ]
+    },
+    {
+      "word": "Debit",
+      "pronunciation": "/ˈdɛbɪt/",
+      "definition": "An entry recording an amount owed, listed on the left side of an account.",
+      "sentences": [
+        "The payment was a **debit** from my account.",
+        "He checked the **debit** entries in his statement.",
+        "A **debit** card directly deducts money from your account."
+      ]
+    },
+    {
+      "word": "Invoice",
+      "pronunciation": "/ˈɪnvɔɪs/",
+      "definition": "A list of goods sent or services provided, with a statement of the sum due for these; a bill.",
+      "sentences": [
+        "The company sent an **invoice** for the services.",
+        "Please pay the **invoice** within 30 days.",
+        "She checked the **invoice** against the delivered items."
+      ]
+    },
+    {
+      "word": "Bill",
+      "pronunciation": "/bɪl/",
+      "definition": "A statement of money owed for goods or services supplied.",
+      "sentences": [
+        "I need to pay the electricity **bill**.",
+        "Can I have the **bill**, please?",
+        "My phone **bill** is due next week."
+      ]
+    },
+    {
+      "word": "Receipt",
+      "pronunciation": "/rɪˈsiːt/",
+      "definition": "A piece of paper that shows you have paid for something.",
+      "sentences": [
+        "Please keep your **receipt**.",
+        "I got a **receipt** after buying groceries.",
+        "You need the **receipt** to return an item."
+      ]
+    },
+    {
+      "word": "Tax",
+      "pronunciation": "/tæks/",
+      "definition": "A compulsory contribution to state revenue, levied by the government on workers' income and business profits, or added to the cost of some goods, services, and transactions.",
+      "sentences": [
+        "You have to pay **tax** on your income.",
+        "Sales **tax** is added to the price of goods.",
+        "The government collects **taxes**."
+      ]
+    },
+    {
+      "word": "VAT (Value Added Tax)",
+      "pronunciation": "/ˌviː eɪ ˈtiː/",
+      "definition": "A tax on the amount by which the value of an article has been increased at each stage of its production or distribution.",
+      "sentences": [
+        "The price includes **VAT**.",
+        "Businesses collect **VAT** on behalf of the government.",
+        "What is the **VAT** rate in this country?"
+      ]
+    },
+    {
+      "word": "Sales tax",
+      "pronunciation": "/seɪlz tæks/",
+      "definition": "A tax on sales or on the receipts from sales.",
+      "sentences": [
+        "The **sales tax** is added at the checkout.",
+        "Some states have no **sales tax**.",
+        "The total price includes **sales tax**."
+      ]
+    },
+    {
+      "word": "Duty",
+      "pronunciation": "/ˈduːti/",
+      "definition": "A tax payable on certain imports or exports.",
+      "sentences": [
+        "There is import **duty** on luxury goods.",
+        "Customs **duty** must be paid on these items.",
+        "The government imposed a new **duty** on foreign products."
+      ]
+    },
+    {
+      "word": "Customs",
+      "pronunciation": "/ˈkʌstəmz/",
+      "definition": "The official department that collects duties levied on imports and exports.",
+      "sentences": [
+        "My package was held at **customs**.",
+        "You have to declare items at **customs**.",
+        "The **customs** officers inspected the luggage."
+      ]
+    },
+    {
+      "word": "Import",
+      "pronunciation": "/ˈɪmpɔːrt/",
+      "definition": "To bring (goods or services) into a country from abroad for sale.",
+      "sentences": [
+        "The country **imports** a lot of oil.",
+        "These cars are **imported** from Germany.",
+        "The company specializes in **importing** textiles."
+      ]
+    },
+    {
+      "word": "Export",
+      "pronunciation": "/ˈɛkspɔːrt/",
+      "definition": "To send (goods or services) to another country for sale.",
+      "sentences": [
+        "They **export** coffee to many countries.",
+        "The country's main **exports** are agricultural products.",
+        "The company plans to **export** its technology."
+      ]
+    },
+    {
+      "word": "Wholesale",
+      "pronunciation": "/ˈhoʊlˌseɪl/",
+      "definition": "The selling of goods in large quantities to be retailed by others.",
+      "sentences": [
+        "We buy our products at **wholesale** prices.",
+        "He runs a **wholesale** business.",
+        "The company sells goods to retailers at **wholesale**."
+      ]
+    },
+    {
+      "word": "Retail",
+      "pronunciation": "/ˈriːteɪl/",
+      "definition": "The sale of goods to the public in relatively small quantities for use or consumption rather than for resale.",
+      "sentences": [
+        "The store sells products at **retail** prices.",
+        "She works in **retail**.",
+        "Online sales have impacted traditional **retail**."
+      ]
+    },
+    {
+      "word": "Supplier",
+      "pronunciation": "/səˈplaɪər/",
+      "definition": "A person or organization that provides something needed or wanted.",
+      "sentences": [
+        "We need to find a new **supplier** for raw materials.",
+        "The company works with multiple **suppliers**.",
+        "He is a reliable **supplier** of fresh produce."
+      ]
+    },
+    {
+      "word": "Vendor",
+      "pronunciation": "/ˈvɛndər/",
+      "definition": "A person or company offering something for sale, especially a street seller.",
+      "sentences": [
+        "The street **vendor** sold hot dogs.",
+        "She is a software **vendor**.",
+        "Many food **vendors** were at the festival."
+      ]
+    },
+    {
+      "word": "Manufacturer",
+      "pronunciation": "/ˌmænjəˈfæktʃərər/",
+      "definition": "A person or company that makes goods for sale.",
+      "sentences": [
+        "The car **manufacturer** recalled some vehicles.",
+        "This phone is made by a famous **manufacturer**.",
+        "The **manufacturer** offers a warranty on its products."
+      ]
+    },
+    {
+      "word": "Distributor",
+      "pronunciation": "/dɪˈstrɪbjətər/",
+      "definition": "A person or organization that supplies goods to retailers or other businesses.",
+      "sentences": [
+        "They are the main **distributor** of these products.",
+        "The company works with a network of **distributors**.",
+        "He is a regional **distributor** for electronics."
+      ]
+    },
+    {
+      "word": "Consumer",
+      "pronunciation": "/kənˈsuːmər/",
+      "definition": "A person who purchases goods and services for personal use.",
+      "sentences": [
+        "The new law protects **consumers**' rights.",
+        "**Consumer** demand drives the economy.",
+        "She is a conscious **consumer**."
+      ]
+    },
+    {
+      "word": "Producer",
+      "pronunciation": "/prəˈduːsər/",
+      "definition": "A person or company that makes or grows goods.",
+      "sentences": [
+        "The country is a major **producer** of coffee.",
+        "He is a film **producer**.",
+        "The local farmers are small **producers**."
+      ]
+    },
+    {
+      "word": "Goods and services",
+      "pronunciation": "/ɡʊdz ənd ˈsɜːrvɪsɪz/",
+      "definition": "The products and actions that people buy.",
+      "sentences": [
+        "The economy is based on the exchange of **goods and services**.",
+        "Many countries trade **goods and services**.",
+        "The company provides both **goods and services**."
+      ]
+    },
+    {
+      "word": "Supply chain",
+      "pronunciation": "/səˈplaɪ tʃeɪn/",
+      "definition": "The sequence of processes involved in the production and distribution of a commodity.",
+      "sentences": [
+        "The pandemic disrupted the global **supply chain**.",
+        "Managing the **supply chain** efficiently is crucial for businesses.",
+        "He works in **supply chain** management."
+      ]
+    },
+    {
+      "word": "Logistics",
+      "pronunciation": "/loʊˈdʒɪstɪks/",
+      "definition": "The detailed organization and implementation of a complex operation.",
+      "sentences": [
+        "The company handles all the **logistics** for shipping.",
+        "Good **logistics** are essential for timely delivery.",
+        "He is in charge of the event **logistics**."
+      ]
+    },
+    {
+      "word": "Warehouse",
+      "pronunciation": "/ˈwɛərˌhaʊs/",
+      "definition": "A large building where raw materials or manufactured goods may be stored before being exported or distributed for sale.",
+      "sentences": [
+        "The products are stored in a large **warehouse**.",
+        "The company built a new automated **warehouse**.",
+        "He works at the **warehouse** packing orders."
+      ]
+    },
+    {
+      "word": "Inventory management",
+      "pronunciation": "/ˈɪnvənˌtɔːri ˈmænɪdʒmənt/",
+      "definition": "The process of overseeing and controlling the ordering, storage, and use of components that a company uses in the production of the items it sells.",
+      "sentences": [
+        "Efficient **inventory management** reduces waste.",
+        "She is responsible for **inventory management**.",
+        "Good **inventory management** helps meet customer demand."
+      ]
+    },
+    {
+      "word": "Marketing",
+      "pronunciation": "/ˈmɑːrkɪtɪŋ/",
+      "definition": "The action or business of promoting and selling products or services, including market research and advertising.",
+      "sentences": [
+        "The company launched a new **marketing** campaign.",
+        "She studies digital **marketing**.",
+        "Good **marketing** helps attract customers."
+      ]
+    },
+    {
+      "word": "Advertising",
+      "pronunciation": "/ˈædvərˌtaɪzɪŋ/",
+      "definition": "The activity or profession of producing advertisements for commercial products or services.",
+      "sentences": [
+        "The new TV **advertising** campaign is very effective.",
+        "She works in the **advertising** industry.",
+        "Online **advertising** is growing rapidly."
+      ]
+    },
+    {
+      "word": "Promotion",
+      "pronunciation": "/prəˈmoʊʃn/",
+      "definition": "Activity that supports or provides active encouragement for the furtherance of a cause, venture, or aim.",
+      "sentences": [
+        "The store is running a special **promotion** this week.",
+        "He got a **promotion** at work.",
+        "The concert received a lot of **promotion**."
+      ]
+    },
+    {
+      "word": "Brand awareness",
+      "pronunciation": "/brænd əˈwɛərnəs/",
+      "definition": "The extent to which consumers are familiar with the distinctive qualities or image of a particular brand of goods or services.",
+      "sentences": [
+        "The company is investing in increasing **brand awareness**.",
+        "High **brand awareness** can lead to more sales.",
+        "Their new campaign aims to boost **brand awareness**."
+      ]
+    },
+    {
+      "word": "Target audience",
+      "pronunciation": "/ˈtɑːrɡɪt ˈɔːdiəns/",
+      "definition": "The particular group of people at which a film, book, advertising campaign, etc., is aimed.",
+      "sentences": [
+        "The advertisement is aimed at a young **target audience**.",
+        "Understanding your **target audience** is crucial for marketing.",
+        "The product was designed for a specific **target audience**."
+      ]
+    },
+    {
+      "word": "Customer service",
+      "pronunciation": "/ˈkʌstəmər ˈsɜːrvɪs/",
+      "definition": "The assistance and advice provided by a company to those people who buy or use its products or services.",
+      "sentences": [
+        "Good **customer service** is important for repeat business.",
+        "She works in **customer service**.",
+        "The company is known for its excellent **customer service**."
+      ]
+    },
+    {
+      "word": "Complaint",
+      "pronunciation": "/kəmˈpleɪnt/",
+      "definition": "A statement that something is unsatisfactory or unacceptable.",
+      "sentences": [
+        "I need to make a **complaint** about the faulty product.",
+        "The store received many **complaints** about the delay.",
+        "She filed a formal **complaint**."
+      ]
+    },
+    {
+      "word": "Feedback",
+      "pronunciation": "/ˈfiːdˌbæk/",
+      "definition": "Information about reactions to a product, a person's performance of a task, etc., used as a basis for improvement.",
+      "sentences": [
+        "We welcome customer **feedback**.",
+        "The company uses **feedback** to improve its products.",
+        "She gave constructive **feedback** on the service."
+      ]
+    },
+    {
+      "word": "Review",
+      "pronunciation": "/rɪˈvjuː/",
+      "definition": "A formal assessment of something with the intention of instituting change if necessary.",
+      "sentences": [
+        "Read the customer **reviews** before buying.",
+        "The movie received positive **reviews**.",
+        "He wrote a detailed **review** of the new restaurant."
+      ]
+    },
+    {
+      "word": "Rating",
+      "pronunciation": "/ˈreɪtɪŋ/",
+      "definition": "A classification or ranking of someone or something based on a comparative assessment of their quality, standard, or performance.",
+      "sentences": [
+        "The product has a 5-star **rating**.",
+        "The app has a high user **rating**.",
+        "What is the safety **rating** of this car?"
+      ]
+    },
+    {
+      "word": "Loyalty program",
+      "pronunciation": "/ˈlɔɪəlti ˈproʊɡræm/",
+      "definition": "A system of rewards for customers who frequently purchase from a business.",
+      "sentences": [
+        "Join our **loyalty program** to earn points.",
+        "The coffee shop has a great **loyalty program**.",
+        "**Loyalty programs** encourage repeat business."
+      ]
+    },
+    {
+      "word": "Membership",
+      "pronunciation": "/ˈmɛmbərˌʃɪp/",
+      "definition": "The state of being a member of a group, club, or organization.",
+      "sentences": [
+        "The gym offers different types of **membership**.",
+        "Your **membership** card gives you a discount.",
+        "He renewed his club **membership**."
+      ]
+    },
+    {
+      "word": "Subscription",
+      "pronunciation": "/səbˈskrɪpʃn/",
+      "definition": "An amount of money that you pay regularly to be a member of an organization or to receive a service or publication.",
+      "sentences": [
+        "I have a monthly **subscription** to a streaming service.",
+        "Cancel your **subscription** if you don't want to pay anymore.",
+        "The magazine offers a yearly **subscription**."
+      ]
+    },
+    {
+      "word": "Retailer",
+      "pronunciation": "/ˈriːteɪlər/",
+      "definition": "A person or business that sells goods to the public.",
+      "sentences": [
+        "This online **retailer** has great prices.",
+        "Many small **retailers** are struggling.",
+        "He works for a large clothing **retailer**."
+      ]
+    },
+    {
+      "word": "Wholesaler",
+      "pronunciation": "/ˈhoʊlˌseɪlər/",
+      "definition": "A person or company that sells goods in large quantities at lower prices to retailers.",
+      "sentences": [
+        "We buy our products from a local **wholesaler**.",
+        "The **wholesaler** supplies many small businesses.",
+        "He is a fruit and vegetable **wholesaler**."
+      ]
+    },
+    {
+      "word": "E-tailer",
+      "pronunciation": "/ˈiːˌteɪlər/",
+      "definition": "A retailer that sells goods online.",
+      "sentences": [
+        "Amazon is a well-known **e-tailer**.",
+        "Many traditional stores have become **e-tailers**.",
+        "The new **e-tailer** offers unique products."
+      ]
+    },
+    {
+      "word": "Marketplace",
+      "pronunciation": "/ˈmɑːrkɪtˌpleɪs/",
+      "definition": "An open space where a market is held; an arena in which commercial dealings are conducted.",
+      "sentences": [
+        "The online **marketplace** connects buyers and sellers.",
+        "The local **marketplace** is always bustling.",
+        "Competition in the digital **marketplace** is fierce."
+      ]
+    },
+    {
+      "word": "Shopping cart",
+      "pronunciation": "/ˈʃɑːpɪŋ kɑːrt/",
+      "definition": "A large basket on wheels, provided by a store for customers to use while shopping.",
+      "sentences": [
+        "Push your **shopping cart** carefully.",
+        "My **shopping cart** was full of groceries.",
+        "She left her **shopping cart** by the entrance."
+      ]
+    },
+    {
+      "word": "Shopping bag",
+      "pronunciation": "/ˈʃɑːpɪŋ bæɡ/",
+      "definition": "A bag, typically made of paper or plastic, used by customers to carry purchases from a shop.",
+      "sentences": [
+        "Don't forget your reusable **shopping bag**.",
+        "The store provides paper **shopping bags**.",
+        "He carried two heavy **shopping bags**."
+      ]
+    },
+    {
+      "word": "Checkout",
+      "pronunciation": "/ˈtʃɛkˌaʊt/",
+      "definition": "The point at which goods are paid for in a supermarket or other store.",
+      "sentences": [
+        "Go to the **checkout** to pay for your items.",
+        "There was a long line at the **checkout**.",
+        "The self-**checkout** is faster."
+      ]
+    },
+    {
+      "word": "Payment method",
+      "pronunciation": "/ˈpeɪmənt ˈmɛθəd/",
+      "definition": "A way of paying for goods or services.",
+      "sentences": [
+        "What **payment method** do you prefer?",
+        "The website accepts various **payment methods**.",
+        "Cash is a common **payment method**."
+      ]
+    },
+    {
+      "word": "Credit limit",
+      "pronunciation": "/ˈkrɛdɪt ˈlɪmɪt/",
+      "definition": "The maximum amount of credit a financial institution will extend to a debtor.",
+      "sentences": [
+        "I reached my **credit limit** on my credit card.",
+        "Be careful not to exceed your **credit limit**.",
+        "Her **credit limit** was increased."
+      ]
+    },
+    {
+      "word": "Interest rate",
+      "pronunciation": "/ˈɪntrəst reɪt/",
+      "definition": "The proportion of a loan that is charged as interest to the borrower, typically expressed as an annual percentage.",
+      "sentences": [
+        "The bank offered a low **interest rate** on the loan.",
+        "High **interest rates** can make borrowing expensive.",
+        "She compared different **interest rates** before choosing a bank."
+      ]
+    },
+    {
+      "word": "Financial literacy",
+      "pronunciation": "/faɪˈnænʃl ˈlɪtərəsi/",
+      "definition": "The ability to understand and effectively use various financial skills, including personal financial management, budgeting, and investing.",
+      "sentences": [
+        "Schools are now teaching **financial literacy** to students.",
+        "Improving your **financial literacy** helps you make better money decisions.",
+        "He attended a workshop on **financial literacy**."
+      ]
+    },
+    {
+      "word": "Budgeting",
+      "pronunciation": "/ˈbʌdʒɪtɪŋ/",
+      "definition": "The process of creating a plan to spend your money.",
+      "sentences": [
+        "**Budgeting** helps me save money every month.",
+        "She is good at **budgeting** her expenses.",
+        "Effective **budgeting** is key to financial stability."
+      ]
+    },
+    {
+      "word": "Saving",
+      "pronunciation": "/ˈseɪvɪŋ/",
+      "definition": "The money one has saved, especially through a bank or other financial institution.",
+      "sentences": [
+        "I am **saving** money for a new car.",
+        "He is good at **saving** for future goals.",
+        "Start **saving** early for retirement."
+      ]
+    },
+    {
+      "word": "Spending",
+      "pronunciation": "/ˈspɛndɪŋ/",
+      "definition": "The action of spending money.",
+      "sentences": [
+        "She needs to cut down on her **spending**.",
+        "His excessive **spending** led to debt.",
+        "Smart **spending** helps you stay within your budget."
+      ]
+    },
+    {
+      "word": "Investment portfolio",
+      "pronunciation": "/ɪnˈvɛstmənt pɔːrtˈfoʊliˌoʊ/",
+      "definition": "A collection of financial investments owned by an individual or institution.",
+      "sentences": [
+        "He diversified his **investment portfolio**.",
+        "Her **investment portfolio** includes stocks and bonds.",
+        "A financial advisor can help manage your **investment portfolio**."
+      ]
+    },
+    {
+      "word": "Stock market",
+      "pronunciation": "/stɑːk ˈmɑːrkɪt/",
+      "definition": "A stock exchange; a market where stocks and shares are bought and sold.",
+      "sentences": [
+        "The **stock market** had a good day.",
+        "Investing in the **stock market** carries risks.",
+        "He follows the **stock market** news closely."
+      ]
+    },
+    {
+      "word": "Share",
+      "pronunciation": "/ʃɛər/",
+      "definition": "One of the equal parts into which a company's capital is divided, entitling the holder to a proportion of the profits.",
+      "sentences": [
+        "He bought **shares** in a tech company.",
+        "The value of the **shares** increased.",
+        "She owns many **shares** in that company."
+      ]
+    },
+    {
+      "word": "Bond",
+      "pronunciation": "/bɑːnd/",
+      "definition": "A certificate of debt issued by a government or company, promising to pay back the borrowed money with interest.",
+      "sentences": [
+        "Government **bonds** are considered safe investments.",
+        "He invested in corporate **bonds**.",
+        "**Bonds** offer a fixed interest payment."
+      ]
+    },
+    {
+      "word": "Mutual fund",
+      "pronunciation": "/ˈmjuːtʃuəl fʌnd/",
+      "definition": "An investment program funded by shareholders that trades in diversified holdings and is professionally managed.",
+      "sentences": [
+        "She invests in a **mutual fund** for diversification.",
+        "**Mutual funds** are managed by financial experts.",
+        "He chose a low-cost **mutual fund**."
+      ]
+    },
+    {
+      "word": "Retirement fund",
+      "pronunciation": "/rɪˈtaɪərmənt fʌnd/",
+      "definition": "A fund of money saved for retirement.",
+      "sentences": [
+        "He contributes regularly to his **retirement fund**.",
+        "Start building your **retirement fund** early.",
+        "Her **retirement fund** grew steadily over the years."
+      ]
+    },
+    {
+      "word": "Pension",
+      "pronunciation": "/ˈpɛnʃn/",
+      "definition": "A regular payment made during a person's retirement from an investment fund to which that person or their employer has contributed during their working life.",
+      "sentences": [
+        "He receives a monthly **pension** after retirement.",
+        "She is planning for her **pension**.",
+        "Many companies offer a **pension** plan."
+      ]
+    },
+    {
+      "word": "Budgeting app",
+      "pronunciation": "/ˈbʌdʒɪtɪŋ æp/",
+      "definition": "A mobile application designed to help users manage their finances and track their spending.",
+      "sentences": [
+        "I use a **budgeting app** to keep track of my money.",
+        "This **budgeting app** helps me stay within my limits.",
+        "Many free **budgeting apps** are available."
+      ]
+    },
+    {
+      "word": "Online banking",
+      "pronunciation": "/ˈɑːnˌlaɪn ˈbæŋkɪŋ/",
+      "definition": "The practice of conducting financial transactions via the Internet.",
+      "sentences": [
+        "I use **online banking** to pay my bills.",
+        "**Online banking** is very convenient and secure.",
+        "She prefers **online banking** to visiting the branch."
+      ]
+    },
+    {
+      "word": "Mobile payment",
+      "pronunciation": "/ˈmoʊbl ˈpeɪmənt/",
+      "definition": "Payment for goods or services using a mobile phone.",
+      "sentences": [
+        "You can make a **mobile payment** using your phone.",
+        "Many stores now accept **mobile payments**.",
+        "**Mobile payment** is becoming increasingly popular."
+      ]
+    },
+    {
+      "word": "Contactless payment",
+      "pronunciation": "/ˈkɑːntæktləs ˈpeɪmənt/",
+      "definition": "A secure method for consumers to purchase products or services using a debit, credit, or smart card by tapping it against a payment terminal.",
+      "sentences": [
+        "I used **contactless payment** for my groceries.",
+        "Many cards now offer **contactless payment**.",
+        "**Contactless payment** is fast and convenient."
+      ]
+    },
+    {
+      "word": "Cryptocurrency",
+      "pronunciation": "/ˈkrɪptoʊˌkʌrənsi/",
+      "definition": "A digital currency in which transactions are verified and records maintained by a decentralized system using cryptography, rather than by a centralized authority.",
+      "sentences": [
+        "Bitcoin is a well-known **cryptocurrency**.",
+        "Investing in **cryptocurrency** can be risky.",
+        "The value of **cryptocurrency** can fluctuate greatly."
+      ]
+    },
+    {
+      "word": "Blockchain",
+      "pronunciation": "/ˈblɑːkˌtʃeɪn/",
+      "definition": "A decentralized, distributed ledger technology that records transactions across many computers.",
+      "sentences": [
+        "**Blockchain** technology is used for cryptocurrencies.",
+        "Many industries are exploring the use of **blockchain**.",
+        "The security of **blockchain** is a key feature."
+      ]
+    },
+    {
+      "word": "Supply chain management",
+      "pronunciation": "/səˈplaɪ tʃeɪn ˈmænɪdʒmənt/",
+      "definition": "The management of the flow of goods and services, involves the movement and storage of raw materials, of work-in-process inventory, and of finished goods from point of origin to point of consumption.",
+      "sentences": [
+        "Efficient **supply chain management** is crucial for global businesses.",
+        "He specializes in **supply chain management**.",
+        "The company improved its **supply chain management** to reduce costs."
+      ]
+    },
+    {
+      "word": "Logistics management",
+      "pronunciation": "/loʊˈdʒɪstɪks ˈmænɪdʒmənt/",
+      "definition": "The part of supply chain management that plans, implements, and controls the efficient, effective forward and reverse flow and storage of goods, services, and related information between the point of origin and the point of consumption in order to meet customers' requirements.",
+      "sentences": [
+        "Effective **logistics management** ensures timely deliveries.",
+        "She works in **logistics management** for a shipping company.",
+        "Good **logistics management** is essential for e-commerce."
+      ]
+    },
+    {
+      "word": "E-commerce platform",
+      "pronunciation": "/ˈiː ˌkɑːmɜːrs ˈplætˌfɔːrm/",
+      "definition": "A software application that allows businesses to sell products and services online.",
+      "sentences": [
+        "They launched their online store on a new **e-commerce platform**.",
+        "Choosing the right **e-commerce platform** is important for online businesses.",
+        "Many small businesses use affordable **e-commerce platforms**."
+      ]
+    },
+    {
+      "word": "Digital marketing",
+      "pronunciation": "/ˈdɪdʒɪtl ˈmɑːrkɪtɪŋ/",
+      "definition": "The marketing of products or services using digital technologies, mainly on the Internet, but also including mobile phones, display advertising, and any other digital medium.",
+      "sentences": [
+        "She specializes in **digital marketing** strategies.",
+        "**Digital marketing** is crucial for online businesses.",
+        "He took a course on **digital marketing**."
+      ]
+    },
+    {
+      "word": "Search Engine Optimization (SEO)",
+      "pronunciation": "/sɜːrtʃ ˈɛndʒɪn ˌɑːptɪmaɪˈzeɪʃn/",
+      "definition": "The process of maximizing the number of visitors to a particular website by ensuring that the site appears high on the list of results returned by a search engine.",
+      "sentences": [
+        "Good **SEO** helps websites rank higher in search results.",
+        "He learned about **SEO** to improve his blog's visibility.",
+        "**SEO** is an important part of digital marketing."
+      ]
+    },
+    {
+      "word": "Social media marketing",
+      "pronunciation": "/ˈsoʊʃl ˈmiːdiə ˈmɑːrkɪtɪŋ/",
+      "definition": "The use of social media platforms and websites to promote a product or service.",
+      "sentences": [
+        "The company uses **social media marketing** to reach young consumers.",
+        "She manages the **social media marketing** for several brands.",
+        "Effective **social media marketing** can build brand loyalty."
+      ]
+    },
+    {
+      "word": "Content marketing",
+      "pronunciation": "/ˈkɑːntɛnt ˈmɑːrkɪtɪŋ/",
+      "definition": "A type of marketing that involves the creation and sharing of online material (such as videos, blogs, and social media posts) that does not explicitly promote a brand but is intended to stimulate interest in its products or services.",
+      "sentences": [
+        "Blogging is a popular form of **content marketing**.",
+        "The company invests in high-quality **content marketing**.",
+        "**Content marketing** aims to provide value to the audience."
+      ]
+    },
+    {
+      "word": "Influencer marketing",
+      "pronunciation": "/ˈɪnfluənsər ˈmɑːrkɪtɪŋ/",
+      "definition": "A type of marketing that identifies and targets individuals who have influence over potential buyers.",
+      "sentences": [
+        "Many brands use **influencer marketing** to reach new audiences.",
+        "She works as an expert in **influencer marketing**.",
+        "**Influencer marketing** often involves collaborations with social media personalities."
+      ]
+    },
+    {
+      "word": "Market research",
+      "pronunciation": "/ˈmɑːrkɪt rɪˈsɜːrtʃ/",
+      "definition": "The action or activity of gathering information about consumers' needs and preferences.",
+      "sentences": [
+        "Before launching the product, they conducted extensive **market research**.",
+        "**Market research** helps companies understand their customers.",
+        "He works in **market research** for a large corporation."
+      ]
+    },
+    {
+      "word": "Consumer behavior",
+      "pronunciation": "/kənˈsuːmər bɪˈheɪvjər/",
+      "definition": "The study of how individuals, groups, or organizations select, buy, use, and dispose of ideas, goods, and services to satisfy their needs and wants.",
+      "sentences": [
+        "Understanding **consumer behavior** is key to successful marketing.",
+        "She studies **consumer behavior** to predict market trends.",
+        "Factors like price and brand influence **consumer behavior**."
+      ]
+    },
+    {
+      "word": "Supply and demand",
+      "pronunciation": "/səˈplaɪ ənd dɪˈmænd/",
+      "definition": "The amount of a commodity, product, or service available and the desire of buyers for it, considered as factors regulating its price.",
+      "sentences": [
+        "The price of oil is influenced by **supply and demand**.",
+        "Economists study the principles of **supply and demand**.",
+        "When **supply and demand** are balanced, prices are stable."
+      ]
+    },
+    {
+      "word": "Economic growth",
+      "pronunciation": "/ˌiːkəˈnɑːmɪk ɡroʊθ/",
+      "definition": "An increase in the amount of goods and services produced per head of the population over a period of time.",
+      "sentences": [
+        "The government aims to achieve sustainable **economic growth**.",
+        "Innovation can drive **economic growth**.",
+        "Many factors contribute to a nation's **economic growth**."
+      ]
+    },
+    {
+      "word": "Inflation",
+      "pronunciation": "/ɪnˈfleɪʃn/",
+      "definition": "A general increase in prices and fall in the purchasing value of money.",
+      "sentences": [
+        "High **inflation** makes goods more expensive.",
+        "The central bank is trying to control **inflation**.",
+        "**Inflation** can reduce the value of savings."
+      ]
+    },
+    {
+      "word": "Deflation",
+      "pronunciation": "/dɪˈfleɪʃn/",
+      "definition": "A reduction in the general level of prices in an economy.",
+      "sentences": [
+        "**Deflation** can lead to reduced consumer spending.",
+        "The economy experienced a period of **deflation**.",
+        "Governments try to avoid prolonged **deflation**."
+      ]
+    },
+    {
+      "word": "Recession",
+      "pronunciation": "/rɪˈsɛʃn/",
+      "definition": "A period of temporary economic decline during which trade and industrial activity are reduced, generally identified by a fall in GDP in two successive quarters.",
+      "sentences": [
+        "Many businesses struggle during a **recession**.",
+        "The country is trying to recover from the **recession**.",
+        "Job losses often occur during a **recession**."
+      ]
+    },
+    {
+      "word": "Boom",
+      "pronunciation": "/buːm/",
+      "definition": "A period of great prosperity or rapid economic growth.",
+      "sentences": [
+        "The tech industry experienced a rapid **boom**.",
+        "The economy is in a **boom** period.",
+        "A housing **boom** can lead to higher prices."
+      ]
+    },
+    {
+      "word": "Global economy",
+      "pronunciation": "/ˈɡloʊbl ɪˈkɑːnəmi/",
+      "definition": "The worldwide economic system.",
+      "sentences": [
+        "Events in one country can affect the entire **global economy**.",
+        "The **global economy** is highly interconnected.",
+        "Understanding the **global economy** is important for international business."
+      ]
+    },
+    {
+      "word": "Free market",
+      "pronunciation": "/friː ˈmɑːrkɪt/",
+      "definition": "An economic system in which prices are determined by unrestricted competition between privately owned businesses.",
+      "sentences": [
+        "The country operates on a **free market** system.",
+        "A **free market** encourages competition and innovation.",
+        "Critics argue about the fairness of a pure **free market**."
+      ]
+    },
+    {
+      "word": "Capitalism",
+      "pronunciation": "/ˈkæpɪtəlɪzəm/",
+      "definition": "An economic and political system in which a country's trade and industry are controlled by private owners for profit, rather than by the state.",
+      "sentences": [
+        "Many Western countries operate under **capitalism**.",
+        "**Capitalism** encourages entrepreneurship.",
+        "The debate often centers on the pros and cons of **capitalism**."
+      ]
+    },
+    {
+      "word": "Socialism",
+      "pronunciation": "/ˈsoʊʃəˌlɪzəm/",
+      "definition": "A political and economic theory of social organization which advocates that the means of production, distribution, and exchange should be owned or regulated by the community as a whole.",
+      "sentences": [
+        "Some countries have elements of **socialism** in their economy.",
+        "**Socialism** often emphasizes social welfare.",
+        "The discussion compared **socialism** and capitalism."
+      ]
+    },
+    {
+      "word": "Globalization",
+      "pronunciation": "/ˌɡloʊbəlɪˈzeɪʃn/",
+      "definition": "The process by which businesses or other organizations develop international influence or start operating on an international scale.",
+      "sentences": [
+        "**Globalization** has increased international trade.",
+        "The internet has accelerated **globalization**.",
+        "Understanding **globalization** is key in modern business."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,361 @@
+{
+  "level": "Advanced",
+  "module": "Real-World Fluency",
+  "lesson_number": 3,
+  "lesson_title": "Role-Play (Bank Visit, Travel Help)",
+  "objectives": [
+    "Practice real-life communication scenarios through role-playing",
+    "Learn appropriate language for formal interactions in banks and travel situations",
+    "Develop confidence in handling common customer service interactions",
+    "Master polite expressions and professional communication skills"
+  ],
+  "topics": [
+    {
+      "title": "Introduction to Role-Play",
+      "subtopics": [
+        {
+          "title": "What is Role-Play and Why is it Important?",
+          "sections": [
+            {
+              "text": "Role-play is a learning technique where people act out real-life situations to practice communication skills. In role-play, one person takes the role of a customer while another acts as a service provider like a bank employee or travel agent. This practice helps you learn appropriate language, build confidence, and prepare for actual situations you might face in daily life.",
+              "examples": [
+                {
+                  "label": "Bank role-play scenario",
+                  "value": "Student A acts as a customer wanting to open a savings account, while Student B plays the role of a bank officer explaining the process and requirements."
+                },
+                {
+                  "label": "Travel agency role-play",
+                  "value": "Student A is a traveler seeking help to plan a family vacation, while Student B acts as a travel agent providing destination options and booking assistance."
+                },
+                {
+                  "label": "Hotel reservation role-play",
+                  "value": "Student A calls to book a hotel room for a business trip, while Student B is the hotel receptionist taking the reservation and explaining amenities."
+                },
+                {
+                  "label": "Airport assistance role-play",
+                  "value": "Student A is a confused passenger asking for directions to their gate, while Student B is an airport staff member providing helpful guidance."
+                },
+                {
+                  "label": "Currency exchange role-play",
+                  "value": "Student A wants to exchange money for international travel, while Student B is the exchange counter employee explaining rates and procedures."
+                },
+                {
+                  "label": "Train ticket booking role-play",
+                  "value": "Student A needs to book train tickets for a family trip, while Student B is the booking counter clerk helping with seat selection and payment."
+                },
+                {
+                  "label": "Tourist information role-play",
+                  "value": "Student A is a foreign tourist asking about local attractions, while Student B works at a tourist information center providing recommendations."
+                },
+                {
+                  "label": "Car rental role-play",
+                  "value": "Student A wants to rent a car for a weekend trip, while Student B is the rental agency employee explaining terms and insurance options."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Bank Visit Role-Play Scenarios",
+      "subtopics": [
+        {
+          "title": "Opening a Bank Account",
+          "sections": [
+            {
+              "text": "When opening a bank account, customers need to provide personal information, understand different account types, and learn about banking services. Bank employees must explain procedures clearly, ask for required documents, and help customers choose the right account type for their needs.",
+              "examples": [
+                {
+                  "label": "Customer greeting",
+                  "value": "Good morning, I would like to open a savings account. Could you please help me understand the process and requirements?"
+                },
+                {
+                  "label": "Bank officer response",
+                  "value": "Good morning! I'd be happy to help you open an account. May I know what type of account you're interested in - a regular savings account or a salary account?"
+                },
+                {
+                  "label": "Document inquiry",
+                  "value": "What documents do I need to bring? I have my passport and utility bills. Will these be sufficient for account opening?"
+                },
+                {
+                  "label": "Minimum balance question",
+                  "value": "What is the minimum balance I need to maintain in this account? Are there any charges if my balance goes below the minimum?"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Loan Application Process",
+          "sections": [
+            {
+              "text": "Loan applications involve detailed discussions about financial needs, repayment capacity, and documentation requirements. Customers must clearly explain their loan purpose while bank officers need to assess eligibility and explain terms and conditions thoroughly.",
+              "examples": [
+                {
+                  "label": "Loan purpose explanation",
+                  "value": "I am interested in applying for a home loan. I want to purchase a house worth 50 lakhs and need to understand the loan amount I can get."
+                },
+                {
+                  "label": "Eligibility discussion",
+                  "value": "Based on your monthly income of 80,000 rupees, you would be eligible for a loan amount of approximately 40 lakhs. The interest rate would be 8.5% per annum."
+                },
+                {
+                  "label": "Documentation requirements",
+                  "value": "For the loan application, you will need salary certificates, bank statements for 6 months, property documents, and identity proofs. Do you have all these ready?"
+                },
+                {
+                  "label": "Repayment inquiry",
+                  "value": "What would be my monthly EMI for a 20-year loan tenure? Can I prepay the loan partially without any penalties after a few years?"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              },
+              "table": {
+                "title": "Common Bank Services Role-Play",
+                "headers": ["Service", "Customer Request", "Bank Officer Response"],
+                "rows": [
+                  ["Account Opening", "I want to open a current account for my business", "I'll need your business registration and tax documents"],
+                  ["ATM Card Issue", "My ATM card is not working. Can you issue a new one?", "I can block your old card and issue a new one immediately"],
+                  ["Checkbook Request", "I need a new checkbook for my account", "Your new checkbook will be ready in 2 working days"],
+                  ["Balance Inquiry", "Can you tell me my current account balance?", "Your current balance is 45,000 rupees as of today"],
+                  ["Fund Transfer", "I want to transfer money to another bank account", "Please provide the beneficiary account details and IFSC code"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Travel Help Role-Play Scenarios",
+      "subtopics": [
+        {
+          "title": "Travel Agency Assistance",
+          "sections": [
+            {
+              "text": "Travel agencies help customers plan trips, book tickets, and arrange accommodations. Customers need to communicate their preferences, budget, and travel dates clearly, while travel agents should provide helpful suggestions and handle booking details professionally.",
+              "examples": [
+                {
+                  "label": "Trip planning request",
+                  "value": "Hi, I'm planning a family vacation to Kerala for 7 days in December. We are 4 people - 2 adults and 2 children aged 8 and 12."
+                },
+                {
+                  "label": "Travel agent suggestion",
+                  "value": "Kerala is beautiful in December! I recommend a combination of Kochi, Munnar, and Alleppey. Would you prefer hotel stays or would you like to try a houseboat experience?"
+                },
+                {
+                  "label": "Budget discussion",
+                  "value": "Our budget is around 80,000 rupees for the entire trip including transportation, accommodation, and meals. Is this realistic for the places you suggested?"
+                },
+                {
+                  "label": "Booking confirmation",
+                  "value": "Perfect! I can arrange a package within your budget. Shall I book the train tickets to Kochi for December 15th departure and return on December 22nd?"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Airport and Transportation Help",
+          "sections": [
+            {
+              "text": "Airports and transportation hubs can be confusing for travelers. Staff members should provide clear directions, help with procedures, and assist with problem-solving. Travelers should ask specific questions and follow instructions carefully for smooth travel experience.",
+              "examples": [
+                {
+                  "label": "Gate direction request",
+                  "value": "Excuse me, I'm looking for gate number B12 for my flight to Mumbai. Can you please guide me on how to get there?"
+                },
+                {
+                  "label": "Airport staff guidance",
+                  "value": "Gate B12 is in Terminal 2. Take the shuttle from here, it's a 5-minute ride. The gate will be on your right after security check."
+                },
+                {
+                  "label": "Baggage inquiry",
+                  "value": "I can't find my luggage on the baggage carousel. My flight arrived 30 minutes ago. What should I do in this situation?"
+                },
+                {
+                  "label": "Problem resolution",
+                  "value": "Don't worry, let me check the system. Sometimes bags come on a different carousel. Let me also file a report if your bag is missing."
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              },
+              "table": {
+                "title": "Travel Situations Role-Play",
+                "headers": ["Situation", "Traveler Problem", "Helper Solution"],
+                "rows": [
+                  ["Flight Delay", "My connecting flight is delayed. Will I miss my connection?", "Let me check alternative flights and rebook you if needed"],
+                  ["Lost Ticket", "I can't find my train ticket. What should I do?", "Show me your ID and booking confirmation SMS. I can reissue it"],
+                  ["Hotel Booking", "I need a hotel near the airport for tonight", "I can recommend 3 good hotels and help you book immediately"],
+                  ["Local Transport", "How do I get to the city center from here?", "You can take the airport express metro. It runs every 10 minutes"],
+                  ["Currency Exchange", "Where can I exchange dollars for rupees?", "There's an authorized exchange counter on the ground floor"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Professional Language and Expressions",
+      "subtopics": [
+        {
+          "title": "Polite Customer Language",
+          "sections": [
+            {
+              "text": "When seeking help or services, customers should use polite, clear language that shows respect for the service provider. Good customer communication includes greeting properly, explaining needs clearly, asking questions politely, and thanking for assistance received.",
+              "examples": [
+                {
+                  "label": "Polite greetings",
+                  "value": "Good morning, I hope you can help me with something. I would like to inquire about your travel packages to Rajasthan."
+                },
+                {
+                  "label": "Making requests",
+                  "value": "Could you please explain the different types of savings accounts available? I want to understand which one would be best for my needs."
+                },
+                {
+                  "label": "Asking for clarification",
+                  "value": "I'm sorry, I didn't quite understand the interest calculation. Could you please explain it once more with an example?"
+                },
+                {
+                  "label": "Expressing problems",
+                  "value": "I'm having some difficulty with my ATM card. It seems to be blocked and I can't withdraw money. Can you help me resolve this issue?"
+                },
+                {
+                  "label": "Showing appreciation",
+                  "value": "Thank you so much for your help and patience. You've made this process much easier for me to understand."
+                },
+                {
+                  "label": "Following up",
+                  "value": "Just to confirm, you said my new checkbook will be ready by Thursday, and I can collect it from this branch, correct?"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              },
+              "table": {
+                "title": "Customer Language Expressions",
+                "headers": ["Situation", "Polite Expression", "Why It's Effective"],
+                "rows": [
+                  ["Starting conversation", "Excuse me, could you help me please?", "Shows politeness and respect"],
+                  ["Making requests", "I would like to...", "Formal and clear intention"],
+                  ["Asking questions", "Could you please tell me...", "Polite inquiry form"],
+                  ["Expressing confusion", "I'm not sure I understand...", "Shows willingness to learn"],
+                  ["Thanking", "I really appreciate your assistance", "Shows gratitude professionally"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Professional Service Provider Language",
+          "sections": [
+            {
+              "text": "Service providers should use professional, helpful language that makes customers feel welcome and supported. This includes warm greetings, clear explanations, patient responses to questions, and proactive assistance to solve problems effectively.",
+              "examples": [
+                {
+                  "label": "Welcome greeting",
+                  "value": "Good afternoon! Welcome to City Bank. My name is Priya and I'll be happy to assist you today. How may I help you?"
+                },
+                {
+                  "label": "Offering assistance",
+                  "value": "I can see you're looking for information about our loan products. Let me explain the different options we have available for you."
+                },
+                {
+                  "label": "Explaining procedures",
+                  "value": "The account opening process is quite simple. First, we'll fill out the application form, then verify your documents, and finally activate your account within 24 hours."
+                },
+                {
+                  "label": "Handling problems",
+                  "value": "I understand your concern about the transaction error. Let me investigate this immediately and ensure we resolve it to your complete satisfaction."
+                },
+                {
+                  "label": "Providing alternatives",
+                  "value": "If this travel package doesn't fit your budget, I have two other options that might be more suitable. Would you like me to explain those as well?"
+                },
+                {
+                  "label": "Closing professionally",
+                  "value": "Is there anything else I can help you with today? Please feel free to contact me if you have any other questions. Have a wonderful day!"
+                }
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              },
+              "table": {
+                "title": "Professional Service Language",
+                "headers": ["Purpose", "Professional Expression", "Impact on Customer"],
+                "rows": [
+                  ["Greeting", "How may I assist you today?", "Creates welcoming atmosphere"],
+                  ["Explaining", "Let me walk you through the process", "Shows willingness to help"],
+                  ["Problem-solving", "Let me see what I can do to help", "Demonstrates proactive service"],
+                  ["Clarifying", "To make sure I understand correctly...", "Ensures clear communication"],
+                  ["Concluding", "Thank you for choosing our services", "Leaves positive final impression"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Practice Tips and Common Scenarios",
+      "subtopics": [
+        {
+          "title": "Effective Role-Play Practice Techniques",
+          "sections": [
+            {
+              "text": "To get maximum benefit from role-play practice, follow these guidelines for preparation, execution, and feedback. Good role-play sessions help build real-world confidence and improve communication skills significantly.",
+              "usage_examples": [
+                "Tip 1: Prepare realistic scenarios based on actual situations you might face. Research common questions and procedures beforehand.",
+                "Tip 2: Stay in character throughout the role-play. Don't break character to discuss or laugh unless it's part of the feedback session.",
+                "Tip 3: Use appropriate body language and tone of voice. Practice maintaining eye contact, sitting properly, and speaking clearly.",
+                "Tip 4: Take turns playing both roles - customer and service provider. This helps you understand both perspectives better.",
+                "Tip 5: Record your role-play sessions if possible, so you can review and identify areas for improvement in your communication.",
+                "Tip 6: Ask for specific feedback on language use, politeness level, clarity of communication, and professional manner.",
+                "Tip 7: Practice handling difficult situations like complaints, rejections, or misunderstandings with patience and professionalism.",
+                "Tip 8: Create follow-up scenarios where you handle the next steps of the same situation, like returning to complete a process."
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Common Challenging Scenarios",
+          "sections": [
+            {
+              "text": "Some situations require extra practice because they involve complex procedures, emotional responses, or problem-solving skills. These challenging scenarios help you prepare for real-life difficulties you might encounter.",
+              "usage_examples": [
+                "Scenario 1: Your loan application is rejected by the bank. Practice how to ask for reasons, understand requirements, and inquire about alternatives calmly.",
+                "Scenario 2: Your flight is cancelled and you need to rebook urgently. Practice negotiating with airline staff and exploring different solutions.",
+                "Scenario 3: You discover an error in your bank statement. Practice explaining the problem clearly and working with bank staff to resolve it.",
+                "Scenario 4: Your hotel reservation is lost and no rooms are available. Practice staying calm and asking travel agents to find alternative accommodations.",
+                "Scenario 5: You need to change your travel dates but tickets are non-refundable. Practice negotiating and understanding policy implications.",
+                "Scenario 6: Your ATM card is swallowed by the machine before an important trip. Practice urgent problem-solving with bank customer service.",
+                "Scenario 7: Language barriers with service providers who don't speak your language well. Practice using simple, clear English and patient communication.",
+                "Scenario 8: Service charges are higher than expected. Practice questioning charges politely and understanding fee structures clearly."
+              ],
+              "media": {
+                "image": "images/advanced/module-4/lesson-3/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

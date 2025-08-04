@@ -1,0 +1,1614 @@
+
+{
+  "level": "Intermediate",
+  "module": "Sentence Formation & Tenses",
+  "lesson_number": 4,
+  "lesson_title": "Simple Future Tense: Talking About Things That Will Happen",
+  "objectives": [
+    "Understand how to talk about actions and events that will happen in the future.",
+    "Learn to use 'will' and 'be going to' correctly for future plans and predictions.",
+    "Practice making positive, negative, and question sentences about the future.",
+    "Learn to use Future Continuous, Future Perfect, and Future Perfect Continuous tenses for more specific future contexts."
+  ],
+  "topics": [
+    {
+      "title": "What is Simple Future Tense?",
+      "subtopics": [
+        {
+          "title": "Understanding Future Actions",
+          "sections": [
+            {
+              "text": "The Simple Future Tense helps us talk about things that have not happened yet, but will happen later. It's about what is coming next. We use two main ways to talk about the future: 'will' and 'be going to'. They are used for different kinds of future actions.",
+              "examples": [
+                {
+                  "label": "Tomorrow, I will go to the market.",
+                  "value": "This action will happen tomorrow. [1]"
+                },
+                {
+                  "label": "Next week, we are going to plant rice.",
+                  "value": "This is a plan for next week. [1]"
+                },
+                {
+                  "label": "It will rain next month.",
+                  "value": "This is a prediction about future weather. [1]"
+                },
+                {
+                  "label": "I will help my mother in the kitchen.",
+                  "value": "This is a decision or promise for the future. [1]"
+                },
+                {
+                  "label": "The festival will begin next Sunday.",
+                  "value": "This is a future event. [1]"
+                },
+                {
+                  "label": "We are going to build a new house next year.",
+                  "value": "This is a plan for a future project. [2]"
+                },
+                {
+                  "label": "The sun will rise at 6 AM tomorrow.",
+                  "value": "This is a future fact. [1]"
+                },
+                {
+                  "label": "She is going to visit her grandparents soon.",
+                  "value": "This is her intention. [2]"
+                },
+                {
+                  "label": "My brother will finish school next year.",
+                  "value": "This is a future event or prediction."
+                },
+                {
+                  "label": "They are going to celebrate the harvest festival.",
+                  "value": "This is their plan."
+                },
+                {
+                  "label": "The well will dry up in summer if there is no rain.",
+                  "value": "A prediction about a future condition."
+                },
+                {
+                  "label": "Our teacher is going to give us homework.",
+                  "value": "An anticipated future action from the teacher. [2]"
+                }
+              ],
+              "usage_examples": [
+                "I will call you later.",
+                "She is going to read a story.",
+                "We will visit the temple.",
+                "He is going to learn farming.",
+                "It will be cold tonight.",
+                "They are going to build a fence.",
+                "My father will buy seeds.",
+                "The children will play outside.",
+                "I am going to plant a tree.",
+                "You will feel better soon."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using 'Will' for the Future",
+      "subtopics": [
+        {
+          "title": "Formation: Positive Sentences with 'Will'",
+          "sections": [
+            {
+              "text": "To make a positive sentence using 'will', we simply put 'will' before the base form of the verb (the verb without 'to' or any -s/-es/-ing/-ed). 'Will' is used for all subjects (I, you, he, she, it, we, they). We often use the short form 'll (e.g., I'll, you'll, he'll). [1, 2, 3, 4, 5]",
+              "examples": [
+                {
+                  "label": "I will eat.",
+                  "value": "Simple future action."
+                },
+                {
+                  "label": "You will study.",
+                  "value": "Future action by 'you'."
+                },
+                {
+                  "label": "He will come.",
+                  "value": "Future action by 'he'. [1]"
+                },
+                {
+                  "label": "She will help.",
+                  "value": "Future action by 'she'. [1]"
+                },
+                {
+                  "label": "It will rain.",
+                  "value": "Future weather. [1]"
+                },
+                {
+                  "label": "We will play.",
+                  "value": "Future action by 'we'. [1]"
+                },
+                {
+                  "label": "They will go.",
+                  "value": "Future action by 'they'. [1]"
+                },
+                {
+                  "label": "I'll visit the market tomorrow.",
+                  "value": "Short form of 'I will visit'."
+                },
+                {
+                  "label": "She'll cook dinner tonight.",
+                  "value": "Short form of 'She will cook'."
+                },
+                {
+                  "label": "The farmer will sow seeds next week.",
+                  "value": "Future plan for the farmer."
+                },
+                {
+                  "label": "My brother will finish his homework soon.",
+                  "value": "Expected future action."
+                },
+                {
+                  "label": "The village elders will meet tomorrow.",
+                  "value": "Scheduled future event."
+                },
+                {
+                  "label": "The stream will flow faster after the rain.",
+                  "value": "Prediction about the stream."
+                },
+                {
+                  "label": "He'll bring fresh vegetables from the farm.",
+                  "value": "Short form, indicating a future action."
+                },
+                {
+                  "label": "The school will start classes in June.",
+                  "value": "Fixed future schedule."
+                }
+              ],
+              "usage_examples": [
+                "I will clean my room later.",
+                "You will like this food.",
+                "He will help us with the work.",
+                "She will sing a song at the event.",
+                "It will be a sunny day.",
+                "We will watch the sunset.",
+                "They will finish building the wall.",
+                "My mother will make rotis.",
+                "The bus will arrive soon.",
+                "I'll carry the heavy bag for you."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Positive Sentence Structure with 'Will'",
+                "headers": [
+                  "Subject",
+                  "Will",
+                  "Base Verb"
+                ],
+                "rows": [
+                  [
+                    "I",
+                    "will",
+                    "go"
+                  ],
+                  [
+                    "You",
+                    "will",
+                    "eat"
+                  ],
+                  [
+                    "He",
+                    "will",
+                    "study"
+                  ],
+                  [
+                    "She",
+                    "will",
+                    "play"
+                  ],
+                  [
+                    "It",
+                    "will",
+                    "rain"
+                  ],
+                  [
+                    "We",
+                    "will",
+                    "help"
+                  ],
+                  [
+                    "They",
+                    "will",
+                    "live"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Negative Sentences with 'Will' (will not / won't)",
+          "sections": [
+            {
+              "text": "To make a negative sentence with 'will', we add 'not' after 'will'. So it becomes 'will not'. The short form is 'won't'. The main verb remains in its base form. [1, 2, 3, 4, 5]",
+              "examples": [
+                {
+                  "label": "I will not (won't) go.",
+                  "value": "Negative future action."
+                },
+                {
+                  "label": "You will not (won't) understand.",
+                  "value": "Negative prediction. [3]"
+                },
+                {
+                  "label": "He will not (won't) come.",
+                  "value": "Negative future event. [1]"
+                },
+                {
+                  "label": "She won't forget her promise.",
+                  "value": "Short form of 'will not'."
+                },
+                {
+                  "label": "It won't be cold tomorrow.",
+                  "value": "Short form for a negative prediction. [3]"
+                },
+                {
+                  "label": "We will not waste water.",
+                  "value": "Formal negative intention. [1]"
+                },
+                {
+                  "label": "They won't help us with the well.",
+                  "value": "Negative statement about their future action."
+                },
+                {
+                  "label": "My father won't allow me to go alone.",
+                  "value": "Negative future decision from father."
+                },
+                {
+                  "label": "The crops won't grow without rain.",
+                  "value": "Negative prediction based on conditions."
+                },
+                {
+                  "label": "I won't tell anyone your secret.",
+                  "value": "A promise not to do something."
+                },
+                {
+                  "label": "The road won't be easy to cross.",
+                  "value": "Negative prediction about difficulty."
+                },
+                {
+                  "label": "He won't finish the work by evening.",
+                  "value": "Negative expectation about completion."
+                },
+                {
+                  "label": "She won't eat spicy food.",
+                  "value": "Negative prediction about her preference."
+                }
+              ],
+              "usage_examples": [
+                "I won't be late.",
+                "You won't believe this!",
+                "He won't forget your name.",
+                "She won't come to the party.",
+                "It won't rain today.",
+                "We won't make a mistake.",
+                "They won't know the truth.",
+                "My dog won't bite you.",
+                "The lights won't go out.",
+                "I won't give up."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Negative Sentence Structure with 'Will'",
+                "headers": [
+                  "Subject",
+                  "Will not / Won't",
+                  "Base Verb"
+                ],
+                "rows": [
+                  [
+                    "I",
+                    "won't",
+                    "go"
+                  ],
+                  [
+                    "You",
+                    "won't",
+                    "eat"
+                  ],
+                  [
+                    "He",
+                    "won't",
+                    "study"
+                  ],
+                  [
+                    "She",
+                    "won't",
+                    "play"
+                  ],
+                  [
+                    "It",
+                    "won't",
+                    "rain"
+                  ],
+                  [
+                    "We",
+                    "won't",
+                    "help"
+                  ],
+                  [
+                    "They",
+                    "won't",
+                    "live"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Question Sentences with 'Will'",
+          "sections": [
+            {
+              "text": "To ask a question with 'will', we put 'Will' at the beginning of the sentence, before the subject. The main verb stays in its base form. [1, 2, 3, 4, 5]",
+              "examples": [
+                {
+                  "label": "Will I see you tomorrow?",
+                  "value": "Asking about a future meeting. [1]"
+                },
+                {
+                  "label": "Will you help me carry this?",
+                  "value": "Asking for help in the future. [3]"
+                },
+                {
+                  "label": "Will he come to the village fair?",
+                  "value": "Asking about his future attendance. [1]"
+                },
+                {
+                  "label": "Will she finish her chores today?",
+                  "value": "Asking about a future completion of tasks. [1]"
+                },
+                {
+                  "label": "Will it rain later?",
+                  "value": "Asking about future weather. [1, 3]"
+                },
+                {
+                  "label": "Will we win the cricket match?",
+                  "value": "Asking about a future outcome. [3]"
+                },
+                {
+                  "label": "Will they build the road soon?",
+                  "value": "Asking about a future construction project."
+                },
+                {
+                  "label": "Will my father buy a new plow?",
+                  "value": "Asking about a future purchase."
+                },
+                {
+                  "label": "Will the water level rise in the river?",
+                  "value": "Asking about a future change in condition."
+                },
+                {
+                  "label": "Will the crops be ready for harvest next month?",
+                  "value": "Asking about a future agricultural readiness."
+                },
+                {
+                  "label": "Will you visit the temple on Sunday?",
+                  "value": "Asking about a future plan."
+                },
+                {
+                  "label": "Will the lesson be easy?",
+                  "value": "Asking about a future quality."
+                },
+                {
+                  "label": "Will the students understand?",
+                  "value": "Asking about future comprehension."
+                }
+              ],
+              "usage_examples": [
+                "Will you eat this?",
+                "Will he pass the exam?",
+                "Will she return tomorrow?",
+                "Will it snow this winter?",
+                "Will we meet again?",
+                "Will they arrive on time?",
+                "Will the shop open?",
+                "Will the children play?",
+                "Will you bring water?",
+                "Will I be able to do it?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Question Sentence Structure with 'Will'",
+                "headers": [
+                  "Will",
+                  "Subject",
+                  "Base Verb",
+                  "Rest of Sentence?"
+                ],
+                "rows": [
+                  [
+                    "Will",
+                    "I",
+                    "go",
+                    "there?"
+                  ],
+                  [
+                    "Will",
+                    "you",
+                    "eat",
+                    "lunch?"
+                  ],
+                  [
+                    "Will",
+                    "he",
+                    "study",
+                    "hard?"
+                  ],
+                  [
+                    "Will",
+                    "she",
+                    "play",
+                    "games?"
+                  ],
+                  [
+                    "Will",
+                    "it",
+                    "rain",
+                    "today?"
+                  ],
+                  [
+                    "Will",
+                    "we",
+                    "help",
+                    "them?"
+                  ],
+                  [
+                    "Will",
+                    "they",
+                    "live",
+                    "here?"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "When to Use 'Will'",
+          "sections": [
+            {
+              "text": "We use 'will' for several situations in the future. It is often used for: [1, 2, 3, 4, 5, 6, 7]",
+              "examples": [
+                {
+                  "label": "1. Predictions (things we think will happen):",
+                  "value": "It will be hot tomorrow. (You think it will be hot). [1, 2, 4]"
+                },
+                {
+                  "label": "The crops will be good this year.",
+                  "value": "A prediction about the harvest. [4]"
+                },
+                {
+                  "label": "I think the children will enjoy the story.",
+                  "value": "A prediction about enjoyment. [1]"
+                },
+                {
+                  "label": "2. Spontaneous Decisions (decisions made at the moment of speaking):",
+                  "value": "Oh, the phone is ringing! I'll answer it. (You decide now). [1, 2, 4, 6]"
+                },
+                {
+                  "label": "I'm hungry. I'll make some roti.",
+                  "value": "A decision made right now. [1]"
+                },
+                {
+                  "label": "This basket is heavy. I will help you carry it.",
+                  "value": "An offer made at the moment. [1, 4]"
+                },
+                {
+                  "label": "3. Promises:",
+                  "value": "I will always help you. (A promise to help). [1, 2, 4]"
+                },
+                {
+                  "label": "I will not tell your secret to anyone.",
+                  "value": "A promise of secrecy. [4]"
+                },
+                {
+                  "label": "I will try my best in the exam.",
+                  "value": "A promise of effort. [4]"
+                },
+                {
+                  "label": "4. Offers:",
+                  "value": "I will carry your bags for you. (Offering help). [1, 4]"
+                },
+                {
+                  "label": "We will bring some fruits for the sick man.",
+                  "value": "An offer of kindness. [4]"
+                },
+                {
+                  "label": "5. Fixed future events (less common, but possible for schedules):",
+                  "value": "The train will depart at 5 PM. (Often 'The train departs' is also used). [1]"
+                }
+              ],
+              "usage_examples": [
+                "I think it will rain tonight.",
+                "I'm thirsty. I'll drink some water.",
+                "I promise I will return your book.",
+                "I'll help you find your way.",
+                "He will probably win the race.",
+                "Don't worry, I won't forget.",
+                "I'll open the door for you.",
+                "She will be 12 next month.",
+                "I'll carry your load.",
+                "It will be difficult, but we will try."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Uses of 'Will'",
+                "headers": [
+                  "Use",
+                  "Explanation",
+                  "Example"
+                ],
+                "rows": [
+                  [
+                    "Prediction",
+                    "Something you think will happen",
+                    "It will be hot tomorrow."
+                  ],
+                  [
+                    "Spontaneous Decision",
+                    "Decision made right now",
+                    "I'll answer the phone."
+                  ],
+                  [
+                    "Promise",
+                    "A commitment to do something",
+                    "I will help you."
+                  ],
+                  [
+                    "Offer",
+                    "Offering to do something for someone",
+                    "I will carry that for you."
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Using 'Be Going To' for the Future",
+      "subtopics": [
+        {
+          "title": "Formation: Positive Sentences with 'Be Going To'",
+          "sections": [
+            {
+              "text": "To make a positive sentence using 'be going to', we use the correct form of 'be' (am/is/are) + 'going to' + the base form of the verb. [1, 2, 3, 4, 5, 7]",
+              "examples": [
+                {
+                  "label": "I am going to eat.",
+                  "value": "Planned future action. ('I' uses 'am')"
+                },
+                {
+                  "label": "You are going to study.",
+                  "value": "Planned future action. ('You' uses 'are'). [1]"
+                },
+                {
+                  "label": "He is going to come.",
+                  "value": "Planned future action. ('He' uses 'is'). [1]"
+                },
+                {
+                  "label": "She is going to help.",
+                  "value": "Planned future action. ('She' uses 'is'). [1]"
+                },
+                {
+                  "label": "It is going to rain.",
+                  "value": "Prediction based on present evidence. ('It' uses 'is'). [1, 2]"
+                },
+                {
+                  "label": "We are going to play.",
+                  "value": "Planned future action. ('We' uses 'are'). [1]"
+                },
+                {
+                  "label": "They are going to go.",
+                  "value": "Planned future action. ('They' uses 'are'). [1]"
+                },
+                {
+                  "label": "I'm going to visit my relatives next month.",
+                  "value": "Short form of 'I am going to visit'. This is a plan. [1]"
+                },
+                {
+                  "label": "She's going to learn to milk the cow.",
+                  "value": "Short form of 'She is going to learn'. This is an intention. [2]"
+                },
+                {
+                  "label": "We're going to harvest the crops soon.",
+                  "value": "Short form of 'We are going to harvest'. This is a plan. [1]"
+                },
+                {
+                  "label": "My father is going to buy a new tractor.",
+                  "value": "This is his intention/plan. [2]"
+                },
+                {
+                  "label": "The sky is dark. It's going to rain.",
+                  "value": "Prediction based on visual evidence. [1, 2]"
+                },
+                {
+                  "label": "The students are going to prepare for the exam.",
+                  "value": "This is their plan/intention. [2]"
+                },
+                {
+                  "label": "He's going to build a small shed for his goats.",
+                  "value": "His definite plan. [2]"
+                },
+                {
+                  "label": "I am going to help my mother in the field tomorrow.",
+                  "value": "A specific plan for tomorrow. [1]"
+                }
+              ],
+              "usage_examples": [
+                "I am going to study tonight.",
+                "You are going to be a good farmer.",
+                "He is going to paint the wall.",
+                "She is going to fetch water.",
+                "It is going to be a great day.",
+                "We are going to sing at the event.",
+                "They are going to visit their village.",
+                "My brother is going to learn to swim.",
+                "The well is going to be dry soon.",
+                "I'm going to finish this work."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Positive Sentence Structure with 'Be Going To'",
+                "headers": [
+                  "Subject",
+                  "am/is/are",
+                  "going to",
+                  "Base Verb"
+                ],
+                "rows": [
+                  [
+                    "I",
+                    "am",
+                    "going to",
+                    "go"
+                  ],
+                  [
+                    "You",
+                    "are",
+                    "going to",
+                    "eat"
+                  ],
+                  [
+                    "He",
+                    "is",
+                    "going to",
+                    "study"
+                  ],
+                  [
+                    "She",
+                    "is",
+                    "going to",
+                    "play"
+                  ],
+                  [
+                    "It",
+                    "is",
+                    "going to",
+                    "rain"
+                  ],
+                  [
+                    "We",
+                    "are",
+                    "going to",
+                    "help"
+                  ],
+                  [
+                    "They",
+                    "are",
+                    "going to",
+                    "live"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Negative Sentences with 'Be Going To'",
+          "sections": [
+            {
+              "text": "To make a negative sentence with 'be going to', we put 'not' after 'am/is/are'. So it becomes 'am not going to', 'is not going to' (isn't going to), or 'are not going to' (aren't going to). The main verb remains in its base form. [1, 2, 3]",
+              "examples": [
+                {
+                  "label": "I am not (I'm not) going to sleep late.",
+                  "value": "Negative intention. [1]"
+                },
+                {
+                  "label": "You are not (aren't) going to finish this alone.",
+                  "value": "Negative prediction based on observation. [1]"
+                },
+                {
+                  "label": "He is not (isn't) going to come with us.",
+                  "value": "Negative statement about his plan. [1]"
+                },
+                {
+                  "label": "She isn't going to help us today.",
+                  "value": "Short form for a negative plan/intention. [1]"
+                },
+                {
+                  "label": "It isn't going to be easy.",
+                  "value": "Short form for a negative prediction. [1]"
+                },
+                {
+                  "label": "We aren't going to buy a new buffalo.",
+                  "value": "Short form for a negative plan. [1]"
+                },
+                {
+                  "label": "They are not going to leave the village.",
+                  "value": "Negative statement about their future plans."
+                },
+                {
+                  "label": "My mother isn't going to cook meat today.",
+                  "value": "Negative plan for cooking."
+                },
+                {
+                  "label": "The well isn't going to have enough water for summer.",
+                  "value": "Negative prediction based on current state."
+                },
+                {
+                  "label": "He's not going to plant vegetables this season.",
+                  "value": "His negative plan for farming."
+                },
+                {
+                  "label": "The children aren't going to make noise.",
+                  "value": "Negative expectation about their behavior."
+                },
+                {
+                  "label": "I'm not going to watch TV tonight.",
+                  "value": "My negative intention for the evening."
+                }
+              ],
+              "usage_examples": [
+                "I'm not going to play games.",
+                "You aren't going to like this.",
+                "He isn't going to help.",
+                "She isn't going to come.",
+                "It isn't going to work.",
+                "We aren't going to forget.",
+                "They aren't going to visit.",
+                "My dog isn't going to bark.",
+                "The school isn't going to close.",
+                "I'm not going to eat that."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Negative Sentence Structure with 'Be Going To'",
+                "headers": [
+                  "Subject",
+                  "am/is/are + not",
+                  "going to",
+                  "Base Verb"
+                ],
+                "rows": [
+                  [
+                    "I",
+                    "am not (I'm not)",
+                    "going to",
+                    "go"
+                  ],
+                  [
+                    "You",
+                    "are not (aren't)",
+                    "going to",
+                    "eat"
+                  ],
+                  [
+                    "He",
+                    "is not (isn't)",
+                    "going to",
+                    "study"
+                  ],
+                  [
+                    "She",
+                    "is not (isn't)",
+                    "going to",
+                    "play"
+                  ],
+                  [
+                    "It",
+                    "is not (isn't)",
+                    "going to",
+                    "rain"
+                  ],
+                  [
+                    "We",
+                    "are not (aren't)",
+                    "going to",
+                    "help"
+                  ],
+                  [
+                    "They",
+                    "are not (aren't)",
+                    "going to",
+                    "live"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Question Sentences with 'Be Going To'",
+          "sections": [
+            {
+              "text": "To ask a question with 'be going to', we put 'Am/Is/Are' at the beginning of the sentence, before the subject. The main verb stays in its base form. [1, 2, 3]",
+              "examples": [
+                {
+                  "label": "Am I going to help you?",
+                  "value": "Asking about my own intention. [1]"
+                },
+                {
+                  "label": "Are you going to clean the house?",
+                  "value": "Asking about your plan. [1]"
+                },
+                {
+                  "label": "Is he going to visit us?",
+                  "value": "Asking about his intention. [1]"
+                },
+                {
+                  "label": "Is she going to finish her chores?",
+                  "value": "Asking about her planned completion of tasks. [1]"
+                },
+                {
+                  "label": "Is it going to rain today?",
+                  "value": "Asking about a prediction based on evidence. [1, 2]"
+                },
+                {
+                  "label": "Are we going to win the match?",
+                  "value": "Asking about a predicted outcome. [1]"
+                },
+                {
+                  "label": "Are they going to build a new road?",
+                  "value": "Asking about their future plans for construction."
+                },
+                {
+                  "label": "Is your father going to buy a new crop?",
+                  "value": "Asking about his plan for farming."
+                },
+                {
+                  "label": "Are the children going to play outside today?",
+                  "value": "Asking about their planned activity."
+                },
+                {
+                  "label": "Is the festival going to be big this year?",
+                  "value": "Asking about a future expectation for the festival."
+                },
+                {
+                  "label": "Are you going to attend the meeting?",
+                  "value": "Asking about their attendance plans."
+                },
+                {
+                  "label": "Is the well going to be repaired?",
+                  "value": "Asking about a future action on the well."
+                }
+              ],
+              "usage_examples": [
+                "Are you going to study?",
+                "Is he going to eat?",
+                "Is she going to sleep?",
+                "Are we going to play?",
+                "Are they going to watch?",
+                "Is it going to happen?",
+                "Are you going to help me?",
+                "Is the market going to open?",
+                "Are we going to learn this?",
+                "Is your sister going to visit?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Question Sentence Structure with 'Be Going To'",
+                "headers": [
+                  "Am/Is/Are",
+                  "Subject",
+                  "going to",
+                  "Base Verb",
+                  "Rest of Sentence?"
+                ],
+                "rows": [
+                  [
+                    "Am",
+                    "I",
+                    "going to",
+                    "go",
+                    "there?"
+                  ],
+                  [
+                    "Are",
+                    "you",
+                    "going to",
+                    "eat",
+                    "lunch?"
+                  ],
+                  [
+                    "Is",
+                    "he",
+                    "going to",
+                    "study",
+                    "hard?"
+                  ],
+                  [
+                    "Is",
+                    "she",
+                    "going to",
+                    "play",
+                    "games?"
+                  ],
+                  [
+                    "Is",
+                    "it",
+                    "going to",
+                    "rain",
+                    "today?"
+                  ],
+                  [
+                    "Are",
+                    "we",
+                    "going to",
+                    "help",
+                    "them?"
+                  ],
+                  [
+                    "Are",
+                    "they",
+                    "going to",
+                    "live",
+                    "here?"
+                  ]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "When to Use 'Be Going To'",
+          "sections": [
+            {
+              "text": "We use 'be going to' for different situations in the future than 'will'. It is often used for: [1, 2, 3, 4, 5, 7]",
+              "examples": [
+                {
+                  "label": "1. Plans and Intentions (things you have already decided to do):",
+                  "value": "I am going to visit my grandmother this weekend. (You have already planned this). [1, 2, 4]"
+                },
+                {
+                  "label": "She is going to learn tailoring next month.",
+                  "value": "Her decided intention. [2]"
+                },
+                {
+                  "label": "We are going to plant rice in the fields next season.",
+                  "value": "A definite plan for farming. [1]"
+                },
+                {
+                  "label": "2. Predictions based on Present Evidence (when you see something that makes you sure about the future):",
+                  "value": "Look at those dark clouds! It is going to rain. (You see the clouds now). [1, 2, 4]"
+                },
+                {
+                  "label": "The baby is crying. He is going to fall asleep soon.",
+                  "value": "Prediction based on current behavior. [1]"
+                },
+                {
+                  "label": "He's driving too fast. He's going to crash!",
+                  "value": "Prediction based on current action. [1]"
+                },
+                {
+                  "label": "3. Commands (less common for beginners, but sometimes used):",
+                  "value": "You are going to clean this mess right now! (A strong command). [4]"
+                },
+                {
+                  "label": "Children, you are going to listen to your teacher.",
+                  "value": "A direct instruction/command for the future."
+                }
+              ],
+              "usage_examples": [
+                "I'm going to buy a new book tomorrow.",
+                "She is going to teach English.",
+                "We are going to build a new well.",
+                "Look! The goat is going to run away.",
+                "He is going to help his family.",
+                "They are going to finish the work.",
+                "I am going to study for my exams.",
+                "The sun is setting, it's going to get dark.",
+                "My uncle is going to visit us next week.",
+                "We are going to have a big feast."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Uses of 'Be Going To'",
+                "headers": [
+                  "Use",
+                  "Explanation",
+                  "Example"
+                ],
+                "rows": [
+                  [
+                    "Plans/Intentions",
+                    "Something already decided or intended",
+                    "I am going to visit my village."
+                  ],
+                  [
+                    "Evidence-based Prediction",
+                    "Something you are sure will happen based on what you see/know now",
+                    "Look at the dark sky. It's going to rain."
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Comparing 'Will' and 'Be Going To'",
+      "subtopics": [
+        {
+          "title": "Choosing Between 'Will' and 'Be Going To'",
+          "sections": [
+            {
+              "text": "Both 'will' and 'be going to' are used for the future, but they are used in different situations. Think of 'will' as often for sudden decisions, predictions without strong evidence, or promises. Think of 'be going to' as often for plans you already made or predictions based on what you see now. [1, 2, 3, 4, 5, 7]",
+              "examples": [
+                {
+                  "label": "I will buy a new shirt. (Spontaneous decision: You decide now).",
+                  "value": "You didn't plan it before. [1, 4]"
+                },
+                {
+                  "label": "I am going to buy a new shirt. (Pre-planned intention: You already thought about it).",
+                  "value": "You decided this earlier. [1, 4]"
+                },
+                {
+                  "label": "It will rain tomorrow. (General prediction, maybe from weather news).",
+                  "value": "Just a general idea about the weather. [1]"
+                },
+                {
+                  "label": "Look at the clouds! It is going to rain. (Prediction based on present evidence).",
+                  "value": "You see dark clouds, so you are more sure. [1, 2]"
+                },
+                {
+                  "label": "I will help you. (An offer made now).",
+                  "value": "You decided to help just now. [1]"
+                },
+                {
+                  "label": "I am going to help my father in the field. (A plan you made earlier).",
+                  "value": "This was already decided. [1]"
+                },
+                {
+                  "label": "He will probably come to the feast.",
+                  "value": "A guess or general expectation."
+                },
+                {
+                  "label": "He is going to get married next month.",
+                  "value": "A definite plan/arrangement that is already set."
+                },
+                {
+                  "label": "I will call you later.",
+                  "value": "A quick decision or promise."
+                },
+                {
+                  "label": "I'm going to start my English lessons next week.",
+                  "value": "A pre-arranged plan."
+                }
+              ],
+              "usage_examples": [
+                "The bucket is full, it will overflow.",
+                "I'm going to fetch water from the well.",
+                "It looks like the crops are going to die.",
+                "Don't worry, I will help you.",
+                "She will probably visit us next year.",
+                "We are going to build a small shop.",
+                "I will remember your kindness.",
+                "He's going to learn to drive a tractor.",
+                "The sun will shine brightly.",
+                "They are going to celebrate the harvest."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Will vs. Be Going To",
+                "headers": [
+                  "'Will'",
+                  "'Be Going To'"
+                ],
+                "rows": [
+                  [
+                    "For predictions (less certainty, general)",
+                    "For predictions (based on strong evidence)"
+                  ],
+                  [
+                    "For spontaneous decisions (at the moment of speaking)",
+                    "For plans and intentions (already decided)"
+                  ],
+                  [
+                    "For promises and offers",
+                    "Sometimes for strong commands (less common)"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Future Continuous Tense",
+      "subtopics": [
+        {
+          "title": "What is Future Continuous Tense?",
+          "sections": [
+            {
+              "text": "The Future Continuous tense describes an action that will be in progress at a specific time in the future. It tells us what we will be doing at a certain point later.",
+              "examples": [
+                {
+                  "label": "This time tomorrow, I will be working in the field.",
+                  "value": "Describes an action in progress at a specific future time ('this time tomorrow')."
+                },
+                {
+                  "label": "Don't call me at 8 PM, because I will be eating dinner.",
+                  "value": "The action of 'eating' will be happening at 8 PM."
+                },
+                {
+                  "label": "In an hour, the children will be sleeping.",
+                  "value": "Predicts an ongoing action at a future point."
+                },
+                {
+                  "label": "When you arrive, I will be cooking.",
+                  "value": "An ongoing action that will be happening when another event takes place."
+                },
+                {
+                  "label": "This summer, we will be visiting our relatives in the city.",
+                  "value": "An ongoing action over a period of time in the future."
+                }
+              ],
+              "usage_examples": [
+                "At noon tomorrow, I will be resting under a tree.",
+                "She will be watching the festival parade.",
+                "What will you be doing this evening?",
+                "They will be harvesting the crops all of next week.",
+                "He won't be playing, he will be studying."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Formation: Future Continuous Sentences",
+          "sections": [
+            {
+              "text": "To form the Future Continuous tense, we use 'will be' + the main verb with an '-ing' ending. This structure is the same for all subjects.",
+              "examples": [
+                {
+                  "label": "Positive: He will be waiting for us.",
+                  "value": "Structure: Subject + will be + verb-ing."
+                },
+                {
+                  "label": "Negative: They will not (won't) be working tomorrow.",
+                  "value": "Structure: Subject + will not be (won't be) + verb-ing."
+                },
+                {
+                  "label": "Question: Will you be coming to the feast?",
+                  "value": "Structure: Will + subject + be + verb-ing?"
+                }
+              ],
+              "usage_examples": [
+                "I will be helping my father tomorrow morning.",
+                "She won't be attending the village meeting.",
+                "Will the farmers be sowing new seeds next month?",
+                "We will be celebrating all night.",
+                "Will it be raining when we leave?"
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Future Continuous Sentence Structure",
+                "headers": [
+                  "Type",
+                  "Structure"
+                ],
+                "rows": [
+                  [
+                    "Positive",
+                    "Subject + will be + Verb-ing"
+                  ],
+                  [
+                    "Negative",
+                    "Subject + won't be + Verb-ing"
+                  ],
+                  [
+                    "Question",
+                    "Will + Subject + be + Verb-ing?"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Future Perfect Tense",
+      "subtopics": [
+        {
+          "title": "What is Future Perfect Tense?",
+          "sections": [
+            {
+              "text": "The Future Perfect tense describes an action that will be completed before a specific point or another action in the future. We use it to look back from a future point in time.",
+              "examples": [
+                {
+                  "label": "By 8 PM, I will have finished my homework.",
+                  "value": "The homework will be completed before the future time of 8 PM."
+                },
+                {
+                  "label": "She will have cooked dinner by the time we arrive.",
+                  "value": "The action of 'cooking' will be finished before the action of 'arriving'."
+                },
+                {
+                  "label": "By next year, the village will have built the new bridge.",
+                  "value": "The action of 'building' will be complete before 'next year'."
+                },
+                {
+                  "label": "He will have left before you get there.",
+                  "value": "The action of 'leaving' will be finished before 'you get there'."
+                },
+                {
+                  "label": "By the end of the season, the farmers will have harvested all the crops.",
+                  "value": "The harvesting will be complete before the season ends."
+                }
+              ],
+              "usage_examples": [
+                "They will have repaired the well by next week.",
+                "I will have read this entire book by tomorrow.",
+                "Will you have finished the work by 5 o'clock?",
+                "She won't have saved enough money by then.",
+                "By the time the sun sets, we will have reached our home."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Formation: Future Perfect Sentences",
+          "sections": [
+            {
+              "text": "To form the Future Perfect tense, we use 'will have' + the past participle (V3) of the main verb. This structure is the same for all subjects.",
+              "examples": [
+                {
+                  "label": "Positive: You will have learned the lesson.",
+                  "value": "Structure: Subject + will have + past participle (V3)."
+                },
+                {
+                  "label": "Negative: He will not (won't) have finished by noon.",
+                  "value": "Structure: Subject + will not have (won't have) + past participle (V3)."
+                },
+                {
+                  "label": "Question: Will they have arrived by then?",
+                  "value": "Structure: Will + subject + have + past participle (V3)?"
+                }
+              ],
+              "usage_examples": [
+                "I will have eaten already.",
+                "She won't have completed the task.",
+                "Will you have fixed the fence by evening?",
+                "The rain will have stopped by morning.",
+                "We will have walked ten kilometers by sunset."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Future Perfect Sentence Structure",
+                "headers": [
+                  "Type",
+                  "Structure"
+                ],
+                "rows": [
+                  [
+                    "Positive",
+                    "Subject + will have + Past Participle (V3)"
+                  ],
+                  [
+                    "Negative",
+                    "Subject + won't have + Past Participle (V3)"
+                  ],
+                  [
+                    "Question",
+                    "Will + Subject + have + Past Participle (V3)?"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Future Perfect Continuous Tense",
+      "subtopics": [
+        {
+          "title": "What is Future Perfect Continuous Tense?",
+          "sections": [
+            {
+              "text": "The Future Perfect Continuous tense describes an ongoing action and its duration up to a specific point in the future. It emphasizes how long an action will have been happening.",
+              "examples": [
+                {
+                  "label": "By next month, I will have been working here for a year.",
+                  "value": "Emphasizes the duration ('for a year') of an ongoing action up to a future point ('next month')."
+                },
+                {
+                  "label": "When he finishes the race, he will have been running for two hours.",
+                  "value": "Shows the duration of 'running' up to the point of 'finishing'."
+                },
+                {
+                  "label": "By the time the guests arrive, we will have been cooking all day.",
+                  "value": "Emphasizes the long duration of the cooking."
+                },
+                {
+                  "label": "In June, my parents will have been living in this village for twenty years.",
+                  "value": "Highlights the length of time they have lived there, up to a future point."
+                },
+                {
+                  "label": "Next week, she will have been studying for her exam for three months.",
+                  "value": "Shows the duration of the study period up to next week."
+                }
+              ],
+              "usage_examples": [
+                "How long will you have been waiting when the bus finally arrives?",
+                "By this evening, they will have been travelling for two days.",
+                "He won't have been sleeping for long when you wake him up.",
+                "In five more minutes, we will have been standing here for an hour.",
+                "By 2030, the farmers will have been using this new technique for a decade."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Formation: Future Perfect Continuous Sentences",
+          "sections": [
+            {
+              "text": "To form the Future Perfect Continuous tense, we use 'will have been' + the main verb with an '-ing' ending. This structure is the same for all subjects.",
+              "examples": [
+                {
+                  "label": "Positive: She will have been studying for hours.",
+                  "value": "Structure: Subject + will have been + verb-ing."
+                },
+                {
+                  "label": "Negative: We will not (won't) have been working for long.",
+                  "value": "Structure: Subject + will not have been (won't have been) + verb-ing."
+                },
+                {
+                  "label": "Question: Will you have been living here for ten years by then?",
+                  "value": "Structure: Will + subject + have been + verb-ing?"
+                }
+              ],
+              "usage_examples": [
+                "I will have been waiting for a long time.",
+                "He won't have been doing much.",
+                "Will they have been building the house for a year already?",
+                "The child will have been sleeping for three hours.",
+                "By noon, we will have been walking since sunrise."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "Future Perfect Continuous Sentence Structure",
+                "headers": [
+                  "Type",
+                  "Structure"
+                ],
+                "rows": [
+                  [
+                    "Positive",
+                    "Subject + will have been + Verb-ing"
+                  ],
+                  [
+                    "Negative",
+                    "Subject + won't have been + Verb-ing"
+                  ],
+                  [
+                    "Question",
+                    "Will + Subject + have been + Verb-ing?"
+                  ]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Common Mistakes and How to Avoid Them",
+      "subtopics": [
+        {
+          "title": "Mistake 1: Not Using Base Form After 'Will' or 'Going To'",
+          "sections": [
+            {
+              "text": "A very common mistake is adding -s, -ed, or -ing to the main verb after 'will' or 'going to'. Remember, the verb always stays in its base form (V1). [1, 2, 3]",
+              "examples": [
+                {
+                  "label": "Incorrect: He will goes to school.",
+                  "value": "Correct: He will go to school. ('go' is the base form). [3]"
+                },
+                {
+                  "label": "Incorrect: She is going to cooked dinner.",
+                  "value": "Correct: She is going to cook dinner. ('cook' is the base form). [2]"
+                },
+                {
+                  "label": "Incorrect: We will plays cricket.",
+                  "value": "Correct: We will play cricket. ('play' is the base form). [3]"
+                },
+                {
+                  "label": "Incorrect: They are going to visiting us.",
+                  "value": "Correct: They are going to visit us. ('visit' is the base form). [2]"
+                },
+                {
+                  "label": "Incorrect: It will raining later.",
+                  "value": "Correct: It will rain later. ('rain' is the base form). [3]"
+                },
+                {
+                  "label": "Incorrect: My father will bought a new field.",
+                  "value": "Correct: My father will buy a new field. ('buy' is the base form)."
+                },
+                {
+                  "label": "Incorrect: The children are going to eated sweets.",
+                  "value": "Correct: The children are going to eat sweets. ('eat' is the base form)."
+                },
+                {
+                  "label": "Incorrect: He will helped us.",
+                  "value": "Correct: He will help us. ('help' is the base form)."
+                },
+                {
+                  "label": "Incorrect: She is going to sings a song.",
+                  "value": "Correct: She is going to sing a song. ('sing' is the base form)."
+                },
+                {
+                  "label": "Incorrect: We will learning English.",
+                  "value": "Correct: We will learn English. ('learn' is the base form)."
+                }
+              ],
+              "usage_examples": [
+                "Incorrect: I will helped. -> Correct: I will help.",
+                "Incorrect: She is going to studying. -> Correct: She is going to study.",
+                "Incorrect: He will comes. -> Correct: He will come.",
+                "Incorrect: They are going to played. -> Correct: They are going to play.",
+                "Incorrect: It will happened. -> Correct: It will happen.",
+                "Incorrect: We will watched. -> Correct: We will watch.",
+                "Incorrect: He is going to reading. -> Correct: He is going to read.",
+                "Incorrect: My mother will makes. -> Correct: My mother will make.",
+                "Incorrect: You will sees. -> Correct: You will see.",
+                "Incorrect: The child is going to cried. -> Correct: The child is going to cry."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mistake 2: Incorrect 'Be' Form with 'Going To'",
+          "sections": [
+            {
+              "text": "Sometimes students use the wrong form of 'be' (am/is/are) with 'going to'. Remember to match 'am', 'is', or 'are' with the subject correctly.",
+              "examples": [
+                {
+                  "label": "Incorrect: I is going to school.",
+                  "value": "Correct: I am going to school. ('I' uses 'am')."
+                },
+                {
+                  "label": "Incorrect: He are going to eat.",
+                  "value": "Correct: He is going to eat. ('He' uses 'is')."
+                },
+                {
+                  "label": "Incorrect: We is going to play.",
+                  "value": "Correct: We are going to play. ('We' uses 'are')."
+                },
+                {
+                  "label": "Incorrect: They am going to visit.",
+                  "value": "Correct: They are going to visit. ('They' uses 'are')."
+                },
+                {
+                  "label": "Incorrect: It are going to rain.",
+                  "value": "Correct: It is going to rain. ('It' uses 'is')."
+                },
+                {
+                  "label": "Incorrect: You is going to learn.",
+                  "value": "Correct: You are going to learn. ('You' uses 'are')."
+                },
+                {
+                  "label": "Incorrect: My mother are going to cook.",
+                  "value": "Correct: My mother is going to cook. ('My mother' (She) uses 'is')."
+                },
+                {
+                  "label": "Incorrect: The boys is going to run.",
+                  "value": "Correct: The boys are going to run. ('The boys' (They) uses 'are')."
+                },
+                {
+                  "label": "Incorrect: The dog are going to bark.",
+                  "value": "Correct: The dog is going to bark. ('The dog' (It) uses 'is')."
+                },
+                {
+                  "label": "Incorrect: We is going to help.",
+                  "value": "Correct: We are going to help. ('We' uses 'are')."
+                }
+              ],
+              "usage_examples": [
+                "Incorrect: I are going. -> Correct: I am going.",
+                "Incorrect: She are going. -> Correct: She is going.",
+                "Incorrect: We is going. -> Correct: We are going.",
+                "Incorrect: They is going. -> Correct: They are going.",
+                "Incorrect: You is going. -> Correct: You are going.",
+                "Incorrect: He am going. -> Correct: He is going.",
+                "Incorrect: It are going. -> Correct: It is going.",
+                "Incorrect: My father are going. -> Correct: My father is going.",
+                "Incorrect: The river are going. -> Correct: The river is going.",
+                "Incorrect: The children is going. -> Correct: The children are going."
+              ],
+              "media": {
+                "image": "images/intermediate/module-1/lesson-4/p"
+              },
+              "table": {
+                "title": "",
+                "headers": [],
+                "rows": []
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

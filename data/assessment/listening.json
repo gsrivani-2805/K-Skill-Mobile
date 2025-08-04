@@ -1,0 +1,43 @@
+{
+  "listening_sentences": [
+    {
+      "level": "Easy",
+      "sentences": [
+        {
+          "id": 1,
+          "text": "The sun rises in the east daily."
+        },
+        {
+          "id": 2,
+          "text": "My mother cooks delicious food for us."
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "sentences": [
+        {
+          "id": 1,
+          "text": "My sister diligently helps our mother prepare dinner in the kitchen every evening."
+        },
+        {
+          "id": 2,
+          "text": "The kind teacher gently asked all the students to carefully read the important lesson loudly."
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "sentences": [
+        {
+          "id": 1,
+          "text": "During the festive season, families meticulously clean and decorate their homes with colorful lights and traditional patterns, then gather to cook special dishes, exchange sweets, and spend quality time with relatives and friends, fostering a strong sense of community and joy."
+        },
+        {
+          "id": 2,
+          "text": "After completing his demanding homework assignments and thoroughly reviewing his lessons, Ravi promptly went to the bustling village shop to purchase essential vegetables for dinner, and then diligently returned home to assist his hardworking father in the vast green fields, showcasing his dedication and responsibility."
+        }
+      ]
+    }
+  ]
+}

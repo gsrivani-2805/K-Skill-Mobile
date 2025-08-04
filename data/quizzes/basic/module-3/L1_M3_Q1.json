@@ -1,0 +1,66 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which word is a noun?",
+          "options": ["Run", "Happy", "Book", "Slowly"],
+          "correct_answer": "Book",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 2,
+          "question": "Choose the correct article: I saw ___ eagle in the sky.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "An",
+          "grammar_type": "Articles"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 1,
+          "question": "She ___ to the market yesterday.",
+          "options": ["go", "goes", "gone", "went"],
+          "correct_answer": "went",
+          "grammar_type": "Tenses (Simple Past)"
+        },
+        {
+          "id": 2,
+          "question": "If you study hard, you ___ pass the exam.",
+          "options": ["would", "will", "can", "may"],
+          "correct_answer": "will",
+          "grammar_type": "Conditional Sentences (Type 1)"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The letter was written by the clerk. Change the voice.",
+          "options": [
+            "The clerk was writing the letter.",
+            "The clerk writes the letter.",
+            "The clerk wrote the letter.",
+            "The clerk has written the letter."
+          ],
+          "correct_answer": "The clerk wrote the letter.",
+          "grammar_type": "Active/Passive Voice"
+        },
+        {
+          "id": 2,
+          "question": "Identify the error: The committee were divided in its opinion.",
+          "options": ["The committee", "were divided", "in", "its opinion"],
+          "correct_answer": "its opinion",
+          "grammar_type": "Error Spotting (Pronoun Agreement)"
+        }
+      ]
+    }
+  ]
+}

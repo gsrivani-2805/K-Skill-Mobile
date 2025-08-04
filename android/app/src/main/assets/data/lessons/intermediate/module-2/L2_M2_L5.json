@@ -1,0 +1,433 @@
+{
+  "level": "Intermediate",
+  "module": "Vocabulary Expansion",
+  "lesson_number": 5,
+  "lesson_title": "Understanding Word Parts: Prefixes, Suffixes, and Roots",
+  "objectives": [
+    "Identify common prefixes, suffixes, and root words.",
+    "Understand how prefixes and suffixes change the meaning and function of a word.",
+    "Use knowledge of word parts to determine the meaning of unfamiliar words.",
+    "Expand vocabulary by recognizing word families."
+  ],
+  "topics": [
+    {
+      "title": "Prefixes: Modifying Meaning at the Beginning",
+      "subtopics": [
+        {
+          "title": "What are Prefixes?",
+          "sections": [
+            {
+              "text": "A prefix is a group of letters added to the beginning of a word to change its meaning. For example, adding the prefix 'un-' to the word 'happy' creates 'unhappy,' which means not happy. Understanding prefixes can help you quickly figure out the meaning of new words.",
+              "examples": [
+                {
+                  "label": "happy -> unhappy",
+                  "value": "He was happy with his results, but his friend was unhappy."
+                },
+                {
+                  "label": "do -> redo",
+                  "value": "Your homework is messy; please redo it."
+                },
+                {
+                  "label": "possible -> impossible",
+                  "value": "With hard work, what seems impossible can become possible."
+                },
+                {
+                  "label": "view -> preview",
+                  "value": "We saw a preview of the new movie."
+                },
+                {
+                  "label": "like -> dislike",
+                  "value": "I like mangoes, but I dislike jackfruit."
+                },
+                {
+                  "label": "write -> rewrite",
+                  "value": "The teacher asked him to rewrite the essay."
+                }
+              ],
+              "usage_examples": [
+                "Prefixes attach to the start of a root word.",
+                "They change the word's meaning.",
+                "'Re-' often means 'again'.",
+                "'Un-' often means 'not'.",
+                "Knowing prefixes expands your vocabulary."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Common Prefixes: un-, dis-, re-, pre-, mis-, im-",
+          "sections": [
+            {
+              "text": "Many prefixes give a negative meaning or show repetition. 'un-', 'dis-', and 'im-' often mean 'not' or 'the opposite of'. 're-' means 'again'. 'pre-' means 'before'. 'mis-' means 'wrongly' or 'badly'.",
+              "examples": [
+                {
+                  "label": "un- (not)",
+                  "value": "The old well is unsafe for drinking."
+                },
+                {
+                  "label": "un- (not)",
+                  "value": "He was unable to lift the heavy sack."
+                },
+                {
+                  "label": "un- (not)",
+                  "value": "It is unkind to laugh at others' mistakes."
+                },
+                {
+                  "label": "dis- (opposite of)",
+                  "value": "I disagree with his plan to sell the land."
+                },
+                {
+                  "label": "dis- (opposite of)",
+                  "value": "The magician made the rabbit disappear."
+                },
+                {
+                  "label": "dis- (opposite of)",
+                  "value": "It is dishonest to steal."
+                },
+                {
+                  "label": "re- (again)",
+                  "value": "We need to rebuild the broken fence."
+                },
+                {
+                  "label": "re- (again)",
+                  "value": "Please review your answers before submitting."
+                },
+                {
+                  "label": "re- (again)",
+                  "value": "She had to retake the test."
+                },
+                {
+                  "label": "pre- (before)",
+                  "value": "We attended a pre-wedding ceremony."
+                },
+                {
+                  "label": "pre- (before)",
+                  "value": "It is important to pre-heat the oven before baking."
+                },
+                {
+                  "label": "mis- (wrongly)",
+                  "value": "I misunderstood his instructions."
+                },
+                {
+                  "label": "mis- (wrongly)",
+                  "value": "Be careful not to misplace your keys."
+                },
+                {
+                  "label": "mis- (wrongly)",
+                  "value": "His bad behaviour is a result of his misdeeds."
+                },
+                {
+                  "label": "im- (not)",
+                  "value": "The patient was very ill, but not in immediate danger."
+                },
+                {
+                  "label": "im- (not)",
+                  "value": "It is impolite to interrupt when someone is speaking."
+                }
+              ],
+              "usage_examples": [
+                "The story was unbelievable.",
+                "She dislikes spicy food.",
+                "He had to rewrite the entire letter.",
+                "The prehistoric fossils were found nearby.",
+                "His spelling mistakes are due to misreading the words."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-5/p"
+              },
+              "table": {
+                "title": "Common Prefixes and Meanings",
+                "headers": ["Prefix", "Meaning", "Example"],
+                "rows": [
+                  ["un-", "not, opposite of", "unhappy"],
+                  ["dis-", "not, opposite of", "disagree"],
+                  ["re-", "again, back", "redo"],
+                  ["pre-", "before", "preview"],
+                  ["mis-", "wrongly", "misunderstand"],
+                  ["im-", "not", "impolite"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Suffixes: Changing Meaning at the End",
+      "subtopics": [
+        {
+          "title": "What are Suffixes?",
+          "sections": [
+            {
+              "text": "A suffix is a group of letters added to the end of a word. Suffixes can change a word's meaning, but more often, they change its function or part of speech. For example, adding '-ness' to the adjective 'kind' creates the noun 'kindness'.",
+              "examples": [
+                {
+                  "label": "kind (adj) -> kindness (noun)",
+                  "value": "He showed great kindness to the new family."
+                },
+                {
+                  "label": "work (verb) -> worker (noun)",
+                  "value": "My father is a farmer, a hard worker."
+                },
+                {
+                  "label": "hope (noun) -> hopeful (adj)",
+                  "value": "We are hopeful for a good harvest this year."
+                },
+                {
+                  "label": "danger (noun) -> dangerous (adj)",
+                  "value": "Walking alone at night can be dangerous."
+                },
+                {
+                  "label": "act (verb) -> action (noun)",
+                  "value": "Every action has a consequence."
+                },
+                {
+                  "label": "quick (adj) -> quickly (adverb)",
+                  "value": "The deer ran quickly into the forest."
+                }
+              ],
+              "usage_examples": [
+                "Suffixes come at the end of a word.",
+                "They can change a word from an adjective to a noun.",
+                "'-ful' means 'full of'.",
+                "'-less' means 'without'.",
+                "Learning suffixes helps you build more words."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Common Suffixes: -able, -ful, -less, -ness, -ly, -ion",
+          "sections": [
+            {
+              "text": "Suffixes can turn words into adjectives, nouns, or adverbs. '-able' means 'can be done'. '-ful' means 'full of'. '-less' means 'without'. '-ness' creates a noun showing a state or quality. '-ly' often turns an adjective into an adverb. '-ion' turns a verb into a noun showing an action or process.",
+              "examples": [
+                {
+                  "label": "-able (can be done)",
+                  "value": "The water from this tap is drinkable."
+                },
+                {
+                  "label": "-able (can be done)",
+                  "value": "This old cloth is still usable."
+                },
+                {
+                  "label": "-ful (full of)",
+                  "value": "The farmer was thankful for the rain."
+                },
+                {
+                  "label": "-ful (full of)",
+                  "value": "The peacock has beautiful, colorful feathers."
+                },
+                {
+                  "label": "-less (without)",
+                  "value": "A farmer's work is endless."
+                },
+                {
+                  "label": "-less (without)",
+                  "value": "He made a careless mistake."
+                },
+                {
+                  "label": "-ness (state of being)",
+                  "value": "Happiness is seeing healthy crops."
+                },
+                {
+                  "label": "-ness (state of being)",
+                  "value": "Illness can make a person weak."
+                },
+                {
+                  "label": "-ly (in a certain way)",
+                  "value": "He carefully planted the seeds."
+                },
+                {
+                  "label": "-ly (in a certain way)",
+                  "value": "She spoke softly so as not to wake the baby."
+                },
+                {
+                  "label": "-ion (act of)",
+                  "value": "His decision to move to the city was difficult."
+                },
+                {
+                  "label": "-ion (act of)",
+                  "value": "The celebration after the harvest was joyous."
+                }
+              ],
+              "usage_examples": [
+                "This book is very enjoyable.",
+                "The colorful flowers look beautiful.",
+                "He felt hopeless after the flood.",
+                "Her kindness is well-known in the village.",
+                "She quietly entered the room.",
+                "His collection of old coins is impressive."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-5/p"
+              },
+              "table": {
+                "title": "Common Suffixes and Functions",
+                "headers": ["Suffix", "Function", "Example"],
+                "rows": [
+                  ["-able / -ible", "Forms an adjective", "readable"],
+                  ["-ful", "Forms an adjective", "hopeful"],
+                  ["-less", "Forms an adjective", "careless"],
+                  ["-ness", "Forms a noun", "happiness"],
+                  ["-ly", "Forms an adverb", "quickly"],
+                  ["-ion", "Forms a noun", "action"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Root Words: The Core Meaning",
+      "subtopics": [
+        {
+          "title": "What are Root Words?",
+          "sections": [
+            {
+              "text": "A root word is the most basic part of a word that holds its core meaning. Many English words have roots from older languages like Latin and Greek. By recognizing the root, you can guess the meaning of a whole family of words. For example, the root 'port' means 'to carry'.",
+              "examples": [
+                {
+                  "label": "Root: 'port' (to carry)",
+                  "value": "We transport goods from the village to the city."
+                },
+                {
+                  "label": "Root: 'port' (to carry)",
+                  "value": "He works as a reporter, carrying news to the people."
+                },
+                {
+                  "label": "Root: 'spect' (to see)",
+                  "value": "We must respect our elders."
+                },
+                {
+                  "label": "Root: 'spect' (to see)",
+                  "value": "The village head will inspect the new well tomorrow."
+                },
+                {
+                  "label": "Root: 'form' (to shape)",
+                  "value": "Please fill out this information form."
+                },
+                {
+                  "label": "Root: 'form' (to shape)",
+                  "value": "The caterpillar will transform into a butterfly."
+                }
+              ],
+              "usage_examples": [
+                "The root is the heart of a word.",
+                "Prefixes and suffixes can be added to roots.",
+                "Knowing one root can unlock many words.",
+                "'Tele' means 'far', and 'vision' means 'to see'.",
+                "'Bio' means 'life', and 'logy' means 'study of'."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-5/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Common Roots: port, spect, struct, dict, vis, form",
+          "sections": [
+            {
+              "text": "Learning common roots is a powerful vocabulary-building tool. 'port' means to carry. 'spect' means to look or see. 'struct' means to build. 'dict' means to say or speak. 'vis' means to see. 'form' means to shape.",
+              "examples": [
+                {
+                  "label": "port (to carry)",
+                  "value": "India exports tea to many countries. (carries out)"
+                },
+                {
+                  "label": "port (to carry)",
+                  "value": "This small radio is portable. (can be carried)"
+                },
+                {
+                  "label": "port (to carry)",
+                  "value": "It is important to support your family."
+                },
+                {
+                  "label": "spect (to look)",
+                  "value": "The villagers became spectators at the festival. (people who look)"
+                },
+                {
+                  "label": "spect (to look)",
+                  "value": "The old farmer wears spectacles to read. (glasses to see)"
+                },
+                {
+                  "label": "spect (to look)",
+                  "value": "From the hilltop, the perspective of the valley was amazing."
+                },
+                {
+                  "label": "struct (to build)",
+                  "value": "The construction of the new school will begin soon. (the act of building)"
+                },
+                {
+                  "label": "struct (to build)",
+                  "value": "Please follow the instructions carefully. (information that builds knowledge)"
+                },
+                {
+                  "label": "struct (to build)",
+                  "value": "You need to structure your essay properly."
+                },
+                {
+                  "label": "dict (to say)",
+                  "value": "The leader's words contradicted his actions. (spoke against)"
+                },
+                {
+                  "label": "dict (to say)",
+                  "value": "The astrologer tried to predict the future. (say before)"
+                },
+                {
+                  "label": "vis (to see)",
+                  "value": "The mountain was visible from our village."
+                },
+                {
+                  "label": "vis (to see)",
+                  "value": "He had a vision of a prosperous future for his village."
+                },
+                {
+                  "label": "form (to shape)",
+                  "value": "The soldiers stood in formation."
+                },
+                {
+                  "label": "form (to shape)",
+                  "value": "The government promised to reform the land laws."
+                }
+              ],
+              "usage_examples": [
+                "He gave an important speech.",
+                "We must not disrespect our traditions.",
+                "The destruction from the storm was immense.",
+                "The verdict was announced in court.",
+                "It's important to revise before an exam.",
+                "A good uniform makes students look smart."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-5/p"
+              },
+              "table": {
+                "title": "Common Roots and Word Families",
+                "headers": ["Root", "Meaning", "Example Words"],
+                "rows": [
+                  ["port", "to carry", "transport, import, export, portable, support"],
+                  ["spect", "to see, look", "inspect, respect, spectator, spectacle, perspective"],
+                  ["struct", "to build", "construct, structure, instruct, destruction"],
+                  ["dict", "to say, speak", "dictate, predict, contradict, dictionary, verdict"],
+                  ["vis/vid", "to see", "visible, video, evidence, television, revise"],
+                  ["form", "to shape", "formation, reform, uniform, transform, conform"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
+

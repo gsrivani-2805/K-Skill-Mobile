@@ -1,0 +1,1186 @@
+{
+  "level": "Intermediate",
+  "module": "Grammar Expansion",
+  "lesson_number": 6,
+  "lesson_title": "Subject-Verb Agreement",
+  "objectives": [
+    "Match subjects with the correct verbs in sentences",
+    "Understand how to use verbs with singular and plural subjects",
+    "Learn to avoid common mistakes in subject-verb agreement"
+  ],
+  "topics": [
+    {
+      "title": "What is Subject-Verb Agreement?",
+      "subtopics": [
+        {
+          "title": "Basic Idea of Agreement",
+          "sections": [
+            {
+              "text": "Subject-verb agreement means that the subject and the verb in a sentence must match each other. If the subject is singular (one person, one animal, one thing), the verb must also be singular. If the subject is plural (more than one), the verb must also be plural. This is a very important rule in English grammar. Think of it like a pair of shoes: a left shoe and a right shoe must always go together. The subject is one shoe, and the verb is the other. They must match in number.",
+              "examples": [
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "The farmer works hard."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "The farmers work hard."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "The bird sings."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "The birds sing."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "My mother cooks food."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "My parents cook food."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "The well is deep."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "The wells are deep."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "He reads a book."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "They read a book."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "The child plays."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "The children play."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "The goat eats grass."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "The goats eat grass."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "Water flows from the river."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "A star shines brightly."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "Stars shine brightly."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "The car looks new."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "The cars look new."
+                },
+                {
+                  "label": "Singular Subject, Singular Verb",
+                  "value": "This man needs help."
+                },
+                {
+                  "label": "Plural Subject, Plural Verb",
+                  "value": "These men need help."
+                }
+              ],
+              "usage_examples": [
+                "The subject and verb must agree.",
+                "Singular subjects take singular verbs.",
+                "Plural subjects take plural verbs.",
+                "This rule makes sentences correct.",
+                "Always check the subject and verb."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Basic Agreement Rules",
+      "subtopics": [
+        {
+          "title": "Singular Subjects",
+          "sections": [
+            {
+              "text": "When the subject is singular (one person, one thing), the verb in the simple present tense usually ends with 's' or 'es'. For 'be' verbs, use 'is' or 'was'. For 'have' verbs, use 'has'. For 'do' verbs, use 'does'.",
+              "examples": [
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "A cow gives milk."
+                },
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "My brother learns fast."
+                },
+                {
+                  "label": "Pronoun (he)",
+                  "value": "He walks to school every day."
+                },
+                {
+                  "label": "Pronoun (she)",
+                  "value": "She studies English."
+                },
+                {
+                  "label": "Pronoun (it)",
+                  "value": "It rains heavily in monsoon."
+                },
+                {
+                  "label": "'be' verb",
+                  "value": "The temple is very old."
+                },
+                {
+                  "label": "'be' verb (past)",
+                  "value": "The boy was playing."
+                },
+                {
+                  "label": "'have' verb",
+                  "value": "My friend has a new bicycle."
+                },
+                {
+                  "label": "'do' verb",
+                  "value": "The teacher does not come late."
+                },
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "The sun rises in the east."
+                },
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "The farmer feeds his chickens every morning."
+                },
+                {
+                  "label": "Pronoun (she)",
+                  "value": "She helps her mother in the kitchen."
+                },
+                {
+                  "label": "Pronoun (it)",
+                  "value": "It grows well in fertile soil."
+                },
+                {
+                  "label": "'be' verb",
+                  "value": "The small hut is near the river."
+                },
+                {
+                  "label": "'have' verb",
+                  "value": "Our village has a big pond."
+                },
+                {
+                  "label": "'do' verb",
+                  "value": "My father does not smoke."
+                },
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "The goat loves to eat leaves."
+                },
+                {
+                  "label": "Pronoun (he)",
+                  "value": "He often visits the market."
+                },
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "The river flows quickly here."
+                },
+                {
+                  "label": "Noun ending in s/es",
+                  "value": "A good student listens carefully."
+                },
+                {
+                  "label": "Pronoun (it)",
+                  "value": "It seems like a good idea."
+                },
+                {
+                  "label": "'have' verb",
+                  "value": "The dog has a long tail."
+                },
+                {
+                  "label": "'be' verb",
+                  "value": "This story is very interesting."
+                }
+              ],
+              "usage_examples": [
+                "My sister sings well.",
+                "The dog barks loudly.",
+                "He goes to the field early.",
+                "The child cries for milk.",
+                "The school opens at 9 AM."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              },
+              "table": {
+                "title": "Singular Subjects and Verbs",
+                "headers": ["Subject (Singular)", "Verb (Simple Present)", "Verb ('be')", "Verb ('have')", "Verb ('do')"],
+                "rows": [
+                  ["I", "eat", "am", "have", "do"],
+                  ["You", "eat", "are", "have", "do"],
+                  ["He/She/It", "eats", "is", "has", "does"],
+                  ["The boy", "eats", "is", "has", "does"],
+                  ["My mother", "eats", "is", "has", "does"],
+                  ["The buffalo", "eats", "is", "has", "does"]
+                ]
+              }
+            }
+          ]
+        },
+        {
+          "title": "Plural Subjects",
+          "sections": [
+            {
+              "text": "When the subject is plural (more than one person, animal, or thing), the verb in the simple present tense does not end with 's' or 'es'. For 'be' verbs, use 'are' or 'were'. For 'have' verbs, use 'have'. For 'do' verbs, use 'do'.",
+              "examples": [
+                {
+                  "label": "Noun without s/es",
+                  "value": "Cows give milk."
+                },
+                {
+                  "label": "Noun without s/es",
+                  "value": "My brothers learn fast."
+                },
+                {
+                  "label": "Pronoun (we)",
+                  "value": "We walk to school every day."
+                },
+                {
+                  "label": "Pronoun (you)",
+                  "value": "You study English."
+                },
+                {
+                  "label": "Pronoun (they)",
+                  "value": "They live in the village."
+                },
+                {
+                  "label": "'be' verb",
+                  "value": "The temples are very old."
+                },
+                {
+                  "label": "'be' verb (past)",
+                  "value": "The boys were playing."
+                },
+                {
+                  "label": "'have' verb",
+                  "value": "My friends have new bicycles."
+                },
+                {
+                  "label": "'do' verb",
+                  "value": "The teachers do not come late."
+                },
+                {
+                  "label": "Noun without s/es",
+                  "value": "The birds sing sweet songs."
+                },
+                {
+                  "label": "Noun without s/es",
+                  "value": "Farmers feed their chickens every morning."
+                },
+                {
+                  "label": "Pronoun (we)",
+                  "value": "We help our mothers in the kitchen."
+                },
+                {
+                  "label": "Pronoun (they)",
+                  "value": "They grow well in fertile soil."
+                },
+                {
+                  "label": "'be' verb",
+                  "value": "The small huts are near the river."
+                },
+                {
+                  "label": "'have' verb",
+                  "value": "Our villages have big ponds."
+                },
+                {
+                  "label": "'do' verb",
+                  "value": "My parents do not smoke."
+                },
+                {
+                  "label": "Noun without s/es",
+                  "value": "The goats love to eat leaves."
+                },
+                {
+                  "label": "Pronoun (they)",
+                  "value": "They often visit the market."
+                },
+                {
+                  "label": "Noun without s/es",
+                  "value": "The rivers flow quickly here."
+                },
+                {
+                  "label": "Noun without s/es",
+                  "value": "Good students listen carefully."
+                },
+                {
+                  "label": "Pronoun (they)",
+                  "value": "They seem like good people."
+                },
+                {
+                  "label": "'have' verb",
+                  "value": "The dogs have long tails."
+                },
+                {
+                  "label": "'be' verb",
+                  "value": "These stories are very interesting."
+                }
+              ],
+              "usage_examples": [
+                "My sisters sing well.",
+                "The dogs bark loudly.",
+                "They go to the field early.",
+                "The children cry for milk.",
+                "The schools open at 9 AM."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              },
+              "table": {
+                "title": "Plural Subjects and Verbs",
+                "headers": ["Subject (Plural)", "Verb (Simple Present)", "Verb ('be')", "Verb ('have')", "Verb ('do')"],
+                "rows": [
+                  ["We", "eat", "are", "have", "do"],
+                  ["You", "eat", "are", "have", "do"],
+                  ["They", "eat", "are", "have", "do"],
+                  ["The boys", "eat", "are", "have", "do"],
+                  ["My parents", "eat", "are", "have", "do"],
+                  ["The buffaloes", "eat", "are", "have", "do"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Special Cases and Exceptions",
+      "subtopics": [
+        {
+          "title": "Collective Nouns",
+          "sections": [
+            {
+              "text": "Collective nouns (like 'family', 'team', 'committee', 'group') refer to a group of people or things. They can be singular or plural depending on how they are used. If the group acts as one unit, use a singular verb. If the members of the group are acting separately, use a plural verb. In most cases, especially for rural students, treating collective nouns as singular is more common and easier.",
+              "examples": [
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The family is eating dinner."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "Our team plays well."
+                },
+                {
+                  "label": "Members acting separately (plural, less common for basic)",
+                  "value": "The team are arguing among themselves."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The class goes on a trip every year."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The herd of buffaloes moves towards the river."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The village committee meets every month."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The flock of birds flies south."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "A group of students visits the farm."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The government helps the farmers."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The audience is clapping loudly."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "A crowd gathers near the temple."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The army protects the border."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The jury gives its verdict."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The staff works hard for the school."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The school faculty agrees on the new rules."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The band plays traditional music."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "A bunch of keys lies on the table."
+                },
+                {
+                  "label": "Group as one unit (singular)",
+                  "value": "The public wants better roads."
+                }
+              ],
+              "usage_examples": [
+                "My family is big.",
+                "The team plays well together.",
+                "The village council decides the rules.",
+                "The crowd cheers for the players.",
+                "A swarm of bees is flying."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Compound Subjects (with 'and', 'or', 'nor')",
+          "sections": [
+            {
+              "text": "When two or more subjects are joined by 'and', the verb is usually plural. For example, 'Ram and Shyam are friends.' When subjects are joined by 'or' or 'nor', the verb agrees with the subject closest to it. For example, 'Either Ram or his brothers are coming.' or 'Neither the children nor the teacher is here.'",
+              "examples": [
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "Ram and Shyam are friends."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "The farmer and his son work in the field."
+                },
+                {
+                  "label": "Joined by 'or' (closest subject)",
+                  "value": "Either my mother or my father is coming."
+                },
+                {
+                  "label": "Joined by 'or' (closest subject)",
+                  "value": "Either my father or my brothers are coming."
+                },
+                {
+                  "label": "Joined by 'nor' (closest subject)",
+                  "value": "Neither the teacher nor the students are ready."
+                },
+                {
+                  "label": "Joined by 'nor' (closest subject)",
+                  "value": "Neither the students nor the teacher is ready."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "Rice and wheat are important crops."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "The well and the pond provide water for the village."
+                },
+                {
+                  "label": "Joined by 'or' (closest subject)",
+                  "value": "Either the cow or the goats are in the shed."
+                },
+                {
+                  "label": "Joined by 'or' (closest subject)",
+                  "value": "Either the goats or the cow is in the shed."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "Honesty and hard work bring success."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "Playing and reading are my hobbies."
+                },
+                {
+                  "label": "Joined by 'or' (closest subject)",
+                  "value": "Is Ram or his sisters coming to the market?"
+                },
+                {
+                  "label": "Joined by 'nor' (closest subject)",
+                  "value": "Neither the dog nor the cats like milk."
+                },
+                {
+                  "label": "Joined by 'nor' (closest subject)",
+                  "value": "Neither the cats nor the dog likes milk."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "A pen and a notebook are in my bag."
+                },
+                {
+                  "label": "Joined by 'or' (closest subject)",
+                  "value": "Either the teacher or the principal has the keys."
+                },
+                {
+                  "label": "Joined by 'and' (plural verb)",
+                  "value": "The sun and the moon give us light."
+                },
+                {
+                  "label": "Joined by 'nor' (closest subject)",
+                  "value": "Neither the mangoes nor the banana is ripe."
+                }
+              ],
+              "usage_examples": [
+                "My brother and I are going.",
+                "The cat or the dogs are sleeping.",
+                "Neither he nor she is wrong.",
+                "Books and pens are on the table.",
+                "Either you or I am responsible."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Indefinite Pronouns",
+          "sections": [
+            {
+              "text": "Indefinite pronouns like 'everyone', 'everybody', 'anyone', 'anybody', 'someone', 'somebody', 'no one', 'nobody', 'each', 'either', 'neither' are always singular. They take a singular verb. Words like 'all', 'some', 'any', 'none', 'most' can be singular or plural depending on what they refer to. If they refer to a countable noun, they can be plural. If they refer to an uncountable noun, they are singular.",
+              "examples": [
+                {
+                  "label": "Always singular",
+                  "value": "Everyone is happy today."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Somebody has taken my book."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Each student has a pen."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Neither of the boys knows the answer."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "No one wants to go home early."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Everything is ready for the festival."
+                },
+                {
+                  "label": "Singular (referring to uncountable)",
+                  "value": "Some of the water is dirty."
+                },
+                {
+                  "label": "Plural (referring to countable)",
+                  "value": "Some of the students are playing."
+                },
+                {
+                  "label": "Singular (referring to uncountable)",
+                  "value": "All of the rice is eaten."
+                },
+                {
+                  "label": "Plural (referring to countable)",
+                  "value": "All of the children are sleeping."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Anyone can learn English with practice."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Everyone in the village knows about the new well."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Nobody was present at the meeting yesterday."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "Each of the farmers has a good harvest this year."
+                },
+                {
+                  "label": "Plural (referring to countable)",
+                  "value": "Most of the mangoes are ripe."
+                },
+                {
+                  "label": "Singular (referring to uncountable)",
+                  "value": "Most of the milk is in the pot."
+                },
+                {
+                  "label": "Always singular",
+                  "value": "One of my friends is a doctor."
+                },
+                {
+                  "label": "Plural (referring to countable)",
+                  "value": "None of the chairs are broken."
+                },
+                {
+                  "label": "Singular (referring to uncountable)",
+                  "value": "None of the advice was helpful."
+                },
+                {
+                  "label": "Plural (referring to countable)",
+                  "value": "Any of these roads lead to the city."
+                },
+                {
+                  "label": "Singular (referring to uncountable)",
+                  "value": "Any of this luggage is too heavy for me."
+                }
+              ],
+              "usage_examples": [
+                "Everybody is here now.",
+                "Nothing makes him sad.",
+                "Each of the girls sings well.",
+                "Some of the food is wasted.",
+                "Some of the boys are ill."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Phrases Between Subject and Verb",
+          "sections": [
+            {
+              "text": "Sometimes, a phrase or a group of words comes between the subject and the verb. This can confuse us. Always remember that the verb must agree with the main subject, not with any noun in the middle phrase. Ignore the words in between when checking agreement.",
+              "examples": [
+                {
+                  "label": "Subject 'boy'",
+                  "value": "The boy, with his friends, is going to the market."
+                },
+                {
+                  "label": "Subject 'dogs'",
+                  "value": "The dogs in the village are barking loudly."
+                },
+                {
+                  "label": "Subject 'basket'",
+                  "value": "The basket of mangoes is on the table."
+                },
+                {
+                  "label": "Subject 'farmer'",
+                  "value": "The farmer, along with his family, works in the field."
+                },
+                {
+                  "label": "Subject 'flowers'",
+                  "value": "The flowers in the garden are blooming beautifully."
+                },
+                {
+                  "label": "Subject 'well'",
+                  "value": "The well, which has fresh water, is very important to us."
+                },
+                {
+                  "label": "Subject 'problems'",
+                  "value": "The problems that the villagers face are many."
+                },
+                {
+                  "label": "Subject 'teacher'",
+                  "value": "The teacher, as well as the students, is ready for the class."
+                },
+                {
+                  "label": "Subject 'sound'",
+                  "value": "The sound of the birds is very sweet."
+                },
+                {
+                  "label": "Subject 'key'",
+                  "value": "The key to all difficulties is hard work."
+                },
+                {
+                  "label": "Subject 'color'",
+                  "value": "The color of his eyes is brown."
+                },
+                {
+                  "label": "Subject 'group'",
+                  "value": "A group of children from the village visits the city."
+                },
+                {
+                  "label": "Subject 'water'",
+                  "value": "The water in the ponds looks dirty after the storm."
+                },
+                {
+                  "label": "Subject 'leader'",
+                  "value": "The leader of the farmers helps everyone."
+                },
+                {
+                  "label": "Subject 'quality'",
+                  "value": "The quality of the crops is good this year."
+                },
+                {
+                  "label": "Subject 'house'",
+                  "value": "The house on the hill, surrounded by trees, looks beautiful."
+                },
+                {
+                  "label": "Subject 'books'",
+                  "value": "The books that I borrowed from the library are due today."
+                },
+                {
+                  "label": "Subject 'woman'",
+                  "value": "The woman carrying two large bags is my aunt."
+                },
+                {
+                  "label": "Subject 'reasons'",
+                  "value": "The reasons for his success are hard work and honesty."
+                }
+              ],
+              "usage_examples": [
+                "The cat, with its kittens, is sleeping.",
+                "The bag of rice is heavy.",
+                "My friend, not his brothers, is here.",
+                "The books on the shelf are new.",
+                "The smell of the flowers is strong."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Subjects that Look Plural but are Singular",
+          "sections": [
+            {
+              "text": "Some words end in 's' but are actually singular and take a singular verb. These include names of subjects (mathematics, physics), diseases (measles, mumps), and some other words (news, economics). Similarly, titles of books, movies, or organizations, even if they have plural words, usually take a singular verb if they refer to one thing.",
+              "examples": [
+                {
+                  "label": "Subject name",
+                  "value": "Mathematics is my favorite subject."
+                },
+                {
+                  "label": "Disease name",
+                  "value": "Measles is a common childhood disease."
+                },
+                {
+                  "label": "Word 'news'",
+                  "value": "The news is good today."
+                },
+                {
+                  "label": "Title of a book",
+                  "value": "Gulliver's Travels is an interesting book."
+                },
+                {
+                  "label": "Subject name",
+                  "value": "Physics involves many calculations."
+                },
+                {
+                  "label": "Game name",
+                  "value": "Darts is a fun game to play."
+                },
+                {
+                  "label": "Country name",
+                  "value": "The United States is a big country."
+                },
+                {
+                  "label": "Organization name",
+                  "value": "The United Nations works for peace."
+                },
+                {
+                  "label": "Disease name",
+                  "value": "Mumps causes swelling in the glands."
+                },
+                {
+                  "label": "Word 'athletics'",
+                  "value": "Athletics is a popular sport in school."
+                },
+                {
+                  "label": "Course of study",
+                  "value": "Civics is taught in our school."
+                },
+                {
+                  "label": "Word 'linguistics'",
+                  "value": "Linguistics is the study of language."
+                },
+                {
+                  "label": "Movie title",
+                  "value": "Star Wars is a very famous movie series."
+                },
+                {
+                  "label": "Musical genre",
+                  "value": "Blues is a type of music."
+                },
+                {
+                  "label": "Academic field",
+                  "value": "Economics is a complex subject."
+                },
+                {
+                  "label": "Word 'news'",
+                  "value": "No news is good news."
+                },
+                {
+                  "label": "Disease name",
+                  "value": "Rabies is a very dangerous disease."
+                },
+                {
+                  "label": "Game name",
+                  "value": "Dominoes is my grandfather's favorite game."
+                },
+                {
+                  "label": "Country name",
+                  "value": "The Netherlands is a beautiful country."
+                }
+              ],
+              "usage_examples": [
+                "The news is important.",
+                "Physics is hard for me.",
+                "Billions of Dreams is a great movie.",
+                "A disease called diabetes is common.",
+                "Statistics is a branch of mathematics."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Inverted Sentences (There is/are)",
+          "sections": [
+            {
+              "text": "In sentences that start with 'there is' or 'there are', the true subject comes after the verb. So, the verb must agree with the noun that comes after 'there is' or 'there are'. If the noun is singular, use 'there is'. If it is plural, use 'there are'.",
+              "examples": [
+                {
+                  "label": "Singular subject",
+                  "value": "There is a book on the table."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are many books on the table."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is a well in our village."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are many wells in the area."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is a new teacher in our school."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are five teachers in the school."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is a goat tied to the tree."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are two goats in the shed."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is good news today."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are fresh vegetables in the basket."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is a small lamp in the hut."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are many stars in the sky at night."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is a problem with the water supply."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There are no easy solutions to big problems."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There is enough food for everyone."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There was a loud noise last night."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There were many people at the festival."
+                },
+                {
+                  "label": "Singular subject",
+                  "value": "There seems to be a mistake."
+                },
+                {
+                  "label": "Plural subject",
+                  "value": "There seem to be several mistakes."
+                }
+              ],
+              "usage_examples": [
+                "There is a tree here.",
+                "There are two birds there.",
+                "There is water in the pot.",
+                "There are many people at the fair.",
+                "There is a buffalo in the field."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Common Error Patterns",
+      "subtopics": [
+        {
+          "title": "Mistakes with Plural-Looking Nouns (but Singular Meaning)",
+          "sections": [
+            {
+              "text": "Sometimes, we see words that look plural because they end in 's', but they are actually singular in meaning and take singular verbs. Be careful with these words. These are often names of subjects, games, or countries. Also, sometimes a phrase starting with 'one of' or 'each of' leads to confusion; the verb should agree with 'one' or 'each' (which are singular), not the plural noun after 'of'.",
+              "examples": [
+                {
+                  "label": "Subject name",
+                  "value": "Physics is a science."
+                },
+                {
+                  "label": "Word 'news'",
+                  "value": "The news about the rain is good."
+                },
+                {
+                  "label": "'One of' phrase",
+                  "value": "One of the boys is absent today."
+                },
+                {
+                  "label": "'Each of' phrase",
+                  "value": "Each of the houses has a small garden."
+                },
+                {
+                  "label": "Disease name",
+                  "value": "Mumps often affects children."
+                },
+                {
+                  "label": "Country name",
+                  "value": "The Philippines is a group of islands."
+                },
+                {
+                  "label": "Game name",
+                  "value": "Billiards is a quiet game."
+                },
+                {
+                  "label": "Academic field",
+                  "value": "Politics is a complex topic."
+                },
+                {
+                  "label": "Word 'means'",
+                  "value": "This means of transport is very old."
+                },
+                {
+                  "label": "'Every one of' phrase",
+                  "value": "Every one of the villagers helps during harvest."
+                },
+                {
+                  "label": "Word 'gallows'",
+                  "value": "The gallows stands on the hill."
+                },
+                {
+                  "label": "'None of' with uncountable",
+                  "value": "None of the water is clean."
+                },
+                {
+                  "label": "'None of' with countable (singular if unit)",
+                  "value": "None of the group was listening."
+                },
+                {
+                  "label": "Word 'series'",
+                  "value": "This TV series is very popular."
+                },
+                {
+                  "label": "Word 'ethics'",
+                  "value": "Ethics teaches us about right and wrong."
+                },
+                {
+                  "label": "Title of a book",
+                  "value": "'The Three Musketeers' was written by Dumas."
+                },
+                {
+                  "label": "'One of' phrase",
+                  "value": "One of the mangoes is not ripe."
+                },
+                {
+                  "label": "'Each of' phrase",
+                  "value": "Each of the answers needs to be checked."
+                },
+                {
+                  "label": "Word 'summons'",
+                  "value": "A summons has been issued for him."
+                }
+              ],
+              "usage_examples": [
+                "Economics is an interesting subject.",
+                "The news is important for us.",
+                "One of my friends is a farmer.",
+                "Each of the trees gives fruit.",
+                "Measles is a serious illness."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "Mistakes with Plural Subjects and Singular Verbs",
+          "sections": [
+            {
+              "text": "A very common mistake is using a singular verb (ending in 's' or 'es') with a plural subject, especially in the simple present tense. Remember: if the subject is plural (they, we, you, or any plural noun), the verb should not have an 's' or 'es' at the end. Also, remember that 'I' and 'You' are special. Even though they are singular, they always take a plural verb form in the simple present tense (I go, you go, not I goes, you goes).",
+              "examples": [
+                {
+                  "label": "Incorrect: Plural Subject + Singular Verb",
+                  "value": "The boys plays cricket."
+                },
+                {
+                  "label": "Correct: Plural Subject + Plural Verb",
+                  "value": "The boys play cricket."
+                },
+                {
+                  "label": "Incorrect: Plural Subject + Singular Verb",
+                  "value": "The cows gives milk."
+                },
+                {
+                  "label": "Correct: Plural Subject + Plural Verb",
+                  "value": "The cows give milk."
+                },
+                {
+                  "label": "Incorrect: 'They' + Singular Verb",
+                  "value": "They lives in a big house."
+                },
+                {
+                  "label": "Correct: 'They' + Plural Verb",
+                  "value": "They live in a big house."
+                },
+                {
+                  "label": "Incorrect: 'We' + Singular Verb",
+                  "value": "We goes to school every day."
+                },
+                {
+                  "label": "Correct: 'We' + Plural Verb",
+                  "value": "We go to school every day."
+                },
+                {
+                  "label": "Incorrect: 'I' + Singular Verb",
+                  "value": "I likes mangoes."
+                },
+                {
+                  "label": "Correct: 'I' + Plural Verb",
+                  "value": "I like mangoes."
+                },
+                {
+                  "label": "Incorrect: 'You' + Singular Verb",
+                  "value": "You studies hard."
+                },
+                {
+                  "label": "Correct: 'You' + Plural Verb",
+                  "value": "You study hard."
+                },
+                {
+                  "label": "Incorrect: Plural Noun + 'is'",
+                  "value": "The children is playing outside."
+                },
+                {
+                  "label": "Correct: Plural Noun + 'are'",
+                  "value": "The children are playing outside."
+                },
+                {
+                  "label": "Incorrect: Plural Noun + 'has'",
+                  "value": "The farmers has a good harvest."
+                },
+                {
+                  "label": "Correct: Plural Noun + 'have'",
+                  "value": "The farmers have a good harvest."
+                },
+                {
+                  "label": "Incorrect: Plural Noun + 'does'",
+                  "value": "Birds does not eat meat."
+                },
+                {
+                  "label": "Correct: Plural Noun + 'do'",
+                  "value": "Birds do not eat meat."
+                },
+                {
+                  "label": "Incorrect: 'We' + 'was'",
+                  "value": "We was going to the fair."
+                },
+                {
+                  "label": "Correct: 'We' + 'were'",
+                  "value": "We were going to the fair."
+                },
+                {
+                  "label": "Incorrect: 'People' + 'thinks'",
+                  "value": "People thinks that the story is true."
+                },
+                {
+                  "label": "Correct: 'People' + 'think'",
+                  "value": "People think that the story is true."
+                },
+                {
+                  "label": "Incorrect: 'My shoes' + 'is'",
+                  "value": "My shoes is wet."
+                },
+                {
+                  "label": "Correct: 'My shoes' + 'are'",
+                  "value": "My shoes are wet."
+                },
+                {
+                  "label": "Incorrect: 'The leaves' + 'falls'",
+                  "value": "The leaves falls in autumn."
+                },
+                {
+                  "label": "Correct: 'The leaves' + 'fall'",
+                  "value": "The leaves fall in autumn."
+                }
+              ],
+              "usage_examples": [
+                "Students learn quickly.",
+                "Birds fly high.",
+                "My friends visit often.",
+                "We play kabaddi.",
+                "You teach well."
+              ],
+              "media": {
+                "image": "images/intermediate/module-2/lesson-6/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+

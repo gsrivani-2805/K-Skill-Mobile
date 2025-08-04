@@ -1,0 +1,1626 @@
+{
+  "title": "Home & Living",
+  "icon": "🏠",
+  "words": [
+    {
+      "word": "House",
+      "pronunciation": "/haʊs/",
+      "definition": "A building where people live, usually a single family.",
+      "sentences": [
+        "My **house** has a big garden.",
+        "We bought a new **house** last year.",
+        "The old **house** needs repairs."
+      ]
+    },
+    {
+      "word": "Home",
+      "pronunciation": "/hoʊm/",
+      "definition": "The place where one lives, especially as a member of a family.",
+      "sentences": [
+        "There's no place like **home**.",
+        "I love coming **home** after a long day.",
+        "They built a new **home** for their family."
+      ]
+    },
+    {
+      "word": "Apartment",
+      "pronunciation": "/əˈpɑːrtmənt/",
+      "definition": "A set of rooms forming a separate residence within a larger building.",
+      "sentences": [
+        "They live in a small **apartment** in the city.",
+        "My friend's **apartment** is on the third floor.",
+        "Finding an affordable **apartment** can be hard."
+      ]
+    },
+    {
+      "word": "Room",
+      "pronunciation": "/ruːm/",
+      "definition": "A part of a building enclosed by walls, floor, and ceiling.",
+      "sentences": [
+        "My bedroom is the biggest **room** in the house.",
+        "The living **room** is where we watch TV.",
+        "Please clean your **room**."
+      ]
+    },
+    {
+      "word": "Bedroom",
+      "pronunciation": "/ˈbɛdruːm/",
+      "definition": "A room for sleeping.",
+      "sentences": [
+        "I sleep in my **bedroom**.",
+        "My **bedroom** has a big window.",
+        "She decorated her new **bedroom**."
+      ]
+    },
+    {
+      "word": "Living room",
+      "pronunciation": "/ˈlɪvɪŋ ruːm/",
+      "definition": "A room in a house for general everyday use.",
+      "sentences": [
+        "We watch movies in the **living room**.",
+        "The **living room** has a comfortable sofa.",
+        "Guests usually sit in the **living room**."
+      ]
+    },
+    {
+      "word": "Kitchen",
+      "pronunciation": "/ˈkɪtʃɪn/",
+      "definition": "A room where food is prepared and cooked.",
+      "sentences": [
+        "My mom cooks dinner in the **kitchen**.",
+        "The **kitchen** smells like fresh bread.",
+        "We have a small table in the **kitchen**."
+      ]
+    },
+    {
+      "word": "Bathroom",
+      "pronunciation": "/ˈbæθruːm/",
+      "definition": "A room containing a toilet and usually a sink and a bathtub or shower.",
+      "sentences": [
+        "I brush my teeth in the **bathroom**.",
+        "The **bathroom** needs to be cleaned.",
+        "Where is the nearest **bathroom**?"
+      ]
+    },
+    {
+      "word": "Dining room",
+      "pronunciation": "/ˈdaɪnɪŋ ruːm/",
+      "definition": "A room in a house where meals are eaten.",
+      "sentences": [
+        "We eat special meals in the **dining room**.",
+        "The **dining room** table is very large.",
+        "The family gathered in the **dining room** for dinner."
+      ]
+    },
+    {
+      "word": "Hallway",
+      "pronunciation": "/ˈhɔːlˌweɪ/",
+      "definition": "A passage in a building or house, typically with rooms leading off it.",
+      "sentences": [
+        "The coat rack is in the **hallway**.",
+        "Walk quietly in the **hallway**.",
+        "The **hallway** leads to all the bedrooms."
+      ]
+    },
+    {
+      "word": "Stairs",
+      "pronunciation": "/stɛərz/",
+      "definition": "A set of steps leading from one floor or level to another.",
+      "sentences": [
+        "Be careful when going up the **stairs**.",
+        "Our house has wooden **stairs**.",
+        "The cat ran up the **stairs** quickly."
+      ]
+    },
+    {
+      "word": "Door",
+      "pronunciation": "/dɔːr/",
+      "definition": "A movable barrier at the entrance to a building or room.",
+      "sentences": [
+        "Close the **door** when you leave.",
+        "The front **door** is painted red.",
+        "Knock on the **door** before entering."
+      ]
+    },
+    {
+      "word": "Window",
+      "pronunciation": "/ˈwɪndoʊ/",
+      "definition": "An opening in the wall or roof of a building that is fitted with glass or other transparent material in a frame to admit light or air.",
+      "sentences": [
+        "Open the **window** to let in fresh air.",
+        "The bird flew into the **window**.",
+        "My bedroom **window** overlooks the garden."
+      ]
+    },
+    {
+      "word": "Wall",
+      "pronunciation": "/wɔːl/",
+      "definition": "A continuous vertical brick or stone structure that encloses or divides an area of land.",
+      "sentences": [
+        "Hang the picture on the **wall**.",
+        "The **walls** of the room are painted blue.",
+        "There's a crack in the **wall**."
+      ]
+    },
+    {
+      "word": "Floor",
+      "pronunciation": "/flɔːr/",
+      "definition": "The lower surface of a room, on which one walks.",
+      "sentences": [
+        "Please don't spill water on the **floor**.",
+        "The kitchen **floor** is made of tiles.",
+        "He dropped his book on the **floor**."
+      ]
+    },
+    {
+      "word": "Ceiling",
+      "pronunciation": "/ˈsiːlɪŋ/",
+      "definition": "The upper interior surface of a room.",
+      "sentences": [
+        "The light hangs from the **ceiling**.",
+        "The **ceiling** in this room is very high.",
+        "There's a fan on the **ceiling**."
+      ]
+    },
+    {
+      "word": "Roof",
+      "pronunciation": "/ruːf/",
+      "definition": "The upper covering of a building, house, or vehicle.",
+      "sentences": [
+        "The **roof** protects the house from rain.",
+        "The cat was stuck on the **roof**.",
+        "The house has a red tile **roof**."
+      ]
+    },
+    {
+      "word": "Garden",
+      "pronunciation": "/ˈɡɑːrdn/",
+      "definition": "A piece of ground adjoining a house, used for growing flowers, fruit, or vegetables.",
+      "sentences": [
+        "My mom loves working in the **garden**.",
+        "The **garden** is full of colorful flowers.",
+        "We have a small vegetable **garden**."
+      ]
+    },
+    {
+      "word": "Yard",
+      "pronunciation": "/jɑːrd/",
+      "definition": "A piece of ground adjoining a house or other building, typically enclosed.",
+      "sentences": [
+        "The children played in the back **yard**.",
+        "Our **yard** is fenced.",
+        "He mowed the front **yard**."
+      ]
+    },
+    {
+      "word": "Furniture",
+      "pronunciation": "/ˈfɜːrnɪtʃər/",
+      "definition": "Large movable equipment, such as tables and chairs, used to make a house or office suitable for living or working.",
+      "sentences": [
+        "We bought new **furniture** for the living room.",
+        "The antique **furniture** is very old.",
+        "Moving heavy **furniture** is hard work."
+      ]
+    },
+    {
+      "word": "Sofa",
+      "pronunciation": "/ˈsoʊfə/",
+      "definition": "A long upholstered seat with a back and arms, for more than one person.",
+      "sentences": [
+        "I like to relax on the **sofa**.",
+        "The new **sofa** is very comfortable.",
+        "We have a big red **sofa** in the living room."
+      ]
+    },
+    {
+      "word": "Chair",
+      "pronunciation": "/tʃɛər/",
+      "definition": "A separate seat for one person, typically with a back and four legs.",
+      "sentences": [
+        "Sit down on the **chair**.",
+        "The dining **chair** is made of wood.",
+        "There are many **chairs** in the room."
+      ]
+    },
+    {
+      "word": "Table",
+      "pronunciation": "/ˈteɪbl/",
+      "definition": "A piece of furniture with a flat top and one or more legs, providing a level surface for eating, writing, or working.",
+      "sentences": [
+        "Put the plates on the **table**.",
+        "The kitchen **table** is round.",
+        "We gathered around the **table** for dinner."
+      ]
+    },
+    {
+      "word": "Bed",
+      "pronunciation": "/bɛd/",
+      "definition": "A piece of furniture for sleeping on.",
+      "sentences": [
+        "I go to **bed** at 9 PM.",
+        "My **bed** is very soft.",
+        "She made her **bed** in the morning."
+      ]
+    },
+    {
+      "word": "Lamp",
+      "pronunciation": "/læmp/",
+      "definition": "A device for giving light.",
+      "sentences": [
+        "Turn on the **lamp** when it gets dark.",
+        "I have a small reading **lamp** next to my bed.",
+        "The floor **lamp** provides good light."
+      ]
+    },
+    {
+      "word": "Curtains",
+      "pronunciation": "/ˈkɜːrtnz/",
+      "definition": "A piece of material suspended at the top to form a screen, typically one of a pair at a window.",
+      "sentences": [
+        "Close the **curtains** to block the sun.",
+        "The new **curtains** are blue.",
+        "She drew the **curtains** before going to bed."
+      ]
+    },
+    {
+      "word": "Rug",
+      "pronunciation": "/rʌɡ/",
+      "definition": "A floor covering of thick woven material or animal skin, typically not extending over the entire floor of a room.",
+      "sentences": [
+        "There's a soft **rug** in the living room.",
+        "The dog likes to sleep on the **rug**.",
+        "We bought a new **rug** for the hallway."
+      ]
+    },
+    {
+      "word": "Carpet",
+      "pronunciation": "/ˈkɑːrpɪt/",
+      "definition": "A floor covering, typically made of thick woven fabric, used to cover a floor or stairs.",
+      "sentences": [
+        "The whole room is covered with **carpet**.",
+        "The new **carpet** feels very soft.",
+        "Vacuum the **carpet** regularly."
+      ]
+    },
+    {
+      "word": "Television (TV)",
+      "pronunciation": "/ˈtɛlɪˌvɪʒn/",
+      "definition": "An electronic device used to receive broadcast signals and display them as images and sound.",
+      "sentences": [
+        "We watch movies on the **TV**.",
+        "Turn off the **television** before you sleep.",
+        "My new **TV** has a very clear picture."
+      ]
+    },
+    {
+      "word": "Refrigerator (Fridge)",
+      "pronunciation": "/rɪˈfrɪdʒəˌreɪtər/",
+      "definition": "An appliance that keeps food and drink cool.",
+      "sentences": [
+        "Put the milk back in the **fridge**.",
+        "The **refrigerator** is full of food.",
+        "Don't leave the **fridge** door open."
+      ]
+    },
+    {
+      "word": "Oven",
+      "pronunciation": "/ˈʌvn/",
+      "definition": "An enclosed compartment, usually part of a stove, for cooking and heating food.",
+      "sentences": [
+        "Bake the cake in the **oven**.",
+        "The **oven** is preheating.",
+        "She put the pizza in the **oven**."
+      ]
+    },
+    {
+      "word": "Stove",
+      "pronunciation": "/stoʊv/",
+      "definition": "An apparatus for cooking or heating that contains an oven and hob.",
+      "sentences": [
+        "Heat the soup on the **stove**.",
+        "The kitchen has a gas **stove**.",
+        "Be careful when cooking on the **stove**."
+      ]
+    },
+    {
+      "word": "Microwave",
+      "pronunciation": "/ˈmaɪkroʊˌweɪv/",
+      "definition": "An electric oven that cooks food quickly by heating it with electromagnetic radiation.",
+      "sentences": [
+        "Heat your leftovers in the **microwave**.",
+        "The **microwave** beeped when the food was ready.",
+        "Don't put metal in the **microwave**."
+      ]
+    },
+    {
+      "word": "Dishwasher",
+      "pronunciation": "/ˈdɪʃˌwɑːʃər/",
+      "definition": "A machine for washing dishes automatically.",
+      "sentences": [
+        "Load the dirty dishes into the **dishwasher**.",
+        "The **dishwasher** is running.",
+        "We need to empty the **dishwasher**."
+      ]
+    },
+    {
+      "word": "Washing machine",
+      "pronunciation": "/ˈwɑːʃɪŋ məˌʃiːn/",
+      "definition": "A machine for washing clothes.",
+      "sentences": [
+        "Put the dirty clothes in the **washing machine**.",
+        "The **washing machine** is very noisy.",
+        "She loaded the **washing machine** with laundry."
+      ]
+    },
+    {
+      "word": "Dryer",
+      "pronunciation": "/ˈdraɪər/",
+      "definition": "A machine for drying clothes by tumbling them in heated air.",
+      "sentences": [
+        "Put the wet clothes in the **dryer**.",
+        "The clothes are still damp in the **dryer**.",
+        "The **dryer** makes a lot of noise."
+      ]
+    },
+    {
+      "word": "Vacuum cleaner",
+      "pronunciation": "/ˈvækjuːm ˌkliːnər/",
+      "definition": "An electrical appliance that cleans floors and other surfaces by suction.",
+      "sentences": [
+        "Use the **vacuum cleaner** to clean the carpet.",
+        "My new **vacuum cleaner** is very powerful.",
+        "He used the **vacuum cleaner** to pick up crumbs."
+      ]
+    },
+    {
+      "word": "Broom",
+      "pronunciation": "/bruːm/",
+      "definition": "A long-handled brush of bristles or twigs, used for sweeping.",
+      "sentences": [
+        "Sweep the floor with a **broom**.",
+        "The witch flew on her **broom**.",
+        "I need a dustpan and **broom**."
+      ]
+    },
+    {
+      "word": "Dustpan",
+      "pronunciation": "/ˈdʌstˌpæn/",
+      "definition": "A flat scoop with a short handle, into which dust and waste are swept.",
+      "sentences": [
+        "Sweep the dirt into the **dustpan**.",
+        "I need a broom and **dustpan**.",
+        "He used the **dustpan** to collect the crumbs."
+      ]
+    },
+    {
+      "word": "Mop",
+      "pronunciation": "/mɑːp/",
+      "definition": "A tool consisting of a sponge or mass of coarse yarn attached to a handle, used for wiping floors or other surfaces.",
+      "sentences": [
+        "Clean the kitchen floor with a **mop**.",
+        "The **mop** is wet and dirty.",
+        "She wrung out the **mop** before cleaning."
+      ]
+    },
+    {
+      "word": "Bucket",
+      "pronunciation": "/ˈbʌkɪt/",
+      "definition": "A roughly cylindrical open container with a handle, used for carrying liquids or other materials.",
+      "sentences": [
+        "Fill the **bucket** with water.",
+        "He carried a **bucket** of sand.",
+        "The child played with a spade and **bucket**."
+      ]
+    },
+    {
+      "word": "Sponge",
+      "pronunciation": "/spʌndʒ/",
+      "definition": "A piece of a soft, light, porous substance, used for washing or cleaning.",
+      "sentences": [
+        "Clean the counter with a wet **sponge**.",
+        "The **sponge** absorbed all the water.",
+        "Use a clean **sponge** for dishes."
+      ]
+    },
+    {
+      "word": "Soap",
+      "pronunciation": "/soʊp/",
+      "definition": "A substance used with water for washing and cleaning.",
+      "sentences": [
+        "Wash your hands with **soap** and water.",
+        "This **soap** smells like lavender.",
+        "I need to buy more hand **soap**."
+      ]
+    },
+    {
+      "word": "Detergent",
+      "pronunciation": "/dɪˈtɜːrdʒənt/",
+      "definition": "A non-soap cleansing agent, especially a synthetic liquid or soluble powder that can dissolve grease and dirt.",
+      "sentences": [
+        "Add laundry **detergent** to the washing machine.",
+        "This **detergent** is good for removing stains.",
+        "We ran out of dish **detergent**."
+      ]
+    },
+    {
+      "word": "Trash can",
+      "pronunciation": "/træʃ kæn/",
+      "definition": "A container for waste.",
+      "sentences": [
+        "Throw the paper in the **trash can**.",
+        "The **trash can** is full.",
+        "Empty the **trash can** regularly."
+      ]
+    },
+    {
+      "word": "Recycling bin",
+      "pronunciation": "/riːˈsaɪklɪŋ bɪn/",
+      "definition": "A container for collecting items that can be recycled.",
+      "sentences": [
+        "Put your plastic bottles in the **recycling bin**.",
+        "The **recycling bin** is picked up once a week.",
+        "Remember to sort your waste into the **recycling bin**."
+      ]
+    },
+    {
+      "word": "Light switch",
+      "pronunciation": "/laɪt swɪtʃ/",
+      "definition": "A switch for turning an electric light on or off.",
+      "sentences": [
+        "Turn off the **light switch** when you leave the room.",
+        "The **light switch** is next to the door.",
+        "He flipped the **light switch** on."
+      ]
+    },
+    {
+      "word": "Outlet",
+      "pronunciation": "/ˈaʊtlɛt/",
+      "definition": "A device in a wall into which an electric plug can be inserted to make a connection to the electricity supply.",
+      "sentences": [
+        "Plug the lamp into the **outlet**.",
+        "There are two **outlets** on this wall.",
+        "Be careful not to overload the **outlet**."
+      ]
+    },
+    {
+      "word": "Plug",
+      "pronunciation": "/plʌɡ/",
+      "definition": "A device for making an electrical connection, consisting of an insulated casing with two or three metal pins that fit into holes in a socket.",
+      "sentences": [
+        "Insert the **plug** into the outlet.",
+        "The **plug** has three pins.",
+        "Make sure the **plug** is fully inserted."
+      ]
+    },
+    {
+      "word": "Extension cord",
+      "pronunciation": "/ɪkˈstɛnʃn kɔːrd/",
+      "definition": "A length of flexible electrical cord with a plug on one end and one or more outlets on the other, used to extend the reach of an electrical appliance.",
+      "sentences": [
+        "I need an **extension cord** to reach the lamp.",
+        "Don't overload the **extension cord**.",
+        "The **extension cord** was coiled neatly."
+      ]
+    },
+    {
+      "word": "Fuse box",
+      "pronunciation": "/fjuːz bɑːks/",
+      "definition": "A box containing electrical fuses, typically for a house or car.",
+      "sentences": [
+        "The power went out, so check the **fuse box**.",
+        "The **fuse box** is usually in the basement.",
+        "He reset the breaker in the **fuse box**."
+      ]
+    },
+    {
+      "word": "Thermostat",
+      "pronunciation": "/ˈθɜːrməˌstæt/",
+      "definition": "A device that automatically regulates temperature, or that activates a device when the temperature reaches a certain point.",
+      "sentences": [
+        "Adjust the **thermostat** to a comfortable temperature.",
+        "The **thermostat** controls the heating system.",
+        "She set the **thermostat** to 22 degrees Celsius."
+      ]
+    },
+    {
+      "word": "Air conditioner (AC)",
+      "pronunciation": "/ɛr kənˈdɪʃənər/",
+      "definition": "A system or device that cools the air in a building or vehicle.",
+      "sentences": [
+        "Turn on the **AC** when it's hot.",
+        "The **air conditioner** is making a strange noise.",
+        "We need to get the **air conditioner** repaired."
+      ]
+    },
+    {
+      "word": "Heater",
+      "pronunciation": "/ˈhiːtər/",
+      "definition": "A device used for heating air or water.",
+      "sentences": [
+        "Turn on the **heater** to warm up the room.",
+        "The electric **heater** is very efficient.",
+        "We bought a new portable **heater**."
+      ]
+    },
+    {
+      "word": "Fireplace",
+      "pronunciation": "/ˈfaɪərˌpleɪs/",
+      "definition": "A partially enclosed space in a house, at the base of a chimney, where a fire may be built.",
+      "sentences": [
+        "We lit a fire in the **fireplace**.",
+        "The living room has a beautiful stone **fireplace**.",
+        "Sitting by the **fireplace** on a cold night is cozy."
+      ]
+    },
+    {
+      "word": "Chimney",
+      "pronunciation": "/ˈtʃɪmni/",
+      "definition": "A vertical pipe or channel that carries smoke and gases up from a fireplace or furnace and typically through the roof of a building.",
+      "sentences": [
+        "Smoke came out of the **chimney**.",
+        "The bird built a nest in the **chimney**.",
+        "Santa Claus comes down the **chimney**."
+      ]
+    },
+    {
+      "word": "Roof",
+      "pronunciation": "/ruːf/",
+      "definition": "The upper covering of a building, house, or vehicle.",
+      "sentences": [
+        "The **roof** protects the house from rain.",
+        "The cat was stuck on the **roof**.",
+        "The house has a red tile **roof**."
+      ]
+    },
+    {
+      "word": "Attic",
+      "pronunciation": "/ˈætɪk/",
+      "definition": "A space or room inside the roof of a building.",
+      "sentences": [
+        "We store old boxes in the **attic**.",
+        "The **attic** can get very hot in summer.",
+        "He found an old toy in the **attic**."
+      ]
+    },
+    {
+      "word": "Basement",
+      "pronunciation": "/ˈbeɪsmənt/",
+      "definition": "The floor of a building that is partly or entirely below ground level.",
+      "sentences": [
+        "We have a laundry room in the **basement**.",
+        "The **basement** is often used for storage.",
+        "They converted the **basement** into a recreation room."
+      ]
+    },
+    {
+      "word": "Garage",
+      "pronunciation": "/ɡəˈrɑːʒ/",
+      "definition": "A building or shed for housing a motor vehicle.",
+      "sentences": [
+        "Park the car in the **garage**.",
+        "He keeps his tools in the **garage**.",
+        "The **garage** door needs to be fixed."
+      ]
+    },
+    {
+      "word": "Driveway",
+      "pronunciation": "/ˈdraɪvˌweɪ/",
+      "definition": "A short private road leading from a public road to a house or garage.",
+      "sentences": [
+        "Park your car in the **driveway**.",
+        "The children played basketball in the **driveway**.",
+        "The **driveway** was covered in snow."
+      ]
+    },
+    {
+      "word": "Fence",
+      "pronunciation": "/fɛns/",
+      "definition": "A barrier, railing, or other upright structure, typically of wood or wire, enclosing an area of ground to mark a boundary, control access, or prevent escape.",
+      "sentences": [
+        "The dog jumped over the **fence**.",
+        "We need to repair the broken **fence**.",
+        "The garden is surrounded by a wooden **fence**."
+      ]
+    },
+    {
+      "word": "Gate",
+      "pronunciation": "/ɡeɪt/",
+      "definition": "A hinged barrier in a fence or wall, allowing passage through.",
+      "sentences": [
+        "Close the **gate** behind you.",
+        "The garden **gate** is always open.",
+        "He opened the **gate** for the car."
+      ]
+    },
+    {
+      "word": "Mailbox",
+      "pronunciation": "/ˈmeɪlˌbɑːks/",
+      "definition": "A private box with a lock, for receiving mail.",
+      "sentences": [
+        "Check the **mailbox** for letters.",
+        "The postman put the mail in the **mailbox**.",
+        "Our **mailbox** is at the end of the driveway."
+      ]
+    },
+    {
+      "word": "Doormat",
+      "pronunciation": "/ˈdɔːrˌmæt/",
+      "definition": "A mat placed at the entrance to a house, on which people wipe their shoes.",
+      "sentences": [
+        "Wipe your feet on the **doormat**.",
+        "The new **doormat** says 'Welcome Home'.",
+        "The dog loves to lie on the **doormat**."
+      ]
+    },
+    {
+      "word": "Welcome mat",
+      "pronunciation": "/ˈwɛlkəm mæt/",
+      "definition": "A doormat, especially one with 'Welcome' written on it.",
+      "sentences": [
+        "The new **welcome mat** looks nice.",
+        "She placed a cheerful **welcome mat** at the door.",
+        "Our **welcome mat** is getting old."
+      ]
+    },
+    {
+      "word": "Key",
+      "pronunciation": "/kiː/",
+      "definition": "A small piece of shaped metal with incisions cut to fit the wards of a particular lock, which is inserted into a lock and turned to open or close it.",
+      "sentences": [
+        "Don't forget your **keys**.",
+        "I lost my house **key**.",
+        "Turn the **key** to lock the door."
+      ]
+    },
+    {
+      "word": "Lock",
+      "pronunciation": "/lɑːk/",
+      "definition": "A mechanism for keeping a door, lid, or container fastened, typically operated by a key or a combination.",
+      "sentences": [
+        "Make sure to **lock** the door when you leave.",
+        "The old **lock** is difficult to open.",
+        "He put a new **lock** on the gate."
+      ]
+    },
+    {
+      "word": "Alarm system",
+      "pronunciation": "/əˈlɑːrm ˈsɪstəm/",
+      "definition": "A system designed to detect intrusion – unauthorized entry – into a building or area.",
+      "sentences": [
+        "Our house has a security **alarm system**.",
+        "The **alarm system** went off by mistake.",
+        "Install an **alarm system** for safety."
+      ]
+    },
+    {
+      "word": "Security camera",
+      "pronunciation": "/sɪˈkjʊrəti ˈkæmərə/",
+      "definition": "A camera used for surveillance, especially in a public place or to monitor a building.",
+      "sentences": [
+        "The store has many **security cameras**.",
+        "We installed a **security camera** at the front door.",
+        "The **security camera** recorded the incident."
+      ]
+    },
+    {
+      "word": "Light bulb",
+      "pronunciation": "/laɪt bʌlb/",
+      "definition": "A glass bulb that produces light by electricity.",
+      "sentences": [
+        "The **light bulb** burned out.",
+        "I need to replace the **light bulb** in the lamp.",
+        "This **light bulb** is very bright."
+      ]
+    },
+    {
+      "word": "Switch",
+      "pronunciation": "/swɪtʃ/",
+      "definition": "A device for making and breaking the connection in an electric circuit.",
+      "sentences": [
+        "Flip the **switch** to turn on the fan.",
+        "The **switch** for the light is broken.",
+        "He pressed the power **switch**."
+      ]
+    },
+    {
+      "word": "Power outlet",
+      "pronunciation": "/ˈpaʊər ˈaʊtlɛt/",
+      "definition": "A point in a wiring system at which current is taken to supply an electric device.",
+      "sentences": [
+        "There's a **power outlet** behind the sofa.",
+        "I need another **power outlet** for my charger.",
+        "The **power outlet** is not working."
+      ]
+    },
+    {
+      "word": "Extension cord",
+      "pronunciation": "/ɪkˈstɛnʃn kɔːrd/",
+      "definition": "A length of flexible electrical cord with a plug on one end and one or more outlets on the other, used to extend the reach of an electrical appliance.",
+      "sentences": [
+        "I need an **extension cord** to reach the lamp.",
+        "Don't overload the **extension cord**.",
+        "The **extension cord** was coiled neatly."
+      ]
+    },
+    {
+      "word": "Circuit breaker",
+      "pronunciation": "/ˈsɜːrkɪt ˈbreɪkər/",
+      "definition": "An automatic switch that stops the flow of electric current in a circuit if there is a fault.",
+      "sentences": [
+        "The **circuit breaker** tripped when I plugged in the heater.",
+        "Reset the **circuit breaker** to restore power.",
+        "The **circuit breaker** is in the fuse box."
+      ]
+    },
+    {
+      "word": "Plumbing",
+      "pronunciation": "/ˈplʌmɪŋ/",
+      "definition": "The system of pipes, tanks, fittings, and other apparatus required for the water supply, heating, and sanitation in a building.",
+      "sentences": [
+        "We need to fix the **plumbing** in the bathroom.",
+        "The old house has outdated **plumbing**.",
+        "He called a plumber to check the **plumbing**."
+      ]
+    },
+    {
+      "word": "Leak",
+      "pronunciation": "/liːk/",
+      "definition": "A hole or crack in a container or covering through which liquid or gas may escape.",
+      "sentences": [
+        "There's a water **leak** under the sink.",
+        "The roof has a small **leak**.",
+        "We need to fix the **leak** quickly."
+      ]
+    },
+    {
+      "word": "Drip",
+      "pronunciation": "/drɪp/",
+      "definition": "To fall or let fall in drops.",
+      "sentences": [
+        "The faucet started to **drip**.",
+        "I heard a constant **drip** from the ceiling.",
+        "Water was **dripping** from the pipe."
+      ]
+    },
+    {
+      "word": "Faucet",
+      "pronunciation": "/ˈfɔːsɪt/",
+      "definition": "A device for controlling the flow of water from a pipe.",
+      "sentences": [
+        "Turn off the **faucet** tightly.",
+        "The kitchen **faucet** is leaking.",
+        "He turned on the **faucet** to wash his hands."
+      ]
+    },
+    {
+      "word": "Sink",
+      "pronunciation": "/sɪŋk/",
+      "definition": "A fixed basin with a water supply and a drain, typically in a kitchen or bathroom.",
+      "sentences": [
+        "Wash your hands in the **sink**.",
+        "The kitchen **sink** is full of dishes.",
+        "There's a small **sink** in the bathroom."
+      ]
+    },
+    {
+      "word": "Toilet",
+      "pronunciation": "/ˈtɔɪlɪt/",
+      "definition": "A fixed receptacle into which a person may urinate or defecate, typically consisting of a bowl with a hinged seat and a flushing mechanism.",
+      "sentences": [
+        "Flush the **toilet** after use.",
+        "The **toilet** is in the bathroom.",
+        "He fixed the running **toilet**."
+      ]
+    },
+    {
+      "word": "Shower",
+      "pronunciation": "/ˈʃaʊər/",
+      "definition": "An apparatus for spraying water on the body, usually from above, typically in a cubicle or bath.",
+      "sentences": [
+        "I take a **shower** every morning.",
+        "The **shower** head needs cleaning.",
+        "She spent a long time in the **shower**."
+      ]
+    },
+    {
+      "word": "Bathtub",
+      "pronunciation": "/ˈbæθˌtʌb/",
+      "definition": "A long container for washing oneself, usually in a bathroom.",
+      "sentences": [
+        "The baby loves playing in the **bathtub**.",
+        "She filled the **bathtub** with warm water.",
+        "Our bathroom has a claw-foot **bathtub**."
+      ]
+    },
+    {
+      "word": "Drain",
+      "pronunciation": "/dreɪn/",
+      "definition": "A channel or pipe carrying off surplus liquid, especially rainwater or liquid waste.",
+      "sentences": [
+        "The water goes down the **drain**.",
+        "The shower **drain** is clogged.",
+        "Clean the **drain** to prevent blockages."
+      ]
+    },
+    {
+      "word": "Pipe",
+      "pronunciation": "/paɪp/",
+      "definition": "A long tube typically made of metal or plastic, used for conveying water, gas, oil, or other fluid substances.",
+      "sentences": [
+        "The water flows through the **pipes**.",
+        "There's a burst **pipe** in the basement.",
+        "He fixed the leaking **pipe**."
+      ]
+    },
+    {
+      "word": "Appliance",
+      "pronunciation": "/əˈplaɪəns/",
+      "definition": "A device or piece of equipment designed to perform a specific task, typically a household task.",
+      "sentences": [
+        "The kitchen has many modern **appliances**.",
+        "The new washing machine is a great **appliance**.",
+        "He bought a new kitchen **appliance**."
+      ]
+    },
+    {
+      "word": "Furniture",
+      "pronunciation": "/ˈfɜːrnɪtʃər/",
+      "definition": "Large movable equipment, such as tables and chairs, used to make a house or office suitable for living or working.",
+      "sentences": [
+        "We bought new **furniture** for the living room.",
+        "The antique **furniture** is very old.",
+        "Moving heavy **furniture** is hard work."
+      ]
+    },
+    {
+      "word": "Decorate",
+      "pronunciation": "/ˈdɛkəˌreɪt/",
+      "definition": "To make something look more attractive by adding ornaments or embellishments; to furnish with something ornamental.",
+      "sentences": [
+        "We plan to **decorate** the room for the party.",
+        "She loves to **decorate** her house for holidays.",
+        "They hired someone to **decorate** their new apartment."
+      ]
+    },
+    {
+      "word": "Renovate",
+      "pronunciation": "/ˈrɛnəˌveɪt/",
+      "definition": "To restore (something old, especially a building) to a good state of repair.",
+      "sentences": [
+        "They decided to **renovate** their old kitchen.",
+        "The house needs to be **renovated**.",
+        "It costs a lot of money to **renovate** a whole house."
+      ]
+    },
+    {
+      "word": "Maintenance",
+      "pronunciation": "/ˈmeɪntənəns/",
+      "definition": "The process of maintaining or preserving something or someone.",
+      "sentences": [
+        "Regular **maintenance** is important for a house.",
+        "Car **maintenance** helps prevent breakdowns.",
+        "He is responsible for the building's **maintenance**."
+      ]
+    },
+    {
+      "word": "Utility bill",
+      "pronunciation": "/juːˈtɪləti bɪl/",
+      "definition": "A bill for a utility service, such as electricity, gas, or water.",
+      "sentences": [
+        "Our electricity **utility bill** was very high this month.",
+        "Pay your **utility bills** on time.",
+        "The water **utility bill** comes every quarter."
+      ]
+    },
+    {
+      "word": "Electricity",
+      "pronunciation": "/ɪˌlɛkˈtrɪsəti/",
+      "definition": "A form of energy resulting from the existence of charged particles.",
+      "sentences": [
+        "The **electricity** went out during the storm.",
+        "We use **electricity** to power our lights and appliances.",
+        "Save **electricity** by turning off lights."
+      ]
+    },
+    {
+      "word": "Gas",
+      "pronunciation": "/ɡæs/",
+      "definition": "A fossil fuel used for heating and cooking.",
+      "sentences": [
+        "Our stove uses natural **gas**.",
+        "The **gas** bill was higher this winter.",
+        "Be careful with **gas** leaks."
+      ]
+    },
+    {
+      "word": "Water",
+      "pronunciation": "/ˈwɔːtər/",
+      "definition": "A colorless, transparent, odorless, liquid that forms the seas, lakes, rivers, and rain and is the basis of the fluids of living organisms.",
+      "sentences": [
+        "Drink plenty of **water** every day.",
+        "The **water** in the tap is cold.",
+        "Save **water** by taking shorter showers."
+      ]
+    },
+    {
+      "word": "Internet",
+      "pronunciation": "/ˈɪntərˌnɛt/",
+      "definition": "A global computer network providing information and communication.",
+      "sentences": [
+        "We use the **internet** for work and entertainment.",
+        "My **internet** connection is very fast.",
+        "Many households rely on the **internet** for daily tasks."
+      ]
+    },
+    {
+      "word": "Cable TV",
+      "pronunciation": "/ˈkeɪbl tiː viː/",
+      "definition": "A system of broadcasting television programs by cable rather than by airwaves.",
+      "sentences": [
+        "We subscribe to **cable TV** for many channels.",
+        "Some people prefer streaming services over **cable TV**.",
+        "Our **cable TV** package includes sports channels."
+      ]
+    },
+    {
+      "word": "Landlord",
+      "pronunciation": "/ˈlændˌlɔːrd/",
+      "definition": "A person who owns land, houses, or apartments and rents them to others.",
+      "sentences": [
+        "Our **landlord** fixed the broken window.",
+        "She pays rent to her **landlord** every month.",
+        "The **landlord** is responsible for maintenance."
+      ]
+    },
+    {
+      "word": "Tenant",
+      "pronunciation": "/ˈtɛnənt/",
+      "definition": "A person who occupies land or property rented from a landlord.",
+      "sentences": [
+        "The new **tenant** moved in last week.",
+        "The **tenant** signed a one-year lease.",
+        "**Tenants** are responsible for keeping the property clean."
+      ]
+    },
+    {
+      "word": "Rent",
+      "pronunciation": "/rɛnt/",
+      "definition": "A tenant's regular payment to a landlord for the use of property or land.",
+      "sentences": [
+        "We pay **rent** on the first of every month.",
+        "The **rent** for this apartment is high.",
+        "She needs to save money for next month's **rent**."
+      ]
+    },
+    {
+      "word": "Lease",
+      "pronunciation": "/liːs/",
+      "definition": "A contract by which one party conveys land, property, services, etc., to another for a specified term, usually in return for a periodic payment.",
+      "sentences": [
+        "We signed a one-year **lease** for the apartment.",
+        "The **lease** agreement outlines the rules.",
+        "Our **lease** is almost up."
+      ]
+    },
+    {
+      "word": "Mortgage",
+      "pronunciation": "/ˈmɔːrɡɪdʒ/",
+      "definition": "A legal agreement by which a bank or other creditor lends money at interest in exchange for taking title to the debtor's property, with the condition that the conveyance of title becomes void upon the payment of the debt.",
+      "sentences": [
+        "They took out a **mortgage** to buy their house.",
+        "Paying off the **mortgage** takes many years.",
+        "Her monthly **mortgage** payment is quite high."
+      ]
+    },
+    {
+      "word": "Property",
+      "pronunciation": "/ˈprɑːpərti/",
+      "definition": "A building or land owned by someone.",
+      "sentences": [
+        "This **property** is for sale.",
+        "They own several rental **properties**.",
+        "The fence marks the boundary of their **property**."
+      ]
+    },
+    {
+      "word": "Real estate",
+      "pronunciation": "/ˈriːəl ɛˈsteɪt/",
+      "definition": "Property consisting of land or buildings.",
+      "sentences": [
+        "She works in **real estate**.",
+        "The **real estate** market is very competitive.",
+        "He invested in **real estate**."
+      ]
+    },
+    {
+      "word": "Neighborhood",
+      "pronunciation": "/ˈneɪbərˌhʊd/",
+      "definition": "A district, especially one forming a community within a town or city.",
+      "sentences": [
+        "Our **neighborhood** is very friendly.",
+        "She grew up in this **neighborhood**.",
+        "The park is in our **neighborhood**."
+      ]
+    },
+    {
+      "word": "Community",
+      "pronunciation": "/kəˈmjuːnɪti/",
+      "definition": "A group of people living in the same place or having a particular characteristic in common.",
+      "sentences": [
+        "The school is an important part of the local **community**.",
+        "We organized a clean-up event for the **community**.",
+        "Building a strong sense of **community** is vital."
+      ]
+    },
+    {
+      "word": "Suburb",
+      "pronunciation": "/ˈsʌbɜːrb/",
+      "definition": "An outlying district of a city, especially a residential one.",
+      "sentences": [
+        "They live in the **suburbs** of London.",
+        "Life in the **suburbs** is quieter than in the city.",
+        "Many families move to the **suburbs** for more space."
+      ]
+    },
+    {
+      "word": "Rural",
+      "pronunciation": "/ˈrʊrəl/",
+      "definition": "In, relating to, or characteristic of the countryside rather than the town.",
+      "sentences": [
+        "She grew up in a **rural** area.",
+        "Life in a **rural** village is peaceful.",
+        "The farm is in a **rural** setting."
+      ]
+    },
+    {
+      "word": "Urban",
+      "pronunciation": "/ˈɜːrbən/",
+      "definition": "In, relating to, or characteristic of a city or town.",
+      "sentences": [
+        "He prefers living in an **urban** environment.",
+        "**Urban** areas often have more job opportunities.",
+        "The city is undergoing rapid **urban** development."
+      ]
+    },
+    {
+      "word": "City",
+      "pronunciation": "/ˈsɪti/",
+      "definition": "A large town.",
+      "sentences": [
+        "New York is a very big **city**.",
+        "I love living in the **city**.",
+        "The **city** lights were beautiful at night."
+      ]
+    },
+    {
+      "word": "Town",
+      "pronunciation": "/taʊn/",
+      "definition": "A built-up area with a name, defined boundaries, and local government, that is larger than a village and generally smaller than a city.",
+      "sentences": [
+        "She lives in a small **town**.",
+        "The **town** square is very old.",
+        "He grew up in a quiet **town**."
+      ]
+    },
+    {
+      "word": "Village",
+      "pronunciation": "/ˈvɪlɪdʒ/",
+      "definition": "A group of houses and associated buildings, larger than a hamlet and smaller than a town, situated in a rural area.",
+      "sentences": [
+        "The small **village** is surrounded by mountains.",
+        "Life in the **village** is peaceful.",
+        "She visited her grandparents in the **village**."
+      ]
+    },
+    {
+      "word": "Dwelling",
+      "pronunciation": "/ˈdwɛlɪŋ/",
+      "definition": "A house, apartment, or other place of residence.",
+      "sentences": [
+        "The old cottage served as their humble **dwelling**.",
+        "Many ancient **dwellings** have been discovered.",
+        "This type of **dwelling** is common in rural areas."
+      ]
+    },
+    {
+      "word": "Residence",
+      "pronunciation": "/ˈrɛzɪdəns/",
+      "definition": "A person's home; the place where someone lives.",
+      "sentences": [
+        "His official **residence** is in the capital city.",
+        "The new building offers luxury **residences**.",
+        "She changed her place of **residence**."
+      ]
+    },
+    {
+      "word": "Abode",
+      "pronunciation": "/əˈboʊd/",
+      "definition": "A place of residence; a house or home.",
+      "sentences": [
+        "Welcome to my humble **abode**.",
+        "The ancient cave was a temporary **abode**.",
+        "He found a peaceful **abode** in the countryside."
+      ]
+    },
+    {
+      "word": "Shelter",
+      "pronunciation": "/ˈʃɛltər/",
+      "definition": "A place providing temporary protection from bad weather or danger.",
+      "sentences": [
+        "They sought **shelter** from the storm.",
+        "The animal **shelter** cares for abandoned pets.",
+        "A tent provides basic **shelter**."
+      ]
+    },
+    {
+      "word": "Accommodation",
+      "pronunciation": "/əˌkɑːməˈdeɪʃn/",
+      "definition": "A room, building, or lodging providing dwelling or lodging for people.",
+      "sentences": [
+        "We found cheap **accommodation** near the beach.",
+        "The hotel offers comfortable **accommodation**.",
+        "Student **accommodation** is available on campus."
+      ]
+    },
+    {
+      "word": "Lodging",
+      "pronunciation": "/ˈlɑːdʒɪŋ/",
+      "definition": "A place in which someone lives or stays temporarily.",
+      "sentences": [
+        "They found temporary **lodging** in a guesthouse.",
+        "The price includes board and **lodging**.",
+        "She sought affordable **lodging** for her trip."
+      ]
+    },
+    {
+      "word": "Habitat",
+      "pronunciation": "/ˈhæbɪˌtæt/",
+      "definition": "The natural home or environment of an animal, plant, or other organism.",
+      "sentences": [
+        "The forest is the natural **habitat** of many animals.",
+        "Loss of **habitat** threatens many species.",
+        "The polar bear's **habitat** is the Arctic."
+      ]
+    },
+    {
+      "word": "Environment",
+      "pronunciation": "/ɪnˈvaɪrənmənt/",
+      "definition": "The surroundings or conditions in which a person, animal, or plant lives or operates.",
+      "sentences": [
+        "Protecting our natural **environment** is important.",
+        "He thrives in a positive work **environment**.",
+        "The city **environment** is very busy."
+      ]
+    },
+    {
+      "word": "Lifestyle",
+      "pronunciation": "/ˈlaɪfˌstaɪl/",
+      "definition": "The way in which a person or group lives.",
+      "sentences": [
+        "Eating healthy is part of a healthy **lifestyle**.",
+        "His active **lifestyle** keeps him fit.",
+        "She enjoys a simple **lifestyle** in the countryside."
+      ]
+    },
+    {
+      "word": "Routine",
+      "pronunciation": "/ruːˈtiːn/",
+      "definition": "A sequence of actions regularly followed; a fixed program.",
+      "sentences": [
+        "My morning **routine** includes exercise.",
+        "Stick to a daily **routine** for better productivity.",
+        "Breaking your **routine** can be refreshing."
+      ]
+    },
+    {
+      "word": "Daily life",
+      "pronunciation": "/ˈdeɪli laɪf/",
+      "definition": "The ordinary activities of living.",
+      "sentences": [
+        "Technology has changed our **daily life**.",
+        "He enjoys the simple pleasures of **daily life**.",
+        "What is your typical **daily life** like?"
+      ]
+    },
+    {
+      "word": "Chores",
+      "pronunciation": "/tʃɔːrz/",
+      "definition": "A routine task, especially a household one.",
+      "sentences": [
+        "I have to do my **chores** before playing.",
+        "Sharing **chores** makes housework easier.",
+        "My least favorite **chore** is cleaning the bathroom."
+      ]
+    },
+    {
+      "word": "Errands",
+      "pronunciation": "/ˈɛrəndz/",
+      "definition": "A short journey undertaken in order to deliver or collect something, especially on someone else's behalf.",
+      "sentences": [
+        "I need to run some **errands** this afternoon.",
+        "She spent the morning doing her **errands**.",
+        "He went out to do some quick **errands**."
+      ]
+    },
+    {
+      "word": "Groceries",
+      "pronunciation": "/ˈɡroʊsəriz/",
+      "definition": "Items of food and other household supplies sold by a grocer.",
+      "sentences": [
+        "I need to buy **groceries** for the week.",
+        "She went to the supermarket to get **groceries**.",
+        "He carried the heavy bags of **groceries**."
+      ]
+    },
+    {
+      "word": "Shopping",
+      "pronunciation": "/ˈʃɑːpɪŋ/",
+      "definition": "The activity of buying goods from stores.",
+      "sentences": [
+        "I enjoy going **shopping** for new clothes.",
+        "We went **shopping** for Christmas gifts.",
+        "Online **shopping** is very convenient."
+      ]
+    },
+    {
+      "word": "Meal",
+      "pronunciation": "/miːl/",
+      "definition": "An occasion when food is eaten, or the food that is eaten on such an occasion.",
+      "sentences": [
+        "Breakfast is the first **meal** of the day.",
+        "We had a delicious **meal** together.",
+        "She prepares healthy **meals** for her family."
+      ]
+    },
+    {
+      "word": "Cooking",
+      "pronunciation": "/ˈkʊkɪŋ/",
+      "definition": "The activity or skill of preparing and cooking food.",
+      "sentences": [
+        "I love **cooking** new recipes.",
+        "He enjoys **cooking** for his friends.",
+        "**Cooking** can be a relaxing hobby."
+      ]
+    },
+    {
+      "word": "Cleaning",
+      "pronunciation": "/ˈkliːnɪŋ/",
+      "definition": "The action of making something clean.",
+      "sentences": [
+        "Weekend **cleaning** takes a lot of time.",
+        "She enjoys deep **cleaning** her house.",
+        "The room needs a thorough **cleaning**."
+      ]
+    },
+    {
+      "word": "Laundry",
+      "pronunciation": "/ˈlɔːndri/",
+      "definition": "Clothes and other fabric items that need to be washed or have just been washed.",
+      "sentences": [
+        "I need to do a load of **laundry**.",
+        "The **laundry** basket is full.",
+        "She folded the clean **laundry**."
+      ]
+    },
+    {
+      "word": "Gardening",
+      "pronunciation": "/ˈɡɑːrdnɪŋ/",
+      "definition": "The activity of cultivating and maintaining a garden.",
+      "sentences": [
+        "My mom loves **gardening** in her free time.",
+        "**Gardening** can be a very relaxing hobby.",
+        "He spent the afternoon **gardening**."
+      ]
+    },
+    {
+      "word": "Maintenance",
+      "pronunciation": "/ˈmeɪntənəns/",
+      "definition": "The process of maintaining or preserving something or someone.",
+      "sentences": [
+        "Regular house **maintenance** is important.",
+        "Car **maintenance** helps prevent breakdowns.",
+        "He is responsible for the building's **maintenance**."
+      ]
+    },
+    {
+      "word": "Repair",
+      "pronunciation": "/rɪˈpɛər/",
+      "definition": "To restore (something damaged, faulty, or worn) to a good condition.",
+      "sentences": [
+        "I need to **repair** the broken chair.",
+        "The car needs a major **repair**.",
+        "He is good at doing home **repairs**."
+      ]
+    },
+    {
+      "word": "Renovation",
+      "pronunciation": "/ˌrɛnəˈveɪʃn/",
+      "definition": "The action of renovating a building.",
+      "sentences": [
+        "The kitchen underwent a major **renovation**.",
+        "The house needs a complete **renovation**.",
+        "They planned a big **renovation** project."
+      ]
+    },
+    {
+      "word": "Household budget",
+      "pronunciation": "/ˈhaʊsˌhoʊld ˈbʌdʒɪt/",
+      "definition": "A financial plan that allocates future income to expenses for a household.",
+      "sentences": [
+        "We need to create a **household budget** to manage our money.",
+        "Sticking to a **household budget** is important.",
+        "The **household budget** helps us save for big purchases."
+      ]
+    },
+    {
+      "word": "Expenses",
+      "pronunciation": "/ɪkˈspɛnsɪz/",
+      "definition": "The cost of something; the money spent on something.",
+      "sentences": [
+        "Our monthly **expenses** include rent and utilities.",
+        "Keep track of your daily **expenses**.",
+        "Travel **expenses** can add up quickly."
+      ]
+    },
+    {
+      "word": "Savings",
+      "pronunciation": "/ˈseɪvɪŋz/",
+      "definition": "Money one has saved, especially through a bank or other financial institution.",
+      "sentences": [
+        "She puts a portion of her income into **savings**.",
+        "He used his **savings** to buy a car.",
+        "Building up your **savings** is a good financial habit."
+      ]
+    },
+    {
+      "word": "Income",
+      "pronunciation": "/ˈɪnkʌm/",
+      "definition": "Money received, especially on a regular basis, for work or through investments.",
+      "sentences": [
+        "His monthly **income** covers all his expenses.",
+        "They have a steady **income**.",
+        "She manages her **income** carefully."
+      ]
+    },
+    {
+      "word": "Bills",
+      "pronunciation": "/bɪlz/",
+      "definition": "A statement of money owed for goods or services supplied.",
+      "sentences": [
+        "I need to pay the electricity **bill**.",
+        "My phone **bill** is due next week.",
+        "Keep track of all your **bills**."
+      ]
+    },
+    {
+      "word": "Mortgage payment",
+      "pronunciation": "/ˈmɔːrɡɪdʒ ˈpeɪmənt/",
+      "definition": "The regular payment made to a lender for a mortgage loan.",
+      "sentences": [
+        "Our monthly **mortgage payment** is due on the first.",
+        "He works hard to afford his **mortgage payment**.",
+        "The **mortgage payment** is a significant expense."
+      ]
+    },
+    {
+      "word": "Rent payment",
+      "pronunciation": "/rɛnt ˈpeɪmənt/",
+      "definition": "The regular payment made to a landlord for the use of property.",
+      "sentences": [
+        "The **rent payment** is due on the first of the month.",
+        "She made her **rent payment** online.",
+        "He sometimes struggles to make his **rent payment** on time."
+      ]
+    },
+    {
+      "word": "Utilities",
+      "pronunciation": "/juːˈtɪlətiz/",
+      "definition": "Public services such as electricity, water, or gas.",
+      "sentences": [
+        "Our monthly **utilities** bill includes electricity and water.",
+        "They try to save on **utilities** by turning off lights.",
+        "The apartment includes all **utilities**."
+      ]
+    },
+    {
+      "word": "Insurance",
+      "pronunciation": "/ɪnˈʃʊrəns/",
+      "definition": "A practice or arrangement by which a company or government agency provides a guarantee of compensation for specified loss, damage, illness, or death in return for payment of a premium.",
+      "sentences": [
+        "You need home **insurance** to protect your house.",
+        "My car **insurance** policy is due for renewal.",
+        "She pays a monthly premium for her **insurance**."
+      ]
+    },
+    {
+      "word": "Property taxes",
+      "pronunciation": "/ˈprɑːpərti ˈtæksɪz/",
+      "definition": "Taxes levied on real estate by a local government.",
+      "sentences": [
+        "Homeowners have to pay annual **property taxes**.",
+        "The amount of **property taxes** depends on the value of the home.",
+        "Rising **property taxes** can be a burden."
+      ]
+    },
+    {
+      "word": "Homeowner",
+      "pronunciation": "/ˈhoʊmˌoʊnər/",
+      "definition": "A person who owns a house.",
+      "sentences": [
+        "The new **homeowner** is excited to move in.",
+        "Being a **homeowner** comes with responsibilities.",
+        "Many **homeowners** take pride in their gardens."
+      ]
+    },
+    {
+      "word": "Resident",
+      "pronunciation": "/ˈrɛzɪdənt/",
+      "definition": "A person who lives somewhere permanently or on a long-term basis.",
+      "sentences": [
+        "She is a long-term **resident** of this town.",
+        "All **residents** are invited to the community meeting.",
+        "He is a legal **resident** of the country."
+      ]
+    },
+    {
+      "word": "Neighbor",
+      "pronunciation": "/ˈneɪbər/",
+      "definition": "A person living next door to or very near to the speaker or person referred to.",
+      "sentences": [
+        "Our new **neighbor** is very friendly.",
+        "I borrowed some sugar from my **neighbor**.",
+        "He helped his elderly **neighbor** with groceries."
+      ]
+    },
+    {
+      "word": "Community spirit",
+      "pronunciation": "/kəˈmjuːnɪti ˈspɪrɪt/",
+      "definition": "The feeling of belonging to a community and being willing to help others in it.",
+      "sentences": [
+        "The town has a strong **community spirit**.",
+        "Volunteering helps build **community spirit**.",
+        "There was a great sense of **community spirit** after the storm."
+      ]
+    },
+    {
+      "word": "Local amenities",
+      "pronunciation": "/ˈloʊkl əˈmɛnətiz/",
+      "definition": "Facilities or services that make a place pleasant or convenient.",
+      "sentences": [
+        "The neighborhood has excellent **local amenities** like parks and shops.",
+        "We chose this area for its good **local amenities**.",
+        "Access to **local amenities** improves quality of life."
+      ]
+    },
+    {
+      "word": "Public transport",
+      "pronunciation": "/ˈpʌblɪk ˈtrænspɔːrt/",
+      "definition": "A system of buses, trains, etc., provided for general use.",
+      "sentences": [
+        "I use **public transport** to get to work.",
+        "The city has an efficient **public transport** system.",
+        "Using **public transport** helps reduce traffic."
+      ]
+    },
+    {
+      "word": "Commute",
+      "pronunciation": "/kəˈmjuːt/",
+      "definition": "To travel some distance regularly between one's home and one's place of work or study.",
+      "sentences": [
+        "My daily **commute** to work is an hour long.",
+        "He has a long **commute** every day.",
+        "She enjoys her short **commute** by bike."
+      ]
+    },
+    {
+      "word": "Neighborhood watch",
+      "pronunciation": "/ˈneɪbərˌhʊd wɑːtʃ/",
+      "definition": "An organized group of citizens who patrol a neighborhood to prevent crime.",
+      "sentences": [
+        "Our **neighborhood watch** helps keep the area safe.",
+        "Join the **neighborhood watch** to protect your community.",
+        "The **neighborhood watch** group meets monthly."
+      ]
+    },
+    {
+      "word": "Home security",
+      "pronunciation": "/hoʊm sɪˈkjʊrəti/",
+      "definition": "Measures taken to protect a home from intruders or other dangers.",
+      "sentences": [
+        "Investing in good **home security** is important.",
+        "An alarm system is part of our **home security**.",
+        "He upgraded his **home security** system."
+      ]
+    },
+    {
+      "word": "Peace of mind",
+      "pronunciation": "/piːs əv maɪnd/",
+      "definition": "A state of mental or emotional calm.",
+      "sentences": [
+        "Knowing my family is safe gives me **peace of mind**.",
+        "Good insurance provides **peace of mind**.",
+        "He found **peace of mind** after resolving the issue."
+      ]
+    },
+    {
+      "word": "Comfort",
+      "pronunciation": "/ˈkʌmfərt/",
+      "definition": "A state of physical ease and freedom from pain or constraint.",
+      "sentences": [
+        "The new sofa provides great **comfort**.",
+        "She found **comfort** in her warm blanket.",
+        "Home should be a place of **comfort**."
+      ]
+    },
+    {
+      "word": "Cozy",
+      "pronunciation": "/ˈkoʊzi/",
+      "definition": "Giving a feeling of comfort, warmth, and relaxation.",
+      "sentences": [
+        "The small cottage felt very **cozy**.",
+        "She loves her **cozy** reading nook.",
+        "The cafe has a **cozy** atmosphere."
+      ]
+    },
+    {
+      "word": "Spacious",
+      "pronunciation": "/ˈspeɪʃəs/",
+      "definition": "Having ample space.",
+      "sentences": [
+        "The living room is very **spacious**.",
+        "They bought a **spacious** new house.",
+        "The apartment has a **spacious** balcony."
+      ]
+    },
+    {
+      "word": "Cluttered",
+      "pronunciation": "/ˈklʌtərd/",
+      "definition": "Filled or crowded to an unpleasantly or untidily extent.",
+      "sentences": [
+        "My desk is always **cluttered** with papers.",
+        "The room looked **cluttered** with too much furniture.",
+        "She tried to declutter her **cluttered** closet."
+      ]
+    },
+    {
+      "word": "Tidy",
+      "pronunciation": "/ˈtaɪdi/",
+      "definition": "Arranged neatly and in order.",
+      "sentences": [
+        "Keep your room **tidy**.",
+        "She likes her house to be very **tidy**.",
+        "He always leaves his workspace **tidy**."
+      ]
+    },
+    {
+      "word": "Messy",
+      "pronunciation": "/ˈmɛsi/",
+      "definition": "Untidy or dirty.",
+      "sentences": [
+        "My brother's room is always **messy**.",
+        "Don't make a **messy** kitchen.",
+        "The children left a **messy** playroom."
+      ]
+    },
+    {
+      "word": "Organized",
+      "pronunciation": "/ˈɔːrɡəˌnaɪzd/",
+      "definition": "Arranged in a systematic way; efficient and orderly.",
+      "sentences": [
+        "She keeps her closet very **organized**.",
+        "An **organized** home makes life easier.",
+        "He is a highly **organized** person."
+      ]
+    },
+    {
+      "word": "Declutter",
+      "pronunciation": "/diːˈklʌtər/",
+      "definition": "To remove unnecessary items from (an untidy or overcrowded place).",
+      "sentences": [
+        "I need to **declutter** my wardrobe.",
+        "She spent the weekend trying to **declutter** her home.",
+        "**Decluttering** can make your space feel bigger."
+      ]
+    }
+  ]
+}

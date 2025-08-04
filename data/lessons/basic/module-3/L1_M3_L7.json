@@ -1,0 +1,355 @@
+{
+  "level": "Beginner",
+  "module": "GRAMMAR BASICS",
+  "lesson_number": 7,
+  "lesson_title": "Compound Words: Two Words Make One New Word",
+  "objectives": [
+    "Understand that compound words are formed by joining two or more smaller words.",
+    "Learn to identify common compound words used in daily life and school.",
+    "Practice making new compound words by combining simple words."
+  ],
+  "topics": [
+    {
+      "title": "1. What is a Compound Word?",
+      "subtopics": [
+        {
+          "title": "1.1. Joining Two Words for a New Meaning",
+          "sections": [
+            {
+              "text": "A compound word is a word made by joining two or more smaller, full words together. When these two words come together, they form a new word with a new meaning. Think of it like adding two different fruits to make a new kind of juice!",
+              "examples": [
+                {
+                  "label": "Word 1 + Word 2 = Compound Word",
+                  "value": "Sun + light = Sunlight"
+                },
+                {
+                  "label": "Word 1 + Word 2 = Compound Word",
+                  "value": "Rain + fall = Rainfall"
+                },
+                {
+                  "label": "Word 1 + Word 2 = Compound Word",
+                  "value": "Farm + house = Farmhouse"
+                },
+                {
+                  "label": "Word 1 + Word 2 = Compound Word",
+                  "value": "Back + pack = Backpack"
+                }
+              ],
+              "usage_examples": [
+                "The **sunlight** helps our crops grow.",
+                "We get a lot of **rainfall** during monsoon season.",
+                "My grandfather lives in an old **farmhouse**.",
+                "I carry my books in my **backpack**.",
+                "The **moonlight** was bright last night.",
+                "We play **football** in the field."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Types of Compound Words",
+      "subtopics": [
+        {
+          "title": "2.1. Closed Compound Words (One Word)",
+          "sections": [
+            {
+              "text": "These are compound words where the two words are joined together to form a single word without any space or hyphen. They look like one complete word.",
+              "examples": [
+                {
+                  "label": "classroom",
+                  "value": "class + room = classroom (where we study)"
+                },
+                {
+                  "label": "blackboard",
+                  "value": "black + board = blackboard (where teachers write)"
+                },
+                {
+                  "label": "bedroom",
+                  "value": "bed + room = bedroom (where we sleep)"
+                },
+                {
+                  "label": "sunflower",
+                  "value": "sun + flower = sunflower (a tall yellow flower)"
+                },
+                {
+                  "label": "notebook",
+                  "value": "note + book = notebook (for writing notes)"
+                }
+              ],
+              "usage_examples": [
+                "Our **classroom** is very clean.",
+                "The teacher wrote on the **blackboard**.",
+                "I sleep in my **bedroom**.",
+                "Many **sunflowers** grow near our village.",
+                "Write your homework in your **notebook**.",
+                "The **farmhouse** is old but strong.",
+                "My **schoolbag** is heavy today.",
+                "We had **lunchtime** after prayers."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.2. Hyphenated Compound Words (With a Hyphen -)",
+          "sections": [
+            {
+              "text": "Sometimes, the two words are joined by a small line called a hyphen (-). This helps keep the words clear, especially when they are used as one idea.",
+              "examples": [
+                {
+                  "label": "sister-in-law",
+                  "value": "sister + in + law = sister-in-law (your spouse's sister)"
+                },
+                {
+                  "label": "well-known",
+                  "value": "well + known = well-known (famous or widely recognized)"
+                },
+                {
+                  "label": "mother-in-law",
+                  "value": "mother + in + law = mother-in-law (your spouse's mother)"
+                },
+                {
+                  "label": "long-term",
+                  "value": "long + term = long-term (lasting for a long period)"
+                }
+              ],
+              "usage_examples": [
+                "My **sister-in-law** visited us last week.",
+                "Our Sarpanch is a **well-known** person in the district.",
+                "My **mother-in-law** makes delicious sweets.",
+                "We need a **long-term** plan for water storage in the village.",
+                "He gave a **heart-warming** speech."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "2.3. Open Compound Words (Two Separate Words)",
+          "sections": [
+            {
+              "text": "In this type, the two words are written separately, but they work together to form a single idea or meaning. You can often tell it's a compound word because the two words commonly appear together.",
+              "examples": [
+                {
+                  "label": "post office",
+                  "value": "post office (place to send letters)"
+                },
+                {
+                  "label": "full moon",
+                  "value": "full moon (when the moon is fully visible)"
+                },
+                {
+                  "label": "living room",
+                  "value": "living room (a room in a house for general use)"
+                },
+                {
+                  "label": "ice cream",
+                  "value": "ice cream (a frozen sweet treat)"
+                },
+                {
+                  "label": "school bus",
+                  "value": "school bus (a bus for taking children to school)"
+                }
+              ],
+              "usage_examples": [
+                "I went to the **post office** to send a letter.",
+                "We saw a **full moon** last night.",
+                "My family sits in the **living room** every evening.",
+                "Children love to eat **ice cream** in summer.",
+                "The **school bus** picks up students from the village.",
+                "Always drink **fresh water**."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              },
+              "table": {
+                "title": "Types of Compound Words",
+                "headers": ["Type", "How they look", "Example"],
+                "rows": [
+                  ["Closed", "Joined as one word", "classroom, farmhouse"],
+                  ["Hyphenated", "Joined with a hyphen (-)", "well-known, sister-in-law"],
+                  ["Open", "Written as separate words, but one idea", "post office, school bus"]
+                ]
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "3. Common Compound Words in Our Daily Life",
+      "subtopics": [
+        {
+          "title": "3.1. Compound Words at Home and School",
+          "sections": [
+            {
+              "text": "Many things we use and see around our home and school are named with compound words. Learning these helps us speak about our daily surroundings.",
+              "examples": [
+                {
+                  "label": "bedroom",
+                  "value": "The room where you keep your bed and sleep."
+                },
+                {
+                  "label": "bathroom",
+                  "value": "The room where you bathe and wash."
+                },
+                {
+                  "label": "lunchbox",
+                  "value": "A box used to carry your lunch to school or work."
+                },
+                {
+                  "label": "homework",
+                  "value": "Work given by the teacher to be done at home."
+                },
+                {
+                  "label": "playground",
+                  "value": "An outdoor area for children to play, often at school."
+                }
+              ],
+              "usage_examples": [
+                "My **bedroom** has a small window.",
+                "Remember to wash your hands in the **bathroom**.",
+                "Did you pack your **lunchbox** this morning?",
+                "I finished all my **homework** before playing.",
+                "We play kabaddi in the school **playground**.",
+                "The **blackboard** is cleaned every day.",
+                "My **notebook** is full of my writings.",
+                "We have school on **weekdays** (Monday to Friday)."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "3.2. Compound Words in Our Village and Nature",
+          "sections": [
+            {
+              "text": "Our village life and nature also have many things named with compound words. These words help us talk about our surroundings.",
+              "examples": [
+                {
+                  "label": "farmhouse",
+                  "value": "A house on a farm, where the farmer lives."
+                },
+                {
+                  "label": "wellwater",
+                  "value": "Water that comes from a well."
+                },
+                {
+                  "label": "marketplace",
+                  "value": "An open area where people buy and sell goods."
+                },
+                {
+                  "label": "sunlight",
+                  "value": "The light that comes from the sun."
+                },
+                {
+                  "label": "rainfall",
+                  "value": "The amount of rain that falls in an area."
+                }
+              ],
+              "usage_examples": [
+                "Our **farmhouse** is surrounded by green fields.",
+                "We use **wellwater** for drinking and cooking.",
+                "The **marketplace** is very crowded on Sundays.",
+                "We need good **sunlight** for our crops to grow.",
+                "Heavy **rainfall** helps fill our village pond.",
+                "The **treetops** were swaying in the wind.",
+                "The children like to play near the **riverside**.",
+                "We saw many **wildflowers** in the forest.",
+                "The **postman** delivers letters to our homes."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "4. Creating New Compound Words",
+      "subtopics": [
+        {
+          "title": "4.1. Combining Common Words",
+          "sections": [
+            {
+              "text": "You can try to make your own compound words by joining two words that you already know. Think about how their meanings combine to make a new sense.",
+              "examples": [
+                {
+                  "label": "Word 1: Basket + Word 2: Ball",
+                  "value": "Basket + ball = **Basketball** (a game played with a ball and a basket)"
+                },
+                {
+                  "label": "Word 1: Gold + Word 2: Fish",
+                  "value": "Gold + fish = **Goldfish** (a small, golden fish often kept as a pet)"
+                },
+                {
+                  "label": "Word 1: Key + Word 2: Board",
+                  "value": "Key + board = **Keyboard** (used for typing on a computer, or a musical instrument)"
+                },
+                {
+                  "label": "Word 1: Pan + Word 2: Cake",
+                  "value": "Pan + cake = **Pancake** (a flat, round cake cooked in a pan)"
+                }
+              ],
+              "usage_examples": [
+                "Let's play **basketball** in the evening.",
+                "My brother has a **goldfish** in a small bowl.",
+                "I typed my homework on the computer **keyboard**.",
+                "My mother made fresh **pancakes** for breakfast.",
+                "Can you make a compound word with 'sun' and 'set'?",
+                "Try to combine 'door' and 'bell' to make a new word."
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        },
+        {
+          "title": "4.2. Understanding Combined Meanings",
+          "sections": [
+            {
+              "text": "When you make or find a compound word, think about the meaning of each small word, and then how they come together to form the new meaning. This helps you understand the compound word better.",
+              "examples": [
+                {
+                  "label": "Birdhouse",
+                  "value": "Bird (an animal) + house (a home) = a house for birds."
+                },
+                {
+                  "label": "Blackbird",
+                  "value": "Black (a color) + bird (an animal) = a specific type of bird that is black."
+                },
+                {
+                  "label": "Toothbrush",
+                  "value": "Tooth (part of your mouth) + brush (to clean) = a brush for cleaning teeth."
+                }
+              ],
+              "usage_examples": [
+                "My father built a **birdhouse** in our garden.",
+                "I saw a **blackbird** singing on the tree.",
+                "Always use a **toothbrush** to clean your teeth twice a day.",
+                "Think about 'rain' and 'coat'. What does 'raincoat' mean?",
+                "What is the meaning of 'firefighter'?"
+              ],
+              "media": {
+                "image": "images/basic/module-3/lesson-7/p"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+
+{
+  "level": "Beginner",
+  "module": "BASIC VOCABULARY",
+  "lesson_number": 5,
+  "lesson_title": "Musical Instruments and Professions",
+  "objectives": [
+    "Learn the names of common musical instruments.",
+    "Identify and name different professions and the work people do.",
+    "Use these words to talk about music and jobs."
+  ],
+  "topics": [
+    {
+      "title": "1. Musical Instruments",
+      "subtopics": [
+        {
+          "title": "Names of Musical Instruments",
+          "sections": [
+            {
+              "text": "These are words for different instruments that people play to create music. Some are played by blowing, some by hitting, and some by using strings.",
+              "examples": [
+                {
+                  "label": "Guitar",
+                  "value": "A stringed instrument with a long neck, played by plucking or strumming the strings."
+                },
+                {
+                  "label": "Piano",
+                  "value": "A large keyboard instrument with black and white keys that are pressed to make sound."
+                },
+                {
+                  "label": "Keyboard",
+                  "value": "An electronic instrument similar to a piano but smaller and portable."
+                },
+                {
+                  "label": "Drums",
+                  "value": "A set of percussion instruments, like drums and cymbals, hit with sticks to create rhythm."
+                },
+                {
+                  "label": "Flute (Bansuri)",
+                  "value": "A wind instrument made from a tube with holes, played by blowing across a hole at one end."
+                },
+                {
+                  "label": "Violin",
+                  "value": "A stringed instrument played with a bow, held under the chin."
+                },
+                {
+                  "label": "Trumpet",
+                  "value": "A brass wind instrument with a flared bell, played by buzzing the lips into a mouthpiece."
+                },
+                {
+                  "label": "Sitar",
+                  "value": "A traditional Indian stringed instrument with a long neck and a gourd body."
+                },
+                {
+                  "label": "Tabla",
+                  "value": "A pair of small hand drums from India, a main instrument in classical music."
+                },
+                {
+                  "label": "Harmonium",
+                  "value": "A keyboard instrument where air is pumped through reeds with bellows."
+                },
+                {
+                  "label": "Dholak",
+                  "value": "A traditional two-headed hand drum from India, often used in folk music."
+                },
+                {
+                  "label": "Veena",
+                  "value": "A large, ancient Indian stringed instrument, important in Carnatic classical music."
+                },
+                {
+                  "label": "Shehnai",
+                  "value": "A traditional Indian wind instrument, often played at weddings and auspicious occasions."
+                },
+                {
+                  "label": "Mridangam",
+                  "value": "A barrel-shaped, two-headed drum from Southern India."
+                },
+                {
+                  "label": "Saxophone",
+                  "value": "A curved, metal wind instrument used in jazz and classical music."
+                },
+                {
+                  "label": "Bell",
+                  "value": "A cup-shaped metal instrument that makes a ringing sound when struck."
+                },
+                {
+                  "label": "Cymbals (Manjira)",
+                  "value": "Two round metal plates that are struck together to make a ringing sound."
+                },
+                {
+                  "label": "Tambourine (Khanjari)",
+                  "value": "A small drum with metal jingles around the edge, played by shaking or hitting."
+                },
+                {
+                  "label": "Xylophone",
+                  "value": "An instrument with wooden bars of different lengths that are struck with mallets."
+                },
+                {
+                  "label": "Mouth Organ (Harmonica)",
+                  "value": "A small rectangular wind instrument played by blowing and drawing air through reeds."
+                },
+                {
+                  "label": "Santoor",
+                  "value": "An Indian stringed instrument with many strings, played by striking with small wooden mallets."
+                },
+                {
+                  "label": "Sarod",
+                  "value": "A fretless stringed instrument used mainly in Indian classical music."
+                },
+                {
+                  "label": "Gong",
+                  "value": "A large metal disc that is hit with a mallet to produce a deep sound."
+                },
+                {
+                  "label": "Conch (Shankh)",
+                  "value": "A large seashell that is blown like a horn, used in religious ceremonies."
+                },
+                {
+                  "label": "Accordion",
+                  "value": "A portable box-shaped instrument with a keyboard and bellows."
+                }
+              ],
+              "usage_examples": [
+                "My brother is learning to play the guitar.",
+                "The musician played the piano beautifully.",
+                "The flute has a very sweet sound.",
+                "In the village procession, a man was playing the dholak with great energy.",
+                "The temple bell rings in the morning and evening.",
+                "She played a beautiful melody on her sitar.",
+                "The tabla player accompanied the singer.",
+                "A shehnai was being played at the wedding.",
+                "We heard the sound of a conch shell from the temple.",
+                "The band had a drummer, a guitarist, and a keyboard player."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-5/p1"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "2. Professions and Work",
+      "subtopics": [
+        {
+          "title": "Names of Professions",
+          "sections": [
+            {
+              "text": "These are the names for the different jobs or work that people do to earn a living and help the community.",
+              "examples": [
+                {
+                  "label": "Teacher",
+                  "value": "A person who teaches students in a school."
+                },
+                {
+                  "label": "Doctor",
+                  "value": "A person who treats sick people."
+                },
+                {
+                  "label": "Farmer",
+                  "value": "A person who grows crops and raises animals on a farm."
+                },
+                {
+                  "label": "Engineer",
+                  "value": "A person who designs and builds things like bridges, roads, and machines."
+                },
+                {
+                  "label": "Police Officer",
+                  "value": "A person who maintains law and order and protects people."
+                },
+                {
+                  "label": "Soldier",
+                  "value": "A person who serves in an army and protects the country."
+                },
+                {
+                  "label": "Driver",
+                  "value": "A person who drives a vehicle like a bus, car, or truck."
+                },
+                {
+                  "label": "Shopkeeper",
+                  "value": "A person who owns or manages a shop."
+                },
+                {
+                  "label": "Postman",
+                  "value": "A person who delivers letters and parcels."
+                },
+                {
+                  "label": "Carpenter",
+                  "value": "A person who makes and repairs wooden objects and furniture."
+                },
+                {
+                  "label": "Plumber",
+                  "value": "A person who installs and repairs water pipes and taps."
+                },
+                {
+                  "label": "Electrician",
+                  "value": "A person who installs and repairs electrical wiring."
+                },
+                {
+                  "label": "Mason",
+                  "value": "A person who builds with bricks, stones, or cement."
+                },
+                {
+                  "label": "Mechanic",
+                  "value": "A person who repairs machines, especially vehicles."
+                },
+                {
+                  "label": "Blacksmith",
+                  "value": "A person who makes and repairs things made of iron."
+                },
+                {
+                  "label": "Goldsmith",
+                  "value": "A person who makes and repairs jewelry from gold."
+                },
+                {
+                  "label": "Potter",
+                  "value": "A person who makes pots and other items from clay."
+                },
+                {
+                  "label": "Weaver",
+                  "value": "A person who weaves cloth from thread."
+                },
+                {
+                  "label": "Tailor",
+                  "value": "A person who stitches and alters clothes."
+                },
+                {
+                  "label": "Lawyer",
+                  "value": "A person who advises people about the law and represents them in court."
+                },
+                {
+                  "label": "Judge",
+                  "value": "A person who decides cases in a court of law."
+                },
+                {
+                  "label": "Scientist",
+                  "value": "A person who studies science and does research."
+                },
+                {
+                  "label": "Artist",
+                  "value": "A person who creates art, like paintings or sculptures."
+                },
+                {
+                  "label": "Writer / Author",
+                  "value": "A person who writes books, stories, or articles."
+                },
+                {
+                  "label": "Singer",
+                  "value": "A person who sings songs."
+                },
+                {
+                  "label": "Dancer",
+                  "value": "A person who dances professionally."
+                },
+                {
+                  "label": "Pilot",
+                  "value": "A person who flies an airplane."
+                },
+                {
+                  "label": "Chef / Cook",
+                  "value": "A person who prepares food, especially in a restaurant."
+                },
+                {
+                  "label": "Nurse",
+                  "value": "A person who is trained to care for sick or injured people."
+                },
+                {
+                  "label": "Firefighter",
+                  "value": "A person who puts out fires."
+                },
+                {
+                  "label": "Barber",
+                  "value": "A person who cuts hair and shaves beards."
+                },
+                {
+                  "label": "Cobbler",
+                  "value": "A person who mends shoes."
+                },
+                {
+                  "label": "Sweeper / Cleaner",
+                  "value": "A person who cleans public places like streets and buildings."
+                }
+              ],
+              "usage_examples": [
+                "The teacher explained the lesson to the students.",
+                "We go to a doctor when we are sick.",
+                "The farmer works hard in the fields all day.",
+                "The police officer caught the thief.",
+                "A soldier defends our country's borders.",
+                "The bus driver takes children to school.",
+                "The carpenter made a new table for our house.",
+                "We called a plumber to fix the leaking tap.",
+                "A mason is building the new school wall.",
+                "The mechanic repaired my father's motorcycle.",
+                "The potter sells beautiful clay pots at the village market.",
+                "My mother gave her sari to the tailor to be altered.",
+                "A scientist works in a laboratory.",
+                "The singer has a very melodious voice.",
+                "A pilot flies high in the sky.",
+                "The nurse gave the patient an injection.",
+                "My brother goes to the barber for a haircut.",
+                "The cobbler mended my broken sandal."
+              ],
+              "media": {
+                "image": "images/basic/module-2/lesson-5/p2"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
+
