@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "He said, 'I am happy.' Change into indirect speech.",
+          "options": ["He said that he is happy.", "He said that he was happy.", "He says that he was happy.", "He said that I was happy."],
+          "correct_answer": "He said that he was happy.",
+          "grammar_type": "Direct and Indirect Speech"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "She said, 'I play cricket.' Change into indirect speech.",
+          "options": ["She said that she plays cricket.", "She said that she is playing cricket.", "She said that she played cricket.", "She said that I played cricket."],
+          "correct_answer": "She said that she played cricket.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 3,
+          "question": "They said, 'We are going home.' Change into indirect speech.",
+          "options": ["They said that they were going home.", "They said that we were going home.", "They said that they are going home.", "They said they went home."],
+          "correct_answer": "They said that they were going home.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 4,
+          "question": "Ram said, 'I am writing a letter.' Change into indirect speech.",
+          "options": ["Ram said that he is writing a letter.", "Ram said that I am writing a letter.", "Ram said that he writes a letter.", "Ram said that he was writing a letter."],
+          "correct_answer": "Ram said that he was writing a letter.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 5,
+          "question": "The teacher said, 'The Earth is round.' Change into indirect speech.",
+          "options": ["The teacher said that the Earth was round.", "The teacher said that the Earth is round.", "The teacher says that the Earth was round.", "The teacher said that the Earth had been round."],
+          "correct_answer": "The teacher said that the Earth is round.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 6,
+          "question": "Sita said, 'I can sing.' Change into indirect speech.",
+          "options": ["Sita said that she can sing.", "Sita said that she could sing.", "Sita said that I could sing.", "Sita says that she could sing."],
+          "correct_answer": "Sita said that she could sing.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 7,
+          "question": "He said, 'I will come tomorrow.' Change into indirect speech.",
+          "options": ["He said that he will come the next day.", "He said that he would come tomorrow.", "He said that he would come the next day.", "He said that he will be coming tomorrow."],
+          "correct_answer": "He said that he would come the next day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 8,
+          "question": "She said, 'I am not well.' Change into indirect speech.",
+          "options": ["She said that she is not well.", "She said that she was not well.", "She said that I was not well.", "She says that she is not well."],
+          "correct_answer": "She said that she was not well.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 9,
+          "question": "They said, 'We love our country.' Change into indirect speech.",
+          "options": ["They said that they love their country.", "They said that we loved our country.", "They said that they loved their country.", "They said that they are loving their country."],
+          "correct_answer": "They said that they loved their country.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 10,
+          "question": "He said, 'I am busy now.' Change into indirect speech.",
+          "options": ["He said that he was busy now.", "He said that he is busy then.", "He said that he was busy then.", "He said that I was busy then."],
+          "correct_answer": "He said that he was busy then.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 11,
+          "question": "My friend said, 'I saw a movie yesterday.' Change into indirect speech.",
+          "options": ["My friend said that he had seen a movie the previous day.", "My friend said that he saw a movie yesterday.", "My friend said that he has seen a movie the previous day.", "My friend said that I had seen a movie yesterday."],
+          "correct_answer": "My friend said that he had seen a movie the previous day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 12,
+          "question": "The boy said, 'I want a new toy.' Change into indirect speech.",
+          "options": ["The boy said that he wants a new toy.", "The boy said that he wanted a new toy.", "The boy says that he wanted a new toy.", "The boy said that I wanted a new toy."],
+          "correct_answer": "The boy said that he wanted a new toy.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 13,
+          "question": "Anil said, 'I have done my homework.' Change into indirect speech.",
+          "options": ["Anil said that he has done his homework.", "Anil said that he had done his homework.", "Anil said that he did his homework.", "Anil said that he was doing his homework."],
+          "correct_answer": "Anil said that he had done his homework.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 14,
+          "question": "She says, 'I am a teacher.' Change into indirect speech.",
+          "options": ["She says that she was a teacher.", "She said that she was a teacher.", "She says that she is a teacher.", "She says that I am a teacher."],
+          "correct_answer": "She says that she is a teacher.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 15,
+          "question": "He said, 'This is my book.' Change into indirect speech.",
+          "options": ["He said that this was his book.", "He said that that was my book.", "He said that that was his book.", "He said that this is his book."],
+          "correct_answer": "He said that that was his book.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 16,
+          "question": "Riya said, 'I am playing the piano.' Change into indirect speech.",
+          "options": ["Riya said that she is playing the piano.", "Riya said that I was playing the piano.", "Riya said that she was playing the piano.", "Riya said she played the piano."],
+          "correct_answer": "Riya said that she was playing the piano.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 17,
+          "question": "He said, 'I may buy a car.' Change into indirect speech.",
+          "options": ["He said that he may buy a car.", "He said that he might buy a car.", "He said that he can buy a car.", "He said that he might have bought a car."],
+          "correct_answer": "He said that he might buy a car.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 18,
+          "question": "They said, 'We must leave now.' Change into indirect speech.",
+          "options": ["They said that they must leave then.", "They said that they had to leave then.", "They said that they must have left then.", "They said that they must leave now."],
+          "correct_answer": "They said that they had to leave then.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 19,
+          "question": "I said to him, 'You are wrong.' Change into indirect speech.",
+          "options": ["I told him that you are wrong.", "I told him that he was wrong.", "I said him that he was wrong.", "I told him that I was wrong."],
+          "correct_answer": "I told him that he was wrong.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 20,
+          "question": "He said, 'The sun rises in the east.' Change into indirect speech.",
+          "options": ["He said that the sun rose in the east.", "He said that the sun is rising in the east.", "He says that the sun rises in the east.", "He said that the sun rises in the east."],
+          "correct_answer": "He said that the sun rises in the east.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 21,
+          "question": "She said, 'I was sleeping.' Change into indirect speech.",
+          "options": ["She said that she is sleeping.", "She said that she was sleeping.", "She said that she had been sleeping.", "She said that she slept."],
+          "correct_answer": "She said that she had been sleeping.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 22,
+          "question": "He said, 'I am unwell.' Change into indirect speech.",
+          "options": ["He said that he is unwell.", "He said that he was unwell.", "He says that he was unwell.", "He said I was unwell."],
+          "correct_answer": "He said that he was unwell.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 23,
+          "question": "They said, 'We will play the match.' Change into indirect speech.",
+          "options": ["They said that they will play the match.", "They said that they would play the match.", "They said that we would play the match.", "They said that they played the match."],
+          "correct_answer": "They said that they would play the match.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 24,
+          "question": "She said, 'I clean my room every day.' Change into indirect speech.",
+          "options": ["She said that she cleans her room every day.", "She said that she cleaned her room every day.", "She said that she is cleaning her room every day.", "She said that she had cleaned her room every day."],
+          "correct_answer": "She said that she cleaned her room every day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 25,
+          "question": "He said, 'I have lost my pen.' Change into indirect speech.",
+          "options": ["He said that he has lost his pen.", "He said that he lost his pen.", "He said that he had lost his pen.", "He says that he had lost his pen."],
+          "correct_answer": "He said that he had lost his pen.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 26,
+          "question": "The boy said, 'I am doing my work.' Change into indirect speech.",
+          "options": ["The boy said that he was doing his work.", "The boy said that he is doing his work.", "The boy said that he does his work.", "The boy said that I was doing my work."],
+          "correct_answer": "The boy said that he was doing his work.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 27,
+          "question": "She said, 'It may rain today.' Change into indirect speech.",
+          "options": ["She said that it may rain that day.", "She said that it might rain today.", "She said that it might rain that day.", "She said that it may have rained that day."],
+          "correct_answer": "She said that it might rain that day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 28,
+          "question": "Ram said, 'I am very thirsty.' Change into indirect speech.",
+          "options": ["Ram said that he was very thirsty.", "Ram said that he is very thirsty.", "Ram said that I was very thirsty.", "Ram says that he was very thirsty."],
+          "correct_answer": "Ram said that he was very thirsty.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 29,
+          "question": "He will say, 'I am busy.' Change into indirect speech.",
+          "options": ["He will say that he was busy.", "He would say that he was busy.", "He will say that he is busy.", "He said that he was busy."],
+          "correct_answer": "He will say that he is busy.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 30,
+          "question": "The students said, 'We obey our teachers.' Change into indirect speech.",
+          "options": ["The students said that they obey their teachers.", "The students said that they obeyed their teachers.", "The students said that we obeyed our teachers.", "The students said that they are obeying their teachers."],
+          "correct_answer": "The students said that they obeyed their teachers.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 31,
+          "question": "My sister said, 'I have finished the work.' Change into indirect speech.",
+          "options": ["My sister said that she has finished the work.", "My sister said that she had finished the work.", "My sister said that she finished the work.", "My sister said that she was finishing the work."],
+          "correct_answer": "My sister said that she had finished the work.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 32,
+          "question": "He said, 'I go for a walk daily.' Change into indirect speech.",
+          "options": ["He said that he goes for a walk daily.", "He said that he went for a walk daily.", "He said that he is going for a walk daily.", "He said that he had gone for a walk daily."],
+          "correct_answer": "He said that he went for a walk daily.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 33,
+          "question": "She said, 'My mother is cooking food.' Change into indirect speech.",
+          "options": ["She said that her mother was cooking food.", "She said that my mother was cooking food.", "She said that her mother is cooking food.", "She says that her mother was cooking food."],
+          "correct_answer": "She said that her mother was cooking food.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 34,
+          "question": "They said, 'We were playing chess.' Change into indirect speech.",
+          "options": ["They said that they were playing chess.", "They said that they had been playing chess.", "They said that they are playing chess.", "They said that they played chess."],
+          "correct_answer": "They said that they had been playing chess.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 35,
+          "question": "I said, 'I agree with you.' Change into indirect speech.",
+          "options": ["I said that I am agreeing with you.", "I said that I agreed with you.", "I said that I was agreeing with you.", "I said that I agree with you."],
+          "correct_answer": "I said that I agreed with you.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 36,
+          "question": "The boy said, 'I will not go there.' Change into indirect speech.",
+          "options": ["The boy said that he will not go there.", "The boy said that he would not go there.", "The boy says that he would not go there.", "The boy said that I would not go there."],
+          "correct_answer": "The boy said that he would not go there.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 37,
+          "question": "She said, 'I bought a new dress.' Change into indirect speech.",
+          "options": ["She said that she has bought a new dress.", "She said that she bought a new dress.", "She said that she had bought a new dress.", "She said that she was buying a new dress."],
+          "correct_answer": "She said that she had bought a new dress.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 38,
+          "question": "He said, 'I am a doctor.' Change into indirect speech.",
+          "options": ["He said that he is a doctor.", "He says he was a doctor.", "He said that I was a doctor.", "He said that he was a doctor."],
+          "correct_answer": "He said that he was a doctor.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 39,
+          "question": "They said, 'We are happy here.' Change into indirect speech.",
+          "options": ["They said that they were happy here.", "They said that they are happy there.", "They said that we were happy there.", "They said that they were happy there."],
+          "correct_answer": "They said that they were happy there.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 40,
+          "question": "He said to me, 'You are my best friend.' Change into indirect speech.",
+          "options": ["He told me that I was his best friend.", "He told me that you were his best friend.", "He told me that I am his best friend.", "He said me that I was his best friend."],
+          "correct_answer": "He told me that I was his best friend.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 41,
+          "question": "She said, 'I am washing the clothes.' Change into indirect speech.",
+          "options": ["She said that she washed the clothes.", "She said that she is washing the clothes.", "She said that she had washed the clothes.", "She said that she was washing the clothes."],
+          "correct_answer": "She said that she was washing the clothes.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 42,
+          "question": "The children said, 'We are playing.' Change into indirect speech.",
+          "options": ["The children said that we were playing.", "The children said that they are playing.", "The children said that they were playing.", "The children said they played."],
+          "correct_answer": "The children said that they were playing.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 43,
+          "question": "He says, 'I will go to Delhi.' Change into indirect speech.",
+          "options": ["He says that he will go to Delhi.", "He says that he would go to Delhi.", "He said that he would go to Delhi.", "He says that he went to Delhi."],
+          "correct_answer": "He says that he will go to Delhi.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 44,
+          "question": "She said, 'I wrote a story.' Change into indirect speech.",
+          "options": ["She said that she wrote a story.", "She said that she has written a story.", "She said that she had written a story.", "She said that she was writing a story."],
+          "correct_answer": "She said that she had written a story.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 45,
+          "question": "He said, 'I have to finish this today.' Change into indirect speech.",
+          "options": ["He said that he had to finish that today.", "He said that he has to finish that that day.", "He said that he had to finish that that day.", "He said that he had to finish this that day."],
+          "correct_answer": "He said that he had to finish that that day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 46,
+          "question": "The girl said, 'I love my parents.' Change into indirect speech.",
+          "options": ["The girl said that she loves her parents.", "The girl said that I loved my parents.", "The girl said that she loved her parents.", "The girl said that she is loving her parents."],
+          "correct_answer": "The girl said that she loved her parents.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 47,
+          "question": "He said, 'I was absent.' Change into indirect speech.",
+          "options": ["He said that he had been absent.", "He said that he was absent.", "He said that he is absent.", "He said that I was absent."],
+          "correct_answer": "He said that he had been absent.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 48,
+          "question": "The farmer said, 'It is raining heavily.' Change into indirect speech.",
+          "options": ["The farmer said that it was raining heavily.", "The farmer said that it is raining heavily.", "The farmer said it has been raining heavily.", "The farmer said that it rained heavily."],
+          "correct_answer": "The farmer said that it was raining heavily.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 49,
+          "question": "She will say, 'My father is a businessman.' Change into indirect speech.",
+          "options": ["She will say that her father was a businessman.", "She would say that her father was a businessman.", "She will say that her father is a businessman.", "She says that her father is a businessman."],
+          "correct_answer": "She will say that her father is a businessman.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 50,
+          "question": "I said, 'I can solve this problem.' Change into indirect speech.",
+          "options": ["I said that I can solve that problem.", "I said that I could solve this problem.", "I said that I could solve that problem.", "I said that I solved that problem."],
+          "correct_answer": "I said that I could solve that problem.",
+          "grammar_type": "Direct and Indirect Speech"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "He said to me, 'What is your name?' Change into indirect speech.",
+          "options": ["He asked me what is my name.", "He asked me what my name was.", "He asked me what was my name.", "He asked me that what my name was."],
+          "correct_answer": "He asked me what my name was.",
+          "grammar_type": "Direct and Indirect Speech"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "She said to him, 'Please help me.' Change into indirect speech.",
+          "options": ["She ordered him to help her.", "She asked him to help her.", "She requested him to help her.", "She told him to help her."],
+          "correct_answer": "She requested him to help her.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 53,
+          "question": "The teacher said to the boys, 'Don't make a noise.' Change into indirect speech.",
+          "options": ["The teacher told the boys to not make a noise.", "The teacher forbade the boys to make a noise.", "The teacher asked the boys to not make a noise.", "The teacher said to the boys to not make a noise."],
+          "correct_answer": "The teacher forbade the boys to make a noise.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 54,
+          "question": "I said to her, 'Are you coming with us?' Change into indirect speech.",
+          "options": ["I asked her if she is coming with us.", "I asked her if she was coming with us.", "I asked her that if she was coming with us.", "I asked her if you were coming with us."],
+          "correct_answer": "I asked her if she was coming with us.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 55,
+          "question": "He said, 'What a beautiful painting!' Change into indirect speech.",
+          "options": ["He exclaimed that the painting was very beautiful.", "He asked what a beautiful painting it was.", "He said that the painting is beautiful.", "He told that the painting was very beautiful."],
+          "correct_answer": "He exclaimed that the painting was very beautiful.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 56,
+          "question": "The old woman said, 'May you live long!' Change into indirect speech.",
+          "options": ["The old woman said that you might live long.", "The old woman blessed that I might live long.", "The old woman exclaimed that I might live long.", "The old woman wished that I might live long."],
+          "correct_answer": "The old woman blessed that I might live long.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 57,
+          "question": "He said, 'Let's go for a picnic.' Change into indirect speech.",
+          "options": ["He said that they should go for a picnic.", "He requested to go for a picnic.", "He proposed that they should go for a picnic.", "He ordered them to go for a picnic."],
+          "correct_answer": "He proposed that they should go for a picnic.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 58,
+          "question": "She said, 'I was washing my clothes when the bell rang.' Change into indirect speech.",
+          "options": ["She said that she had been washing her clothes when the bell rang.", "She said that she was washing her clothes when the bell had rung.", "She said that she had been washing her clothes when the bell had rung.", "She said that she was washing her clothes when the bell rang."],
+          "correct_answer": "She said that she had been washing her clothes when the bell rang.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 59,
+          "question": "The policeman said to the driver, 'Show me your license.' Change into indirect speech.",
+          "options": ["The policeman requested the driver to show him his license.", "The policeman ordered the driver to show him his license.", "The policeman asked the driver to show him your license.", "The policeman told the driver that he should show his license."],
+          "correct_answer": "The policeman ordered the driver to show him his license.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 60,
+          "question": "He said, 'I must finish this report by this evening.' Change into indirect speech.",
+          "options": ["He said that he had to finish that report by that evening.", "He said that he must finish that report by that evening.", "He said that he would have to finish that report by that evening.", "He said that he must have finished that report by that evening."],
+          "correct_answer": "He said that he had to finish that report by that evening.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 61,
+          "question": "My friend said, 'Where did you go yesterday?' Change into indirect speech.",
+          "options": ["My friend asked where I had gone the previous day.", "My friend asked where I went yesterday.", "My friend asked where did I go the previous day.", "My friend asked where I had gone yesterday."],
+          "correct_answer": "My friend asked where I had gone the previous day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 62,
+          "question": "The doctor said to me, 'Take your medicines on time.' Change into indirect speech.",
+          "options": ["The doctor told me that I should take my medicines on time.", "The doctor requested me to take my medicines on time.", "The doctor advised me to take my medicines on time.", "The doctor ordered me to take my medicines on time."],
+          "correct_answer": "The doctor advised me to take my medicines on time.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 63,
+          "question": "She said, 'Alas! I have lost my purse.' Change into indirect speech.",
+          "options": ["She said with sorrow that she has lost her purse.", "She exclaimed with sorrow that she had lost her purse.", "She told with sorrow that she had lost her purse.", "She cried that she had lost her purse."],
+          "correct_answer": "She exclaimed with sorrow that she had lost her purse.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 64,
+          "question": "He said to me, 'I have never seen such a lazy boy as you.' Change into indirect speech.",
+          "options": ["He told me that he had never seen such a lazy boy as me.", "He told me that he has never seen such a lazy boy as me.", "He told me that he had never seen such a lazy boy as I was.", "He told me that I was a very lazy boy."],
+          "correct_answer": "He told me that he had never seen such a lazy boy as I was.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 65,
+          "question": "The stranger said, 'Can you tell me the way to the station?' Change into indirect speech.",
+          "options": ["The stranger asked if I can tell him the way to the station.", "The stranger asked me to tell him the way to the station.", "The stranger asked if I could tell him the way to the station.", "The stranger said that I could tell him the way to the station."],
+          "correct_answer": "The stranger asked if I could tell him the way to the station.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 66,
+          "question": "She said, 'I am learning French these days.' Change into indirect speech.",
+          "options": ["She said that she is learning French those days.", "She said that she learned French those days.", "She said that she was learning French these days.", "She said that she was learning French those days."],
+          "correct_answer": "She said that she was learning French those days.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 67,
+          "question": "He said to his son, 'Do not waste your time.' Change into indirect speech.",
+          "options": ["He advised his son not to waste his time.", "He said to his son to not waste his time.", "He advised his son to do not waste his time.", "He told his son that he should not waste your time."],
+          "correct_answer": "He advised his son not to waste his time.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 68,
+          "question": "The boy said, 'Hurrah! We have won the match.' Change into indirect speech.",
+          "options": ["The boy said with joy that they had won the match.", "The boy told that they had won the match.", "The boy exclaimed with joy that they had won the match.", "The boy exclaimed happily that we had won the match."],
+          "correct_answer": "The boy exclaimed with joy that they had won the match.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 69,
+          "question": "I said to him, 'Will you go to Delhi tomorrow?' Change into indirect speech.",
+          "options": ["I asked him if he would go to Delhi the next day.", "I asked him will he go to Delhi tomorrow.", "I asked him if he will go to Delhi the next day.", "I asked him that if he would go to Delhi the next day."],
+          "correct_answer": "I asked him if he would go to Delhi the next day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 70,
+          "question": "She said, 'My brother's wedding is next month.' Change into indirect speech.",
+          "options": ["She said that her brother's wedding was next month.", "She said that her brother's wedding was the following month.", "She said that my brother's wedding was the following month.", "She said that her brother's wedding is the following month."],
+          "correct_answer": "She said that her brother's wedding was the following month.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 71,
+          "question": "The teacher said, 'Two and two make four.' Change into indirect speech.",
+          "options": ["The teacher said that two and two made four.", "The teacher said that two and two make four.", "The teacher said that two and two were making four.", "The teacher says that two and two made four."],
+          "correct_answer": "The teacher said that two and two make four.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 72,
+          "question": "He said, 'Let him do whatever he likes.' Change into indirect speech.",
+          "options": ["He said that he should be allowed to do whatever he liked.", "He said to let him do whatever he likes.", "He wished that he might be allowed to do whatever he liked.", "He ordered that he might be allowed to do whatever he liked."],
+          "correct_answer": "He wished that he might be allowed to do whatever he liked.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 73,
+          "question": "She said, 'I had a wonderful dream last night.' Change into indirect speech.",
+          "options": ["She said that she had a wonderful dream the previous night.", "She said that she had had a wonderful dream the previous night.", "She said that she has had a wonderful dream the previous night.", "She said that she had a wonderful dream last night."],
+          "correct_answer": "She said that she had had a wonderful dream the previous night.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 74,
+          "question": "The captain commanded the soldiers, 'March forward!' Change into indirect speech.",
+          "options": ["The captain commanded the soldiers to march forward.", "The captain said to the soldiers to march forward.", "The captain commanded the soldiers that they should march forward.", "The captain ordered the soldiers march forward."],
+          "correct_answer": "The captain commanded the soldiers to march forward.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 75,
+          "question": "He said to me, 'I was waiting for you.' Change into indirect speech.",
+          "options": ["He told me that he was waiting for me.", "He told me that he had been waiting for me.", "He told me that I was waiting for him.", "He told me that he had waited for me."],
+          "correct_answer": "He told me that he had been waiting for me.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 76,
+          "question": "She said, 'Why are you laughing?' Change into indirect speech.",
+          "options": ["She asked why was I laughing.", "She asked why I was laughing.", "She asked that why I was laughing.", "She asked why you were laughing."],
+          "correct_answer": "She asked why I was laughing.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 77,
+          "question": "The teacher said, 'Students, you should obey your parents.' Change into indirect speech.",
+          "options": ["The teacher advised the students that they should obey their parents.", "The teacher told the students that you should obey your parents.", "The teacher ordered the students to obey their parents.", "The teacher said the students should obey their parents."],
+          "correct_answer": "The teacher advised the students that they should obey their parents.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 78,
+          "question": "He said, 'I have been studying since morning.' Change into indirect speech.",
+          "options": ["He said that he has been studying since morning.", "He said that he was studying since morning.", "He said that he had been studying since morning.", "He said that I had been studying since morning."],
+          "correct_answer": "He said that he had been studying since morning.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 79,
+          "question": "She said, 'I went to the library yesterday.' Change into indirect speech.",
+          "options": ["She said that she went to the library the previous day.", "She said that she had gone to the library yesterday.", "She said that she had gone to the library the previous day.", "She said that she has gone to the library the previous day."],
+          "correct_answer": "She said that she had gone to the library the previous day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 80,
+          "question": "He said to me, 'When will the train arrive?' Change into indirect speech.",
+          "options": ["He asked me when would the train arrive.", "He asked me when the train would arrive.", "He asked me that when the train would arrive.", "He asked me when the train will arrive."],
+          "correct_answer": "He asked me when the train would arrive.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 81,
+          "question": "The guest said, 'What a delicious meal!' Change into indirect speech.",
+          "options": ["The guest said that the meal was delicious.", "The guest exclaimed that the meal was very delicious.", "The guest asked what a delicious meal it was.", "The guest told that the meal was very delicious."],
+          "correct_answer": "The guest exclaimed that the meal was very delicious.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 82,
+          "question": "She said, 'Let's wait for our friends.' Change into indirect speech.",
+          "options": ["She said to wait for their friends.", "She proposed that they should wait for their friends.", "She ordered them to wait for their friends.", "She asked if they should wait for their friends."],
+          "correct_answer": "She proposed that they should wait for their friends.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 83,
+          "question": "He said, 'I shall go as soon as it is possible.' Change into indirect speech.",
+          "options": ["He said that he shall go as soon as it is possible.", "He said that he should go as soon as it was possible.", "He said that he would go as soon as it was possible.", "He said that he will go as soon as it was possible."],
+          "correct_answer": "He said that he would go as soon as it was possible.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 84,
+          "question": "My father said to me, 'Do you know where the post office is?' Change into indirect speech.",
+          "options": ["My father asked me if I knew where the post office was.", "My father asked me do I know where the post office is.", "My father asked me if I know where the post office was.", "My father asked me that if I knew where the post office was."],
+          "correct_answer": "My father asked me if I knew where the post office was.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 85,
+          "question": "The boy said, 'I'm glad to be here this evening.' Change into indirect speech.",
+          "options": ["The boy said that he was glad to be there that evening.", "The boy said that he is glad to be here this evening.", "The boy said that he was glad to be here that evening.", "The boy said that he was glad to be there this evening."],
+          "correct_answer": "The boy said that he was glad to be there that evening.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 86,
+          "question": "He said, 'I have been waiting for you for a long time.' Change into indirect speech.",
+          "options": ["He said that he has been waiting for me for a long time.", "He said that he was waiting for me for a long time.", "He said that he had been waiting for me for a long time.", "He told that he had been waiting for me for a long time."],
+          "correct_answer": "He said that he had been waiting for me for a long time.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 87,
+          "question": "The villagers cried, 'Help! The river is flooding!' Change into indirect speech.",
+          "options": ["The villagers shouted for help as the river was flooding.", "The villagers said that the river is flooding.", "The villagers exclaimed that the river was flooding.", "The villagers cried that help the river was flooding."],
+          "correct_answer": "The villagers shouted for help as the river was flooding.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 88,
+          "question": "She asked, 'How is your mother?' Change into indirect speech.",
+          "options": ["She asked how was my mother.", "She asked that how my mother was.", "She asked how my mother is.", "She asked how my mother was."],
+          "correct_answer": "She asked how my mother was.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 89,
+          "question": "The master said to the servant, 'Go and fetch me a glass of water.' Change into indirect speech.",
+          "options": ["The master requested the servant to go and fetch him a glass of water.", "The master ordered the servant to go and fetch him a glass of water.", "The master told the servant go and fetch him a glass of water.", "The master asked the servant if he would fetch him a glass of water."],
+          "correct_answer": "The master ordered the servant to go and fetch him a glass of water.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 90,
+          "question": "He said, 'If I had money, I would buy a car.' Change into indirect speech.",
+          "options": ["He said that if he had had money, he would have bought a car.", "He said that if he had money, he would buy a car.", "He said that if he has money, he will buy a car.", "He said that if he had money, he would have bought a car."],
+          "correct_answer": "He said that if he had money, he would buy a car.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 91,
+          "question": "She said, 'What a clever idea!' Change into indirect speech.",
+          "options": ["She said that it was a clever idea.", "She exclaimed that it was a very clever idea.", "She asked what a clever idea it was.", "She told that what a clever idea."],
+          "correct_answer": "She exclaimed that it was a very clever idea.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 92,
+          "question": "The boy said, 'I must go to the market now.' Change into indirect speech.",
+          "options": ["The boy said that he must go to the market then.", "The boy said that he had to go to the market then.", "The boy said that he would have to go to the market then.", "The boy said that he must go to the market now."],
+          "correct_answer": "The boy said that he had to go to the market then.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 93,
+          "question": "I said to my brother, 'Let us play a game.' Change into indirect speech.",
+          "options": ["I said to my brother that we should play a game.", "I told my brother to play a game.", "I proposed to my brother that we should play a game.", "I asked my brother if we should play a game."],
+          "correct_answer": "I proposed to my brother that we should play a game.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 94,
+          "question": "He said, 'I was doing my work when she arrived.' Change into indirect speech.",
+          "options": ["He said that he was doing his work when she had arrived.", "He said that he had been doing his work when she arrived.", "He said that he did his work when she arrived.", "He said that he had done his work when she had arrived."],
+          "correct_answer": "He said that he had been doing his work when she arrived.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 95,
+          "question": "She said to me, 'I'll see you here tomorrow.' Change into indirect speech.",
+          "options": ["She told me that she would see me there the next day.", "She told me that she will see me there tomorrow.", "She told me that she would see you there the next day.", "She told me that I would see her there the next day."],
+          "correct_answer": "She told me that she would see me there the next day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 96,
+          "question": "The general said, 'Bravo! You have fought bravely.' Change into indirect speech.",
+          "options": ["The general exclaimed that they fought bravely.", "The general told them that they had fought bravely.", "The general applauded them, saying that they had fought bravely.", "The general said bravo that you had fought bravely."],
+          "correct_answer": "The general applauded them, saying that they had fought bravely.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 97,
+          "question": "He said, 'I can't come because I'm ill.' Change into indirect speech.",
+          "options": ["He said that he couldn't come because he was ill.", "He said that he can't come because he is ill.", "He said that he couldn't come because he is ill.", "He said that he can't come because he was ill."],
+          "correct_answer": "He said that he couldn't come because he was ill.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 98,
+          "question": "She said, 'Did you see the new movie?' Change into indirect speech.",
+          "options": ["She asked if I saw the new movie.", "She asked did I see the new movie.", "She asked if I had seen the new movie.", "She asked if I have seen the new movie."],
+          "correct_answer": "She asked if I had seen the new movie.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 99,
+          "question": "The old man said, 'Good morning, my children.' Change into indirect speech.",
+          "options": ["The old man said good morning to his children.", "The old man wished his children good morning.", "The old man told his children good morning.", "The old man exclaimed good morning to his children."],
+          "correct_answer": "The old man wished his children good morning.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 100,
+          "question": "He said, 'The train may be late.' Change into indirect speech.",
+          "options": ["He said that the train may be late.", "He said that the train might be late.", "He said that the train would be late.", "He said that the train might have been late."],
+          "correct_answer": "He said that the train might be late.",
+          "grammar_type": "Direct and Indirect Speech"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "He said, 'If I were you, I would not do that.' Change into indirect speech.",
+          "options": ["He said that if he had been me, he would not have done that.", "He said that if he were me, he would not do that.", "He said that if he was me, he would not do that.", "He says that if he were me, he would not do that."],
+          "correct_answer": "He said that if he were me, he would not do that.",
+          "grammar_type": "Direct and Indirect Speech"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "The teacher said, 'The First World War started in 1914.' Change into indirect speech.",
+          "options": ["The teacher said that the First World War had started in 1914.", "The teacher said that the First World War started in 1914.", "The teacher said that the First World War was starting in 1914.", "The teacher says that the First World War had started in 1914."],
+          "correct_answer": "The teacher said that the First World War started in 1914.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 103,
+          "question": "She said to me, 'What a pity you missed the function!' Change into indirect speech.",
+          "options": ["She exclaimed that it was a great pity that I had missed the function.", "She told me what a pity I had missed the function.", "She said that it is a pity I missed the function.", "She exclaimed with pity that I missed the function."],
+          "correct_answer": "She exclaimed that it was a great pity that I had missed the function.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 104,
+          "question": "He said, 'Thank you!' Change into indirect speech.",
+          "options": ["He said that I should be thanked.", "He thanked me.", "He told me thank you.", "He exclaimed thanks."],
+          "correct_answer": "He thanked me.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 105,
+          "question": "'Would you like to have a cup of tea?' he said. Change into indirect speech.",
+          "options": ["He asked if I would like to have a cup of tea.", "He told me to have a cup of tea.", "He offered me a cup of tea.", "He asked that if I would like a cup of tea."],
+          "correct_answer": "He offered me a cup of tea.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 106,
+          "question": "He said, 'By God! I did not do it.' Change into indirect speech.",
+          "options": ["He swore by God and said that he had not done it.", "He said by God that he did not do it.", "He swore to God that he has not done it.", "He swore God that he had not done that."],
+          "correct_answer": "He swore by God and said that he had not done it.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 107,
+          "question": "She said, 'I wish I hadn't come here.' Change into indirect speech.",
+          "options": ["She said that she wished she hadn't come there.", "She wished that she hadn't come there.", "She wished that she hadn't have come there.", "She said with regret that she had come there."],
+          "correct_answer": "She wished that she hadn't come there.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 108,
+          "question": "The boy said, 'Let me go home now.' Change into indirect speech.",
+          "options": ["The boy requested that he might be allowed to go home then.", "The boy proposed that he should go home then.", "The boy said that he wanted to go home then.", "The boy told that let him go home then."],
+          "correct_answer": "The boy requested that he might be allowed to go home then.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 109,
+          "question": "'You had better see a doctor,' my friend said. Change into indirect speech.",
+          "options": ["My friend said that I had better see a doctor.", "My friend suggested that I should see a doctor.", "My friend advised that I had better see a doctor.", "My friend told me that I had better saw a doctor."],
+          "correct_answer": "My friend suggested that I should see a doctor.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 110,
+          "question": "He said, 'I came here yesterday and I'll leave the day after tomorrow.' Change into indirect speech.",
+          "options": ["He said that he had come there the previous day and he would leave in two days' time.", "He said that he came there yesterday and he will leave the day after tomorrow.", "He said that he had come there the day before and he would leave two days later.", "Both A and C are correct."],
+          "correct_answer": "Both A and C are correct.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 111,
+          "question": "The teacher said, 'If you work hard, you will pass.' Change into indirect speech.",
+          "options": ["The teacher said that if they worked hard, they would pass.", "The teacher said that if they had worked hard, they would have passed.", "The teacher said that if you work hard, you will pass.", "The teacher said that if they work hard, they will pass."],
+          "correct_answer": "The teacher said that if they worked hard, they would pass.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 112,
+          "question": "He said, 'Congratulations! You have been selected.' Change into indirect speech.",
+          "options": ["He said congratulations and that I had been selected.", "He congratulated me and said that I had been selected.", "He exclaimed with congratulations that I had been selected.", "He congratulated me on being selected."],
+          "correct_answer": "He congratulated me on being selected.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 113,
+          "question": "She said, 'Yes, I will come with you.' Change into indirect speech.",
+          "options": ["She said yes and that she would come with me.", "She agreed that she would come with me.", "She replied in the affirmative and said that she would come with me.", "She told yes that she would come with me."],
+          "correct_answer": "She replied in the affirmative and said that she would come with me.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 114,
+          "question": "He said, 'No, I did not see him.' Change into indirect speech.",
+          "options": ["He said no and that he had not seen him.", "He denied that he had seen him.", "He replied in the negative and said that he had not seen him.", "He refused that he had seen him."],
+          "correct_answer": "He replied in the negative and said that he had not seen him.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 115,
+          "question": "The leader said, 'Let's not make any hasty decisions.' Change into indirect speech.",
+          "options": ["The leader urged them not to make any hasty decisions.", "The leader said that let's not make any hasty decisions.", "The leader proposed not to make any hasty decisions.", "The leader told them that they should not make any hasty decisions."],
+          "correct_answer": "The leader urged them not to make any hasty decisions.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 116,
+          "question": "He said, 'I wouldn't do that if I were you.' Change into indirect speech.",
+          "options": ["He said he wouldn't have done that if he had been me.", "He advised me not to do that.", "He said he wouldn't do that if he was me.", "He told me that I shouldn't do that."],
+          "correct_answer": "He advised me not to do that.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 117,
+          "question": "She said, 'What a horrible person he is!' Change into indirect speech.",
+          "options": ["She said that he was a horrible person.", "She exclaimed that he was a very horrible person.", "She asked what a horrible person he was.", "She said with disgust that he is a very horrible person."],
+          "correct_answer": "She exclaimed that he was a very horrible person.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 118,
+          "question": "'Don't you know the way home?' I asked. Change into indirect speech.",
+          "options": ["I asked him if he knew the way home.", "I asked him if he didn't know the way home.", "I asked him doesn't he know the way home.", "I asked him that he didn't know the way home."],
+          "correct_answer": "I asked him if he didn't know the way home.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 119,
+          "question": "He said, 'My father arrived yesterday, but he is leaving today.' Change into indirect speech.",
+          "options": ["He said that his father had arrived the previous day, but he was leaving that day.", "He said that his father arrived yesterday, but he is leaving today.", "He said that his father had arrived the day before, but he was leaving today.", "He said that his father arrived the previous day, but he was leaving that day."],
+          "correct_answer": "He said that his father had arrived the previous day, but he was leaving that day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 120,
+          "question": "The notice says, 'The school will remain closed tomorrow.' Change into indirect speech.",
+          "options": ["The notice said that the school would remain closed the next day.", "The notice says that the school will remain closed tomorrow.", "The notice says that the school would remain closed the next day.", "The notice says that the school will remain closed the next day."],
+          "correct_answer": "The notice says that the school will remain closed the next day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 121,
+          "question": "He said, 'Let us have a cup of coffee.' Change into indirect speech.",
+          "options": ["He said that they should have a cup of coffee.", "He suggested that they should have a cup of coffee.", "He told them to have a cup of coffee.", "He asked if they should have a cup of coffee."],
+          "correct_answer": "He suggested that they should have a cup of coffee.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 122,
+          "question": "The boy said, 'It is time we started playing.' Change into indirect speech.",
+          "options": ["The boy said that it was time they started playing.", "The boy said that it was time they should start playing.", "The boy said that it was time they had started playing.", "The boy said that it is time they had started playing."],
+          "correct_answer": "The boy said that it was time they had started playing.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 123,
+          "question": "She said, 'You needn't wait.' Change into indirect speech.",
+          "options": ["She said that I needn't have waited.", "She said that I needn't wait.", "She said that I didn't need to wait.", "She said that I didn't have to wait."],
+          "correct_answer": "She said that I needn't wait.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 124,
+          "question": "'You must be quiet,' said the librarian. Change into indirect speech.",
+          "options": ["The librarian said that we had to be quiet.", "The librarian insisted that we must be quiet.", "The librarian told us that we must be quiet.", "The librarian ordered us to be quiet."],
+          "correct_answer": "The librarian insisted that we must be quiet.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 125,
+          "question": "He said, 'I was a student of this college.' Change into indirect speech.",
+          "options": ["He said that he was a student of that college.", "He said that he had been a student of that college.", "He said that he is a student of that college.", "He says that he had been a student of that college."],
+          "correct_answer": "He said that he had been a student of that college.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 126,
+          "question": "She said, 'Ouch! I have cut my finger.' Change into indirect speech.",
+          "options": ["She said ouch that she had cut her finger.", "She exclaimed with pain that she had cut her finger.", "She said with pain that she cut her finger.", "She cried ouch that she had cut her finger."],
+          "correct_answer": "She exclaimed with pain that she had cut her finger.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 127,
+          "question": "The beggar said, 'Let me stay here, please.' Change into indirect speech.",
+          "options": ["The beggar begged that he might be allowed to stay there.", "The beggar said to please let him stay there.", "The beggar suggested that he should stay there.", "The beggar ordered to be allowed to stay there."],
+          "correct_answer": "The beggar begged that he might be allowed to stay there.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 128,
+          "question": "He said, 'I must go' (to express necessity). Change into indirect speech.",
+          "options": ["He said that he would have to go.", "He said that he had to go.", "He said that he must go.", "He said that he should go."],
+          "correct_answer": "He said that he had to go.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 129,
+          "question": "He said, 'You must obey your parents' (to express a moral duty). Change into indirect speech.",
+          "options": ["He said that I had to obey my parents.", "He said that I must obey my parents.", "He said that I would obey my parents.", "He said that I should have obeyed my parents."],
+          "correct_answer": "He said that I must obey my parents.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 130,
+          "question": "She said to her friend, 'Could you please lend me your book?' Change into indirect speech.",
+          "options": ["She asked her friend if she could lend her her book.", "She requested her friend to lend her her book.", "She told her friend to lend her her book.", "She questioned her friend if she could lend her her book."],
+          "correct_answer": "She requested her friend to lend her her book.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 131,
+          "question": "The boy said, 'Goodbye, mother.' Change into indirect speech.",
+          "options": ["The boy said goodbye to his mother.", "The boy told his mother goodbye.", "The boy bade his mother goodbye.", "The boy wished his mother goodbye."],
+          "correct_answer": "The boy bade his mother goodbye.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 132,
+          "question": "'Which way did she go?' asked the policeman. Change into indirect speech.",
+          "options": ["The policeman asked which way she had gone.", "The policeman asked which way did she go.", "The policeman asked that which way she had gone.", "The policeman enquired which way she had gone."],
+          "correct_answer": "The policeman enquired which way she had gone.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 133,
+          "question": "He said, 'The sun having risen, the fog disappeared.' Change into indirect speech.",
+          "options": ["He said that the sun having risen, the fog had disappeared.", "He said that after the sun had risen, the fog had disappeared.", "He said that the sun having risen, the fog disappeared.", "He said that the sun had risen and so the fog disappeared."],
+          "correct_answer": "He said that the sun having risen, the fog had disappeared.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 134,
+          "question": "She said, 'Had I the wings of a dove, I would fly away.' Change into indirect speech.",
+          "options": ["She wished that she had had the wings of a dove to fly away.", "She said that if she had the wings of a dove, she would fly away.", "She wished she had the wings of a dove so she could fly away.", "She said if she had the wings of a dove, she would have flown away."],
+          "correct_answer": "She said that if she had the wings of a dove, she would fly away.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 135,
+          "question": "He said, 'I'll have finished this work by the time you get back.' Change into indirect speech.",
+          "options": ["He said that he would have finished that work by the time I got back.", "He said that he will have finished that work by the time I get back.", "He said that he would have finished this work by the time I got back.", "He said that he would finish that work by the time I got back."],
+          "correct_answer": "He said that he would have finished that work by the time I got back.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 136,
+          "question": "The judge said, 'Call the first witness.' Change into indirect speech.",
+          "options": ["The judge said to call the first witness.", "The judge ordered them to call the first witness.", "The judge commanded to call the first witness.", "The judge requested them to call the first witness."],
+          "correct_answer": "The judge ordered them to call the first witness.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 137,
+          "question": "'What do you want?' he said to her. Change into indirect speech.",
+          "options": ["He asked her what she wanted.", "He asked her what did she want.", "He asked her that what she wanted.", "He told her what she wanted."],
+          "correct_answer": "He asked her what she wanted.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 138,
+          "question": "She said, 'When I was a child, I used to swim every day.' Change into indirect speech.",
+          "options": ["She said that when she had been a child, she had used to swim every day.", "She said that when she was a child, she had been swimming every day.", "She said that when she was a child, she used to swim every day.", "She said that when she was a child, she would have swum every day."],
+          "correct_answer": "She said that when she was a child, she used to swim every day.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 139,
+          "question": "The boy said, 'I couldn't come as I was ill.' Change into indirect speech.",
+          "options": ["The boy said that he couldn't have come as he had been ill.", "The boy said that he couldn't come as he was ill.", "The boy said that he couldn't come as he had been ill.", "The boy said that he hadn't been able to come as he had been ill."],
+          "correct_answer": "The boy said that he hadn't been able to come as he had been ill.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 140,
+          "question": "He said, 'You can't park here!' Change into indirect speech.",
+          "options": ["He told me that I couldn't park there.", "He forbade me to park there.", "He said that I can't park here.", "He warned me that I could not park there."],
+          "correct_answer": "He forbade me to park there.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 141,
+          "question": "She said, 'I wish I knew the answer.' Change into indirect speech.",
+          "options": ["She said that she wished she knew the answer.", "She wished that she had known the answer.", "She said that she wished she had known the answer.", "She wished that she knew the answer."],
+          "correct_answer": "She said that she wished she knew the answer.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 142,
+          "question": "'Where shall we go this summer?' she said. Change into indirect speech.",
+          "options": ["She asked where they would go that summer.", "She asked where they should go that summer.", "She proposed where they should go that summer.", "She asked where should they go that summer."],
+          "correct_answer": "She asked where they should go that summer.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 143,
+          "question": "The teacher said, 'Let me explain this point once more.' Change into indirect speech.",
+          "options": ["The teacher said that he wanted to explain that point once more.", "The teacher wished to explain that point once more.", "The teacher offered to explain that point once more.", "The teacher said that let him explain that point once more."],
+          "correct_answer": "The teacher offered to explain that point once more.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 144,
+          "question": "He said, 'I have been a teacher for ten years.' Change into indirect speech.",
+          "options": ["He said that he was a teacher for ten years.", "He said that he had been a teacher for ten years.", "He said that he has been a teacher for ten years.", "He says that he had been a teacher for ten years."],
+          "correct_answer": "He said that he had been a teacher for ten years.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 145,
+          "question": "'If you had told me, I would have helped you,' she said. Change into indirect speech.",
+          "options": ["She said that if I had told her, she would have helped me.", "She said that if I would have told her, she would have helped me.", "She said that if I had told her, she would help me.", "She said that had I told her, she would have helped me."],
+          "correct_answer": "She said that if I had told her, she would have helped me.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 146,
+          "question": "He said, 'So help me, Heaven! I'll never steal again.' Change into indirect speech.",
+          "options": ["He called upon Heaven to witness his resolve never to steal again.", "He said to Heaven to help him to never steal again.", "He swore to Heaven that he will never steal again.", "He asked Heaven's help to never steal again."],
+          "correct_answer": "He called upon Heaven to witness his resolve never to steal again.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 147,
+          "question": "The father said, 'Let there be no doubt about my decision.' Change into indirect speech.",
+          "options": ["The father said that there should be no doubt about his decision.", "The father wished that there should be no doubt about his decision.", "The father firmly stated that there should be no doubt about his decision.", "The father ordered that there be no doubt about his decision."],
+          "correct_answer": "The father firmly stated that there should be no doubt about his decision.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 148,
+          "question": "She said, 'I must have left my umbrella on the bus.' (to express deduction) Change into indirect speech.",
+          "options": ["She said that she had to have left her umbrella on the bus.", "She said that she must have left her umbrella on the bus.", "She deduced that she had to leave her umbrella on the bus.", "She said that she had to leave her umbrella on the bus."],
+          "correct_answer": "She said that she must have left her umbrella on the bus.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 149,
+          "question": "'What happened?' she asked. Change into indirect speech.",
+          "options": ["She asked what happened.", "She asked what has happened.", "She asked what had happened.", "She asked what was happening."],
+          "correct_answer": "She asked what had happened.",
+          "grammar_type": "Direct and Indirect Speech"
+        },
+        {
+          "id": 150,
+          "question": "He said to me, 'I have often told you not to play with fire.' Change into indirect speech.",
+          "options": ["He told me that he had often told me not to play with fire.", "He reminded me that he had often told me not to play with fire.", "He said that he has often told me not to play with fire.", "He reminded me that he has often told me not to play with fire."],
+          "correct_answer": "He reminded me that he had often told me not to play with fire.",
+          "grammar_type": "Direct and Indirect Speech"
         }
       ]
     }
   ]
 }
+

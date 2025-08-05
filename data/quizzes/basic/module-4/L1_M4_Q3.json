@@ -1,0 +1,1000 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "____ is your name?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 2,
+          "question": "____ is the library?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 3,
+          "question": "____ is your best friend?",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 4,
+          "question": "The question word 'What' asks about a thing or a/an ____.",
+          "options": ["person", "place", "action", "time"],
+          "correct_answer": "action",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 5,
+          "question": "____ is in your school bag?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 6,
+          "question": "The question word 'Where' asks about a ____.",
+          "options": ["person", "place", "thing", "reason"],
+          "correct_answer": "place",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 7,
+          "question": "____ are you going?",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 8,
+          "question": "The question word 'Who' asks about a ____.",
+          "options": ["person", "place", "thing", "time"],
+          "correct_answer": "person",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 9,
+          "question": "____ is your teacher?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 10,
+          "question": "Choose the correct question for the answer: 'My name is Priya.'",
+          "options": ["Who is your name?", "Where is your name?", "What is your name?", "Is your name?"],
+          "correct_answer": "What is your name?",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 11,
+          "question": "____ is that animal?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 12,
+          "question": "____ do you live?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 13,
+          "question": "____ is knocking at the door?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 14,
+          "question": "Choose the correct question: 'The book is on the table.'",
+          "options": ["Who is the book?", "Where is the book?", "What is the book?", "Is the book?"],
+          "correct_answer": "Where is the book?",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 15,
+          "question": "____ is the colour of the sky?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 16,
+          "question": "____ is your home?",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 17,
+          "question": "____ is the boy standing near the tree?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 18,
+          "question": "Choose the correct question: 'That is my father.'",
+          "options": ["Who is that?", "Where is that?", "What is that?", "Is that?"],
+          "correct_answer": "Who is that?",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 19,
+          "question": "____ are you doing?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 20,
+          "question": "____ is the nearest hospital?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 21,
+          "question": "____ is sitting on the chair?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 22,
+          "question": "A: ____ is this? B: It is a pen.",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 23,
+          "question": "____ are my shoes?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 24,
+          "question": "____ is your mother?",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 25,
+          "question": "____ is your favorite food?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 26,
+          "question": "____ did you put my bag?",
+          "options": ["Who", "Where", "What", "Did"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 27,
+          "question": "____ is the girl with the long hair?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 28,
+          "question": "A: ____ are you from? B: I am from Mumbai.",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 29,
+          "question": "____ is your father's name?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 30,
+          "question": "____ took my pencil?",
+          "options": ["Who", "Where", "What", "Did"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 31,
+          "question": "____ is the capital of India?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 32,
+          "question": "____ is the playground?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 33,
+          "question": "____ broke the window?",
+          "options": ["Who", "Where", "What", "Did"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 34,
+          "question": "A: ____ are they? B: They are my friends.",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 35,
+          "question": "____ are you reading?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 36,
+          "question": "____ is the post office?",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 37,
+          "question": "____ wants to play?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 38,
+          "question": "____ did you eat for breakfast?",
+          "options": ["Who", "Where", "What", "Did"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 39,
+          "question": "A: ____ is the party? B: It is at my house.",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 40,
+          "question": "____ is the Prime Minister of your country?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 41,
+          "question": "____ is your hobby?",
+          "options": ["Who", "Where", "What", "Am"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 42,
+          "question": "____ is the bus stop?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 43,
+          "question": "____ is the captain of your team?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 44,
+          "question": "Choose the question: 'She is my sister.'",
+          "options": ["Who is she?", "Where is she?", "What is she?", "Is she?"],
+          "correct_answer": "Who is she?",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 45,
+          "question": "____ is in the box?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 46,
+          "question": "____ do birds live?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 47,
+          "question": "____ can help me?",
+          "options": ["Who", "Where", "What", "Can"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 48,
+          "question": "____ is the time?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 49,
+          "question": "____ are the children playing?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 50,
+          "question": "____ is your favorite actor?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Choose the correct question for the answer: 'The meeting is in the conference room.'",
+          "options": ["Who is the meeting?", "What is the meeting?", "Where is the meeting?", "Is the meeting?"],
+          "correct_answer": "Where is the meeting?",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 52,
+          "question": "____ did you meet at the party?",
+          "options": ["Who", "What", "Where", "Did"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 53,
+          "question": "____ is the reason for your success?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 54,
+          "question": "In the question 'Who is singing?', the word 'Who' is the ____.",
+          "options": ["Verb", "Object", "Subject", "Adjective"],
+          "correct_answer": "Subject",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 55,
+          "question": "____ do you think will win the game?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 56,
+          "question": "The boy ____ sits next to me is my cousin.",
+          "options": ["who", "where", "what", "is"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 57,
+          "question": "This is the village ____ I was born.",
+          "options": ["who", "where", "what", "was"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 58,
+          "question": "I don't know ____ to say.",
+          "options": ["who", "where", "what", "I"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 59,
+          "question": "____ are the main ingredients of this dish?",
+          "options": ["Who", "Where", "What", "Are"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 60,
+          "question": "____ are you looking for?",
+          "options": ["Who", "What", "Whom", "Either Who or Whom"],
+          "correct_answer": "Either Who or Whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 61,
+          "question": "Can you tell me ____ the principal's office is?",
+          "options": ["who", "where", "what", "is"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 62,
+          "question": "____ gave you this gift?",
+          "options": ["Who", "Where", "What", "Did"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 63,
+          "question": "I wonder ____ he is.",
+          "options": ["who", "where", "what", "wonder"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 64,
+          "question": "The city ____ my uncle lives is very big.",
+          "options": ["who", "where", "what", "is"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 65,
+          "question": "____ is the difference between these two pictures?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 66,
+          "question": "____ did the teacher praise?",
+          "options": ["Who", "Whom", "What", "Where"],
+          "correct_answer": "Whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 67,
+          "question": "He asked me ____ I was doing.",
+          "options": ["who", "where", "what", "was"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 68,
+          "question": "This is the hospital ____ I was treated.",
+          "options": ["who", "where", "what", "that"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 69,
+          "question": "The girl ____ won the race is my friend.",
+          "options": ["who", "where", "what", "is"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 70,
+          "question": "____ do you mean?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 71,
+          "question": "To ____ did you speak?",
+          "options": ["Who", "Whom", "What", "Where"],
+          "correct_answer": "Whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 72,
+          "question": "Please show me ____ you bought.",
+          "options": ["who", "where", "what", "show"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 73,
+          "question": "I need to find someone ____ can fix my computer.",
+          "options": ["who", "where", "what", "can"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 74,
+          "question": "____ would you like to go for the holidays?",
+          "options": ["Who", "Where", "What", "Would"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 75,
+          "question": "____ kind of music do you like?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 76,
+          "question": "The police asked ____ saw the accident.",
+          "options": ["who", "where", "what", "did"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 77,
+          "question": "I have forgotten ____ I kept my keys.",
+          "options": ["who", "where", "what", "have"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 78,
+          "question": "In the question 'What did you buy?', what is the object of the verb 'buy'?",
+          "options": ["you", "did", "buy", "What"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 79,
+          "question": "____ is the person you admire the most?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 80,
+          "question": "A question like 'What is he like?' asks about someone's ____.",
+          "options": ["location", "name", "job", "character"],
+          "correct_answer": "character",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 81,
+          "question": "This is the place ____ we first met.",
+          "options": ["who", "where", "what", "that"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 82,
+          "question": "____ is responsible for this project?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "Who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 83,
+          "question": "Do you remember ____ she said?",
+          "options": ["who", "where", "what", "did"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 84,
+          "question": "A: 'The exam is tomorrow.' B: '____?! I didn't know!'",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 85,
+          "question": "Tell me about the people ____ you met on your trip.",
+          "options": ["who", "where", "what", "did"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 86,
+          "question": "____ on earth did you find that?",
+          "options": ["Who", "Where", "What", "Did"],
+          "correct_answer": "Where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 87,
+          "question": "The reason ____ he left is still a mystery.",
+          "options": ["who", "where", "what", "why"],
+          "correct_answer": "why",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 88,
+          "question": "A question starting with 'Where' can be answered with:",
+          "options": ["a person's name", "a description", "a location", "a reason"],
+          "correct_answer": "a location",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 89,
+          "question": "____ is the name of the book you are reading?",
+          "options": ["Who", "Where", "What", "Is"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 90,
+          "question": "He is the only one ____ knows the truth.",
+          "options": ["who", "where", "what", "is"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 91,
+          "question": "I can't decide ____ to wear.",
+          "options": ["who", "where", "what", "am"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 92,
+          "question": "____ is the school ____ you study?",
+          "options": ["What, who", "Where, where", "What, where", "Where, what"],
+          "correct_answer": "Where, where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 93,
+          "question": "In the question 'Whom did you see?', the word 'Whom' is the ____.",
+          "options": ["Subject", "Object", "Verb", "Preposition"],
+          "correct_answer": "Object",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 94,
+          "question": "This is exactly ____ I was looking for.",
+          "options": ["who", "where", "what", "was"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 95,
+          "question": "Can you describe the place ____ you grew up?",
+          "options": ["who", "where", "what", "did"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 96,
+          "question": "____ do you want for your birthday?",
+          "options": ["Who", "Where", "What", "Do"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 97,
+          "question": "A question starting with 'Who' expects an answer about a ____.",
+          "options": ["place", "thing", "person", "time"],
+          "correct_answer": "person",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 98,
+          "question": "The police officer ____ helped us was very kind.",
+          "options": ["who", "where", "what", "was"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 99,
+          "question": "This is the spot ____ the accident happened.",
+          "options": ["who", "where", "what", "that"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 100,
+          "question": "____ was that noise?",
+          "options": ["Who", "Where", "What", "Was"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The prize will be given to ____ solves the puzzle first.",
+          "options": ["who", "whoever", "whom", "whomever"],
+          "correct_answer": "whoever",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 102,
+          "question": "This is the author ____ book won the award.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whose",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 103,
+          "question": "Can you tell me ____ I can find a good restaurant?",
+          "options": ["who", "what", "that", "where"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 104,
+          "question": "The manager, ____ I spoke to this morning, was very helpful.",
+          "options": ["who", "whom", "whose", "that"],
+          "correct_answer": "whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 105,
+          "question": "____ he said was shocking, but it turned out to be true.",
+          "options": ["Who", "Where", "What", "That"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 106,
+          "question": "I will give the message to ____ I see first.",
+          "options": ["whoever", "whomever", "who", "whom"],
+          "correct_answer": "whomever",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 107,
+          "question": "The issue is not ____ said it, but whether it is true.",
+          "options": ["what", "where", "who", "whom"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 108,
+          "question": "A place ____ people can study in silence is a library.",
+          "options": ["who", "which", "that", "where"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 109,
+          "question": "He is the man for ____ we have been waiting.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 110,
+          "question": "____ you decide to do, I will support you.",
+          "options": ["Whoever", "Wherever", "Whatever", "Whomever"],
+          "correct_answer": "Whatever",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 111,
+          "question": "Do you know ____ car this is?",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whose",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 112,
+          "question": "We need to decide ____ is the best course of action.",
+          "options": ["who", "where", "what", "which"],
+          "correct_answer": "what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 113,
+          "question": "The question of ____ should be the next leader is being discussed.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 114,
+          "question": "She lives in a house ____ windows overlook the sea.",
+          "options": ["who", "whom", "whose", "where"],
+          "correct_answer": "whose",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 115,
+          "question": "I'm not sure ____ to go from here.",
+          "options": ["who", "where", "what", "to"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 116,
+          "question": "The committee will choose ____ they believe is the best candidate.",
+          "options": ["whoever", "whomever", "who", "whom"],
+          "correct_answer": "whoever",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 117,
+          "question": "This theory explains ____ the universe began.",
+          "options": ["who", "where", "what", "how"],
+          "correct_answer": "how",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 118,
+          "question": "The word 'where' can be used to refer to a place or a ____.",
+          "options": ["person", "situation", "thing", "reason"],
+          "correct_answer": "situation",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 119,
+          "question": "The artist, ____ work is world-famous, is visiting our town.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whose",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 120,
+          "question": "____ you see is ____ you get.",
+          "options": ["Who, who", "Where, where", "What, what", "What, who"],
+          "correct_answer": "What, what",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 121,
+          "question": "She is the person with ____ I share my secrets.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 122,
+          "question": "He didn't know ____ to turn to for help.",
+          "options": ["who", "whom", "what", "where"],
+          "correct_answer": "whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 123,
+          "question": "____ happens next is anyone's guess.",
+          "options": ["Who", "Where", "What", "That"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 124,
+          "question": "Choose the grammatically correct sentence.",
+          "options": ["Who did you give the book to?", "Whom did you give the book to?", "To who did you give the book?", "Both A and B are acceptable in informal English."],
+          "correct_answer": "Both A and B are acceptable in informal English.",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 125,
+          "question": "You can go ____ you please.",
+          "options": ["whoever", "wherever", "whatever", "whomever"],
+          "correct_answer": "wherever",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 126,
+          "question": "The problem is ____ we are going to get the money from.",
+          "options": ["who", "where", "what", "that"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 127,
+          "question": "I met a man ____ said he knew you.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 128,
+          "question": "The noun clause 'what you said' acts as the ____ of the verb 'believe'. 'I believe what you said.'",
+          "options": ["subject", "object", "adjective", "adverb"],
+          "correct_answer": "object",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 129,
+          "question": "From ____ did you receive this information?",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 130,
+          "question": "This is a situation ____ nobody knows the answer.",
+          "options": ["in which", "where", "that", "Both A and B are correct."],
+          "correct_answer": "Both A and B are correct.",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 131,
+          "question": "We are looking for someone ____ has experience in teaching.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 132,
+          "question": "The reason ____ the project failed was a lack of funding.",
+          "options": ["what", "where", "why", "who"],
+          "correct_answer": "why",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 133,
+          "question": "____ I admire most about him is his honesty.",
+          "options": ["Who", "Where", "What", "That"],
+          "correct_answer": "What",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 134,
+          "question": "He is the person to ____ you should address your complaint.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 135,
+          "question": "A: 'The team needs a new captain.' B: '____ do you have in mind?'",
+          "options": ["Who", "Whom", "What", "Where"],
+          "correct_answer": "Whom",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 136,
+          "question": "The lady ____ son won the scholarship was very proud.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whose",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 137,
+          "question": "I don't understand the process by ____ this works.",
+          "options": ["what", "which", "where", "who"],
+          "correct_answer": "which",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 138,
+          "question": "Please vote for ____ you think is the best candidate.",
+          "options": ["whoever", "whomever", "who", "whom"],
+          "correct_answer": "whoever",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 139,
+          "question": "A classroom is a place ____ students learn.",
+          "options": ["who", "where", "what", "which"],
+          "correct_answer": "where",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        },
+        {
+          "id": 140,
+          "question": "The choice of ____ will lead the team is crucial.",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "who",
+          "grammar_type": "Basic Q&A (What, Where, Who)"
+        }
+      ]
+    }
+  ]
+}
+

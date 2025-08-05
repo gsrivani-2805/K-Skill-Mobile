@@ -1,0 +1,1071 @@
+
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which word is an adjective in the sentence: 'The big dog barked.'?",
+          "options": ["The", "big", "dog", "barked"],
+          "correct_answer": "big",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 2,
+          "question": "An adjective is a word that describes a...",
+          "options": ["verb", "noun or pronoun", "conjunction", "preposition"],
+          "correct_answer": "noun or pronoun",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 3,
+          "question": "Find the adjective: 'She wore a beautiful dress.'",
+          "options": ["she", "wore", "beautiful", "dress"],
+          "correct_answer": "beautiful",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 4,
+          "question": "Choose the adjective that describes color: 'The sky is ______.'",
+          "options": ["big", "high", "blue", "far"],
+          "correct_answer": "blue",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 5,
+          "question": "Identify the adjective in: 'He is a tall boy.'",
+          "options": ["He", "is", "tall", "boy"],
+          "correct_answer": "tall",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 6,
+          "question": "Which word describes the noun 'car' in the sentence 'I saw a red car.'?",
+          "options": ["I", "saw", "red", "a"],
+          "correct_answer": "red",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 7,
+          "question": "Fill in the blank with an adjective of size: 'An elephant is a ______ animal.'",
+          "options": ["small", "fast", "large", "blue"],
+          "correct_answer": "large",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 8,
+          "question": "Find the adjective of quality: 'She is an honest girl.'",
+          "options": ["she", "is", "honest", "girl"],
+          "correct_answer": "honest",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 9,
+          "question": "Which word is the adjective? 'The soup is hot.'",
+          "options": ["The", "soup", "is", "hot"],
+          "correct_answer": "hot",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 10,
+          "question": "Choose the adjective: 'He told a funny story.'",
+          "options": ["He", "told", "funny", "story"],
+          "correct_answer": "funny",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 11,
+          "question": "An adjective of shape describes what?",
+          "options": ["How something feels", "How something looks in form", "How something tastes", "How something sounds"],
+          "correct_answer": "How something looks in form",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 12,
+          "question": "Which of these is an adjective of shape?",
+          "options": ["heavy", "sweet", "round", "loud"],
+          "correct_answer": "round",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 13,
+          "question": "Identify the adjective in: 'It was a cold morning.'",
+          "options": ["It", "was", "cold", "morning"],
+          "correct_answer": "cold",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 14,
+          "question": "Choose the best adjective: 'The rabbit is a ______ animal.'",
+          "options": ["slow", "quick", "big", "heavy"],
+          "correct_answer": "quick",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 15,
+          "question": "What does the adjective 'yellow' describe in 'The sun is a yellow star.'?",
+          "options": ["The sun", "star", "is", "a"],
+          "correct_answer": "star",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 16,
+          "question": "Which word describes 'man' in 'The old man walked slowly.'?",
+          "options": ["The", "old", "walked", "slowly"],
+          "correct_answer": "old",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 17,
+          "question": "Fill in the blank: 'The pillow is very ______.'",
+          "options": ["soft", "hardly", "run", "jump"],
+          "correct_answer": "soft",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 18,
+          "question": "Find the adjective: 'The water in the river is clean.'",
+          "options": ["water", "river", "is", "clean"],
+          "correct_answer": "clean",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 19,
+          "question": "Which of these is an adjective?",
+          "options": ["bravely", "brave", "bravery", "braves"],
+          "correct_answer": "brave",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 20,
+          "question": "Choose the adjective of taste: 'The lemon is ______.'",
+          "options": ["sweet", "sour", "hard", "round"],
+          "correct_answer": "sour",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 21,
+          "question": "Identify the adjective in: 'She has a lovely voice.'",
+          "options": ["She", "has", "lovely", "voice"],
+          "correct_answer": "lovely",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 22,
+          "question": "What does 'heavy' describe in 'The box is heavy'?",
+          "options": ["is", "The", "box", "heavy"],
+          "correct_answer": "box",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 23,
+          "question": "Which sentence has an adjective?",
+          "options": ["He ran fast.", "The fast car won.", "The race was over.", "He won the prize."],
+          "correct_answer": "The fast car won.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 24,
+          "question": "Fill in the blank: 'It is a ______ day outside.'",
+          "options": ["sun", "sunny", "sunnily", "suns"],
+          "correct_answer": "sunny",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 25,
+          "question": "Find the adjective: 'He is wearing a new shirt.'",
+          "options": ["He", "wearing", "new", "shirt"],
+          "correct_answer": "new",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 26,
+          "question": "'Loud' is an adjective that describes...",
+          "options": ["Sight", "Sound", "Taste", "Touch"],
+          "correct_answer": "Sound",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 27,
+          "question": "Which word is the adjective? 'The little mouse ate the cheese.'",
+          "options": ["little", "mouse", "ate", "cheese"],
+          "correct_answer": "little",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 28,
+          "question": "Choose the adjective: 'The questions were easy.'",
+          "options": ["questions", "were", "easy", "The"],
+          "correct_answer": "easy",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 29,
+          "question": "What is the adjective in 'The brave soldier fought well'?",
+          "options": ["soldier", "fought", "well", "brave"],
+          "correct_answer": "brave",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 30,
+          "question": "Fill in the blank: 'She has ______ hair.'",
+          "options": ["curl", "curling", "curly", "curled"],
+          "correct_answer": "curly",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 31,
+          "question": "Which of these is a number adjective (adjective of number)?",
+          "options": ["many", "heavy", "sweet", "loud"],
+          "correct_answer": "many",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 32,
+          "question": "Identify the adjective in: 'I saw five birds on the tree.'",
+          "options": ["saw", "five", "birds", "tree"],
+          "correct_answer": "five",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 33,
+          "question": "What does the adjective 'strong' describe in 'He is a strong man'?",
+          "options": ["He", "is", "a", "man"],
+          "correct_answer": "man",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 34,
+          "question": "Find the adjective: 'The tea is too sweet.'",
+          "options": ["tea", "is", "too", "sweet"],
+          "correct_answer": "sweet",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 35,
+          "question": "Choose the adjective: 'The children are happy.'",
+          "options": ["children", "are", "happy", "The"],
+          "correct_answer": "happy",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 36,
+          "question": "'Dark' is an adjective that can describe...",
+          "options": ["A sound", "A taste", "A color or level of light", "A feeling"],
+          "correct_answer": "A color or level of light",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 37,
+          "question": "What is the adjective in 'It is a windy day'?",
+          "options": ["It", "is", "windy", "day"],
+          "correct_answer": "windy",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 38,
+          "question": "Fill in the blank with an adjective: 'My grandmother tells ______ stories.'",
+          "options": ["interest", "interesting", "interestingly", "interested"],
+          "correct_answer": "interesting",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 39,
+          "question": "Which word is an adjective? 'The road was long and empty.'",
+          "options": ["road", "was", "and", "empty"],
+          "correct_answer": "empty",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 40,
+          "question": "'Dirty' is the opposite of which adjective?",
+          "options": ["Big", "Clean", "Happy", "Sad"],
+          "correct_answer": "Clean",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 41,
+          "question": "Identify the adjective in 'The hungry cat drank the milk.'",
+          "options": ["hungry", "cat", "drank", "milk"],
+          "correct_answer": "hungry",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 42,
+          "question": "Which adjective describes quantity in 'I have enough money'?",
+          "options": ["I", "have", "enough", "money"],
+          "correct_answer": "enough",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 43,
+          "question": "Find the adjective: 'The test was difficult.'",
+          "options": ["test", "was", "difficult", "The"],
+          "correct_answer": "difficult",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 44,
+          "question": "'Slow' is an adjective of...",
+          "options": ["Quality", "Size", "Speed/Manner", "Color"],
+          "correct_answer": "Speed/Manner",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 45,
+          "question": "Which word is the adjective in 'She has a sharp mind'?",
+          "options": ["She", "has", "sharp", "mind"],
+          "correct_answer": "sharp",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 46,
+          "question": "Fill in the blank: 'The story was very ______.'",
+          "options": ["sadly", "sadness", "sad", "sadden"],
+          "correct_answer": "sad",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 47,
+          "question": "What is the adjective in 'He is a kind person'?",
+          "options": ["He", "is", "kind", "person"],
+          "correct_answer": "kind",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 48,
+          "question": "Which of these is NOT an adjective?",
+          "options": ["beautiful", "quickly", "tall", "green"],
+          "correct_answer": "quickly",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 49,
+          "question": "The adjective 'wooden' describes...",
+          "options": ["What something is made of", "The size of something", "The color of something", "The shape of something"],
+          "correct_answer": "What something is made of",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 50,
+          "question": "Identify the adjective: 'He bought a leather jacket.'",
+          "options": ["bought", "a", "leather", "jacket"],
+          "correct_answer": "leather",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "'My book is on the table.' Which word is a possessive adjective?",
+          "options": ["My", "book", "on", "table"],
+          "correct_answer": "My",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 52,
+          "question": "'That house is very old.' The word 'That' is what type of adjective?",
+          "options": ["Possessive", "Demonstrative", "Interrogative", "Descriptive"],
+          "correct_answer": "Demonstrative",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 53,
+          "question": "'Which color do you like?' The word 'Which' is what type of adjective?",
+          "options": ["Possessive", "Demonstrative", "Interrogative", "Indefinite"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 54,
+          "question": "'I saw some birds in the sky.' The word 'some' is what type of adjective?",
+          "options": ["Possessive", "Demonstrative", "Interrogative", "Indefinite"],
+          "correct_answer": "Indefinite",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 55,
+          "question": "What is the comparative form of the adjective 'big'?",
+          "options": ["big", "biger", "bigger", "biggest"],
+          "correct_answer": "bigger",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 56,
+          "question": "What is the superlative form of the adjective 'tall'?",
+          "options": ["taller", "tallest", "more tall", "most tall"],
+          "correct_answer": "tallest",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 57,
+          "question": "This book is ______ than that one. (interesting)",
+          "options": ["interesting", "interestinger", "more interesting", "most interesting"],
+          "correct_answer": "more interesting",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 58,
+          "question": "It was the ______ movie I have ever seen. (bad)",
+          "options": ["bad", "badder", "worse", "worst"],
+          "correct_answer": "worst",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 59,
+          "question": "Which of these is a demonstrative adjective?",
+          "options": ["his", "what", "these", "many"],
+          "correct_answer": "these",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 60,
+          "question": "Which of these is a possessive adjective?",
+          "options": ["our", "those", "which", "several"],
+          "correct_answer": "our",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 61,
+          "question": "'There are several mistakes in your essay.' 'Several' is an adjective of...",
+          "options": ["Quality", "Number (Indefinite)", "Demonstration", "Possession"],
+          "correct_answer": "Number (Indefinite)",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 62,
+          "question": "What is the correct order of adjectives in this sentence? 'She bought a ______ dress.'",
+          "options": ["red, beautiful, silk", "beautiful, red, silk", "silk, red, beautiful", "red, silk, beautiful"],
+          "correct_answer": "beautiful, red, silk",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 63,
+          "question": "The comparative form of 'good' is...",
+          "options": ["gooder", "better", "best", "more good"],
+          "correct_answer": "better",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 64,
+          "question": "'Whose bag is this?' The word 'Whose' is a/an...",
+          "options": ["Interrogative Adjective", "Possessive Pronoun", "Demonstrative Adjective", "Descriptive Adjective"],
+          "correct_answer": "Interrogative Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 65,
+          "question": "He has ______ knowledge of the subject. (little)",
+          "options": ["little", "less", "least", "a little"],
+          "correct_answer": "little",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 66,
+          "question": "This is the ______ building in the city. (tall)",
+          "options": ["taller", "tall", "tallest", "most tall"],
+          "correct_answer": "tallest",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 67,
+          "question": "'This pen is mine.' In this sentence, 'mine' is a...",
+          "options": ["Possessive Adjective", "Possessive Pronoun", "Demonstrative Adjective", "Descriptive Adjective"],
+          "correct_answer": "Possessive Pronoun",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 68,
+          "question": "Which sentence uses a proper adjective?",
+          "options": ["He is an Indian citizen.", "He is a good citizen.", "He is a citizen.", "Citizens have rights."],
+          "correct_answer": "He is an Indian citizen.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 69,
+          "question": "There are ______ students on the playground.",
+          "options": ["much", "many", "a lot", "little"],
+          "correct_answer": "many",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 70,
+          "question": "The adjective 'Japanese' is derived from which proper noun?",
+          "options": ["Jap", "Japan", "Japon", "Japani"],
+          "correct_answer": "Japan",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 71,
+          "question": "The superlative form of 'beautiful' is...",
+          "options": ["beautifuller", "beautifullest", "more beautiful", "most beautiful"],
+          "correct_answer": "most beautiful",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 72,
+          "question": "'I don't have any money.' 'Any' is what type of adjective?",
+          "options": ["Indefinite Adjective", "Demonstrative Adjective", "Interrogative Adjective", "Possessive Adjective"],
+          "correct_answer": "Indefinite Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 73,
+          "question": "Your house is farther from the school than ______.",
+          "options": ["my", "me", "mine", "I"],
+          "correct_answer": "mine",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 74,
+          "question": "Which of these is NOT a possessive adjective?",
+          "options": ["her", "its", "their", "yours"],
+          "correct_answer": "yours",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 75,
+          "question": "The film was so ______ that I fell asleep. (boring)",
+          "options": ["boring", "bored", "bore", "boringly"],
+          "correct_answer": "boring",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 76,
+          "question": "I was ______ after watching the long film. (bored)",
+          "options": ["boring", "bored", "bore", "boringly"],
+          "correct_answer": "bored",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 77,
+          "question": "The adjective 'wooden' is an adjective of...",
+          "options": ["Origin", "Material", "Quality", "Size"],
+          "correct_answer": "Material",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 78,
+          "question": "What is the correct order? 'She lives in a ______ house.'",
+          "options": ["big, old, beautiful", "beautiful, big, old", "beautiful, old, big", "old, big, beautiful"],
+          "correct_answer": "beautiful, big, old",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 79,
+          "question": "Which word is a distributive adjective? '______ boy was given a prize.'",
+          "options": ["Some", "Each", "That", "His"],
+          "correct_answer": "Each",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 80,
+          "question": "The comparative form of 'far' can be...",
+          "options": ["farrer", "more far", "farther or further", "farest"],
+          "correct_answer": "farther or further",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 81,
+          "question": "He is the ______ man in the village. (wise)",
+          "options": ["wiser", "wisest", "more wise", "most wise"],
+          "correct_answer": "wisest",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 82,
+          "question": "'Every' is what type of adjective?",
+          "options": ["Possessive", "Interrogative", "Demonstrative", "Distributive"],
+          "correct_answer": "Distributive",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 83,
+          "question": "She is ______ than her sister. (pretty)",
+          "options": ["pretty", "prettier", "prettiest", "more pretty"],
+          "correct_answer": "prettier",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 84,
+          "question": "'What' can be an interrogative adjective. Which sentence uses it correctly?",
+          "options": ["What is your name?", "What book are you reading?", "What are you doing?", "I know what you did."],
+          "correct_answer": "What book are you reading?",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 85,
+          "question": "Choose the correct sentence: 'There is ______ hope of his recovery.'",
+          "options": ["many", "few", "little", "a few"],
+          "correct_answer": "little",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 86,
+          "question": "The adjective 'French' in 'French wine' is a...",
+          "options": ["Descriptive Adjective", "Proper Adjective", "Indefinite Adjective", "Demonstrative Adjective"],
+          "correct_answer": "Proper Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 87,
+          "question": "The news was very ______. (surprising)",
+          "options": ["surprising", "surprised", "surprise", "surprisingly"],
+          "correct_answer": "surprising",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 88,
+          "question": "I was ______ to hear the news. (surprised)",
+          "options": ["surprising", "surprised", "surprise", "surprisingly"],
+          "correct_answer": "surprised",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 89,
+          "question": "This is the ______ option of the three. (little)",
+          "options": ["less", "least", "littler", "littlest"],
+          "correct_answer": "least",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 90,
+          "question": "Which of these is NOT a demonstrative adjective?",
+          "options": ["this", "that", "those", "their"],
+          "correct_answer": "their",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 91,
+          "question": "He gave me ______ useful advice. (some)",
+          "options": ["some", "many", "a few", "several"],
+          "correct_answer": "some",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 92,
+          "question": "The 'running' water was cold. Here, 'running' is a...",
+          "options": ["Verb", "Noun", "Participial Adjective", "Adverb"],
+          "correct_answer": "Participial Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 93,
+          "question": "The journey was ______. (tiring)",
+          "options": ["tiring", "tired", "tire", "tiresome"],
+          "correct_answer": "tiring",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 94,
+          "question": "The 'broken' chair should be repaired. Here, 'broken' is a...",
+          "options": ["Verb", "Noun", "Participial Adjective", "Adverb"],
+          "correct_answer": "Participial Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 95,
+          "question": "Which sentence uses an adjective of quantity?",
+          "options": ["I have two pens.", "She has much patience.", "That is his book.", "Which way is it?"],
+          "correct_answer": "She has much patience.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 96,
+          "question": "Which of the following is the correct order of adjectives?",
+          "options": ["a square, small, wooden box", "a small, wooden, square box", "a small, square, wooden box", "a wooden, small, square box"],
+          "correct_answer": "a small, square, wooden box",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 97,
+          "question": "He is the ______ person for the job. (right)",
+          "options": ["righter", "rightest", "more right", "right"],
+          "correct_answer": "right",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 98,
+          "question": "What is the opposite of 'many' when used with countable nouns?",
+          "options": ["little", "much", "some", "few"],
+          "correct_answer": "few",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 99,
+          "question": "'Neither' and 'either' are what kind of adjectives?",
+          "options": ["Possessive", "Distributive", "Demonstrative", "Indefinite"],
+          "correct_answer": "Distributive",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 100,
+          "question": "The adjective 'medical' in 'medical student' is a...",
+          "options": ["Proper Adjective", "Descriptive Adjective", "Classifying Adjective", "Possessive Adjective"],
+          "correct_answer": "Classifying Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "In 'The happy boy laughed', the adjective 'happy' is in which position?",
+          "options": ["Predicate", "Postpositive", "Attributive", "Appositive"],
+          "correct_answer": "Attributive",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 102,
+          "question": "In 'The boy is happy', the adjective 'happy' is in which position?",
+          "options": ["Predicate", "Postpositive", "Attributive", "Appositive"],
+          "correct_answer": "Predicate",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 103,
+          "question": "Which of these sentences contains a compound adjective?",
+          "options": ["He is a very good man.", "She bought a beautiful red dress.", "It is a ten-page report.", "The sleepy cat is on the mat."],
+          "correct_answer": "It is a ten-page report.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 104,
+          "question": "'The poor are not always unhappy.' Here, 'the poor' is an adjective used as a...",
+          "options": ["Verb", "Noun", "Adverb", "Pronoun"],
+          "correct_answer": "Noun",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 105,
+          "question": "The difference between 'a few' and 'few' is that 'a few' has a ______ connotation.",
+          "options": ["negative", "positive", "neutral", "questioning"],
+          "correct_answer": "positive",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 106,
+          "question": "The 'concerned' citizens held a meeting. What type of adjective is 'concerned'?",
+          "options": ["Proper Adjective", "Compound Adjective", "Participial Adjective", "Demonstrative Adjective"],
+          "correct_answer": "Participial Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 107,
+          "question": "Which sentence uses a postpositive adjective correctly?",
+          "options": ["He is a man responsible.", "I need to find someone responsible.", "A responsible man is needed.", "This is a responsible task."],
+          "correct_answer": "I need to find someone responsible.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 108,
+          "question": "What is the noun form of the adjective 'brave'?",
+          "options": ["bravely", "braveness", "bravery", "braving"],
+          "correct_answer": "bravery",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 109,
+          "question": "He was wearing a ______ shirt.",
+          "options": ["torn beautifully", "beautifully torn", "torned beautiful", "beautiful torned"],
+          "correct_answer": "beautifully torn",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 110,
+          "question": "An adjective phrase is a group of words that...",
+          "options": ["modifies a verb", "functions as a noun", "modifies a noun or pronoun", "connects two clauses"],
+          "correct_answer": "modifies a noun or pronoun",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 111,
+          "question": "Identify the adjective phrase: 'The girl with the blue ribbon won the prize.'",
+          "options": ["The girl", "with the blue ribbon", "won the prize", "the blue ribbon"],
+          "correct_answer": "with the blue ribbon",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 112,
+          "question": "An adjective clause is a subordinate clause that...",
+          "options": ["modifies a verb", "functions as a noun", "modifies a noun or pronoun", "is a complete sentence"],
+          "correct_answer": "modifies a noun or pronoun",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 113,
+          "question": "Identify the adjective clause: 'The house that I grew up in is still standing.'",
+          "options": ["The house", "that I grew up in", "is still standing", "still standing"],
+          "correct_answer": "that I grew up in",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 114,
+          "question": "Which of these is a compound adjective requiring a hyphen?",
+          "options": ["a very tall man", "a dark green car", "a long term plan", "a long-term plan"],
+          "correct_answer": "a long-term plan",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 115,
+          "question": "The difference between 'further' and 'farther' is that 'further' often refers to...",
+          "options": ["Physical distance only", "Figurative or metaphorical distance", "A shorter distance", "A slower speed"],
+          "correct_answer": "Figurative or metaphorical distance",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 116,
+          "question": "Which sentence uses an adjective as a complement?",
+          "options": ["The blue sky is beautiful.", "She painted the sky blue.", "The sky is turning blue.", "Both B and C."],
+          "correct_answer": "Both B and C.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 117,
+          "question": "The adjective 'former' in 'the former president' is an adjective of...",
+          "options": ["Time/Order", "Quality", "Origin", "Material"],
+          "correct_answer": "Time/Order",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 118,
+          "question": "The word 'unique' is an absolute adjective, which means...",
+          "options": ["It can be compared (more unique, most unique)", "It cannot be logically compared", "It is a possessive adjective", "It is a proper adjective"],
+          "correct_answer": "It cannot be logically compared",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 119,
+          "question": "This is a ______ solution. (once in a lifetime)",
+          "options": ["once-in-a-lifetime", "once in a life time", "once-in-a-life-time", "once in lifetime"],
+          "correct_answer": "once-in-a-lifetime",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 120,
+          "question": "In 'The people present were few', the adjective 'present' is in which position?",
+          "options": ["Attributive", "Predicate", "Postpositive", "Absolute"],
+          "correct_answer": "Postpositive",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 121,
+          "question": "Which sentence is grammatically correct?",
+          "options": ["This is the most perfect circle.", "This is a more perfect circle.", "This circle is perfect.", "This is the perfectest circle."],
+          "correct_answer": "This circle is perfect.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 122,
+          "question": "The adjective clause in 'The reason why he left is a secret' modifies which word?",
+          "options": ["he", "left", "is", "reason"],
+          "correct_answer": "reason",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 123,
+          "question": "The adjective 'asleep' can only be used in which position?",
+          "options": ["Attributive (e.g., the asleep boy)", "Predicate (e.g., the boy is asleep)", "Both", "Neither"],
+          "correct_answer": "Predicate (e.g., the boy is asleep)",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 124,
+          "question": "The '-ing' form in 'a laughing child' functions as a...",
+          "options": ["Verb", "Participial Adjective", "Gerund", "Adverb"],
+          "correct_answer": "Participial Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 125,
+          "question": "The '-ed' form in 'a painted door' functions as a...",
+          "options": ["Verb", "Participial Adjective", "Gerund", "Adverb"],
+          "correct_answer": "Participial Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 126,
+          "question": "He gave me ______ milk he had. (little)",
+          "options": ["a little", "the little", "little", "less"],
+          "correct_answer": "the little",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 127,
+          "question": "What is the adjective form of the noun 'danger'?",
+          "options": ["dangerous", "dangerously", "endanger", "dangered"],
+          "correct_answer": "dangerous",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 128,
+          "question": "Which of these is a gradable adjective?",
+          "options": ["dead", "perfect", "hot", "unique"],
+          "correct_answer": "hot",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 129,
+          "question": "The adjective 'mere' in 'He is a mere child' means...",
+          "options": ["important", "only or just", "strong", "happy"],
+          "correct_answer": "only or just",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 130,
+          "question": "Which sentence has a predicate adjective?",
+          "options": ["The dark clouds gathered.", "I saw a beautiful rainbow.", "The child seems happy.", "The running boy fell down."],
+          "correct_answer": "The child seems happy.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 131,
+          "question": "He is the ______ of the two brothers. (old)",
+          "options": ["older", "oldest", "elder", "eldest"],
+          "correct_answer": "elder",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 132,
+          "question": "The adjective clause 'where I was born' in 'This is the village where I was born' modifies...",
+          "options": ["This", "is", "village", "born"],
+          "correct_answer": "village",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 133,
+          "question": "The adjective 'utter' in 'It was utter nonsense' means...",
+          "options": ["Partial", "Quiet", "Complete", "Loud"],
+          "correct_answer": "Complete",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 134,
+          "question": "What is the correct way to write the compound adjective? 'She took a ______ vacation.'",
+          "options": ["two week", "two-week", "two-weeks", "two weeks"],
+          "correct_answer": "two-week",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 135,
+          "question": "Adjectives made from the past participle (like 'broken') usually have a ______ meaning.",
+          "options": ["active", "passive", "future", "continuous"],
+          "correct_answer": "passive",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 136,
+          "question": "Adjectives made from the present participle (like 'boring') usually have an ______ meaning.",
+          "options": ["active", "passive", "past", "perfect"],
+          "correct_answer": "active",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 137,
+          "question": "The word 'aforementioned' is a formal adjective meaning...",
+          "options": ["mentioned below", "never mentioned", "mentioned before", "mentioned secretly"],
+          "correct_answer": "mentioned before",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 138,
+          "question": "In 'The rich should help the poor', both 'rich' and 'poor' are adjectives used as...",
+          "options": ["Verbs", "Plural nouns", "Adverbs", "Pronouns"],
+          "correct_answer": "Plural nouns",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 139,
+          "question": "The adjective 'cardinal' refers to numbers like...",
+          "options": ["first, second, third", "one, two, three", "many, few, some", "single, double, triple"],
+          "correct_answer": "one, two, three",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 140,
+          "question": "The adjective 'ordinal' refers to numbers like...",
+          "options": ["first, second, third", "one, two, three", "many, few, some", "single, double, triple"],
+          "correct_answer": "first, second, third",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 141,
+          "question": "Which of these is an example of an emphatic adjective?",
+          "options": ["He is the very man I wanted to see.", "He is a good man.", "He is a man.", "He is a man of honor."],
+          "correct_answer": "He is the very man I wanted to see.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 142,
+          "question": "He has ______ to prove his innocence. (nothing)",
+          "options": ["no evidence", "any evidence", "some evidence", "many evidences"],
+          "correct_answer": "no evidence",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 143,
+          "question": "A 'well-behaved' child. 'Well-behaved' is a...",
+          "options": ["Proper Adjective", "Compound Adjective", "Possessive Adjective", "Simple Adjective"],
+          "correct_answer": "Compound Adjective",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 144,
+          "question": "The suffix '-ish' (as in 'childish') often gives an adjective a ______ connotation.",
+          "options": ["positive", "neutral", "negative", "superlative"],
+          "correct_answer": "negative",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 145,
+          "question": "The suffix '-able' (as in 'readable') means...",
+          "options": ["the opposite of", "full of", "able to be", "before"],
+          "correct_answer": "able to be",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 146,
+          "question": "Which of these is a non-gradable (absolute) adjective?",
+          "options": ["big", "long", "boiling", "cold"],
+          "correct_answer": "boiling",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 147,
+          "question": "An adjective that comes from a verb is a...",
+          "options": ["Proper adjective", "Verbal adjective (Participle)", "Compound adjective", "Demonstrative adjective"],
+          "correct_answer": "Verbal adjective (Participle)",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 148,
+          "question": "'She is the sole survivor.' The adjective 'sole' means...",
+          "options": ["only", "brave", "lucky", "first"],
+          "correct_answer": "only",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 149,
+          "question": "Which sentence has an adjective phrase?",
+          "options": ["The boy in the blue shirt is my brother.", "The boy is my brother.", "My brother is standing there.", "He is a good boy."],
+          "correct_answer": "The boy in the blue shirt is my brother.",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        },
+        {
+          "id": 150,
+          "question": "The final exam is ______ than the midterm. (difficult)",
+          "options": ["more difficult", "most difficult", "difficulter", "difficultest"],
+          "correct_answer": "more difficult",
+          "grammar_type": "Adjectives and Types of Adjectives"
+        }
+      ]
+    }
+  ]
+}
+

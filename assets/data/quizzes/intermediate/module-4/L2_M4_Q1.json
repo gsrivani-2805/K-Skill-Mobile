@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "Which phrase is a common way to give an opinion? '______ this is a good movie.'",
+          "options": ["I think", "They say", "It is", "The movie"],
+          "correct_answer": "I think",
+          "grammar_type": "Expressing Opinions in English"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "Complete the sentence: '______ my opinion, we should leave early.'",
+          "options": ["On", "At", "In", "For"],
+          "correct_answer": "In",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 3,
+          "question": "Which sentence expresses an opinion?",
+          "options": ["The sky is blue.", "I feel that the book is very interesting.", "Water boils at 100 degrees.", "My school starts at 8 AM."],
+          "correct_answer": "I feel that the book is very interesting.",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 4,
+          "question": "How do you ask for someone's opinion? '______ do you think about the new song?'",
+          "options": ["Why", "When", "What", "Who"],
+          "correct_answer": "What",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 5,
+          "question": "If you have the same opinion as someone, you say: 'I ______.'",
+          "options": ["disagree", "agree", "don't know", "am angry"],
+          "correct_answer": "agree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 6,
+          "question": "What is the opposite of 'I agree'?",
+          "options": ["I feel happy", "I am not sure", "I disagree", "I think so"],
+          "correct_answer": "I disagree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 7,
+          "question": "She ______ that the test was difficult.",
+          "options": ["knows", "facts", "believes", "is"],
+          "correct_answer": "believes",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 8,
+          "question": "Complete the phrase: 'From my point of ______...'",
+          "options": ["look", "see", "view", "idea"],
+          "correct_answer": "view",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 9,
+          "question": "The sentence 'I like vanilla ice cream more than chocolate' is a/an ______.",
+          "options": ["fact", "question", "command", "opinion"],
+          "correct_answer": "opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 10,
+          "question": "To give your opinion politely, you can say: 'It ______ to me that the plan is good.'",
+          "options": ["looks", "feels", "seems", "tastes"],
+          "correct_answer": "seems",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 11,
+          "question": "He thinks that the red car is ______ than the blue car.",
+          "options": ["nicer", "bluer", "redder", "bigger"],
+          "correct_answer": "nicer",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 12,
+          "question": "What's your ______ on this new dress?",
+          "options": ["opinion", "fact", "question", "command"],
+          "correct_answer": "opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 13,
+          "question": "'I feel that...' is a phrase used to express a/an ______.",
+          "options": ["fact", "feeling or opinion", "question", "order"],
+          "correct_answer": "feeling or opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 14,
+          "question": "They ______ that the movie was too long.",
+          "options": ["fact", "feel", "are", "do"],
+          "correct_answer": "feel",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 15,
+          "question": "Which of these is a fact, not an opinion?",
+          "options": ["Reading is the best hobby.", "India is a country in Asia.", "Cricket is more exciting than football.", "Pizza is the most delicious food."],
+          "correct_answer": "India is a country in Asia.",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 16,
+          "question": "I don't ______ that is the right answer.",
+          "options": ["think", "is", "are", "do"],
+          "correct_answer": "think",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 17,
+          "question": "My teacher ______ that I should study more.",
+          "options": ["thinks", "is", "are", "do"],
+          "correct_answer": "thinks",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 18,
+          "question": "______ me, honesty is very important.",
+          "options": ["At", "In", "For", "On"],
+          "correct_answer": "For",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 19,
+          "question": "'How do you feel about this?' is a way to ask for someone's ______.",
+          "options": ["name", "age", "opinion", "address"],
+          "correct_answer": "opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 20,
+          "question": "She said, '______ this is the best solution.'",
+          "options": ["I am", "I do", "I believe", "I have"],
+          "correct_answer": "I believe",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 21,
+          "question": "He ______ that the journey was very tiring.",
+          "options": ["felt", "is", "are", "do"],
+          "correct_answer": "felt",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 22,
+          "question": "What is your ______ on the new school rules?",
+          "options": ["viewpoint", "fact", "height", "color"],
+          "correct_answer": "viewpoint",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 23,
+          "question": "'I suppose...' is a phrase to express an opinion that is...",
+          "options": ["very strong", "a little uncertain", "a definite fact", "a question"],
+          "correct_answer": "a little uncertain",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 24,
+          "question": "We ______ that the trip was a great success.",
+          "options": ["all agree", "all disagree", "all question", "all command"],
+          "correct_answer": "all agree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 25,
+          "question": "My personal view ______ that we should help them.",
+          "options": ["are", "is", "am", "do"],
+          "correct_answer": "is",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 26,
+          "question": "'That's true.' is a way to show ______.",
+          "options": ["disagreement", "agreement", "a question", "a command"],
+          "correct_answer": "agreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 27,
+          "question": "'I'm not sure about that.' is a way to show ______.",
+          "options": ["strong agreement", "doubt or disagreement", "a fact", "a command"],
+          "correct_answer": "doubt or disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 28,
+          "question": "He ______ that the story is true, but I don't.",
+          "options": ["thinks", "is", "are", "do"],
+          "correct_answer": "thinks",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 29,
+          "question": "What are your ______ on this topic?",
+          "options": ["facts", "thoughts", "heights", "colors"],
+          "correct_answer": "thoughts",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 30,
+          "question": "'I don't agree.' is a phrase of ______.",
+          "options": ["agreement", "disagreement", "question", "command"],
+          "correct_answer": "disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 31,
+          "question": "Which sentence gives a positive opinion?",
+          "options": ["The movie was terrible.", "The weather is awful.", "The food was delicious.", "I dislike this song."],
+          "correct_answer": "The food was delicious.",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 32,
+          "question": "Which sentence gives a negative opinion?",
+          "options": ["The book is very interesting.", "She is a wonderful singer.", "The game was boring.", "I love this place."],
+          "correct_answer": "The game was boring.",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 33,
+          "question": "To give an opinion you can say: 'As I ______ it...'",
+          "options": ["see", "hear", "taste", "touch"],
+          "correct_answer": "see",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 34,
+          "question": "She ______ that the new park is very beautiful.",
+          "options": ["says", "is", "are", "do"],
+          "correct_answer": "says",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 35,
+          "question": "I completely ______ with your decision.",
+          "options": ["disagree", "agree", "argue", "fight"],
+          "correct_answer": "agree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 36,
+          "question": "In my ______, students should wear uniforms to school.",
+          "options": ["book", "house", "opinion", "bag"],
+          "correct_answer": "opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 37,
+          "question": "How do you politely disagree?",
+          "options": ["'You are wrong.'", "'That's a stupid idea.'", "'I'm sorry, but I disagree.'", "'I don't care.'"],
+          "correct_answer": "'I'm sorry, but I disagree.'",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 38,
+          "question": "A fact is something that is always ______.",
+          "options": ["an opinion", "true", "false", "a feeling"],
+          "correct_answer": "true",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 39,
+          "question": "An opinion is what someone ______.",
+          "options": ["knows to be true", "can prove with data", "believes or feels", "reads in a book"],
+          "correct_answer": "believes or feels",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 40,
+          "question": "'The cat is soft.' This can be a fact. 'The cat is the best pet.' This is a/an ______.",
+          "options": ["fact", "opinion", "question", "command"],
+          "correct_answer": "opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 41,
+          "question": "We ______ that the plan will work.",
+          "options": ["doubt", "know", "fact", "are"],
+          "correct_answer": "doubt",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 42,
+          "question": "Personally, I ______ that we need more parks.",
+          "options": ["fact", "am", "think", "is"],
+          "correct_answer": "think",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 43,
+          "question": "They ______ that their team is the best.",
+          "options": ["are", "fact", "claim", "is"],
+          "correct_answer": "claim",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 44,
+          "question": "'I feel...' is a good way to start expressing an opinion because it shows it is your own ______.",
+          "options": ["fact", "command", "feeling", "rule"],
+          "correct_answer": "feeling",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 45,
+          "question": "What is another way to say 'I think'?",
+          "options": ["'I know'", "'I am'", "'I believe'", "'I do'"],
+          "correct_answer": "'I believe'",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 46,
+          "question": "He ______ that the movie will be a success.",
+          "options": ["is", "predicts", "are", "do"],
+          "correct_answer": "predicts",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 47,
+          "question": "It ______ to me that you are not happy.",
+          "options": ["agrees", "seems", "facts", "is"],
+          "correct_answer": "seems",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 48,
+          "question": "To give a reason for your opinion, you use the word ______.",
+          "options": ["but", "so", "because", "or"],
+          "correct_answer": "because",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 49,
+          "question": "I think the weather is nice ______ it is sunny and warm.",
+          "options": ["because", "but", "so", "or"],
+          "correct_answer": "because",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 50,
+          "question": "'That's right!' is a phrase used to show strong ______.",
+          "options": ["disagreement", "agreement", "doubt", "sadness"],
+          "correct_answer": "agreement",
+          "grammar_type": "Expressing Opinions in English"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "To introduce a different point of view, you can say: 'On the other ______, some people argue that...'",
+          "options": ["side", "hand", "view", "point"],
+          "correct_answer": "hand",
+          "grammar_type": "Expressing Opinions in English"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "Which phrase expresses strong agreement? 'I ______ agree more.'",
+          "options": ["could", "couldn't", "would", "wouldn't"],
+          "correct_answer": "couldn't",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 53,
+          "question": "To express a partial agreement, one might say: 'I agree with you up to a ______.'",
+          "options": ["level", "degree", "point", "stage"],
+          "correct_answer": "point",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 54,
+          "question": "The phrase 'As far as I'm ______' is used to introduce a personal opinion.",
+          "options": ["concerned", "believed", "viewed", "thought"],
+          "correct_answer": "concerned",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 55,
+          "question": "A polite way to disagree is to first acknowledge the other person's point: 'I see what you mean, ______...'",
+          "options": ["and", "so", "but", "because"],
+          "correct_answer": "but",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 56,
+          "question": "Which phrase introduces a tentative or not-so-strong opinion? 'I'm ______ to think that...'",
+          "options": ["forced", "certain", "inclined", "happy"],
+          "correct_answer": "inclined",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 57,
+          "question": "What does the phrase 'I beg to differ' mean?",
+          "options": ["I strongly agree", "I am asking a question", "I politely disagree", "I am confused"],
+          "correct_answer": "I politely disagree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 58,
+          "question": "To build upon someone else's point, you can say: 'To ______ on what Priya said...'",
+          "options": ["argue", "add", "disagree", "remove"],
+          "correct_answer": "add",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 59,
+          "question": "The phrase 'If you ask me...' is a/an ______ way to introduce an opinion.",
+          "options": ["formal", "informal", "impolite", "confusing"],
+          "correct_answer": "informal",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 60,
+          "question": "To express an opinion based on your understanding, you can say: 'It's my ______ that...'",
+          "options": ["fact", "feeling", "understanding", "question"],
+          "correct_answer": "understanding",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 61,
+          "question": "'I'm afraid I don't share your view.' This is a polite way of ______.",
+          "options": ["agreeing", "disagreeing", "asking a question", "giving a command"],
+          "correct_answer": "disagreeing",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 62,
+          "question": "When you want to give a very honest opinion, you might say: 'To be ______, I think...'",
+          "options": ["polite", "frank", "happy", "sure"],
+          "correct_answer": "frank",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 63,
+          "question": "'You have a point there.' This phrase shows that you...",
+          "options": ["completely disagree", "are asking for a point", "partially agree with someone", "are confused"],
+          "correct_answer": "partially agree with someone",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 64,
+          "question": "The phrase 'I couldn't care less' expresses strong ______.",
+          "options": ["agreement", "interest", "indifference", "happiness"],
+          "correct_answer": "indifference",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 65,
+          "question": "To express that you haven't decided your opinion yet, you can say: 'I'm ______ about it.'",
+          "options": ["decided", "certain", "ambivalent", "sure"],
+          "correct_answer": "ambivalent",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 66,
+          "question": "To give an opinion about a future possibility, you might say: 'I ______ it will be successful.'",
+          "options": ["knew", "saw", "anticipate", "remember"],
+          "correct_answer": "anticipate",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 67,
+          "question": "'I'm not convinced that's the best approach.' This sentence expresses ______.",
+          "options": ["certainty", "strong agreement", "doubt", "a command"],
+          "correct_answer": "doubt",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 68,
+          "question": "'I have to side with you on this.' This means...",
+          "options": ["I disagree with you.", "I am standing next to you.", "I agree with you.", "I am arguing with you."],
+          "correct_answer": "I agree with you.",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 69,
+          "question": "An opinion supported by reasons and evidence is called a/an ______.",
+          "options": ["feeling", "argument", "guess", "story"],
+          "correct_answer": "argument",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 70,
+          "question": "'That's not always true.' is a way to politely ______ a general statement.",
+          "options": ["agree with", "challenge", "repeat", "ask"],
+          "correct_answer": "challenge",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 71,
+          "question": "An opinion based on feelings rather than facts is ______.",
+          "options": ["objective", "subjective", "a fact", "a law"],
+          "correct_answer": "subjective",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 72,
+          "question": "An opinion based on facts and evidence is ______.",
+          "options": ["objective", "subjective", "a feeling", "a guess"],
+          "correct_answer": "objective",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 73,
+          "question": "'I'm of the opposite opinion.' This is a strong way of expressing ______.",
+          "options": ["agreement", "disagreement", "confusion", "happiness"],
+          "correct_answer": "disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 74,
+          "question": "To introduce an idea that many people believe, you can say: 'It is ______ argued that...'",
+          "options": ["never", "rarely", "often", "sometimes"],
+          "correct_answer": "often",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 75,
+          "question": "I support this idea because it has several ______. What word best fits?",
+          "options": ["flaws", "problems", "merits", "issues"],
+          "correct_answer": "merits",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 76,
+          "question": "If you are 'on the fence' about something, you are ______.",
+          "options": ["certain", "decided", "undecided", "happy"],
+          "correct_answer": "undecided",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 77,
+          "question": "The phrase 'Correct me if I'm wrong, but...' makes your opinion sound more ______.",
+          "options": ["aggressive", "humble", "certain", "factual"],
+          "correct_answer": "humble",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 78,
+          "question": "Saying 'That's an interesting perspective' is a good way to ______ someone's opinion before disagreeing.",
+          "options": ["ignore", "criticize", "acknowledge", "dismiss"],
+          "correct_answer": "acknowledge",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 79,
+          "question": "'Without a doubt' is a phrase used to express strong ______.",
+          "options": ["doubt", "certainty", "disagreement", "sadness"],
+          "correct_answer": "certainty",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 80,
+          "question": "A 'contention' is a/an ______ put forward in an argument.",
+          "options": ["feeling", "question", "assertion or claim", "fact"],
+          "correct_answer": "assertion or claim",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 81,
+          "question": "'I see where you're coming from.' This phrase shows ______ for another person's viewpoint.",
+          "options": ["anger", "dislike", "empathy", "confusion"],
+          "correct_answer": "empathy",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 82,
+          "question": "Which of these is a way to express a weak opinion?",
+          "options": ["'I'm absolutely certain that...'", "'There's no doubt that...'", "'I could be wrong, but...'", "'I strongly believe that...'"],
+          "correct_answer": "'I could be wrong, but...'",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 83,
+          "question": "To introduce a counter-argument, you might say: 'Some people, ______, might argue that...'",
+          "options": ["therefore", "however", "similarly", "for example"],
+          "correct_answer": "however",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 84,
+          "question": "'I endorse your view completely.' The word 'endorse' means to...",
+          "options": ["publicly support", "disagree with", "question", "ignore"],
+          "correct_answer": "publicly support",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 85,
+          "question": "What is the tone of the phrase 'I'm afraid I have to disagree'?",
+          "options": ["Rude", "Polite but firm", "Uncertain", "Happy"],
+          "correct_answer": "Polite but firm",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 86,
+          "question": "The phrase 'Fair enough' is an informal way to show you ______ a point.",
+          "options": ["reject", "accept", "hate", "love"],
+          "correct_answer": "accept",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 87,
+          "question": "An 'unbiased' opinion is one that is...",
+          "options": ["based on personal feelings", "fair and not influenced by personal feelings", "always negative", "always positive"],
+          "correct_answer": "fair and not influenced by personal feelings",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 88,
+          "question": "'I couldn't agree with you more.' This phrase expresses ______.",
+          "options": ["complete disagreement", "partial agreement", "complete agreement", "confusion"],
+          "correct_answer": "complete agreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 89,
+          "question": "To give a reason for your opinion, you can say: 'I believe this ______...'",
+          "options": ["because", "but", "so", "or"],
+          "correct_answer": "because",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 90,
+          "question": "An opinion that is not supported by any reasons is...",
+          "options": ["a strong argument", "a weak argument", "a fact", "a law"],
+          "correct_answer": "a weak argument",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 91,
+          "question": "'I have reservations about that.' This means you have some ______.",
+          "options": ["strong beliefs", "questions", "doubts", "agreements"],
+          "correct_answer": "doubts",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 92,
+          "question": "A 'viewpoint' is a synonym for ______.",
+          "options": ["fact", "perspective or opinion", "question", "command"],
+          "correct_answer": "perspective or opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 93,
+          "question": "'I'm of the same mind.' This means...",
+          "options": ["I disagree", "I agree", "My mind is the same size", "I am confused"],
+          "correct_answer": "I agree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 94,
+          "question": "'I can't go along with that idea.' This is a way of expressing ______.",
+          "options": ["agreement", "disagreement", "a fact", "a question"],
+          "correct_answer": "disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 95,
+          "question": "To make an opinion stronger, you can use an ______ like 'very' or 'extremely'.",
+          "options": ["adjective", "adverb", "noun", "verb"],
+          "correct_answer": "adverb",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 96,
+          "question": "'That may be so, but...' is a phrase used to introduce a ______.",
+          "options": ["supporting point", "counter-point", "conclusion", "question"],
+          "correct_answer": "counter-point",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 97,
+          "question": "What is the purpose of giving an 'example' after stating your opinion?",
+          "options": ["To make your opinion clearer and more persuasive.", "To change the topic.", "To confuse the listener.", "To make the opinion weaker."],
+          "correct_answer": "To make your opinion clearer and more persuasive.",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 98,
+          "question": "'I'm not in favor of that.' This means you ______ the idea.",
+          "options": ["support", "oppose", "like", "love"],
+          "correct_answer": "oppose",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 99,
+          "question": "An opinion is different from an 'instruction' because an opinion states a belief, while an instruction...",
+          "options": ["asks a question", "tells someone what to do", "is a fact", "is a feeling"],
+          "correct_answer": "tells someone what to do",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 100,
+          "question": "'There's some truth in what you're saying, but...' This shows ______.",
+          "options": ["complete disagreement", "partial agreement followed by a contrast", "complete agreement", "a question"],
+          "correct_answer": "partial agreement followed by a contrast",
+          "grammar_type": "Expressing Opinions in English"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "The phrase 'While I concede that..., I maintain that...' is used to make a concession before ______ your main point.",
+          "options": ["agreeing with", "reaffirming", "questioning", "doubting"],
+          "correct_answer": "reaffirming",
+          "grammar_type": "Expressing Opinions in English"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "'I would posit that...' is a formal and academic way to introduce a/an ______.",
+          "options": ["question", "command", "argument or theory", "emotional feeling"],
+          "correct_answer": "argument or theory",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 103,
+          "question": "To challenge someone's underlying belief, you could say: 'I think we need to question the very ______ of your argument.'",
+          "options": ["conclusion", "premise", "example", "feeling"],
+          "correct_answer": "premise",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 104,
+          "question": "'I concur with the previous speaker's assessment.' The word 'concur' is a formal synonym for ______.",
+          "options": ["disagree", "argue", "agree", "question"],
+          "correct_answer": "agree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 105,
+          "question": "Saying 'That's a rather specious argument' implies that the argument is...",
+          "options": ["strong and logical", "seemingly plausible but actually false", "based on emotion", "very complex"],
+          "correct_answer": "seemingly plausible but actually false",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 106,
+          "question": "'I must take issue with that assertion.' This is a strong and formal way to express ______.",
+          "options": ["agreement", "disagreement", "confusion", "support"],
+          "correct_answer": "disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 107,
+          "question": "An opinion that is 'untenable' is one that cannot be ______.",
+          "options": ["understood", "supported or defended", "believed", "questioned"],
+          "correct_answer": "supported or defended",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 108,
+          "question": "To build on a previous point in a sophisticated way, one might say: 'To ______ on that, we should also consider...'",
+          "options": ["disagree", "elaborate", "question", "finish"],
+          "correct_answer": "elaborate",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 109,
+          "question": "'His position on this is unequivocal.' This means his position is ______.",
+          "options": ["unclear and ambiguous", "open to interpretation", "leaving no doubt; clear", "weak and unsupported"],
+          "correct_answer": "leaving no doubt; clear",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 110,
+          "question": "The phrase 'I'm not at liberty to say' is a formal way to ______ giving an opinion.",
+          "options": ["decline", "agree", "offer", "ask for"],
+          "correct_answer": "decline",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 111,
+          "question": "'I find that argument to be fundamentally flawed.' This is a way of expressing ______ at a basic level.",
+          "options": ["strong agreement", "strong disagreement", "partial agreement", "total confusion"],
+          "correct_answer": "strong disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 112,
+          "question": "When you 'refute' a claim, you...",
+          "options": ["agree with it", "prove it to be wrong", "partially agree with it", "ignore it"],
+          "correct_answer": "prove it to be wrong",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 113,
+          "question": "An opinion that is 'subjective' is based on personal feelings, while an opinion that is 'objective' is based on ______.",
+          "options": ["other people's feelings", "external facts and evidence", "a guess", "a story"],
+          "correct_answer": "external facts and evidence",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 114,
+          "question": "'I would contend that...' is a formal verb for stating a/an ______.",
+          "options": ["question", "fact", "argument or opinion", "feeling"],
+          "correct_answer": "argument or opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 115,
+          "question": "A 'nuanced' opinion is one that...",
+          "options": ["is very simple and one-sided", "recognizes the complexity and subtle differences of an issue", "is always right", "is always wrong"],
+          "correct_answer": "recognizes the complexity and subtle differences of an issue",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 116,
+          "question": "'I wholeheartedly endorse this view.' The word 'wholeheartedly' indicates ______ support.",
+          "options": ["hesitant", "partial", "complete and sincere", "reluctant"],
+          "correct_answer": "complete and sincere",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 117,
+          "question": "To express skepticism, one might say: 'I remain ______ about the plan's chances of success.'",
+          "options": ["convinced", "certain", "skeptical", "optimistic"],
+          "correct_answer": "skeptical",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 118,
+          "question": "The phrase 'It stands to reason that...' introduces an opinion that the speaker believes is ______.",
+          "options": ["emotional", "illogical", "logical and obvious", "controversial"],
+          "correct_answer": "logical and obvious",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 119,
+          "question": "'I must respectfully disagree with my learned colleague.' This phrase would be used in a very ______ setting.",
+          "options": ["informal", "casual", "formal", "friendly"],
+          "correct_answer": "formal",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 120,
+          "question": "An opinion that is 'prejudiced' or 'biased' is...",
+          "options": ["fair and objective", "unfair and one-sided", "based on strong evidence", "always correct"],
+          "correct_answer": "unfair and one-sided",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 121,
+          "question": "'I am of the conviction that...' expresses an opinion held with great ______.",
+          "options": ["doubt", "hesitation", "certainty", "sadness"],
+          "correct_answer": "certainty",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 122,
+          "question": "To 'qualify' a statement means to...",
+          "options": ["make it stronger", "add a limitation or condition to it", "disagree with it completely", "agree with it completely"],
+          "correct_answer": "add a limitation or condition to it",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 123,
+          "question": "'That argument simply doesn't hold water.' This idiom means the argument is ______.",
+          "options": ["very strong", "illogical or unsound", "very clear", "very wet"],
+          "correct_answer": "illogical or unsound",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 124,
+          "question": "A 'tenable' position is one that is...",
+          "options": ["impossible to hold", "illogical", "able to be defended", "very popular"],
+          "correct_answer": "able to be defended",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 125,
+          "question": "To 'play devil's advocate' means to argue an opposing viewpoint for the sake of ______.",
+          "options": ["being difficult", "debate and discussion", "winning", "confusing people"],
+          "correct_answer": "debate and discussion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 126,
+          "question": "The sentence 'I cannot subscribe to that theory' is a formal way of expressing ______.",
+          "options": ["agreement", "disagreement", "support", "interest"],
+          "correct_answer": "disagreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 127,
+          "question": "An 'assertion' is a confident statement of fact or ______.",
+          "options": ["question", "belief", "command", "doubt"],
+          "correct_answer": "belief",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 128,
+          "question": "A 'cogent' reason is one that is ______.",
+          "options": ["weak", "unclear", "clear, logical, and convincing", "emotional"],
+          "correct_answer": "clear, logical, and convincing",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 129,
+          "question": "'Granted, the initial cost is high, but the long-term savings are significant.' The word 'Granted' is used to make a/an ______.",
+          "options": ["argument", "conclusion", "concession", "question"],
+          "correct_answer": "concession",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 130,
+          "question": "When you say an argument is 'fallacious', you mean it is based on ______.",
+          "options": ["strong facts", "expert opinion", "mistaken belief or faulty reasoning", "personal feeling"],
+          "correct_answer": "mistaken belief or faulty reasoning",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 131,
+          "question": "'His analysis of the situation is, to my mind, ______.' (meaning incomplete)",
+          "options": ["comprehensive", "thorough", "perfunctory", "detailed"],
+          "correct_answer": "perfunctory",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 132,
+          "question": "'I would venture to say that...' is a phrase used to introduce an opinion with ______.",
+          "options": ["absolute certainty", "arrogance", "hesitation or modesty", "anger"],
+          "correct_answer": "hesitation or modesty",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 133,
+          "question": "An 'informed' opinion is one that is based on ______.",
+          "options": ["a wild guess", "feelings", "knowledge and facts", "rumors"],
+          "correct_answer": "knowledge and facts",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 134,
+          "question": "To 'dissent' from an opinion means to ______.",
+          "options": ["agree", "disagree", "ignore", "support"],
+          "correct_answer": "disagree",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 135,
+          "question": "'That's a moot point.' This phrase suggests the point is no longer ______.",
+          "options": ["important", "relevant for practical purposes", "true", "interesting"],
+          "correct_answer": "relevant for practical purposes",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 136,
+          "question": "A 'dogmatic' statement is one that is put forward as ______ true, without evidence.",
+          "options": ["possibly", "undeniably", "probably", "perhaps"],
+          "correct_answer": "undeniably",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 137,
+          "question": "'I'd like to echo the sentiments of the previous speaker.' This means you want to ______ their opinion.",
+          "options": ["challenge", "repeat and support", "ignore", "question"],
+          "correct_answer": "repeat and support",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 138,
+          "question": "An opinion that is 'well-founded' is ______.",
+          "options": ["based on good reasons", "a wild guess", "an emotional outburst", "a popular belief"],
+          "correct_answer": "based on good reasons",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 139,
+          "question": "To express strong disapproval, you might say: 'I ______ this kind of behavior.'",
+          "options": ["approve of", "condone", "deplore", "support"],
+          "correct_answer": "deplore",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 140,
+          "question": "When you 'concur', you express ______.",
+          "options": ["agreement", "disagreement", "doubt", "surprise"],
+          "correct_answer": "agreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 141,
+          "question": "'That's an astute observation.' The word 'astute' suggests the opinion is ______.",
+          "options": ["foolish", "obvious", "clever and insightful", "unclear"],
+          "correct_answer": "clever and insightful",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 142,
+          "question": "To express that an idea has merit but is not fully convincing, you could say: 'Your argument is ______, but not conclusive.'",
+          "options": ["fallacious", "compelling", "weak", "irrelevant"],
+          "correct_answer": "compelling",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 143,
+          "question": "The phrase 'Let's agree to disagree' is used to end a discussion when a/an ______ cannot be reached.",
+          "options": ["agreement", "question", "topic", "conclusion"],
+          "correct_answer": "agreement",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 144,
+          "question": "A 'polemic' is a strong verbal or written attack on someone or something, and is a very aggressive form of expressing an ______.",
+          "options": ["agreement", "opinion", "question", "apology"],
+          "correct_answer": "opinion",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 145,
+          "question": "'I cannot in good conscience support this proposal.' This expresses a disagreement based on ______ grounds.",
+          "options": ["financial", "practical", "moral", "logical"],
+          "correct_answer": "moral",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 146,
+          "question": "A 'verdict' is a formal opinion or ______ made after judging the facts.",
+          "options": ["question", "decision", "story", "guess"],
+          "correct_answer": "decision",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 147,
+          "question": "An opinion that is 'axiomatic' is one that is considered ______.",
+          "options": ["controversial", "self-evident or unquestionable", "false", "unimportant"],
+          "correct_answer": "self-evident or unquestionable",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 148,
+          "question": "To 'espouse' a view is to ______ it.",
+          "options": ["question", "adopt or support", "reject", "misunderstand"],
+          "correct_answer": "adopt or support",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 149,
+          "question": "The sentence 'One is forced to conclude that...' presents an opinion as an unavoidable ______.",
+          "options": ["question", "feeling", "logical outcome", "personal guess"],
+          "correct_answer": "logical outcome",
+          "grammar_type": "Expressing Opinions in English"
+        },
+        {
+          "id": 150,
+          "question": "A sophisticated way to structure a disagreement is to first validate the other person's view, then offer a ______, and finally provide evidence.",
+          "options": ["personal attack", "counter-argument", "strong agreement", "conclusion"],
+          "correct_answer": "counter-argument",
+          "grammar_type": "Expressing Opinions in English"
         }
       ]
     }
   ]
 }
+

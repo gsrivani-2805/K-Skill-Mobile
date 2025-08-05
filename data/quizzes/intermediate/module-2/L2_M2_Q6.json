@@ -1,0 +1,1071 @@
+
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The dog ______ loudly.",
+          "options": ["bark", "barks", "are barking", "have barked"],
+          "correct_answer": "barks",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 2,
+          "question": "The cats ______ on the mat.",
+          "options": ["is sleeping", "sleeps", "are sleeping", "has slept"],
+          "correct_answer": "are sleeping",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 3,
+          "question": "She ______ a beautiful song.",
+          "options": ["sing", "sings", "are singing", "have sung"],
+          "correct_answer": "sings",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 4,
+          "question": "He ______ to school every day.",
+          "options": ["go", "goes", "are going", "have gone"],
+          "correct_answer": "goes",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 5,
+          "question": "They ______ playing in the park.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 6,
+          "question": "I ______ a student.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 7,
+          "question": "You ______ very kind.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 8,
+          "question": "My father ______ a car.",
+          "options": ["have", "has", "are having", "is have"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 9,
+          "question": "We ______ many books.",
+          "options": ["has", "have", "is having", "are has"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 10,
+          "question": "The bird ______ in the sky.",
+          "options": ["fly", "flies", "are flying", "have flown"],
+          "correct_answer": "flies",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 11,
+          "question": "A girl ______ with her doll.",
+          "options": ["play", "plays", "are playing", "have played"],
+          "correct_answer": "plays",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 12,
+          "question": "The children ______ their homework.",
+          "options": ["does", "do", "is doing", "has done"],
+          "correct_answer": "do",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 13,
+          "question": "This flower ______ beautiful.",
+          "options": ["are", "is", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 14,
+          "question": "Those boys ______ very naughty.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 15,
+          "question": "It ______ very cold today.",
+          "options": ["are", "am", "is", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 16,
+          "question": "My mother ______ delicious food.",
+          "options": ["cook", "cooks", "are cooking", "have cooked"],
+          "correct_answer": "cooks",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 17,
+          "question": "The stars ______ at night.",
+          "options": ["shines", "shine", "is shining", "has shined"],
+          "correct_answer": "shine",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 18,
+          "question": "An apple ______ good for health.",
+          "options": ["are", "am", "is", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 19,
+          "question": "The farmers ______ in the fields.",
+          "options": ["works", "work", "is working", "has worked"],
+          "correct_answer": "work",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 20,
+          "question": "A doctor ______ sick people.",
+          "options": ["treat", "treats", "are treating", "have treated"],
+          "correct_answer": "treats",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 21,
+          "question": "The sun ______ in the east.",
+          "options": ["rise", "rises", "are rising", "have risen"],
+          "correct_answer": "rises",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 22,
+          "question": "Monkeys ______ on trees.",
+          "options": ["lives", "live", "is living", "has lived"],
+          "correct_answer": "live",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 23,
+          "question": "She ______ to music.",
+          "options": ["listen", "listens", "are listening", "have listened"],
+          "correct_answer": "listens",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 24,
+          "question": "He and I ______ friends.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 25,
+          "question": "Water ______ at 100 degrees Celsius.",
+          "options": ["boil", "boils", "are boiling", "have boiled"],
+          "correct_answer": "boils",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 26,
+          "question": "The baby ______ when it is hungry.",
+          "options": ["cry", "cries", "are crying", "have cried"],
+          "correct_answer": "cries",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 27,
+          "question": "The books ______ on the shelf.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 28,
+          "question": "My brother ______ video games.",
+          "options": ["love", "loves", "are loving", "have loved"],
+          "correct_answer": "loves",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 29,
+          "question": "Our teacher ______ very kind.",
+          "options": ["are", "is", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 30,
+          "question": "The players ______ on the field.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 31,
+          "question": "A fish ______ in water.",
+          "options": ["swim", "swims", "are swimming", "have swum"],
+          "correct_answer": "swims",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 32,
+          "question": "The moon ______ bright tonight.",
+          "options": ["look", "looks", "are looking", "have looked"],
+          "correct_answer": "looks",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 33,
+          "question": "I ______ my homework every evening.",
+          "options": ["does", "do", "is doing", "has done"],
+          "correct_answer": "do",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 34,
+          "question": "The students ______ quietly.",
+          "options": ["sits", "sit", "is sitting", "has sat"],
+          "correct_answer": "sit",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 35,
+          "question": "My sister and I ______ to the same school.",
+          "options": ["goes", "go", "is going", "has gone"],
+          "correct_answer": "go",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 36,
+          "question": "The lion ______ in the jungle.",
+          "options": ["live", "lives", "are living", "have lived"],
+          "correct_answer": "lives",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 37,
+          "question": "The earth ______ around the sun.",
+          "options": ["revolve", "revolves", "are revolving", "have revolved"],
+          "correct_answer": "revolves",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 38,
+          "question": "My friends ______ coming to my house.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 39,
+          "question": "The cow ______ us milk.",
+          "options": ["give", "gives", "are giving", "have given"],
+          "correct_answer": "gives",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 40,
+          "question": "This man ______ my uncle.",
+          "options": ["are", "am", "is", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 41,
+          "question": "The trees ______ green leaves.",
+          "options": ["has", "have", "is having", "are has"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 42,
+          "question": "She ______ a blue dress.",
+          "options": ["wear", "wears", "are wearing", "have worn"],
+          "correct_answer": "wears",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 43,
+          "question": "One of the boys ______ absent today.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 44,
+          "question": "There ______ a book on the desk.",
+          "options": ["are", "is", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 45,
+          "question": "There ______ many students in the class.",
+          "options": ["are", "is", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 46,
+          "question": "Here ______ the bus.",
+          "options": ["come", "comes", "are coming", "have come"],
+          "correct_answer": "comes",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 47,
+          "question": "Here ______ the results.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 48,
+          "question": "Each of the answers ______ correct.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 49,
+          "question": "The man ______ next to me.",
+          "options": ["live", "lives", "are living", "have lived"],
+          "correct_answer": "lives",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 50,
+          "question": "The girls ______ their lessons.",
+          "options": ["learns", "learn", "is learning", "has learned"],
+          "correct_answer": "learn",
+          "grammar_type": "Subject-Verb Agreement"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "The boy and the girl ______ to the same school.",
+          "options": ["goes", "go", "is going", "has gone"],
+          "correct_answer": "go",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 52,
+          "question": "Either my mother or my father ______ coming to the meeting.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 53,
+          "question": "The dog, along with its puppies, ______ sleeping peacefully.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 54,
+          "question": "Neither the students nor the teacher ______ present.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 55,
+          "question": "The news ______ not true.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 56,
+          "question": "The pair of scissors ______ on the table.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 57,
+          "question": "Mathematics ______ my favorite subject.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 58,
+          "question": "The team ______ playing very well.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 59,
+          "question": "Everyone ______ excited about the trip.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 60,
+          "question": "Many of the students ______ tried their best.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 61,
+          "question": "The committee ______ decided to approve the plan.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 62,
+          "question": "Either of the two books ______ interesting.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 63,
+          "question": "Bread and butter ______ his usual breakfast.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 64,
+          "question": "The Prime Minister, together with his wife, ______ the press cordially.",
+          "options": ["greet", "greets", "are greeting", "have greeted"],
+          "correct_answer": "greets",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 65,
+          "question": "All of the CDs, even the scratched one, ______ in this case.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 66,
+          "question": "Somebody ______ to help me.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 67,
+          "question": "The jury ______ unable to agree on a verdict.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 68,
+          "question": "Fifty kilometers ______ a long distance to walk.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 69,
+          "question": "One of my friends ______ gone to France.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 70,
+          "question": "The man whom I was talking to ______ my cousin.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 71,
+          "question": "Neither of the contestants ______ able to win.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 72,
+          "question": "The quality of the apples ______ not good.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 73,
+          "question": "No one ______ the trouble I've seen.",
+          "options": ["know", "knows", "are knowing", "have known"],
+          "correct_answer": "knows",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 74,
+          "question": "My glasses ______ on the bed.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 75,
+          "question": "The herd of elephants ______ moving towards the river.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 76,
+          "question": "A lot of the houses ______ painted green.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 77,
+          "question": "A lot of the work ______ been completed.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 78,
+          "question": "The number of students in the class ______ forty.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 79,
+          "question": "A number of students ______ late for the class.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 80,
+          "question": "Politics ______ a dirty game, some people say.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 81,
+          "question": "The boy, who is my friend, ______ a prize.",
+          "options": ["has won", "have won", "are winning", "is win"],
+          "correct_answer": "has won",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 82,
+          "question": "Neither my shoes nor your coat ______ appropriate for the party.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 83,
+          "question": "Neither your coat nor my shoes ______ appropriate for the party.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 84,
+          "question": "The captain, as well as the players, ______ anxious.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 85,
+          "question": "None of the students ______ finished the exam yet.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 86,
+          "question": "The police ______ looking for the thief.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 87,
+          "question": "The 'Arabian Nights' ______ a famous book.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 88,
+          "question": "Each of the girls ______ given a new dress.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 89,
+          "question": "The information ______ incorrect.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 90,
+          "question": "The majority of the committee members ______ in favor of the proposal.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 91,
+          "question": "Slow and steady ______ the race.",
+          "options": ["win", "wins", "are winning", "have won"],
+          "correct_answer": "wins",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 92,
+          "question": "His trousers ______ torn.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 93,
+          "question": "None of the advice ______ helpful.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 94,
+          "question": "The family ______ moved to a new city.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 95,
+          "question": "The family ______ arguing among themselves.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 96,
+          "question": "Ten thousand rupees ______ a large sum.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 97,
+          "question": "The poet and the singer ______ coming today.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 98,
+          "question": "The poet and singer ______ coming today.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 99,
+          "question": "Most of the milk ______ gone bad.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 100,
+          "question": "Most of the boys ______ absent.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The politician, along with the newsmen, ______ expected shortly.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 102,
+          "question": "One of the issues that ______ the students is the lack of facilities.",
+          "options": ["concern", "concerns", "are concerning", "have concerned"],
+          "correct_answer": "concerns",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 103,
+          "question": "A large number of soldiers ______ died for the country.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 104,
+          "question": "The number of soldiers who died for the country ______ very large.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 105,
+          "question": "Each boy and each girl ______ given a certificate.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 106,
+          "question": "Not only the students but also the teacher ______ laughing.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 107,
+          "question": "Not only the teacher but also the students ______ laughing.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 108,
+          "question": "Down the street ______ an old temple and a new school.",
+          "options": ["stand", "stands", "is standing", "has stood"],
+          "correct_answer": "stand",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 109,
+          "question": "If I ______ a bird, I would fly to you.",
+          "options": ["was", "were", "is", "am"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 110,
+          "question": "The ethics of the new policy ______ questionable.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 111,
+          "question": "My means ______ very limited.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 112,
+          "question": "The United States ______ a powerful country.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 113,
+          "question": "More than one person ______ been invited.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 114,
+          "question": "More men than one ______ present yesterday.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 115,
+          "question": "The furniture in this room ______ very old.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 116,
+          "question": "Half of the mangoes ______ rotten.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 117,
+          "question": "Half of the mango ______ rotten.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 118,
+          "question": "Neither of the paintings ______ sold.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "was",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 119,
+          "question": "It is I who ______ to be blamed.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 120,
+          "question": "The manager, no less than the clerks, ______ responsible for the mistake.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 121,
+          "question": "Measles ______ a contagious disease.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 122,
+          "question": "The mother, and not her children, ______ won the prize.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 123,
+          "question": "Every leaf and every flower ______ the glory of God.",
+          "options": ["proclaim", "proclaims", "are proclaiming", "have proclaimed"],
+          "correct_answer": "proclaims",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 124,
+          "question": "The cattle ______ grazing in the field.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 125,
+          "question": "One of the most important issues ______ the lack of clean water.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 126,
+          "question": "The gentry of the town ______ invited to the function.",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 127,
+          "question": "Neither you nor I ______ mistaken.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 128,
+          "question": "The long and the short of the matter ______ that he is a thief.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 129,
+          "question": "The cost of all these articles ______ risen.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 130,
+          "question": "One or the other of those fellows ______ stolen the watch.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 131,
+          "question": "It is you who ______ to lead the team.",
+          "options": ["is", "am", "are", "have"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 132,
+          "question": "A great many students ______ been successful.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 133,
+          "question": "The chairman, unlike his colleagues, ______ in favor of the new rule.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 134,
+          "question": "What he says and what he does ______ not match.",
+          "options": ["do", "does", "is", "are"],
+          "correct_answer": "do",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 135,
+          "question": "The audience ______ requested to remain in their seats.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 136,
+          "question": "Neither the color nor the pattern of the curtains ______ my preference.",
+          "options": ["match", "matches", "are matching", "have matched"],
+          "correct_answer": "matches",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 137,
+          "question": "A series of lectures ______ scheduled for next week.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 138,
+          "question": "The writer and statesman ______ dead.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 139,
+          "question": "The writer and the statesman ______ dead.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 140,
+          "question": "Two-thirds of the city ______ in ruins.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 141,
+          "question": "Two-thirds of the people ______ homeless.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 142,
+          "question": "Along the northern frontier of India ______ the Himalayas.",
+          "options": ["lies", "lie", "is lying", "has lain"],
+          "correct_answer": "lie",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 143,
+          "question": "The public ______ divided in its opinion.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 144,
+          "question": "What I say and think ______ my own business.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 145,
+          "question": "Many a man ______ tried hard to climb the mountain.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 146,
+          "question": "This is one of the best books that ______ ever been written.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "have",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 147,
+          "question": "The acoustics of this hall ______ not very good.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 148,
+          "question": "All that glitters ______ not gold.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 149,
+          "question": "He is one of those people who ______ always ready to help.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        },
+        {
+          "id": 150,
+          "question": "Either the boy or his parents ______ to blame for this situation.",
+          "options": ["is", "are", "am", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject-Verb Agreement"
+        }
+      ]
+    }
+  ]
+}
+

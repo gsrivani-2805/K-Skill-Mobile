@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "When someone asks 'What is your name?', you say:",
+          "options": ["My name is...", "I am from...", "I am fine.", "I am 12 years old."],
+          "correct_answer": "My name is...",
+          "grammar_type": "Introducing Yourself"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "How do you greet someone in the morning?",
+          "options": ["Good night", "Good evening", "Good morning", "Goodbye"],
+          "correct_answer": "Good morning",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 3,
+          "question": "If someone asks 'Where are you from?', what is a good answer?",
+          "options": ["My name is Priya.", "I am from Rampur village.", "I am a student.", "I like to play cricket."],
+          "correct_answer": "I am from Rampur village.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 4,
+          "question": "How do you ask someone's age?",
+          "options": ["What is your age?", "How old are you?", "When is your birthday?", "Both A and B are correct."],
+          "correct_answer": "Both A and B are correct.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 5,
+          "question": "To answer 'How old are you?', you say:",
+          "options": ["I am from India.", "I am 14 years old.", "My name is Ajay.", "I am in class 9."],
+          "correct_answer": "I am 14 years old.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 6,
+          "question": "What is a simple way to say hello?",
+          "options": ["Bye", "Thank you", "Hi", "Sorry"],
+          "correct_answer": "Hi",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 7,
+          "question": "When you leave, you say:",
+          "options": ["Hello", "Good morning", "Goodbye", "My name is..."],
+          "correct_answer": "Goodbye",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 8,
+          "question": "Someone asks, 'How are you?'. You can reply:",
+          "options": ["I am 13.", "I am fine, thank you.", "I am from Delhi.", "My name is Sunita."],
+          "correct_answer": "I am fine, thank you.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 9,
+          "question": "Fill in the blank: My ____ is Ajay.",
+          "options": ["age", "name", "from", "old"],
+          "correct_answer": "name",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 10,
+          "question": "Fill in the blank: I am ____ Rampur.",
+          "options": ["name", "old", "from", "is"],
+          "correct_answer": "from",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 11,
+          "question": "How do you ask about someone's name?",
+          "options": ["Where is your name?", "How is your name?", "What is your name?", "Who is your name?"],
+          "correct_answer": "What is your name?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 12,
+          "question": "To tell your class, you can say 'I am in ____ 8.'",
+          "options": ["class", "school", "home", "village"],
+          "correct_answer": "class",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 13,
+          "question": "A friendly way to greet a friend is:",
+          "options": ["Goodbye", "Hey", "Good night", "Thank you"],
+          "correct_answer": "Hey",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 14,
+          "question": "Fill in the blank: I ____ 15 years old.",
+          "options": ["is", "are", "am", "from"],
+          "correct_answer": "am",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 15,
+          "question": "To ask where someone lives, you say:",
+          "options": ["What do you live?", "Who do you live?", "Where do you live?", "How do you live?"],
+          "correct_answer": "Where do you live?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 16,
+          "question": "What do you say when you meet someone for the first time?",
+          "options": ["See you later.", "Nice to meet you.", "Goodbye.", "How old are you?"],
+          "correct_answer": "Nice to meet you.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 17,
+          "question": "Choose the correct sentence to introduce yourself.",
+          "options": ["Me is Rohan.", "I is Rohan.", "My is Rohan.", "I am Rohan."],
+          "correct_answer": "I am Rohan.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 18,
+          "question": "How do you greet your teacher in the afternoon?",
+          "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+          "correct_answer": "Good afternoon",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 19,
+          "question": "To answer 'Where do you live?', you say:",
+          "options": ["I live in Nagpur.", "I am 12 years old.", "I like blue.", "I have one brother."],
+          "correct_answer": "I live in Nagpur.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 20,
+          "question": "Which of these is a personal detail?",
+          "options": ["Your name", "Your age", "Your village", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 21,
+          "question": "'Hello, my name is Priya.' What will you say in return?",
+          "options": ["Goodbye.", "Hi Priya, my name is Rahul.", "I am 10 years old.", "Thank you."],
+          "correct_answer": "Hi Priya, my name is Rahul.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 22,
+          "question": "Fill in the blank: She ____ my friend, Anita.",
+          "options": ["am", "is", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 23,
+          "question": "When someone says 'Thank you', you say:",
+          "options": ["You are welcome.", "Goodbye.", "Hello.", "My name is..."],
+          "correct_answer": "You are welcome.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 24,
+          "question": "To tell your age, you say 'I am ____.'",
+          "options": ["old years 13", "years old 13", "13 years old", "old 13 years"],
+          "correct_answer": "13 years old",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 25,
+          "question": "How do you ask what someone does? (e.g., student, doctor)",
+          "options": ["What you do?", "What do you?", "What is you do?", "What do you do?"],
+          "correct_answer": "What do you do?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 26,
+          "question": "A common answer to 'What do you do?' for a school-goer is:",
+          "options": ["I do student.", "I am from a village.", "I am a student.", "My name is a student."],
+          "correct_answer": "I am a student.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 27,
+          "question": "Which sentence tells where you are from?",
+          "options": ["I am from a big family.", "I am from school.", "I am from Mumbai.", "I am from 14 years."],
+          "correct_answer": "I am from Mumbai.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 28,
+          "question": "How do you greet someone in the evening?",
+          "options": ["Good morning", "Good day", "Good evening", "Good noon"],
+          "correct_answer": "Good evening",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 29,
+          "question": "After someone says 'Nice to meet you', you can say:",
+          "options": ["Nice to meet you, too.", "My name is...", "Goodbye.", "I am fine."],
+          "correct_answer": "Nice to meet you, too.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 30,
+          "question": "Choose the correct question for the answer 'My name is Sita.'",
+          "options": ["How are you?", "What is your name?", "Where are you from?", "How old are you?"],
+          "correct_answer": "What is your name?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 31,
+          "question": "To talk about a boy, you say: '____ name is Ravi.'",
+          "options": ["Her", "His", "She", "He"],
+          "correct_answer": "His",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 32,
+          "question": "To talk about a girl, you say: '____ is my sister.'",
+          "options": ["He", "His", "She", "Her"],
+          "correct_answer": "She",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 33,
+          "question": "What is the short form of 'Good morning'?",
+          "options": ["G'morn", "Morning", "G'mo", "Good M"],
+          "correct_answer": "Morning",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 34,
+          "question": "To tell which school you go to, you say 'I study at ____ School'.",
+          "options": ["Vivekananda", "a", "an", "the"],
+          "correct_answer": "Vivekananda",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 35,
+          "question": "Fill in the blank: What ____ your father's name?",
+          "options": ["am", "are", "is", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 36,
+          "question": "What is a simple way to say 'goodbye'?",
+          "options": ["Hello", "Bye", "Welcome", "Please"],
+          "correct_answer": "Bye",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 37,
+          "question": "When you introduce your friend, you say 'This ____ my friend, Aman.'",
+          "options": ["am", "is", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 38,
+          "question": "To talk about your village, you say: 'My ____ is a small village.'",
+          "options": ["family", "school", "home", "village"],
+          "correct_answer": "village",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 39,
+          "question": "'How are you?' is a question about your ____.",
+          "options": ["name", "age", "well-being", "home"],
+          "correct_answer": "well-being",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 40,
+          "question": "Choose the correct sentence.",
+          "options": ["I am name Ravi.", "I Ravi.", "My name is Ravi.", "Name my is Ravi."],
+          "correct_answer": "My name is Ravi.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 41,
+          "question": "How do you say 'thank you' in a short, friendly way?",
+          "options": ["Thanks", "Welcome", "OK", "Bye"],
+          "correct_answer": "Thanks",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 42,
+          "question": "Fill in the blank: I live ____ my parents.",
+          "options": ["from", "with", "at", "on"],
+          "correct_answer": "with",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 43,
+          "question": "To talk about a girl, you say: '____ name is Meena.'",
+          "options": ["His", "He", "Her", "She"],
+          "correct_answer": "Her",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 44,
+          "question": "Choose the question for the answer: 'I am 10 years old.'",
+          "options": ["What is your name?", "Where are you from?", "How old are you?", "How are you?"],
+          "correct_answer": "How old are you?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 45,
+          "question": "'Myself Ajay' is not a correct way to introduce yourself. What is correct?",
+          "options": ["I am Ajay.", "My name is Ajay.", "I'm Ajay.", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 46,
+          "question": "What do you say when you are leaving at night?",
+          "options": ["Good morning", "Good evening", "Good day", "Good night"],
+          "correct_answer": "Good night",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 47,
+          "question": "Fill in the blank: 'I am a ____.'",
+          "options": ["student", "studying", "study", "studies"],
+          "correct_answer": "student",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 48,
+          "question": "What is the first thing you usually say when you introduce yourself?",
+          "options": ["Your age", "Your hobby", "Your name", "Your father's name"],
+          "correct_answer": "Your name",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 49,
+          "question": "A: Hello! B: ____!",
+          "options": ["Bye", "Hi", "Thanks", "Sorry"],
+          "correct_answer": "Hi",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 50,
+          "question": "Choose the correct sentence.",
+          "options": ["I from India.", "I is from India.", "I are from India.", "I am from India."],
+          "correct_answer": "I am from India.",
+          "grammar_type": "Introducing Yourself"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "What is a polite response after someone introduces themselves?",
+          "options": ["What is your age?", "It's a pleasure to meet you.", "Where is your house?", "What is your father's job?"],
+          "correct_answer": "It's a pleasure to meet you.",
+          "grammar_type": "Introducing Yourself"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "To talk about your family, you can say: 'There are four ____ in my family.'",
+          "options": ["peoples", "person", "members", "humans"],
+          "correct_answer": "members",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 53,
+          "question": "Which sentence correctly states a hobby?",
+          "options": ["I hobby reading.", "My hobby is reading.", "I am hobby reading.", "My hobby reading."],
+          "correct_answer": "My hobby is reading.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 54,
+          "question": "How do you introduce your friend Ravi to another friend?",
+          "options": ["He is Ravi.", "This is my friend, Ravi.", "Friend, this is Ravi.", "Ravi is my friend here."],
+          "correct_answer": "This is my friend, Ravi.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 55,
+          "question": "A: 'How are you doing?' B: '____. How about you?'",
+          "options": ["I am doing fine.", "I am fine.", "I'm doing well, thanks.", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 56,
+          "question": "To talk about your favorite school subject, you say: 'My ____ subject is English.'",
+          "options": ["best", "like", "favourite", "good"],
+          "correct_answer": "favourite",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 57,
+          "question": "If you want to know what someone likes to do, you ask:",
+          "options": ["What are your hobbies?", "What you like?", "Do you hobby?", "What is your like?"],
+          "correct_answer": "What are your hobbies?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 58,
+          "question": "Which of these is a formal greeting?",
+          "options": ["Hey!", "What's up?", "How do you do?", "Yo!"],
+          "correct_answer": "How do you do?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 59,
+          "question": "Fill in the blank: 'I ____ in a small village with my family.'",
+          "options": ["live", "lives", "living", "is living"],
+          "correct_answer": "live",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 60,
+          "question": "What is a good way to describe your father's job?",
+          "options": ["My father works farmer.", "My father is a farmer.", "My father's job farmer.", "My father he is farmer."],
+          "correct_answer": "My father is a farmer.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 61,
+          "question": "How can you tell someone about your siblings?",
+          "options": ["I have one brother and one sister.", "I am having two siblings.", "My siblings are one.", "I have brothers sisters."],
+          "correct_answer": "I have one brother and one sister.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 62,
+          "question": "A: 'What do you like to do in your free time?' B: '____'",
+          "options": ["I like play cricket.", "I like to playing cricket.", "I like to play cricket.", "I am liking to play cricket."],
+          "correct_answer": "I like to play cricket.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 63,
+          "question": "To introduce two friends to each other, you can say: 'Priya, ____ Aman. Aman, ____ Priya.'",
+          "options": ["meet, meet", "see, see", "this is, this is", "is, is"],
+          "correct_answer": "meet, meet",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 64,
+          "question": "What is a good closing line when you are ending a conversation?",
+          "options": ["What is your name?", "It was nice talking to you.", "How old are you?", "I am a student."],
+          "correct_answer": "It was nice talking to you.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 65,
+          "question": "Which phrase is used to ask for someone's name politely?",
+          "options": ["Tell me your name.", "May I have your name, please?", "You are?", "What's your name now?"],
+          "correct_answer": "May I have your name, please?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 66,
+          "question": "Choose the best order for a simple introduction: 1. I am 12 years old. 2. My name is Rohan. 3. I am from Pune.",
+          "options": ["1, 2, 3", "3, 2, 1", "2, 3, 1", "2, 1, 3"],
+          "correct_answer": "2, 3, 1",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 67,
+          "question": "To talk about your future goal, you can say: 'I want to ____ a doctor.'",
+          "options": ["be", "is", "become", "Both A and C are correct."],
+          "correct_answer": "Both A and C are correct.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 68,
+          "question": "A: 'Where do you come from?' B: '____'",
+          "options": ["I come from Nagpur.", "I am coming from Nagpur.", "I from Nagpur.", "I was come from Nagpur."],
+          "correct_answer": "I come from Nagpur.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 69,
+          "question": "'Pleased to meet you' is another way of saying:",
+          "options": ["How are you?", "Nice to meet you.", "Goodbye.", "What is your name?"],
+          "correct_answer": "Nice to meet you.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 70,
+          "question": "How do you tell someone about your brother's age?",
+          "options": ["My brother is 15 years.", "My brother has 15 years.", "My brother is 15 years old.", "My brother's age is 15."],
+          "correct_answer": "My brother is 15 years old.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 71,
+          "question": "When someone asks about your family, they might say 'Tell me about your ____.'",
+          "options": ["hobby", "family", "school", "name"],
+          "correct_answer": "family",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 72,
+          "question": "Which is a good response to 'How was your day?'",
+          "options": ["It was good, thanks.", "My day is good.", "It is Wednesday.", "I have a day."],
+          "correct_answer": "It was good, thanks.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 73,
+          "question": "To explain you have no brothers or sisters, you say:",
+          "options": ["I am a single child.", "I am an only child.", "I am a one child.", "I am the child."],
+          "correct_answer": "I am an only child.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 74,
+          "question": "What is the difference between 'Hello' and 'Goodbye'?",
+          "options": ["'Hello' is for starting a conversation, 'Goodbye' is for ending it.", "'Goodbye' is for starting a conversation, 'Hello' is for ending it.", "There is no difference.", "'Hello' is formal, 'Goodbye' is informal."],
+          "correct_answer": "'Hello' is for starting a conversation, 'Goodbye' is for ending it.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 75,
+          "question": "Fill in the blank: My hobbies ____ reading and drawing.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 76,
+          "question": "'I am pleased to make your acquaintance.' This is a very ____ way to introduce yourself.",
+          "options": ["informal", "casual", "formal", "rude"],
+          "correct_answer": "formal",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 77,
+          "question": "When someone asks 'What's your favourite food?', you can reply:",
+          "options": ["I like to eating biryani.", "My favourite food is biryani.", "I like biryani the food.", "Biryani is my food."],
+          "correct_answer": "My favourite food is biryani.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 78,
+          "question": "How do you ask someone for their village's name?",
+          "options": ["Which village you from?", "What is the name of your village?", "Your village name?", "How is your village?"],
+          "correct_answer": "What is the name of your village?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 79,
+          "question": "To say you enjoy something, you say 'I ____ music.'",
+          "options": ["fond of", "like", "enjoy", "Both B and C are correct."],
+          "correct_answer": "Both B and C are correct.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 80,
+          "question": "To introduce your father, you say: '____ is my father, Mr. Sharma.'",
+          "options": ["He", "This", "That", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 81,
+          "question": "The question 'What's up?' is a very ____ greeting.",
+          "options": ["formal", "polite", "informal", "old"],
+          "correct_answer": "informal",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 82,
+          "question": "A good reply to 'What's up?' is:",
+          "options": ["My name is fine.", "Not much, you?", "I am 14 years old.", "Goodbye."],
+          "correct_answer": "Not much, you?",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 83,
+          "question": "What is another way to say 'I am from India'?",
+          "options": ["I belong to India.", "India is my home.", "I hail from India.", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 84,
+          "question": "Fill in the blank: 'It was a ____ to meet you.'",
+          "options": ["happy", "pleasure", "nice", "good"],
+          "correct_answer": "pleasure",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 85,
+          "question": "Which of these is NOT something you usually share in a first introduction?",
+          "options": ["Your name", "Your salary", "Where you are from", "What you do"],
+          "correct_answer": "Your salary",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 86,
+          "question": "To talk about your family size, you say 'I come from a ____ family.'",
+          "options": ["large", "small", "joint", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 87,
+          "question": "What would you say after a friend introduces you to someone?",
+          "options": ["'Hello, nice to meet you.'", "'What is your age?'", "'I am fine.'", "'I have one sister.'"],
+          "correct_answer": "'Hello, nice to meet you.'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 88,
+          "question": "The phrase 'Let me introduce myself' is used to...",
+          "options": ["end a conversation", "ask a question", "begin your introduction", "say goodbye"],
+          "correct_answer": "begin your introduction",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 89,
+          "question": "How do you ask for someone's last name?",
+          "options": ["What is your surname?", "What is your family name?", "What is your last name?", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 90,
+          "question": "I study in the tenth ____.",
+          "options": ["grade", "standard", "class", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 91,
+          "question": "How do you respond to 'Pleased to meet you'?",
+          "options": ["The pleasure is mine.", "You too.", "Pleased to meet you too.", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 92,
+          "question": "A: 'What do you do for a living?' B: '____'",
+          "options": ["This is a formal way to ask about someone's job.", "This is an informal way to ask about hobbies.", "This is a question about where you live.", "This is a question about your health."],
+          "correct_answer": "This is a formal way to ask about someone's job.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 93,
+          "question": "Fill in the blank: My mother is a ____.",
+          "options": ["housewife", "homemaker", "teacher", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 94,
+          "question": "'See you later' is a way to say ____.",
+          "options": ["hello", "goodbye", "thank you", "sorry"],
+          "correct_answer": "goodbye",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 95,
+          "question": "Which sentence is correct?",
+          "options": ["My hobbies is playing and singing.", "My hobbies are playing and singing.", "My hobby are playing and singing.", "My hobbies is play and sing."],
+          "correct_answer": "My hobbies are playing and singing.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 96,
+          "question": "When you introduce your parents, you say: 'These ____ my parents.'",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 97,
+          "question": "To describe your village, you can say: 'It is a ____ village in Maharashtra.'",
+          "options": ["beauty", "beautifully", "beautiful", "beautify"],
+          "correct_answer": "beautiful",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 98,
+          "question": "A: 'Whereabouts are you from?' B: This question is asking about your ____.",
+          "options": ["hobbies", "age", "general location", "family"],
+          "correct_answer": "general location",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 99,
+          "question": "'Allow me to introduce myself' is a very ____ phrase.",
+          "options": ["casual", "formal", "rude", "common"],
+          "correct_answer": "formal",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 100,
+          "question": "To say you don't have siblings, you can say: 'I don't have ____ brothers or sisters.'",
+          "options": ["some", "any", "a", "no"],
+          "correct_answer": "any",
+          "grammar_type": "Introducing Yourself"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "Which is the most appropriate response to the formal greeting 'How do you do?'",
+          "options": ["I am fine, thank you.", "How do you do?", "What's up?", "Not much."],
+          "correct_answer": "How do you do?",
+          "grammar_type": "Introducing Yourself"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "To introduce a senior person to a junior person, you should say the ____ person's name first.",
+          "options": ["junior", "senior", "your own", "It does not matter"],
+          "correct_answer": "senior",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 103,
+          "question": "What does 'I hail from a small hamlet in the countryside' mean?",
+          "options": ["I am going to a small village.", "I come from a very small village.", "I dislike small villages.", "I own a small village."],
+          "correct_answer": "I come from a very small village.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 104,
+          "question": "Which of these is a good opening for a formal self-introduction speech?",
+          "options": ["Hey everyone, I'm here.", "Good morning. I'd like to take a moment to introduce myself.", "What's up, folks? Listen up.", "So, my name is..."],
+          "correct_answer": "Good morning. I'd like to take a moment to introduce myself.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 105,
+          "question": "To talk about your current studies, you could say: 'I am currently ____ in the 11th standard.'",
+          "options": ["enrolled", "studying", "a student", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 106,
+          "question": "What is a more formal way to talk about your job? 'My ____ is teaching.'",
+          "options": ["work", "hobby", "profession", "doing"],
+          "correct_answer": "profession",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 107,
+          "question": "Which sentence correctly describes a hobby using a gerund?",
+          "options": ["I like to gardening.", "My hobby is to garden.", "I enjoy gardening in my free time.", "I am gardening my hobby."],
+          "correct_answer": "I enjoy gardening in my free time.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 108,
+          "question": "A: 'What line of work are you in?' B: This is a question about your ____.",
+          "options": ["family", "hobbies", "field of work or profession", "address"],
+          "correct_answer": "field of work or profession",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 109,
+          "question": "The phrase 'It's an honor to meet you' is best used when meeting someone who is ____.",
+          "options": ["younger than you", "your close friend", "highly respected", "a family member"],
+          "correct_answer": "highly respected",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 110,
+          "question": "To introduce someone else formally, you can say: 'I'd like you to ____ my colleague, Mr. Das.'",
+          "options": ["see", "know", "meet", "look at"],
+          "correct_answer": "meet",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 111,
+          "question": "How can you politely ask to join a conversation?",
+          "options": ["'Excuse me, may I join you?'", "'What are you talking about?'", "'Let me talk now.'", "'Stop talking and listen to me.'"],
+          "correct_answer": "'Excuse me, may I join you?'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 112,
+          "question": "Which sentence structure is best for a brief, professional introduction?",
+          "options": ["Hobby, Name, Job, Place", "Name, Job/Role, Place", "Age, Name, Hobby", "Name, Family details, Job"],
+          "correct_answer": "Name, Job/Role, Place",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 113,
+          "question": "A good response to 'Tell me a little about yourself' should be:",
+          "options": ["A very long story about your life.", "Just your name.", "A brief summary of your background and interests relevant to the situation.", "A list of your family members."],
+          "correct_answer": "A brief summary of your background and interests relevant to the situation.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 114,
+          "question": "To talk about your future ambition, you say: 'I ____ to be an engineer.'",
+          "options": ["aspire", "hope", "want", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 115,
+          "question": "In an email, a formal way to introduce yourself is: 'My name is Anil Kumar and I am writing ____...'",
+          "options": ["because", "to you", "in regards to", "for"],
+          "correct_answer": "in regards to",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 116,
+          "question": "What is the meaning of 'acquaintance'?",
+          "options": ["A best friend", "A family member", "A person you know slightly, but not a close friend", "A classmate"],
+          "correct_answer": "A person you know slightly, but not a close friend",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 117,
+          "question": "When leaving a formal meeting, which is the best phrase to use?",
+          "options": ["See ya!", "Catch you later.", "It was a pleasure meeting you all. Goodbye.", "I'm out."],
+          "correct_answer": "It was a pleasure meeting you all. Goodbye.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 118,
+          "question": "The term 'maiden name' refers to a woman's ____ before marriage.",
+          "options": ["first name", "nickname", "surname", "middle name"],
+          "correct_answer": "surname",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 119,
+          "question": "If you are introducing yourself to a group, what should you do?",
+          "options": ["Speak very softly", "Look at only one person", "Make eye contact with different people in the group", "Look at the floor"],
+          "correct_answer": "Make eye contact with different people in the group",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 120,
+          "question": "Which of these is an appropriate way to describe your family background?",
+          "options": ["'I come from a family of farmers.'", "'My family is very poor.'", "'My family has a lot of problems.'", "'I have a family.'"],
+          "correct_answer": "'I come from a family of farmers.'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 121,
+          "question": "A: 'Have we met before?' B: '____.'",
+          "options": ["I don't think so. My name is...", "Yes, we have met.", "You look familiar.", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 122,
+          "question": "How do you politely interrupt to introduce someone?",
+          "options": ["'Stop! I want to introduce someone.'", "'Excuse me, I'm sorry to interrupt, but I'd like you to meet...'", "'Hey, look here.'", "'Can you be quiet for a minute?'"],
+          "correct_answer": "'Excuse me, I'm sorry to interrupt, but I'd like you to meet...'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 123,
+          "question": "The phrase 'I'm into...' is an informal way to talk about your ____.",
+          "options": ["name", "home", "hobbies and interests", "age"],
+          "correct_answer": "hobbies and interests",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 124,
+          "question": "'Could you tell me a bit about your background?' is asking for information about your ____.",
+          "options": ["back garden", "hobbies", "experience and personal history", "future plans"],
+          "correct_answer": "experience and personal history",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 125,
+          "question": "What is wrong with this sentence? 'I am belonging to a village.'",
+          "options": ["The verb 'belong' is not typically used in the continuous tense.", "The word 'village' is wrong.", "The pronoun 'I' is wrong.", "Nothing is wrong."],
+          "correct_answer": "The verb 'belong' is not typically used in the continuous tense.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 126,
+          "question": "To describe your primary responsibility at home, you could say: 'At home, I am responsible ____ helping my mother.'",
+          "options": ["for", "to", "of", "with"],
+          "correct_answer": "for",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 127,
+          "question": "Which of these is a good detail to add to an introduction in a new class?",
+          "options": ["'I am looking forward to learning with all of you.'", "'I think this class will be boring.'", "'I know more than everyone here.'", "'I don't want to be here.'"],
+          "correct_answer": "'I am looking forward to learning with all of you.'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 128,
+          "question": "The phrase 'I go by the name of...' is a slightly ____ way to state your name.",
+          "options": ["informal", "outdated or formal", "rude", "incorrect"],
+          "correct_answer": "outdated or formal",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 129,
+          "question": "What does it mean if someone says 'You can call me Raj' after introducing themselves as 'Rajesh'?",
+          "options": ["Their name is not Rajesh.", "'Raj' is their preferred nickname.", "They are angry.", "They want you to phone them."],
+          "correct_answer": "'Raj' is their preferred nickname.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 130,
+          "question": "To talk about your role in the family, you can say: 'I am the ____ son/daughter.'",
+          "options": ["oldest/eldest", "youngest", "middle", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 131,
+          "question": "When is it appropriate to use a very informal greeting like 'Yo!'?",
+          "options": ["When meeting your new principal.", "When greeting your very close friends.", "In a formal speech.", "When writing a business email."],
+          "correct_answer": "When greeting your very close friends.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 132,
+          "question": "What is a good follow-up question after someone tells you where they are from?",
+          "options": ["'Oh, really? I've heard it's a beautiful place.'", "'Why do you live there?'", "'How much money do you have?'", "'What is your house number?'"],
+          "correct_answer": "'Oh, really? I've heard it's a beautiful place.'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 133,
+          "question": "The term 'alma mater' refers to the ____ you graduated from.",
+          "options": ["village", "house", "school or university", "hospital"],
+          "correct_answer": "school or university",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 134,
+          "question": "Fill in the blank: 'I was born and ____ in a small village.'",
+          "options": ["brought up", "raised", "grew up", "Both A and B are correct."],
+          "correct_answer": "Both A and B are correct.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 135,
+          "question": "Which of the following is NOT a form of greeting?",
+          "options": ["Howdy!", "Greetings!", "Salutations!", "Indeed!"],
+          "correct_answer": "Indeed!",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 136,
+          "question": "To introduce your family's occupation, you could say: 'I come from a ____ of farmers.'",
+          "options": ["job", "lineage", "work", "group"],
+          "correct_answer": "lineage",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 137,
+          "question": "What is a polite way to correct someone who says your name wrong?",
+          "options": ["'You're wrong!'", "'That's not my name.'", "'Actually, it's pronounced...' ", "'Listen carefully.'"],
+          "correct_answer": "'Actually, it's pronounced...' ",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 138,
+          "question": "The phrase 'to whom it may concern' is used to start a formal letter when you...",
+          "options": ["know the person well.", "are writing to a friend.", "do not know the name of the person you are writing to.", "are writing to your parents."],
+          "correct_answer": "do not know the name of the person you are writing to.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 139,
+          "question": "A short, engaging story about yourself to make a point in an introduction is called an ____.",
+          "options": ["anecdote", "epic", "fable", "myth"],
+          "correct_answer": "anecdote",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 140,
+          "question": "Which sentence is the most natural and fluent?",
+          "options": ["For my hobbies, I am liking cricket and music.", "My hobbies are including cricket and music.", "In my spare time, I enjoy playing cricket and listening to music.", "Cricket and music are my hobbies I like."],
+          "correct_answer": "In my spare time, I enjoy playing cricket and listening to music.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 141,
+          "question": "In a job interview, when asked 'Tell me about yourself', you should focus on:",
+          "options": ["Your childhood stories", "Your family problems", "Your skills and experience relevant to the job", "Your favourite movies"],
+          "correct_answer": "Your skills and experience relevant to the job",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 142,
+          "question": "The phrase 'How have you been?' implies that...",
+          "options": ["you have never met the person before.", "you are meeting the person for the first time.", "you have met the person before but not for some time.", "you are angry with the person."],
+          "correct_answer": "you have met the person before but not for some time.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 143,
+          "question": "What is a 'moniker'?",
+          "options": ["A formal title", "A surname", "A nickname or a name", "A family business"],
+          "correct_answer": "A nickname or a name",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 144,
+          "question": "If you want to describe where your village is, you could say: 'My village is ____ near the river.'",
+          "options": ["resided", "placed", "located", "situated"],
+          "correct_answer": "situated",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 145,
+          "question": "A conversation opener like 'Lovely weather we're having, isn't it?' is an example of ____.",
+          "options": ["an introduction", "a deep question", "small talk", "an argument"],
+          "correct_answer": "small talk",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 146,
+          "question": "What is the best way to describe your personality briefly?",
+          "options": ["'I am a person with a personality.'", "'People say I am friendly and hard-working.'", "'My personality is very complex.'", "'I have the best personality.'"],
+          "correct_answer": "'People say I am friendly and hard-working.'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 147,
+          "question": "Which of these is a good question to ask back after you have introduced yourself?",
+          "options": ["'What about you?'", "'And you?'", "'How about yourself?'", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 148,
+          "question": "The phrase 'I reside at...' is a more formal way of saying ____.",
+          "options": ["'I like...'", "'I want...'", "'I am from...'", "'I live at...'"],
+          "correct_answer": "'I live at...'",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 149,
+          "question": "When introducing yourself, why is it important to smile?",
+          "options": ["It shows you are rich.", "It is a rule.", "It makes you appear friendly and approachable.", "It shows you are older."],
+          "correct_answer": "It makes you appear friendly and approachable.",
+          "grammar_type": "Introducing Yourself"
+        },
+        {
+          "id": 150,
+          "question": "The closing 'Yours sincerely' is used in a formal letter when you...",
+          "options": ["do not know the person's name.", "know the person's name.", "are writing to a friend.", "are writing a complaint."],
+          "correct_answer": "know the person's name.",
+          "grammar_type": "Introducing Yourself"
         }
       ]
     }
   ]
 }
+

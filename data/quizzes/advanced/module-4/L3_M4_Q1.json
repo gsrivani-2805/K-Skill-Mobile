@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "When an interviewer says, 'Tell me about yourself,' what should you talk about?",
+          "options": ["Your entire life story", "A brief summary of your education and interests related to the job", "Your family problems", "Your favorite movie"],
+          "correct_answer": "A brief summary of your education and interests related to the job",
+          "grammar_type": "Tell me about yourself"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "What is the main purpose of a face-to-face interview?",
+          "options": ["To get a free lunch", "To meet the interviewer in person and discuss your fitness for the job", "To see the office building", "To ask for a holiday"],
+          "correct_answer": "To meet the interviewer in person and discuss your fitness for the job",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 3,
+          "question": "For a phone interview, what is the most important thing to ensure?",
+          "options": ["You are in a noisy place", "You are in a quiet place with a good network connection", "You are eating your lunch", "You are watching TV"],
+          "correct_answer": "You are in a quiet place with a good network connection",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 4,
+          "question": "A 'Tell me about yourself' answer should be...",
+          "options": ["very long, about 10 minutes", "very short, just your name", "about 1-2 minutes long", "a single word"],
+          "correct_answer": "about 1-2 minutes long",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 5,
+          "question": "What should you do at the beginning of a face-to-face interview?",
+          "options": ["Sit down immediately", "Greet the interviewer with a smile and a handshake", "Start asking questions", "Look at the floor"],
+          "correct_answer": "Greet the interviewer with a smile and a handshake",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 6,
+          "question": "During a phone interview, it is important to speak...",
+          "options": ["very fast", "in a whisper", "clearly and confidently", "with a lot of pauses"],
+          "correct_answer": "clearly and confidently",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 7,
+          "question": "When you 'Tell me about yourself,' you should mention your skills that...",
+          "options": ["are not related to the job", "match the job you are applying for", "are your biggest weaknesses", "you don't have"],
+          "correct_answer": "match the job you are applying for",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 8,
+          "question": "How should you dress for a face-to-face interview?",
+          "options": ["In casual party clothes", "In clean, formal or business-casual clothes", "In clothes you wear at home", "In a sports uniform"],
+          "correct_answer": "In clean, formal or business-casual clothes",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 9,
+          "question": "What should you have with you during a phone interview?",
+          "options": ["Loud music", "Your friends", "A copy of your resume and a pen and paper", "Your pet"],
+          "correct_answer": "A copy of your resume and a pen and paper",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 10,
+          "question": "The 'Tell me about yourself' question is a way for the interviewer to...",
+          "options": ["test your memory", "get a quick overview of who you are", "waste time", "ask about your family"],
+          "correct_answer": "get a quick overview of who you are",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 11,
+          "question": "What is good body language in a face-to-face interview?",
+          "options": ["Slouching in your chair", "Avoiding eye contact", "Sitting up straight and making eye contact", "Fidgeting with your hands"],
+          "correct_answer": "Sitting up straight and making eye contact",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 12,
+          "question": "What should you do at the end of a phone interview?",
+          "options": ["Hang up suddenly", "Thank the interviewer for their time", "Ask when you will get the job", "Complain about the network"],
+          "correct_answer": "Thank the interviewer for their time",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 13,
+          "question": "Your 'Tell me about yourself' answer should start with...",
+          "options": ["your hobbies", "your name and a brief introduction", "your family background", "your weaknesses"],
+          "correct_answer": "your name and a brief introduction",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 14,
+          "question": "Listening carefully to the interviewer's questions is ______ in a face-to-face interview.",
+          "options": ["not important", "very important", "optional", "a waste of time"],
+          "correct_answer": "very important",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 15,
+          "question": "Why is smiling important during a phone interview, even if they can't see you?",
+          "options": ["It is not important.", "It can make your voice sound more positive and friendly.", "It helps you hear better.", "It is a rule."],
+          "correct_answer": "It can make your voice sound more positive and friendly.",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 16,
+          "question": "A good way to end your 'Tell me about yourself' answer is to...",
+          "options": ["stop talking abruptly", "connect your skills to why you are a good fit for the job", "ask a question about salary", "talk about your childhood"],
+          "correct_answer": "connect your skills to why you are a good fit for the job",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 17,
+          "question": "What should you bring with you to a face-to-face interview?",
+          "options": ["Your pet", "Copies of your resume and a notepad", "Loud music", "A friend"],
+          "correct_answer": "Copies of your resume and a notepad",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 18,
+          "question": "How should you answer the phone for a scheduled phone interview?",
+          "options": ["By saying 'Hello?' in a confused tone", "With a professional greeting, like 'Hello, this is [Your Name].'", "By saying 'What do you want?'", "By not saying anything"],
+          "correct_answer": "With a professional greeting, like 'Hello, this is [Your Name].'",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 19,
+          "question": "Which of these is a good point to include when you 'Tell me about yourself'?",
+          "options": ["Your latest academic achievement or relevant project", "A story about your last holiday", "Your political views", "A complaint about your previous job"],
+          "correct_answer": "Your latest academic achievement or relevant project",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 20,
+          "question": "Arriving ______ for a face-to-face interview is important.",
+          "options": ["exactly on time", "a little early (10-15 minutes)", "late", "an hour early"],
+          "correct_answer": "a little early (10-15 minutes)",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 21,
+          "question": "What should you do if you miss a word the interviewer said during a phone call?",
+          "options": ["Guess what they said", "Politely ask them to repeat the question", "Hang up the phone", "Remain silent"],
+          "correct_answer": "Politely ask them to repeat the question",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 22,
+          "question": "Your 'Tell me about yourself' answer should be...",
+          "options": ["memorized and sound robotic", "practiced but sound natural", "completely unplanned", "the same for every job"],
+          "correct_answer": "practiced but sound natural",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 23,
+          "question": "What is the purpose of asking 'Do you have any questions for us?' at the end of an interview?",
+          "options": ["To test your memory", "To see if you are interested and have done your research", "To make the interview longer", "It is just a formality"],
+          "correct_answer": "To see if you are interested and have done your research",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 24,
+          "question": "A phone interview is often the ______ stage of the hiring process.",
+          "options": ["final", "first", "only", "last"],
+          "correct_answer": "first",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 25,
+          "question": "It is a good idea to research the ______ before any type of interview.",
+          "options": ["interviewer's family", "company", "canteen menu", "office location only"],
+          "correct_answer": "company",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 26,
+          "question": "A firm handshake in a face-to-face interview shows...",
+          "options": ["aggression", "weakness", "confidence", "nervousness"],
+          "correct_answer": "confidence",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 27,
+          "question": "During a phone interview, it is important to avoid...",
+          "options": ["smiling", "speaking clearly", "interrupting the interviewer", "taking notes"],
+          "correct_answer": "interrupting the interviewer",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 28,
+          "question": "What is the best way to structure your 'Tell me about yourself' answer?",
+          "options": ["Past - Present - Future", "Future - Past - Present", "Only Present", "Only Past"],
+          "correct_answer": "Past - Present - Future",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 29,
+          "question": "Turning off your mobile phone is essential before a ______ interview.",
+          "options": ["phone", "face-to-face", "video", "All of the above"],
+          "correct_answer": "face-to-face",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 30,
+          "question": "The main challenge in a phone interview is that the interviewer cannot see your...",
+          "options": ["resume", "body language", "notes", "education"],
+          "correct_answer": "body language",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 31,
+          "question": "When you 'Tell me about yourself', you are giving your personal...",
+          "options": ["secrets", "complaints", "elevator pitch", "life story"],
+          "correct_answer": "elevator pitch",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 32,
+          "question": "At the end of a face-to-face interview, you should...",
+          "options": ["leave without saying anything", "thank the interviewer for their time", "ask for the job immediately", "criticize the company"],
+          "correct_answer": "thank the interviewer for their time",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 33,
+          "question": "A phone interview is also known as a phone ______.",
+          "options": ["call", "screening", "chat", "meeting"],
+          "correct_answer": "screening",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 34,
+          "question": "Your 'Tell me about yourself' answer should be tailored to the...",
+          "options": ["interviewer's name", "company and the specific job role", "city", "weather"],
+          "correct_answer": "company and the specific job role",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 35,
+          "question": "Giving short, one-word answers in a face-to-face interview is...",
+          "options": ["a good idea", "a bad idea", "recommended", "a sign of intelligence"],
+          "correct_answer": "a bad idea",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 36,
+          "question": "The tone of your voice is very important in a ______ interview.",
+          "options": ["phone", "face-to-face", "written", "practical"],
+          "correct_answer": "phone",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 37,
+          "question": "It is a bad idea to mention your ______ when asked to tell about yourself, unless asked.",
+          "options": ["skills", "education", "weaknesses", "strengths"],
+          "correct_answer": "weaknesses",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 38,
+          "question": "What does being 'punctual' for an interview mean?",
+          "options": ["Being late", "Being on time", "Being very early", "Not coming at all"],
+          "correct_answer": "Being on time",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 39,
+          "question": "What is the purpose of a phone interview?",
+          "options": ["To hire you immediately", "To shortlist candidates for the next round", "To waste your time", "To check your phone's quality"],
+          "correct_answer": "To shortlist candidates for the next round",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 40,
+          "question": "When you talk about your past in the 'Tell me about yourself' answer, you should focus on...",
+          "options": ["your childhood", "relevant experience and education", "your family history", "your past failures"],
+          "correct_answer": "relevant experience and education",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 41,
+          "question": "A face-to-face interview allows the interviewer to assess your non-verbal ______.",
+          "options": ["skills", "education", "cues", "resume"],
+          "correct_answer": "cues",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 42,
+          "question": "It is a good idea to ______ the interviewer's name for a phone interview.",
+          "options": ["forget", "remember and use", "ignore", "make fun of"],
+          "correct_answer": "remember and use",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 43,
+          "question": "When you talk about your future in the 'Tell me about yourself' answer, you should mention your...",
+          "options": ["plans for a holiday", "career goals and how they align with the company", "plans to get married", "plans to leave the country"],
+          "correct_answer": "career goals and how they align with the company",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 44,
+          "question": "A positive attitude is ______ in a face-to-face interview.",
+          "options": ["unimportant", "contagious and helpful", "a sign of weakness", "a disadvantage"],
+          "correct_answer": "contagious and helpful",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 45,
+          "question": "What should you do immediately after a phone interview?",
+          "options": ["Go to sleep", "Send a brief thank-you email", "Call the interviewer back immediately", "Forget about the interview"],
+          "correct_answer": "Send a brief thank-you email",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 46,
+          "question": "The 'Tell me about yourself' question is often the ______ question in an interview.",
+          "options": ["last", "first", "hardest", "easiest"],
+          "correct_answer": "first",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 47,
+          "question": "Being respectful and polite to everyone you meet at the office, including the receptionist, is important for a ______ interview.",
+          "options": ["phone", "face-to-face", "video", "mock"],
+          "correct_answer": "face-to-face",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 48,
+          "question": "For a phone interview, it is wise to have a ______ of water nearby.",
+          "options": ["bucket", "bottle", "tank", "glass"],
+          "correct_answer": "glass",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 49,
+          "question": "A good 'Tell me about yourself' answer should sound like...",
+          "options": ["a robot", "a confident conversation", "a sad story", "a complaint"],
+          "correct_answer": "a confident conversation",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 50,
+          "question": "Which of these is a key component of a face-to-face interview?",
+          "options": ["First impression", "Body language", "Verbal communication", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Face-to-face interview"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "What is a 'behavioral interview' question designed to assess?",
+          "options": ["Your knowledge of facts", "Your past behavior as an indicator of future performance", "Your physical fitness", "Your family background"],
+          "correct_answer": "Your past behavior as an indicator of future performance",
+          "grammar_type": "Behavioral interview"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "A 'panel interview' is an interview with...",
+          "options": ["only one interviewer", "several interviewers at the same time", "no interviewers", "a video recording"],
+          "correct_answer": "several interviewers at the same time",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 53,
+          "question": "What is the most important technical aspect to check before a 'video interview'?",
+          "options": ["Your clothes", "Your internet connection and camera/microphone", "Your resume", "Your notes"],
+          "correct_answer": "Your internet connection and camera/microphone",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 54,
+          "question": "'Tell me about a time you had to work with a difficult team member.' This is an example of a ______ question.",
+          "options": ["technical", "personal", "behavioral", "simple"],
+          "correct_answer": "behavioral",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 55,
+          "question": "In a panel interview, who should you make eye contact with when answering a question?",
+          "options": ["Only the person who asked the question", "The whole panel, focusing on the person who asked", "Only the most senior person", "The ceiling"],
+          "correct_answer": "The whole panel, focusing on the person who asked",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 56,
+          "question": "Where should you look during a video interview?",
+          "options": ["At your own image on the screen", "At the interviewer's image on the screen", "Directly into the camera lens", "At your keyboard"],
+          "correct_answer": "Directly into the camera lens",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 57,
+          "question": "The 'STAR' method is a way to answer behavioral questions. What does 'S' stand for?",
+          "options": ["Story", "Situation", "Success", "Skill"],
+          "correct_answer": "Situation",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 58,
+          "question": "A key challenge in a panel interview is...",
+          "options": ["it is very short", "managing questions from different people with different roles", "there is only one interviewer", "it is always very easy"],
+          "correct_answer": "managing questions from different people with different roles",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 59,
+          "question": "What should be in the background of your video interview?",
+          "options": ["A messy room", "A lot of people walking around", "A professional and non-distracting background", "A television that is on"],
+          "correct_answer": "A professional and non-distracting background",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 60,
+          "question": "In the STAR method, what does 'A' stand for?",
+          "options": ["Answer", "Argument", "Attitude", "Action"],
+          "correct_answer": "Action",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 61,
+          "question": "Why might a company use a panel interview?",
+          "options": ["To save time and get multiple perspectives at once", "To make the candidate more nervous", "Because they have too many interviewers", "To make the process longer"],
+          "correct_answer": "To save time and get multiple perspectives at once",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 62,
+          "question": "In a video interview, your non-verbal cues, like nodding and smiling, are...",
+          "options": ["not visible", "still very important", "a distraction", "unprofessional"],
+          "correct_answer": "still very important",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 63,
+          "question": "When a behavioral question asks about a failure, you should...",
+          "options": ["say you have never failed", "blame someone else for the failure", "describe the failure and what you learned from it", "refuse to answer the question"],
+          "correct_answer": "describe the failure and what you learned from it",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 64,
+          "question": "After a panel interview, it is a good idea to...",
+          "options": ["send a thank-you note to only one interviewer", "send a personalized thank-you note to each interviewer", "not send any thank-you notes", "call them immediately"],
+          "correct_answer": "send a personalized thank-you note to each interviewer",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 65,
+          "question": "What is a 'one-way' or 'asynchronous' video interview?",
+          "options": ["A live conversation with an interviewer", "An interview where you record your answers to preset questions", "An interview with no video", "An interview where you cannot speak"],
+          "correct_answer": "An interview where you record your answers to preset questions",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 66,
+          "question": "The 'R' in the STAR method stands for...",
+          "options": ["Reason", "Result", "Repeat", "Response"],
+          "correct_answer": "Result",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 67,
+          "question": "In a panel interview, if two people ask a question at once, you should...",
+          "options": ["answer both at the same time", "politely ask one to wait while you answer the other", "ignore both questions", "leave the room"],
+          "correct_answer": "politely ask one to wait while you answer the other",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 68,
+          "question": "How can you show you are actively listening during a video interview?",
+          "options": ["By looking away from the screen", "By nodding and using facial expressions", "By interrupting the speaker", "By typing loudly"],
+          "correct_answer": "By nodding and using facial expressions",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 69,
+          "question": "'Describe a situation where you had to work under pressure.' The best answer to this behavioral question would include...",
+          "options": ["a brief story with a positive outcome", "a one-word answer like 'Yes.'", "a complaint about the pressure", "a story where you failed completely"],
+          "correct_answer": "a brief story with a positive outcome",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 70,
+          "question": "The members of an interview panel might be from different departments, such as HR and...",
+          "options": ["the canteen", "the technical team", "the security team", "the cleaning staff"],
+          "correct_answer": "the technical team",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 71,
+          "question": "It is a good idea to do a ______ before your actual video interview.",
+          "options": ["workout", "long sleep", "test call with a friend", "big meal"],
+          "correct_answer": "test call with a friend",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 72,
+          "question": "The STAR method helps you to structure your answers to ______ questions.",
+          "options": ["technical", "behavioral", "yes/no", "personal"],
+          "correct_answer": "behavioral",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 73,
+          "question": "What is the main advantage of a panel interview for the company?",
+          "options": ["It is more personal for the candidate.", "It provides a more diverse and comprehensive assessment of the candidate.", "It is easier to schedule.", "It is less stressful for the candidate."],
+          "correct_answer": "It provides a more diverse and comprehensive assessment of the candidate.",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 74,
+          "question": "What is the biggest challenge of a one-way video interview?",
+          "options": ["You can see the interviewer's reaction.", "You cannot ask clarifying questions or build rapport.", "It is too long.", "The questions are always easy."],
+          "correct_answer": "You cannot ask clarifying questions or build rapport.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 5,
+          "question": "To prepare for behavioral questions, you should think of specific ______ from your past experience.",
+          "options": ["opinions", "feelings", "examples and stories", "dreams"],
+          "correct_answer": "examples and stories",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 76,
+          "question": "In a panel interview, it's important to get the ______ of each interviewer if possible.",
+          "options": ["home address", "phone number", "name and role", "favorite color"],
+          "correct_answer": "name and role",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 77,
+          "question": "Lighting is important for a video interview. The main light source should be...",
+          "options": ["behind you", "above you", "to the side of you", "in front of you"],
+          "correct_answer": "in front of you",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 78,
+          "question": "'Tell me about a time you showed leadership.' The 'Result' part of your STAR answer should explain...",
+          "options": ["what you did", "what the situation was", "what the outcome was and what you learned", "what the task was"],
+          "correct_answer": "what the outcome was and what you learned",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 79,
+          "question": "What should you do if one panel member seems uninterested or distracted?",
+          "options": ["Stop talking to them", "Continue to address the whole panel professionally", "Ask them what is wrong", "Get angry"],
+          "correct_answer": "Continue to address the whole panel professionally",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 80,
+          "question": "The dress code for a video interview is generally...",
+          "options": ["casual, since you are at home", "the same as for a face-to-face interview", "only formal on the top half", "not important"],
+          "correct_answer": "the same as for a face-to-face interview",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 81,
+          "question": "Behavioral questions often start with phrases like 'Give an example of a time when...' or...",
+          "options": ["'What is your name?'", "'Tell me about a time when...'", "'Where do you live?'", "'What are your hobbies?'"],
+          "correct_answer": "'Tell me about a time when...'",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 82,
+          "question": "A panel interview can feel intimidating. What is the best way to manage this?",
+          "options": ["By avoiding eye contact", "By speaking very quietly", "By remembering they are all just people and focusing on your answers", "By not preparing for it"],
+          "correct_answer": "By remembering they are all just people and focusing on your answers",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 83,
+          "question": "What should you do if your internet connection fails during a video interview?",
+          "options": ["Panic and give up.", "Try to reconnect and have a backup plan, like the interviewer's phone number.", "Pretend nothing happened.", "Blame the company for the problem."],
+          "correct_answer": "Try to reconnect and have a backup plan, like the interviewer's phone number.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 84,
+          "question": "The 'Task' part of the STAR method is where you describe...",
+          "options": ["your goal or what you had to achieve", "the final result", "the actions you took", "the overall situation"],
+          "correct_answer": "your goal or what you had to achieve",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 85,
+          "question": "Why might a panel have members with very different questioning styles (e.g., one friendly, one aggressive)?",
+          "options": ["Because they don't like each other", "To see how you react under different types of pressure", "It is just a coincidence", "To make the interview fun"],
+          "correct_answer": "To see how you react under different types of pressure",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 86,
+          "question": "Before a video interview, it's important to close unnecessary ______ on your computer.",
+          "options": ["files", "applications and tabs", "pictures", "folders"],
+          "correct_answer": "applications and tabs",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 87,
+          "question": "'Give an example of a goal you reached.' This behavioral question is assessing your...",
+          "options": ["teamwork skills", "ability to set and achieve goals", "problem-solving skills", "leadership"],
+          "correct_answer": "ability to set and achieve goals",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 88,
+          "question": "In a panel interview, it's a good sign if...",
+          "options": ["the interview is very short", "the interviewers start discussing your skills among themselves", "no one asks any questions", "they look bored"],
+          "correct_answer": "the interviewers start discussing your skills among themselves",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 89,
+          "question": "What is a major advantage of a video interview for a candidate?",
+          "options": ["It is more stressful.", "It saves travel time and cost.", "The technology always works perfectly.", "It is less personal."],
+          "correct_answer": "It saves travel time and cost.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 90,
+          "question": "The STAR method ensures your answers are...",
+          "options": ["vague and short", "structured, specific, and complete", "full of opinions", "irrelevant"],
+          "correct_answer": "structured, specific, and complete",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 91,
+          "question": "If you are asked the same question by two different panel members, you should...",
+          "options": ["refuse to answer the second time", "give the exact same answer", "politely acknowledge the question was asked and give a consistent, perhaps slightly rephrased, answer", "tell them they already asked that"],
+          "correct_answer": "politely acknowledge the question was asked and give a consistent, perhaps slightly rephrased, answer",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 92,
+          "question": "What is a key difference between a phone interview and a video interview?",
+          "options": ["There is no difference.", "In a video interview, your appearance and body language matter.", "A phone interview is more formal.", "A video interview is always shorter."],
+          "correct_answer": "In a video interview, your appearance and body language matter.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 93,
+          "question": "'Tell me about a time you had to learn a new skill quickly.' This question tests your...",
+          "options": ["honesty", "adaptability and ability to learn", "leadership", "teamwork"],
+          "correct_answer": "adaptability and ability to learn",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 94,
+          "question": "A panel interview is often the ______ stage in the interview process.",
+          "options": ["first", "final", "easiest", "shortest"],
+          "correct_answer": "final",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 95,
+          "question": "In a one-way video interview, you should pay close attention to the...",
+          "options": ["interviewer's face", "time limit for each answer", "background noise", "your own image"],
+          "correct_answer": "time limit for each answer",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 96,
+          "question": "The purpose of behavioral questions is to get ______ evidence of your skills.",
+          "options": ["hypothetical", "future", "concrete", "imaginary"],
+          "correct_answer": "concrete",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 97,
+          "question": "In a panel interview, if one person is from HR and another is a technical manager, their questions will likely be...",
+          "options": ["exactly the same", "focused on different areas (e.g., personality vs. technical skills)", "only about your hobbies", "very easy"],
+          "correct_answer": "focused on different areas (e.g., personality vs. technical skills)",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 98,
+          "question": "The term 'virtual interview' can refer to a...",
+          "options": ["phone or video interview", "face-to-face interview", "written test", "mock interview"],
+          "correct_answer": "phone or video interview",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 99,
+          "question": "Preparing 5-6 strong examples using the STAR method is a good strategy for ______ interviews.",
+          "options": ["all types of", "only phone", "behavioral", "only panel"],
+          "correct_answer": "behavioral",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 100,
+          "question": "A key skill for a panel interview is to remain calm and ______.",
+          "options": ["aggressive", "composed", "silent", "nervous"],
+          "correct_answer": "composed",
+          "grammar_type": "Panel interview"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "In a behavioral interview, how do you handle a question about a time you failed if you can't think of a major failure?",
+          "options": ["Insist you have never failed.", "Describe a small, genuine mistake and focus on the learning and improvement that resulted from it.", "Make up a dramatic story about a huge failure.", "Refuse to answer the question."],
+          "correct_answer": "Describe a small, genuine mistake and focus on the learning and improvement that resulted from it.",
+          "grammar_type": "Behavioral interview"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "During a panel interview, if one interviewer clearly disagrees with another's assessment of your answer, what should you do?",
+          "options": ["Take a side and agree with one of them.", "Remain neutral and confident in your original answer, without getting involved in their disagreement.", "Tell them they are both wrong.", "End the interview."],
+          "correct_answer": "Remain neutral and confident in your original answer, without getting involved in their disagreement.",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 103,
+          "question": "How do you build rapport and show personality in a pre-recorded, one-way video interview?",
+          "options": ["By being very serious and robotic.", "By speaking with enthusiasm and energy, and looking directly at the camera as if talking to a person.", "You cannot build rapport in a one-way interview.", "By reading your answers from a script."],
+          "correct_answer": "By speaking with enthusiasm and energy, and looking directly at the camera as if talking to a person.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 104,
+          "question": "How should your 'Tell me about yourself' answer differ for a creative role versus an analytical role?",
+          "options": ["It should be exactly the same.", "For a creative role, emphasize innovation and storytelling; for an analytical role, emphasize data and problem-solving.", "For a creative role, you should sing your answer.", "For an analytical role, you should list only numbers."],
+          "correct_answer": "For a creative role, emphasize innovation and storytelling; for an analytical role, emphasize data and problem-solving.",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 105,
+          "question": "How can you effectively use pauses during a phone interview?",
+          "options": ["You should avoid all pauses.", "Use brief pauses to gather your thoughts, which shows you are being thoughtful rather than just rushing an answer.", "Use very long and awkward pauses.", "Fill all pauses with 'um' or 'ah'."],
+          "correct_answer": "Use brief pauses to gather your thoughts, which shows you are being thoughtful rather than just rushing an answer.",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 106,
+          "question": "What is the best strategy to answer the behavioral question: 'Tell me about a time you had a conflict with a supervisor'?",
+          "options": ["Describe the conflict by focusing on how the supervisor was wrong.", "State that you have never had a conflict.", "Describe the situation professionally, focusing on the respectful resolution and positive outcome.", "Criticize your previous supervisor heavily."],
+          "correct_answer": "Describe the situation professionally, focusing on the respectful resolution and positive outcome.",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 107,
+          "question": "In a panel interview, how can you identify the 'power player' or key decision-maker?",
+          "options": ["By who is the most senior or who other panelists defer to.", "By who is the quietest.", "It is impossible to identify.", "By who is the youngest."],
+          "correct_answer": "By who is the most senior or who other panelists defer to.",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 108,
+          "question": "In a video interview, what is the 'framing' of your shot?",
+          "options": ["The picture frame on your wall.", "How you are positioned in the camera's view, typically from the chest up.", "Your internet speed.", "The brand of your camera."],
+          "correct_answer": "How you are positioned in the camera's view, typically from the chest up.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 109,
+          "question": "An interviewer asks 'What is your greatest weakness?' in a face-to-face interview. What is the best approach?",
+          "options": ["Say 'I have no weaknesses.'", "Mention a real but manageable weakness and show how you are working to improve it.", "Mention a weakness that is actually a strength, like 'I work too hard.'", "Mention a critical weakness that makes you unfit for the job."],
+          "correct_answer": "Mention a real but manageable weakness and show how you are working to improve it.",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 110,
+          "question": "The 'Tell me about yourself' question is also known as the 'elevator pitch'. Why?",
+          "options": ["Because you should give it in an elevator.", "Because it should be a short, compelling summary of yourself that you could deliver in a short elevator ride.", "Because it should be very long and detailed.", "Because it is about elevators."],
+          "correct_answer": "Because it should be a short, compelling summary of yourself that you could deliver in a short elevator ride.",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 111,
+          "question": "The 'Result' part of your STAR answer should ideally be...",
+          "options": ["vague and unclear", "quantifiable with numbers or specific outcomes", "a negative outcome", "someone else's achievement"],
+          "correct_answer": "quantifiable with numbers or specific outcomes",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 112,
+          "question": "What is a 'stress interview', which might be simulated in a panel format?",
+          "options": ["A very relaxing and friendly interview.", "An interview where the panel intentionally creates a stressful environment to test your composure.", "An interview about your personal stress.", "An interview that is very short."],
+          "correct_answer": "An interview where the panel intentionally creates a stressful environment to test your composure.",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 113,
+          "question": "How do you convey enthusiasm in a phone interview without visual cues?",
+          "options": ["By speaking in a monotone voice.", "Through vocal variety, a positive tone, and expressing interest in your words.", "By shouting.", "You cannot convey enthusiasm in a phone interview."],
+          "correct_answer": "Through vocal variety, a positive tone, and expressing interest in your words.",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 114,
+          "question": "What is a major risk of giving a very rehearsed 'Tell me about yourself' answer?",
+          "options": ["It will sound very confident.", "It might sound robotic and insincere.", "The interviewer will be very impressed.", "There is no risk."],
+          "correct_answer": "It might sound robotic and insincere.",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 115,
+          "question": "In a face-to-face interview, mirroring the interviewer's body language slightly can help to...",
+          "options": ["annoy the interviewer", "build rapport and a subconscious connection", "show that you are not listening", "distract the interviewer"],
+          "correct_answer": "build rapport and a subconscious connection",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 116,
+          "question": "A behavioral question like 'Describe a time you had to persuade a team to do something they didn't want to' assesses your...",
+          "options": ["analytical skills", "communication and influencing skills", "technical knowledge", "honesty"],
+          "correct_answer": "communication and influencing skills",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 117,
+          "question": "If a panel interview includes a presentation, what is the most critical part of your preparation?",
+          "options": ["Making the slides very colorful.", "Anticipating questions from different perspectives (e.g., financial, technical).", "Memorizing the presentation word-for-word.", "Making the presentation as long as possible."],
+          "correct_answer": "Anticipating questions from different perspectives (e.g., financial, technical).",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 118,
+          "question": "What is 'active listening' during a phone interview?",
+          "options": ["Staying silent the whole time.", "Providing short verbal cues like 'I see' or 'That's interesting' to show you are engaged.", "Interrupting the interviewer frequently.", "Thinking about your next answer while the interviewer is talking."],
+          "correct_answer": "Providing short verbal cues like 'I see' or 'That's interesting' to show you are engaged.",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 119,
+          "question": "What is the primary goal of a video interview from the company's perspective?",
+          "options": ["To make the hiring process more difficult.", "To screen a large number of candidates efficiently while still getting visual cues.", "To test a candidate's internet speed.", "To save money on office space."],
+          "correct_answer": "To screen a large number of candidates efficiently while still getting visual cues.",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 120,
+          "question": "Your 'Tell me about yourself' should not just list your resume, but should...",
+          "options": ["tell a compelling story that connects your past, present, and future", "be a list of your hobbies", "be a summary of your family history", "be a list of your weaknesses"],
+          "correct_answer": "tell a compelling story that connects your past, present, and future",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 121,
+          "question": "A follow-up question to a behavioral answer (e.g., 'What would you do differently next time?') is designed to test your...",
+          "options": ["memory", "ability for self-reflection and learning", "honesty", "technical skills"],
+          "correct_answer": "ability for self-reflection and learning",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 122,
+          "question": "A panel interview is often used for senior roles to ensure...",
+          "options": ["the candidate is very nervous", "a consensus is reached among key stakeholders", "the process takes a very long time", "the candidate has a lot of friends in the company"],
+          "correct_answer": "a consensus is reached among key stakeholders",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 123,
+          "question": "In a one-way video interview, how can you make your answers engaging without an audience?",
+          "options": ["By speaking in a flat monotone", "By using vocal variety, hand gestures, and a conversational tone", "By reading directly from a script", "By making your answers very short"],
+          "correct_answer": "By using vocal variety, hand gestures, and a conversational tone",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 124,
+          "question": "A key non-verbal cue in a face-to-face interview is 'posture'. An open posture (not crossing your arms) conveys...",
+          "options": ["defensiveness", "confidence and receptiveness", "boredom", "dishonesty"],
+          "correct_answer": "confidence and receptiveness",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 125,
+          "question": "What is the best way to prepare for a phone interview?",
+          "options": ["By not preparing at all to sound natural.", "By preparing key points and answers, and practicing them out loud.", "By writing a full script and reading it.", "By just researching the company's location."],
+          "correct_answer": "By preparing key points and answers, and practicing them out loud.",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 126,
+          "question": "The 'Action' part of your STAR answer should focus on...",
+          "options": ["what the team did", "what your supervisor did", "the specific actions YOU took", "the final outcome"],
+          "correct_answer": "the specific actions YOU took",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 127,
+          "question": "If a panel interviewer asks a question you don't understand, you should...",
+          "options": ["guess the answer", "politely ask for clarification", "ignore the question", "ask another panelist what they meant"],
+          "correct_answer": "politely ask for clarification",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 128,
+          "question": "What is a major pitfall of a video interview?",
+          "options": ["The potential for technical glitches to disrupt the flow", "The ability to save on travel time", "The interviewer can see your body language", "It is always very personal"],
+          "correct_answer": "The potential for technical glitches to disrupt the flow",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 129,
+          "question": "A good 'Tell me about yourself' answer will seamlessly lead into...",
+          "options": ["a long silence", "a question about salary", "why you are a perfect fit for this specific role", "your life story from birth"],
+          "correct_answer": "why you are a perfect fit for this specific role",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 130,
+          "question": "How do you handle an illegal or inappropriate question in a face-to-face interview?",
+          "options": ["Answer it truthfully", "Politely deflect the question and redirect the conversation to your professional qualifications", "Walk out of the interview immediately", "Get angry and argue with the interviewer"],
+          "correct_answer": "Politely deflect the question and redirect the conversation to your professional qualifications",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 131,
+          "question": "A behavioral interview is based on the premise that...",
+          "options": ["past performance is the best predictor of future performance", "what you say you will do is what you will do", "technical skills are the only thing that matters", "your personality is fixed and cannot be assessed"],
+          "correct_answer": "past performance is the best predictor of future performance",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 132,
+          "question": "In a panel interview, if you have a strong disagreement with one member's technical question, you should...",
+          "options": ["aggressively prove they are wrong", "politely present your different technical reasoning with justification", "agree with them to avoid conflict", "ignore their question"],
+          "correct_answer": "politely present your different technical reasoning with justification",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 133,
+          "question": "A good way to end a phone interview is to reiterate your ______ for the role.",
+          "options": ["disinterest", "enthusiasm", "doubts", "salary expectations"],
+          "correct_answer": "enthusiasm",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 134,
+          "question": "A 'situational interview' question asks what you ______ do in a hypothetical situation.",
+          "options": ["would", "did", "have done", "are doing"],
+          "correct_answer": "would",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 135,
+          "question": "The most important part of your 'Tell me about yourself' answer for a results-oriented company is to include...",
+          "options": ["your hobbies", "your family details", "quantifiable achievements", "your weaknesses"],
+          "correct_answer": "quantifiable achievements",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 136,
+          "question": "The STAR method is crucial because it prevents you from giving ______ answers.",
+          "options": ["detailed and specific", "vague and general", "long and interesting", "truthful"],
+          "correct_answer": "vague and general",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 137,
+          "question": "A successful panel interview requires you to be confident, knowledgeable, and...",
+          "options": ["aggressive", "silent", "adaptable", "nervous"],
+          "correct_answer": "adaptable",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 138,
+          "question": "In a video interview, minimizing distractions in your environment is key to showing...",
+          "options": ["your multitasking skills", "your professionalism and focus", "that you have a busy house", "your disinterest"],
+          "correct_answer": "your professionalism and focus",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 139,
+          "question": "A 'case interview', often used in consulting, is a type of interview where you are given a business problem to...",
+          "options": ["memorize", "solve", "ignore", "criticize"],
+          "correct_answer": "solve",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 140,
+          "question": "What is the ultimate goal of the 'Tell me about yourself' answer?",
+          "options": ["To tell your life story", "To get the interviewer to like you as a person", "To pique the interviewer's interest and make them want to know more", "To answer the question as quickly as possible"],
+          "correct_answer": "To pique the interviewer's interest and make them want to know more",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 141,
+          "question": "The best stories for behavioral questions are recent and...",
+          "options": ["irrelevant to the job", "show you in a bad light", "demonstrate skills relevant to the job", "are very long and complex"],
+          "correct_answer": "demonstrate skills relevant to the job",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 142,
+          "question": "How can you turn a potentially negative panel interview (e.g., very critical questions) into a positive?",
+          "options": ["By arguing with the interviewers", "By staying calm, professional, and treating it as an opportunity to demonstrate how you handle pressure", "By giving up and leaving", "By agreeing with all the criticism"],
+          "correct_answer": "By staying calm, professional, and treating it as an opportunity to demonstrate how you handle pressure",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 143,
+          "question": "The closing of a phone interview should include thanking the interviewer and asking about the...",
+          "options": ["other candidates", "next steps in the process", "interviewer's personal life", "company's problems"],
+          "correct_answer": "next steps in the process",
+          "grammar_type": "Phone interview"
+        },
+        {
+          "id": 144,
+          "question": "The main purpose of a mock interview is to...",
+          "options": ["get a job offer", "practice and get feedback in a low-stakes environment", "meet new people", "waste time"],
+          "correct_answer": "practice and get feedback in a low-stakes environment",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 145,
+          "question": "A sophisticated 'Tell me about yourself' answer connects your past experiences to your present skills and then to your...",
+          "options": ["future career aspirations that align with the company's goals", "plans for the weekend", "childhood memories", "biggest regrets"],
+          "correct_answer": "future career aspirations that align with the company's goals",
+          "grammar_type": "Tell me about yourself"
+        },
+        {
+          "id": 146,
+          "question": "Behavioral questions are designed to move beyond theoretical answers and get to...",
+          "options": ["your opinions", "actual, demonstrated behavior", "your future plans", "your knowledge of the company"],
+          "correct_answer": "actual, demonstrated behavior",
+          "grammar_type": "Behavioral interview"
+        },
+        {
+          "id": 147,
+          "question": "A key skill in a panel interview is synthesizing information from multiple questions to...",
+          "options": ["give a single, long answer", "understand the company's overall priorities and challenges", "show that you are confused", "ignore the questions"],
+          "correct_answer": "understand the company's overall priorities and challenges",
+          "grammar_type": "Panel interview"
+        },
+        {
+          "id": 148,
+          "question": "How can you use your physical space to your advantage in a video interview?",
+          "options": ["By having a very distracting background", "By placing notes strategically out of the camera's view", "By sitting very far from the camera", "By having other people in the room"],
+          "correct_answer": "By placing notes strategically out of the camera's view",
+          "grammar_type": "Video interview"
+        },
+        {
+          "id": 149,
+          "question": "A face-to-face interview is a two-way street; it's also your opportunity to...",
+          "options": ["ask for a high salary", "assess if the company is a good fit for you", "show off your new clothes", "make friends with the interviewer"],
+          "correct_answer": "assess if the company is a good fit for you",
+          "grammar_type": "Face-to-face interview"
+        },
+        {
+          "id": 150,
+          "question": "Ultimately, all interview types are designed to answer one fundamental question:",
+          "options": ["'What is your name?'", "'Can this candidate do the job and will they fit into our team?'", "'What are your hobbies?'", "'Where do you live?'"],
+          "correct_answer": "'Can this candidate do the job and will they fit into our team?'",
+          "grammar_type": "Tell me about yourself"
         }
       ]
     }
   ]
 }
+

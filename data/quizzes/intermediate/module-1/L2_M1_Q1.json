@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "She ______ English very well.",
+          "options": ["speak", "speaks", "are speaking", "is speak"],
+          "correct_answer": "speaks",
+          "grammar_type": "Tenses"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "They ______ football yesterday.",
+          "options": ["play", "played", "plays", "will play"],
+          "correct_answer": "played",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 3,
+          "question": "I ______ watching a movie now.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 4,
+          "question": "We ______ to the market tomorrow.",
+          "options": ["go", "went", "will go", "goes"],
+          "correct_answer": "will go",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 5,
+          "question": "The sun ______ in the east.",
+          "options": ["rise", "rises", "rose", "is rising"],
+          "correct_answer": "rises",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 6,
+          "question": "He ______ his homework last night.",
+          "options": ["do", "does", "did", "will do"],
+          "correct_answer": "did",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 7,
+          "question": "Listen! The birds ______.",
+          "options": ["sings", "sing", "are singing", "sang"],
+          "correct_answer": "are singing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 8,
+          "question": "The train ______ at 9 AM every day.",
+          "options": ["arrive", "arrives", "arrived", "is arriving"],
+          "correct_answer": "arrives",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 9,
+          "question": "My friends ______ to my party next week.",
+          "options": ["came", "will come", "comes", "are coming"],
+          "correct_answer": "will come",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 10,
+          "question": "The children ______ in the garden when I saw them.",
+          "options": ["was playing", "were playing", "plays", "played"],
+          "correct_answer": "were playing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 11,
+          "question": "A dog ______ four legs.",
+          "options": ["have", "has", "is having", "are having"],
+          "correct_answer": "has",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 12,
+          "question": "I ______ to the village a year ago.",
+          "options": ["go", "goes", "went", "am going"],
+          "correct_answer": "went",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 13,
+          "question": "What ______ you doing now?",
+          "options": ["is", "am", "are", "do"],
+          "correct_answer": "are",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 14,
+          "question": "She ______ not like coffee.",
+          "options": ["do", "does", "is", "are"],
+          "correct_answer": "does",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 15,
+          "question": "The baby ______ for milk at the moment.",
+          "options": ["cries", "is crying", "cried", "will cry"],
+          "correct_answer": "is crying",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 16,
+          "question": "You ______ very tired yesterday.",
+          "options": ["was", "were", "are", "is"],
+          "correct_answer": "were",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 17,
+          "question": "I promise I ______ help you.",
+          "options": ["am", "do", "will", "was"],
+          "correct_answer": "will",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 18,
+          "question": "My mother ______ a delicious cake for my last birthday.",
+          "options": ["bakes", "baked", "is baking", "will bake"],
+          "correct_answer": "baked",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 19,
+          "question": "Water ______ at 0 degrees Celsius.",
+          "options": ["freeze", "freezes", "froze", "is freezing"],
+          "correct_answer": "freezes",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 20,
+          "question": "He ______ a book when I called him.",
+          "options": ["reads", "read", "was reading", "is reading"],
+          "correct_answer": "was reading",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 21,
+          "question": "Cows ______ grass.",
+          "options": ["eat", "eats", "is eating", "ate"],
+          "correct_answer": "eat",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 22,
+          "question": "I think it ______ rain later.",
+          "options": ["is", "are", "will", "was"],
+          "correct_answer": "will",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 23,
+          "question": "The teacher ______ us a new lesson yesterday.",
+          "options": ["teaches", "teach", "taught", "will teach"],
+          "correct_answer": "taught",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 24,
+          "question": "Look! That bird ______ beautifully.",
+          "options": ["is singing", "sings", "sang", "will sing"],
+          "correct_answer": "is singing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 25,
+          "question": "We ______ our grandparents every summer.",
+          "options": ["visit", "visits", "visited", "are visiting"],
+          "correct_answer": "visit",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 26,
+          "question": "The players ______ for the match right now.",
+          "options": ["practise", "practises", "are practising", "practised"],
+          "correct_answer": "are practising",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 27,
+          "question": "The phone rang while I ______ my dinner.",
+          "options": ["am having", "was having", "had", "have"],
+          "correct_answer": "was having",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 28,
+          "question": "I ______ a movie last night.",
+          "options": ["watch", "watches", "watched", "am watching"],
+          "correct_answer": "watched",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 29,
+          "question": "The earth ______ a planet.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 30,
+          "question": "He ______ his keys yesterday.",
+          "options": ["lose", "loses", "lost", "is losing"],
+          "correct_answer": "lost",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 31,
+          "question": "The stars ______ at night.",
+          "options": ["twinkle", "twinkles", "is twinkling", "twinkled"],
+          "correct_answer": "twinkle",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 32,
+          "question": "She ______ hard for her exams these days.",
+          "options": ["studies", "studied", "is studying", "will study"],
+          "correct_answer": "is studying",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 33,
+          "question": "I ______ you at the station tomorrow.",
+          "options": ["meet", "met", "will meet", "am meeting"],
+          "correct_answer": "will meet",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 34,
+          "question": "My little sister ______ cartoons every morning.",
+          "options": ["watch", "watches", "watched", "is watching"],
+          "correct_answer": "watches",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 35,
+          "question": "We ______ a great time at the party last Sunday.",
+          "options": ["have", "has", "had", "are having"],
+          "correct_answer": "had",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 36,
+          "question": "It ______ heavily when he reached home.",
+          "options": ["was raining", "is raining", "rains", "rained"],
+          "correct_answer": "was raining",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 37,
+          "question": "He ______ not play cricket.",
+          "options": ["do", "does", "is", "are"],
+          "correct_answer": "does",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 38,
+          "question": "I ______ tired, so I went to bed.",
+          "options": ["am", "is", "was", "will be"],
+          "correct_answer": "was",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 39,
+          "question": "They ______ a new house next year.",
+          "options": ["build", "built", "are building", "will build"],
+          "correct_answer": "will build",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 40,
+          "question": "My father ______ in a bank.",
+          "options": ["work", "works", "worked", "is working"],
+          "correct_answer": "works",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 41,
+          "question": "She ______ the window because it was hot.",
+          "options": ["opens", "opened", "is opening", "will open"],
+          "correct_answer": "opened",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 42,
+          "question": "What ______ you want?",
+          "options": ["do", "does", "are", "is"],
+          "correct_answer": "do",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 43,
+          "question": "The wind ______ strongly at the moment.",
+          "options": ["blows", "blew", "is blowing", "will blow"],
+          "correct_answer": "is blowing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 44,
+          "question": "Our school ______ at 8 AM.",
+          "options": ["start", "starts", "started", "is starting"],
+          "correct_answer": "starts",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 45,
+          "question": "I ______ a strange noise a minute ago.",
+          "options": ["hear", "hears", "heard", "am hearing"],
+          "correct_answer": "heard",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 46,
+          "question": "My brother ______ taller than me.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 47,
+          "question": "What ______ the time?",
+          "options": ["is", "am", "are", "do"],
+          "correct_answer": "is",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 48,
+          "question": "He ______ his teeth twice a day.",
+          "options": ["brush", "brushes", "brushed", "is brushing"],
+          "correct_answer": "brushes",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 49,
+          "question": "The students ______ the lesson tomorrow.",
+          "options": ["will learn", "learn", "learned", "are learning"],
+          "correct_answer": "will learn",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 50,
+          "question": "I ______ a letter to my friend last week.",
+          "options": ["write", "writes", "wrote", "am writing"],
+          "correct_answer": "wrote",
+          "grammar_type": "Tenses"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "She ______ in this city since 2012.",
+          "options": ["lives", "is living", "has lived", "lived"],
+          "correct_answer": "has lived",
+          "grammar_type": "Tenses"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "By the time the police arrived, the thief ______.",
+          "options": ["escaped", "has escaped", "had escaped", "was escaping"],
+          "correct_answer": "had escaped",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 53,
+          "question": "This time tomorrow, I ______ on a plane to Delhi.",
+          "options": ["will travel", "am travelling", "will be travelling", "have travelled"],
+          "correct_answer": "will be travelling",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 54,
+          "question": "Look at the dark clouds. It ______ rain.",
+          "options": ["will", "is going to", "rains", "rained"],
+          "correct_answer": "is going to",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 55,
+          "question": "I can't find my keys. I think I ______ them.",
+          "options": ["lost", "have lost", "had lost", "was losing"],
+          "correct_answer": "have lost",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 56,
+          "question": "He ______ his leg while he was playing cricket.",
+          "options": ["broke", "has broken", "had broken", "was breaking"],
+          "correct_answer": "broke",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 57,
+          "question": "By the end of this year, she ______ her graduation.",
+          "options": ["will complete", "completes", "will be completing", "will have completed"],
+          "correct_answer": "will have completed",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 58,
+          "question": "The teacher told us that the earth ______ around the sun.",
+          "options": ["revolves", "revolved", "is revolving", "had revolved"],
+          "correct_answer": "revolves",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 59,
+          "question": "They ______ for three hours before they took a break.",
+          "options": ["walked", "have walked", "had walked", "were walking"],
+          "correct_answer": "had walked",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 60,
+          "question": "How long ______ you ______ for the bus?",
+          "options": ["are...waiting", "did...wait", "have...been waiting", "do...wait"],
+          "correct_answer": "have...been waiting",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 61,
+          "question": "We ______ to the cinema last night.",
+          "options": ["have gone", "had gone", "went", "go"],
+          "correct_answer": "went",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 62,
+          "question": "She ______ the Taj Mahal twice.",
+          "options": ["has visited", "had visited", "visited", "visits"],
+          "correct_answer": "has visited",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 63,
+          "question": "Don't call me at 8 o'clock. I ______ dinner then.",
+          "options": ["will have", "will be having", "am having", "have"],
+          "correct_answer": "will be having",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 64,
+          "question": "The movie ______ when we reached the hall.",
+          "options": ["started", "has started", "had started", "was starting"],
+          "correct_answer": "had started",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 65,
+          "question": "He said that he ______ a new bike the following week.",
+          "options": ["will buy", "is buying", "would buy", "bought"],
+          "correct_answer": "would buy",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 66,
+          "question": "I ______ this book for two weeks now.",
+          "options": ["am reading", "have been reading", "read", "was reading"],
+          "correct_answer": "have been reading",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 67,
+          "question": "If you heat ice, it ______.",
+          "options": ["melts", "will melt", "is melting", "melted"],
+          "correct_answer": "melts",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 68,
+          "question": "The train ______ just ______.",
+          "options": ["has...left", "had...left", "is...leaving", "was...leaving"],
+          "correct_answer": "has...left",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 69,
+          "question": "When I was young, I ______ in the village.",
+          "options": ["live", "lived", "have lived", "had lived"],
+          "correct_answer": "lived",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 70,
+          "question": "The children ______ their homework by the time their mother comes home.",
+          "options": ["will finish", "will be finishing", "will have finished", "finish"],
+          "correct_answer": "will have finished",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 71,
+          "question": "It ______ since last night.",
+          "options": ["is raining", "was raining", "has been raining", "rains"],
+          "correct_answer": "has been raining",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 72,
+          "question": "After he ______ his work, he went out to play.",
+          "options": ["finishes", "finished", "had finished", "has finished"],
+          "correct_answer": "had finished",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 73,
+          "question": "This building ______ in 1990.",
+          "options": ["is built", "was built", "has been built", "had been built"],
+          "correct_answer": "was built",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 74,
+          "question": "The boys ______ cricket in the field when a snake appeared.",
+          "options": ["were playing", "had played", "played", "have been playing"],
+          "correct_answer": "were playing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 75,
+          "question": "I ______ never ______ such a beautiful sunset before.",
+          "options": ["have...seen", "had...seen", "am...seeing", "was...seeing"],
+          "correct_answer": "have...seen",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 76,
+          "question": "She ______ for the job interview next Monday.",
+          "options": ["will prepare", "is preparing", "will be preparing", "prepares"],
+          "correct_answer": "is preparing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 77,
+          "question": "By the time you read this letter, I ______ for Mumbai.",
+          "options": ["will leave", "will be leaving", "will have left", "am leaving"],
+          "correct_answer": "will have left",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 78,
+          "question": "He ______ his lunch before his friend called.",
+          "options": ["finished", "has finished", "had finished", "was finishing"],
+          "correct_answer": "had finished",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 79,
+          "question": "If it rains, the match ______ cancelled.",
+          "options": ["is", "was", "will be", "would be"],
+          "correct_answer": "will be",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 80,
+          "question": "While the mother ______, the children were sleeping.",
+          "options": ["cooks", "cooked", "is cooking", "was cooking"],
+          "correct_answer": "was cooking",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 81,
+          "question": "I ______ all the Harry Potter books. Now I am watching the movies.",
+          "options": ["read", "have read", "had read", "am reading"],
+          "correct_answer": "have read",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 82,
+          "question": "He asked me if I ______ my work.",
+          "options": ["have finished", "had finished", "finished", "finish"],
+          "correct_answer": "had finished",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 83,
+          "question": "The meeting ______ at 5 PM tomorrow.",
+          "options": ["will start", "starts", "is starting", "will have started"],
+          "correct_answer": "starts",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 84,
+          "question": "The flowers ______ by the gardener every morning.",
+          "options": ["are watered", "were watered", "have been watered", "water"],
+          "correct_answer": "are watered",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 85,
+          "question": "I didn't realize that I ______ my wallet at home.",
+          "options": ["have left", "had left", "left", "was leaving"],
+          "correct_answer": "had left",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 86,
+          "question": "This is the first time I ______ sushi.",
+          "options": ["eat", "ate", "have eaten", "had eaten"],
+          "correct_answer": "have eaten",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 87,
+          "question": "The team ______ hard, and soon they will get the result.",
+          "options": ["has worked", "had worked", "worked", "is working"],
+          "correct_answer": "has worked",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 88,
+          "question": "At this moment next year, my brother ______ in a university.",
+          "options": ["will study", "studies", "will be studying", "will have studied"],
+          "correct_answer": "will be studying",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 89,
+          "question": "Shakespeare ______ many famous plays.",
+          "options": ["has written", "had written", "wrote", "writes"],
+          "correct_answer": "wrote",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 90,
+          "question": "The results ______ already ______.",
+          "options": ["have...been declared", "had...been declared", "are...declared", "were...declared"],
+          "correct_answer": "have...been declared",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 91,
+          "question": "We ______ for our exams all of last week.",
+          "options": ["were studying", "had studied", "have been studying", "studied"],
+          "correct_answer": "were studying",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 92,
+          "question": "I cannot come to the party as I ______ the city.",
+          "options": ["leave", "am leaving", "have left", "will leave"],
+          "correct_answer": "am leaving",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 93,
+          "question": "He ______ very tired because he had been working all day.",
+          "options": ["is", "was", "has been", "had been"],
+          "correct_answer": "was",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 94,
+          "question": "English ______ all over the world.",
+          "options": ["is spoken", "was spoken", "has been spoken", "speaks"],
+          "correct_answer": "is spoken",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 95,
+          "question": "I ______ to tell you the truth, but I forgot.",
+          "options": ["am going", "was going", "will go", "go"],
+          "correct_answer": "was going",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 96,
+          "question": "It ______ for a long time when the match started.",
+          "options": ["was raining", "has been raining", "had been raining", "rained"],
+          "correct_answer": "had been raining",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 97,
+          "question": "The patient ______ before the doctor came.",
+          "options": ["died", "has died", "had died", "was dying"],
+          "correct_answer": "had died",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 98,
+          "question": "If I had the money, I ______ a new house.",
+          "options": ["will buy", "would buy", "buy", "would have bought"],
+          "correct_answer": "would buy",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 99,
+          "question": "The last train ______ at midnight.",
+          "options": ["leaves", "left", "has left", "is leaving"],
+          "correct_answer": "leaves",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 100,
+          "question": "How many times ______ you ______ to Delhi?",
+          "options": ["did...go", "have...been", "were...going", "do...go"],
+          "correct_answer": "have...been",
+          "grammar_type": "Tenses"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "By next month, I ______ for this company for five years.",
+          "options": ["will be working", "will have been working", "have been working", "am working"],
+          "correct_answer": "will have been working",
+          "grammar_type": "Tenses"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "If he had studied harder, he ______ the exam.",
+          "options": ["would pass", "would have passed", "will pass", "passed"],
+          "correct_answer": "would have passed",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 103,
+          "question": "I wish I ______ how to swim.",
+          "options": ["know", "knew", "have known", "had known"],
+          "correct_answer": "knew",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 104,
+          "question": "It is high time we ______ for home.",
+          "options": ["leave", "left", "should leave", "are leaving"],
+          "correct_answer": "left",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 105,
+          "question": "He acts as if he ______ the owner of the place.",
+          "options": ["is", "was", "were", "has been"],
+          "correct_answer": "were",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 106,
+          "question": "The new rules ______ tomorrow.",
+          "options": ["will be implemented", "are implemented", "will have been implemented", "implement"],
+          "correct_answer": "will be implemented",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 107,
+          "question": "Had I known about your problem, I ______ you.",
+          "options": ["would help", "will help", "would have helped", "helped"],
+          "correct_answer": "would have helped",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 108,
+          "question": "She ______ in the garden since morning and now she needs some rest.",
+          "options": ["worked", "has worked", "has been working", "had worked"],
+          "correct_answer": "has been working",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 109,
+          "question": "By the time we got there, the tickets ______.",
+          "options": ["were sold", "had been sold", "have been sold", "were selling"],
+          "correct_answer": "had been sold",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 110,
+          "question": "I would rather you ______ the truth.",
+          "options": ["tell", "told", "have told", "would tell"],
+          "correct_answer": "told",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 111,
+          "question": "The house looked as though it ______ for years.",
+          "options": ["was not painted", "has not been painted", "had not been painted", "is not painted"],
+          "correct_answer": "had not been painted",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 112,
+          "question": "If I ______ the king, I would make education free for all.",
+          "options": ["am", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 113,
+          "question": "The manager suggested that the meeting ______ postponed.",
+          "options": ["is", "was", "be", "would be"],
+          "correct_answer": "be",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 114,
+          "question": "He was so tired that he ______ for 10 hours straight.",
+          "options": ["has slept", "had slept", "slept", "was sleeping"],
+          "correct_answer": "slept",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 115,
+          "question": "This is the best movie I ______.",
+          "options": ["see", "saw", "have ever seen", "had ever seen"],
+          "correct_answer": "have ever seen",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 116,
+          "question": "The letter ______ by the time you meet him.",
+          "options": ["will be posted", "will have been posted", "is posted", "was posted"],
+          "correct_answer": "will have been posted",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 117,
+          "question": "It is important that everyone ______ the instructions carefully.",
+          "options": ["read", "reads", "is reading", "has read"],
+          "correct_answer": "read",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 118,
+          "question": "I wish I ______ harder for my last exam.",
+          "options": ["studied", "have studied", "had studied", "study"],
+          "correct_answer": "had studied",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 119,
+          "question": "He came to India with a view to ______ his business.",
+          "options": ["expand", "expanding", "expanded", "be expanding"],
+          "correct_answer": "expanding",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 120,
+          "question": "The case ______ by the Supreme Court next month.",
+          "options": ["will hear", "will be heard", "is heard", "will have been heard"],
+          "correct_answer": "will be heard",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 121,
+          "question": "She ______ about the problem for months before she finally spoke to someone.",
+          "options": ["was worrying", "has been worrying", "had been worrying", "worried"],
+          "correct_answer": "had been worrying",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 122,
+          "question": "I would appreciate it if you ______ me with this project.",
+          "options": ["help", "helped", "would help", "had helped"],
+          "correct_answer": "would help",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 123,
+          "question": "No sooner ______ the station than the train departed.",
+          "options": ["he reached", "did he reach", "he had reached", "had he reached"],
+          "correct_answer": "did he reach",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 124,
+          "question": "I remember ______ him at the conference last year.",
+          "options": ["to see", "seeing", "saw", "have seen"],
+          "correct_answer": "seeing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 125,
+          "question": "She must ______ a lot to afford such an expensive car.",
+          "options": ["earn", "be earning", "have been earning", "have earned"],
+          "correct_answer": "be earning",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 126,
+          "question": "It's time you ______ taking your health seriously.",
+          "options": ["start", "started", "should start", "must start"],
+          "correct_answer": "started",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 127,
+          "question": "My father insisted that I ______ for the engineering course.",
+          "options": ["apply", "applied", "should apply", "would apply"],
+          "correct_answer": "apply",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 128,
+          "question": "By this time tomorrow, the results of the election ______.",
+          "options": ["will be declared", "will have been declared", "are declared", "were declared"],
+          "correct_answer": "will have been declared",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 129,
+          "question": "Had it not been for your help, I ______ in big trouble.",
+          "options": ["would be", "will be", "would have been", "was"],
+          "correct_answer": "would have been",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 130,
+          "question": "This is the only one of his novels that ______ translated into English.",
+          "options": ["is", "are", "has been", "have been"],
+          "correct_answer": "has been",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 131,
+          "question": "They ______ for two hours, and they are not even halfway through.",
+          "options": ["drove", "have driven", "have been driving", "had driven"],
+          "correct_answer": "have been driving",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 132,
+          "question": "He ordered his servant ______ the room.",
+          "options": ["clean", "to clean", "cleaned", "should clean"],
+          "correct_answer": "to clean",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 133,
+          "question": "Scarcely ______ the house when the storm began.",
+          "options": ["he had left", "had he left", "he left", "did he leave"],
+          "correct_answer": "had he left",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 134,
+          "question": "It's no use ______ over spilt milk.",
+          "options": ["to cry", "crying", "cried", "should cry"],
+          "correct_answer": "crying",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 135,
+          "question": "If I ______ you were coming, I would have baked a cake.",
+          "options": ["knew", "know", "had known", "have known"],
+          "correct_answer": "had known",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 136,
+          "question": "He is said ______ a great scholar.",
+          "options": ["to be", "being", "to have been", "having been"],
+          "correct_answer": "to be",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 137,
+          "question": "He was said ______ a great scholar in his youth.",
+          "options": ["to be", "being", "to have been", "having been"],
+          "correct_answer": "to have been",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 138,
+          "question": "The doctor demanded that the patient ______ to the hospital immediately.",
+          "options": ["is taken", "was taken", "be taken", "should be taken"],
+          "correct_answer": "be taken",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 139,
+          "question": "The time will come when you ______ my advice.",
+          "options": ["will understand", "understand", "are understanding", "would understand"],
+          "correct_answer": "will understand",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 140,
+          "question": "If the government ______ more responsible, this disaster could have been averted.",
+          "options": ["was", "were", "had been", "would be"],
+          "correct_answer": "had been",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 141,
+          "question": "I suggested that he ______ a doctor.",
+          "options": ["sees", "see", "saw", "is seeing"],
+          "correct_answer": "see",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 142,
+          "question": "Having ______ the work, he went home.",
+          "options": ["finish", "finished", "finishing", "been finished"],
+          "correct_answer": "finished",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 143,
+          "question": "This time next year, I ______ my master's degree.",
+          "options": ["will be doing", "will have done", "will do", "do"],
+          "correct_answer": "will have done",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 144,
+          "question": "He denies ______ the money.",
+          "options": ["to steal", "stealing", "to have stolen", "stole"],
+          "correct_answer": "stealing",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 145,
+          "question": "Should you ______ any help, do not hesitate to call me.",
+          "options": ["need", "be needing", "have needed", "needed"],
+          "correct_answer": "need",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 146,
+          "question": "He has been sleeping for ten hours. He ______ be very tired.",
+          "options": ["must", "should", "can", "may"],
+          "correct_answer": "must",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 147,
+          "question": "It's been a long time since I last ______ him.",
+          "options": ["see", "saw", "have seen", "had seen"],
+          "correct_answer": "saw",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 148,
+          "question": "By the time he is fifty, he ______ many countries.",
+          "options": ["will visit", "will have visited", "visits", "is visiting"],
+          "correct_answer": "will have visited",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 149,
+          "question": "The committee recommended that the proposal ______ accepted.",
+          "options": ["is", "was", "be", "has been"],
+          "correct_answer": "be",
+          "grammar_type": "Tenses"
+        },
+        {
+          "id": 150,
+          "question": "I would have come earlier if I ______ you were waiting.",
+          "options": ["knew", "know", "had known", "have known"],
+          "correct_answer": "had known",
+          "grammar_type": "Tenses"
         }
       ]
     }
   ]
 }
+

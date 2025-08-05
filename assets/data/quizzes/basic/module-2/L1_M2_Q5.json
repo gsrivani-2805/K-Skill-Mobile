@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which of these is a musical instrument you play with strings?",
+          "options": ["Drum", "Flute", "Guitar", "Piano"],
+          "correct_answer": "Guitar",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 2,
+          "question": "A person who teaches students is a ____.",
+          "options": ["Doctor", "Farmer", "Teacher", "Pilot"],
+          "correct_answer": "Teacher",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 3,
+          "question": "What is a common hobby that involves reading stories?",
+          "options": ["Singing", "Dancing", "Reading books", "Cooking"],
+          "correct_answer": "Reading books",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 4,
+          "question": "Which instrument do you hit with sticks to make a sound?",
+          "options": ["Piano", "Violin", "Drums", "Flute"],
+          "correct_answer": "Drums",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 5,
+          "question": "A person who grows crops like rice and wheat is a ____.",
+          "options": ["Shopkeeper", "Farmer", "Tailor", "Driver"],
+          "correct_answer": "Farmer",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 6,
+          "question": "Moving your body to music is a hobby called ____.",
+          "options": ["Singing", "Dancing", "Drawing", "Running"],
+          "correct_answer": "Dancing",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 7,
+          "question": "Which instrument has black and white keys?",
+          "options": ["Guitar", "Tabla", "Sitar", "Piano"],
+          "correct_answer": "Piano",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 8,
+          "question": "A person who treats sick people is a ____.",
+          "options": ["Police officer", "Doctor", "Teacher", "Chef"],
+          "correct_answer": "Doctor",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 9,
+          "question": "Using your voice to make music is a hobby called ____.",
+          "options": ["Acting", "Singing", "Writing", "Painting"],
+          "correct_answer": "Singing",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 10,
+          "question": "You blow into this instrument to make music.",
+          "options": ["Flute", "Drum", "Guitar", "Keyboard"],
+          "correct_answer": "Flute",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 11,
+          "question": "A person who flies an airplane is a ____.",
+          "options": ["Driver", "Captain", "Pilot", "Sailor"],
+          "correct_answer": "Pilot",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 12,
+          "question": "What hobby involves playing games like cricket or football?",
+          "options": ["Gardening", "Sports", "Music", "Art"],
+          "correct_answer": "Sports",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 13,
+          "question": "This Indian instrument has two small drums.",
+          "options": ["Sitar", "Tabla", "Flute", "Harmonium"],
+          "correct_answer": "Tabla",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 14,
+          "question": "A person who cooks food in a restaurant is a ____.",
+          "options": ["Waiter", "Manager", "Chef", "Customer"],
+          "correct_answer": "Chef",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 15,
+          "question": "The hobby of growing plants and flowers is called ____.",
+          "options": ["Farming", "Cooking", "Gardening", "Painting"],
+          "correct_answer": "Gardening",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 16,
+          "question": "Which instrument do you play with a bow?",
+          "options": ["Violin", "Trumpet", "Drums", "Guitar"],
+          "correct_answer": "Violin",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 17,
+          "question": "A person who cuts hair is a ____.",
+          "options": ["Tailor", "Cobbler", "Barber", "Butcher"],
+          "correct_answer": "Barber",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 18,
+          "question": "Making pictures with colours and brushes is ____.",
+          "options": ["Photography", "Painting", "Stitching", "Writing"],
+          "correct_answer": "Painting",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 19,
+          "question": "Which of these is a large string instrument?",
+          "options": ["Flute", "Cello", "Trumpet", "Drum"],
+          "correct_answer": "Cello",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 20,
+          "question": "A person who builds houses is a ____.",
+          "options": ["Mason", "Plumber", "Builder", "Architect"],
+          "correct_answer": "Builder",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 21,
+          "question": "What is a hobby that involves catching fish?",
+          "options": ["Hunting", "Farming", "Fishing", "Swimming"],
+          "correct_answer": "Fishing",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 22,
+          "question": "This instrument is a long, stringed instrument from India.",
+          "options": ["Sitar", "Guitar", "Veena", "Violin"],
+          "correct_answer": "Sitar",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 23,
+          "question": "A person who puts out fires is a ____.",
+          "options": ["Police officer", "Soldier", "Firefighter", "Guard"],
+          "correct_answer": "Firefighter",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 24,
+          "question": "What is the hobby of taking pictures with a camera?",
+          "options": ["Painting", "Drawing", "Photography", "Videography"],
+          "correct_answer": "Photography",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 25,
+          "question": "Which of these is a brass instrument?",
+          "options": ["Flute", "Clarinet", "Trumpet", "Violin"],
+          "correct_answer": "Trumpet",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 26,
+          "question": "A person who drives a car for a living is a ____.",
+          "options": ["Pilot", "Driver", "Mechanic", "Conductor"],
+          "correct_answer": "Driver",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 27,
+          "question": "What do you call an activity you do for fun in your free time?",
+          "options": ["Work", "Job", "Hobby", "School"],
+          "correct_answer": "Hobby",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 28,
+          "question": "A set of drums and cymbals played together is called a ____.",
+          "options": ["Band", "Orchestra", "Drum kit", "Percussion"],
+          "correct_answer": "Drum kit",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 29,
+          "question": "A person who acts in movies or plays is an ____.",
+          "options": ["Actor", "Director", "Singer", "Dancer"],
+          "correct_answer": "Actor",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 30,
+          "question": "The hobby of making food is called ____.",
+          "options": ["Eating", "Baking", "Cooking", "Serving"],
+          "correct_answer": "Cooking",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 31,
+          "question": "This instrument is often played in churches and has many large pipes.",
+          "options": ["Piano", "Organ", "Harp", "Accordion"],
+          "correct_answer": "Organ",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 32,
+          "question": "A person who designs buildings is an ____.",
+          "options": ["Engineer", "Artist", "Architect", "Builder"],
+          "correct_answer": "Architect",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 33,
+          "question": "What hobby involves making things like sweaters from wool?",
+          "options": ["Sewing", "Knitting", "Weaving", "Stitching"],
+          "correct_answer": "Knitting",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 34,
+          "question": "This instrument has a sliding part to change notes.",
+          "options": ["Trumpet", "Trombone", "Tuba", "French horn"],
+          "correct_answer": "Trombone",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 35,
+          "question": "A person who writes books or stories is an ____.",
+          "options": ["Author", "Poet", "Writer", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 36,
+          "question": "What is the hobby of collecting stamps?",
+          "options": ["Numismatics", "Philately", "Stamping", "Collecting"],
+          "correct_answer": "Philately",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 37,
+          "question": "This instrument is often played in jazz music and is made of brass.",
+          "options": ["Violin", "Saxophone", "Clarinet", "Flute"],
+          "correct_answer": "Saxophone",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 38,
+          "question": "A person who reports news is a ____.",
+          "options": ["Journalist", "Editor", "Publisher", "Reporter"],
+          "correct_answer": "Reporter",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 39,
+          "question": "The activity of walking long distances in nature is called ____.",
+          "options": ["Running", "Jogging", "Hiking", "Trekking"],
+          "correct_answer": "Hiking",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 40,
+          "question": "What is a group of people singing together called?",
+          "options": ["Band", "Orchestra", "Choir", "Ensemble"],
+          "correct_answer": "Choir",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 41,
+          "question": "A person who studies science is a ____.",
+          "options": ["Scientist", "Librarian", "Historian", "Geographer"],
+          "correct_answer": "Scientist",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 42,
+          "question": "Which of these is a popular indoor hobby?",
+          "options": ["Playing chess", "Flying kites", "Playing football", "Gardening"],
+          "correct_answer": "Playing chess",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 43,
+          "question": "This is a small, four-stringed instrument that looks like a little guitar.",
+          "options": ["Mandolin", "Banjo", "Ukulele", "Violin"],
+          "correct_answer": "Ukulele",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 44,
+          "question": "A person who creates sculptures is a ____.",
+          "options": ["Artist", "Painter", "Sculptor", "Potter"],
+          "correct_answer": "Sculptor",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 45,
+          "question": "What is another word for a job or profession?",
+          "options": ["Hobby", "Pastime", "Occupation", "Fun"],
+          "correct_answer": "Occupation",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 46,
+          "question": "The triangular instrument you hit with a metal stick is a ____.",
+          "options": ["Cymbal", "Gong", "Triangle", "Bell"],
+          "correct_answer": "Triangle",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 47,
+          "question": "A person who works with law and represents people in court is a ____.",
+          "options": ["Judge", "Lawyer", "Police", "Clerk"],
+          "correct_answer": "Lawyer",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 48,
+          "question": "What hobby involves putting puzzle pieces together?",
+          "options": ["Gaming", "Solving puzzles", "Board games", "Building"],
+          "correct_answer": "Solving puzzles",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 49,
+          "question": "This instrument is made of two round brass plates that are crashed together.",
+          "options": ["Gongs", "Bells", "Drums", "Cymbals"],
+          "correct_answer": "Cymbals",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 50,
+          "question": "A person who sells things is a ____.",
+          "options": ["Salesperson", "Buyer", "Customer", "Client"],
+          "correct_answer": "Salesperson",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 51,
+          "question": "Riding a bicycle is a type of ____.",
+          "options": ["Hobby", "Work", "Job", "Study"],
+          "correct_answer": "Hobby",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 52,
+          "question": "This is a small, popular wind instrument played by blowing and drawing air through reeds.",
+          "options": ["Flute", "Clarinet", "Harmonica", "Recorder"],
+          "correct_answer": "Harmonica",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 53,
+          "question": "A person who looks after animals in a zoo is a ____.",
+          "options": ["Veterinarian", "Zookeeper", "Ranger", "Biologist"],
+          "correct_answer": "Zookeeper",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 54,
+          "question": "The hobby of making models of planes or ships is called ____.",
+          "options": ["Engineering", "Model building", "Architecture", "Crafting"],
+          "correct_answer": "Model building",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 55,
+          "question": "What is the job of a 'librarian'?",
+          "options": ["To write books", "To sell books", "To manage a library", "To print books"],
+          "correct_answer": "To manage a library",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 56,
+          "question": "Which instrument is NOT typically found in a rock band?",
+          "options": ["Electric guitar", "Drums", "Harp", "Bass guitar"],
+          "correct_answer": "Harp",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 57,
+          "question": "A person whose work is to clean buildings is a ____.",
+          "options": ["Cleaner", "Janitor", "Sweeper", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 58,
+          "question": "What hobby involves watching birds in their natural environment?",
+          "options": ["Hunting", "Bird-watching", "Zoology", "Hiking"],
+          "correct_answer": "Bird-watching",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 59,
+          "question": "What is a person who plays the piano called?",
+          "options": ["Pianoer", "Pianist", "Keyboardist", "Player"],
+          "correct_answer": "Pianist",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 60,
+          "question": "What is a 'vocation'?",
+          "options": ["A holiday", "A hobby", "A strong feeling for a particular career or occupation", "A short-term job"],
+          "correct_answer": "A strong feeling for a particular career or occupation",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "Instruments like the violin and cello belong to which family?",
+          "options": ["Wind", "String", "Percussion", "Brass"],
+          "correct_answer": "String",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 62,
+          "question": "A person who studies the stars and planets is an ____.",
+          "options": ["Astrologer", "Astronomer", "Geologist", "Biologist"],
+          "correct_answer": "Astronomer",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 63,
+          "question": "What is the art of beautiful handwriting called?",
+          "options": ["Typography", "Calligraphy", "Graphology", "Stenography"],
+          "correct_answer": "Calligraphy",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 64,
+          "question": "The flute, clarinet, and oboe are all ____ instruments.",
+          "options": ["String", "Brass", "Woodwind", "Percussion"],
+          "correct_answer": "Woodwind",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 65,
+          "question": "What is the profession of designing websites and apps called?",
+          "options": ["Software Engineering", "Web Design", "Graphic Design", "IT Support"],
+          "correct_answer": "Web Design",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 66,
+          "question": "What do you call a hobby of folding paper into decorative shapes?",
+          "options": ["Kirigami", "Origami", "Papier-mâché", "Decoupage"],
+          "correct_answer": "Origami",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 67,
+          "question": "Drums, cymbals, and xylophones are part of the ____ family.",
+          "options": ["String", "Woodwind", "Brass", "Percussion"],
+          "correct_answer": "Percussion",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 68,
+          "question": "A person who treats animals is a ____.",
+          "options": ["Zoologist", "Biologist", "Veterinarian", "Animal doctor"],
+          "correct_answer": "Veterinarian",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 69,
+          "question": "The hobby of solving crossword puzzles is a type of ____.",
+          "options": ["Word game", "Board game", "Mind sport", "Number game"],
+          "correct_answer": "Word game",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 70,
+          "question": "The trumpet and tuba are part of which instrument family?",
+          "options": ["Brass", "Woodwind", "String", "Percussion"],
+          "correct_answer": "Brass",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 71,
+          "question": "What is the work of a 'florist'?",
+          "options": ["Growing flowers", "Arranging and selling flowers", "Studying flowers", "Painting flowers"],
+          "correct_answer": "Arranging and selling flowers",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 72,
+          "question": "What equipment is essential for the hobby of scuba diving?",
+          "options": ["Surfboard", "Oxygen tank", "Skis", "Parachute"],
+          "correct_answer": "Oxygen tank",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 73,
+          "question": "Which of these is a keyboard instrument?",
+          "options": ["Harp", "Lute", "Harpsichord", "Mandolin"],
+          "correct_answer": "Harpsichord",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 74,
+          "question": "A person who creates maps is a ____.",
+          "options": ["Geographer", "Cartographer", "Surveyor", "Topographer"],
+          "correct_answer": "Cartographer",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 75,
+          "question": "The hobby of writing in a personal journal is called ____.",
+          "options": ["Blogging", "Journaling", "Scrapbooking", "Creative writing"],
+          "correct_answer": "Journaling",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 76,
+          "question": "The leader of an orchestra is called the ____.",
+          "options": ["Director", "Captain", "Conductor", "Maestro"],
+          "correct_answer": "Conductor",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 77,
+          "question": "What is the main difference between a 'job' and a 'career'?",
+          "options": ["A job is short-term; a career is long-term.", "A job is for money; a career is for fun.", "There is no difference.", "A career is easier than a job."],
+          "correct_answer": "A job is short-term; a career is long-term.",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 78,
+          "question": "What does a 'numismatist' collect as a hobby?",
+          "options": ["Stamps", "Books", "Coins", "Insects"],
+          "correct_answer": "Coins",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 79,
+          "question": "Which of these is a woodwind instrument that uses a double reed?",
+          "options": ["Flute", "Clarinet", "Oboe", "Saxophone"],
+          "correct_answer": "Oboe",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 80,
+          "question": "A person who studies rocks and soil is a ____.",
+          "options": ["Geologist", "Biologist", "Archaeologist", "Paleontologist"],
+          "correct_answer": "Geologist",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 81,
+          "question": "The hobby of making pottery involves working with ____.",
+          "options": ["Wood", "Metal", "Clay", "Glass"],
+          "correct_answer": "Clay",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 82,
+          "question": "This large, triangular string instrument is often played by angels in pictures.",
+          "options": ["Lute", "Harp", "Cello", "Double bass"],
+          "correct_answer": "Harp",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 83,
+          "question": "A person who operates a radio or television station is a ____.",
+          "options": ["Technician", "Broadcaster", "Journalist", "Producer"],
+          "correct_answer": "Broadcaster",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 84,
+          "question": "Which of these is a martial art that can be a hobby?",
+          "options": ["Yoga", "Karate", "Pilates", "Gymnastics"],
+          "correct_answer": "Karate",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 85,
+          "question": "What are the metal bars on the neck of a guitar called?",
+          "options": ["Keys", "Strings", "Frets", "Buttons"],
+          "correct_answer": "Frets",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 86,
+          "question": "The profession of caring for people's teeth is ____.",
+          "options": ["Medicine", "Surgery", "Dentistry", "Therapy"],
+          "correct_answer": "Dentistry",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 87,
+          "question": "The hobby of creating decorative items from beads is called ____.",
+          "options": ["Jewellery making", "Beadwork", "Embroidery", "Crafting"],
+          "correct_answer": "Beadwork",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 88,
+          "question": "Which of these is a percussion instrument that is struck with a mallet?",
+          "options": ["Triangle", "Maracas", "Xylophone", "Tambourine"],
+          "correct_answer": "Xylophone",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 89,
+          "question": "A person who studies past human life by digging up remains is an ____.",
+          "options": ["Archaeologist", "Historian", "Geologist", "Paleontologist"],
+          "correct_answer": "Archaeologist",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 90,
+          "question": "What is 'cosplaying' as a hobby?",
+          "options": ["Playing computer games", "Watching movies", "Dressing up as a character", "Collecting comics"],
+          "correct_answer": "Dressing up as a character",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 91,
+          "question": "The accordion is powered by ____.",
+          "options": ["Electricity", "Air from a bellows", "Strings", "Batteries"],
+          "correct_answer": "Air from a bellows",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 92,
+          "question": "A person who welcomes and assists guests at a hotel is a ____.",
+          "options": ["Manager", "Receptionist", "Concierge", "Bellhop"],
+          "correct_answer": "Concierge",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 93,
+          "question": "What does a 'philanthropist' do as their work or passion?",
+          "options": ["Collects stamps", "Donates money to good causes", "Studies languages", "Writes philosophy"],
+          "correct_answer": "Donates money to good causes",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 94,
+          "question": "Which of these is NOT a string instrument?",
+          "options": ["Mandolin", "Banjo", "Clarinet", "Lute"],
+          "correct_answer": "Clarinet",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 95,
+          "question": "A person whose job is to translate from one language to another is an ____.",
+          "options": ["Interpreter", "Linguist", "Bilingual", "Polyglot"],
+          "correct_answer": "Interpreter",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 96,
+          "question": "The hobby of maintaining an aquarium is a part of ____.",
+          "options": ["Fishkeeping", "Gardening", "Pet care", "Zoology"],
+          "correct_answer": "Fishkeeping",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 97,
+          "question": "What kind of professional helps people with their money and investments?",
+          "options": ["Banker", "Accountant", "Financial advisor", "Stockbroker"],
+          "correct_answer": "Financial advisor",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 98,
+          "question": "The bagpipe is a traditional instrument from which country?",
+          "options": ["Ireland", "Scotland", "Wales", "England"],
+          "correct_answer": "Scotland",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 99,
+          "question": "What is an 'avocation'?",
+          "options": ["A vacation", "A main job", "A hobby or minor occupation", "A type of meeting"],
+          "correct_answer": "A hobby or minor occupation",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 100,
+          "question": "The hobby of exploring caves is called ____.",
+          "options": ["Spelunking", "Caving", "Potholing", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 101,
+          "question": "A 'sommelier' is a professional who specializes in ____.",
+          "options": ["Cheese", "Coffee", "Wine", "Bread"],
+          "correct_answer": "Wine",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 102,
+          "question": "Which of these is a percussion instrument you shake?",
+          "options": ["Bongos", "Congas", "Maracas", "Xylophone"],
+          "correct_answer": "Maracas",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 103,
+          "question": "A 'lexicographer' is a person who...",
+          "options": ["writes laws", "compiles dictionaries", "studies insects", "designs logos"],
+          "correct_answer": "compiles dictionaries",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 104,
+          "question": "The hobby of 'parkour' involves...",
+          "options": ["Running and jumping over obstacles", "Flying kites in a park", "Playing chess in a park", "Having picnics"],
+          "correct_answer": "Running and jumping over obstacles",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 105,
+          "question": "The main parts of an acoustic guitar are the body, neck, headstock, and ____.",
+          "options": ["Keys", "Valves", "Strings", "Pipes"],
+          "correct_answer": "Strings",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 106,
+          "question": "A person who studies earthquakes is a ____.",
+          "options": ["Geologist", "Seismologist", "Volcanologist", "Meteorologist"],
+          "correct_answer": "Seismologist",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 107,
+          "question": "What is 'geocaching'?",
+          "options": ["A type of camping", "An outdoor treasure-hunting game", "A way to store data", "A type of photography"],
+          "correct_answer": "An outdoor treasure-hunting game",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 108,
+          "question": "A 'bassoon' is a large instrument belonging to which family?",
+          "options": ["Brass", "String", "Percussion", "Woodwind"],
+          "correct_answer": "Woodwind",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 109,
+          "question": "The profession of 'actuary' involves calculating ____.",
+          "options": ["historical dates", "chemical reactions", "financial risks", "star positions"],
+          "correct_answer": "financial risks",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 110,
+          "question": "What are 'callisthenics'?",
+          "options": ["A type of beautiful writing", "A hobby of collecting phone cards", "Gymnastic exercises to achieve fitness", "A type of singing"],
+          "correct_answer": "Gymnastic exercises to achieve fitness",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "The didgeridoo is a wind instrument developed by the indigenous people of which country?",
+          "options": ["New Zealand", "Australia", "South Africa", "Canada"],
+          "correct_answer": "Australia",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 112,
+          "question": "A 'horologist' is an expert in the art or science of ____.",
+          "options": ["making maps", "studying insects", "making and repairing clocks", "studying weather"],
+          "correct_answer": "making and repairing clocks",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 113,
+          "question": "The hobby of 'lapidary' is the art of...",
+          "options": ["making maps", "folding paper", "cutting and polishing stones", "collecting butterflies"],
+          "correct_answer": "cutting and polishing stones",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 114,
+          "question": "A 'theremin' is a unique electronic instrument played without...",
+          "options": ["electricity", "a speaker", "physical contact", "a keyboard"],
+          "correct_answer": "physical contact",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 115,
+          "question": "A 'paleontologist' is a scientist who studies ____.",
+          "options": ["fossils", "ancient cultures", "rocks", "insects"],
+          "correct_answer": "fossils",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 116,
+          "question": "What is 'apiculture'?",
+          "options": ["The hobby of collecting apes.", "The art of public speaking.", "The cultivation of bees for honey.", "The study of ancient cultures."],
+          "correct_answer": "The cultivation of bees for honey.",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 117,
+          "question": "The 'glockenspiel' is a percussion instrument with tuned keys arranged like a ____.",
+          "options": ["guitar", "drum", "piano keyboard", "flute"],
+          "correct_answer": "piano keyboard",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 118,
+          "question": "A 'vintner' is a person whose occupation is...",
+          "options": ["making wine", "repairing vintage cars", "selling antiques", "designing clothes"],
+          "correct_answer": "making wine",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 119,
+          "question": "The hobby of 'campanology' is the study and art of ____.",
+          "options": ["camping", "bell ringing", "collecting cameras", "calligraphy"],
+          "correct_answer": "bell ringing",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 120,
+          "question": "A 'luthier' is a craftsperson who builds and repairs ____.",
+          "options": ["flutes", "pianos", "string instruments like guitars and violins", "drums"],
+          "correct_answer": "string instruments like guitars and violins",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 121,
+          "question": "An 'ornithologist' studies what?",
+          "options": ["Oceans", "Birds", "Ornaments", "Trees"],
+          "correct_answer": "Birds",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 122,
+          "question": "What is 'sericulture'?",
+          "options": ["The hobby of watching TV serials", "The process of making cereals", "The cultivation of silkworms to produce silk", "The study of serious music"],
+          "correct_answer": "The cultivation of silkworms to produce silk",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 123,
+          "question": "The 'bouzouki' is a long-necked, stringed instrument associated with which country's music?",
+          "options": ["Spain", "Italy", "Greece", "Ireland"],
+          "correct_answer": "Greece",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 124,
+          "question": "An 'ichthyologist' is a biologist who studies ____.",
+          "options": ["insects", "plants", "fish", "fungi"],
+          "correct_answer": "fish",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 125,
+          "question": "The hobby of 'topiary' involves clipping shrubs or trees into ____.",
+          "options": ["firewood", "ornamental shapes", "flat boards", "simple hedges"],
+          "correct_answer": "ornamental shapes",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 126,
+          "question": "A 'kora' is a 21-string lute-bridge-harp used extensively in which part of the world?",
+          "options": ["West Africa", "East Asia", "South America", "Eastern Europe"],
+          "correct_answer": "West Africa",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 127,
+          "question": "What does a 'phlebotomist' do as their job?",
+          "options": ["Study philosophy", "Write plays", "Draw blood from patients", "Design logos"],
+          "correct_answer": "Draw blood from patients",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 128,
+          "question": "A 'taphophile' is someone whose hobby is the study of ____.",
+          "options": ["tape recorders", "maps", "funerals and cemeteries", "insects"],
+          "correct_answer": "funerals and cemeteries",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 129,
+          "question": "What is a 'concertina'?",
+          "options": ["A small concert hall", "A type of guitar", "A free-reed instrument like an accordion", "The lead singer of a choir"],
+          "correct_answer": "A free-reed instrument like an accordion",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 130,
+          "question": "A 'haberdasher' is a person who sells ____.",
+          "options": ["horses", "houses", "small articles for sewing, like buttons and ribbons", "hats"],
+          "correct_answer": "small articles for sewing, like buttons and ribbons",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 131,
+          "question": "The hobby of 'deltiology' is the collection of ____.",
+          "options": ["dolls", "postcards", "maps", "triangles"],
+          "correct_answer": "postcards",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 132,
+          "question": "An 'ocarina' is an ancient wind instrument that is a type of ____.",
+          "options": ["vessel flute", "brass horn", "stringed harp", "percussion drum"],
+          "correct_answer": "vessel flute",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 133,
+          "question": "A 'cooper' is a person whose work is making or repairing ____.",
+          "options": ["cars", "clothes", "wooden casks and barrels", "copper pipes"],
+          "correct_answer": "wooden casks and barrels",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 134,
+          "question": "What is 'bonsai'?",
+          "options": ["A type of martial art", "A Japanese style of poetry", "The art of growing ornamental, artificially dwarfed trees", "A type of sushi"],
+          "correct_answer": "The art of growing ornamental, artificially dwarfed trees",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 135,
+          "question": "A 'shakuhachi' is a traditional flute made of bamboo from ____.",
+          "options": ["China", "Korea", "Japan", "Vietnam"],
+          "correct_answer": "Japan",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 136,
+          "question": "An 'entomologist' is a scientist who specializes in ____.",
+          "options": ["words", "rocks", "insects", "fossils"],
+          "correct_answer": "insects",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 137,
+          "question": "The hobby of 'scrimshaw' is the art of...",
+          "options": ["knitting with scrim", "writing short stories", "engraving on bone or ivory", "collecting seashells"],
+          "correct_answer": "engraving on bone or ivory",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 138,
+          "question": "The 'mbira' is a percussion instrument with metal keys played by the thumbs, originating from ____.",
+          "options": ["Brazil", "India", "Zimbabwe", "Indonesia"],
+          "correct_answer": "Zimbabwe",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 139,
+          "question": "A 'farrier' is a specialist in ____.",
+          "options": ["farming techniques", "horse hoof care", "long-distance running", "sailing ships"],
+          "correct_answer": "horse hoof care",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 140,
+          "question": "What is 'hagiography'?",
+          "options": ["The study of handwriting", "The hobby of hiking", "Writing about the lives of saints", "The study of hogs"],
+          "correct_answer": "Writing about the lives of saints",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 141,
+          "question": "A 'djembe' is a rope-tuned, skin-covered goblet drum played with bare hands, originally from ____.",
+          "options": ["West Africa", "The Middle East", "South America", "Australia"],
+          "correct_answer": "West Africa",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 142,
+          "question": "A 'chandler' is a person who historically made or sold ____.",
+          "options": ["chandeliers", "ships", "candles and soap", "clothes"],
+          "correct_answer": "candles and soap",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 143,
+          "question": "The hobby of 'phillumeny' involves collecting ____.",
+          "options": ["philosophical books", "matchboxes or match-related items", "photographs", "stuffed animals"],
+          "correct_answer": "matchboxes or match-related items",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 144,
+          "question": "An 'arpeggio' is a musical technique where notes in a chord are played...",
+          "options": ["all at once", "in succession, rather than simultaneously", "very loudly", "very softly"],
+          "correct_answer": "in succession, rather than simultaneously",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 145,
+          "question": "A 'curator' is a person in charge of a ____.",
+          "options": ["hospital", "school", "museum or art gallery", "restaurant"],
+          "correct_answer": "museum or art gallery",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 146,
+          "question": "What is 'conchology'?",
+          "options": ["The study and collection of seashells", "The art of making conch shells into instruments", "The study of constellations", "The hobby of making concrete sculptures"],
+          "correct_answer": "The study and collection of seashells",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 147,
+          "question": "The 'celesta' is a keyboard instrument where striking the keys causes hammers to hit ____.",
+          "options": ["strings", "metal plates", "tuning forks", "bells"],
+          "correct_answer": "metal plates",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 148,
+          "question": "A 'tanner' is a person who...",
+          "options": ["gets a tan from the sun", "tans animal hides to make leather", "builds water tanks", "sells spices"],
+          "correct_answer": "tans animal hides to make leather",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 149,
+          "question": "The hobby of 'kite buggying' combines flying a kite with a ____.",
+          "options": ["small boat", "lightweight, three-wheeled vehicle", "surfboard", "pair of skis"],
+          "correct_answer": "lightweight, three-wheeled vehicle",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        },
+        {
+          "id": 150,
+          "question": "A 'balalaika' is a Russian stringed instrument with a characteristic ____ body.",
+          "options": ["circular", "square", "triangular", "rectangular"],
+          "correct_answer": "triangular",
+          "grammar_type": "Musical Instruments, Work, and Hobbies"
+        }
+      ]
+    }
+  ]
+}
+

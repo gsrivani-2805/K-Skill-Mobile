@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the first thing you do in the morning?",
+          "options": ["Eat dinner", "Go to school", "Wake up", "Go to sleep"],
+          "correct_answer": "Wake up",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 2,
+          "question": "After waking up, you should ____ your teeth.",
+          "options": ["comb", "brush", "wash", "eat"],
+          "correct_answer": "brush",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 3,
+          "question": "The meal you eat in the morning is called ____.",
+          "options": ["Lunch", "Dinner", "Snack", "Breakfast"],
+          "correct_answer": "Breakfast",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 4,
+          "question": "What do you do to get ready for school?",
+          "options": ["Wear your uniform", "Go to bed", "Play games", "Watch TV"],
+          "correct_answer": "Wear your uniform",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 5,
+          "question": "Where do you go to study every day?",
+          "options": ["Market", "Park", "School", "Hospital"],
+          "correct_answer": "School",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 6,
+          "question": "What do you do in the classroom?",
+          "options": ["Sleep", "Play", "Study", "Eat"],
+          "correct_answer": "Study",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 7,
+          "question": "What is the meal you eat in the afternoon?",
+          "options": ["Breakfast", "Dinner", "Lunch", "Supper"],
+          "correct_answer": "Lunch",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 8,
+          "question": "After school, you usually ____ home.",
+          "options": ["go to", "come from", "leave", "stay at"],
+          "correct_answer": "go to",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 9,
+          "question": "What work does the teacher give you to do at home?",
+          "options": ["Classwork", "Homework", "Housework", "Fun work"],
+          "correct_answer": "Homework",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 10,
+          "question": "What do you do with your friends in the evening?",
+          "options": ["Study", "Sleep", "Play", "Work"],
+          "correct_answer": "Play",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 11,
+          "question": "The meal you eat at night is ____.",
+          "options": ["Breakfast", "Lunch", "Dinner", "Snack"],
+          "correct_answer": "Dinner",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 12,
+          "question": "Before sleeping, you might ____ a storybook.",
+          "options": ["write", "read", "eat", "draw"],
+          "correct_answer": "read",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 13,
+          "question": "What is the last thing you do at night?",
+          "options": ["Wake up", "Go to sleep", "Eat breakfast", "Play"],
+          "correct_answer": "Go to sleep",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 14,
+          "question": "You wash your face and hands with soap and ____.",
+          "options": ["oil", "milk", "water", "juice"],
+          "correct_answer": "water",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 15,
+          "question": "What do you do with your hair in the morning?",
+          "options": ["Brush it", "Comb it", "Wash it", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 16,
+          "question": "I ____ my school bag before leaving for school.",
+          "options": ["empty", "pack", "throw", "buy"],
+          "correct_answer": "pack",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 17,
+          "question": "At school, the teacher ____ the lesson.",
+          "options": ["explains", "plays", "eats", "sleeps"],
+          "correct_answer": "explains",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 18,
+          "question": "After coming home from school, you should first ____ your clothes.",
+          "options": ["tear", "change", "buy", "sell"],
+          "correct_answer": "change",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 19,
+          "question": "Many families ____ TV together in the evening.",
+          "options": ["listen to", "read", "watch", "play"],
+          "correct_answer": "watch",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 20,
+          "question": "What is another way to say 'wake up'?",
+          "options": ["Get up", "Go down", "Sleep more", "Stay in bed"],
+          "correct_answer": "Get up",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 21,
+          "question": "I ____ my bed every morning.",
+          "options": ["make", "do", "clean", "set"],
+          "correct_answer": "make",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 22,
+          "question": "We eat dinner with our ____.",
+          "options": ["teachers", "friends", "family", "classmates"],
+          "correct_answer": "family",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 23,
+          "question": "To get clean, you take a ____.",
+          "options": ["nap", "walk", "bath", "break"],
+          "correct_answer": "bath",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 24,
+          "question": "What do you say to your parents before you sleep?",
+          "options": ["Good morning", "Hello", "Good night", "Goodbye"],
+          "correct_answer": "Good night",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 25,
+          "question": "After playing, your hands are dirty, so you should ____ them.",
+          "options": ["wash", "wave", "hide", "show"],
+          "correct_answer": "wash",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 26,
+          "question": "The time to go to school is in the ____.",
+          "options": ["morning", "afternoon", "evening", "night"],
+          "correct_answer": "morning",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 27,
+          "question": "What do you do after finishing your dinner?",
+          "options": ["Go to school", "Eat breakfast", "Wash your hands and mouth", "Play outside"],
+          "correct_answer": "Wash your hands and mouth",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 28,
+          "question": "You ____ your homework in your notebook.",
+          "options": ["draw", "write", "stick", "play"],
+          "correct_answer": "write",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 29,
+          "question": "The time for lunch is usually in the ____.",
+          "options": ["morning", "afternoon", "evening", "midnight"],
+          "correct_answer": "afternoon",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 30,
+          "question": "To stay healthy, you should ____ every day.",
+          "options": ["exercise", "sit", "sleep all day", "eat junk food"],
+          "correct_answer": "exercise",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 31,
+          "question": "What do you do with your school shoes before entering the house?",
+          "options": ["Wear them", "Wash them", "Take them off", "Polish them"],
+          "correct_answer": "Take them off",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 32,
+          "question": "In the evening, you might have a light ____.",
+          "options": ["breakfast", "lunch", "dinner", "snack"],
+          "correct_answer": "snack",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 33,
+          "question": "A student's main 'job' is to ____.",
+          "options": ["play", "study", "eat", "sleep"],
+          "correct_answer": "study",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 34,
+          "question": "What do you do before you eat your food?",
+          "options": ["Wash your hands", "Play a game", "Watch TV", "Go to sleep"],
+          "correct_answer": "Wash your hands",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 35,
+          "question": "I ____ to school by bus.",
+          "options": ["fly", "walk", "go", "run"],
+          "correct_answer": "go",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 36,
+          "question": "After school, I like to ____ with my friends.",
+          "options": ["fight", "argue", "chat", "study"],
+          "correct_answer": "chat",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 37,
+          "question": "The sun rises in the ____.",
+          "options": ["morning", "afternoon", "evening", "night"],
+          "correct_answer": "morning",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 38,
+          "question": "I help my mother in the ____.",
+          "options": ["school", "market", "kitchen", "playground"],
+          "correct_answer": "kitchen",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 39,
+          "question": "What is the time of day when you eat dinner?",
+          "options": ["Morning", "Afternoon", "Evening", "Noon"],
+          "correct_answer": "Evening",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 40,
+          "question": "When you wake up, you get out of ____.",
+          "options": ["the chair", "the house", "bed", "school"],
+          "correct_answer": "bed",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 41,
+          "question": "I ____ my lessons before a test.",
+          "options": ["forget", "revise", "ignore", "lose"],
+          "correct_answer": "revise",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 42,
+          "question": "What do you do in the school library?",
+          "options": ["Shout and play", "Eat lunch", "Read books quietly", "Sleep"],
+          "correct_answer": "Read books quietly",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 43,
+          "question": "The time when the sun goes down is called ____.",
+          "options": ["sunrise", "midday", "sunset", "midnight"],
+          "correct_answer": "sunset",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 44,
+          "question": "I ____ to stories my grandmother tells.",
+          "options": ["look", "see", "listen", "watch"],
+          "correct_answer": "listen",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 45,
+          "question": "At night, the ____ is dark.",
+          "options": ["sun", "sky", "school", "park"],
+          "correct_answer": "sky",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 46,
+          "question": "What is a short sleep in the afternoon called?",
+          "options": ["A dream", "A nap", "A rest", "A break"],
+          "correct_answer": "A nap",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 47,
+          "question": "We ____ our national anthem during the school assembly.",
+          "options": ["say", "sing", "shout", "speak"],
+          "correct_answer": "sing",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 48,
+          "question": "After my bath, I dry myself with a ____.",
+          "options": ["towel", "cloth", "paper", "shirt"],
+          "correct_answer": "towel",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 49,
+          "question": "What is your father's daily work called?",
+          "options": ["Hobby", "Job", "Fun", "Game"],
+          "correct_answer": "Job",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 50,
+          "question": "The time from waking up to sleeping is your daily ____.",
+          "options": ["game", "story", "routine", "dream"],
+          "correct_answer": "routine",
+          "grammar_type": "Daily Routine"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What does 'daily routine' mean?",
+          "options": ["Things you do once a year", "Things you do on a holiday", "The things you do every day in the same order", "Things you never do"],
+          "correct_answer": "The things you do every day in the same order",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 52,
+          "question": "Which of these is a household chore?",
+          "options": ["Playing cricket", "Watching a movie", "Doing the dishes", "Reading a comic"],
+          "correct_answer": "Doing the dishes",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 53,
+          "question": "I always ____ my homework before I watch television.",
+          "options": ["complete", "start", "forget", "begin"],
+          "correct_answer": "complete",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 54,
+          "question": "After dinner, my family and I often ____ about our day.",
+          "options": ["argue", "fight", "discuss", "complain"],
+          "correct_answer": "discuss",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 55,
+          "question": "What is a 'commute'?",
+          "options": ["The time spent relaxing at home", "The journey between your home and school/work", "The lunch break at school", "A type of homework"],
+          "correct_answer": "The journey between your home and school/work",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 56,
+          "question": "On weekends, my routine is more ____.",
+          "options": ["strict", "busy", "relaxed", "difficult"],
+          "correct_answer": "relaxed",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 57,
+          "question": "What does it mean to 'set the alarm'?",
+          "options": ["To turn off the clock", "To choose a time for the clock to ring", "To break the clock", "To buy a new clock"],
+          "correct_answer": "To choose a time for the clock to ring",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 58,
+          "question": "The first class of the school day is the first ____.",
+          "options": ["break", "recess", "period", "assembly"],
+          "correct_answer": "period",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 59,
+          "question": "Before an exam, I spend more time ____ my notes.",
+          "options": ["reviewing", "ignoring", "losing", "hiding"],
+          "correct_answer": "reviewing",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 60,
+          "question": "What is an 'after-school activity'?",
+          "options": ["Sleeping after school", "An activity like sports or music done after school hours", "Doing homework", "Watching TV"],
+          "correct_answer": "An activity like sports or music done after school hours",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 61,
+          "question": "I usually ____ my room on Sundays.",
+          "options": ["mess up", "tidy up", "destroy", "leave"],
+          "correct_answer": "tidy up",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 62,
+          "question": "My daily schedule includes time for study, play, and ____.",
+          "options": ["fighting", "rest", "crying", "arguing"],
+          "correct_answer": "rest",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 63,
+          "question": "What is the opposite of 'waking up early'?",
+          "options": ["Sleeping late", "Waking up on time", "Waking up with the sun", "Sleeping early"],
+          "correct_answer": "Sleeping late",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 64,
+          "question": "What does 'to get dressed' mean?",
+          "options": ["To buy new clothes", "To wash clothes", "To put on clothes", "To take off clothes"],
+          "correct_answer": "To put on clothes",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 65,
+          "question": "It is a good habit to ____ your parents before leaving for school.",
+          "options": ["disobey", "greet", "ignore", "trouble"],
+          "correct_answer": "greet",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 66,
+          "question": "The time between your regular activities is your ____ time.",
+          "options": ["busy", "free", "work", "school"],
+          "correct_answer": "free",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 67,
+          "question": "What is a 'bedtime story'?",
+          "options": ["A story you write in bed", "A story told before someone goes to sleep", "A story about a bed", "A very boring story"],
+          "correct_answer": "A story told before someone goes to sleep",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 68,
+          "question": "I always ____ my lunch to school.",
+          "options": ["buy", "sell", "carry", "forget"],
+          "correct_answer": "carry",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 69,
+          "question": "To prepare for the next day, you should ____ your school bag at night.",
+          "options": ["empty", "organize", "hide", "forget"],
+          "correct_answer": "organize",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 70,
+          "question": "A balanced daily routine should include work, rest, and ____.",
+          "options": ["stress", "play", "sadness", "fighting"],
+          "correct_answer": "play",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 71,
+          "question": "What is the meaning of 'attending classes'?",
+          "options": ["To be present in the classes", "To miss the classes", "To teach the classes", "To enjoy the classes"],
+          "correct_answer": "To be present in the classes",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 72,
+          "question": "After my evening snack, I usually go out to ____.",
+          "options": ["have lunch", "go to school", "play with my friends", "have breakfast"],
+          "correct_answer": "play with my friends",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 73,
+          "question": "What is a 'timetable'?",
+          "options": ["A clock", "A calendar", "A schedule showing the times of daily activities", "A story about time"],
+          "correct_answer": "A schedule showing the times of daily activities",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 74,
+          "question": "Doing some light exercise in the morning can make you feel ____.",
+          "options": ["tired", "energetic", "sad", "angry"],
+          "correct_answer": "energetic",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 75,
+          "question": "What is the opposite of 'staying up late'?",
+          "options": ["Sleeping in", "Going to bed early", "Waking up late", "Taking a nap"],
+          "correct_answer": "Going to bed early",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 76,
+          "question": "Which of these is a good evening routine for a student?",
+          "options": ["Playing video games all night", "Finishing homework and packing the bag for the next day", "Watching movies until midnight", "Chatting with friends on the phone for hours"],
+          "correct_answer": "Finishing homework and packing the bag for the next day",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 77,
+          "question": "The phrase 'wind down' means to:",
+          "options": ["start an activity", "do something exciting", "relax after a period of activity", "turn a fan on"],
+          "correct_answer": "relax after a period of activity",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 78,
+          "question": "My daily routine on a weekday is very different from my routine on a ____.",
+          "options": ["Monday", "schoolday", "weekend", "Tuesday"],
+          "correct_answer": "weekend",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 79,
+          "question": "The period after sunset and before bedtime is the ____.",
+          "options": ["afternoon", "morning", "evening", "noon"],
+          "correct_answer": "evening",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 80,
+          "question": "What is the benefit of having a daily routine?",
+          "options": ["It makes life boring.", "It helps you manage your time well.", "It makes you tired.", "It is a waste of time."],
+          "correct_answer": "It helps you manage your time well.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 81,
+          "question": "I ____ the school bus at the bus stop every morning.",
+          "options": ["miss", "catch", "drive", "see"],
+          "correct_answer": "catch",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 82,
+          "question": "What does 'grooming' include in a daily routine?",
+          "options": ["Eating and sleeping", "Playing and studying", "Combing hair, cutting nails, and keeping clean", "Cooking and cleaning"],
+          "correct_answer": "Combing hair, cutting nails, and keeping clean",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 83,
+          "question": "The school ____ ends at 3 PM.",
+          "options": ["day", "night", "week", "year"],
+          "correct_answer": "day",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 84,
+          "question": "What is the phrase for the journey from school back to home?",
+          "options": ["Commute to school", "Journey home", "School trip", "Return journey"],
+          "correct_answer": "Journey home",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 85,
+          "question": "To stay organized, it is good to have a daily ____.",
+          "options": ["planner", "story", "problem", "fight"],
+          "correct_answer": "planner",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 86,
+          "question": "I always ____ for about eight hours every night.",
+          "options": ["study", "play", "sleep", "eat"],
+          "correct_answer": "sleep",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 87,
+          "question": "The time spent with family is called ____.",
+          "options": ["school time", "alone time", "family time", "playtime"],
+          "correct_answer": "family time",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 88,
+          "question": "What do you do when you are 'getting ready' for bed?",
+          "options": ["Wear your school uniform", "Brush your teeth and change into nightclothes", "Eat your breakfast", "Pack your school bag"],
+          "correct_answer": "Brush your teeth and change into nightclothes",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 89,
+          "question": "The activities you do every day are your daily ____.",
+          "options": ["habits", "hobbies", "tasks", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 90,
+          "question": "It is important to have a nutritious ____ to start the day.",
+          "options": ["dinner", "snack", "breakfast", "supper"],
+          "correct_answer": "breakfast",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 91,
+          "question": "My father ____ for work at 9 AM.",
+          "options": ["comes", "returns", "leaves", "stops"],
+          "correct_answer": "leaves",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 92,
+          "question": "A person who wakes up very early is an ____.",
+          "options": ["early bird", "night owl", "latecomer", "early person"],
+          "correct_answer": "early bird",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 93,
+          "question": "The period between noon and evening is the ____.",
+          "options": ["morning", "afternoon", "midnight", "dawn"],
+          "correct_answer": "afternoon",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 94,
+          "question": "What is the opposite of 'a productive day'?",
+          "options": ["A busy day", "A long day", "A lazy day", "A happy day"],
+          "correct_answer": "A lazy day",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 95,
+          "question": "What does it mean to 'follow' a routine?",
+          "options": ["To create a new routine", "To stick to a planned schedule", "To change the routine every day", "To forget the routine"],
+          "correct_answer": "To stick to a planned schedule",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 96,
+          "question": "A person who stays up late at night is a ____.",
+          "options": ["night owl", "early bird", "day person", "night person"],
+          "correct_answer": "night owl",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 97,
+          "question": "Daily ____ helps in keeping your body fit.",
+          "options": ["studying", "eating junk food", "physical activity", "sleeping less"],
+          "correct_answer": "physical activity",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 98,
+          "question": "I ____ a shower every morning.",
+          "options": ["do", "have", "take", "Both B and C"],
+          "correct_answer": "Both B and C",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 99,
+          "question": "What are 'daily chores'?",
+          "options": ["Fun games played daily", "Special meals cooked daily", "Regular tasks like cleaning and washing", "Daily arguments"],
+          "correct_answer": "Regular tasks like cleaning and washing",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 100,
+          "question": "The time just before the sun rises is called ____.",
+          "options": ["Dusk", "Twilight", "Dawn", "Midnight"],
+          "correct_answer": "Dawn",
+          "grammar_type": "Daily Routine"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the term for a person's regular way of life or style of living?",
+          "options": ["Lifestyle", "Routine", "Schedule", "Habit"],
+          "correct_answer": "Lifestyle",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 102,
+          "question": "The phrase 'to call it a day' means to:",
+          "options": ["name the day of the week.", "stop working on something.", "plan for the next day.", "start a new task."],
+          "correct_answer": "stop working on something.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 103,
+          "question": "What does it mean to have a 'hectic' schedule?",
+          "options": ["To have a very relaxed and easy schedule", "To have a very busy and rushed schedule", "To have no schedule at all", "To have a well-planned schedule"],
+          "correct_answer": "To have a very busy and rushed schedule",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 104,
+          "question": "The time of day just after sunset is known as ____.",
+          "options": ["Dawn", "Midday", "Dusk", "Midnight"],
+          "correct_answer": "Dusk",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 105,
+          "question": "Which of these describes a routine that doesn't change?",
+          "options": ["Flexible", "Variable", "Fixed", "Dynamic"],
+          "correct_answer": "Fixed",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 106,
+          "question": "To 'prioritize' tasks in a daily routine means to:",
+          "options": ["do them all at once.", "do the easiest tasks first.", "decide which tasks are most important and do them first.", "do the tasks in a random order."],
+          "correct_answer": "decide which tasks are most important and do them first.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 107,
+          "question": "What is 'procrastination'?",
+          "options": ["Finishing tasks ahead of time", "The action of delaying or postponing something", "Working very efficiently", "Planning your day perfectly"],
+          "correct_answer": "The action of delaying or postponing something",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 108,
+          "question": "A person who works from home has a ____ routine.",
+          "options": ["commuting", "remote work", "office", "travel"],
+          "correct_answer": "remote work",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 109,
+          "question": "The phrase 'burning the midnight oil' means:",
+          "options": ["to go to bed very early.", "to study or work late into the night.", "to use an oil lamp for studying.", "to waste time in the evening."],
+          "correct_answer": "to study or work late into the night.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 110,
+          "question": "What is 'time management'?",
+          "options": ["The ability to use one's time effectively or productively", "The process of counting time", "A type of clock", "The study of the history of time"],
+          "correct_answer": "The ability to use one's time effectively or productively",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 111,
+          "question": "A daily routine that is very monotonous is ____.",
+          "options": ["exciting and varied", "dull, tedious, and repetitious", "flexible and easy", "challenging and fun"],
+          "correct_answer": "dull, tedious, and repetitious",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 112,
+          "question": "The period between regular activities, especially work, is one's ____ time.",
+          "options": ["leisure", "official", "occupied", "mandatory"],
+          "correct_answer": "leisure",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 113,
+          "question": "Which of these is a synonym for 'schedule'?",
+          "options": ["Agenda", "Itinerary", "Timetable", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 114,
+          "question": "What does it mean to 'adhere to' a routine?",
+          "options": ["To create a routine", "To change a routine", "To believe in and follow a routine", "To dislike a routine"],
+          "correct_answer": "To believe in and follow a routine",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 115,
+          "question": "The phrase 'nine-to-five' typically refers to a standard ____.",
+          "options": ["school day", "weekend schedule", "working day", "holiday"],
+          "correct_answer": "working day",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 116,
+          "question": "A person's natural rhythm for sleeping and waking is their ____ rhythm.",
+          "options": ["daily", "biological", "circadian", "natural"],
+          "correct_answer": "circadian",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 117,
+          "question": "What are 'errands'?",
+          "options": ["Long journeys for holidays", "Mistakes made in daily work", "Short trips to perform a specific task, like buying groceries", "Difficult homework problems"],
+          "correct_answer": "Short trips to perform a specific task, like buying groceries",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 118,
+          "question": "If your routine is 'second nature' to you, it means you...",
+          "options": ["do it automatically without thinking.", "dislike your routine.", "have to force yourself to do it.", "are just starting a new routine."],
+          "correct_answer": "do it automatically without thinking.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 119,
+          "question": "To 'multitask' means to ____.",
+          "options": ["do one task very slowly", "do many different tasks at the same time", "ask for help with a task", "delay a task"],
+          "correct_answer": "do many different tasks at the same time",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 120,
+          "question": "Which phrase means to start a day feeling fresh and energetic?",
+          "options": ["To wake up on the wrong side of the bed", "To rise and shine", "To hit the hay", "To burn the midnight oil"],
+          "correct_answer": "To rise and shine",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 121,
+          "question": "A 'sedentary' lifestyle, often part of a daily routine, involves a lot of ____.",
+          "options": ["running and exercise", "sitting down and not being active", "travelling", "socializing"],
+          "correct_answer": "sitting down and not being active",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 122,
+          "question": "What is the term for the normal, ordinary, and often boring routine of life?",
+          "options": ["The daily grind", "The daily fun", "The daily party", "The daily holiday"],
+          "correct_answer": "The daily grind",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 123,
+          "question": "To 'allocate' time for a task means to ____.",
+          "options": ["waste time", "have no time", "assign a certain amount of time for it", "forget the time"],
+          "correct_answer": "assign a certain amount of time for it",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 124,
+          "question": "If your routine is 'disrupted', it is ____.",
+          "options": ["going very smoothly", "perfectly planned", "interrupted or disturbed", "very boring"],
+          "correct_answer": "interrupted or disturbed",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 125,
+          "question": "The phrase 'to get a move on' is an informal way to say ____.",
+          "options": ["'relax'", "'wait'", "'be quiet'", "'hurry up'"],
+          "correct_answer": "'hurry up'",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 126,
+          "question": "A person's daily 'regimen' is a ____.",
+          "options": ["regulated system of diet, exercise, or other activity", "period of rest", "busy and chaotic schedule", "list of hobbies"],
+          "correct_answer": "regulated system of diet, exercise, or other activity",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 127,
+          "question": "What does the idiom 'to burn the candle at both ends' mean?",
+          "options": ["To use a candle for light", "To work from early morning until late at night", "To be very efficient with your work", "To relax and enjoy life"],
+          "correct_answer": "To work from early morning until late at night",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 128,
+          "question": "A 'snooze button' on an alarm clock allows you to ____.",
+          "options": ["wake up immediately", "turn the alarm off completely", "sleep for a short additional period", "change the alarm sound"],
+          "correct_answer": "sleep for a short additional period",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 129,
+          "question": "If you are 'swamped' with homework, you have ____.",
+          "options": ["no homework", "a very large amount of homework", "very easy homework", "finished your homework"],
+          "correct_answer": "a very large amount of homework",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 130,
+          "question": "To 'unwind' after a long day at school means to ____.",
+          "options": ["start studying again", "do difficult chores", "relax", "get into an argument"],
+          "correct_answer": "relax",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 131,
+          "question": "A student's 'course load' refers to the ____.",
+          "options": ["weight of their school bag", "number of friends they have", "total number of courses or subjects they are taking", "amount of homework they have"],
+          "correct_answer": "total number of courses or subjects they are taking",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 132,
+          "question": "What does 'work-life balance' mean?",
+          "options": ["Working all the time", "Never working", "A proper balance between personal life and work", "Hating your work"],
+          "correct_answer": "A proper balance between personal life and work",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 133,
+          "question": "The phrase 'to hit the hay' is an idiom that means ____.",
+          "options": ["to work on a farm", "to go to bed", "to have a fight", "to eat dinner"],
+          "correct_answer": "to go to bed",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 134,
+          "question": "Which of these is NOT a synonym for 'routine'?",
+          "options": ["Custom", "Procedure", "Disruption", "Regimen"],
+          "correct_answer": "Disruption",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 135,
+          "question": "A 'stickler' for routine is someone who...",
+          "options": ["hates routines.", "always changes their routine.", "insists on sticking to a routine very strictly.", "doesn't have a routine."],
+          "correct_answer": "insists on sticking to a routine very strictly.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 136,
+          "question": "If you 'fit something in' your schedule, you...",
+          "options": ["remove it from your schedule.", "cancel it.", "find time to do it.", "delay it."],
+          "correct_answer": "find time to do it.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 137,
+          "question": "The phrase 'dawn till dusk' refers to the period from ____.",
+          "options": ["midnight to noon", "afternoon to evening", "early morning to evening", "night to morning"],
+          "correct_answer": "early morning to evening",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 138,
+          "question": "A 'mundane' task in a routine is one that is ____.",
+          "options": ["exciting and new", "difficult and challenging", "dull and boring", "creative and fun"],
+          "correct_answer": "dull and boring",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 139,
+          "question": "What is 'self-care' in the context of a daily routine?",
+          "options": ["Ignoring your health", "Activities done to take care of one's own well-being", "Working without breaks", "Helping others all the time"],
+          "correct_answer": "Activities done to take care of one's own well-being",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 140,
+          "question": "The phrase 'to get into the swing of things' means to:",
+          "options": ["start a new hobby.", "become accustomed to a new routine.", "go on a swing set.", "cause trouble."],
+          "correct_answer": "become accustomed to a new routine.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 141,
+          "question": "What does it mean to 'streamline' a routine?",
+          "options": ["To make it more complicated", "To make it more efficient and simpler", "To abandon the routine", "To follow someone else's routine"],
+          "correct_answer": "To make it more efficient and simpler",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 142,
+          "question": "A 'creature of habit' is someone who...",
+          "options": ["likes change and variety.", "dislikes routines.", "likes to do the same thing at the same time every day.", "forgets their daily tasks."],
+          "correct_answer": "likes to do the same thing at the same time every day.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 143,
+          "question": "What are 'household amenities'?",
+          "options": ["Family members", "Daily chores", "Features that provide comfort or convenience at home, like a washing machine", "Rules of the house"],
+          "correct_answer": "Features that provide comfort or convenience at home, like a washing machine",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 144,
+          "question": "The phrase 'all in a day's work' is used to say that a difficult task is...",
+          "options": ["impossible to complete.", "part of what is expected in a normal routine.", "a reason to complain.", "something to be avoided."],
+          "correct_answer": "part of what is expected in a normal routine.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 145,
+          "question": "If you 'block out' time in your schedule, you...",
+          "options": ["waste that time.", "cancel appointments in that time.", "reserve that time for a specific activity.", "forget about that time."],
+          "correct_answer": "reserve that time for a specific activity.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 146,
+          "question": "What is 'me time' in a daily routine?",
+          "options": ["Time spent working for others", "Time spent on household chores", "Time spent doing what you want to do for yourself", "Time spent commuting"],
+          "correct_answer": "Time spent doing what you want to do for yourself",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 147,
+          "question": "The 'rat race' is an idiom for a way of life with...",
+          "options": ["a relaxed and peaceful routine.", "a focus on creative hobbies.", "a fierce, competitive struggle for power and money.", "a lot of time for family."],
+          "correct_answer": "a fierce, competitive struggle for power and money.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 148,
+          "question": "A 'to-do list' helps you to...",
+          "options": ["remember the tasks you need to complete.", "forget your daily schedule.", "make your day more complicated.", "waste time."],
+          "correct_answer": "remember the tasks you need to complete.",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 149,
+          "question": "What does it mean if a routine becomes 'second nature'?",
+          "options": ["It becomes boring", "You can do it automatically without thinking", "You need to change it", "You dislike doing it"],
+          "correct_answer": "You can do it automatically without thinking",
+          "grammar_type": "Daily Routine"
+        },
+        {
+          "id": 150,
+          "question": "To 'juggle' multiple tasks means to...",
+          "options": ["drop all your tasks.", "do only one task at a time.", "try to manage and deal with several tasks at once.", "ask someone else to do your tasks."],
+          "correct_answer": "try to manage and deal with several tasks at once.",
+          "grammar_type": "Daily Routine"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the feminine gender of 'boy'?",
+          "options": ["woman", "girl", "lady", "female"],
+          "correct_answer": "girl",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 2,
+          "question": "What is the masculine gender of 'woman'?",
+          "options": ["man", "boy", "male", "gentleman"],
+          "correct_answer": "man",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 3,
+          "question": "The noun 'king' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Masculine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 4,
+          "question": "What is the feminine gender of 'king'?",
+          "options": ["princess", "empress", "queen", "lady"],
+          "correct_answer": "queen",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 5,
+          "question": "The noun 'girl' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 6,
+          "question": "What is the masculine gender of 'mother'?",
+          "options": ["brother", "son", "uncle", "father"],
+          "correct_answer": "father",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 7,
+          "question": "The noun 'table' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 8,
+          "question": "What is the feminine gender of 'brother'?",
+          "options": ["mother", "aunt", "sister", "daughter"],
+          "correct_answer": "sister",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 9,
+          "question": "The noun 'teacher' can be a male or a female. This is an example of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 10,
+          "question": "What is the masculine gender of 'aunt'?",
+          "options": ["father", "uncle", "nephew", "cousin"],
+          "correct_answer": "uncle",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 11,
+          "question": "The noun 'lion' is masculine. What is its feminine form?",
+          "options": ["tigress", "lioness", "she-lion", "lion-girl"],
+          "correct_answer": "lioness",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 12,
+          "question": "Which of the following is a masculine gender noun?",
+          "options": ["hen", "rooster", "chick", "egg"],
+          "correct_answer": "rooster",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 13,
+          "question": "The noun 'book' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 14,
+          "question": "What is the feminine gender of 'son'?",
+          "options": ["sister", "niece", "daughter", "girl"],
+          "correct_answer": "daughter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 15,
+          "question": "The noun 'student' is an example of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 16,
+          "question": "What is the masculine gender of 'queen'?",
+          "options": ["prince", "king", "emperor", "lord"],
+          "correct_answer": "king",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 17,
+          "question": "The noun 'actress' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 18,
+          "question": "What is the masculine gender of 'actress'?",
+          "options": ["act", "acting", "actor", "action"],
+          "correct_answer": "actor",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 19,
+          "question": "The noun 'chair' is a non-living thing. It is of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 20,
+          "question": "What is the feminine gender of 'husband'?",
+          "options": ["woman", "lady", "wife", "sister"],
+          "correct_answer": "wife",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 21,
+          "question": "The noun 'doctor' can refer to a man or a woman. It is of ____ gender.",
+          "options": ["Common", "Neuter", "Feminine", "Masculine"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 22,
+          "question": "What is the masculine gender of 'hen'?",
+          "options": ["chicken", "rooster", "cock", "Both rooster and cock"],
+          "correct_answer": "Both rooster and cock",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 23,
+          "question": "Which of the following is a feminine gender noun?",
+          "options": ["tiger", "lion", "prince", "princess"],
+          "correct_answer": "princess",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 24,
+          "question": "What is the masculine gender of 'princess'?",
+          "options": ["king", "queen", "prince", "lord"],
+          "correct_answer": "prince",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 25,
+          "question": "The noun 'baby' is an example of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 26,
+          "question": "What is the feminine gender of 'tiger'?",
+          "options": ["lioness", "tigress", "she-tiger", "tiger-woman"],
+          "correct_answer": "tigress",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 27,
+          "question": "The noun 'pen' is a lifeless object. Its gender is ____.",
+          "options": ["Neuter", "Common", "Feminine", "Masculine"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 28,
+          "question": "What is the masculine gender of 'lady'?",
+          "options": ["man", "boy", "gentleman", "lord"],
+          "correct_answer": "lord",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 29,
+          "question": "The noun 'parent' can refer to a father or a mother. It is of ____ gender.",
+          "options": ["Neuter", "Feminine", "Masculine", "Common"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 30,
+          "question": "What is the feminine gender of 'sir'?",
+          "options": ["ma'am", "madam", "miss", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 31,
+          "question": "Which noun is of masculine gender?",
+          "options": ["niece", "nephew", "cousin", "child"],
+          "correct_answer": "nephew",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 32,
+          "question": "What is the feminine gender of 'nephew'?",
+          "options": ["aunt", "sister", "niece", "cousin"],
+          "correct_answer": "niece",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 33,
+          "question": "The noun 'car' has which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 34,
+          "question": "The pronoun 'he' refers to which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Masculine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 35,
+          "question": "The pronoun 'she' refers to which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 36,
+          "question": "What is the masculine gender of 'cow'?",
+          "options": ["ox", "bull", "calf", "Both ox and bull"],
+          "correct_answer": "Both ox and bull",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 37,
+          "question": "The noun 'friend' is an example of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 38,
+          "question": "What is the feminine gender of 'grandfather'?",
+          "options": ["mother", "grandmother", "aunt", "grand-lady"],
+          "correct_answer": "grandmother",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 39,
+          "question": "Which of these is a neuter gender noun?",
+          "options": ["tree", "dog", "woman", "teacher"],
+          "correct_answer": "tree",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 40,
+          "question": "What is the masculine gender of 'wife'?",
+          "options": ["husband", "man", "groom", "boy"],
+          "correct_answer": "husband",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 41,
+          "question": "The noun 'policeman' is ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Masculine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 42,
+          "question": "What is the feminine gender of 'policeman'?",
+          "options": ["policelady", "policewoman", "policegirl", "officer"],
+          "correct_answer": "policewoman",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 43,
+          "question": "The pronoun 'it' refers to which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 44,
+          "question": "What is the opposite gender of 'hero'?",
+          "options": ["actress", "shero", "heroine", "villain"],
+          "correct_answer": "heroine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 45,
+          "question": "The noun 'child' is of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 46,
+          "question": "What is the masculine gender of 'niece'?",
+          "options": ["uncle", "cousin", "nephew", "brother"],
+          "correct_answer": "nephew",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 47,
+          "question": "The noun 'waitress' is ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 48,
+          "question": "What is the masculine gender of 'waitress'?",
+          "options": ["waiter", "waitman", "server", "attendant"],
+          "correct_answer": "waiter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 49,
+          "question": "Which noun is of common gender?",
+          "options": ["artist", "king", "queen", "chair"],
+          "correct_answer": "artist",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 50,
+          "question": "What is the feminine gender of 'peacock'?",
+          "options": ["hen", "peahen", "chick", "pea-lady"],
+          "correct_answer": "peahen",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 51,
+          "question": "The noun 'pencil' has which gender?",
+          "options": ["Neuter", "Common", "Feminine", "Masculine"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 52,
+          "question": "What is the masculine form of 'bride'?",
+          "options": ["husband", "man", "groom", "boy"],
+          "correct_answer": "groom",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 53,
+          "question": "The noun 'horse' is masculine. What is its feminine form?",
+          "options": ["mare", "pony", "colt", "foal"],
+          "correct_answer": "mare",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 54,
+          "question": "Which of these refers to a male person?",
+          "options": ["wizard", "witch", "sorceress", "enchantress"],
+          "correct_answer": "wizard",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 55,
+          "question": "The noun 'cousin' is of what gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 56,
+          "question": "What is the opposite gender of 'uncle'?",
+          "options": ["aunt", "mother", "sister", "neice"],
+          "correct_answer": "aunt",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 57,
+          "question": "The noun 'computer' is of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 58,
+          "question": "What is the masculine gender of 'lioness'?",
+          "options": ["tiger", "lion", "panther", "leopard"],
+          "correct_answer": "lion",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 59,
+          "question": "Which of these can be of masculine or feminine gender?",
+          "options": ["person", "man", "woman", "stone"],
+          "correct_answer": "person",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 60,
+          "question": "What is the feminine gender of 'god'?",
+          "options": ["angel", "spirit", "goddess", "priestess"],
+          "correct_answer": "goddess",
+          "grammar_type": "Genders"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "What is the feminine gender of 'duke'?",
+          "options": ["queen", "empress", "duchess", "baroness"],
+          "correct_answer": "duchess",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 62,
+          "question": "The noun 'monk' is masculine. What is its feminine form?",
+          "options": ["nun", "priestess", "sister", "woman"],
+          "correct_answer": "nun",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 63,
+          "question": "The noun 'spouse' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 64,
+          "question": "What is the masculine gender of 'vixen' (a female fox)?",
+          "options": ["dog", "wolf", "fox", "jackal"],
+          "correct_answer": "fox",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 65,
+          "question": "The noun 'heir' is masculine. What is its feminine form?",
+          "options": ["heiress", "heroin", "empress", "queen"],
+          "correct_answer": "heiress",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 66,
+          "question": "Which of these nouns is always feminine?",
+          "options": ["nurse", "midwife", "doctor", "engineer"],
+          "correct_answer": "midwife",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 67,
+          "question": "What is the masculine gender of 'goose'?",
+          "options": ["drake", "gander", "rooster", "swan"],
+          "correct_answer": "gander",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 68,
+          "question": "The noun 'chairperson' is a modern term of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common/Neutral", "Neuter"],
+          "correct_answer": "Common/Neutral",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 69,
+          "question": "What is the feminine gender of 'emperor'?",
+          "options": ["queen", "empress", "princess", "duchess"],
+          "correct_answer": "empress",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 70,
+          "question": "The noun 'orphan' is of which gender?",
+          "options": ["Neuter", "Common", "Feminine", "Masculine"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 71,
+          "question": "What is the masculine gender of 'witch'?",
+          "options": ["wizard", "sorcerer", "warlock", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 72,
+          "question": "The noun 'sheep' is common gender. A male sheep is called a ram, and a female is a ____.",
+          "options": ["lamb", "ewe", "doe", "sheepess"],
+          "correct_answer": "ewe",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 73,
+          "question": "What is the feminine gender of 'host'?",
+          "options": ["guest", "hostel", "hostess", "host-lady"],
+          "correct_answer": "hostess",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 74,
+          "question": "The noun 'sibling' is of what gender?",
+          "options": ["Feminine", "Masculine", "Neuter", "Common"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 75,
+          "question": "What is the masculine gender of 'bee'?",
+          "options": ["drone", "wasp", "hornet", "bug"],
+          "correct_answer": "drone",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 76,
+          "question": "The gender-neutral term for 'steward' and 'stewardess' is ____.",
+          "options": ["flight attendant", "air host", "server", "flyer"],
+          "correct_answer": "flight attendant",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 77,
+          "question": "What is the feminine gender of 'bachelor'?",
+          "options": ["spinster", "bachelorette", "maiden", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 78,
+          "question": "A male deer is a stag or buck. A female deer is a ____.",
+          "options": ["doe", "vixen", "fawn", "hind"],
+          "correct_answer": "doe",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 79,
+          "question": "The noun 'master' is masculine. Its feminine form is ____.",
+          "options": ["madam", "lady", "mistress", "miss"],
+          "correct_answer": "mistress",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 80,
+          "question": "The noun 'infant' is of which gender?",
+          "options": ["Feminine", "Masculine", "Neuter", "Common"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 81,
+          "question": "What is the masculine gender of 'mare'?",
+          "options": ["stallion", "horse", "colt", "Both stallion and horse"],
+          "correct_answer": "Both stallion and horse",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 82,
+          "question": "The noun 'humanity' is abstract. What is its gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 83,
+          "question": "What is the feminine gender of 'conductor' (of an orchestra)?",
+          "options": ["conductress", "conducta", "conductora", "conductor"],
+          "correct_answer": "conductor",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 84,
+          "question": "A male duck is a 'drake'. A female duck is a ____.",
+          "options": ["duckess", "hen", "goose", "duck"],
+          "correct_answer": "duck",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 85,
+          "question": "The noun 'aviator' is a masculine term. What is the feminine form?",
+          "options": ["aviatrix", "aviatress", "aviator-ess", "pilot"],
+          "correct_answer": "aviatrix",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 86,
+          "question": "What is the gender of the noun 'crew'?",
+          "options": ["Collective (treated as Neuter)", "Feminine", "Masculine", "Common"],
+          "correct_answer": "Collective (treated as Neuter)",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 87,
+          "question": "The noun 'czar' (or tsar) is masculine. Its feminine counterpart is ____.",
+          "options": ["czarina", "queen", "empress", "princess"],
+          "correct_answer": "czarina",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 88,
+          "question": "Which is the correct gender-neutral term for 'mankind'?",
+          "options": ["humankind", "humanity", "people", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 89,
+          "question": "What is the masculine gender of 'sow' (female pig)?",
+          "options": ["piglet", "boar", "hog", "pig"],
+          "correct_answer": "boar",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 90,
+          "question": "The noun 'prophet' is masculine. The feminine is ____.",
+          "options": ["prophetess", "prophet-lady", "seer", "oracle"],
+          "correct_answer": "prophetess",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 91,
+          "question": "The noun 'musician' has what gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 92,
+          "question": "What is the masculine gender of 'doe'?",
+          "options": ["stag", "buck", "ram", "Both stag and buck"],
+          "correct_answer": "Both stag and buck",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 93,
+          "question": "What is the feminine gender of 'landlord'?",
+          "options": ["landlady", "landowner", "lady-land", "land-miss"],
+          "correct_answer": "landlady",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 94,
+          "question": "The noun 'army' is a collective noun and is treated as ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 95,
+          "question": "What is the masculine gender of 'madam'?",
+          "options": ["sir", "mister", "gentleman", "master"],
+          "correct_answer": "sir",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 96,
+          "question": "The noun 'shepherd' is masculine. What is its feminine form?",
+          "options": ["sheep-herder", "shepherdess", "ewe-herder", "sheepless"],
+          "correct_answer": "shepherdess",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 97,
+          "question": "The gender-neutral term for 'waiter' or 'waitress' is ____.",
+          "options": ["attendant", "server", "host", "steward"],
+          "correct_answer": "server",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 98,
+          "question": "What is the masculine gender of 'goose'?",
+          "options": ["gander", "drake", "cob", "rooster"],
+          "correct_answer": "gander",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 99,
+          "question": "The noun 'cyclist' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 100,
+          "question": "What is the feminine gender of 'baron'?",
+          "options": ["baroness", "lady", "duchess", "countess"],
+          "correct_answer": "baroness",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 101,
+          "question": "A male swan is a 'cob', a female is a ____.",
+          "options": ["pen", "swaness", "cygnet", "goose"],
+          "correct_answer": "pen",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 102,
+          "question": "What is the feminine gender of 'patron'?",
+          "options": ["patroness", "matron", "patron", "mother"],
+          "correct_answer": "patroness",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 103,
+          "question": "The term 'firefighter' replaced the masculine term ____.",
+          "options": ["fireman", "fire officer", "fire-master", "fire-worker"],
+          "correct_answer": "fireman",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 104,
+          "question": "The noun 'committee' is of what gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter (Collective)"],
+          "correct_answer": "Neuter (Collective)",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 105,
+          "question": "What is the masculine gender of 'duchess'?",
+          "options": ["baron", "count", "duke", "prince"],
+          "correct_answer": "duke",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 106,
+          "question": "The noun 'author' is now considered to be of ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 107,
+          "question": "What is the masculine gender of 'executrix'?",
+          "options": ["executioner", "executive", "executor", "execute"],
+          "correct_answer": "executor",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 108,
+          "question": "The gender-neutral term for 'chairman' is ____.",
+          "options": ["chair", "chairperson", "head", "Both chair and chairperson"],
+          "correct_answer": "Both chair and chairperson",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 109,
+          "question": "What is the feminine gender of 'marquis'?",
+          "options": ["marquise", "marchioness", "marchess", "Both marquise and marchioness"],
+          "correct_answer": "Both marquise and marchioness",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 110,
+          "question": "The noun 'manager' is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "What is the feminine gender of 'sultan'?",
+          "options": ["sultana", "sultani", "sultrine", "queen"],
+          "correct_answer": "sultana",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 112,
+          "question": "In poetry, the moon is often personified and given which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 113,
+          "question": "A male graduate is an 'alumnus'. What is the term for a female graduate?",
+          "options": ["alumnae", "alumna", "alumni", "alumnus-ess"],
+          "correct_answer": "alumna",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 114,
+          "question": "A male fox is a 'reynard' or 'tod'. A female fox is a ____.",
+          "options": ["vixen", "doe", "ewe", "sow"],
+          "correct_answer": "vixen",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 115,
+          "question": "Which gender is typically assigned to abstract nouns like 'death', 'time', or 'war' when personified?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Masculine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 116,
+          "question": "What is the masculine gender of 'testatrix' (a female who has made a will)?",
+          "options": ["testator", "testate", "testimony", "tester"],
+          "correct_answer": "testator",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 117,
+          "question": "The noun 'beau' is a masculine term for a male admirer. The feminine equivalent is ____.",
+          "options": ["belle", "beauty", "bella", "beautrice"],
+          "correct_answer": "belle",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 118,
+          "question": "A 'lout' is a clumsy, awkward man. What is a historical feminine equivalent for a clumsy woman?",
+          "options": ["loutess", "hoyden", "shrew", "spinster"],
+          "correct_answer": "hoyden",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 119,
+          "question": "What is the feminine form of 'masseur'?",
+          "options": ["massagist", "masseuse", "massager", "massae"],
+          "correct_answer": "masseuse",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 120,
+          "question": "A male heir to a Spanish or Portuguese throne is an 'infante'. A female is an ____.",
+          "options": ["infanta", "infantess", "princessa", "infantrix"],
+          "correct_answer": "infanta",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 121,
+          "question": "When a country is personified (e.g., 'Mother India', 'Britannia'), it is usually given ____ gender.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 122,
+          "question": "What is the masculine gender of 'signora'?",
+          "options": ["senior", "seigneur", "signor", "sir"],
+          "correct_answer": "signor",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 123,
+          "question": "A male rabbit is a 'buck'. A female rabbit is a ____.",
+          "options": ["doe", "bunny", "rabbitess", "ewe"],
+          "correct_answer": "doe",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 124,
+          "question": "The noun 'laddoo' (a type of sweet) has what grammatical gender in English?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 125,
+          "question": "A 'peasant' is a noun of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 126,
+          "question": "What is the masculine gender of 'prosecutrix'?",
+          "options": ["prosecutor", "prosecute", "prosecution", "prosecutant"],
+          "correct_answer": "prosecutor",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 127,
+          "question": "The term 'fiance' refers to an engaged man. What is the term for an engaged woman?",
+          "options": ["fiancee", "fianca", "fiance-ess", "fiancina"],
+          "correct_answer": "fiancee",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 128,
+          "question": "A male fowl is a 'cock' or 'rooster'. A young female fowl is a ____.",
+          "options": ["chick", "hen", "pullet", "filly"],
+          "correct_answer": "pullet",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 129,
+          "question": "Which of these collective nouns is treated as neuter?",
+          "options": ["jury", "flock", "parliament", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 130,
+          "question": "The noun 'rajah' is masculine. The feminine is ____.",
+          "options": ["rani", "queen", "rajni", "empress"],
+          "correct_answer": "rani",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 131,
+          "question": "The noun 'gentry' refers to people of good social position and is of which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 132,
+          "question": "The word 'comédienne' is the feminine form of which masculine noun?",
+          "options": ["comedy", "comedic", "comedian", "comrade"],
+          "correct_answer": "comedian",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 133,
+          "question": "A 'hart' is a male red deer. A female is a ____.",
+          "options": ["doe", "hind", "vixen", "ewe"],
+          "correct_answer": "hind",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 134,
+          "question": "What is the gender of a gerund (e.g., 'Running is good for you')?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Neuter",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 135,
+          "question": "What is the masculine gender of 'administratrix'?",
+          "options": ["admin", "administration", "administrator", "administrate"],
+          "correct_answer": "administrator",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 136,
+          "question": "The noun 'don' (a Spanish title) is masculine. Its feminine counterpart is ____.",
+          "options": ["dona", "donna", "dame", "Both dona and donna"],
+          "correct_answer": "Both dona and donna",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 137,
+          "question": "The personified concept of 'Nature' is most often treated as having which gender?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 138,
+          "question": "The noun 'sire' refers to a male parent of an animal, especially a horse. Its feminine equivalent is ____.",
+          "options": ["mare", "dam", "ewe", "sow"],
+          "correct_answer": "dam",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 139,
+          "question": "Which of these nouns, ending in '-or', has a corresponding feminine form ending in '-rix'?",
+          "options": ["actor", "doctor", "aviator", "sailor"],
+          "correct_answer": "aviator",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 140,
+          "question": "A 'ram' is a male sheep. A female sheep is a/an ____.",
+          "options": ["ewe", "doe", "nanny", "sow"],
+          "correct_answer": "ewe",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 141,
+          "question": "The word 'artiste' is a gender-neutral term borrowed from which language?",
+          "options": ["Latin", "German", "French", "Spanish"],
+          "correct_answer": "French",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 142,
+          "question": "A 'stallion' is an uncastrated adult male horse. A female is a ____.",
+          "options": ["filly", "colt", "pony", "mare"],
+          "correct_answer": "mare",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 143,
+          "question": "The noun 'czar' is masculine. The feminine form is 'czarina'. This pattern is borrowed from which language family?",
+          "options": ["Germanic", "Romance", "Slavic", "Celtic"],
+          "correct_answer": "Slavic",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 144,
+          "question": "What is the gender of the noun 'vermin'?",
+          "options": ["Feminine", "Masculine", "Common", "Neuter (Collective)"],
+          "correct_answer": "Neuter (Collective)",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 145,
+          "question": "The noun 'laird' is a Scottish term for a lord. The feminine is ____.",
+          "options": ["lady", "lairdness", "lairdess", "dame"],
+          "correct_answer": "lady",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 146,
+          "question": "A 'drake' is a male duck. A young duck is a ____.",
+          "options": ["cygnet", "gosling", "duckling", "chick"],
+          "correct_answer": "duckling",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 147,
+          "question": "The noun 'protégé' is masculine. What is the feminine form?",
+          "options": ["protégée", "protégess", "protégine", "protéga"],
+          "correct_answer": "protégée",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 148,
+          "question": "A 'billy goat' is masculine. A 'nanny goat' is feminine. The noun 'goat' by itself is ____.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Common",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 149,
+          "question": "Which of these nouns has a distinct feminine form?",
+          "options": ["doctor", "author", "poet", "heir"],
+          "correct_answer": "heir",
+          "grammar_type": "Genders"
+        },
+        {
+          "id": 150,
+          "question": "The sun is often personified as masculine, while the earth is personified as ____.",
+          "options": ["Feminine", "Masculine", "Common", "Neuter"],
+          "correct_answer": "Feminine",
+          "grammar_type": "Genders"
+        }
+      ]
+    }
+  ]
+}
+

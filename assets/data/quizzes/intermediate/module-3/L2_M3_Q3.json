@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is a folk tale?",
+          "options": ["A science fiction story", "A story passed down from generation to generation", "A biography of a famous person", "A news report"],
+          "correct_answer": "A story passed down from generation to generation",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 2,
+          "question": "Which of these is a common character in a folk tale?",
+          "options": ["An astronaut", "A talking animal", "A robot", "A computer programmer"],
+          "correct_answer": "A talking animal",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 3,
+          "question": "What is the main purpose of a 'moral' in a folk tale?",
+          "options": ["To confuse the reader", "To teach a lesson or a value", "To make the story longer", "To describe the setting"],
+          "correct_answer": "To teach a lesson or a value",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 4,
+          "question": "In the story of 'The Hare and the Tortoise', who wins the race?",
+          "options": ["The Hare", "The Tortoise", "Both of them", "Neither of them"],
+          "correct_answer": "The Tortoise",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 5,
+          "question": "A folk tale often begins with the phrase...",
+          "options": ["'In the year 2050...'", "'The science experiment showed...'", "'Once upon a time...'", "'Breaking news...'"],
+          "correct_answer": "'Once upon a time...'",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 6,
+          "question": "Who were the famous brothers from Germany known for collecting folk tales?",
+          "options": ["The Singh Brothers", "The Williams Brothers", "The Grimm Brothers", "The Khan Brothers"],
+          "correct_answer": "The Grimm Brothers",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 7,
+          "question": "What is the moral of 'The Lion and the Mouse'?",
+          "options": ["Look before you leap", "A friend in need is a friend indeed", "Even the small can help the big", "Slow and steady wins the race"],
+          "correct_answer": "Even the small can help the big",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 8,
+          "question": "Which of these is a common setting for a folk tale?",
+          "options": ["A space station", "A busy modern city", "A deep, dark forest", "A computer lab"],
+          "correct_answer": "A deep, dark forest",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 9,
+          "question": "The stories of Tenali Raman are famous folk tales from which country?",
+          "options": ["China", "Russia", "Egypt", "India"],
+          "correct_answer": "India",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 10,
+          "question": "What special ability do animals often have in folk tales?",
+          "options": ["The ability to fly planes", "The ability to use computers", "The ability to talk", "The ability to drive cars"],
+          "correct_answer": "The ability to talk",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 11,
+          "question": "In the story 'The Thirsty Crow', what does the crow put into the pot to raise the water level?",
+          "options": ["Leaves", "Sticks", "Pebbles", "Feathers"],
+          "correct_answer": "Pebbles",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 12,
+          "question": "Folk tales were originally passed on through...",
+          "options": ["Writing books", "Sending emails", "Word of mouth (telling stories)", "Watching television"],
+          "correct_answer": "Word of mouth (telling stories)",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 13,
+          "question": "A 'kingdom' in a folk tale is ruled by a...",
+          "options": ["President", "Prime Minister", "King or Queen", "Manager"],
+          "correct_answer": "King or Queen",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 14,
+          "question": "The stories from 'Panchatantra' mostly feature which characters?",
+          "options": ["Gods and goddesses", "Kings and queens", "Animals", "Modern children"],
+          "correct_answer": "Animals",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 15,
+          "question": "What is a common element found in many folk tales?",
+          "options": ["Science experiments", "Magic and enchantment", "Internet and computers", "Mobile phones"],
+          "correct_answer": "Magic and enchantment",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 16,
+          "question": "The moral 'Unity is strength' comes from the story of...",
+          "options": ["The thirsty crow", "The foolish donkey", "The farmer and his sons (the bundle of sticks)", "The cap-seller and the monkeys"],
+          "correct_answer": "The farmer and his sons (the bundle of sticks)",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 17,
+          "question": "Who is often the wise character in a folk tale who gives advice?",
+          "options": ["A young, foolish boy", "An old man or woman", "A rich merchant", "A strong soldier"],
+          "correct_answer": "An old man or woman",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 18,
+          "question": "A story that explains why something is the way it is (e.g., why the tiger has stripes) is a type of...",
+          "options": ["Folk tale", "Science report", "News article", "Biography"],
+          "correct_answer": "Folk tale",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 19,
+          "question": "Who outsmarted the foolish monkeys in a famous folk tale?",
+          "options": ["A farmer", "A cap-seller", "A king", "A lion"],
+          "correct_answer": "A cap-seller",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 20,
+          "question": "What does a 'hero' in a folk tale usually do?",
+          "options": ["Sleeps all day", "Goes on a journey and overcomes challenges", "Works in an office", "Complains about everything"],
+          "correct_answer": "Goes on a journey and overcomes challenges",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 21,
+          "question": "Which of these is a famous collection of fables (animal stories with morals)?",
+          "options": ["The Harry Potter series", "The Lord of the Rings", "Aesop's Fables", "The Hunger Games"],
+          "correct_answer": "Aesop's Fables",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 22,
+          "question": "Folk tales often teach us about...",
+          "options": ["Computer programming", "The culture and values of a place", "Rocket science", "Modern politics"],
+          "correct_answer": "The culture and values of a place",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 23,
+          "question": "In many stories, what number is considered magical or special?",
+          "options": ["Two", "Three", "Four", "Six"],
+          "correct_answer": "Three",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 24,
+          "question": "A character who is greedy in a folk tale usually...",
+          "options": ["Gets a big reward", "Becomes the king", "Loses everything in the end", "Is praised by everyone"],
+          "correct_answer": "Loses everything in the end",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 25,
+          "question": "The stories of Birbal's wit and wisdom feature him as the clever minister of which emperor?",
+          "options": ["Ashoka", "Shah Jahan", "Akbar", "Chandragupta Maurya"],
+          "correct_answer": "Akbar",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 26,
+          "question": "What is a 'villain' in a folk tale?",
+          "options": ["The good character", "The main hero", "The bad character or enemy", "The funny character"],
+          "correct_answer": "The bad character or enemy",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 27,
+          "question": "The moral 'Honesty is the best policy' is often taught through which story?",
+          "options": ["The Hare and the Tortoise", "The Woodcutter and the Axe", "The Thirsty Crow", "The Fox and the Grapes"],
+          "correct_answer": "The Woodcutter and the Axe",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 28,
+          "question": "A 'magic lamp' is a famous object from which collection of tales?",
+          "options": ["Panchatantra", "The Arabian Nights (One Thousand and One Nights)", "Jataka Tales", "Grimms' Fairy Tales"],
+          "correct_answer": "The Arabian Nights (One Thousand and One Nights)",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 29,
+          "question": "Why do we call them 'folk' tales?",
+          "options": ["Because they are about forks.", "Because they belong to the 'folk' or common people of a region.", "Because they are always about farming folk.", "Because they are written by a person named Folk."],
+          "correct_answer": "Because they belong to the 'folk' or common people of a region.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 30,
+          "question": "In the story 'The Fox and the Grapes', the fox says the grapes are sour because...",
+          "options": ["He does not like grapes", "He cannot reach them", "The grapes are actually sweet", "A bird told him so"],
+          "correct_answer": "He cannot reach them",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 31,
+          "question": "The end of a folk tale is usually...",
+          "options": ["Sad and tragic", "Happy and satisfying", "Confusing", "Abrupt and incomplete"],
+          "correct_answer": "Happy and satisfying",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 32,
+          "question": "A 'curse' in a folk tale is...",
+          "options": ["A magic spell that causes good things", "A magic spell that causes bad things", "A type of praise", "A delicious food"],
+          "correct_answer": "A magic spell that causes bad things",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 33,
+          "question": "The 'Jataka Tales' are stories about the previous lives of...",
+          "options": ["Lord Krishna", "Emperor Akbar", "Gautama Buddha", "Tenali Raman"],
+          "correct_answer": "Gautama Buddha",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 34,
+          "question": "A poor but kind-hearted character in a folk tale often receives...",
+          "options": ["Punishment", "Help from a magical creature", "Scolding from the king", "Nothing"],
+          "correct_answer": "Help from a magical creature",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 35,
+          "question": "What is a common theme in folk tales?",
+          "options": ["The victory of good over evil", "The importance of technology", "The fun of video games", "The details of modern science"],
+          "correct_answer": "The victory of good over evil",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 36,
+          "question": "What kind of house might a character in a folk tale live in?",
+          "options": ["A high-tech apartment", "A spaceship", "A small cottage in the woods", "A modern bungalow"],
+          "correct_answer": "A small cottage in the woods",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 37,
+          "question": "In the story of the 'Ant and the Grasshopper', the ant works hard while the grasshopper...",
+          "options": ["Also works hard", "Helps the ant", "Sings and dances all summer", "Builds a house"],
+          "correct_answer": "Sings and dances all summer",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 38,
+          "question": "The characters in folk tales are often...",
+          "options": ["Very complex and realistic", "Simple and represent a single quality (e.g., greedy, kind, foolish)", "Always sad", "Never human"],
+          "correct_answer": "Simple and represent a single quality (e.g., greedy, kind, foolish)",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 39,
+          "question": "Which of these is a magical object found in a folk tale?",
+          "options": ["A mobile phone", "A laptop", "A flying carpet", "A television"],
+          "correct_answer": "A flying carpet",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 40,
+          "question": "Folk tales are a form of...",
+          "options": ["Science", "History", "Entertainment and education", "Mathematics"],
+          "correct_answer": "Entertainment and education",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 41,
+          "question": "What is a 'riddle' that a folk tale character might have to solve?",
+          "options": ["A math problem", "A tricky question that needs a clever answer", "A recipe", "A map"],
+          "correct_answer": "A tricky question that needs a clever answer",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 42,
+          "question": "The 'moral' of a story is its...",
+          "options": ["Main character", "Setting", "Lesson", "Title"],
+          "correct_answer": "Lesson",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 43,
+          "question": "A foolish character in a folk tale often...",
+          "options": ["Becomes the wisest person", "Makes silly mistakes and gets into trouble", "Solves all the problems", "Wins a big prize"],
+          "correct_answer": "Makes silly mistakes and gets into trouble",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 44,
+          "question": "Why are folk tales from different countries sometimes similar?",
+          "options": ["Because all countries are the same", "Because they often share common human experiences and themes", "Because of a coincidence", "Because they were all written by the same person"],
+          "correct_answer": "Because they often share common human experiences and themes",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 45,
+          "question": "A 'fairy tale' is a type of folk tale that often includes...",
+          "options": ["Fairies, princes, and princesses", "Scientists and labs", "Computers and robots", "Politicians and elections"],
+          "correct_answer": "Fairies, princes, and princesses",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 46,
+          "question": "A 'fable' is a short folk tale that...",
+          "options": ["Is always very long", "Has animals as characters and teaches a moral", "Has no characters", "Is a true story"],
+          "correct_answer": "Has animals as characters and teaches a moral",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 47,
+          "question": "In 'The Goose with the Golden Eggs', the greedy farmer...",
+          "options": ["Takes good care of the goose", "Sells the goose", "Cuts the goose to get all the eggs at once", "Gives the goose to the king"],
+          "correct_answer": "Cuts the goose to get all the eggs at once",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 48,
+          "question": "What quality helps the hero succeed in a folk tale?",
+          "options": ["Laziness", "Greed", "Kindness and courage", "Cowardice"],
+          "correct_answer": "Kindness and courage",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 49,
+          "question": "Who is the 'narrator' of a folk tale?",
+          "options": ["The main character", "The villain", "The person who is telling the story", "The person listening to the story"],
+          "correct_answer": "The person who is telling the story",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 50,
+          "question": "The lesson 'Think before you act' is the moral of which story?",
+          "options": ["The clever fox and the foolish crow", "The lion and the mouse", "The thirsty crow", "The hare and the tortoise"],
+          "correct_answer": "The clever fox and the foolish crow",
+          "grammar_type": "Folk Tales"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What distinguishes a 'legend' from a regular folk tale?",
+          "options": ["Legends are always about animals.", "Legends are often believed to be based on a real historical person or event.", "Legends have no moral.", "Legends are modern stories."],
+          "correct_answer": "Legends are often believed to be based on a real historical person or event.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 52,
+          "question": "In folk tales, a 'trickster' character like Anansi the spider is known for being...",
+          "options": ["Brave and strong", "Kind and gentle", "Clever and mischievous", "Honest and straightforward"],
+          "correct_answer": "Clever and mischievous",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 53,
+          "question": "What is a 'motif' in the context of folk tales?",
+          "options": ["The main character of the story", "The moral of the story", "A recurring element, like a magic sword or an evil stepmother", "The setting of the story"],
+          "correct_answer": "A recurring element, like a magic sword or an evil stepmother",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 54,
+          "question": "What is the 'oral tradition' of folk tales?",
+          "options": ["The tradition of writing tales in a specific format", "The process of passing down stories by telling them, rather than writing them", "The tradition of acting out tales in plays", "The tradition of drawing pictures for tales"],
+          "correct_answer": "The process of passing down stories by telling them, rather than writing them",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 55,
+          "question": "What is the primary function of a 'pourquoi tale' (a 'why' story)?",
+          "options": ["To teach a moral lesson about behavior", "To explain how something in nature came to be", "To narrate the life of a king", "To describe a magical object"],
+          "correct_answer": "To explain how something in nature came to be",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 56,
+          "question": "What is an 'archetype' in folk tales?",
+          "options": ["A type of ancient ship", "A very specific, unique character", "A typical character that represents a universal pattern, like the wise old man or the hero", "The first story ever told"],
+          "correct_answer": "A typical character that represents a universal pattern, like the wise old man or the hero",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 57,
+          "question": "In the story of 'King Midas', his greed leads to everything he touches turning to...",
+          "options": ["Stone", "Water", "Gold", "Dust"],
+          "correct_answer": "Gold",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 58,
+          "question": "How does a 'cumulative tale' build its narrative?",
+          "options": ["By telling the story backwards", "By repeating and adding a new element in each step, like 'The House That Jack Built'", "By having multiple main characters", "By ending with a sad moral"],
+          "correct_answer": "By repeating and adding a new element in each step, like 'The House That Jack Built'",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 59,
+          "question": "The main conflict in many folk tales is between...",
+          "options": ["Two different kingdoms", "Nature and technology", "Good and evil, or wisdom and foolishness", "The past and the future"],
+          "correct_answer": "Good and evil, or wisdom and foolishness",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 60,
+          "question": "What role does the forest often play as a setting in European folk tales?",
+          "options": ["A safe and peaceful home", "A place of business and trade", "A place of trial, danger, and transformation", "A modern, well-lit park"],
+          "correct_answer": "A place of trial, danger, and transformation",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 61,
+          "question": "The Jataka Tales are an important part of which religious tradition?",
+          "options": ["Hinduism", "Christianity", "Islam", "Buddhism"],
+          "correct_answer": "Buddhism",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 62,
+          "question": "What is a 'frame story' like the one in 'One Thousand and One Nights'?",
+          "options": ["A story with no characters", "A main story that contains many other smaller stories within it", "A story that is very short", "A story that is told in pictures"],
+          "correct_answer": "A main story that contains many other smaller stories within it",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 63,
+          "question": "A 'beast fable' is a story where...",
+          "options": ["Animals behave like humans to comment on human folly.", "Humans turn into beasts.", "A hero fights a large beast.", "There are no animals."],
+          "correct_answer": "Animals behave like humans to comment on human folly.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 64,
+          "question": "What does 'anthropomorphism' mean in folk tales?",
+          "options": ["Giving human qualities or abilities to animals or objects", "The study of ancient rocks", "A story about farming", "The belief in many gods"],
+          "correct_answer": "Giving human qualities or abilities to animals or objects",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 65,
+          "question": "In many folk tales, the youngest of three siblings is often the one who...",
+          "options": ["Is the most foolish", "Causes all the problems", "Succeeds in the end", "Is the strongest and cruelest"],
+          "correct_answer": "Succeeds in the end",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 66,
+          "question": "What is the primary difference between a myth and a folk tale?",
+          "options": ["Myths are always shorter.", "Myths often feature gods and goddesses and explain the creation of the world, while folk tales are about ordinary people's adventures.", "Folk tales have no magic.", "Myths are true stories."],
+          "correct_answer": "Myths often feature gods and goddesses and explain the creation of the world, while folk tales are about ordinary people's adventures.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 67,
+          "question": "The 'moral' is usually stated at the end of which type of folk tale?",
+          "options": ["A legend", "A myth", "A fable", "A fairy tale"],
+          "correct_answer": "A fable",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 68,
+          "question": "A folk tale hero is often a person of humble origins. What does 'humble origins' mean?",
+          "options": ["Born into a rich and powerful family", "Born into a simple, poor, or ordinary family", "Born with magical powers", "Born in a big city"],
+          "correct_answer": "Born into a simple, poor, or ordinary family",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 69,
+          "question": "The story of 'The Boy Who Cried Wolf' warns against...",
+          "options": ["Talking to wolves", "Telling lies repeatedly", "Working too hard", "Being too quiet"],
+          "correct_answer": "Telling lies repeatedly",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 70,
+          "question": "How do folk tales reflect the culture they come from?",
+          "options": ["They show the food, beliefs, and values of that culture.", "They have no connection to the culture.", "They only show the geography of the place.", "They only show the modern aspects of a culture."],
+          "correct_answer": "They show the food, beliefs, and values of that culture.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 71,
+          "question": "What is a 'talisman' in a folk tale?",
+          "options": ["A wise old man", "The villain's castle", "A magical object believed to bring good luck or protection", "The hero's horse"],
+          "correct_answer": "A magical object believed to bring good luck or protection",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 72,
+          "question": "In Birbal stories, Birbal solves problems using his...",
+          "options": ["Magical powers", "Great strength", "Wit and intelligence", "Army"],
+          "correct_answer": "Wit and intelligence",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 73,
+          "question": "What does it mean when a folk tale is 'didactic'?",
+          "options": ["It means the tale is very sad.", "It means the tale is intended to teach a moral lesson.", "It means the tale has no plot.", "It means the tale is very short."],
+          "correct_answer": "It means the tale is intended to teach a moral lesson.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 74,
+          "question": "The theme of 'a promise must be kept' is central to which of these tales?",
+          "options": ["Rumpelstiltskin", "The Thirsty Crow", "The Hare and the Tortoise", "The Fox and the Grapes"],
+          "correct_answer": "Rumpelstiltskin",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 75,
+          "question": "What is a common task given to a hero in a folk tale to prove their worth?",
+          "options": ["To cook a good meal", "To pass a modern exam", "To perform three difficult or impossible tasks", "To build a large palace"],
+          "correct_answer": "To perform three difficult or impossible tasks",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 76,
+          "question": "Why did folk tales change slightly each time they were retold in the oral tradition?",
+          "options": ["Because people did it on purpose to confuse others.", "Because of failures of memory or a storyteller adding their own details.", "Because there was a rule to change them.", "They did not change at all."],
+          "correct_answer": "Because of failures of memory or a storyteller adding their own details.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 77,
+          "question": "The 'fool' or 'simpleton' character in a folk tale sometimes succeeds through...",
+          "options": ["Great intelligence", "Cheating", "Kindness or sheer luck", "Strength"],
+          "correct_answer": "Kindness or sheer luck",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 78,
+          "question": "What does a 'metamorphosis' or transformation in a folk tale mean?",
+          "options": ["A long journey", "A character changing their physical form, like a man turning into a beast", "A big festival", "A riddle"],
+          "correct_answer": "A character changing their physical form, like a man turning into a beast",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 79,
+          "question": "The Anansi stories, featuring a spider trickster, originate from...",
+          "options": ["Russia", "West Africa", "Japan", "Australia"],
+          "correct_answer": "West Africa",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 80,
+          "question": "What is the role of 'poetic justice' in a folk tale?",
+          "options": ["When good characters are rewarded and evil characters are punished in a fitting way.", "When the story is written in the form of a poem.", "When there is no justice at all.", "When the villain wins in the end."],
+          "correct_answer": "When good characters are rewarded and evil characters are punished in a fitting way.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 81,
+          "question": "What is a 'variant' of a folk tale?",
+          "options": ["The original, correct version of a tale", "A story that is completely different from a folk tale", "A different version of the same basic story found in another culture or time", "A character in a folk tale"],
+          "correct_answer": "A different version of the same basic story found in another culture or time",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 82,
+          "question": "The story of 'The Pied Piper of Hamelin' is an example of which type of tale?",
+          "options": ["A myth", "A fable", "A legend", "A cumulative tale"],
+          "correct_answer": "A legend",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 83,
+          "question": "How do folk tales often portray stepmothers?",
+          "options": ["As kind, loving, and supportive figures", "As neutral background characters", "As evil, jealous, or cruel figures", "As the main hero of the story"],
+          "correct_answer": "As evil, jealous, or cruel figures",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 84,
+          "question": "Why is the setting in a folk tale often vague (e.g., 'a faraway land')?",
+          "options": ["Because the storyteller forgot the place.", "To make the story feel timeless and universal.", "To make the story more specific.", "Because the story is true."],
+          "correct_answer": "To make the story feel timeless and universal.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 85,
+          "question": "In 'The Emperor's New Clothes', what truth does a little child point out?",
+          "options": ["That the clothes are beautiful", "That the emperor is not wearing any clothes", "That the emperor is very wise", "That the weavers are honest"],
+          "correct_answer": "That the emperor is not wearing any clothes",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 86,
+          "question": "A 'tall tale' is a type of folk tale characterized by...",
+          "options": ["Sad endings", "Great exaggeration and unbelievable events", "Animal characters", "A clear moral"],
+          "correct_answer": "Great exaggeration and unbelievable events",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 87,
+          "question": "A 'curse' in a folk tale can often only be broken by...",
+          "options": ["A simple apology", "An act of true love or great courage", "Waiting for many years", "Ignoring it"],
+          "correct_answer": "An act of true love or great courage",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 88,
+          "question": "What is the purpose of personification in fables?",
+          "options": ["To make the story harder to understand", "To use animals to represent human traits and follies", "To describe the setting", "To make the animals seem less important"],
+          "correct_answer": "To use animals to represent human traits and follies",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 89,
+          "question": "What common human emotion leads to the downfall of many characters in folk tales?",
+          "options": ["Kindness", "Courage", "Greed or arrogance", "Humility"],
+          "correct_answer": "Greed or arrogance",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 90,
+          "question": "What is 'hyperbole' in a folk tale?",
+          "options": ["A magical object", "The use of extreme exaggeration for effect", "A wise saying", "The villain of the story"],
+          "correct_answer": "The use of extreme exaggeration for effect",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 91,
+          "question": "The 'damsel in distress' is a common archetype in fairy tales. What does she represent?",
+          "options": ["A strong, independent hero", "A female character who needs to be rescued by a hero", "An evil witch", "A wise old woman"],
+          "correct_answer": "A female character who needs to be rescued by a hero",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 92,
+          "question": "How do folk tales help in preserving a culture's history and traditions?",
+          "options": ["They are exact historical records.", "They embed cultural norms, beliefs, and historical memories into memorable stories.", "They have no connection to history.", "They change history to make it more interesting."],
+          "correct_answer": "They embed cultural norms, beliefs, and historical memories into memorable stories.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 93,
+          "question": "The 'rule of three' is a common pattern in folk tales. What does it mean?",
+          "options": ["The story has only three characters.", "Events or characters often appear in threes (e.g., three tasks, three siblings).", "The story must be read three times.", "The moral has three parts."],
+          "correct_answer": "Events or characters often appear in threes (e.g., three tasks, three siblings).",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 94,
+          "question": "What is the role of a 'prophecy' in a folk tale?",
+          "options": ["It is a riddle.", "It is a prediction of future events that often drives the plot.", "It is a magical song.", "It is the hero's weapon."],
+          "correct_answer": "It is a prediction of future events that often drives the plot.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 95,
+          "question": "What is a key difference between the plot of a folk tale and a modern novel?",
+          "options": ["Folk tale plots are often simpler and more direct.", "Novel plots are always simpler.", "Folk tales have no plot.", "Novels have no characters."],
+          "correct_answer": "Folk tale plots are often simpler and more direct.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 96,
+          "question": "The stories of the 'Hitopadesha' are similar in style and purpose to...",
+          "options": ["The Arabian Nights", "Grimms' Fairy Tales", "The Panchatantra", "The stories of King Arthur"],
+          "correct_answer": "The Panchatantra",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 97,
+          "question": "Why is 'hospitality' (being kind to strangers) often an important theme in folk tales?",
+          "options": ["It is not an important theme.", "Because a stranger might be a magical being in disguise who can reward or punish.", "Because there were no hotels in those days.", "Because strangers were always dangerous."],
+          "correct_answer": "Because a stranger might be a magical being in disguise who can reward or punish.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 98,
+          "question": "The villain in a folk tale is often defeated by...",
+          "options": ["Their own greed or foolishness", "A stronger army", "Modern technology", "A lucky coincidence"],
+          "correct_answer": "Their own greed or foolishness",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 99,
+          "question": "What is the function of a 'magical helper' (like a fairy godmother) in a folk tale?",
+          "options": ["To create more problems for the hero.", "To provide the hero with aid or magical items to overcome their challenges.", "To be the main villain.", "To narrate the story."],
+          "correct_answer": "To provide the hero with aid or magical items to overcome their challenges.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 100,
+          "question": "The plot structure of many folk tales can be described as a journey from...",
+          "options": ["Wealth to poverty", "Home, to adventure and trials, and back home again", "The city to the village", "The future to the past"],
+          "correct_answer": "Home, to adventure and trials, and back home again",
+          "grammar_type": "Folk Tales"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the 'Aarne-Thompson-Uther Index' used for by folklorists?",
+          "options": ["To rate the moral quality of a tale", "To classify folk tales based on their plot structures and motifs", "To determine the age of a folk tale", "To translate folk tales into different languages"],
+          "correct_answer": "To classify folk tales based on their plot structures and motifs",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 102,
+          "question": "According to Vladimir Propp's analysis of Russian folk tales, what are 'functions'?",
+          "options": ["The specific names of the characters", "The moral lessons of the tales", "A set of stable, recurring plot points that happen in a specific order", "The settings of the tales"],
+          "correct_answer": "A set of stable, recurring plot points that happen in a specific order",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 103,
+          "question": "How does the 'historicity' of a legend differ from that of a myth?",
+          "options": ["Myths are historically accurate, while legends are not.", "A legend is often rooted in a recognizable historical figure or place, whereas a myth is typically set in a primordial, pre-human time.", "Legends are always about wars, myths are about creation.", "There is no difference."],
+          "correct_answer": "A legend is often rooted in a recognizable historical figure or place, whereas a myth is typically set in a primordial, pre-human time.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 104,
+          "question": "What is meant by the 'monomyth' or 'Hero's Journey' as described by Joseph Campbell?",
+          "options": ["A story with only one character", "A common template of adventure and transformation that many heroic tales from around the world follow", "A myth that has only one version", "A story where the hero fails"],
+          "correct_answer": "A common template of adventure and transformation that many heroic tales from around the world follow",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 105,
+          "question": "In what way did the work of the Grimm brothers change the nature of the folk tales they collected?",
+          "options": ["They made the tales much shorter.", "They often edited the tales to fit Christian moral values and a more literary style.", "They did not change the tales at all.", "They added modern technology to the tales."],
+          "correct_answer": "They often edited the tales to fit Christian moral values and a more literary style.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 106,
+          "question": "What is the symbolic significance of a 'crossroads' as a setting in many folk tales?",
+          "options": ["It is just a place with two roads.", "It symbolizes a place of decision, fate, and often supernatural encounters.", "It represents safety and home.", "It is a place for festivals."],
+          "correct_answer": "It symbolizes a place of decision, fate, and often supernatural encounters.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 107,
+          "question": "A 'dilemma tale' from African folklore is unique because it often ends with...",
+          "options": ["A clear moral", "The hero getting married", "An unresolved problem or a question posed to the audience", "The death of the villain"],
+          "correct_answer": "An unresolved problem or a question posed to the audience",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 108,
+          "question": "What is 'euhemerism' in the context of myths and legends?",
+          "options": ["The belief that myths are divinely inspired.", "The theory that myths and legends are exaggerated accounts of real historical events and people.", "The practice of telling myths in a humorous way.", "The study of heroic characters."],
+          "correct_answer": "The theory that myths and legends are exaggerated accounts of real historical events and people.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 109,
+          "question": "How does a 'literary folk tale' (like those by Hans Christian Andersen) differ from a traditional folk tale?",
+          "options": ["There is no difference.", "Literary folk tales are created by a specific author and have a more complex, psychological style, unlike anonymous, traditional tales.", "Traditional folk tales are more complex.", "Literary folk tales have no magic."],
+          "correct_answer": "Literary folk tales are created by a specific author and have a more complex, psychological style, unlike anonymous, traditional tales.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 110,
+          "question": "What does the 'trickster' archetype represent in a culture's psychology?",
+          "options": ["The importance of following all rules strictly.", "The idea of order, stability, and government.", "The creative and disruptive impulse that challenges boundaries and conventions.", "The ideal of a perfect, law-abiding citizen."],
+          "correct_answer": "The creative and disruptive impulse that challenges boundaries and conventions.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 111,
+          "question": "What is the main critique of early psychoanalytic interpretations (like Freud's) of folk tales?",
+          "options": ["They focused too much on historical accuracy.", "They were praised for being universally correct.", "They often imposed a specific psychological framework (e.g., the Oedipus complex) without considering cultural context.", "They did not analyze the characters enough."],
+          "correct_answer": "They often imposed a specific psychological framework (e.g., the Oedipus complex) without considering cultural context.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 112,
+          "question": "The concept of the 'collective unconscious', proposed by Carl Jung, suggests that archetypes in folk tales...",
+          "options": ["Are learned by each generation from books.", "Are inherited, universal symbols shared by all humanity.", "Are unique to each individual culture.", "Do not have any deep meaning."],
+          "correct_answer": "Are inherited, universal symbols shared by all humanity.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 113,
+          "question": "How can the study of a culture's folk tales provide insight into their gender roles?",
+          "options": ["It provides no insight.", "By analyzing the typical roles, strengths, and weaknesses assigned to male and female characters.", "By counting the number of male and female characters.", "By assuming they are the same as modern gender roles."],
+          "correct_answer": "By analyzing the typical roles, strengths, and weaknesses assigned to male and female characters.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 114,
+          "question": "What is a 'polygenesis' theory of folk tales?",
+          "options": ["The theory that all folk tales originated from a single source.", "The theory that similar folk tales appeared independently in different cultures because of similar human psychology.", "The theory that folk tales were created by multiple authors.", "The theory that folk tales are about genetics."],
+          "correct_answer": "The theory that similar folk tales appeared independently in different cultures because of similar human psychology.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 115,
+          "question": "How has the modern 'Disneyfication' of fairy tales altered their original forms?",
+          "options": ["It has made them darker and more violent.", "It often removes the darker, more violent elements and adds humor and a clear-cut happy ending.", "It has not altered them at all.", "It has made them historically accurate."],
+          "correct_answer": "It often removes the darker, more violent elements and adds humor and a clear-cut happy ending.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 116,
+          "question": "The 'animal bride' or 'animal groom' motif in folk tales often explores the theme of...",
+          "options": ["The importance of wealth", "The connection between the human and natural worlds, and the need to keep a promise", "The dangers of farming", "The need for a strong army"],
+          "correct_answer": "The connection between the human and natural worlds, and the need to keep a promise",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 117,
+          "question": "What is the 'diffusion' theory regarding the spread of folk tales?",
+          "options": ["The idea that tales spread from one culture to another through migration, trade, and conquest.", "The idea that tales do not spread between cultures.", "The idea that tales become less interesting as they spread.", "The idea that similar tales appear spontaneously."],
+          "correct_answer": "The idea that tales spread from one culture to another through migration, trade, and conquest.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 118,
+          "question": "The structuralist approach to analyzing folk tales, as seen in the work of Claude Lévi-Strauss, focuses on...",
+          "options": ["The moral lessons of the tales", "The underlying system of binary oppositions (e.g., nature vs. culture, life vs. death)", "The historical accuracy of the tales", "The emotional impact on the reader"],
+          "correct_answer": "The underlying system of binary oppositions (e.g., nature vs. culture, life vs. death)",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 119,
+          "question": "What is the primary function of a 'numskull' or 'noodlehead' story?",
+          "options": ["To provide a model of heroic behavior", "To serve as a form of social satire and humor by showing extreme foolishness", "To explain a natural phenomenon", "To narrate a historical event"],
+          "correct_answer": "To serve as a form of social satire and humor by showing extreme foolishness",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 120,
+          "question": "How do folk tales function as a 'social charter' in some communities?",
+          "options": ["They have no social function.", "They serve to validate and justify current social structures, customs, and beliefs.", "They serve to challenge all social customs.", "They are a form of legal document."],
+          "correct_answer": "They serve to validate and justify current social structures, customs, and beliefs.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 121,
+          "question": "In many folk tales, the violation of a 'taboo' or prohibition leads to...",
+          "options": ["A great reward", "A fortunate outcome for the hero", "Disaster or negative consequences", "No consequences at all"],
+          "correct_answer": "Disaster or negative consequences",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 122,
+          "question": "What is the significance of the 'changeling' motif in European folklore?",
+          "options": ["It reflects a belief in fairies or supernatural beings who swap a human baby with one of their own.", "It is a story about a shape-shifting animal.", "It is a story about a clever child.", "It is a story about a magical object."],
+          "correct_answer": "It reflects a belief in fairies or supernatural beings who swap a human baby with one of their own.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 123,
+          "question": "How does the Marxist approach interpret folk tales?",
+          "options": ["As purely psychological dramas.", "As reflections of the class struggle and economic conditions of the society they come from.", "As meaningless entertainment.", "As divinely inspired stories."],
+          "correct_answer": "As reflections of the class struggle and economic conditions of the society they come from.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 124,
+          "question": "The concept of 'liminality' is often present in folk tale journeys. What does it refer to?",
+          "options": ["The final destination of the hero.", "The state of being 'in-between' or at a threshold, a transitional phase of trial and learning.", "The beginning of the story.", "The hero's home."],
+          "correct_answer": "The state of being 'in-between' or at a threshold, a transitional phase of trial and learning.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 125,
+          "question": "The 'impossible task' motif in folk tales often highlights which quality in the hero?",
+          "options": ["Their great physical strength", "Their cleverness, perseverance, or ability to get supernatural help", "Their wealth", "Their laziness"],
+          "correct_answer": "Their cleverness, perseverance, or ability to get supernatural help",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 126,
+          "question": "What is the main purpose of 'formulaic expressions' like 'Once upon a time' and 'happily ever after'?",
+          "options": ["To make the story more realistic.", "To signal to the audience that they are entering and leaving the special world of the tale.", "To confuse the audience.", "To make the story longer."],
+          "correct_answer": "To signal to the audience that they are entering and leaving the special world of the tale.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 127,
+          "question": "How did the invention of the printing press impact the tradition of folk tales?",
+          "options": ["It had no impact.", "It led to the standardization of tales into fixed written versions, reducing their oral variation.", "It made folk tales disappear.", "It made folk tales more varied and changeable."],
+          "correct_answer": "It led to the standardization of tales into fixed written versions, reducing their oral variation.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 128,
+          "question": "A 'ghost story' as a type of folk tale primarily aims to...",
+          "options": ["Explain a natural phenomenon", "Teach a moral about honesty", "Evoke feelings of fear and suspense", "Narrate the life of a king"],
+          "correct_answer": "Evoke feelings of fear and suspense",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 129,
+          "question": "The 'sympathetic magic' principle in some folk tales is the belief that...",
+          "options": ["Magic is always kind.", "An object can affect a person who once had contact with it (e.g., a lock of hair).", "Magic does not exist.", "All magic is evil."],
+          "correct_answer": "An object can affect a person who once had contact with it (e.g., a lock of hair).",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 130,
+          "question": "Feminist critiques of classic fairy tales often focus on...",
+          "options": ["The bravery of the male heroes.", "The passive roles of female characters who wait to be rescued.", "The interesting magic systems.", "The detailed descriptions of castles."],
+          "correct_answer": "The passive roles of female characters who wait to be rescued.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 131,
+          "question": "What is the function of the 'grateful dead' motif in folklore?",
+          "options": ["A story about zombies.", "A theme where a hero who properly buries a dead person is later rewarded by the deceased's spirit.", "A story where the hero is a ghost.", "A story with no moral."],
+          "correct_answer": "A theme where a hero who properly buries a dead person is later rewarded by the deceased's spirit.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 132,
+          "question": "What is the significance of the 'speaking truth to power' theme in tales like the stories of court jesters or clever ministers?",
+          "options": ["It shows that one should always obey the powerful without question.", "It provides a safe, indirect way to criticize powerful rulers and social norms.", "It is about the power of magic.", "It has no significance."],
+          "correct_answer": "It provides a safe, indirect way to criticize powerful rulers and social norms.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 133,
+          "question": "What is an 'etiological tale'?",
+          "options": ["A tale with a sad ending.", "A tale that explains the origin of something, like a custom, name, or natural feature.", "A tale about a great war.", "A tale about a foolish character."],
+          "correct_answer": "A tale that explains the origin of something, like a custom, name, or natural feature.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 134,
+          "question": "The 'solar mythology' school of thought in the 19th century interpreted many folk tale heroes as...",
+          "options": ["Representations of historical kings.", "Personifications of the sun in its daily or yearly journey.", "Psychological archetypes.", "Trickster figures."],
+          "correct_answer": "Personifications of the sun in its daily or yearly journey.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 135,
+          "question": "How do modern adaptations of folk tales often subvert traditional archetypes?",
+          "options": ["They do not change them at all.", "By making the 'damsel in distress' a strong hero or showing the 'villain's' point of view.", "By making the stories more simplistic.", "By removing all magic."],
+          "correct_answer": "By making the 'damsel in distress' a strong hero or showing the 'villain's' point of view.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 136,
+          "question": "The 'magical flight' motif involves...",
+          "options": ["The hero learning to fly a plane.", "The hero escaping a villain by throwing down magical objects that transform into obstacles.", "A journey on a flying carpet.", "A race between magical creatures."],
+          "correct_answer": "The hero escaping a villain by throwing down magical objects that transform into obstacles.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 137,
+          "question": "Why is it often difficult to determine the single 'original' version of a true folk tale?",
+          "options": ["Because the original version was intentionally hidden.", "Because it existed in many variations in the oral tradition long before being written down.", "Because the original was always the best.", "Because only one person knew the original."],
+          "correct_answer": "Because it existed in many variations in the oral tradition long before being written down.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 138,
+          "question": "What does the 'otherworld' or 'underworld' represent in many folk tales?",
+          "options": ["A normal, neighboring village.", "A supernatural realm, separate from the human world, where the rules of reality are different.", "A historical place.", "The hero's final home."],
+          "correct_answer": "A supernatural realm, separate from the human world, where the rules of reality are different.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 139,
+          "question": "How do folk tales serve as a vehicle for 'cultural memory'?",
+          "options": ["By forgetting the past.", "By encoding and transmitting a group's shared history, values, and identity across generations.", "By creating new memories.", "They do not relate to memory."],
+          "correct_answer": "By encoding and transmitting a group's shared history, values, and identity across generations.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 140,
+          "question": "What is the primary narrative function of the 'false hero' character in a folk tale?",
+          "options": ["To help the true hero from the start.", "To take credit for the true hero's achievements before being exposed.", "To be the main villain.", "To marry the princess and live happily ever after."],
+          "correct_answer": "To take credit for the true hero's achievements before being exposed.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 141,
+          "question": "The 'social function' approach to studying folk tales emphasizes...",
+          "options": ["The story's plot structure.", "How the tale is used in its social context to educate, entertain, or uphold norms.", "The psychological meaning of the symbols.", "The historical accuracy of the tale."],
+          "correct_answer": "How the tale is used in its social context to educate, entertain, or uphold norms.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 142,
+          "question": "The motif of a 'forbidden chamber' in folk tales like 'Bluebeard' serves as a test of...",
+          "options": ["The hero's strength", "The character's obedience and curiosity", "The hero's magical ability", "The character's honesty"],
+          "correct_answer": "The character's obedience and curiosity",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 143,
+          "question": "In the context of folklore, what is 'authenticity'?",
+          "options": ["A fixed, unchanging text", "A complex and often debated concept, referring to a tale's genuine connection to the traditions of a specific folk group", "The quality of being modern", "The moral of the story"],
+          "correct_answer": "A complex and often debated concept, referring to a tale's genuine connection to the traditions of a specific folk group",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 144,
+          "question": "The enduring popularity of folk tales suggests they...",
+          "options": ["Are only relevant to the past.", "Address fundamental human experiences, fears, and hopes that are timeless.", "Are easy to forget.", "Are all simple children's stories with no deeper meaning."],
+          "correct_answer": "Address fundamental human experiences, fears, and hopes that are timeless.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 145,
+          "question": "What does a 'contextual' or 'performance-based' study of a folk tale analyze?",
+          "options": ["Only the written text of the tale.", "The specific storytelling event: the storyteller, the audience, and the social setting.", "The tale's origins.", "The tale's moral exclusively."],
+          "correct_answer": "The specific storytelling event: the storyteller, the audience, and the social setting.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 146,
+          "question": "The 'pact with the devil' is a common motif where a character trades their soul for...",
+          "options": ["Knowledge, wealth, or power", "A simple meal", "Friendship", "A magical horse"],
+          "correct_answer": "Knowledge, wealth, or power",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 147,
+          "question": "How do folk tales help to establish a sense of 'communal identity'?",
+          "options": ["By encouraging everyone to be different.", "By creating a shared set of stories, heroes, and values that bind a community together.", "By being kept secret from outsiders.", "They do not affect communal identity."],
+          "correct_answer": "By creating a shared set of stories, heroes, and values that bind a community together.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 148,
+          "question": "The decline of the oral tradition of folk tales is most directly linked to...",
+          "options": ["An increase in storytelling", "The rise of literacy and mass media like television and the internet", "A lack of interesting stories", "People becoming less imaginative"],
+          "correct_answer": "The rise of literacy and mass media like television and the internet",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 149,
+          "question": "Why is the hero of a folk tale often an 'underdog'?",
+          "options": ["Because underdogs are stronger.", "To make their eventual success more satisfying and to provide hope to the common person.", "Because heroes are always rich and powerful.", "The hero is never an underdog."],
+          "correct_answer": "To make their eventual success more satisfying and to provide hope to the common person.",
+          "grammar_type": "Folk Tales"
+        },
+        {
+          "id": 150,
+          "question": "What is the relationship between folk tales and the law in pre-literate societies?",
+          "options": ["There is no relationship.", "Folk tales often served to teach and reinforce social laws and the consequences of breaking them.", "Folk tales were the only form of law.", "The law was written, and folk tales were spoken."],
+          "correct_answer": "Folk tales often served to teach and reinforce social laws and the consequences of breaking them.",
+          "grammar_type": "Folk Tales"
+        }
+      ]
+    }
+  ]
+}
+

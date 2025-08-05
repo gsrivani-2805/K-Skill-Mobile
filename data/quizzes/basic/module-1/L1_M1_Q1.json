@@ -1,3 +1,4 @@
+
 {
   "grammar_quiz": [
     {
@@ -5,17 +6,423 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "Which word rhymes with 'sun'?",
+          "options": ["run", "sit", "map", "hen"],
+          "correct_answer": "run",
+          "grammar_type": "Phonics"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "What is the beginning sound of 'pen'?",
+          "options": ["/p/", "/b/", "/t/", "/d/"],
+          "correct_answer": "/p/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 3,
+          "question": "Which word has the short 'i' sound, like in 'pig'?",
+          "options": ["sit", "bike", "nine", "like"],
+          "correct_answer": "sit",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 4,
+          "question": "What is the ending sound of the word 'cup'?",
+          "options": ["/p/", "/k/", "/t/", "/b/"],
+          "correct_answer": "/p/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 5,
+          "question": "Which letter makes the /m/ sound in 'man'?",
+          "options": ["m", "a", "n", "none"],
+          "correct_answer": "m",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 6,
+          "question": "Which word starts with the 'ch' sound?",
+          "options": ["chair", "share", "ship", "shop"],
+          "correct_answer": "chair",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 7,
+          "question": "What is the vowel in the word 'hot'?",
+          "options": ["h", "o", "t", "none"],
+          "correct_answer": "o",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 8,
+          "question": "Which word rhymes with 'bell'?",
+          "options": ["ball", "tell", "bill", "bull"],
+          "correct_answer": "tell",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 9,
+          "question": "Which of these is a consonant?",
+          "options": ["a", "e", "i", "f"],
+          "correct_answer": "f",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 10,
+          "question": "Which word has the long 'a' sound, like in 'cake'?",
+          "options": ["cat", "car", "make", "map"],
+          "correct_answer": "make",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 11,
+          "question": "What sound does 'sh' make?",
+          "options": ["/ch/", "/sh/", "/s/", "/h/"],
+          "correct_answer": "/sh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 12,
+          "question": "Which word has the short 'u' sound, like in 'bug'?",
+          "options": ["hut", "huge", "flute", "use"],
+          "correct_answer": "hut",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 13,
+          "question": "What is the beginning sound of 'sun'?",
+          "options": ["/s/", "/sh/", "/z/", "/c/"],
+          "correct_answer": "/s/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 14,
+          "question": "Which word rhymes with 'log'?",
+          "options": ["leg", "lag", "frog", "lip"],
+          "correct_answer": "frog",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 15,
+          "question": "How many vowels are in the word 'apple'?",
+          "options": ["1", "2", "3", "4"],
+          "correct_answer": "2",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 16,
+          "question": "Which word has the long 'o' sound?",
+          "options": ["hot", "pot", "mop", "boat"],
+          "correct_answer": "boat",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 17,
+          "question": "What is the ending sound of 'fish'?",
+          "options": ["/sh/", "/f/", "/s/", "/ch/"],
+          "correct_answer": "/sh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 18,
+          "question": "Which word starts with the 'th' sound?",
+          "options": ["that", "fat", "vat", "sat"],
+          "correct_answer": "that",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 19,
+          "question": "What is the vowel sound in 'bed'?",
+          "options": ["short e", "long e", "short a", "long a"],
+          "correct_answer": "short e",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 20,
+          "question": "Which word rhymes with 'make'?",
+          "options": ["mat", "mop", "cake", "cat"],
+          "correct_answer": "cake",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 21,
+          "question": "What is the first sound in 'goat'?",
+          "options": ["/g/", "/j/", "/c/", "/k/"],
+          "correct_answer": "/g/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 22,
+          "question": "Which word has the short 'o' sound?",
+          "options": ["boat", "coat", "pot", "note"],
+          "correct_answer": "pot",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 23,
+          "question": "The letters 'c' and 'k' together in 'duck' make the sound:",
+          "options": ["/c/", "/h/", "/k/", "/ch/"],
+          "correct_answer": "/k/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 24,
+          "question": "Which word rhymes with 'pin'?",
+          "options": ["pan", "pen", "tin", "pun"],
+          "correct_answer": "tin",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 25,
+          "question": "What is the middle sound in 'jet'?",
+          "options": ["/j/", "/e/", "/t/", "/g/"],
+          "correct_answer": "/e/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 26,
+          "question": "Which word starts with the 'wh' sound?",
+          "options": ["what", "hat", "rat", "vat"],
+          "correct_answer": "what",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 27,
+          "question": "The word 'me' has a:",
+          "options": ["short e sound", "long e sound", "short i sound", "long i sound"],
+          "correct_answer": "long e sound",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 28,
+          "question": "Which word has the ending sound /g/?",
+          "options": ["rich", "back", "bag", "batch"],
+          "correct_answer": "bag",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 29,
+          "question": "What is the vowel in 'run'?",
+          "options": ["r", "u", "n", "none"],
+          "correct_answer": "u",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 30,
+          "question": "Which word rhymes with 'bike'?",
+          "options": ["back", "book", "like", "lick"],
+          "correct_answer": "like",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 31,
+          "question": "The sound of 'a' in 'car' is:",
+          "options": ["short a", "long a", "r-controlled a", "silent a"],
+          "correct_answer": "r-controlled a",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 32,
+          "question": "Which word starts with a consonant blend?",
+          "options": ["apple", "chair", "frog", "ship"],
+          "correct_answer": "frog",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 33,
+          "question": "What is the last sound in 'rose'?",
+          "options": ["/s/", "/z/", "/e/", "/r/"],
+          "correct_answer": "/z/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 34,
+          "question": "Which word has the 'ee' sound?",
+          "options": ["bed", "met", "feet", "red"],
+          "correct_answer": "feet",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 35,
+          "question": "The first sound in 'zoo' is:",
+          "options": ["/s/", "/sh/", "/z/", "/c/"],
+          "correct_answer": "/z/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 36,
+          "question": "Which word rhymes with 'boat'?",
+          "options": ["bat", "boot", "coat", "cot"],
+          "correct_answer": "coat",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 37,
+          "question": "The 'c' in 'cell' sounds like:",
+          "options": ["/k/", "/s/", "/ch/", "/sh/"],
+          "correct_answer": "/s/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 38,
+          "question": "Which word has the short 'e' sound?",
+          "options": ["leaf", "feet", "read", "egg"],
+          "correct_answer": "egg",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 39,
+          "question": "What is the beginning sound of 'ship'?",
+          "options": ["/s/", "/h/", "/sh/", "/ch/"],
+          "correct_answer": "/sh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 40,
+          "question": "Which word has a long vowel sound?",
+          "options": ["mat", "met", "mit", "mute"],
+          "correct_answer": "mute",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 41,
+          "question": "The 'g' in 'gem' sounds like:",
+          "options": ["/g/", "/j/", "/h/", "/y/"],
+          "correct_answer": "/j/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 42,
+          "question": "Which word rhymes with 'duck'?",
+          "options": ["deck", "dark", "luck", "dock"],
+          "correct_answer": "luck",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 43,
+          "question": "The 'ph' in 'graph' sounds like:",
+          "options": ["/p/", "/h/", "/f/", "/g/"],
+          "correct_answer": "/f/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 44,
+          "question": "Which word has the 'oo' sound as in 'book'?",
+          "options": ["look", "moon", "food", "boot"],
+          "correct_answer": "look",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 45,
+          "question": "What is the ending sound in 'web'?",
+          "options": ["/w/", "/e/", "/b/", "/p/"],
+          "correct_answer": "/b/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 46,
+          "question": "Which word has the short 'a' sound?",
+          "options": ["grape", "game", "gas", "gate"],
+          "correct_answer": "gas",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 47,
+          "question": "The 'kn' in 'knee' sounds like:",
+          "options": ["/k/", "/n/", "/kn/", "/en/"],
+          "correct_answer": "/n/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 48,
+          "question": "Which word rhymes with 'ice'?",
+          "options": ["hiss", "ace", "rice", "is"],
+          "correct_answer": "rice",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 49,
+          "question": "The 'a' in 'ball' sounds like the 'a' in:",
+          "options": ["cat", "car", "call", "cake"],
+          "correct_answer": "call",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 50,
+          "question": "What is the middle sound in 'top'?",
+          "options": ["/t/", "/o/", "/p/", "/a/"],
+          "correct_answer": "/o/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 51,
+          "question": "Which word starts with 'tr'?",
+          "options": ["chair", "train", "three", "there"],
+          "correct_answer": "train",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 52,
+          "question": "The 'y' in 'sky' sounds like a:",
+          "options": ["long i", "short i", "long e", "short e"],
+          "correct_answer": "long i",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 53,
+          "question": "Which word has a silent letter?",
+          "options": ["cat", "sit", "talk", "run"],
+          "correct_answer": "talk",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 54,
+          "question": "What is the vowel sound in 'pie'?",
+          "options": ["long i", "short i", "long e", "short e"],
+          "correct_answer": "long i",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 55,
+          "question": "Which word rhymes with 'fly'?",
+          "options": ["flee", "flow", "shy", "flat"],
+          "correct_answer": "shy",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 56,
+          "question": "The letters 'ay' in 'play' make a:",
+          "options": ["short a sound", "long a sound", "short e sound", "long e sound"],
+          "correct_answer": "long a sound",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 57,
+          "question": "What is the last sound in 'math'?",
+          "options": ["/t/", "/th/", "/s/", "/m/"],
+          "correct_answer": "/th/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 58,
+          "question": "Which word has the 'oi' sound?",
+          "options": ["boil", "boat", "ball", "bowl"],
+          "correct_answer": "boil",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 59,
+          "question": "The 'u' in 'put' sounds like the 'oo' in:",
+          "options": ["food", "foot", "floor", "fool"],
+          "correct_answer": "foot",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 60,
+          "question": "Which word has a digraph?",
+          "options": ["frog", "black", "ship", "stop"],
+          "correct_answer": "ship",
+          "grammar_type": "Phonics"
         }
       ]
     },
@@ -23,18 +430,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 61,
+          "question": "Which word has a silent 'w'?",
+          "options": ["wet", "will", "wrap", "wave"],
+          "correct_answer": "wrap",
+          "grammar_type": "Phonics"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 62,
+          "question": "Which word contains the vowel digraph 'ea' with a short 'e' sound?",
+          "options": ["read", "bread", "leaf", "meat"],
+          "correct_answer": "bread",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 63,
+          "question": "What sound does 'tion' make in 'nation'?",
+          "options": ["/tee-on/", "/shun/", "/zhun/", "/chun/"],
+          "correct_answer": "/shun/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 64,
+          "question": "How many syllables are in the word 'computer'?",
+          "options": ["2", "3", "4", "5"],
+          "correct_answer": "3",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 65,
+          "question": "Which word has the same vowel sound as 'moon'?",
+          "options": ["book", "look", "food", "foot"],
+          "correct_answer": "food",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 66,
+          "question": "Which word contains a diphthong 'ou'?",
+          "options": ["soup", "four", "shout", "touch"],
+          "correct_answer": "shout",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 67,
+          "question": "Which word is spelled correctly?",
+          "options": ["beleive", "believe", "believ", "bilieve"],
+          "correct_answer": "believe",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 68,
+          "question": "Which word has a hard 'g' sound?",
+          "options": ["gentle", "giant", "goat", "gym"],
+          "correct_answer": "goat",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 69,
+          "question": "Which of these words has a silent 't'?",
+          "options": ["stop", "listen", "start", "act"],
+          "correct_answer": "listen",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 70,
+          "question": "Which trigraph is in the word 'match'?",
+          "options": ["mat", "atch", "tch", "ch"],
+          "correct_answer": "tch",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 71,
+          "question": "The 'y' in 'happy' sounds like:",
+          "options": ["long e", "long i", "short e", "short i"],
+          "correct_answer": "long e",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 72,
+          "question": "Which word contains the 'ow' sound as in 'cow'?",
+          "options": ["show", "low", "now", "flow"],
+          "correct_answer": "now",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 73,
+          "question": "The 's' in 'sugar' sounds like:",
+          "options": ["/s/", "/z/", "/sh/", "/zh/"],
+          "correct_answer": "/sh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 74,
+          "question": "How many syllables does 'information' have?",
+          "options": ["3", "4", "5", "6"],
+          "correct_answer": "4",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 75,
+          "question": "Which word has a silent 'l'?",
+          "options": ["fall", "walk", "tell", "silly"],
+          "correct_answer": "walk",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 76,
+          "question": "The 'igh' in 'light' sounds like:",
+          "options": ["long i", "short i", "long e", "short e"],
+          "correct_answer": "long i",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 77,
+          "question": "Which word has the 'au' vowel team?",
+          "options": ["boat", "because", "road", "load"],
+          "correct_answer": "because",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 78,
+          "question": "The 'ed' in 'jumped' sounds like:",
+          "options": ["/d/", "/t/", "/ed/", "/id/"],
+          "correct_answer": "/t/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 79,
+          "question": "Which word has a split digraph (magic e)?",
+          "options": ["hat", "hate", "hot", "hit"],
+          "correct_answer": "hate",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 80,
+          "question": "The 'c' in 'ocean' sounds like:",
+          "options": ["/k/", "/s/", "/ch/", "/sh/"],
+          "correct_answer": "/sh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 81,
+          "question": "Which word has a silent 'h'?",
+          "options": ["happy", "house", "hour", "hello"],
+          "correct_answer": "hour",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 82,
+          "question": "The 'ou' in 'cough' sounds like:",
+          "options": ["ow", "oo", "off", "uff"],
+          "correct_answer": "off",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 83,
+          "question": "Which word contains an r-controlled vowel?",
+          "options": ["cat", "car", "cake", "city"],
+          "correct_answer": "car",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 84,
+          "question": "The 'ed' in 'wanted' sounds like:",
+          "options": ["/d/", "/t/", "/ed/", "/id/"],
+          "correct_answer": "/id/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 85,
+          "question": "Which word has the 'oy' sound?",
+          "options": ["buy", "boy", "bay", "bow"],
+          "correct_answer": "boy",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 86,
+          "question": "The 'ear' in 'bear' sounds like:",
+          "options": ["ear as in hear", "air as in hair", "er as in her", "ar as in car"],
+          "correct_answer": "air as in hair",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 87,
+          "question": "Which word is a compound word?",
+          "options": ["running", "teacher", "sunflower", "happily"],
+          "correct_answer": "sunflower",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 88,
+          "question": "The 'ch' in 'chef' sounds like:",
+          "options": ["/ch/", "/k/", "/sh/", "/s/"],
+          "correct_answer": "/sh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 89,
+          "question": "Which word has the 'ew' vowel team?",
+          "options": ["few", "flew", "both a and b", "neither a nor b"],
+          "correct_answer": "both a and b",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 90,
+          "question": "The 'dge' in 'bridge' sounds like:",
+          "options": ["/d/", "/g/", "/j/", "/d-g-e/"],
+          "correct_answer": "/j/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 91,
+          "question": "Which word has a different sound for 'ow'?",
+          "options": ["cow", "how", "low", "now"],
+          "correct_answer": "low",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 92,
+          "question": "How many syllables are in 'dictionary'?",
+          "options": ["3", "4", "5", "6"],
+          "correct_answer": "4",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 93,
+          "question": "The 'gh' in 'laugh' sounds like:",
+          "options": ["/g/", "/h/", "silent", "/f/"],
+          "correct_answer": "/f/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 94,
+          "question": "Which word has a soft 'c' and a hard 'c'?",
+          "options": ["circus", "cat", "city", "cycle"],
+          "correct_answer": "cycle",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 95,
+          "question": "The 's' in 'treasure' makes what sound?",
+          "options": ["/s/", "/z/", "/sh/", "/zh/"],
+          "correct_answer": "/zh/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 96,
+          "question": "Which word has the 'air' sound?",
+          "options": ["car", "her", "chair", "fire"],
+          "correct_answer": "chair",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 97,
+          "question": "The 'ue' in 'blue' makes what sound?",
+          "options": ["long u", "short u", "long e", "short e"],
+          "correct_answer": "long u",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 98,
+          "question": "Which word has a silent 'g'?",
+          "options": ["dog", "green", "sign", "go"],
+          "correct_answer": "sign",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 99,
+          "question": "The 'or' in 'work' sounds like:",
+          "options": ["/or/ as in for", "/er/ as in her", "/ar/ as in car", "/o/ as in hot"],
+          "correct_answer": "/er/ as in her",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 100,
+          "question": "Which word has the same sound as 'ou' in 'you'?",
+          "options": ["shout", "group", "tough", "four"],
+          "correct_answer": "group",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 101,
+          "question": "The 'mb' at the end of 'climb' has a silent:",
+          "options": ["m", "b", "both", "neither"],
+          "correct_answer": "b",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 102,
+          "question": "Which word contains the 'ui' vowel team?",
+          "options": ["build", "guide", "fruit", "all of the above"],
+          "correct_answer": "all of the above",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 103,
+          "question": "The 'a' in 'many' sounds like:",
+          "options": ["short a", "long a", "short e", "long e"],
+          "correct_answer": "short e",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 104,
+          "question": "Which prefix means 'again'?",
+          "options": ["un-", "re-", "dis-", "pre-"],
+          "correct_answer": "re-",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 105,
+          "question": "The 'ed' in 'played' sounds like:",
+          "options": ["/d/", "/t/", "/ed/", "/id/"],
+          "correct_answer": "/d/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 106,
+          "question": "Which word has a different sound for the 'ea' digraph?",
+          "options": ["team", "bread", "dream", "scream"],
+          "correct_answer": "bread",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 107,
+          "question": "The 'sc' in 'science' sounds like:",
+          "options": ["/sk/", "/s/", "/sh/", "/k/"],
+          "correct_answer": "/s/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 108,
+          "question": "Which word has an open syllable at the beginning?",
+          "options": ["robot", "rabbit", "random", "rocket"],
+          "correct_answer": "robot",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 109,
+          "question": "The 'eigh' in 'eight' sounds like:",
+          "options": ["long e", "short e", "long a", "short a"],
+          "correct_answer": "long a",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 110,
+          "question": "Which word has a closed syllable?",
+          "options": ["go", "me", "hi", "sit"],
+          "correct_answer": "sit",
+          "grammar_type": "Phonics"
         }
       ]
     },
@@ -42,25 +785,217 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 111,
+          "question": "Which of the following is a homophone for 'there'?",
+          "options": ["their", "they're", "both a and b", "neither a nor b"],
+          "correct_answer": "both a and b",
+          "grammar_type": "Phonics"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 112,
+          "question": "The 'ch' in 'choir' makes what sound?",
+          "options": ["/sh/", "/ch/", "/k/", "/s/"],
+          "correct_answer": "/k/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 113,
+          "question": "Which word has the same sound for 'ough' as in 'though'?",
+          "options": ["cough", "bough", "dough", "tough"],
+          "correct_answer": "dough",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 114,
+          "question": "Which word contains a schwa sound in the first syllable?",
+          "options": ["apple", "elephant", "igloo", "open"],
+          "correct_answer": "elephant",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 115,
+          "question": "Which word is a homograph with a different pronunciation?",
+          "options": ["bat", "ring", "minute", "pen"],
+          "correct_answer": "minute",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 116,
+          "question": "What is the correct pronunciation of 'colonel'?",
+          "options": ["co-lo-nel", "col-o-nel", "ker-nel", "co-lo-nul"],
+          "correct_answer": "ker-nel",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 117,
+          "question": "The suffix '-sion' in 'television' is pronounced as:",
+          "options": ["/see-on/", "/shun/", "/zhun/", "/chun/"],
+          "correct_answer": "/zhun/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 118,
+          "question": "Which word has a different pronunciation for 'ou'?",
+          "options": ["soul", "shoulder", "could", "mould"],
+          "correct_answer": "could",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 119,
+          "question": "The word 'subtle' has a silent:",
+          "options": ["s", "u", "b", "l"],
+          "correct_answer": "b",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 120,
+          "question": "Which word has a different sound for 'a'?",
+          "options": ["father", "village", "drama", "lava"],
+          "correct_answer": "village",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 121,
+          "question": "Which pair of words are homophones?",
+          "options": ["read/read", "desert/dessert", "bow/bow", "minute/minute"],
+          "correct_answer": "desert/dessert",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 122,
+          "question": "The 'x' in 'xylophone' is pronounced as:",
+          "options": ["/ks/", "/gz/", "/z/", "/s/"],
+          "correct_answer": "/z/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 123,
+          "question": "Which word's stress pattern is on the second syllable?",
+          "options": ["happy", "record (noun)", "record (verb)", "teacher"],
+          "correct_answer": "record (verb)",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 124,
+          "question": "The word 'indict' has a silent:",
+          "options": ["i", "n", "d", "c"],
+          "correct_answer": "c",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 125,
+          "question": "Which word has a different pronunciation for 'u'?",
+          "options": ["put", "but", "cut", "shut"],
+          "correct_answer": "put",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 126,
+          "question": "The 'th' in 'thyme' sounds like:",
+          "options": ["/th/ (voiced)", "/th/ (voiceless)", "/t/", "/h/"],
+          "correct_answer": "/t/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 127,
+          "question": "Which word has a schwa sound in the final syllable?",
+          "options": ["teacher", "banana", "sofa", "all of the above"],
+          "correct_answer": "all of the above",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 128,
+          "question": "The 'eo' in 'leopard' sounds like:",
+          "options": ["long e", "short e", "long o", "short o"],
+          "correct_answer": "short e",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 129,
+          "question": "Which of these words has a silent 'p'?",
+          "options": ["apple", "psychology", "empty", "plump"],
+          "correct_answer": "psychology",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 130,
+          "question": "The 'ea' in 'steak' sounds like the 'a' in:",
+          "options": ["cat", "car", "cake", "call"],
+          "correct_answer": "cake",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 131,
+          "question": "Which of the following is a homophone for 'aisle'?",
+          "options": ["isle", "I'll", "both a and b", "island"],
+          "correct_answer": "both a and b",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 132,
+          "question": "The 'rrh' in 'myrrh' is pronounced:",
+          "options": ["/r/", "/ruh/", "/mur/", "/er/"],
+          "correct_answer": "/er/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 133,
+          "question": "Which word has a different sound for 'ch'?",
+          "options": ["champagne", "machine", "stomach", "schedule"],
+          "correct_answer": "stomach",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 134,
+          "question": "The 'ie' in 'friend' sounds like:",
+          "options": ["long e", "short e", "long i", "short i"],
+          "correct_answer": "short e",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 135,
+          "question": "Which word has a consonant-le syllable at the end?",
+          "options": ["teacher", "puddle", "running", "nation"],
+          "correct_answer": "puddle",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 136,
+          "question": "The word 'heir' has a silent:",
+          "options": ["h", "e", "i", "r"],
+          "correct_answer": "h",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 137,
+          "question": "Which word shows the correct pluralization sound?",
+          "options": ["cats (/s/ sound)", "dogs (/z/ sound)", "dishes (/iz/ sound)", "all of the above"],
+          "correct_answer": "all of the above",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 138,
+          "question": "The 'ex' in 'example' is pronounced:",
+          "options": ["/eks/", "/egz/", "/es/", "/ez/"],
+          "correct_answer": "/egz/",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 139,
+          "question": "Which word has a different vowel sound?",
+          "options": ["blood", "flood", "food", "stud"],
+          "correct_answer": "food",
+          "grammar_type": "Phonics"
+        },
+        {
+          "id": 140,
+          "question": "The 'bu' in 'build' is pronounced like:",
+          "options": ["/b/", "/bu/", "/bi/", "/by/"],
+          "correct_answer": "/bi/",
+          "grammar_type": "Phonics"
         }
       ]
     }
   ]
 }
+

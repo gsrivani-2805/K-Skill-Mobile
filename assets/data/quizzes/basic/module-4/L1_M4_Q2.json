@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "How do you greet someone at 8 in the morning?",
+          "options": ["Good evening", "Good afternoon", "Good morning", "Good night"],
+          "correct_answer": "Good morning",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 2,
+          "question": "What do you say when you receive a gift?",
+          "options": ["Sorry", "Please", "Thank you", "Hello"],
+          "correct_answer": "Thank you",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 3,
+          "question": "When you are leaving, you say:",
+          "options": ["Hello", "Hi", "Goodbye", "Welcome"],
+          "correct_answer": "Goodbye",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 4,
+          "question": "If you accidentally bump into someone, you should say:",
+          "options": ["Thank you", "Excuse me", "Welcome", "Good job"],
+          "correct_answer": "Excuse me",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 5,
+          "question": "What is a common reply to 'How are you?'",
+          "options": ["I am a student.", "I am from Delhi.", "I am fine, thanks.", "I am 12 years old."],
+          "correct_answer": "I am fine, thanks.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 6,
+          "question": "How do you greet someone at 3 PM?",
+          "options": ["Good morning", "Good afternoon", "Good evening", "Good night"],
+          "correct_answer": "Good afternoon",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 7,
+          "question": "What do you say when you ask for something?",
+          "options": ["Please", "Sorry", "Here you are.", "You're welcome."],
+          "correct_answer": "Please",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 8,
+          "question": "What is a simple way to greet a friend?",
+          "options": ["Bye", "Hi", "Thanks", "Sorry"],
+          "correct_answer": "Hi",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 9,
+          "question": "What do you say when you go to bed at night?",
+          "options": ["Good morning", "Good day", "Good evening", "Good night"],
+          "correct_answer": "Good night",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 10,
+          "question": "What is a polite reply to 'Thank you'?",
+          "options": ["Please", "Sorry", "You're welcome.", "Goodbye."],
+          "correct_answer": "You're welcome.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 11,
+          "question": "To get someone's attention, you can say:",
+          "options": ["Goodbye!", "Excuse me!", "Thank you!", "Sorry!"],
+          "correct_answer": "Excuse me!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 12,
+          "question": "How do you greet someone at 7 PM?",
+          "options": ["Good morning", "Good afternoon", "Good evening", "Good day"],
+          "correct_answer": "Good evening",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 13,
+          "question": "A: 'Hello!' B: '____!'",
+          "options": ["Bye!", "Hi!", "Thanks!", "Sorry!"],
+          "correct_answer": "Hi!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 14,
+          "question": "What do you say if you make a mistake?",
+          "options": ["I'm sorry.", "Thank you.", "Please.", "You're welcome."],
+          "correct_answer": "I'm sorry.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 15,
+          "question": "When a teacher enters the class, students say:",
+          "options": ["Goodbye, teacher.", "Good morning, teacher.", "Thank you, teacher.", "Sorry, teacher."],
+          "correct_answer": "Good morning, teacher.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 16,
+          "question": "To ask for help, you can start with:",
+          "options": ["Goodbye...", "Thank you...", "Hello...", "Please..."],
+          "correct_answer": "Please...",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 17,
+          "question": "A short and friendly way to say 'goodbye' is:",
+          "options": ["Hello", "Welcome", "Bye", "How are you?"],
+          "correct_answer": "Bye",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 18,
+          "question": "If someone sneezes, it is common to say:",
+          "options": ["Bless you!", "Be careful!", "Thank you!", "Congratulations!"],
+          "correct_answer": "Bless you!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 19,
+          "question": "What do you say when you give something to someone?",
+          "options": ["Here you are.", "Thank you.", "Please.", "Sorry."],
+          "correct_answer": "Here you are.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 20,
+          "question": "Before eating a meal, you can say to others:",
+          "options": ["Good night.", "Enjoy your meal.", "Well done.", "See you soon."],
+          "correct_answer": "Enjoy your meal.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 21,
+          "question": "'Come in' means:",
+          "options": ["Go outside", "Enter", "Sit down", "Be quiet"],
+          "correct_answer": "Enter",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 22,
+          "question": "'Sit down' is the opposite of:",
+          "options": ["Stand up", "Lie down", "Come here", "Go there"],
+          "correct_answer": "Stand up",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 23,
+          "question": "If someone is talking too loudly, you can say 'Please be ____.'",
+          "options": ["loud", "quiet", "happy", "sad"],
+          "correct_answer": "quiet",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 24,
+          "question": "What do you say to someone on their birthday?",
+          "options": ["Happy New Year!", "Merry Christmas!", "Happy Birthday!", "Congratulations!"],
+          "correct_answer": "Happy Birthday!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 25,
+          "question": "To agree with someone, you can say:",
+          "options": ["You are wrong.", "I don't know.", "Yes, you are right.", "Maybe."],
+          "correct_answer": "Yes, you are right.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 26,
+          "question": "'Hurry up!' means:",
+          "options": ["Be slow", "Be fast", "Be careful", "Be quiet"],
+          "correct_answer": "Be fast",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 27,
+          "question": "When you don't hear what someone said, you can say:",
+          "options": ["I can hear you.", "Can you repeat that, please?", "Talk loudly.", "What?"],
+          "correct_answer": "Can you repeat that, please?",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 28,
+          "question": "'Open your book' means to:",
+          "options": ["Close your book", "Look at the first page of your book", "Read your book", "Write in your book"],
+          "correct_answer": "Look at the first page of your book",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 29,
+          "question": "What do you say to someone who has won a competition?",
+          "options": ["Good luck!", "Congratulations!", "Try again.", "Thank you."],
+          "correct_answer": "Congratulations!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 30,
+          "question": "A: 'Nice to meet you.' B: '____.'",
+          "options": ["Goodbye.", "Nice to meet you, too.", "Thank you.", "I am fine."],
+          "correct_answer": "Nice to meet you, too.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 31,
+          "question": "'Don't worry' means:",
+          "options": ["Be happy", "Be sad", "Don't be anxious", "Don't be angry"],
+          "correct_answer": "Don't be anxious",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 32,
+          "question": "If you don't know the answer, you can say:",
+          "options": ["I know it.", "It is easy.", "I don't know.", "This is right."],
+          "correct_answer": "I don't know.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 33,
+          "question": "What is another way to say 'hello' on the phone?",
+          "options": ["Goodbye", "Who is this?", "[Your Name] speaking.", "Bye"],
+          "correct_answer": "[Your Name] speaking.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 34,
+          "question": "What do you say to someone before they take a test?",
+          "options": ["Well done!", "Good luck!", "Happy Birthday!", "Not again!"],
+          "correct_answer": "Good luck!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 35,
+          "question": "'Of course' is a way to say ____.",
+          "options": ["No", "Maybe", "Yes", "Never"],
+          "correct_answer": "Yes",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 36,
+          "question": "'See you later' is another way to say:",
+          "options": ["Hello", "Thank you", "Goodbye", "Sorry"],
+          "correct_answer": "Goodbye",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 37,
+          "question": "If you are asking for the time, you say:",
+          "options": ["What is the time, please?", "How is the time?", "Where is the time?", "Who is the time?"],
+          "correct_answer": "What is the time, please?",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 38,
+          "question": "What do you say to someone who is not feeling well?",
+          "options": ["Get well soon.", "Congratulations.", "Have fun.", "Good luck."],
+          "correct_answer": "Get well soon.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 39,
+          "question": "'Be careful!' means:",
+          "options": ["Take a risk", "Don't pay attention", "Take care to avoid danger", "Go fast"],
+          "correct_answer": "Take care to avoid danger",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 40,
+          "question": "To ask a teacher a question, you should first ____.",
+          "options": ["shout", "leave the room", "raise your hand", "start talking"],
+          "correct_answer": "raise your hand",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 41,
+          "question": "The phrase 'Come here' asks someone to:",
+          "options": ["Move away from you", "Move towards you", "Stop moving", "Sit down"],
+          "correct_answer": "Move towards you",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 42,
+          "question": "A: 'Have a nice day!' B: '____.'",
+          "options": ["Thank you. You too.", "I am fine.", "My name is...", "Goodbye."],
+          "correct_answer": "Thank you. You too.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 43,
+          "question": "If you don't understand something, you say:",
+          "options": ["I understand.", "This is clear.", "I don't understand.", "I agree."],
+          "correct_answer": "I don't understand.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 44,
+          "question": "What do you say when you welcome a guest to your home?",
+          "options": ["Goodbye", "Please come in.", "Sit down.", "Both B and C"],
+          "correct_answer": "Both B and C",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 45,
+          "question": "'Let's go' is a suggestion to:",
+          "options": ["Stay here", "Wait", "Start moving or leave", "Come back"],
+          "correct_answer": "Start moving or leave",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 46,
+          "question": "To tell someone to look, you say:",
+          "options": ["Listen!", "Look!", "Speak!", "Wait!"],
+          "correct_answer": "Look!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 47,
+          "question": "What is a common greeting on January 1st?",
+          "options": ["Happy Birthday!", "Merry Christmas!", "Happy Diwali!", "Happy New Year!"],
+          "correct_answer": "Happy New Year!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 48,
+          "question": "When you agree to do something, you say:",
+          "options": ["No, I can't.", "Okay.", "I don't want to.", "Maybe later."],
+          "correct_answer": "Okay.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 49,
+          "question": "'Wait a minute' means:",
+          "options": ["Go away", "Pause for a short time", "Hurry up", "Come back later"],
+          "correct_answer": "Pause for a short time",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 50,
+          "question": "To praise someone for good work, you say:",
+          "options": ["Try again.", "Well done!", "Be careful.", "Sorry."],
+          "correct_answer": "Well done!",
+          "grammar_type": "Greetings & Daily Phrases"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is an informal way to ask 'How are you?'",
+          "options": ["How do you do?", "What's up?", "May I know your condition?", "Are you well?"],
+          "correct_answer": "What's up?",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 52,
+          "question": "A: 'How have you been?' B: This question is asked when...",
+          "options": ["you meet someone for the first time.", "you haven't seen the person in a while.", "you are leaving.", "you are angry."],
+          "correct_answer": "you haven't seen the person in a while.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 53,
+          "question": "What does the phrase 'Take care' mean when leaving?",
+          "options": ["It is a warning.", "It is a friendly way of saying goodbye.", "It means you are worried.", "It is a formal greeting."],
+          "correct_answer": "It is a friendly way of saying goodbye.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 54,
+          "question": "If you need to ask for a favour, you could say: '____ you help me, please?'",
+          "options": ["Could", "Are", "Do", "Have"],
+          "correct_answer": "Could",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 55,
+          "question": "What is a polite way to disagree with someone?",
+          "options": ["You are wrong.", "That's a bad idea.", "I'm sorry, but I don't agree.", "I hate your idea."],
+          "correct_answer": "I'm sorry, but I don't agree.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 56,
+          "question": "The phrase 'I'm looking forward to it' expresses:",
+          "options": ["Sadness", "Anger", "Anticipation", "Fear"],
+          "correct_answer": "Anticipation",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 57,
+          "question": "When you offer something to someone, you say: '____ you like some tea?'",
+          "options": ["Do", "Are", "Would", "Will"],
+          "correct_answer": "Would",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 58,
+          "question": "'Never mind' is used to tell someone:",
+          "options": ["to pay attention.", "that something is very important.", "not to worry about something.", "to remember something."],
+          "correct_answer": "not to worry about something.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 59,
+          "question": "To ask for permission, you can say: '____ I open the window?'",
+          "options": ["Do", "Will", "May", "Am"],
+          "correct_answer": "May",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 60,
+          "question": "What is a good response to 'What's up?'",
+          "options": ["The sky.", "Not much.", "I am 14.", "It is a good day."],
+          "correct_answer": "Not much.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 61,
+          "question": "The phrase 'make yourself at home' means:",
+          "options": ["Build a house here.", "Clean the house.", "Relax and be comfortable.", "Go to your own home."],
+          "correct_answer": "Relax and be comfortable.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 62,
+          "question": "If you don't understand a word, you ask: 'What does that ____?'",
+          "options": ["say", "speak", "tell", "mean"],
+          "correct_answer": "mean",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 63,
+          "question": "'Could you do me a favour?' is a way to:",
+          "options": ["offer help.", "ask for help.", "give a gift.", "say thank you."],
+          "correct_answer": "ask for help.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 64,
+          "question": "To offer help, you can say: 'Do you need a ____?'",
+          "options": ["favour", "hand", "help", "work"],
+          "correct_answer": "hand",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 65,
+          "question": "The phrase 'Long time no see' is used when:",
+          "options": ["You see someone every day.", "You haven't seen someone for a long time.", "You don't want to see someone.", "You will see someone soon."],
+          "correct_answer": "You haven't seen someone for a long time.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 66,
+          "question": "A: 'I'm so sorry I'm late.' B: '____. It's okay.'",
+          "options": ["You should be.", "I am angry.", "Don't worry about it.", "Be on time next time."],
+          "correct_answer": "Don't worry about it.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 67,
+          "question": "What do you say to wish someone well on a journey?",
+          "options": ["Have a safe trip!", "Come back soon!", "Drive fast!", "Good luck!"],
+          "correct_answer": "Have a safe trip!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 68,
+          "question": "'I have no idea' means:",
+          "options": ["I have a great idea.", "I don't know.", "That's a bad idea.", "I agree with your idea."],
+          "correct_answer": "I don't know.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 69,
+          "question": "A: 'Thank you so much for your help!' B: '____. It was my pleasure.'",
+          "options": ["You're welcome.", "Don't mention it.", "No problem.", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 70,
+          "question": "The phrase 'What have you been up to?' asks about:",
+          "options": ["Your height.", "Your recent activities.", "Your problems.", "Where you are going."],
+          "correct_answer": "Your recent activities.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 71,
+          "question": "To ask for an opinion, you can say: 'What do you ____ about this?'",
+          "options": ["say", "tell", "think", "speak"],
+          "correct_answer": "think",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 72,
+          "question": "If you want to leave a room for a short time, you say:",
+          "options": ["Goodbye forever.", "I'll be right back.", "I am going.", "I'll see you."],
+          "correct_answer": "I'll be right back.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 73,
+          "question": "'That sounds like a good idea.' This phrase expresses ____.",
+          "options": ["Disagreement", "Agreement", "Confusion", "Sadness"],
+          "correct_answer": "Agreement",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 74,
+          "question": "When you want to give a suggestion, you can start with: 'How about...?'",
+          "options": ["'How about we go to the park?'", "'How about are you?'", "'How about the weather?'", "'How about my name?'"],
+          "correct_answer": "'How about we go to the park?'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 75,
+          "question": "The phrase 'sleep on it' means:",
+          "options": ["Go to sleep right now.", "Think about something overnight before making a decision.", "To sleep on top of an object.", "To have a bad dream."],
+          "correct_answer": "Think about something overnight before making a decision.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 76,
+          "question": "A: 'Can I borrow your pen?' B: '____. Here you are.'",
+          "options": ["Certainly", "No way", "Maybe", "I don't think so"],
+          "correct_answer": "Certainly",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 77,
+          "question": "'It's up to you' means:",
+          "options": ["You should stand up.", "It is your decision.", "It is above you.", "I don't agree with you."],
+          "correct_answer": "It is your decision.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 78,
+          "question": "To express sympathy for someone who has lost a family member, you say:",
+          "options": ["Congratulations.", "My condolences.", "Get well soon.", "Happy Birthday."],
+          "correct_answer": "My condolences.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 79,
+          "question": "'I couldn't agree more' means:",
+          "options": ["I disagree completely.", "I agree completely.", "I am not sure.", "I need more information."],
+          "correct_answer": "I agree completely.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 80,
+          "question": "What is a polite way to refuse an invitation?",
+          "options": ["'No, I don't want to come.'", "'That sounds boring.'", "'I'd love to, but I have other plans.'", "'I will not come.'"],
+          "correct_answer": "'I'd love to, but I have other plans.'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 81,
+          "question": "A: 'How's everything?' B: '____.'",
+          "options": ["Couldn't be better!", "Things are good.", "Pretty good.", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 82,
+          "question": "The phrase 'break a leg!' is an idiomatic way to say:",
+          "options": ["Be careful.", "Don't fall.", "Good luck!", "You will fail."],
+          "correct_answer": "Good luck!",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 83,
+          "question": "'I'm afraid...' is used to introduce:",
+          "options": ["Something you are scared of.", "A polite disagreement or bad news.", "A happy announcement.", "A funny story."],
+          "correct_answer": "A polite disagreement or bad news.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 84,
+          "question": "When someone is speaking too fast, you can say: 'Could you please ____?'",
+          "options": ["speak faster", "speak quietly", "speak louder", "speak more slowly"],
+          "correct_answer": "speak more slowly",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 85,
+          "question": "The phrase 'by the way' is used to:",
+          "options": ["End a conversation.", "Introduce a new, unrelated topic.", "Agree with someone.", "Ask for directions."],
+          "correct_answer": "Introduce a new, unrelated topic.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 86,
+          "question": "'That's very kind of you' is a response to:",
+          "options": ["A greeting", "An insult", "An offer of help or a compliment", "A question"],
+          "correct_answer": "An offer of help or a compliment",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 87,
+          "question": "If you don't mind what is chosen, you can say:",
+          "options": ["I have a preference.", "I don't care.", "Either is fine with me.", "I want to choose."],
+          "correct_answer": "Either is fine with me.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 88,
+          "question": "To confirm you have understood, you can say:",
+          "options": ["I have no idea.", "What does that mean?", "I see.", "Can you repeat that?"],
+          "correct_answer": "I see.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 89,
+          "question": "'Give me a hand' is an idiom that means:",
+          "options": ["Give me your hand to shake.", "Help me.", "Clap for me.", "Give me a high-five."],
+          "correct_answer": "Help me.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 90,
+          "question": "A: 'Shall we begin?' B: '____.'",
+          "options": ["No, let's wait.", "Yes, let's.", "I don't know.", "What does 'begin' mean?"],
+          "correct_answer": "Yes, let's.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 91,
+          "question": "What does 'Watch out!' mean?",
+          "options": ["Look at your watch.", "Be careful, there is danger.", "Let's watch a movie.", "Stop looking."],
+          "correct_answer": "Be careful, there is danger.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 92,
+          "question": "A formal way to end a business email is:",
+          "options": ["Bye bye", "Cheers", "Yours sincerely", "See ya"],
+          "correct_answer": "Yours sincerely",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 93,
+          "question": "To express that you have the same opinion, you say: 'I feel the same ____.'",
+          "options": ["path", "road", "way", "direction"],
+          "correct_answer": "way",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 94,
+          "question": "'Not at all' is a polite response to:",
+          "options": ["'Hello.'", "'Thank you.'", "'How old are you?'", "'What is your name?'"],
+          "correct_answer": "'Thank you.'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 95,
+          "question": "When you want to know how to spell a word, you ask: 'How do you ____ that?'",
+          "options": ["say", "pronounce", "spell", "write"],
+          "correct_answer": "spell",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 96,
+          "question": "A: 'Have a great weekend!' B: '____.'",
+          "options": ["Thanks, you too.", "I will.", "Okay.", "Goodbye."],
+          "correct_answer": "Thanks, you too.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 97,
+          "question": "The phrase 'I'm off' is an informal way to say:",
+          "options": ["I am on holiday.", "I am feeling unwell.", "I am leaving now.", "The lights are off."],
+          "correct_answer": "I am leaving now.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 98,
+          "question": "'What do you do for a living?' is a formal question about someone's ____.",
+          "options": ["hobbies", "family", "job", "home"],
+          "correct_answer": "job",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 99,
+          "question": "To give a compliment, you can say: 'I really like your ____.'",
+          "options": ["dress", "shoes", "handwriting", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 100,
+          "question": "'Cheers' can be used to say 'thank you' informally and also when ____.",
+          "options": ["greeting someone", "saying goodbye", "making a toast with drinks", "apologizing"],
+          "correct_answer": "making a toast with drinks",
+          "grammar_type": "Greetings & Daily Phrases"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The phrase 'I beg to differ' is a formal way of saying:",
+          "options": ["I strongly agree.", "I politely disagree.", "I don't understand.", "Please explain again."],
+          "correct_answer": "I politely disagree.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 102,
+          "question": "When you want to politely interrupt a conversation, you can say:",
+          "options": ["'Pardon me for interrupting, but...'", "'Stop talking.'", "'Can I say something now?'", "'It's my turn.'"],
+          "correct_answer": "'Pardon me for interrupting, but...'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 103,
+          "question": "A: 'It was a pleasure to make your acquaintance.' This phrase is very ____.",
+          "options": ["informal and casual", "formal and slightly old-fashioned", "rude and abrupt", "used only on the phone"],
+          "correct_answer": "formal and slightly old-fashioned",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 104,
+          "question": "'If you'll excuse me' is a polite phrase used before ____.",
+          "options": ["starting to eat", "leaving a room or group", "asking a question", "giving a gift"],
+          "correct_answer": "leaving a room or group",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 105,
+          "question": "The idiom 'bite your tongue' means:",
+          "options": ["to eat something spicy.", "to stop yourself from saying something.", "to speak very clearly.", "to hurt yourself by accident."],
+          "correct_answer": "to stop yourself from saying something.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 106,
+          "question": "What is the difference between 'Excuse me' and 'Pardon me'?",
+          "options": ["'Pardon me' is more common for getting attention; 'Excuse me' is for apologizing.", "'Excuse me' is for getting attention; 'Pardon me' is often for asking someone to repeat something.", "There is no difference.", "'Excuse me' is British; 'Pardon me' is American."],
+          "correct_answer": "'Excuse me' is for getting attention; 'Pardon me' is often for asking someone to repeat something.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 107,
+          "question": "The phrase 'I couldn't care less' expresses:",
+          "options": ["Deep concern", "Great happiness", "Total lack of interest", "Strong agreement"],
+          "correct_answer": "Total lack of interest",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 108,
+          "question": "To start a formal letter when you don't know the recipient's name, you write:",
+          "options": ["Dear Friend,", "Hi there,", "To Whom It May Concern,", "Hello,"],
+          "correct_answer": "To Whom It May Concern,",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 109,
+          "question": "'I'll get back to you' means:",
+          "options": ["I will physically return to you.", "I will contact you later with an answer.", "I will ignore you.", "I will get revenge on you."],
+          "correct_answer": "I will contact you later with an answer.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 110,
+          "question": "The expression 'Don't get me wrong' is used before saying something that might...",
+          "options": ["be very popular.", "be easily misunderstood.", "be a compliment.", "be a simple fact."],
+          "correct_answer": "be easily misunderstood.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 111,
+          "question": "What does 'RSVP' on an invitation mean?",
+          "options": ["Please bring a gift.", "Please reply.", "The event is free.", "You must wear formal clothes."],
+          "correct_answer": "Please reply.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 112,
+          "question": "The phrase 'Help yourself' is an invitation to:",
+          "options": ["ask for help.", "do a task by yourself.", "take something, usually food, without asking again.", "leave the room."],
+          "correct_answer": "take something, usually food, without asking again.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 113,
+          "question": "A: 'The floor is wet.' B: 'Thanks for the heads-up.' 'Heads-up' means:",
+          "options": ["A criticism", "A question", "An advance warning", "A compliment"],
+          "correct_answer": "An advance warning",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 114,
+          "question": "What is the meaning of the idiom 'spill the beans'?",
+          "options": ["To be clumsy", "To reveal a secret", "To plant beans", "To eat quickly"],
+          "correct_answer": "To reveal a secret",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 115,
+          "question": "To express doubt, you can say: 'I'm a bit ____ about that.'",
+          "options": ["happy", "certain", "sure", "sceptical"],
+          "correct_answer": "sceptical",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 116,
+          "question": "'I am writing to enquire about...' is a phrase used in a ____.",
+          "options": ["friendly chat", "formal letter or email", "text message to a friend", "story book"],
+          "correct_answer": "formal letter or email",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 117,
+          "question": "The phrase 'I'm on the fence' means:",
+          "options": ["I am sitting on a fence.", "I am undecided about something.", "I completely agree.", "I am in danger."],
+          "correct_answer": "I am undecided about something.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 118,
+          "question": "'My apologies' is a more formal way to say:",
+          "options": ["Thank you", "You're welcome", "I'm sorry", "Excuse me"],
+          "correct_answer": "I'm sorry",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 119,
+          "question": "When someone says 'Don't beat around the bush', they want you to:",
+          "options": ["Get to the point.", "Stop hitting plants.", "Speak more slowly.", "Tell a story."],
+          "correct_answer": "Get to the point.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 120,
+          "question": "What is a 'rhetorical question'?",
+          "options": ["A question that is very difficult to answer.", "A question asked to make a point, not to get an answer.", "A question with only one possible answer.", "A question asked in a poem."],
+          "correct_answer": "A question asked to make a point, not to get an answer.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 121,
+          "question": "The expression 'touch wood' is used to...",
+          "options": ["describe a type of wood.", "ask for help.", "avoid bad luck.", "greet someone."],
+          "correct_answer": "avoid bad luck.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 122,
+          "question": "'With all due respect' is a phrase used before you ____.",
+          "options": ["give a compliment", "tell a joke", "politely disagree with someone important", "agree with someone"],
+          "correct_answer": "politely disagree with someone important",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 123,
+          "question": "A: 'Can I take a rain check?' B: This person wants to ____.",
+          "options": ["check the weather forecast", "accept your offer now", "decline an offer but suggest doing it later", "borrow your raincoat"],
+          "correct_answer": "decline an offer but suggest doing it later",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 124,
+          "question": "The phrase 'so far, so good' means:",
+          "options": ["Things are going badly.", "Things have been going well up to this point.", "We have travelled a long distance.", "The end is near."],
+          "correct_answer": "Things have been going well up to this point.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 125,
+          "question": "'To cut a long story short' means:",
+          "options": ["To tell a story very slowly.", "To tell only the main points of a story.", "To forget the story.", "To write a short story."],
+          "correct_answer": "To tell only the main points of a story.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 126,
+          "question": "In a formal context, what is the best response to 'Thank you for your time'?",
+          "options": ["'No problem.'", "'It was a pleasure.'", "'Yep.'", "'Okay, bye.'"],
+          "correct_answer": "'It was a pleasure.'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 127,
+          "question": "The idiom 'The ball is in your court' means:",
+          "options": ["It is your turn to play.", "You have made a mistake.", "It is now your responsibility to take the next step.", "You are in trouble."],
+          "correct_answer": "It is now your responsibility to take the next step.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 128,
+          "question": "'I am writing to express my dissatisfaction with...' is a phrase used to start a ____.",
+          "options": ["letter of invitation", "thank you note", "letter of complaint", "job application"],
+          "correct_answer": "letter of complaint",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 129,
+          "question": "What does 'I second that' mean?",
+          "options": ["I will arrive in a second.", "This is the second time.", "I disagree with that.", "I agree with that statement."],
+          "correct_answer": "I agree with that statement.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 130,
+          "question": "The phrase 'read between the lines' means to:",
+          "options": ["read very carefully.", "understand a hidden meaning.", "read alternate lines.", "read very quickly."],
+          "correct_answer": "understand a hidden meaning.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 131,
+          "question": "'Please bear with me' is a request for:",
+          "options": ["Help", "Patience", "Money", "Advice"],
+          "correct_answer": "Patience",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 132,
+          "question": "The closing 'Yours faithfully' is used in a formal letter when you...",
+          "options": ["know the person's name.", "do not know the person's name.", "are writing to a close friend.", "are writing an apology."],
+          "correct_answer": "do not know the person's name.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 133,
+          "question": "When someone says 'It's on me', what do they mean?",
+          "options": ["An object is on top of them.", "They are feeling pressured.", "They will pay the bill.", "It is their fault."],
+          "correct_answer": "They will pay the bill.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 134,
+          "question": "To 'get the hang of something' means to:",
+          "options": ["hang an object.", "get into trouble.", "learn how to do something.", "get tired of something."],
+          "correct_answer": "learn how to do something.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 135,
+          "question": "'For what it's worth' is a phrase used to introduce a piece of advice or an opinion that...",
+          "options": ["is very valuable.", "you are very sure about.", "you are not sure will be helpful.", "is a secret."],
+          "correct_answer": "you are not sure will be helpful.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 136,
+          "question": "A: 'Are you free for dinner tonight?' B: 'I'm afraid I have a prior engagement.' This means:",
+          "options": ["The person is accepting the invitation.", "The person is scared to have dinner.", "The person is politely declining due to another plan.", "The person needs to check their calendar."],
+          "correct_answer": "The person is politely declining due to another plan.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 137,
+          "question": "The idiom 'to be under the weather' means:",
+          "options": ["to be caught in the rain.", "to feel slightly unwell.", "to be very happy.", "to be worried about the forecast."],
+          "correct_answer": "to feel slightly unwell.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 138,
+          "question": "A: 'Let's call it a day.' B: This suggests that they should:",
+          "options": ["Name the day.", "Start working.", "Stop working for the day.", "Plan for the next day."],
+          "correct_answer": "Stop working for the day.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 139,
+          "question": "What is 'small talk'?",
+          "options": ["A very important conversation.", "A conversation in a low voice.", "Polite conversation about unimportant things.", "A conversation with a small person."],
+          "correct_answer": "Polite conversation about unimportant things.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 140,
+          "question": "'I am writing with reference to...' is a formal phrase to:",
+          "options": ["end a letter.", "greet a friend.", "state the purpose of a letter.", "apologize for a mistake."],
+          "correct_answer": "state the purpose of a letter.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 141,
+          "question": "The phrase 'It's a piece of cake' means something is ____.",
+          "options": ["very tasty", "very difficult", "very easy", "a dessert"],
+          "correct_answer": "very easy",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 142,
+          "question": "If you 'give someone the cold shoulder', you ____.",
+          "options": ["give them a jacket", "help them with a problem", "share food with them", "intentionally ignore them"],
+          "correct_answer": "intentionally ignore them",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 143,
+          "question": "'I'd be grateful if you could...' is a polite and formal way to ____.",
+          "options": ["make a request", "give a command", "express anger", "tell a joke"],
+          "correct_answer": "make a request",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 144,
+          "question": "The expression 'hit the nail on the head' means:",
+          "options": ["To do something wrong.", "To describe something perfectly.", "To hurt yourself.", "To work as a carpenter."],
+          "correct_answer": "To describe something perfectly.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 145,
+          "question": "A formal way of saying 'I will be waiting for your reply' is:",
+          "options": ["'Reply soon.'", "'I look forward to hearing from you.'", "'Write back now.'", "'You must reply.'"],
+          "correct_answer": "'I look forward to hearing from you.'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 146,
+          "question": "The phrase 'it goes without saying' introduces something that is...",
+          "options": ["a secret.", "very confusing.", "obviously true.", "a lie."],
+          "correct_answer": "obviously true.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 147,
+          "question": "When you say 'I'll play it by ear', you mean you will...",
+          "options": ["listen to music.", "decide how to deal with a situation as it develops.", "follow the instructions carefully.", "ask someone for help."],
+          "correct_answer": "decide how to deal with a situation as it develops.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 148,
+          "question": "Which phrase is used to show respect before asking a personal question?",
+          "options": ["'If you don't mind me asking...'", "'Tell me right now...'", "'I have to know...'", "'What is...'"],
+          "correct_answer": "'If you don't mind me asking...'",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 149,
+          "question": "A: 'How are you holding up?' B: This question is usually asked when...",
+          "options": ["you are physically holding something heavy.", "the other person is going through a difficult time.", "you are meeting for the first time.", "you are saying goodbye."],
+          "correct_answer": "the other person is going through a difficult time.",
+          "grammar_type": "Greetings & Daily Phrases"
+        },
+        {
+          "id": 150,
+          "question": "The phrase 'to cut to the chase' means:",
+          "options": ["to run after something.", "to get to the important part without wasting time.", "to end a conversation abruptly.", "to tell a long and detailed story."],
+          "correct_answer": "to get to the important part without wasting time.",
+          "grammar_type": "Greetings & Daily Phrases"
+        }
+      ]
+    }
+  ]
+}
+

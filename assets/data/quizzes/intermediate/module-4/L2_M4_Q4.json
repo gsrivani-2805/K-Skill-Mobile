@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What type of letter is a letter written to a friend?",
+          "options": ["Formal Letter", "Business Letter", "Informal Letter", "Official Letter"],
+          "correct_answer": "Informal Letter",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 2,
+          "question": "Where do you usually write the date in a letter to a friend?",
+          "options": ["Top left corner", "Top right corner", "Bottom left corner", "In the middle of the page"],
+          "correct_answer": "Top right corner",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 3,
+          "question": "Which of these is a correct salutation for a friend named Priya?",
+          "options": ["Respected Priya,", "Dear Priya,", "Hello Madam,", "Subject: Priya"],
+          "correct_answer": "Dear Priya,",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 4,
+          "question": "What is the main content of the letter called?",
+          "options": ["The Heading", "The Salutation", "The Body", "The Closing"],
+          "correct_answer": "The Body",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 5,
+          "question": "What kind of language should you use in a letter to a friend?",
+          "options": ["Very formal and complex", "Friendly and casual", "Strict and official", "Technical and scientific"],
+          "correct_answer": "Friendly and casual",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 6,
+          "question": "Which of the following is a suitable closing for a letter to a friend?",
+          "options": ["Yours sincerely,", "Yours faithfully,", "With best wishes,", "Thanking you,"],
+          "correct_answer": "With best wishes,",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 7,
+          "question": "What do you write just below the closing?",
+          "options": ["The date", "Your friend's name", "Your name", "Your address"],
+          "correct_answer": "Your name",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 8,
+          "question": "What is the purpose of writing a letter to a friend?",
+          "options": ["To apply for a job", "To complain about a product", "To share personal news and feelings", "To order goods"],
+          "correct_answer": "To share personal news and feelings",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 9,
+          "question": "In the body of the letter, what should the first paragraph contain?",
+          "options": ["A detailed story", "Asking about your friend's well-being", "The main reason for the letter", "A famous quote"],
+          "correct_answer": "Asking about your friend's well-being",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 10,
+          "question": "What does 'P.S.' at the end of a letter stand for?",
+          "options": ["Please Sign", "Post Script", "Pretty Soon", "Public School"],
+          "correct_answer": "Post Script",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 11,
+          "question": "Which of these is NOT a part of an informal letter?",
+          "options": ["Date", "Subject line", "Body", "Salutation"],
+          "correct_answer": "Subject line",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 12,
+          "question": "How should you start a letter to your friend?",
+          "options": ["With a formal introduction", "By directly starting with the main topic", "With a friendly greeting", "With a complaint"],
+          "correct_answer": "With a friendly greeting",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 13,
+          "question": "What is the tone of a letter to a friend?",
+          "options": ["Personal and warm", "Impersonal and cold", "Strict and commanding", "Neutral and objective"],
+          "correct_answer": "Personal and warm",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 14,
+          "question": "The salutation in an informal letter is also known as...",
+          "options": ["The closing", "The greeting", "The heading", "The signature"],
+          "correct_answer": "The greeting",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 15,
+          "question": "You are writing to invite your friend to your birthday party. This is a letter of...",
+          "options": ["Apology", "Invitation", "Complaint", "Inquiry"],
+          "correct_answer": "Invitation",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 16,
+          "question": "Where is the sender's address placed in an informal letter?",
+          "options": ["Top right", "Top left", "Bottom right", "Not included"],
+          "correct_answer": "Top right",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 17,
+          "question": "Which of these is an appropriate opening line for a letter to a friend?",
+          "options": ["I am writing to inform you...", "This is with reference to...", "Hope you are doing well.", "I demand an explanation..."],
+          "correct_answer": "Hope you are doing well.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 18,
+          "question": "What is the purpose of the concluding paragraph?",
+          "options": ["To introduce a new topic", "To give the main details", "To sum up and say goodbye", "To ask for a reply"],
+          "correct_answer": "To sum up and say goodbye",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 19,
+          "question": "A letter to a friend should be written in a ___ style.",
+          "options": ["conversational", "reporting", "formal", "business-like"],
+          "correct_answer": "conversational",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 20,
+          "question": "Which punctuation mark follows the salutation 'Dear Amit'?",
+          "options": ["Full stop (.)", "Comma (,)", "Semicolon (;)", "Exclamation mark (!)" ],
+          "correct_answer": "Comma (,)",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 21,
+          "question": "Which is a suitable topic for a letter to a friend?",
+          "options": ["Applying for leave", "Describing your recent school trip", "Requesting a new cheque book", "Placing a business order"],
+          "correct_answer": "Describing your recent school trip",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 22,
+          "question": "What should you do after writing the body of the letter?",
+          "options": ["Write the date", "Write the salutation", "Write a complimentary close", "Write your address"],
+          "correct_answer": "Write a complimentary close",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 23,
+          "question": "'Lots of love' is an example of a...",
+          "options": ["Salutation", "Closing", "Heading", "Body sentence"],
+          "correct_answer": "Closing",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 24,
+          "question": "Should you use paragraphs in the body of your letter?",
+          "options": ["No, it should be one long block of text.", "Yes, to organize your thoughts clearly.", "Only if the letter is very long.", "No, paragraphs are only for formal letters."],
+          "correct_answer": "Yes, to organize your thoughts clearly.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 25,
+          "question": "What is the purpose of writing 'P.S.'?",
+          "options": ["To summarize the letter.", "To add a thought after you have finished the letter.", "To make the letter longer.", "It is a formal requirement."],
+          "correct_answer": "To add a thought after you have finished the letter.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 26,
+          "question": "How do you end a letter to a friend?",
+          "options": ["With a formal closing and full signature.", "With a friendly closing and your first name.", "With just your full name.", "By stating the date again."],
+          "correct_answer": "With a friendly closing and your first name.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 27,
+          "question": "Which of these is NOT an informal closing?",
+          "options": ["Your loving friend,", "Best wishes,", "Yours faithfully,", "Take care,"],
+          "correct_answer": "Yours faithfully,",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 28,
+          "question": "Is it okay to ask questions in a letter to a friend?",
+          "options": ["No, you should only provide information.", "Yes, it makes the letter more interactive.", "Only if it's an emergency.", "No, it is considered rude."],
+          "correct_answer": "Yes, it makes the letter more interactive.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 29,
+          "question": "The address of the sender is also known as the...",
+          "options": ["Return address", "Destination address", "Salutation", "Subscription"],
+          "correct_answer": "Return address",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 30,
+          "question": "What is the main goal of writing to a friend?",
+          "options": ["To maintain and strengthen the friendship.", "To demonstrate your writing skills.", "To complete a homework assignment.", "To practice formal English."],
+          "correct_answer": "To maintain and strengthen the friendship.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 31,
+            "question": "In a letter congratulating a friend, your tone should be...",
+            "options": ["Sad", "Joyful and celebratory", "Serious", "Neutral"],
+            "correct_answer": "Joyful and celebratory",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 32,
+            "question": "The format of an informal letter is...",
+            "options": ["Strict and rigid", "Flexible and personal", "The same as a formal letter", "Not important"],
+            "correct_answer": "Flexible and personal",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 33,
+            "question": "'My dearest Sam,' is an example of a...",
+            "options": ["Heading", "Closing", "Salutation", "Postscript"],
+            "correct_answer": "Salutation",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 34,
+            "question": "What should you write about in the body of the letter?",
+            "options": ["Only about yourself", "Only about your friend", "A mix of news, thoughts, and questions", "Copied text from a book"],
+            "correct_answer": "A mix of news, thoughts, and questions",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 35,
+            "question": "Which of these details is usually NOT included in a letter to a friend?",
+            "options": ["Date", "Your address", "Your friend's address on the letter itself", "Your name"],
+            "correct_answer": "Your friend's address on the letter itself",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 36,
+            "question": "The complimentary close must begin with a...",
+            "options": ["Capital letter", "Small letter", "Number", "Special symbol"],
+            "correct_answer": "Capital letter",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 37,
+            "question": "A letter to a friend should sound like...",
+            "options": ["A news report", "A textbook", "You are talking to them in person", "A legal document"],
+            "correct_answer": "You are talking to them in person",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 38,
+            "question": "What do you do after writing the whole letter, before putting it in an envelope?",
+            "options": ["Write the date again", "Read it over for any mistakes", "Sign it at the top", "Tear it up"],
+            "correct_answer": "Read it over for any mistakes",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 39,
+            "question": "If you are thanking a friend for a gift, what should you mention?",
+            "options": ["The price of the gift", "How much you liked the gift and why", "That you want another gift", "That the gift was not good"],
+            "correct_answer": "How much you liked the gift and why",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 40,
+            "question": "The part of the letter that says goodbye is the...",
+            "options": ["Salutation", "Body", "Closing", "Heading"],
+            "correct_answer": "Closing",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 41,
+            "question": "Is it okay to use contractions (like 'don't', 'can't') in a letter to a friend?",
+            "options": ["No, you must write 'do not' and 'cannot'.", "Yes, it makes the letter sound more conversational.", "Only if your friend is younger than you.", "No, it is grammatically incorrect."],
+            "correct_answer": "Yes, it makes the letter sound more conversational.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 42,
+            "question": "What is the final part of an informal letter?",
+            "options": ["The date", "The body", "The writer's signature", "The salutation"],
+            "correct_answer": "The writer's signature",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 43,
+            "question": "You should start a new paragraph for each...",
+            "options": ["Sentence", "New idea or topic", "Word", "Letter of the alphabet"],
+            "correct_answer": "New idea or topic",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 44,
+            "question": "A letter giving advice to a friend should be...",
+            "options": ["Bossy and demanding", "Supportive and helpful", "Vague and unclear", "Critical and judgmental"],
+            "correct_answer": "Supportive and helpful",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 45,
+            "question": "Which of these shows you are ending the letter?",
+            "options": ["'I am writing to tell you...'", "'How have you been?'", "'Convey my regards to your parents.'", "'I am fine here.'"],
+            "correct_answer": "'Convey my regards to your parents.'",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 46,
+            "question": "Where do you write the address of the person you are sending the letter to?",
+            "options": ["On the letter itself", "On the envelope", "At the back of the letter", "You don't need to write it"],
+            "correct_answer": "On the envelope",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 47,
+            "question": "What kind of information is shared in an informal letter?",
+            "options": ["Confidential business data", "Personal thoughts, feelings, and experiences", "Government policies", "Job advertisements"],
+            "correct_answer": "Personal thoughts, feelings, and experiences",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 48,
+            "question": "'Your loving friend,' is known as the...",
+            "options": ["Subscription or complimentary close", "Salutation", "Body", "Heading"],
+            "correct_answer": "Subscription or complimentary close",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 49,
+            "question": "The first word of the salutation should always be...",
+            "options": ["In lowercase", "Capitalized", "In bold", "In italics"],
+            "correct_answer": "Capitalized",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 50,
+            "question": "When you invite a friend, what details must you include?",
+            "options": ["Only the date", "Date, time, and venue", "Only the reason", "A map of your house"],
+            "correct_answer": "Date, time, and venue",
+            "grammar_type": "Letter to a Friend"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is the primary difference between the body of a letter of apology and a letter of invitation?",
+          "options": ["The apology letter is longer.", "The apology letter expresses regret, while the invitation expresses anticipation.", "The invitation has more details.", "There is no difference."],
+          "correct_answer": "The apology letter expresses regret, while the invitation expresses anticipation.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 52,
+          "question": "How can you make a letter to a friend more engaging and less like a monologue?",
+          "options": ["By writing only about your achievements.", "By asking questions about their life and referencing past conversations.", "By using very complex vocabulary.", "By making the letter very short."],
+          "correct_answer": "By asking questions about their life and referencing past conversations.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 53,
+          "question": "In a letter giving advice, what is the best way to present your suggestions?",
+          "options": ["As commands they must follow.", "As gentle suggestions they might consider.", "As the only possible solutions.", "As criticisms of their current situation."],
+          "correct_answer": "As gentle suggestions they might consider.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 54,
+          "question": "Why is paragraphing important in the body of an informal letter?",
+          "options": ["It is a strict rule with no real purpose.", "It separates different ideas and makes the letter easier to read and understand.", "It is only to make the letter look longer.", "Paragraphs are not used in informal letters."],
+          "correct_answer": "It separates different ideas and makes the letter easier to read and understand.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 55,
+          "question": "What is the function of the opening paragraph in a letter to a friend?",
+          "options": ["To state the main purpose of the letter immediately.", "To acknowledge a previous letter and ask about the friend's well-being.", "To tell a long story.", "To end the letter."],
+          "correct_answer": "To acknowledge a previous letter and ask about the friend's well-being.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 56,
+          "question": "When describing a place in a letter, what details make the description vivid?",
+          "options": ["Only the name of the place.", "The geographical coordinates.", "Sensory details (what you saw, heard, felt).", "The cost of travel."],
+          "correct_answer": "Sensory details (what you saw, heard, felt).",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 57,
+          "question": "Choose the most appropriate closing for a letter to a very close childhood friend.",
+          "options": ["Yours sincerely,", "Yours faithfully,", "Regards,", "Lots of love,"],
+          "correct_answer": "Lots of love,",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 58,
+          "question": "What is the difference between writing a letter and a text message to a friend?",
+          "options": ["A letter is usually more thoughtful and detailed.", "A text message is more formal.", "There is no difference.", "A letter is faster to send."],
+          "correct_answer": "A letter is usually more thoughtful and detailed.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 59,
+          "question": "If you haven't heard from your friend in a long time, what is a polite opening line?",
+          "options": ["'Why haven't you written to me?'", "'I've been waiting for your letter for ages!'", "'I hope everything is alright as I haven't heard from you in a while.'", "'You have forgotten me.'"],
+          "correct_answer": "'I hope everything is alright as I haven't heard from you in a while.'",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 60,
+          "question": "What is the role of the final paragraph in a letter to a friend?",
+          "options": ["To introduce the main topic.", "To express hope for a future meeting or a reply.", "To ask for money.", "To list your recent achievements."],
+          "correct_answer": "To express hope for a future meeting or a reply.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 61,
+          "question": "When writing a letter of sympathy to a friend who has failed an exam, what is the most important thing to convey?",
+          "options": ["That you are smarter than them.", "Criticism for not studying hard enough.", "Encouragement and support.", "That the exam was easy."],
+          "correct_answer": "Encouragement and support.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 62,
+          "question": "How can you structure the body of a letter describing your summer vacation?",
+          "options": ["Chronologically, from the beginning of the trip to the end.", "In a random, jumbled order.", "With just a list of places visited.", "By only describing the last day."],
+          "correct_answer": "Chronologically, from the beginning of the trip to the end.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 63,
+          "question": "What is an appropriate way to end the body of the letter before the closing?",
+          "options": ["'That's all for now.'", "'Give my love to your family.'", "'Waiting for your reply.'", "All of the above."],
+          "correct_answer": "All of the above.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 64,
+          "question": "How does the tone of a letter to a friend differ from that of a letter to a school principal?",
+          "options": ["The tone is the same.", "The tone to a friend is informal and personal; the tone to a principal is formal and respectful.", "The tone to a friend is more respectful.", "The tone to a principal is more casual."],
+          "correct_answer": "The tone to a friend is informal and personal; the tone to a principal is formal and respectful.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 65,
+          "question": "In a P.S., what kind of information is usually included?",
+          "options": ["The most important information of the letter.", "A minor detail or a last-minute thought.", "The sender's address.", "The date."],
+          "correct_answer": "A minor detail or a last-minute thought.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 66,
+          "question": "If you are writing to a friend in another country, what might you include in your letter?",
+          "options": ["Details about your local culture and festivals.", "Only details about their country.", "Complex political analysis.", "A formal business proposal."],
+          "correct_answer": "Details about your local culture and festivals.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 67,
+          "question": "What is the best way to start a letter that is a reply to your friend's letter?",
+          "options": ["By ignoring their letter and starting a new topic.", "By thanking them for their letter and mentioning when you received it.", "By asking why they took so long to write.", "By immediately asking for a favor."],
+          "correct_answer": "By thanking them for their letter and mentioning when you received it.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 68,
+          "question": "When narrating an incident in a letter, what makes it interesting?",
+          "options": ["Sticking to boring, factual details.", "Including your personal feelings and reactions to the incident.", "Making the incident sound very simple.", "Writing in a very formal style."],
+          "correct_answer": "Including your personal feelings and reactions to the incident.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 69,
+          "question": "What is the purpose of sharing your future plans in a letter to a friend?",
+          "options": ["To show off.", "To keep them involved in your life and share your excitement.", "It has no purpose.", "To make them feel bad about their own plans."],
+          "correct_answer": "To keep them involved in your life and share your excitement.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 70,
+          "question": "Which of these is a good transition between paragraphs in an informal letter?",
+          "options": ["'Firstly,' 'Secondly,' 'Finally,'", "'Anyway, the other thing I wanted to tell you...'", "'In conclusion,'", "'To summarize,'"],
+          "correct_answer": "'Anyway, the other thing I wanted to tell you...'",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 71,
+          "question": "How do you ensure your written 'voice' in a letter sounds authentic?",
+          "options": ["By using words and phrases you would normally use when speaking.", "By using a thesaurus to find complex words.", "By copying the style of a famous author.", "By being as formal as possible."],
+          "correct_answer": "By using words and phrases you would normally use when speaking.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 72,
+          "question": "What is the key element of a letter of apology?",
+          "options": ["Making excuses for your behavior.", "Blaming the other person.", "Taking responsibility and expressing sincere regret.", "Ignoring the issue completely."],
+          "correct_answer": "Taking responsibility and expressing sincere regret.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 73,
+          "question": "In a letter describing a book you read, what should you focus on?",
+          "options": ["The number of pages in the book.", "Your personal opinion and why your friend might like it.", "The author's complete biography.", "Copying the entire first chapter."],
+          "correct_answer": "Your personal opinion and why your friend might like it.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 74,
+          "question": "A concluding line like, 'I'm really looking forward to seeing you soon,' helps to...",
+          "options": ["End the letter on a warm and positive note.", "Make the letter longer.", "Confuse the reader.", "Sound very formal."],
+          "correct_answer": "End the letter on a warm and positive note.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 75,
+          "question": "What's the main difference in content between a letter to a friend and a diary entry?",
+          "options": ["A letter is addressed to someone else, while a diary entry is for oneself.", "A diary entry is more formal.", "A letter is always sad.", "A diary entry has a date, but a letter does not."],
+          "correct_answer": "A letter is addressed to someone else, while a diary entry is for oneself.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 76,
+          "question": "If you are writing to a friend you haven't seen in years, what should you include?",
+          "options": ["A brief update on your life and a nostalgic mention of a shared memory.", "A demand to meet immediately.", "Only questions about their life.", "A complaint about them not staying in touch."],
+          "correct_answer": "A brief update on your life and a nostalgic mention of a shared memory.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 77,
+          "question": "What is the correct punctuation for a closing like 'Best wishes'?",
+          "options": ["Best wishes.", "Best wishes,", "Best wishes!", "Best wishes;"],
+          "correct_answer": "Best wishes,",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 78,
+          "question": "How do you politely decline an invitation in a letter to a friend?",
+          "options": ["By ignoring the invitation.", "By thanking them for the invitation and giving a genuine reason for not being able to attend.", "By saying the event sounds boring.", "By promising to come and then not showing up."],
+          "correct_answer": "By thanking them for the invitation and giving a genuine reason for not being able to attend.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 79,
+          "question": "When sharing bad news in a letter, the tone should be...",
+          "options": ["Cheerful and light-hearted.", "Blunt and direct.", "Sensitive and considerate.", "Humorous."],
+          "correct_answer": "Sensitive and considerate.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 80,
+          "question": "What is the purpose of reminiscing about old memories in a letter?",
+          "options": ["To show you have a good memory.", "To strengthen the emotional bond between you and your friend.", "To fill up space.", "To make your friend feel old."],
+          "correct_answer": "To strengthen the emotional bond between you and your friend.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 81,
+          "question": "If you use slang or a private joke in a letter, what does it signify?",
+          "options": ["Poor grammar.", "A close, informal relationship with the friend.", "Disrespect.", "That you are trying to be cool."],
+          "correct_answer": "A close, informal relationship with the friend.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 82,
+          "question": "How would you structure a letter that has two main purposes, e.g., to congratulate and to invite?",
+          "options": ["Mix both purposes in every sentence.", "Dedicate a separate paragraph to each purpose.", "Only focus on the more important purpose.", "Write two separate letters."],
+          "correct_answer": "Dedicate a separate paragraph to each purpose.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 83,
+          "question": "What is the role of humor in an informal letter?",
+          "options": ["It should never be used.", "It can make the letter more entertaining and reflect the writer's personality.", "It is only for sad letters.", "It shows a lack of seriousness."],
+          "correct_answer": "It can make the letter more entertaining and reflect the writer's personality.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 84,
+          "question": "The sentence 'I was on cloud nine when I heard your news' is an example of...",
+          "options": ["A formal statement.", "A factual report.", "An idiom to express happiness.", "A complaint."],
+          "correct_answer": "An idiom to express happiness.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 85,
+          "question": "Why is it important to consider your friend's personality when writing a letter?",
+          "options": ["It is not important.", "To tailor your language and humor so they will appreciate it more.", "To show you are better than them.", "To write in a way they won't understand."],
+          "correct_answer": "To tailor your language and humor so they will appreciate it more.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 86,
+          "question": "What is a key difference between the sender's address in a formal vs. an informal letter?",
+          "options": ["There is no difference.", "In formal letters, it's often followed by the recipient's address on the left, which is absent in informal letters.", "The informal letter has the address at the bottom.", "The formal letter does not have an address."],
+          "correct_answer": "In formal letters, it's often followed by the recipient's address on the left, which is absent in informal letters.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 87,
+          "question": "When asking for a favor in a letter to a friend, you should be...",
+          "options": ["Demanding and urgent.", "Polite and not presume they will say yes.", "Vague about what you want.", "Commanding."],
+          "correct_answer": "Polite and not presume they will say yes.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 88,
+          "question": "What is the effect of ending a letter with a question like, 'What have you been up to?'",
+          "options": ["It is rude.", "It encourages a reply.", "It is a poor way to end a letter.", "It shows you have nothing more to say."],
+          "correct_answer": "It encourages a reply.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 89,
+          "question": "How can you show empathy in a letter to a friend who is going through a tough time?",
+          "options": ["By saying 'I know exactly how you feel,' even if you don't.", "By acknowledging their feelings and offering your support.", "By telling them to stop being sad.", "By sharing a story about a time you had it worse."],
+          "correct_answer": "By acknowledging their feelings and offering your support.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 90,
+          "question": "The length of an informal letter should be...",
+          "options": ["Exactly one page.", "Determined by the amount of news you have to share.", "As short as possible.", "Always more than five pages."],
+          "correct_answer": "Determined by the amount of news you have to share.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 91,
+          "question": "What distinguishes an informal letter from a formal one in terms of sentence structure?",
+          "options": ["Informal letters can use shorter sentences and a more relaxed syntax.", "Informal letters must use complex sentences.", "There is no difference.", "Formal letters use shorter sentences."],
+          "correct_answer": "Informal letters can use shorter sentences and a more relaxed syntax.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 92,
+          "question": "When you share an achievement, how can you avoid sounding like you are bragging?",
+          "options": ["By acknowledging the help you received or the challenges you faced.", "By repeating how great you are.", "By comparing yourself to your friend.", "It's impossible to share achievements without bragging."],
+          "correct_answer": "By acknowledging the help you received or the challenges you faced.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 93,
+          "question": "The phrase 'Convey my regards to your parents' is a way of...",
+          "options": ["Being polite and showing respect to your friend's family.", "Ending the letter abruptly.", "Starting the letter.", "Giving a command."],
+          "correct_answer": "Being polite and showing respect to your friend's family.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 94,
+          "question": "What is a key consideration when choosing a closing like 'Yours lovingly' vs. 'Best wishes'?",
+          "options": ["The length of the letter.", "The level of intimacy and affection you share with your friend.", "The topic of the letter.", "There is no difference in meaning."],
+          "correct_answer": "The level of intimacy and affection you share with your friend.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 95,
+          "question": "How do you maintain a positive tone in a letter, even if discussing a small problem?",
+          "options": ["By focusing on solutions and expressing optimism.", "By complaining endlessly.", "By using a sad and depressing tone throughout.", "By exaggerating the problem."],
+          "correct_answer": "By focusing on solutions and expressing optimism.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 96,
+          "question": "A letter written on a decorative letterhead suggests...",
+          "options": ["The letter is very formal.", "The writer is putting personal effort and thought into the letter.", "The letter is from a company.", "The writer has poor taste."],
+          "correct_answer": "The writer is putting personal effort and thought into the letter.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 97,
+          "question": "What is the role of honesty in a letter to a friend?",
+          "options": ["It is not important.", "It is the foundation of the trust and intimacy shared in the letter.", "You should only be honest about positive things.", "You should lie to make your life sound more exciting."],
+          "correct_answer": "It is the foundation of the trust and intimacy shared in the letter.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 98,
+          "question": "If you include a photograph with your letter, what should you do?",
+          "options": ["Don't mention it in the letter.", "Mention it in the letter, perhaps explaining what it is.", "Stick it to the front of the envelope.", "Send it separately without a letter."],
+          "correct_answer": "Mention it in the letter, perhaps explaining what it is.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 99,
+          "question": "How can you use punctuation to show excitement in an informal letter?",
+          "options": ["By using exclamation marks appropriately.", "By avoiding all punctuation.", "By using only full stops.", "By using semicolons."],
+          "correct_answer": "By using exclamation marks appropriately.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 100,
+          "question": "When a friend has moved to a new city, what kind of questions would be good to ask?",
+          "options": ["Questions about their new home, school, and if they have made new friends.", "Questions that show you don't care.", "Only questions about their old life.", "Questions about the city's politics."],
+          "correct_answer": "Questions about their new home, school, and if they have made new friends.",
+          "grammar_type": "Letter to a Friend"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "How does the tangible nature of a handwritten letter contribute to its emotional impact compared to a digital message?",
+          "options": ["It has no extra impact.", "The physical object, holding the writer's handwriting, creates a stronger personal connection.", "A digital message has more emotional impact.", "The slowness of postal mail reduces its impact."],
+          "correct_answer": "The physical object, holding the writer's handwriting, creates a stronger personal connection.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 102,
+          "question": "Critically analyze the function of a P.S. (Postscript). It can be used to add a forgotten detail, but what other rhetorical purpose can it serve?",
+          "options": ["To state the main point of the letter.", "To deliver a punchline, a particularly heartfelt thought, or a message for emphasis.", "It has no other purpose.", "To formally end the letter."],
+          "correct_answer": "To deliver a punchline, a particularly heartfelt thought, or a message for emphasis.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 103,
+          "question": "How can using figurative language, like a metaphor or simile, enhance a description in a letter to a friend?",
+          "options": ["It makes the letter harder to understand.", "It creates a more vivid and imaginative picture, conveying feelings more effectively than plain language.", "It is only appropriate for formal writing.", "It is a sign of poor writing skills."],
+          "correct_answer": "It creates a more vivid and imaginative picture, conveying feelings more effectively than plain language.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 104,
+          "question": "How does the concept of 'voice' in an informal letter differ from the 'tone'?",
+          "options": ["They are the same thing.", "'Voice' is the writer's unique personality, while 'tone' is the mood or attitude for that specific letter (e.g., humorous, serious).", "'Tone' is the personality, and 'voice' is the mood.", "'Voice' applies only to spoken words."],
+          "correct_answer": "'Voice' is the writer's unique personality, while 'tone' is the mood or attitude for that specific letter (e.g., humorous, serious).",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 105,
+          "question": "In a letter of condolence, why is it often better to share a fond memory of the deceased rather than using clichés like 'They are in a better place'?",
+          "options": ["Sharing a personal memory is more comforting and celebrates the person's life.", "Clichés are more comforting.", "It is rude to share memories at such a time.", "There is no difference in impact."],
+          "correct_answer": "Sharing a personal memory is more comforting and celebrates the person's life.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 106,
+          "question": "What is the primary stylistic difference between an informal letter and a personal blog post?",
+          "options": ["A letter is for a private audience of one, affecting its intimacy, while a blog is for a public audience.", "A blog post is always more formal.", "A letter is always shorter.", "There are no stylistic differences."],
+          "correct_answer": "A letter is for a private audience of one, affecting its intimacy, while a blog is for a public audience.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 107,
+          "question": "How can you effectively use storytelling techniques to narrate an anecdote in your letter?",
+          "options": ["By just stating the facts.", "By building a little suspense, using descriptive language, and having a clear beginning, middle, and end.", "By telling the end of the story first.", "By keeping it as brief as possible."],
+          "correct_answer": "By building a little suspense, using descriptive language, and having a clear beginning, middle, and end.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 108,
+          "question": "When giving advice that your friend might not want to hear, how can you phrase it to minimize potential conflict?",
+          "options": ["By being brutally honest and direct.", "By framing it as your personal perspective and acknowledging their right to disagree.", "By ordering them to follow your advice.", "By avoiding the topic altogether."],
+          "correct_answer": "By framing it as your personal perspective and acknowledging their right to disagree.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 109,
+          "question": "An informal letter can be considered a 'time capsule'. What does this mean?",
+          "options": ["It's an old-fashioned way of communicating.", "It captures a specific moment in time, including the writer's thoughts, feelings, and circumstances.", "It should be buried after reading.", "It will self-destruct after some time."],
+          "correct_answer": "It captures a specific moment in time, including the writer's thoughts, feelings, and circumstances.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 110,
+          "question": "How can the choice of stationery (paper, envelope, ink color) subtly contribute to the message of a letter?",
+          "options": ["It has no impact on the message.", "It can reflect the tone of the letter; for example, bright colors for a happy occasion.", "Only the words matter, not the stationery.", "Using anything other than white paper and blue ink is wrong."],
+          "correct_answer": "It can reflect the tone of the letter; for example, bright colors for a happy occasion.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 111,
+          "question": "What ethical considerations should you have when mentioning a mutual friend in a letter?",
+          "options": ["None, you can write anything.", "You should avoid sharing their secrets or any information they would not want to be shared.", "It is best to never mention mutual friends.", "You should only share negative information about them."],
+          "correct_answer": "You should avoid sharing their secrets or any information they would not want to be shared.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 112,
+          "question": "Analyze the phrase, 'A letter is a gift of your time.' What does this imply about letter writing?",
+          "options": ["That letter writing is a waste of time.", "It implies that the effort and thought put into a letter are a valuable and appreciated gesture.", "That you should charge your friends for letters.", "That letters should be very short."],
+          "correct_answer": "It implies that the effort and thought put into a letter are a valuable and appreciated gesture.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 113,
+          "question": "How has the prevalence of instant messaging influenced the art and purpose of writing informal letters?",
+          "options": ["It has made letter writing obsolete.", "Letters are now often reserved for more significant occasions or for a more deliberate, reflective form of communication.", "It has had no influence.", "It has made letters more informal and full of emojis."],
+          "correct_answer": "Letters are now often reserved for more significant occasions or for a more deliberate, reflective form of communication.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 114,
+          "question": "When a letter is part of an ongoing 'conversation' over months or years, how does it affect the content of the current letter?",
+          "options": ["It has no effect.", "The writer will often refer to past letters and continue previous conversations, creating a long narrative.", "Each letter should be a completely new topic.", "The writer should assume the friend has forgotten previous letters."],
+          "correct_answer": "The writer will often refer to past letters and continue previous conversations, creating a long narrative.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 115,
+          "question": "What is the difference in persuasive strategy between giving advice to a friend in a letter and writing a persuasive essay?",
+          "options": ["There is no difference.", "A letter relies on the trust and emotional connection between friends, while an essay relies on logic and evidence.", "An essay is more personal.", "A letter is more logical and evidence-based."],
+          "correct_answer": "A letter relies on the trust and emotional connection between friends, while an essay relies on logic and evidence.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 116,
+          "question": "How can the use of rhetorical questions ('Can you believe what happened next?') improve an informal letter?",
+          "options": ["By making the narrative more engaging and directly involving the reader.", "They are grammatical errors.", "By confusing the reader.", "They make the letter too formal."],
+          "correct_answer": "By making the narrative more engaging and directly involving the reader.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 117,
+          "question": "What is the role of subtext in a letter to a friend? (i.e., what is not said but is still understood)",
+          "options": ["Subtext does not exist in informal letters.", "It can convey feelings or opinions indirectly, relying on the friend's deep understanding of the writer.", "It is a way of lying.", "Subtext makes a letter weak."],
+          "correct_answer": "It can convey feelings or opinions indirectly, relying on the friend's deep understanding of the writer.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 118,
+          "question": "How might the content of a letter to a friend change as the friendship evolves from casual to very close?",
+          "options": ["It will not change.", "The letters will likely become more self-disclosing, intimate, and emotionally honest.", "The letters will become more formal.", "The letters will become shorter."],
+          "correct_answer": "The letters will likely become more self-disclosing, intimate, and emotionally honest.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 119,
+          "question": "How does the writer's purpose dictate the structure of the body of the letter?",
+          "options": ["The structure is always the same regardless of the purpose.", "A letter to narrate an event will be chronological, while a letter to give advice might list points.", "Purpose does not affect structure.", "A letter of invitation is less structured than a letter of apology."],
+          "correct_answer": "A letter to narrate an event will be chronological, while a letter to give advice might list points.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 120,
+          "question": "Critique this closing: 'Hoping to hear from you at your earliest convenience.' Why is it inappropriate for a letter to a friend?",
+          "options": ["It is perfect for an informal letter.", "It is too formal and business-like, sounding impersonal and demanding.", "It is too casual.", "It is grammatically incorrect."],
+          "correct_answer": "It is too formal and business-like, sounding impersonal and demanding.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 121,
+            "question": "Why is 'Show, Don't Tell' a useful principle when describing feelings in a letter? (e.g., instead of 'I was sad', describe the feeling)",
+            "options": ["It's not a useful principle.", "Describing actions and physical sensations (e.g., 'I couldn't stop crying') creates a more powerful and relatable emotional picture.", "Telling is always better than showing.", "This principle only applies to fiction writing."],
+            "correct_answer": "Describing actions and physical sensations (e.g., 'I couldn't stop crying') creates a more powerful and relatable emotional picture.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 122,
+            "question": "How can a letter serve as a tool for conflict resolution between friends?",
+            "options": ["By escalating the conflict with angry words.", "It allows each person to state their feelings carefully without interruption, which can lead to better understanding.", "It's a poor tool for conflict resolution.", "By avoiding the issue and talking about the weather."],
+            "correct_answer": "It allows each person to state their feelings carefully without interruption, which can lead to better understanding.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 123,
+            "question": "What is the key challenge in conveying sarcasm or irony in a written letter, and how can it be overcome?",
+            "options": ["There is no challenge.", "The absence of vocal tone can lead to misunderstanding; it can be overcome by an obvious exaggeration or a follow-up clarification.", "Sarcasm should never be used in letters.", "The challenge is that it makes the letter too long."],
+            "correct_answer": "The absence of vocal tone can lead to misunderstanding; it can be overcome by an obvious exaggeration or a follow-up clarification.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 124,
+            "question": "When a friend has shared a big secret with you in a letter, what is the best way to acknowledge it in your reply?",
+            "options": ["Ignore it completely.", "Acknowledge the trust they have placed in you and reassure them of the confidentiality.", "Share their secret with another friend.", "Make fun of the secret."],
+            "correct_answer": "Acknowledge the trust they have placed in you and reassure them of the confidentiality.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 125,
+            "question": "How does the pacing of a narrative within a letter affect the reader's engagement?",
+            "options": ["Pacing has no effect.", "Varying sentence length and detail can build suspense or move quickly through less important parts, keeping the reader interested.", "The pace should always be as fast as possible.", "The pace should always be very slow."],
+            "correct_answer": "Varying sentence length and detail can build suspense or move quickly through less important parts, keeping the reader interested.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 126,
+            "question": "What does a letter filled with only questions about the recipient's life, with little news from the sender, imply?",
+            "options": ["The sender is very caring and a good listener.", "The sender is secretive or possibly going through a hard time they don't want to discuss.", "Both A and B are possible interpretations.", "The sender is lazy."],
+            "correct_answer": "Both A and B are possible interpretations.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 127,
+            "question": "What is the difference between reminiscing and living in the past within a letter?",
+            "options": ["There is no difference.", "Reminiscing is a warm, shared reflection, while 'living in the past' might suggest an unhealthy inability to move forward.", "Reminiscing is negative, living in the past is positive.", "Friends enjoy it when the letter is only about the past."],
+            "correct_answer": "Reminiscing is a warm, shared reflection, while 'living in the past' might suggest an unhealthy inability to move forward.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 128,
+            "question": "How can including a small, handmade item (like a drawing or a pressed flower) alter the nature of a letter?",
+            "options": ["It makes the letter messy.", "It adds another layer of personalization and care, transforming the letter into a multi-sensory gift.", "It is a childish gesture.", "It has no effect."],
+            "correct_answer": "It adds another layer of personalization and care, transforming the letter into a multi-sensory gift.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 129,
+            "question": "If a letter crosses in the mail with your friend's letter to you, how would you address this in your next letter?",
+            "options": ["Ignore their letter as you have already written one.", "Acknowledge the 'crossed letters' and respond to the points in the letter you have now received.", "Get angry that they wrote at the same time as you.", "Assume they have received your letter and don't write again."],
+            "correct_answer": "Acknowledge the 'crossed letters' and respond to the points in the letter you have now received.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 130,
+            "question": "How can the simple act of choosing to write a letter, instead of texting or emailing, be a message in itself?",
+            "options": ["It means the writer is old-fashioned.", "It communicates that the writer considers the topic or the recipient important enough for the time and effort a letter requires.", "It means the writer does not have a phone or computer.", "It has no intrinsic message."],
+            "correct_answer": "It communicates that the writer considers the topic or the recipient important enough for the time and effort a letter requires.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 131,
+            "question": "In a letter to a friend, how can you express disagreement with their opinion without damaging the friendship?",
+            "options": ["By telling them they are wrong.", "By respectfully acknowledging their viewpoint before presenting your own as an alternative perspective, not as a fact.", "By ending the friendship.", "By secretly disagreeing but pretending to agree in the letter."],
+            "correct_answer": "By respectfully acknowledging their viewpoint before presenting your own as an alternative perspective, not as a fact.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 132,
+            "question": "What is the 'implied contract' of informal letter writing between friends?",
+            "options": ["That you must reply within 24 hours.", "That there is a mutual understanding of trust, confidentiality, and the expectation of a reciprocal response.", "That the letter must be a certain length.", "There is no implied contract."],
+            "correct_answer": "That there is a mutual understanding of trust, confidentiality, and the expectation of a reciprocal response.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 133,
+            "question": "How can you use paragraph breaks to create a dramatic or comedic pause in your storytelling within a letter?",
+            "options": ["You cannot use paragraph breaks for this.", "A short, one-sentence paragraph can create emphasis or a pause before a revelation.", "By making all paragraphs very long.", "By avoiding paragraphs altogether."],
+            "correct_answer": "A short, one-sentence paragraph can create emphasis or a pause before a revelation.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 134,
+            "question": "What role does shared knowledge or 'inside jokes' play in strengthening the bond in a letter?",
+            "options": ["It makes the letter exclusive and reinforces the special, shared world of the friendship.", "It confuses the reader.", "It is a sign of immature writing.", "It should be avoided to ensure clarity."],
+            "correct_answer": "It makes the letter exclusive and reinforces the special, shared world of the friendship.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 135,
+            "question": "How does the permanence of a written letter affect what a person might choose to write?",
+            "options": ["People might be more careful with their words, knowing they can be reread and saved for a long time.", "People are more careless because it's not digital.", "It has no effect on the content.", "Permanence makes people write less honestly."],
+            "correct_answer": "People might be more careful with their words, knowing they can be reread and saved for a long time.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 136,
+            "question": "What is the danger of using a patronizing tone when giving advice in a letter?",
+            "options": ["There is no danger.", "It can make the friend feel small and disrespected, damaging the relationship.", "It helps the friend understand better.", "A patronizing tone is the same as a helpful tone."],
+            "correct_answer": "It can make the friend feel small and disrespected, damaging the relationship.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 137,
+            "question": "How can a letter serve as a 'witness' to a friendship over time?",
+            "options": ["It cannot.", "A collection of letters between two friends creates a tangible archive of their relationship's history and evolution.", "By being shown in a court of law.", "By describing events that never happened."],
+            "correct_answer": "A collection of letters between two friends creates a tangible archive of their relationship's history and evolution.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 138,
+            "question": "When apologizing for a serious mistake in a letter, what is more important than just saying 'I'm sorry'?",
+            "options": ["Blaming someone else.", "Showing you understand why your actions were hurtful and what you will do to avoid it in the future.", "Forgetting the incident ever happened.", "Waiting for them to apologize first."],
+            "correct_answer": "Showing you understand why your actions were hurtful and what you will do to avoid it in the future.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 139,
+            "question": "Analyze the closing 'Yours,'. What does its simplicity and neutrality convey compared to more effusive closings?",
+            "options": ["It conveys great affection.", "It's a modern, understated closing suitable for many levels of friendship, less intimate than 'Love,' but warmer than 'Regards,'.", "It is a very formal closing.", "It signifies the end of a friendship."],
+            "correct_answer": "It's a modern, understated closing suitable for many levels of friendship, less intimate than 'Love,' but warmer than 'Regards,'.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+            "id": 140,
+            "question": "In a world of social media where lives are publicly curated, what unique role can a private letter to a friend play?",
+            "options": ["It has no unique role.", "It can be a space for authenticity, where one can share unfiltered vulnerabilities and truths away from public performance.", "It is less important than a social media post.", "It is a way to practice for social media posts."],
+            "correct_answer": "It can be a space for authenticity, where one can share unfiltered vulnerabilities and truths away from public performance.",
+            "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 141,
+          "question": "How can you effectively balance sharing your own news with showing interest in your friend's life in a single letter?",
+          "options": ["By writing only about yourself.", "By dedicating roughly equal space to your updates and to asking thoughtful questions about them.", "By only asking questions.", "By making your news seem more important than theirs."],
+          "correct_answer": "By dedicating roughly equal space to your updates and to asking thoughtful questions about them.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 142,
+          "question": "What is the rhetorical effect of starting a letter with an apology for a late reply?",
+          "options": ["It shows you don't care about your friend.", "It is a polite acknowledgement that you value the friend's letter and it re-establishes connection before proceeding.", "It is a sign of weakness.", "It's better to not mention the delay."],
+          "correct_answer": "It is a polite acknowledgement that you value the friend's letter and it re-establishes connection before proceeding.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 143,
+          "question": "How can a shared reading experience (discussing a book you both read) be a theme for a letter to a friend?",
+          "options": ["It can't be a theme.", "It allows for a deep conversation, sharing interpretations and connecting on an intellectual and emotional level.", "It is a boring topic for a letter.", "It's better to just discuss movies."],
+          "correct_answer": "It allows for a deep conversation, sharing interpretations and connecting on an intellectual and emotional level.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 144,
+          "question": "When writing about a complex problem, how can you structure your thoughts to be clear to your friend?",
+          "options": ["By writing in one long, confusing sentence.", "By breaking down the problem into smaller parts and explaining each one step-by-step.", "By using very technical jargon.", "By not explaining the problem at all."],
+          "correct_answer": "By breaking down the problem into smaller parts and explaining each one step-by-step.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 145,
+          "question": "How does the lack of non-verbal cues (body language, tone of voice) in a letter create a challenge for the writer?",
+          "options": ["It poses no challenge.", "The writer must use word choice, punctuation, and sentence structure carefully to convey the intended emotion and avoid misinterpretation.", "It makes writing easier.", "Non-verbal cues are not important in communication."],
+          "correct_answer": "The writer must use word choice, punctuation, and sentence structure carefully to convey the intended emotion and avoid misinterpretation.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 146,
+          "question": "What is the difference in purpose between a 'thank you' note and a longer letter that includes thanks?",
+          "options": ["There is no difference.", "A thank you note is solely for expressing gratitude, while a longer letter integrates thanks into a broader, more conversational update.", "A thank you note is more formal.", "A letter cannot contain thanks."],
+          "correct_answer": "A thank you note is solely for expressing gratitude, while a longer letter integrates thanks into a broader, more conversational update.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 147,
+          "question": "How can you use a letter to a friend as a form of self-reflection?",
+          "options": ["You cannot use a letter for self-reflection.", "The act of articulating your thoughts and experiences to someone else can often clarify them for yourself.", "Self-reflection should only be done in a private diary.", "By lying about your feelings."],
+          "correct_answer": "The act of articulating your thoughts and experiences to someone else can often clarify them for yourself.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 148,
+          "question": "How would you write a 'group letter' to a friend from several people?",
+          "options": ["Have each person write a separate letter.", "Have one person write the whole letter.", "Have each person write their own short paragraph or message within the same letter.", "Group letters are not possible."],
+          "correct_answer": "Have each person write their own short paragraph or message within the same letter.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 149,
+          "question": "When describing a person in a letter, what is more effective than just listing physical traits?",
+          "options": ["Describing their actions, personality, and how they make you feel.", "Only listing their height and weight.", "Comparing them to a famous celebrity.", "Just stating their name."],
+          "correct_answer": "Describing their actions, personality, and how they make you feel.",
+          "grammar_type": "Letter to a Friend"
+        },
+        {
+          "id": 150,
+          "question": "Critically evaluate the future of informal letter writing in the digital age.",
+          "options": ["It will completely disappear.", "It will likely become a more niche, cherished practice for those seeking deeper connection beyond instant communication.", "It will become the primary form of communication.", "It will not change at all."],
+          "correct_answer": "It will likely become a more niche, cherished practice for those seeking deeper connection beyond instant communication.",
+          "grammar_type": "Letter to a Friend"
+        }
+      ]
+    }
+  ]
+}
+

@@ -142,13 +142,13 @@ class _LevelsScreenState extends State<LevelsScreen> {
                     ],
                   ),
                 ),
-                
+
                 // Content section
                 Expanded(
                   child: LayoutBuilder(
                     builder: (context, constraints) {
                       bool isDesktop = constraints.maxWidth > 800;
-                      
+
                       if (isDesktop) {
                         // Desktop layout - show cards in rows
                         return _buildDesktopLayout();
@@ -166,7 +166,7 @@ class _LevelsScreenState extends State<LevelsScreen> {
 
   Widget _buildMobileLayout() {
     final levelConfigs = getLevelConfigs();
-    
+
     return ListView.builder(
       padding: const EdgeInsets.all(24.0),
       itemCount: curriculumData.length,
@@ -174,9 +174,9 @@ class _LevelsScreenState extends State<LevelsScreen> {
         String levelKey = curriculumData.keys.elementAt(index);
         Map<String, dynamic> level = curriculumData[levelKey];
         int moduleCount = (level['modules'] as Map<String, dynamic>).length;
-        
+
         final config = levelConfigs[index % levelConfigs.length];
-        
+
         return _buildLevelCard(
           level: level,
           levelKey: levelKey,
@@ -193,7 +193,7 @@ class _LevelsScreenState extends State<LevelsScreen> {
   Widget _buildDesktopLayout() {
     final levelConfigs = getLevelConfigs();
     final levels = curriculumData.entries.toList();
-    
+
     return SingleChildScrollView(
       padding: const EdgeInsets.all(32.0),
       child: Column(
@@ -213,9 +213,10 @@ class _LevelsScreenState extends State<LevelsScreen> {
                           final entry = levels[j];
                           final level = entry.value;
                           final levelKey = entry.key;
-                          int moduleCount = (level['modules'] as Map<String, dynamic>).length;
+                          int moduleCount =
+                              (level['modules'] as Map<String, dynamic>).length;
                           final config = levelConfigs[j % levelConfigs.length];
-                          
+
                           return _buildLevelCard(
                             level: level,
                             levelKey: levelKey,
@@ -254,17 +255,15 @@ class _LevelsScreenState extends State<LevelsScreen> {
         elevation: 0,
         shape: RoundedRectangleBorder(
           borderRadius: BorderRadius.circular(16),
-          side: BorderSide(
-            color: borderColor.withOpacity(0.3),
-            width: 1.5,
-          ),
+          side: BorderSide(color: borderColor.withOpacity(0.3), width: 1.5),
         ),
         child: InkWell(
           borderRadius: BorderRadius.circular(16),
           onTap: () => Navigator.push(
             context,
             MaterialPageRoute(
-              builder: (_) => ModulesScreen(levelKey: levelKey, levelData: level),
+              builder: (_) =>
+                  ModulesScreen(levelKey: levelKey, levelData: level),
             ),
           ),
           child: Container(
@@ -274,10 +273,7 @@ class _LevelsScreenState extends State<LevelsScreen> {
               gradient: LinearGradient(
                 begin: Alignment.topLeft,
                 end: Alignment.bottomRight,
-                colors: [
-                  Colors.white,
-                  color.withOpacity(0.05),
-                ],
+                colors: [Colors.white, color.withOpacity(0.05)],
               ),
             ),
             child: Column(
@@ -340,17 +336,13 @@ class _LevelsScreenState extends State<LevelsScreen> {
                         color: color.withOpacity(0.1),
                         borderRadius: BorderRadius.circular(8),
                       ),
-                      child: Icon(
-                        Icons.arrow_forward,
-                        color: color,
-                        size: 16,
-                      ),
+                      child: Icon(Icons.arrow_forward, color: color, size: 16),
                     ),
                   ],
                 ),
-                
+
                 const SizedBox(height: 16),
-                
+
                 // Description
                 Text(
                   level['focus'] ?? 'Level description',
@@ -362,9 +354,9 @@ class _LevelsScreenState extends State<LevelsScreen> {
                   maxLines: isDesktop ? 3 : 2,
                   overflow: TextOverflow.ellipsis,
                 ),
-                
+
                 const SizedBox(height: 16),
-                
+
                 // Progress indicator (placeholder)
                 Container(
                   height: 4,
@@ -373,7 +365,8 @@ class _LevelsScreenState extends State<LevelsScreen> {
                     borderRadius: BorderRadius.circular(2),
                   ),
                   child: FractionallySizedBox(
-                    widthFactor: 0.6, // You can replace this with actual progress
+                    widthFactor:
+                        0.6, // You can replace this with actual progress
                     alignment: Alignment.centerLeft,
                     child: Container(
                       decoration: BoxDecoration(
@@ -391,6 +384,7 @@ class _LevelsScreenState extends State<LevelsScreen> {
     );
   }
 }
+
 class ModulesScreen extends StatelessWidget {
   final String levelKey;
   final Map<String, dynamic> levelData;
@@ -1703,15 +1697,24 @@ class LessonQuiz extends StatefulWidget {
 }
 
 class _LessonQuizState extends State<LessonQuiz> {
-  List<Map<String, dynamic>> questions = [];
+  Map<String, List<Map<String, dynamic>>> questionsByLevel = {
+    'Easy': [],
+    'Medium': [],
+    'Hard': [],
+  };
+
   List<Map<String, dynamic>> selectedQuestions = [];
+  List<String?> userAnswers = [];
 
   int currentQuestionIndex = 0;
   int score = 0;
   bool isQuizCompleted = false;
   bool isLoading = true;
   String? errorMessage;
-  int questionsToSelect = 10;
+  String? selectedOption;
+
+  // Question distribution
+  final Map<String, int> questionCounts = {'Easy': 4, 'Medium': 4, 'Hard': 2};
 
   @override
   void initState() {
@@ -1727,33 +1730,99 @@ class _LessonQuizState extends State<LessonQuiz> {
       });
 
       final String jsonString = await rootBundle.loadString(widget.quizPath);
-      final List<dynamic> jsonList = json.decode(jsonString);
+      final Map<String, dynamic> jsonData = json.decode(jsonString);
 
-      questions = List<Map<String, dynamic>>.from(jsonList);
+      // Clear previous data
+      questionsByLevel = {'Easy': [], 'Medium': [], 'Hard': []};
+
+      // Extract questions from the grammar_quiz structure
+      if (jsonData.containsKey('grammar_quiz')) {
+        final List<dynamic> grammarQuiz = jsonData['grammar_quiz'];
+
+        for (var levelData in grammarQuiz) {
+          if (levelData is Map<String, dynamic> &&
+              levelData.containsKey('level') &&
+              levelData.containsKey('questions')) {
+            String level = levelData['level'];
+            List<dynamic> questions = levelData['questions'];
+
+            if (questionsByLevel.containsKey(level)) {
+              for (var question in questions) {
+                if (question is Map<String, dynamic>) {
+                  // Normalize the question format
+                  Map<String, dynamic> normalizedQuestion = {
+                    'id': question['id'],
+                    'question': question['question'],
+                    'options': question['options'],
+                    'correctAnswer':
+                        question['correct_answer'], // Note: using correct_answer from JSON
+                    'level': level,
+                    'grammar_type': question['grammar_type'] ?? '',
+                  };
+                  questionsByLevel[level]!.add(normalizedQuestion);
+                }
+              }
+            }
+          }
+        }
+      }
+
+      // Validate we have enough questions
+      for (String level in questionCounts.keys) {
+        int available = questionsByLevel[level]!.length;
+        int required = questionCounts[level]!;
+        if (available < required) {
+          throw Exception(
+            'Not enough $level questions. Required: $required, Available: $available',
+          );
+        }
+      }
+
       _selectRandomQuestions();
-
       setState(() => isLoading = false);
     } catch (e) {
       print("Error loading questions: $e");
       setState(() {
         isLoading = false;
-        errorMessage = "Failed to load quiz questions.";
+        errorMessage = "Failed to load quiz questions: ${e.toString()}";
       });
     }
   }
 
   void _selectRandomQuestions() {
-    if (questions.isEmpty) return;
-    final actualToSelect = min(questionsToSelect, questions.length);
+    selectedQuestions.clear();
     final rng = Random(DateTime.now().microsecondsSinceEpoch);
-    final shuffled = List<Map<String, dynamic>>.from(questions)..shuffle(rng);
-    selectedQuestions = shuffled.take(actualToSelect).toList();
+
+    // Select questions from each level in order: Easy -> Medium -> Hard
+    List<String> levelOrder = ['Easy', 'Medium', 'Hard'];
+
+    for (String level in levelOrder) {
+      List<Map<String, dynamic>> levelQuestions = List.from(
+        questionsByLevel[level]!,
+      );
+      levelQuestions.shuffle(rng);
+
+      int count = questionCounts[level]!;
+      selectedQuestions.addAll(levelQuestions.take(count));
+    }
+
+    // Do NOT shuffle the final question order - keep Easy -> Medium -> Hard sequence
+
+    // Initialize user answers list
+    userAnswers = List.filled(selectedQuestions.length, null);
   }
 
   void handleAnswerSelected(String selectedAnswer) {
-    final correct = selectedQuestions[currentQuestionIndex]['correctAnswer'];
-    if (selectedAnswer == correct) score++;
+    // Store user's answer
+    userAnswers[currentQuestionIndex] = selectedAnswer;
 
+    // Check if answer is correct
+    final correct = selectedQuestions[currentQuestionIndex]['correctAnswer'];
+    if (selectedAnswer == correct) {
+      score++;
+    }
+
+    // Move to next question or complete quiz
     if (currentQuestionIndex < selectedQuestions.length - 1) {
       setState(() => currentQuestionIndex++);
     } else {
@@ -1765,11 +1834,21 @@ class _LessonQuizState extends State<LessonQuiz> {
     Navigator.pop(context, score);
   }
 
+  void _restartQuiz() {
+    setState(() {
+      currentQuestionIndex = 0;
+      score = 0;
+      isQuizCompleted = false;
+    });
+    _selectRandomQuestions();
+  }
+
   @override
   Widget build(BuildContext context) {
     if (isLoading) return _buildLoadingScreen();
-    if (errorMessage != null || selectedQuestions.isEmpty)
+    if (errorMessage != null || selectedQuestions.isEmpty) {
       return _buildErrorScreen();
+    }
     if (isQuizCompleted) return _buildResultScreen();
 
     final current = selectedQuestions[currentQuestionIndex];
@@ -1781,25 +1860,47 @@ class _LessonQuizState extends State<LessonQuiz> {
           style: const TextStyle(color: Colors.white),
         ),
         backgroundColor: const Color(0xFF8A2BE2),
-        actions: [
-          Padding(
-            padding: const EdgeInsets.only(right: 16),
-            child: Center(
-              child: Text(
-                "Score: $score",
-                style: const TextStyle(color: Colors.white),
-              ),
-            ),
-          ),
-        ],
       ),
       body: Column(
         children: [
+          // Progress indicator
           LinearProgressIndicator(
             value: (currentQuestionIndex + 1) / selectedQuestions.length,
             backgroundColor: Colors.grey[300],
             valueColor: const AlwaysStoppedAnimation<Color>(Color(0xFF8A2BE2)),
           ),
+
+          // Level indicator
+          Container(
+            width: double.infinity,
+            padding: const EdgeInsets.symmetric(horizontal: 16, vertical: 8),
+            color: _getLevelColor(current['level']).withOpacity(0.1),
+            child: Row(
+              children: [
+                Icon(
+                  _getLevelIcon(current['level']),
+                  color: _getLevelColor(current['level']),
+                  size: 20,
+                ),
+                const SizedBox(width: 8),
+                Text(
+                  "${current['level']} Level",
+                  style: TextStyle(
+                    color: _getLevelColor(current['level']),
+                    fontWeight: FontWeight.bold,
+                  ),
+                ),
+                const Spacer(),
+                if (current['grammar_type'] != null &&
+                    current['grammar_type'].isNotEmpty)
+                  Text(
+                    current['grammar_type'],
+                    style: TextStyle(color: Colors.grey[600], fontSize: 12),
+                  ),
+              ],
+            ),
+          ),
+
           Expanded(
             child: Padding(
               padding: const EdgeInsets.all(16),
@@ -1814,22 +1915,96 @@ class _LessonQuizState extends State<LessonQuiz> {
                     crossAxisAlignment: CrossAxisAlignment.start,
                     children: [
                       Text(
-                        current['question'],
+                        current['question'] ?? 'Question not available',
                         style: const TextStyle(
-                          fontSize: 20,
+                          fontSize: 18,
                           fontWeight: FontWeight.bold,
                         ),
                       ),
                       const SizedBox(height: 20),
-                      ...(current['options'] as List<dynamic>).map<Widget>((
-                        option,
-                      ) {
-                        return ListTile(
-                          title: Text(option),
-                          leading: const Icon(Icons.circle_outlined),
-                          onTap: () => handleAnswerSelected(option),
-                        );
-                      }).toList(),
+                      Expanded(
+                        child: ListView.builder(
+                          itemCount:
+                              (current['options'] as List<dynamic>?)?.length ??
+                              0,
+                          itemBuilder: (context, index) {
+                            final options = current['options'] as List<dynamic>;
+                            final option = options[index].toString();
+
+                            final isSelected = selectedOption == option;
+                            return Container(
+                              margin: const EdgeInsets.only(bottom: 12),
+                              child: Card(
+                                elevation: 2,
+                                color: isSelected
+                                    ? const Color(0xFF8A2BE2).withOpacity(0.2)
+                                    : Colors.white,
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(10),
+                                  side: isSelected
+                                      ? const BorderSide(
+                                          color: Color(0xFF8A2BE2),
+                                          width: 2,
+                                        )
+                                      : BorderSide.none,
+                                ),
+                                child: InkWell(
+                                  borderRadius: BorderRadius.circular(10),
+                                  onTap: () => handleAnswerSelected(option),
+                                  child: Padding(
+                                    padding: const EdgeInsets.all(16),
+                                    child: Row(
+                                      children: [
+                                        Container(
+                                          width: 32,
+                                          height: 32,
+                                          decoration: BoxDecoration(
+                                            shape: BoxShape.circle,
+                                            color: isSelected
+                                                ? const Color(0xFF8A2BE2)
+                                                : Colors.transparent,
+                                            border: Border.all(
+                                              color: const Color(0xFF8A2BE2),
+                                              width: 2,
+                                            ),
+                                          ),
+                                          child: Center(
+                                            child: Text(
+                                              String.fromCharCode(65 + index),
+                                              style: TextStyle(
+                                                color: isSelected
+                                                    ? Colors.white
+                                                    : const Color(0xFF8A2BE2),
+                                                fontWeight: FontWeight.bold,
+                                                fontSize: 16,
+                                              ),
+                                            ),
+                                          ),
+                                        ),
+                                        const SizedBox(width: 16),
+                                        Expanded(
+                                          child: Text(
+                                            option,
+                                            style: TextStyle(
+                                              fontSize: 16,
+                                              fontWeight: isSelected
+                                                  ? FontWeight.bold
+                                                  : FontWeight.normal,
+                                              color: isSelected
+                                                  ? const Color(0xFF8A2BE2)
+                                                  : Colors.black,
+                                            ),
+                                          ),
+                                        ),
+                                      ],
+                                    ),
+                                  ),
+                                ),
+                              ),
+                            );
+                          },
+                        ),
+                      ),
                     ],
                   ),
                 ),
@@ -1841,102 +2016,449 @@ class _LessonQuizState extends State<LessonQuiz> {
     );
   }
 
+  Color _getLevelColor(String level) {
+    switch (level) {
+      case 'Easy':
+        return Colors.green;
+      case 'Medium':
+        return Colors.orange;
+      case 'Hard':
+        return Colors.red;
+      default:
+        return Colors.grey;
+    }
+  }
+
+  IconData _getLevelIcon(String level) {
+    switch (level) {
+      case 'Easy':
+        return Icons.sentiment_satisfied;
+      case 'Medium':
+        return Icons.sentiment_neutral;
+      case 'Hard':
+        return Icons.sentiment_very_dissatisfied;
+      default:
+        return Icons.help;
+    }
+  }
+
   Widget _buildResultScreen() {
     final percentage = (score / selectedQuestions.length) * 100;
     String feedback;
     Color color;
 
     if (percentage >= 90) {
-      feedback = "Excellent! 🌟";
+      feedback = "Excellent Work!";
       color = Colors.green;
     } else if (percentage >= 70) {
-      feedback = "Good job! 👍";
+      feedback = "Good Job!";
       color = Colors.blue;
     } else if (percentage >= 50) {
-      feedback = "Not bad! 📚";
+      feedback = "Keep Practicing!";
       color = Colors.orange;
     } else {
-      feedback = "Keep trying! 💪";
+      feedback = "Need More Practice!";
       color = Colors.red;
     }
 
     return Scaffold(
       appBar: AppBar(
-        title: const Text("Quiz Result", style: TextStyle(color: Colors.white)),
-        backgroundColor: const Color(0xFF8A2BE2),
-      ),
-      body: Center(
-        child: Padding(
-          padding: const EdgeInsets.all(20),
-          child: Column(
-            mainAxisAlignment: MainAxisAlignment.center,
-            children: [
-              Text(
-                feedback,
-                style: TextStyle(
-                  fontSize: 28,
-                  fontWeight: FontWeight.bold,
-                  color: color,
-                ),
-              ),
-              const SizedBox(height: 20),
-              Text(
-                "You scored $score / ${selectedQuestions.length}",
-                style: const TextStyle(
-                  fontSize: 24,
-                  fontWeight: FontWeight.bold,
-                ),
-              ),
-              const SizedBox(height: 10),
-              Text(
-                "Percentage: ${percentage.toStringAsFixed(1)}%",
-                style: const TextStyle(fontSize: 18, color: Colors.grey),
-              ),
-              const SizedBox(height: 40),
-              ElevatedButton(
-                onPressed: _submitScoreAndExit,
-                style: ElevatedButton.styleFrom(
-                  backgroundColor: const Color(0xFF8A2BE2),
-                  padding: const EdgeInsets.symmetric(
-                    horizontal: 40,
-                    vertical: 15,
-                  ),
-                  shape: RoundedRectangleBorder(
-                    borderRadius: BorderRadius.circular(12),
-                  ),
-                ),
-                child: const Text(
-                  "Back to Lesson",
-                  style: TextStyle(color: Colors.white),
-                ),
-              ),
-            ],
-          ),
+        title: const Text(
+          "Quiz Results",
+          style: TextStyle(color: Colors.white),
         ),
+        backgroundColor: const Color(0xFF8A2BE2),
+        iconTheme: const IconThemeData(color: Colors.white),
+      ),
+      body: LayoutBuilder(
+        builder: (context, constraints) {
+          final isSmallScreen = constraints.maxWidth < 600;
+          final isVerySmallScreen = constraints.maxWidth < 400;
+
+          return SafeArea(
+            child: SingleChildScrollView(
+              padding: EdgeInsets.all(isVerySmallScreen ? 16 : 20),
+              child: ConstrainedBox(
+                constraints: BoxConstraints(
+                  minHeight:
+                      constraints.maxHeight -
+                      (MediaQuery.of(context).padding.top +
+                          MediaQuery.of(context).padding.bottom +
+                          kToolbarHeight),
+                ),
+                child: Column(
+                  mainAxisAlignment: MainAxisAlignment.center,
+                  children: [
+                    // Overall Result Card
+                    Container(
+                      width: double.infinity,
+                      margin: EdgeInsets.symmetric(
+                        horizontal: isVerySmallScreen ? 0 : 8,
+                      ),
+                      padding: EdgeInsets.all(isVerySmallScreen ? 20 : 32),
+                      decoration: BoxDecoration(
+                        gradient: LinearGradient(
+                          colors: [
+                            color.withOpacity(0.1),
+                            color.withOpacity(0.05),
+                          ],
+                          begin: Alignment.topLeft,
+                          end: Alignment.bottomRight,
+                        ),
+                        borderRadius: BorderRadius.circular(20),
+                        border: Border.all(color: color.withOpacity(0.3)),
+                      ),
+                      child: Column(
+                        children: [
+                          // Icon
+                          // Icon(
+                          //   icon, // fallback icon
+                          //   size:
+                          //       isVerySmallScreen ? 80 : (isSmallScreen ? 90 : 100),
+                          //   color: color,
+                          // ),
+                          // SizedBox(height: isVerySmallScreen ? 8 : 12),
+
+                          // Feedback Text
+                          Text(
+                            feedback,
+                            style: TextStyle(
+                              fontSize: isVerySmallScreen
+                                  ? 24
+                                  : (isSmallScreen ? 28 : 32),
+                              fontWeight: FontWeight.bold,
+                              color: color,
+                            ),
+                            textAlign: TextAlign.center,
+                          ),
+                          SizedBox(height: isVerySmallScreen ? 16 : 24),
+
+                          // Score Display - Responsive Layout
+                          if (isVerySmallScreen) ...[
+                            Column(
+                              children: [
+                                Text(
+                                  "You scored",
+                                  style: TextStyle(
+                                    fontSize: 16,
+                                    color: Colors.grey[600],
+                                  ),
+                                ),
+                                const SizedBox(height: 8),
+                                Row(
+                                  mainAxisAlignment: MainAxisAlignment.center,
+                                  children: [
+                                    Text(
+                                      "$score",
+                                      style: const TextStyle(
+                                        fontSize: 40,
+                                        fontWeight: FontWeight.bold,
+                                        color: Color(0xFF8A2BE2),
+                                      ),
+                                    ),
+                                    Text(
+                                      " / ",
+                                      style: TextStyle(
+                                        fontSize: 20,
+                                        color: Colors.grey[600],
+                                      ),
+                                    ),
+                                    Text(
+                                      "${selectedQuestions.length}",
+                                      style: const TextStyle(
+                                        fontSize: 40,
+                                        fontWeight: FontWeight.bold,
+                                        color: Color(0xFF8A2BE2),
+                                      ),
+                                    ),
+                                  ],
+                                ),
+                              ],
+                            ),
+                          ] else ...[
+                            Wrap(
+                              alignment: WrapAlignment.center,
+                              crossAxisAlignment: WrapCrossAlignment.center,
+                              children: [
+                                Text(
+                                  "You scored ",
+                                  style: TextStyle(
+                                    fontSize: isSmallScreen ? 18 : 20,
+                                    color: Colors.grey[600],
+                                  ),
+                                ),
+                                Text(
+                                  "$score",
+                                  style: TextStyle(
+                                    fontSize: isSmallScreen ? 40 : 48,
+                                    fontWeight: FontWeight.bold,
+                                    color: const Color(0xFF8A2BE2),
+                                  ),
+                                ),
+                                Text(
+                                  " out of ",
+                                  style: TextStyle(
+                                    fontSize: isSmallScreen ? 18 : 20,
+                                    color: Colors.grey[600],
+                                  ),
+                                ),
+                                Text(
+                                  "${selectedQuestions.length}",
+                                  style: TextStyle(
+                                    fontSize: isSmallScreen ? 40 : 48,
+                                    fontWeight: FontWeight.bold,
+                                    color: const Color(0xFF8A2BE2),
+                                  ),
+                                ),
+                              ],
+                            ),
+                          ],
+
+                          SizedBox(height: isVerySmallScreen ? 12 : 16),
+
+                          // Percentage Badge
+                          Container(
+                            padding: EdgeInsets.symmetric(
+                              horizontal: isVerySmallScreen ? 16 : 20,
+                              vertical: isVerySmallScreen ? 6 : 8,
+                            ),
+                            decoration: BoxDecoration(
+                              color: color.withOpacity(0.1),
+                              borderRadius: BorderRadius.circular(20),
+                            ),
+                            child: Text(
+                              "${percentage.toStringAsFixed(1)}%",
+                              style: TextStyle(
+                                fontSize: isVerySmallScreen ? 20 : 24,
+                                fontWeight: FontWeight.bold,
+                                color: color,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ),
+
+                    SizedBox(height: isVerySmallScreen ? 32 : 40),
+
+                    // Action Buttons - Responsive Layout
+                    if (isVerySmallScreen) ...[
+                      Column(
+                        children: [
+                          SizedBox(
+                            width: double.infinity,
+                            child: ElevatedButton.icon(
+                              onPressed: _restartQuiz,
+                              icon: const Icon(
+                                Icons.refresh,
+                                color: Colors.white,
+                                size: 20,
+                              ),
+                              label: const Text(
+                                "Try Again",
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 16,
+                                ),
+                              ),
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: Colors.orange,
+                                padding: const EdgeInsets.symmetric(
+                                  vertical: 16,
+                                ),
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(12),
+                                ),
+                                elevation: 3,
+                              ),
+                            ),
+                          ),
+                          const SizedBox(height: 16),
+                          SizedBox(
+                            width: double.infinity,
+                            child: ElevatedButton.icon(
+                              onPressed: _submitScoreAndExit,
+                              icon: const Icon(
+                                Icons.arrow_back,
+                                color: Colors.white,
+                                size: 20,
+                              ),
+                              label: const Text(
+                                "Back to Lesson",
+                                style: TextStyle(
+                                  color: Colors.white,
+                                  fontSize: 16,
+                                ),
+                              ),
+                              style: ElevatedButton.styleFrom(
+                                backgroundColor: const Color(0xFF8A2BE2),
+                                padding: const EdgeInsets.symmetric(
+                                  vertical: 16,
+                                ),
+                                shape: RoundedRectangleBorder(
+                                  borderRadius: BorderRadius.circular(12),
+                                ),
+                                elevation: 3,
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ] else ...[
+                      Row(
+                        mainAxisAlignment: MainAxisAlignment.spaceEvenly,
+                        children: [
+                          Expanded(
+                            child: Padding(
+                              padding: const EdgeInsets.only(right: 8),
+                              child: ElevatedButton.icon(
+                                onPressed: _restartQuiz,
+                                icon: Icon(
+                                  Icons.refresh,
+                                  color: Colors.white,
+                                  size: isSmallScreen ? 20 : 24,
+                                ),
+                                label: Text(
+                                  "Try Again",
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontSize: isSmallScreen ? 14 : 16,
+                                  ),
+                                ),
+                                style: ElevatedButton.styleFrom(
+                                  backgroundColor: Colors.orange,
+                                  padding: EdgeInsets.symmetric(
+                                    horizontal: isSmallScreen ? 16 : 24,
+                                    vertical: isSmallScreen ? 12 : 16,
+                                  ),
+                                  shape: RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(12),
+                                  ),
+                                  elevation: 3,
+                                ),
+                              ),
+                            ),
+                          ),
+                          Expanded(
+                            child: Padding(
+                              padding: const EdgeInsets.only(left: 8),
+                              child: ElevatedButton.icon(
+                                onPressed: _submitScoreAndExit,
+                                icon: Icon(
+                                  Icons.arrow_back,
+                                  color: Colors.white,
+                                  size: isSmallScreen ? 20 : 24,
+                                ),
+                                label: Text(
+                                  "Back to Lesson",
+                                  style: TextStyle(
+                                    color: Colors.white,
+                                    fontSize: isSmallScreen ? 14 : 16,
+                                  ),
+                                ),
+                                style: ElevatedButton.styleFrom(
+                                  backgroundColor: const Color(0xFF8A2BE2),
+                                  padding: EdgeInsets.symmetric(
+                                    horizontal: isSmallScreen ? 16 : 24,
+                                    vertical: isSmallScreen ? 12 : 16,
+                                  ),
+                                  shape: RoundedRectangleBorder(
+                                    borderRadius: BorderRadius.circular(12),
+                                  ),
+                                  elevation: 3,
+                                ),
+                              ),
+                            ),
+                          ),
+                        ],
+                      ),
+                    ],
+                  ],
+                ),
+              ),
+            ),
+          );
+        },
       ),
     );
   }
 
-  Widget _buildLoadingScreen() =>
-      const Scaffold(body: Center(child: CircularProgressIndicator()));
-
-  Widget _buildErrorScreen() => Scaffold(
-    body: Center(
+  Widget _buildLoadingScreen() => Scaffold(
+    appBar: AppBar(
+      title: Text(
+        "Loading ${widget.lessonTitle}",
+        style: const TextStyle(color: Colors.white),
+      ),
+      backgroundColor: const Color(0xFF8A2BE2),
+      iconTheme: const IconThemeData(color: Colors.white),
+    ),
+    body: const Center(
       child: Column(
         mainAxisAlignment: MainAxisAlignment.center,
         children: [
-          const Icon(Icons.error, color: Colors.red, size: 60),
-          const SizedBox(height: 16),
-          Text(
-            errorMessage ?? 'Error loading quiz',
-            style: const TextStyle(fontSize: 16),
+          CircularProgressIndicator(
+            valueColor: AlwaysStoppedAnimation<Color>(Color(0xFF8A2BE2)),
           ),
-          const SizedBox(height: 16),
-          ElevatedButton(
-            onPressed: _loadQuestionsFromJson,
-            child: const Text("Retry"),
-          ),
+          SizedBox(height: 16),
+          Text("Loading quiz questions...", style: TextStyle(fontSize: 16)),
         ],
+      ),
+    ),
+  );
+
+  Widget _buildErrorScreen() => Scaffold(
+    appBar: AppBar(
+      title: const Text("Quiz Error", style: TextStyle(color: Colors.white)),
+      backgroundColor: const Color(0xFF8A2BE2),
+      iconTheme: const IconThemeData(color: Colors.white),
+    ),
+    body: Center(
+      child: Padding(
+        padding: const EdgeInsets.all(20),
+        child: Column(
+          mainAxisAlignment: MainAxisAlignment.center,
+          children: [
+            const Icon(Icons.error_outline, color: Colors.red, size: 80),
+            const SizedBox(height: 20),
+            const Text(
+              "Oops! Something went wrong",
+              style: TextStyle(fontSize: 24, fontWeight: FontWeight.bold),
+            ),
+            const SizedBox(height: 16),
+            Container(
+              padding: const EdgeInsets.all(16),
+              decoration: BoxDecoration(
+                color: Colors.red[50],
+                borderRadius: BorderRadius.circular(8),
+                border: Border.all(color: Colors.red[200]!),
+              ),
+              child: Text(
+                errorMessage ?? 'Error loading quiz',
+                style: TextStyle(fontSize: 14, color: Colors.red[700]),
+                textAlign: TextAlign.center,
+              ),
+            ),
+            const SizedBox(height: 24),
+            ElevatedButton.icon(
+              onPressed: _loadQuestionsFromJson,
+              icon: const Icon(Icons.refresh, color: Colors.white),
+              label: const Text(
+                "Try Again",
+                style: TextStyle(color: Colors.white),
+              ),
+              style: ElevatedButton.styleFrom(
+                backgroundColor: const Color(0xFF8A2BE2),
+                padding: const EdgeInsets.symmetric(
+                  horizontal: 30,
+                  vertical: 15,
+                ),
+                shape: RoundedRectangleBorder(
+                  borderRadius: BorderRadius.circular(12),
+                ),
+              ),
+            ),
+          ],
+        ),
       ),
     ),
   );

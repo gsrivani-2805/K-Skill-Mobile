@@ -5,17 +5,423 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
+          "question": "Which of these is a noun?",
+          "options": ["run", "happy", "book", "quickly"],
+          "correct_answer": "book",
           "grammar_type": "Nouns"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "A noun is a name of a person, place, animal, or ___.",
+          "options": ["action", "thing", "color", "feeling"],
+          "correct_answer": "thing",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 3,
+          "question": "Find the noun in this sentence: The dog is barking.",
+          "options": ["The", "dog", "is", "barking"],
+          "correct_answer": "dog",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 4,
+          "question": "Which word is the name of a place?",
+          "options": ["teacher", "school", "student", "study"],
+          "correct_answer": "school",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 5,
+          "question": "Which word is the name of a person?",
+          "options": ["sing", "boy", "tall", "play"],
+          "correct_answer": "boy",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 6,
+          "question": "Identify the noun: The cat is on the mat.",
+          "options": ["cat", "on", "the", "is"],
+          "correct_answer": "cat",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 7,
+          "question": "What is the plural of 'boy'?",
+          "options": ["boyes", "boys", "boies", "boy's"],
+          "correct_answer": "boys",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 8,
+          "question": "Which of the following is a 'thing'?",
+          "options": ["jump", "chair", "eat", "sad"],
+          "correct_answer": "chair",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 9,
+          "question": "Find the noun: I have a new pen.",
+          "options": ["I", "have", "new", "pen"],
+          "correct_answer": "pen",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 10,
+          "question": "Which word is the name of an animal?",
+          "options": ["tiger", "run", "fast", "jungle"],
+          "correct_answer": "tiger",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 11,
+          "question": "What is the plural of 'girl'?",
+          "options": ["girl's", "girles", "girls", "girlies"],
+          "correct_answer": "girls",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 12,
+          "question": "Select the noun from the list.",
+          "options": ["beautiful", "flower", "smell", "sweet"],
+          "correct_answer": "flower",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 13,
+          "question": "My 'father' is a doctor. What is 'father'?",
+          "options": ["Verb", "Adjective", "Noun", "Adverb"],
+          "correct_answer": "Noun",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 14,
+          "question": "The 'sun' is shining. 'Sun' is a:",
+          "options": ["person", "place", "animal", "thing"],
+          "correct_answer": "thing",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 15,
+          "question": "Which of these is NOT a noun?",
+          "options": ["table", "walk", "house", "water"],
+          "correct_answer": "walk",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 16,
+          "question": "Find the noun: The bird sings a sweet song.",
+          "options": ["sings", "sweet", "bird", "The"],
+          "correct_answer": "bird",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 17,
+          "question": "What is the plural of 'car'?",
+          "options": ["car's", "cares", "cars", "caries"],
+          "correct_answer": "cars",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 18,
+          "question": "Which word is a noun?",
+          "options": ["read", "book", "interesting", "very"],
+          "correct_answer": "book",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 19,
+          "question": "She drinks 'water'. What is 'water'?",
+          "options": ["Person", "Place", "Thing", "Action"],
+          "correct_answer": "Thing",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 20,
+          "question": "Identify the noun: A 'monkey' eats bananas.",
+          "options": ["A", "eats", "bananas", "monkey"],
+          "correct_answer": "monkey",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 21,
+          "question": "What is the plural of 'house'?",
+          "options": ["hice", "houses", "house", "housen"],
+          "correct_answer": "houses",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 22,
+          "question": "Which of these is a place?",
+          "options": ["doctor", "hospital", "patient", "medicine"],
+          "correct_answer": "hospital",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 23,
+          "question": "Find the noun: I see a big 'tree'.",
+          "options": ["see", "big", "tree", "a"],
+          "correct_answer": "tree",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 24,
+          "question": "A 'farmer' works on a farm. 'Farmer' is the name of a:",
+          "options": ["place", "animal", "thing", "person"],
+          "correct_answer": "person",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 25,
+          "question": "Which word is a noun in 'The apple is red'?",
+          "options": ["The", "apple", "is", "red"],
+          "correct_answer": "apple",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 26,
+          "question": "What is the plural of 'box'?",
+          "options": ["boxs", "boxen", "box's", "boxes"],
+          "correct_answer": "boxes",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 27,
+          "question": "Which is a noun?",
+          "options": ["slow", "slowly", "snail", "is"],
+          "correct_answer": "snail",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 28,
+          "question": "The 'baby' is crying. 'Baby' is a:",
+          "options": ["Noun", "Verb", "Adjective", "Pronoun"],
+          "correct_answer": "Noun",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 29,
+          "question": "What is the singular of 'pencils'?",
+          "options": ["pencils", "pencil", "pencile", "pencil's"],
+          "correct_answer": "pencil",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 30,
+          "question": "He kicked the 'ball'. 'Ball' is a name of a:",
+          "options": ["person", "place", "thing", "animal"],
+          "correct_answer": "thing",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 31,
+          "question": "Which word is NOT a noun?",
+          "options": ["city", "man", "sleep", "lion"],
+          "correct_answer": "sleep",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 32,
+          "question": "My 'sister' is a student. 'Sister' is a:",
+          "options": ["place", "person", "thing", "animal"],
+          "correct_answer": "person",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 33,
+          "question": "What is the plural of 'bus'?",
+          "options": ["buss", "buses", "bus's", "busses"],
+          "correct_answer": "buses",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 34,
+          "question": "I love my 'country'. 'Country' is a:",
+          "options": ["person", "place", "thing", "idea"],
+          "correct_answer": "place",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 35,
+          "question": "Find the noun: The 'star' shines brightly.",
+          "options": ["shines", "brightly", "The", "star"],
+          "correct_answer": "star",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 36,
+          "question": "Which of these is an animal?",
+          "options": ["chair", "park", "goat", "girl"],
+          "correct_answer": "goat",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 37,
+          "question": "What is the plural of 'egg'?",
+          "options": ["eggen", "eggs", "egges", "egg's"],
+          "correct_answer": "eggs",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 38,
+          "question": "Select the noun: He has a 'bicycle'.",
+          "options": ["He", "has", "a", "bicycle"],
+          "correct_answer": "bicycle",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 39,
+          "question": "The 'moon' is bright tonight. 'Moon' is a:",
+          "options": ["person", "place", "thing", "animal"],
+          "correct_answer": "thing",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 40,
+          "question": "What is the singular of 'dogs'?",
+          "options": ["doge", "dog's", "dogs", "dog"],
+          "correct_answer": "dog",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 41,
+          "question": "Identify the noun: I read a 'story'.",
+          "options": ["I", "read", "a", "story"],
+          "correct_answer": "story",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 42,
+          "question": "Which word is a person?",
+          "options": ["garden", "gardener", "gardening", "green"],
+          "correct_answer": "gardener",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 43,
+          "question": "What is the plural of 'watch'?",
+          "options": ["watchs", "watches", "watch's", "watchies"],
+          "correct_answer": "watches",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 44,
+          "question": "Find the noun: 'Mumbai' is a big city.",
+          "options": ["is", "a", "big", "Mumbai"],
+          "correct_answer": "Mumbai",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 45,
+          "question": "Which of these is a thing you wear?",
+          "options": ["run", "shirt", "eat", "hot"],
+          "correct_answer": "shirt",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 46,
+          "question": "What is the singular of 'tables'?",
+          "options": ["table", "tabl", "table's", "tabes"],
+          "correct_answer": "table",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 47,
+          "question": "The 'train' is late. 'Train' is a:",
+          "options": ["person", "place", "thing", "animal"],
+          "correct_answer": "thing",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 48,
+          "question": "Select the noun: The 'cow' gives us milk.",
+          "options": ["The", "gives", "us", "cow"],
+          "correct_answer": "cow",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 49,
+          "question": "What is the plural of 'friend'?",
+          "options": ["friendes", "friend's", "friends", "frienden"],
+          "correct_answer": "friends",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 50,
+          "question": "Which one is a noun?",
+          "options": ["play", "player", "playful", "playing"],
+          "correct_answer": "player",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 51,
+          "question": "Identify the noun: The 'lion' is the king of the jungle.",
+          "options": ["The", "is", "king", "of"],
+          "correct_answer": "king",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 52,
+          "question": "The sky is blue. Which word is the noun?",
+          "options": ["The", "sky", "is", "blue"],
+          "correct_answer": "sky",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 53,
+          "question": "What is the plural of 'potato'?",
+          "options": ["potatos", "potatoes", "potato's", "potatoe"],
+          "correct_answer": "potatoes",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 54,
+          "question": "Which word is a person?",
+          "options": ["teach", "teacher", "teaching", "taught"],
+          "correct_answer": "teacher",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 55,
+          "question": "Find the noun: I use a 'computer' for my work.",
+          "options": ["use", "for", "my", "computer"],
+          "correct_answer": "computer",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 56,
+          "question": "Which of these is a place?",
+          "options": ["road", "walk", "slow", "driver"],
+          "correct_answer": "road",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 57,
+          "question": "What is the singular of 'chairs'?",
+          "options": ["chair", "chairen", "chair's", "chaires"],
+          "correct_answer": "chair",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 58,
+          "question": "The 'fish' swims in the water. 'Fish' is a:",
+          "options": ["person", "place", "thing", "animal"],
+          "correct_answer": "animal",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 59,
+          "question": "Identify the noun: My 'mother' cooks delicious food.",
+          "options": ["My", "mother", "cooks", "delicious"],
+          "correct_answer": "mother",
+          "grammar_type": "Nouns"
+        },
+        {
+          "id": 60,
+          "question": "What is the plural of 'teacher'?",
+          "options": ["teacher's", "teachers", "teaches", "teacheren"],
+          "correct_answer": "teachers",
+          "grammar_type": "Nouns"
         }
       ]
     },
@@ -23,18 +429,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 61,
+          "question": "Which of the following is a proper noun?",
+          "options": ["city", "country", "India", "continent"],
+          "correct_answer": "India",
+          "grammar_type": "Types of Noun"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 62,
+          "question": "A 'common noun' is a name for:",
+          "options": ["a specific person", "any person, place, or thing of a class", "a quality", "a group"],
+          "correct_answer": "any person, place, or thing of a class",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 63,
+          "question": "'Honesty' is the best policy. What type of noun is 'honesty'?",
+          "options": ["Proper Noun", "Common Noun", "Collective Noun", "Abstract Noun"],
+          "correct_answer": "Abstract Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 64,
+          "question": "A 'team' of players. 'Team' is a:",
+          "options": ["Proper Noun", "Collective Noun", "Abstract Noun", "Common Noun"],
+          "correct_answer": "Collective Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 65,
+          "question": "Which of these is a countable noun?",
+          "options": ["water", "sugar", "apple", "rice"],
+          "correct_answer": "apple",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 66,
+          "question": "Which of these is an uncountable noun?",
+          "options": ["book", "chair", "milk", "pen"],
+          "correct_answer": "milk",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 67,
+          "question": "Identify the proper noun in the sentence: I met Rohan in Delhi.",
+          "options": ["met", "I", "Rohan", "in"],
+          "correct_answer": "Rohan",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 68,
+          "question": "What is the plural of 'mouse'?",
+          "options": ["mouses", "mice", "mouse", "meece"],
+          "correct_answer": "mice",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 69,
+          "question": "A 'bunch' of keys. What type of noun is 'bunch'?",
+          "options": ["Abstract", "Proper", "Common", "Collective"],
+          "correct_answer": "Collective",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 70,
+          "question": "'Childhood' is a time of joy. 'Childhood' is an example of:",
+          "options": ["Abstract Noun", "Concrete Noun", "Proper Noun", "Collective Noun"],
+          "correct_answer": "Abstract Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 71,
+          "question": "Which sentence has the correct capitalization for a proper noun?",
+          "options": ["I live in a city.", "I live in mumbai.", "I live in Mumbai.", "i live in Mumbai."],
+          "correct_answer": "I live in Mumbai.",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 72,
+          "question": "A noun that you cannot touch is called:",
+          "options": ["A concrete noun", "A proper noun", "An abstract noun", "A common noun"],
+          "correct_answer": "An abstract noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 73,
+          "question": "What is the singular form of 'leaves'?",
+          "options": ["leafe", "leafs", "leaf", "leave"],
+          "correct_answer": "leaf",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 74,
+          "question": "Which is a material noun?",
+          "options": ["love", "gold", "army", "boy"],
+          "correct_answer": "gold",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 75,
+          "question": "'River' is a common noun. Which of these is a proper noun for a river?",
+          "options": ["water", "Ganga", "flow", "boat"],
+          "correct_answer": "Ganga",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 76,
+          "question": "Identify the abstract noun: We must always speak the 'truth'.",
+          "options": ["We", "speak", "truth", "always"],
+          "correct_answer": "truth",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 77,
+          "question": "What is the plural of 'man'?",
+          "options": ["mans", "menes", "men", "man's"],
+          "correct_answer": "men",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 78,
+          "question": "A 'flock' of sheep. 'Flock' is a:",
+          "options": ["Common Noun", "Proper Noun", "Collective Noun", "Abstract Noun"],
+          "correct_answer": "Collective Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 79,
+          "question": "Which is the common noun in: 'The boy threw the ball.'?",
+          "options": ["The", "boy", "threw", "There is no common noun"],
+          "correct_answer": "boy",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 80,
+          "question": "'Air' is an example of an:",
+          "options": ["Countable Noun", "Uncountable Noun", "Proper Noun", "Collective Noun"],
+          "correct_answer": "Uncountable Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 81,
+          "question": "What is the singular of 'women'?",
+          "options": ["womans", "womun", "woman", "wimen"],
+          "correct_answer": "woman",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 82,
+          "question": "'Friendship' is a precious gift. 'Friendship' is:",
+          "options": ["a concrete noun", "an abstract noun", "a collective noun", "a proper noun"],
+          "correct_answer": "an abstract noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 83,
+          "question": "A 'herd' of cattle is grazing. 'Herd' is what type of noun?",
+          "options": ["Material", "Abstract", "Collective", "Proper"],
+          "correct_answer": "Collective",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 84,
+          "question": "Which of these must always begin with a capital letter?",
+          "options": ["Common Noun", "Proper Noun", "Abstract Noun", "Collective Noun"],
+          "correct_answer": "Proper Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 85,
+          "question": "What is the plural of 'child'?",
+          "options": ["childs", "childes", "children", "child's"],
+          "correct_answer": "children",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 86,
+          "question": "A noun that can be seen or touched is a:",
+          "options": ["Abstract Noun", "Concrete Noun", "Proper Noun", "Collective Noun"],
+          "correct_answer": "Concrete Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 87,
+          "question": "The ring is made of 'silver'. 'Silver' is a:",
+          "options": ["Common Noun", "Proper Noun", "Material Noun", "Abstract Noun"],
+          "correct_answer": "Material Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 88,
+          "question": "Which of these is a common noun?",
+          "options": ["Sunday", "January", "Month", "Diwali"],
+          "correct_answer": "Month",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 89,
+          "question": "What is the plural of 'foot'?",
+          "options": ["foots", "feets", "foot", "feet"],
+          "correct_answer": "feet",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 90,
+          "question": "He showed great 'courage'. What type of noun is 'courage'?",
+          "options": ["Concrete", "Collective", "Proper", "Abstract"],
+          "correct_answer": "Abstract",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 91,
+          "question": "An 'army' of soldiers marched past. 'Army' is a:",
+          "options": ["Common noun", "Proper noun", "Collective noun", "Abstract noun"],
+          "correct_answer": "Collective noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 92,
+          "question": "Which is an uncountable noun?",
+          "options": ["coin", "note", "money", "rupee"],
+          "correct_answer": "money",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 93,
+          "question": "What is the singular of 'geese'?",
+          "options": ["goose", "geese", "gouse", "gooses"],
+          "correct_answer": "goose",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 94,
+          "question": "The 'Ganges' is a holy river. 'Ganges' is a:",
+          "options": ["Common Noun", "Proper Noun", "Collective Noun", "Material Noun"],
+          "correct_answer": "Proper Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 95,
+          "question": "Which of the following is an abstract noun?",
+          "options": ["happy", "happiness", "happily", "unhappy"],
+          "correct_answer": "happiness",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 96,
+          "question": "A 'library' of books. 'Library' here refers to a collection, so it is a:",
+          "options": ["Proper Noun", "Abstract Noun", "Material Noun", "Collective Noun"],
+          "correct_answer": "Collective Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 97,
+          "question": "What is the plural of 'fish'?",
+          "options": ["fishes", "fish", "Both are correct", "Neither is correct"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 98,
+          "question": "We get 'wool' from sheep. 'Wool' is a:",
+          "options": ["Material Noun", "Common Noun", "Abstract Noun", "Proper Noun"],
+          "correct_answer": "Material Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 99,
+          "question": "Which noun can be counted?",
+          "options": ["advice", "suggestion", "information", "news"],
+          "correct_answer": "suggestion",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 100,
+          "question": "'Wisdom' is better than strength. 'Wisdom' is:",
+          "options": ["An abstract noun", "A concrete noun", "A proper noun", "A material noun"],
+          "correct_answer": "An abstract noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 101,
+          "question": "What is the plural of 'person'?",
+          "options": ["persons", "people", "Both are correct", "persones"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 102,
+          "question": "A 'pride' of lions. What type of noun is 'pride'?",
+          "options": ["Abstract", "Collective", "Common", "Proper"],
+          "correct_answer": "Collective",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 103,
+          "question": "Which of these is a material noun?",
+          "options": ["ring", "jewellery", "platinum", "shop"],
+          "correct_answer": "platinum",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 104,
+          "question": "I have no 'time' for games. Here, 'time' is:",
+          "options": ["Countable", "Uncountable", "Proper", "Collective"],
+          "correct_answer": "Uncountable",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 105,
+          "question": "What is the plural of 'wife'?",
+          "options": ["wifes", "wives", "wife's", "wive"],
+          "correct_answer": "wives",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 106,
+          "question": "'English' is a proper noun, but 'subject' is a:",
+          "options": ["Proper Noun", "Abstract Noun", "Common Noun", "Collective Noun"],
+          "correct_answer": "Common Noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 107,
+          "question": "The 'police' have been called. Here, 'police' is treated as:",
+          "options": ["Singular", "Plural", "Uncountable", "Proper"],
+          "correct_answer": "Plural",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 108,
+          "question": "Laughter is the best 'medicine'. 'Medicine' is a:",
+          "options": ["Proper noun", "Abstract noun", "Common noun", "Collective noun"],
+          "correct_answer": "Common noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 109,
+          "question": "What is the singular of 'bacteria'?",
+          "options": ["bacterium", "bacterias", "bactery", "bacta"],
+          "correct_answer": "bacterium",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 110,
+          "question": "Which of the following is a concrete noun?",
+          "options": ["love", "hate", "anger", "letter"],
+          "correct_answer": "letter",
+          "grammar_type": "Types of Noun"
         }
       ]
     },
@@ -42,25 +784,217 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 111,
+          "question": "Which of the following is a compound noun?",
+          "options": ["friendship", "happiness", "blackboard", "teacher"],
+          "correct_answer": "blackboard",
+          "grammar_type": "Types of Noun"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 112,
+          "question": "This is my 'mother-in-law's' house. 'Mother-in-law' is a:",
+          "options": ["Closed compound noun", "Open compound noun", "Hyphenated compound noun", "Collective noun"],
+          "correct_answer": "Hyphenated compound noun",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 113,
+          "question": "What is the plural of 'phenomenon'?",
+          "options": ["phenomenons", "phenomenae", "phenomenas", "phenomena"],
+          "correct_answer": "phenomena",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 114,
+          "question": "Choose the sentence with the correct plural possessive noun:",
+          "options": ["The babies toys are on the floor.", "The babie's toys are on the floor.", "The babies's toys are on the floor.", "The babies' toys are on the floor."],
+          "correct_answer": "The babies' toys are on the floor.",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 115,
+          "question": "Which noun can be both countable and uncountable depending on the context?",
+          "options": ["book", "water", "paper", "car"],
+          "correct_answer": "paper",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 116,
+          "question": "What is the feminine gender of 'stallion'?",
+          "options": ["doe", "mare", "vixen", "hen"],
+          "correct_answer": "mare",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 117,
+          "question": "The committee 'is' unanimous in its decision. Here, the collective noun 'committee' is treated as:",
+          "options": ["Singular", "Plural", "Possessive", "Abstract"],
+          "correct_answer": "Singular",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 118,
+          "question": "A lot of 'advice' was given. The noun 'advice' is:",
+          "options": ["Countable singular", "Countable plural", "Uncountable", "Collective"],
+          "correct_answer": "Uncountable",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 119,
+          "question": "What is the correct plural of 'son-in-law'?",
+          "options": ["son-in-laws", "sons-in-law", "sons-in-laws", "son's-in-law"],
+          "correct_answer": "sons-in-law",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 120,
+          "question": "Which word is a gerund (a verb form acting as a noun)?",
+          "options": ["He is swimming.", "Swimming is my favorite hobby.", "Look at the swimming fish.", "He went for a swim."],
+          "correct_answer": "Swimming is my favorite hobby.",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 121,
+          "question": "The nouns 'scissors', 'trousers', and 'spectacles' are always:",
+          "options": ["Singular", "Plural", "Uncountable", "Abstract"],
+          "correct_answer": "Plural",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 122,
+          "question": "What is the plural of 'analysis'?",
+          "options": ["analysises", "analyses", "analysae", "analysis"],
+          "correct_answer": "analyses",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 123,
+          "question": "Choose the correct form: We need to buy some new ____.",
+          "options": ["furnitures", "furniture", "furnituring", "a furniture"],
+          "correct_answer": "furniture",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 124,
+          "question": "Which of these is an 'open' compound noun?",
+          "options": ["football", "ice cream", "mother-in-law", "sunflower"],
+          "correct_answer": "ice cream",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 125,
+          "question": "The noun 'mathematics' is treated as:",
+          "options": ["Singular", "Plural", "Sometimes singular, sometimes plural", "Collective"],
+          "correct_answer": "Singular",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 126,
+          "question": "What is the plural of 'cactus'?",
+          "options": ["cactuses", "cacti", "Both are correct", "cactus"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 127,
+          "question": "What is the abstract noun form of the adjective 'strong'?",
+          "options": ["strongness", "strength", "stronger", "strongly"],
+          "correct_answer": "strength",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 128,
+          "question": "Identify the gerund in: 'I enjoy reading novels.'",
+          "options": ["enjoy", "reading", "novels", "I"],
+          "correct_answer": "reading",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 129,
+          "question": "Choose the correct possessive form: These are the ____ books.",
+          "options": ["childrens'", "children's", "child's", "childrens"],
+          "correct_answer": "children's",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 130,
+          "question": "Which of these nouns is always considered plural?",
+          "options": ["news", "ethics", "goods", "physics"],
+          "correct_answer": "goods",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 131,
+          "question": "What is the plural of 'crisis'?",
+          "options": ["crisises", "crisi", "crises", "crisis's"],
+          "correct_answer": "crises",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 132,
+          "question": "The abstract noun for the verb 'to know' is:",
+          "options": ["known", "knowing", "knowable", "knowledge"],
+          "correct_answer": "knowledge",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 133,
+          "question": "The team, after winning the match, ____ celebrating.",
+          "options": ["is", "are", "was", "has"],
+          "correct_answer": "is",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 134,
+          "question": "What is the plural of 'attorney general'?",
+          "options": ["attorney generals", "attorneys general", "attorneys generals", "attorney general's"],
+          "correct_answer": "attorneys general",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 135,
+          "question": "Which sentence is correct?",
+          "options": ["I have many works to do.", "I have much work to do.", "I have many work to do.", "I have much works to do."],
+          "correct_answer": "I have much work to do.",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 136,
+          "question": "The noun form of 'beautiful' is:",
+          "options": ["beautify", "beauty", "beautifulness", "beautihood"],
+          "correct_answer": "beauty",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 137,
+          "question": "What is the correct possessive form for 'Mr. Das'?",
+          "options": ["Mr. Das's car", "Mr. Das' car", "Both are correct", "Mr. Dases' car"],
+          "correct_answer": "Both are correct",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 138,
+          "question": "Which noun is a 'closed' compound noun?",
+          "options": ["living room", "full moon", "swimming pool", "classroom"],
+          "correct_answer": "classroom",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 139,
+          "question": "What is the plural of 'datum'?",
+          "options": ["datums", "datae", "data", "datum's"],
+          "correct_answer": "data",
+          "grammar_type": "Types of Noun"
+        },
+        {
+          "id": 140,
+          "question": "The noun 'news' is always treated as:",
+          "options": ["Singular", "Plural", "Countable", "Collective"],
+          "correct_answer": "Singular",
+          "grammar_type": "Types of Noun"
         }
       ]
     }
   ]
 }
+

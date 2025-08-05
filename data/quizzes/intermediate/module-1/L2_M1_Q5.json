@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Make this sentence negative: 'He is a doctor.'",
+          "options": ["He not is a doctor.", "He is not a doctor.", "He is a not doctor.", "He does not a doctor."],
+          "correct_answer": "He is not a doctor.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 2,
+          "question": "Make this a question: 'They play football.'",
+          "options": ["They do play football?", "Play they football?", "Do they play football?", "Does they play football?"],
+          "correct_answer": "Do they play football?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 3,
+          "question": "She ______ like milk.",
+          "options": ["do not", "is not", "does not", "not"],
+          "correct_answer": "does not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 4,
+          "question": "______ you tired yesterday?",
+          "options": ["Was", "Is", "Did", "Were"],
+          "correct_answer": "Were",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 5,
+          "question": "Make this sentence negative: 'I went to the market.'",
+          "options": ["I not went to the market.", "I did not went to the market.", "I did not go to the market.", "I was not go to the market."],
+          "correct_answer": "I did not go to the market.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 6,
+          "question": "Make this a question: 'She was happy.'",
+          "options": ["Was she happy?", "Did she happy?", "Is she happy?", "She was happy?"],
+          "correct_answer": "Was she happy?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 7,
+          "question": "They ______ have a car.",
+          "options": ["does not", "are not", "do not", "is not"],
+          "correct_answer": "do not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 8,
+          "question": "______ he like to read books?",
+          "options": ["Do", "Is", "Does", "Are"],
+          "correct_answer": "Does",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 9,
+          "question": "Choose the correct negative sentence.",
+          "options": ["We not are friends.", "We is not friends.", "We are not friends.", "We does not friends."],
+          "correct_answer": "We are not friends.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 10,
+          "question": "Choose the correct question.",
+          "options": ["Where you are going?", "Where are you going?", "Where you is going?", "Where does you go?"],
+          "correct_answer": "Where are you going?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 11,
+          "question": "Make this sentence negative: 'The dog is barking.'",
+          "options": ["The dog is not barking.", "The dog does not barking.", "The dog not is barking.", "The dog did not barking."],
+          "correct_answer": "The dog is not barking.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 12,
+          "question": "Make this a question: 'He saw a lion.'",
+          "options": ["Does he saw a lion?", "Did he see a lion?", "Did he saw a lion?", "Was he see a lion?"],
+          "correct_answer": "Did he see a lion?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 13,
+          "question": "The cat ______ drink milk.",
+          "options": ["do not", "does not", "is not", "are not"],
+          "correct_answer": "does not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 14,
+          "question": "______ I your friend?",
+          "options": ["Is", "Do", "Are", "Am"],
+          "correct_answer": "Am",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 15,
+          "question": "Make this sentence negative: 'They were playing.'",
+          "options": ["They were not playing.", "They did not playing.", "They not were playing.", "They do not playing."],
+          "correct_answer": "They were not playing.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 16,
+          "question": "Make this a question: 'You are a student.'",
+          "options": ["You are a student?", "Do you are a student?", "Are you a student?", "Does you are a student?"],
+          "correct_answer": "Are you a student?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 17,
+          "question": "My father ______ work on Sundays.",
+          "options": ["do not", "is not", "does not", "was not"],
+          "correct_answer": "does not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 18,
+          "question": "______ they come to the party last night?",
+          "options": ["Do", "Are", "Did", "Was"],
+          "correct_answer": "Did",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 19,
+          "question": "Choose the correct negative sentence.",
+          "options": ["He not has a pen.", "He does not has a pen.", "He does not have a pen.", "He is not have a pen."],
+          "correct_answer": "He does not have a pen.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 20,
+          "question": "Choose the correct question.",
+          "options": ["When the school opens?", "When does the school open?", "When is the school open?", "When do the school open?"],
+          "correct_answer": "When does the school open?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 21,
+          "question": "Make this sentence negative: 'We know the answer.'",
+          "options": ["We not know the answer.", "We don't know the answer.", "We doesn't know the answer.", "We are not know the answer."],
+          "correct_answer": "We don't know the answer.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 22,
+          "question": "Make this a question: 'The birds are singing.'",
+          "options": ["The birds are singing?", "Are the birds singing?", "Do the birds singing?", "Does the birds singing?"],
+          "correct_answer": "Are the birds singing?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 23,
+          "question": "She ______ eat junk food.",
+          "options": ["do not", "does not", "is not", "are not"],
+          "correct_answer": "does not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 24,
+          "question": "______ it raining yesterday?",
+          "options": ["Is", "Was", "Did", "Does"],
+          "correct_answer": "Was",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 25,
+          "question": "Make this sentence negative: 'He ate an apple.'",
+          "options": ["He not ate an apple.", "He did not ate an apple.", "He was not eat an apple.", "He did not eat an apple."],
+          "correct_answer": "He did not eat an apple.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 26,
+          "question": "Make this a question: 'It is a sunny day.'",
+          "options": ["Is it a sunny day?", "Does it a sunny day?", "Do it a sunny day?", "It is a sunny day?"],
+          "correct_answer": "Is it a sunny day?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 27,
+          "question": "The children ______ making noise.",
+          "options": ["is not", "am not", "are not", "do not"],
+          "correct_answer": "are not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 28,
+          "question": "______ she write a letter?",
+          "options": ["Do", "Is", "Did", "Was"],
+          "correct_answer": "Did",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 29,
+          "question": "Choose the correct negative sentence.",
+          "options": ["They was not at home.", "They were not at home.", "They did not at home.", "They not were at home."],
+          "correct_answer": "They were not at home.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 30,
+          "question": "Choose the correct question.",
+          "options": ["Why you are sad?", "Why is you sad?", "Why are you sad?", "Why do you sad?"],
+          "correct_answer": "Why are you sad?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 31,
+          "question": "Make this sentence negative: 'You look tired.'",
+          "options": ["You are not look tired.", "You doesn't look tired.", "You don't look tired.", "You not look tired."],
+          "correct_answer": "You don't look tired.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 32,
+          "question": "Make this a question: 'The baby is sleeping.'",
+          "options": ["Does the baby sleeping?", "Is the baby sleeping?", "Do the baby sleeping?", "The baby is sleeping?"],
+          "correct_answer": "Is the baby sleeping?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 33,
+          "question": "It ______ very hot today.",
+          "options": ["does not", "do not", "is not", "are not"],
+          "correct_answer": "is not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 34,
+          "question": "______ your father a teacher?",
+          "options": ["Is", "Are", "Do", "Does"],
+          "correct_answer": "Is",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 35,
+          "question": "Make this sentence negative: 'The shop was open.'",
+          "options": ["The shop did not open.", "The shop was not open.", "The shop not was open.", "The shop does not open."],
+          "correct_answer": "The shop was not open.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 36,
+          "question": "Make this a question: 'She lives in Mumbai.'",
+          "options": ["Does she live in Mumbai?", "Do she live in Mumbai?", "Is she live in Mumbai?", "Does she lives in Mumbai?"],
+          "correct_answer": "Does she live in Mumbai?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 37,
+          "question": "The students ______ ready for the test.",
+          "options": ["is not", "am not", "do not", "are not"],
+          "correct_answer": "are not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 38,
+          "question": "______ he finish his work on time?",
+          "options": ["Did", "Was", "Is", "Do"],
+          "correct_answer": "Did",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 39,
+          "question": "Choose the correct negative sentence.",
+          "options": ["I not have a bicycle.", "I doesn't have a bicycle.", "I don't have a bicycle.", "I am not have a bicycle."],
+          "correct_answer": "I don't have a bicycle.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 40,
+          "question": "Choose the correct question.",
+          "options": ["What did you ate for breakfast?", "What did you eat for breakfast?", "What you did eat for breakfast?", "What you ate for breakfast?"],
+          "correct_answer": "What did you eat for breakfast?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 41,
+          "question": "Make this sentence negative: 'He runs fast.'",
+          "options": ["He is not run fast.", "He does not run fast.", "He do not run fast.", "He not runs fast."],
+          "correct_answer": "He does not run fast.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 42,
+          "question": "Make this a question: 'The dog was barking.'",
+          "options": ["Was the dog barking?", "Did the dog barking?", "Is the dog barking?", "Does the dog barking?"],
+          "correct_answer": "Was the dog barking?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 43,
+          "question": "My sister ______ know how to swim.",
+          "options": ["do not", "does not", "is not", "are not"],
+          "correct_answer": "does not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 44,
+          "question": "______ we meet yesterday?",
+          "options": ["Do", "Are", "Did", "Have"],
+          "correct_answer": "Did",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 45,
+          "question": "Make this sentence negative: 'It is a big house.'",
+          "options": ["It not is a big house.", "It is a not big house.", "It is not a big house.", "It does not a big house."],
+          "correct_answer": "It is not a big house.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 46,
+          "question": "Make this a question: 'They are from Delhi.'",
+          "options": ["Are they from Delhi?", "Do they from Delhi?", "Does they from Delhi?", "They are from Delhi?"],
+          "correct_answer": "Are they from Delhi?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 47,
+          "question": "I ______ ready to go.",
+          "options": ["is not", "am not", "are not", "do not"],
+          "correct_answer": "am not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 48,
+          "question": "______ your friends play cricket?",
+          "options": ["Is", "Are", "Do", "Does"],
+          "correct_answer": "Do",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 49,
+          "question": "Choose the correct negative sentence.",
+          "options": ["She not was there.", "She did not was there.", "She was not there.", "She were not there."],
+          "correct_answer": "She was not there.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 50,
+          "question": "Choose the correct question.",
+          "options": ["Who did break the glass?", "Who breaked the glass?", "Who broke the glass?", "Who does break the glass?"],
+          "correct_answer": "Who broke the glass?",
+          "grammar_type": "Making Questions and Negatives"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Make this sentence negative: 'He has finished his work.'",
+          "options": ["He does not finished his work.", "He did not finished his work.", "He has not finished his work.", "He is not finished his work."],
+          "correct_answer": "He has not finished his work.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 52,
+          "question": "Make this a question: 'She will come tomorrow.'",
+          "options": ["Does she come tomorrow?", "Did she come tomorrow?", "Will she come tomorrow?", "Is she come tomorrow?"],
+          "correct_answer": "Will she come tomorrow?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 53,
+          "question": "They ______ been to Goa.",
+          "options": ["don't", "aren't", "haven't", "weren't"],
+          "correct_answer": "haven't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 54,
+          "question": "______ you ever seen a tiger?",
+          "options": ["Did", "Do", "Have", "Are"],
+          "correct_answer": "Have",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 55,
+          "question": "Make this sentence negative: 'I can swim.'",
+          "options": ["I do not can swim.", "I can not swim.", "I cannot swim.", "I am not swim."],
+          "correct_answer": "I cannot swim.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 56,
+          "question": "Make this a question: 'He should study hard.'",
+          "options": ["Does he should study hard?", "Should he study hard?", "Did he should study hard?", "Is he should study hard?"],
+          "correct_answer": "Should he study hard?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 57,
+          "question": "We ______ be late for the train.",
+          "options": ["mustn't", "don't", "aren't", "haven't"],
+          "correct_answer": "mustn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 58,
+          "question": "______ you help me, please?",
+          "options": ["Do", "Are", "Did", "Can"],
+          "correct_answer": "Can",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 59,
+          "question": "Choose the correct negative sentence.",
+          "options": ["They will not to come.", "They will not coming.", "They will not come.", "They do not will come."],
+          "correct_answer": "They will not come.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 60,
+          "question": "Choose the correct question.",
+          "options": ["Where have you been?", "Where you have been?", "Where did you have been?", "Where you were?"],
+          "correct_answer": "Where have you been?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 61,
+          "question": "Make this sentence negative: 'She was reading a book.'",
+          "options": ["She was not reading a book.", "She did not reading a book.", "She not was reading a book.", "She does not reading a book."],
+          "correct_answer": "She was not reading a book.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 62,
+          "question": "Make this a question: 'They have eaten lunch.'",
+          "options": ["Do they have eaten lunch?", "Did they have eaten lunch?", "Have they eaten lunch?", "Are they have eaten lunch?"],
+          "correct_answer": "Have they eaten lunch?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 63,
+          "question": "You ______ touch that wire.",
+          "options": ["don't", "shouldn't", "haven't", "aren't"],
+          "correct_answer": "shouldn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 64,
+          "question": "______ I borrow your pen?",
+          "options": ["Do", "Am", "May", "Did"],
+          "correct_answer": "May",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 65,
+          "question": "Make this sentence negative: 'He will be waiting for us.'",
+          "options": ["He will be not waiting for us.", "He not will be waiting for us.", "He will not be waiting for us.", "He does not be waiting for us."],
+          "correct_answer": "He will not be waiting for us.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 66,
+          "question": "Make this a question: 'You can speak French.'",
+          "options": ["Do you can speak French?", "Can you speak French?", "Are you can speak French?", "Did you can speak French?"],
+          "correct_answer": "Can you speak French?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 67,
+          "question": "I ______ seen that movie yet.",
+          "options": ["have not", "did not", "do not", "am not"],
+          "correct_answer": "have not",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 68,
+          "question": "______ she been working here for a long time?",
+          "options": ["Does", "Did", "Is", "Has"],
+          "correct_answer": "Has",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 69,
+          "question": "Choose the correct negative sentence.",
+          "options": ["I must not to go.", "I must not go.", "I do not must go.", "I am not must go."],
+          "correct_answer": "I must not go.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 70,
+          "question": "Choose the correct question for the answer 'He is going to the library.'",
+          "options": ["Where is he going?", "Where he is going?", "Where does he going?", "Where did he going?"],
+          "correct_answer": "Where is he going?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 71,
+          "question": "Make this sentence negative: 'They have been playing since morning.'",
+          "options": ["They do not been playing since morning.", "They have not been playing since morning.", "They have been not playing since morning.", "They are not been playing since morning."],
+          "correct_answer": "They have not been playing since morning.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 72,
+          "question": "Make this a question: 'The project will have been completed.'",
+          "options": ["Will the project have been completed?", "Does the project have been completed?", "Did the project have been completed?", "Is the project have been completed?"],
+          "correct_answer": "Will the project have been completed?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 73,
+          "question": "He ______ come with us because he is busy.",
+          "options": ["cannot", "does not", "is not", "has not"],
+          "correct_answer": "cannot",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 74,
+          "question": "______ it been raining all day?",
+          "options": ["Is", "Does", "Has", "Did"],
+          "correct_answer": "Has",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 75,
+          "question": "Make this sentence negative: 'You must make a noise.'",
+          "options": ["You must not make a noise.", "You do not must make a noise.", "You are not must make a noise.", "You must be not make a noise."],
+          "correct_answer": "You must not make a noise.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 76,
+          "question": "Make this a question: 'She had finished her dinner.'",
+          "options": ["Did she had finished her dinner?", "Had she finished her dinner?", "Does she had finished her dinner?", "Was she had finished her dinner?"],
+          "correct_answer": "Had she finished her dinner?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 77,
+          "question": "Why ______ you listening to the teacher?",
+          "options": ["weren't", "didn't", "haven't", "don't"],
+          "correct_answer": "weren't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 78,
+          "question": "How long ______ you been waiting?",
+          "options": ["did", "are", "have", "do"],
+          "correct_answer": "have",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 79,
+          "question": "Choose the correct negative sentence.",
+          "options": ["He hadn't not seen it.", "He had not seen it.", "He did not had seen it.", "He was not seen it."],
+          "correct_answer": "He had not seen it.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 80,
+          "question": "Choose the correct question for the answer 'They were playing chess.'",
+          "options": ["What they were playing?", "What were they playing?", "What did they playing?", "What did they play?"],
+          "correct_answer": "What were they playing?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 81,
+          "question": "Make this sentence negative: 'It is going to rain.'",
+          "options": ["It is not going to rain.", "It does not going to rain.", "It not is going to rain.", "It did not going to rain."],
+          "correct_answer": "It is not going to rain.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 82,
+          "question": "Make this a question: 'He might come to the party.'",
+          "options": ["Does he might come?", "Is he might come?", "Might he come to the party?", "Did he might come?"],
+          "correct_answer": "Might he come to the party?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 83,
+          "question": "I ______ working on this project all week.",
+          "options": ["am not", "don't", "wasn't", "haven't been"],
+          "correct_answer": "haven't been",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 84,
+          "question": "______ the children been sleeping for a long time?",
+          "options": ["Are", "Did", "Have", "Do"],
+          "correct_answer": "Have",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 85,
+          "question": "Make this sentence negative: 'The guests had arrived.'",
+          "options": ["The guests not had arrived.", "The guests did not had arrived.", "The guests had not arrived.", "The guests were not arrived."],
+          "correct_answer": "The guests had not arrived.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 86,
+          "question": "Make this a question: 'You would like some tea.'",
+          "options": ["Do you would like some tea?", "Would you like some tea?", "Are you would like some tea?", "Did you would like some tea?"],
+          "correct_answer": "Would you like some tea?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 87,
+          "question": "What ______ you been doing since morning?",
+          "options": ["did", "are", "have", "do"],
+          "correct_answer": "have",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 88,
+          "question": "Why ______ he agreed to the plan?",
+          "options": ["doesn't", "didn't", "isn't", "hasn't"],
+          "correct_answer": "hasn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 89,
+          "question": "Choose the correct negative sentence.",
+          "options": ["She can't to drive.", "She cannot to drive.", "She cannot drive.", "She does not can drive."],
+          "correct_answer": "She cannot drive.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 90,
+          "question": "Choose the correct question for the answer 'He had been living there for five years.'",
+          "options": ["How long had he been living there?", "How long he had been living there?", "How long was he living there?", "How long did he live there?"],
+          "correct_answer": "How long had he been living there?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 91,
+          "question": "Make this sentence negative: 'He will have reached by now.'",
+          "options": ["He will have not reached by now.", "He not will have reached by now.", "He will not have reached by now.", "He does not have reached by now."],
+          "correct_answer": "He will not have reached by now.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 92,
+          "question": "Make this a question: 'The task was being done.'",
+          "options": ["Did the task being done?", "Was the task being done?", "Is the task being done?", "Does the task being done?"],
+          "correct_answer": "Was the task being done?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 93,
+          "question": "______ you like me to help you?",
+          "options": ["Would", "Did", "Do", "Have"],
+          "correct_answer": "Would",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 94,
+          "question": "I ______ waiting for very long when the bus finally arrived.",
+          "options": ["wasn't", "haven't been", "hadn't been", "didn't"],
+          "correct_answer": "hadn't been",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 95,
+          "question": "Make this sentence negative: 'She could solve the puzzle.'",
+          "options": ["She can't solve the puzzle.", "She couldn't solve the puzzle.", "She didn't could solve the puzzle.", "She wasn't solve the puzzle."],
+          "correct_answer": "She couldn't solve the puzzle.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 96,
+          "question": "Make this a question: 'He has to go to the doctor.'",
+          "options": ["Has he to go to the doctor?", "Does he has to go to the doctor?", "Does he have to go to the doctor?", "Is he have to go to the doctor?"],
+          "correct_answer": "Does he have to go to the doctor?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 97,
+          "question": "Why ______ you tell me earlier?",
+          "options": ["weren't", "haven't", "don't", "didn't"],
+          "correct_answer": "didn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 98,
+          "question": "______ she already left when you called?",
+          "options": ["Did", "Was", "Has", "Had"],
+          "correct_answer": "Had",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 99,
+          "question": "Choose the correct negative sentence.",
+          "options": ["You should not to worry.", "You shouldn't worry.", "You don't should worry.", "You are not should worry."],
+          "correct_answer": "You shouldn't worry.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 100,
+          "question": "Choose the correct question for the answer 'She will have finished her work by 5 PM.'",
+          "options": ["When will she have finished her work?", "When she will have finished her work?", "When does she finish her work?", "When did she finish her work?"],
+          "correct_answer": "When will she have finished her work?",
+          "grammar_type": "Making Questions and Negatives"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Add the correct tag question: 'He's a teacher, ______?'",
+          "options": ["is he", "isn't he", "does he", "doesn't he"],
+          "correct_answer": "isn't he",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 102,
+          "question": "Add the correct tag question: 'You haven't seen this film, ______?'",
+          "options": ["have you", "haven't you", "did you", "didn't you"],
+          "correct_answer": "have you",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 103,
+          "question": "Which is the correct indirect question? 'Where is the station?'",
+          "options": ["He asked where was the station.", "He asked where the station was.", "He asked where is the station.", "He asked where the station is."],
+          "correct_answer": "He asked where the station was.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 104,
+          "question": "He has ______ money, so he can't buy a ticket.",
+          "options": ["no", "not", "any", "none"],
+          "correct_answer": "no",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 105,
+          "question": "I can ______ believe he said that.",
+          "options": ["not", "never", "hardly", "no"],
+          "correct_answer": "hardly",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 106,
+          "question": "______ you like to join us? It would be a great pleasure.",
+          "options": ["Don't", "Aren't", "Wouldn't", "Haven't"],
+          "correct_answer": "Wouldn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 107,
+          "question": "This is the man ______ I was talking about.",
+          "options": ["who", "whom", "which", "what"],
+          "correct_answer": "whom",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 108,
+          "question": "Add the correct tag question: 'Let's go for a walk, ______?'",
+          "options": ["shall we", "will we", "don't we", "aren't we"],
+          "correct_answer": "shall we",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 109,
+          "question": "He has ______ friends in this new city.",
+          "options": ["few", "a few", "little", "a little"],
+          "correct_answer": "few",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 110,
+          "question": "Choose the correct question: 'She is never late.'",
+          "options": ["Is she never late?", "Is she ever late?", "Does she never late?", "Does she ever late?"],
+          "correct_answer": "Is she ever late?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 111,
+          "question": "Change the direct question to an indirect one: 'Did you finish the report?'",
+          "options": ["He asked if I finished the report.", "He asked did I finish the report.", "He asked if I had finished the report.", "He asked that if I finished the report."],
+          "correct_answer": "He asked if I had finished the report.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 112,
+          "question": "Add the correct tag question: 'I am right, ______?'",
+          "options": ["am I not", "amn't I", "aren't I", "isn't I"],
+          "correct_answer": "aren't I",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 113,
+          "question": "He ______ but complain about his problems.",
+          "options": ["does nothing", "do nothing", "is nothing", "has nothing"],
+          "correct_answer": "does nothing",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 114,
+          "question": "______ she know about the surprise?",
+          "options": ["Isn't", "Doesn't", "Hasn't", "Wasn't"],
+          "correct_answer": "Doesn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 115,
+          "question": "The question is ______ we should start the project now or wait.",
+          "options": ["if", "that", "what", "whether"],
+          "correct_answer": "whether",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 116,
+          "question": "Add the correct tag question: 'He went to the store, ______?'",
+          "options": ["did he", "didn't he", "was he", "wasn't he"],
+          "correct_answer": "didn't he",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 117,
+          "question": "He has visited ______ European countries.",
+          "options": ["no", "none", "not", "any"],
+          "correct_answer": "no",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 118,
+          "question": "______ of the students passed the test.",
+          "options": ["No", "None", "Not", "Any"],
+          "correct_answer": "None",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 119,
+          "question": "What are you talking ______?",
+          "options": ["of", "for", "with", "about"],
+          "correct_answer": "about",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 120,
+          "question": "______ to see the manager right now?",
+          "options": ["Isn't it possible", "It isn't possible", "Is it not possible", "Is not it possible"],
+          "correct_answer": "Isn't it possible",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 121,
+          "question": "Add the correct tag question: 'Someone has stolen my wallet, ______?'",
+          "options": ["hasn't it", "hasn't he", "hasn't she", "haven't they"],
+          "correct_answer": "haven't they",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 122,
+          "question": "She ______ goes to the cinema; she prefers watching films at home.",
+          "options": ["never", "seldom", "always", "often"],
+          "correct_answer": "seldom",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 123,
+          "question": "I'd like to know ______.",
+          "options": ["what time is it", "what is the time", "what time it is", "what time does it"],
+          "correct_answer": "what time it is",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 124,
+          "question": "He has ______ experience in this field.",
+          "options": ["little", "a little", "few", "a few"],
+          "correct_answer": "little",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 125,
+          "question": "Add the correct tag question: 'Open the window, ______?'",
+          "options": ["do you", "don't you", "will you", "won't you"],
+          "correct_answer": "will you",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 126,
+          "question": "There is ______ point in arguing with him.",
+          "options": ["not", "any", "no", "none"],
+          "correct_answer": "no",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 127,
+          "question": "Who ______ you talking to when I saw you?",
+          "options": ["was", "did", "were", "had"],
+          "correct_answer": "were",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 128,
+          "question": "______ we tried our best, we couldn't win.",
+          "options": ["Haven't", "Didn't", "Weren't", "Hadn't"],
+          "correct_answer": "Didn't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 129,
+          "question": "Choose the correct indirect question for 'Why did he leave early?'",
+          "options": ["I wonder why did he leave early.", "I wonder why he left early.", "I wonder why he did leave early.", "I wonder why had he left early."],
+          "correct_answer": "I wonder why he left early.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 130,
+          "question": "He had ______ arrived when he was asked to leave again.",
+          "options": ["hardly", "never", "no sooner", "not"],
+          "correct_answer": "hardly",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 131,
+          "question": "Add the correct tag question: 'Nobody called, ______?'",
+          "options": ["did they", "didn't they", "did he", "didn't he"],
+          "correct_answer": "did they",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 132,
+          "question": "There was ______ traffic, so we arrived early.",
+          "options": ["a little", "little", "a few", "few"],
+          "correct_answer": "little",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 133,
+          "question": "What is the subject you are good ______?",
+          "options": ["at", "in", "on", "for"],
+          "correct_answer": "at",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 134,
+          "question": "______ it be true that he has resigned?",
+          "options": ["Can", "Should", "Would", "Must"],
+          "correct_answer": "Can",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 135,
+          "question": "I have ______ idea what you are talking about.",
+          "options": ["not", "any", "no", "none"],
+          "correct_answer": "no",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 136,
+          "question": "Add the correct tag question: 'This is your book, ______?'",
+          "options": ["is this", "isn't this", "is it", "isn't it"],
+          "correct_answer": "isn't it",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 137,
+          "question": "He has ______ to go for the weekend.",
+          "options": ["not", "nowhere", "anywhere", "no where"],
+          "correct_answer": "nowhere",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 138,
+          "question": "Which of these is the most formal negative form?",
+          "options": ["He isn't coming.", "He's not coming.", "He is not coming.", "He ain't coming."],
+          "correct_answer": "He is not coming.",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 139,
+          "question": "Who is this gift ______?",
+          "options": ["to", "by", "for", "with"],
+          "correct_answer": "for",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 140,
+          "question": "______ you prefer tea or coffee?",
+          "options": ["Don't", "Aren't", "Wouldn't", "Shouldn't"],
+          "correct_answer": "Don't",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 141,
+          "question": "Add the correct tag question: 'He hardly ever makes a mistake, ______?'",
+          "options": ["does he", "doesn't he", "is he", "isn't he"],
+          "correct_answer": "does he",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 142,
+          "question": "I would like to know ______.",
+          "options": ["who is that man", "who that man is", "who that man he is", "that who is man"],
+          "correct_answer": "who that man is",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 143,
+          "question": "There is ______ we can do about it now.",
+          "options": ["nothing", "anything", "something", "not"],
+          "correct_answer": "nothing",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 144,
+          "question": "At no time ______ the door be left unlocked.",
+          "options": ["should", "shouldn't", "is", "doesn't"],
+          "correct_answer": "should",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 145,
+          "question": "Which sentence is a negative question used as a suggestion?",
+          "options": ["Didn't you finish your work?", "Why don't we go to the movies?", "Haven't you seen this film?", "Aren't you tired?"],
+          "correct_answer": "Why don't we go to the movies?",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 146,
+          "question": "Add the correct tag question: 'You'd rather stay home, ______?'",
+          "options": ["hadn't you", "did you", "wouldn't you", "didn't you"],
+          "correct_answer": "wouldn't you",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 147,
+          "question": "Not until he apologized ______ calm down.",
+          "options": ["she did", "did she", "she", "that she"],
+          "correct_answer": "did she",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 148,
+          "question": "______ of them knew the answer.",
+          "options": ["No one", "Neither", "None", "Not one"],
+          "correct_answer": "None",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 149,
+          "question": "I wonder if I ______ ask you a personal question.",
+          "options": ["could", "do", "am", "have"],
+          "correct_answer": "could",
+          "grammar_type": "Making Questions and Negatives"
+        },
+        {
+          "id": 150,
+          "question": "Add the correct tag question: 'I don't think he's ready, ______?'",
+          "options": ["do I", "don't I", "is he", "isn't he"],
+          "correct_answer": "is he",
+          "grammar_type": "Making Questions and Negatives"
+        }
+      ]
+    }
+  ]
+}
+

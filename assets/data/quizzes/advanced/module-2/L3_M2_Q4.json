@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main purpose of writing a chapter summary?",
+          "options": ["To make the chapter longer", "To give your opinion about the chapter", "To shorten the main ideas of the chapter into a brief overview", "To copy the most important sentences"],
+          "correct_answer": "To shorten the main ideas of the chapter into a brief overview",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 2,
+          "question": "A good chapter summary should be ______ than the original chapter.",
+          "options": ["much longer", "a little longer", "the same length", "much shorter"],
+          "correct_answer": "much shorter",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 3,
+          "question": "What should you focus on when writing a summary?",
+          "options": ["The main ideas and key points", "Small details and long descriptions", "Your personal feelings about the topic", "The number of pages in the chapter"],
+          "correct_answer": "The main ideas and key points",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 4,
+          "question": "Should you include your own opinion in a chapter summary?",
+          "options": ["Yes, always", "Only if you agree with the author", "No, a summary should be objective", "Yes, it is the most important part"],
+          "correct_answer": "No, a summary should be objective",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 5,
+          "question": "What is the very first step before you can write a summary?",
+          "options": ["Write the conclusion", "Read and understand the chapter carefully", "Check for spelling mistakes", "Think of a title"],
+          "correct_answer": "Read and understand the chapter carefully",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 6,
+          "question": "A summary should be written in...",
+          "options": ["the author's exact words", "your own words", "a different language", "bullet points only"],
+          "correct_answer": "your own words",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 7,
+          "question": "The main idea of a chapter is...",
+          "options": ["the most important point the author is making", "a small detail", "an example used in the chapter", "the title of the book"],
+          "correct_answer": "the most important point the author is making",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 8,
+          "question": "Which of these details should you probably LEAVE OUT of a summary of a story chapter?",
+          "options": ["The main character's name", "The color of the main character's shoes", "The main problem the character faces", "How the problem is solved"],
+          "correct_answer": "The color of the main character's shoes",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 9,
+          "question": "When summarizing a story, the events should be in...",
+          "options": ["a random order", "the order they happened (chronological order)", "reverse order", "alphabetical order"],
+          "correct_answer": "the order they happened (chronological order)",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 10,
+          "question": "The first sentence of your summary should usually include the chapter title and...",
+          "options": ["your opinion", "a funny joke", "the main idea", "a long quote"],
+          "correct_answer": "the main idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 11,
+          "question": "What does 'concise' mean for a summary?",
+          "options": ["It is very long.", "It is short and to the point.", "It is full of details.", "It is confusing."],
+          "correct_answer": "It is short and to the point.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 12,
+          "question": "A summary helps you to ______ the information you have read.",
+          "options": ["forget", "confuse", "remember", "ignore"],
+          "correct_answer": "remember",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 13,
+          "question": "When summarizing a chapter about 'The Solar System', what is a key point to include?",
+          "options": ["The names of all the planets", "The color of Mars", "A story about an astronaut", "Your favorite planet"],
+          "correct_answer": "The names of all the planets",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 14,
+          "question": "Should you add new information that was not in the original chapter?",
+          "options": ["Yes, to make it more interesting", "No, never", "Yes, if you think the author forgot it", "Only if it is a fact"],
+          "correct_answer": "No, never",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 15,
+          "question": "The main character in a chapter is the 'Who'. The main events are the...",
+          "options": ["Where", "When", "Why", "What"],
+          "correct_answer": "What",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 16,
+          "question": "The setting of the chapter is the 'Where'. The time it happens is the...",
+          "options": ["Who", "What", "When", "Why"],
+          "correct_answer": "When",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 17,
+          "question": "A summary is a useful tool for...",
+          "options": ["writing poetry", "studying for an exam", "drawing a picture", "cooking a meal"],
+          "correct_answer": "studying for an exam",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 18,
+          "question": "What does it mean for a summary to be 'accurate'?",
+          "options": ["It is long.", "It has a good title.", "It correctly represents the original chapter's ideas.", "It is written in beautiful handwriting."],
+          "correct_answer": "It correctly represents the original chapter's ideas.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 19,
+          "question": "After writing a summary, what is a good final step?",
+          "options": ["Throw it away", "Compare it with the original chapter for accuracy", "Add your personal opinion", "Make it longer"],
+          "correct_answer": "Compare it with the original chapter for accuracy",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 20,
+          "question": "A summary should answer the reader's basic question:",
+          "options": ["'What was this chapter about?'", "'What is the author's opinion?'", "'What is your opinion?'", "'How long was the chapter?'"],
+          "correct_answer": "'What was this chapter about?'",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 21,
+          "question": "Finding the main idea in each paragraph helps you to...",
+          "options": ["write a better story", "build the overall summary", "check for spelling", "add your opinion"],
+          "correct_answer": "build the overall summary",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 22,
+          "question": "A summary should be 'objective'. This means it should be...",
+          "options": ["based on your feelings", "based on facts from the text", "very long and detailed", "very short and vague"],
+          "correct_answer": "based on facts from the text",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 23,
+          "question": "What is the main problem or conflict in the story chapter?",
+          "options": ["This is a key detail to include.", "This is a minor detail to exclude.", "This should only be in the title.", "This should be ignored."],
+          "correct_answer": "This is a key detail to include.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 24,
+          "question": "A summary gives the reader a quick ______ of the chapter.",
+          "options": ["opinion", "critique", "overview", "test"],
+          "correct_answer": "overview",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 25,
+          "question": "Should you copy sentences directly from the chapter into your summary?",
+          "options": ["Yes, it's the easiest way.", "No, you should use your own words.", "Yes, but only the first sentence.", "Yes, but only the last sentence."],
+          "correct_answer": "No, you should use your own words.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 26,
+          "question": "Identifying key words in a chapter can help you find the...",
+          "options": ["spelling mistakes", "page numbers", "main ideas", "author's address"],
+          "correct_answer": "main ideas",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 27,
+          "question": "Why is it important to understand the chapter before summarizing?",
+          "options": ["So you can copy it correctly.", "So you can accurately identify the most important points.", "It is not important.", "So you can write a longer summary."],
+          "correct_answer": "So you can accurately identify the most important points.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 28,
+          "question": "A summary of a chapter should be written in ______ form.",
+          "options": ["question", "paragraph", "poem", "bullet points only"],
+          "correct_answer": "paragraph",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 29,
+          "question": "The main goal of a summary is to convey the ______ information.",
+          "options": ["least important", "most confusing", "most essential", "most detailed"],
+          "correct_answer": "most essential",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 30,
+          "question": "A summary is like telling a friend about a movie you saw. You would tell them...",
+          "options": ["every single line of dialogue", "the main story", "the price of the ticket", "the color of the seats"],
+          "correct_answer": "the main story",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 31,
+          "question": "Reading the first and last sentences of a paragraph can often help you find its...",
+          "options": ["spelling mistakes", "main idea", "funniest part", "page number"],
+          "correct_answer": "main idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 32,
+          "question": "The title of your summary should be...",
+          "options": ["the same as the chapter title", "related to the main idea", "a question", "very long"],
+          "correct_answer": "related to the main idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 33,
+          "question": "When summarizing, you act like a reporter, giving only the...",
+          "options": ["opinions", "facts", "feelings", "predictions"],
+          "correct_answer": "facts",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 34,
+          "question": "What is the 'gist' of a chapter?",
+          "options": ["The full text", "The main point or idea", "The minor details", "The page number"],
+          "correct_answer": "The main point or idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 35,
+          "question": "A summary should make sense to someone who...",
+          "options": ["has already read the chapter", "has not read the chapter", "wrote the chapter", "will never read the chapter"],
+          "correct_answer": "has not read the chapter",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 36,
+          "question": "What do you do with examples from the text when summarizing?",
+          "options": ["Copy all of them", "Generally leave them out, unless they are key to the main idea", "Make up new examples", "Ignore them completely"],
+          "correct_answer": "Generally leave them out, unless they are key to the main idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 37,
+          "question": "The process of summarizing improves your ______ skills.",
+          "options": ["reading comprehension", "drawing", "singing", "sports"],
+          "correct_answer": "reading comprehension",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 38,
+          "question": "A summary should be 'coherent'. This means...",
+          "options": ["it is very long", "it is confusing", "the ideas flow logically and are easy to understand", "it is written in bullet points"],
+          "correct_answer": "the ideas flow logically and are easy to understand",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 39,
+          "question": "What is the main character's motivation (the 'Why')?",
+          "options": ["This is often a key point to include.", "This should always be excluded.", "This is a minor detail.", "This is only for the introduction."],
+          "correct_answer": "This is often a key point to include.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 40,
+          "question": "A summary is NOT a...",
+          "options": ["brief version", "short overview", "personal review or critique", "concise description"],
+          "correct_answer": "personal review or critique",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 41,
+          "question": "Before writing your final summary, it is helpful to first write a...",
+          "options": ["poem", "story", "draft", "letter"],
+          "correct_answer": "draft",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 42,
+          "question": "The length of a summary should be about ______ of the original chapter.",
+          "options": ["the same length", "double the length", "half the length", "one-quarter to one-third the length"],
+          "correct_answer": "one-quarter to one-third the length",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 43,
+          "question": "Identifying the topic sentence of each paragraph is a good strategy to...",
+          "options": ["find minor details", "find the main ideas", "find spelling mistakes", "find the page number"],
+          "correct_answer": "find the main ideas",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 44,
+          "question": "A good summary is...",
+          "options": ["long, detailed, and subjective", "short, copied, and opinionated", "concise, accurate, and objective", "brief, inaccurate, and personal"],
+          "correct_answer": "concise, accurate, and objective",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 45,
+          "question": "Should you include dialogue or conversations in a summary?",
+          "options": ["Yes, copy it all", "Only the most important parts, and it's better to report it indirectly", "No, never", "Yes, make up new dialogue"],
+          "correct_answer": "Only the most important parts, and it's better to report it indirectly",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 46,
+          "question": "What does it mean to 'get to the heart of the matter' when summarizing?",
+          "options": ["To focus on the most important central idea", "To write about feelings", "To describe the setting", "To copy the middle part of the chapter"],
+          "correct_answer": "To focus on the most important central idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 47,
+          "question": "A summary of a non-fiction chapter should focus on...",
+          "options": ["characters and plot", "facts and main arguments", "your personal story", "the author's feelings"],
+          "correct_answer": "facts and main arguments",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 48,
+          "question": "A summary of a fiction chapter should focus on...",
+          "options": ["scientific data", "historical dates", "characters and main plot events", "the author's biography"],
+          "correct_answer": "characters and main plot events",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 49,
+          "question": "What is the best way to start a summary of a chapter titled 'The Green Planet'?",
+          "options": ["'I think this chapter is about...'", "'The chapter 'The Green Planet' explains that...'", "'Once upon a time...'", "'In conclusion...'"],
+          "correct_answer": "'The chapter 'The Green Planet' explains that...'",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 50,
+          "question": "A key skill in summarizing is being able to tell the difference between...",
+          "options": ["right and wrong", "main ideas and supporting details", "long and short words", "nouns and verbs"],
+          "correct_answer": "main ideas and supporting details",
+          "grammar_type": "Writing Chapter Summaries"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is the primary difference between a summary and a paraphrase?",
+          "options": ["A summary is longer than the original; a paraphrase is shorter.", "A summary shortens the text to its main ideas; a paraphrase is about the same length and rephrases details.", "There is no difference.", "A summary uses quotes, while a paraphrase does not."],
+          "correct_answer": "A summary shortens the text to its main ideas; a paraphrase is about the same length and rephrases details.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 52,
+          "question": "When summarizing, why is it crucial to use your own sentence structure and not just replace keywords?",
+          "options": ["To make the summary longer", "To avoid plagiarism and demonstrate true comprehension", "Because it is an easy shortcut", "To make the summary sound exactly like the original"],
+          "correct_answer": "To avoid plagiarism and demonstrate true comprehension",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 53,
+          "question": "A summary of a chapter that presents an argument should clearly state the author's main claim and...",
+          "options": ["your personal opinion on the claim", "the key reasons or evidence used to support it", "all the minor details", "a counter-argument you invented"],
+          "correct_answer": "the key reasons or evidence used to support it",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 54,
+          "question": "What is the function of transitional words and phrases (e.g., 'however', 'in addition', 'as a result') in a summary?",
+          "options": ["To make the summary more confusing", "To show the logical connections between the main ideas", "To add your own opinion", "They have no function"],
+          "correct_answer": "To show the logical connections between the main ideas",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 55,
+          "question": "What does it mean for a summary to be 'comprehensive'?",
+          "options": ["It is very long.", "It includes all the main points and reflects the scope of the original chapter.", "It includes only the first main point.", "It includes your personal analysis."],
+          "correct_answer": "It includes all the main points and reflects the scope of the original chapter.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 56,
+          "question": "When summarizing a chapter from a history textbook, it is most important to capture the...",
+          "options": ["emotional tone of the events", "names of every person mentioned", "sequence of events and their significance", "exact dates of minor events"],
+          "correct_answer": "sequence of events and their significance",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 57,
+          "question": "What is the danger of focusing too much on an interesting example from the chapter?",
+          "options": ["It can make the summary more engaging.", "It can distort the summary by overemphasizing a supporting detail.", "There is no danger.", "It is the best way to find the main idea."],
+          "correct_answer": "It can distort the summary by overemphasizing a supporting detail.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 58,
+          "question": "A summary should be able to stand alone. This means...",
+          "options": ["it must be written on a separate piece of paper", "it should be understandable without having to read the original text", "it should be very short", "it should only contain one sentence"],
+          "correct_answer": "it should be understandable without having to read the original text",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 59,
+          "question": "The process of highlighting key sentences while reading can be a useful first step for...",
+          "options": ["paraphrasing the entire chapter", "identifying main ideas for a summary", "writing a critique", "finding spelling mistakes"],
+          "correct_answer": "identifying main ideas for a summary",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 60,
+          "question": "How should you handle an author's bias when writing an objective summary?",
+          "options": ["You should adopt the author's bias as your own.", "You should ignore the bias completely.", "You should report the author's biased viewpoint neutrally (e.g., 'The author argues...')", "You should criticize the author's bias in the summary."],
+          "correct_answer": "You should report the author's biased viewpoint neutrally (e.g., 'The author argues...')",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 61,
+          "question": "What is the best way to summarize a conversation or dialogue from a story?",
+          "options": ["Copy the entire dialogue word-for-word.", "Describe the main point or outcome of the conversation in a single sentence.", "Ignore all dialogue.", "Make up a new conversation."],
+          "correct_answer": "Describe the main point or outcome of the conversation in a single sentence.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 62,
+          "question": "In summarizing a scientific chapter, it is important to accurately represent the...",
+          "options": ["author's personal feelings", "historical background of the scientist", "key findings and conclusions", "color of the diagrams"],
+          "correct_answer": "key findings and conclusions",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 63,
+          "question": "A summary should not misrepresent the original text by changing its...",
+          "options": ["length", "words", "emphasis or meaning", "font"],
+          "correct_answer": "emphasis or meaning",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 64,
+          "question": "What is the difference between a summary and a review?",
+          "options": ["A summary reports; a review evaluates and gives an opinion.", "A review reports; a summary gives an opinion.", "They are the same thing.", "A summary is longer than a review."],
+          "correct_answer": "A summary reports; a review evaluates and gives an opinion.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 65,
+          "question": "Why is it important to identify the chapter's structure (e.g., cause-effect, compare-contrast) before summarizing?",
+          "options": ["It is not important.", "It helps you organize your summary in a logical way that reflects the original.", "It allows you to change the structure.", "It helps you find the page numbers."],
+          "correct_answer": "It helps you organize your summary in a logical way that reflects the original.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 66,
+          "question": "The process of combining several main ideas from a chapter into a coherent paragraph is called...",
+          "options": ["analyzing", "synthesizing", "criticizing", "plagiarizing"],
+          "correct_answer": "synthesizing",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 67,
+          "question": "When summarizing, you should be careful with technical jargon. What is the best approach?",
+          "options": ["Use all the jargon without explanation.", "Define the jargon briefly if it is essential to the main idea.", "Replace all jargon with simple words, even if it changes the meaning.", "Ignore any paragraph with jargon."],
+          "correct_answer": "Define the jargon briefly if it is essential to the main idea.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 68,
+          "question": "A summary of a 'process' chapter (e.g., 'How Photosynthesis Works') should focus on...",
+          "options": ["the history of the process", "the key steps in the correct sequence", "your opinion on the process", "the person who discovered the process"],
+          "correct_answer": "the key steps in the correct sequence",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 69,
+          "question": "What is the main purpose of an introductory sentence like 'In Chapter 3, the author explains...'?",
+          "options": ["To make the summary longer.", "To attribute the ideas to the original source.", "To give your opinion.", "To confuse the reader."],
+          "correct_answer": "To attribute the ideas to the original source.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 70,
+          "question": "How does summarizing help improve your writing skills?",
+          "options": ["It teaches you how to copy text.", "It helps you practice being concise and clear.", "It does not help with writing skills.", "It teaches you how to write long sentences."],
+          "correct_answer": "It helps you practice being concise and clear.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 71,
+          "question": "A key step in summarizing is to delete information that is trivial or...",
+          "options": ["important", "redundant", "the main idea", "the conclusion"],
+          "correct_answer": "redundant",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 72,
+          "question": "If a chapter presents a list of examples (e.g., lions, tigers, cats), how can you summarize them?",
+          "options": ["List every single example.", "Use a general term (e.g., 'feline predators').", "Pick only your favorite one.", "Ignore the list completely."],
+          "correct_answer": "Use a general term (e.g., 'feline predators').",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 73,
+          "question": "When summarizing a character's development in a chapter, you should focus on...",
+          "options": ["their physical description", "every line of dialogue they speak", "the key changes in their personality or situation", "the character's name only"],
+          "correct_answer": "the key changes in their personality or situation",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 74,
+          "question": "What is wrong with a summary that is just a collection of disconnected sentences?",
+          "options": ["It is too short.", "It lacks coherence and flow.", "It is too objective.", "Nothing is wrong with it."],
+          "correct_answer": "It lacks coherence and flow.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 75,
+          "question": "A summary written for your personal study notes might be different from a formal summary for a teacher because it can be...",
+          "options": ["less accurate", "more opinionated", "less organized", "more informal, using abbreviations and bullet points"],
+          "correct_answer": "more informal, using abbreviations and bullet points",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 76,
+          "question": "A summary of a chapter with a 'compare and contrast' structure should...",
+          "options": ["only mention the comparisons", "only mention the contrasts", "clearly state the subjects being compared and the main points of similarity and difference", "ignore the structure"],
+          "correct_answer": "clearly state the subjects being compared and the main points of similarity and difference",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 77,
+          "question": "The first draft of your summary might be too long. The next step is to...",
+          "options": ["add more details", "revise it to make it more concise", "submit it as it is", "write a new introduction"],
+          "correct_answer": "revise it to make it more concise",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 78,
+          "question": "A summary of a persuasive chapter should include the author's main argument, but not necessarily...",
+          "options": ["the key evidence", "the emotional appeals used by the author", "the conclusion", "the main topic"],
+          "correct_answer": "the emotional appeals used by the author",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 79,
+          "question": "What is the best way to start a summary of a chapter you disagree with?",
+          "options": ["By stating your disagreement immediately", "By neutrally and accurately reporting the author's main points", "By refusing to summarize it", "By changing the author's points to match your own"],
+          "correct_answer": "By neutrally and accurately reporting the author's main points",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 80,
+          "question": "The verb tense in a summary should be...",
+          "options": ["always past tense", "always future tense", "consistent (usually present tense for literary or academic works)", "a mix of all tenses"],
+          "correct_answer": "consistent (usually present tense for literary or academic works)",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 81,
+          "question": "What is the final checkpoint before finishing your summary?",
+          "options": ["Does it include my personal story?", "Is it longer than the original?", "Does it accurately reflect the original chapter's main ideas in a concise way?", "Does it have a funny title?"],
+          "correct_answer": "Does it accurately reflect the original chapter's main ideas in a concise way?",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 82,
+          "question": "Summarizing a chapter with an 'implicit' main idea is harder because you have to...",
+          "options": ["copy the last sentence", "infer the main idea from the details provided", "guess the main idea", "ignore the main idea"],
+          "correct_answer": "infer the main idea from the details provided",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 83,
+          "question": "Why is it generally not a good idea to include direct quotations in a short summary?",
+          "options": ["Quotations are always wrong.", "They take up space and the goal is to use your own words.", "It is a form of cheating.", "Quotations are too emotional."],
+          "correct_answer": "They take up space and the goal is to use your own words.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 84,
+          "question": "The phrase 'The author concludes that...' would be found in which part of a summary?",
+          "options": ["The beginning", "The middle", "The end", "It would not be in a summary"],
+          "correct_answer": "The end",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 85,
+          "question": "A summary is a form of ______ writing.",
+          "options": ["narrative", "persuasive", "expository", "descriptive"],
+          "correct_answer": "expository",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 86,
+          "question": "A 'skeletal outline' created while reading helps to...",
+          "options": ["form the basic structure of the summary", "write the conclusion first", "check spelling", "add personal opinions"],
+          "correct_answer": "form the basic structure of the summary",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 87,
+          "question": "What is the key to summarizing a chapter with a lot of data and statistics?",
+          "options": ["List every single number.", "Report the main trend or conclusion the data supports.", "Ignore the data completely.", "Create a new chart."],
+          "correct_answer": "Report the main trend or conclusion the data supports.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 88,
+          "question": "The purpose of a summary is to inform, not to...",
+          "options": ["explain", "describe", "persuade or entertain", "report"],
+          "correct_answer": "persuade or entertain",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 89,
+          "question": "A good summary is balanced. This means it...",
+          "options": ["gives proportional space to the main sections of the original chapter", "focuses only on the first page", "is exactly 100 words", "gives more space to the parts you liked"],
+          "correct_answer": "gives proportional space to the main sections of the original chapter",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 90,
+          "question": "If you don't understand a part of the chapter, you should...",
+          "options": ["guess what it means and put it in the summary", "reread that part until you understand it before summarizing", "skip that part in your summary", "copy it directly"],
+          "correct_answer": "reread that part until you understand it before summarizing",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 91,
+          "question": "The theme of a literary chapter is...",
+          "options": ["the plot", "the main character", "the underlying message or idea", "the setting"],
+          "correct_answer": "the underlying message or idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 92,
+          "question": "A summary of a chapter with a problem-solution structure must include...",
+          "options": ["only the problem", "only the solution", "both the main problem and the proposed solution", "your opinion on the solution"],
+          "correct_answer": "both the main problem and the proposed solution",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 93,
+          "question": "Why is it helpful to put the original text away while writing the first draft of your summary?",
+          "options": ["To help you remember the exact words.", "To force you to use your own words and sentence structures.", "It is not helpful.", "To make the process faster."],
+          "correct_answer": "To force you to use your own words and sentence structures.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 94,
+          "question": "A good summary of an argumentative chapter will be...",
+          "options": ["biased and emotional", "neutral and balanced", "longer than the original", "full of personal stories"],
+          "correct_answer": "neutral and balanced",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 95,
+          "question": "The phrase 'The author goes on to explain...' is a useful transition for...",
+          "options": ["concluding a summary", "introducing a new supporting point in a summary", "starting a summary", "giving your opinion"],
+          "correct_answer": "introducing a new supporting point in a summary",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 96,
+          "question": "What is the key difference between an 'abstract' and a 'summary'?",
+          "options": ["An abstract is much longer.", "An abstract is a highly structured summary often used in academic papers.", "A summary is more formal.", "There is no difference."],
+          "correct_answer": "An abstract is a highly structured summary often used in academic papers.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 97,
+          "question": "In summarizing, it is important to capture the 'nuance' of an argument, which means...",
+          "options": ["the main point only", "the small but important shades of meaning", "the author's mistakes", "the length of the chapter"],
+          "correct_answer": "the small but important shades of meaning",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 98,
+          "question": "A key skill for summarizing is 'generalization', which is...",
+          "options": ["providing specific examples", "replacing a list of specific items with a general category", "making the text longer", "copying sentences"],
+          "correct_answer": "replacing a list of specific items with a general category",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 99,
+          "question": "The tone of a formal summary should be...",
+          "options": ["personal and informal", "impersonal and academic", "humorous and light", "angry and critical"],
+          "correct_answer": "impersonal and academic",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 100,
+          "question": "If you are summarizing for a specific purpose, your summary will be...",
+          "options": ["the same as any other summary", "selective, focusing on points relevant to your purpose", "longer than usual", "less accurate"],
+          "correct_answer": "selective, focusing on points relevant to your purpose",
+          "grammar_type": "Writing Chapter Summaries"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the primary difference between a summary and a critical analysis of a chapter?",
+          "options": ["A summary reports the content, while an analysis evaluates the content and its effectiveness.", "An analysis is shorter than a summary.", "A summary includes personal opinions, while an analysis does not.", "They are essentially the same thing."],
+          "correct_answer": "A summary reports the content, while an analysis evaluates the content and its effectiveness.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 102,
+          "question": "When summarizing a chapter with multiple conflicting viewpoints, the best approach is to...",
+          "options": ["choose the viewpoint you agree with and only summarize that one", "neutrally present all the major viewpoints and the author's overall stance", "ignore the conflict and create a single, simple main idea", "state that the chapter is too confusing to summarize"],
+          "correct_answer": "neutrally present all the major viewpoints and the author's overall stance",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 103,
+          "question": "What is 'patchwriting' and why is it a problem when summarizing?",
+          "options": ["It is a good technique for creating a draft.", "It is a form of plagiarism where one copies from the source and only changes a few words.", "It means writing a summary in patches or sections.", "It refers to using your own words completely."],
+          "correct_answer": "It is a form of plagiarism where one copies from the source and only changes a few words.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 104,
+          "question": "How should a summary handle the author's tone (e.g., sarcastic, humorous) without adopting it?",
+          "options": ["By ignoring the tone completely.", "By describing the tone objectively (e.g., 'The author sarcastically notes that...').", "By making your own summary sarcastic or humorous.", "By criticizing the author for their tone."],
+          "correct_answer": "By describing the tone objectively (e.g., 'The author sarcastically notes that...').",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 105,
+          "question": "A summary that is 'reductive' is one that...",
+          "options": ["is very accurate and detailed", "oversimplifies a complex argument and misses important nuances", "is longer than the original text", "includes a lot of analysis"],
+          "correct_answer": "oversimplifies a complex argument and misses important nuances",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 106,
+          "question": "A 'précis' is a specific type of summary that is highly structured and requires you to...",
+          "options": ["add your own opinion and analysis", "be exactly half the length of the original", "reproduce the logic, structure, and tone of the original piece concisely in your own words", "use as many direct quotes as possible"],
+          "correct_answer": "reproduce the logic, structure, and tone of the original piece concisely in your own words",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 107,
+          "question": "When summarizing a theoretical chapter, it is most important to accurately capture the...",
+          "options": ["author's biography", "historical examples", "key definitions, concepts, and the relationship between them", "spelling of all technical terms"],
+          "correct_answer": "key definitions, concepts, and the relationship between them",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 108,
+          "question": "How does summarizing help in identifying an author's underlying assumptions?",
+          "options": ["It does not help.", "By forcing you to distill the main argument, you can often see the unstated beliefs it depends on.", "By focusing only on minor details.", "By allowing you to add your own assumptions."],
+          "correct_answer": "By forcing you to distill the main argument, you can often see the unstated beliefs it depends on.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 109,
+          "question": "An 'evaluative summary' goes beyond a standard summary by...",
+          "options": ["being shorter", "including a brief judgment on the effectiveness or quality of the original text", "being less accurate", "using only direct quotes"],
+          "correct_answer": "including a brief judgment on the effectiveness or quality of the original text",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 110,
+          "question": "When summarizing a chapter that is part of a larger book, your summary should ideally...",
+          "options": ["ignore the rest of the book", "show how the chapter's main idea contributes to the book's overall argument", "summarize the entire book instead", "focus only on the last page of the chapter"],
+          "correct_answer": "show how the chapter's main idea contributes to the book's overall argument",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 111,
+          "question": "The skill of synthesizing information is crucial when...",
+          "options": ["summarizing a single sentence", "summarizing a chapter with multiple interwoven arguments", "copying a paragraph", "writing a title"],
+          "correct_answer": "summarizing a chapter with multiple interwoven arguments",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 112,
+          "question": "How should you handle ambiguity in the original text when writing a summary?",
+          "options": ["Make a guess and present it as a fact.", "Acknowledge the ambiguity in your summary (e.g., 'The author is unclear on this point...').", "Ignore the ambiguous section completely.", "Make up a clear meaning."],
+          "correct_answer": "Acknowledge the ambiguity in your summary (e.g., 'The author is unclear on this point...').",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 113,
+          "question": "A key challenge in summarizing a postmodern or highly experimental text is...",
+          "options": ["it is usually very short", "it may lack a clear, linear narrative or a single main idea", "it is always written in simple language", "it is always very objective"],
+          "correct_answer": "it may lack a clear, linear narrative or a single main idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 114,
+          "question": "What is the function of an 'executive summary' in a business report?",
+          "options": ["To provide a detailed analysis of one section.", "To give a concise overview of the entire report for busy executives.", "To list all the employees involved.", "To be the longest part of the report."],
+          "correct_answer": "To give a concise overview of the entire report for busy executives.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 115,
+          "question": "The ability to summarize is a metacognitive skill because it requires you to...",
+          "options": ["think about your own understanding of the text", "read the text very quickly", "guess the author's purpose", "write a very long paper"],
+          "correct_answer": "think about your own understanding of the text",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 116,
+          "question": "A summary must be a transformation, not merely a compression. This means it must...",
+          "options": ["be a completely different topic", "involve re-thinking and re-phrasing the ideas, not just deleting words", "be longer than the original", "be an exact copy"],
+          "correct_answer": "involve re-thinking and re-phrasing the ideas, not just deleting words",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 117,
+          "question": "When summarizing a research article's 'methods' section, you should focus on...",
+          "options": ["the final results", "the key procedures and design of the study", "the author's personal opinions", "the introduction"],
+          "correct_answer": "the key procedures and design of the study",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 118,
+          "question": "A summary of a primary source document (like a historical letter) differs from a summary of a secondary source (like a textbook) because the former requires you to...",
+          "options": ["be less objective", "focus more on interpreting the specific content and context of the single document", "ignore the author", "make it much longer"],
+          "correct_answer": "focus more on interpreting the specific content and context of the single document",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 119,
+          "question": "The use of strong, precise verbs (e.g., 'argues', 'contends', 'illustrates') in a summary helps to...",
+          "options": ["make the summary more subjective", "make the summary longer", "accurately convey the author's purpose and actions", "make the summary more confusing"],
+          "correct_answer": "accurately convey the author's purpose and actions",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 120,
+          "question": "A summary that is selective focuses on...",
+          "options": ["all the main points equally", "only the aspects of the chapter that are relevant to a specific research question or task", "only the introduction and conclusion", "only the parts the summarizer agrees with"],
+          "correct_answer": "only the aspects of the chapter that are relevant to a specific research question or task",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 121,
+          "question": "A summary of a chapter with dense figurative language requires you to...",
+          "options": ["copy all the figurative language", "translate the figurative language into its literal meaning", "ignore the figurative language", "add more of your own figurative language"],
+          "correct_answer": "translate the figurative language into its literal meaning",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 122,
+          "question": "An 'annotated bibliography' includes a ______ of each source.",
+          "options": ["full copy", "title only", "brief summary and evaluation", "table of contents"],
+          "correct_answer": "brief summary and evaluation",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 123,
+          "question": "How can summarizing help you identify logical fallacies in a chapter?",
+          "options": ["By forcing you to map out the main argument, weaknesses in the logic become more apparent.", "It cannot help identify fallacies.", "By focusing on minor details.", "By adding your own opinions."],
+          "correct_answer": "By forcing you to map out the main argument, weaknesses in the logic become more apparent.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 124,
+          "question": "The summary of a 'discussion' section in a research paper should focus on...",
+          "options": ["the methods used", "the raw data", "the interpretation of the results and their implications", "the introduction"],
+          "correct_answer": "the interpretation of the results and their implications",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 125,
+          "question": "To write a truly objective summary of a persuasive text, one must separate the author's argument from the...",
+          "options": ["evidence presented", "conclusion", "rhetorical techniques used to persuade", "main topic"],
+          "correct_answer": "rhetorical techniques used to persuade",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 126,
+          "question": "A thematic summary of a literature chapter would focus on...",
+          "options": ["the sequence of plot events", "how the events in the chapter develop a central theme or idea", "the physical descriptions of the characters", "the page count"],
+          "correct_answer": "how the events in the chapter develop a central theme or idea",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 127,
+          "question": "The primary ethical responsibility when summarizing is to...",
+          "options": ["make the author sound as intelligent as possible", "faithfully represent the original author's work and intent", "agree with the author's points", "write a longer piece than the original"],
+          "correct_answer": "faithfully represent the original author's work and intent",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 128,
+          "question": "Why is summarizing considered a recursive process?",
+          "options": ["Because you only do it once.", "Because it involves returning to the text and your draft multiple times to refine your understanding.", "Because it is a very simple process.", "Because it involves copying."],
+          "correct_answer": "Because it involves returning to the text and your draft multiple times to refine your understanding.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 129,
+          "question": "A summary of a chapter of a legal text must be extremely precise in its handling of...",
+          "options": ["the author's personal opinions", "the specific definitions and conditions outlined", "the historical context", "the emotional tone"],
+          "correct_answer": "the specific definitions and conditions outlined",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 130,
+          "question": "Summarizing a complex process requires you to break it down into its essential...",
+          "options": ["historical origins", "stages or steps", "alternative versions", "opinions"],
+          "correct_answer": "stages or steps",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 131,
+          "question": "What is the role of context when summarizing a single chapter from a book?",
+          "options": ["It is irrelevant.", "It helps you understand how the chapter fits into the book's larger argument or narrative.", "It only matters for the introduction.", "It makes summarizing more difficult."],
+          "correct_answer": "It helps you understand how the chapter fits into the book's larger argument or narrative.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 132,
+          "question": "A summary that fails to attribute the ideas to the author is a form of...",
+          "options": ["good academic practice", "paraphrasing", "plagiarism", "critical analysis"],
+          "correct_answer": "plagiarism",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 133,
+          "question": "When summarizing, using reporting verbs like 'claims', 'argues', or 'suggests' helps to...",
+          "options": ["maintain objectivity and attribute the ideas correctly", "insert your own opinion", "make the summary longer", "show that you disagree with the author"],
+          "correct_answer": "maintain objectivity and attribute the ideas correctly",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 134,
+          "question": "A good summary should capture both the content and the ______ of the original chapter.",
+          "options": ["exact wording", "page numbers", "logical structure", "spelling mistakes"],
+          "correct_answer": "logical structure",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 135,
+          "question": "The process of identifying the 'thesis' of a chapter is central to writing an effective...",
+          "options": ["critique", "summary", "paraphrase", "review"],
+          "correct_answer": "summary",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 136,
+          "question": "What is the key challenge of summarizing a text written in an archaic or old-fashioned style?",
+          "options": ["The texts are usually very short.", "Translating the core ideas into modern, understandable language without losing the meaning.", "The texts have no main ideas.", "The texts are always objective."],
+          "correct_answer": "Translating the core ideas into modern, understandable language without losing the meaning.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 137,
+          "question": "A summary of a philosophical argument must accurately represent the premises and the...",
+          "options": ["author's biography", "conclusion", "emotional appeal", "historical context"],
+          "correct_answer": "conclusion",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 138,
+          "question": "An effective summary demonstrates not just what the author said, but also...",
+          "options": ["what the author should have said", "what you think about what the author said", "why the author said it (their purpose)", "how many pages the author wrote"],
+          "correct_answer": "why the author said it (their purpose)",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 139,
+          "question": "Summarizing a text for an audience that is unfamiliar with the topic requires you to be more diligent in...",
+          "options": ["using complex jargon", "defining key terms", "keeping the summary as short as possible", "adding your own opinions"],
+          "correct_answer": "defining key terms",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 140,
+          "question": "A good summary is ultimately an act of...",
+          "options": ["creative writing", "critical interpretation and representation", "simple copying", "personal reflection"],
+          "correct_answer": "critical interpretation and representation",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 141,
+          "question": "What is the first step in summarizing a difficult academic chapter?",
+          "options": ["Start writing the summary immediately.", "Read it multiple times to ensure full comprehension.", "Guess the main ideas.", "Ask a friend to summarize it for you."],
+          "correct_answer": "Read it multiple times to ensure full comprehension.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 142,
+          "question": "A summary of a chapter's conclusion should capture the...",
+          "options": ["main findings and final thoughts", "introduction of a new topic", "raw data", "author's life story"],
+          "correct_answer": "main findings and final thoughts",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 143,
+          "question": "When summarizing, it is important to distinguish between the author's main point and...",
+          "options": ["the conclusion", "supporting evidence or examples", "the title", "the introduction"],
+          "correct_answer": "supporting evidence or examples",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 144,
+          "question": "The final summary should read smoothly, as if it were a...",
+          "options": ["collection of random notes", "single, original piece of writing", "direct copy of the original", "question and answer session"],
+          "correct_answer": "single, original piece of writing",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 145,
+          "question": "A summary must be self-contained, meaning it...",
+          "options": ["can only be understood by reading the original", "makes sense without reference to the original text", "is written in a box", "has no conclusion"],
+          "correct_answer": "makes sense without reference to the original text",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 146,
+          "question": "The process of deciding what is important enough to include in a summary requires...",
+          "options": ["good judgment and a clear understanding of the text", "a coin toss", "including every detail", "only including the first paragraph"],
+          "correct_answer": "good judgment and a clear understanding of the text",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 147,
+          "question": "A summary of a legal document must be careful not to...",
+          "options": ["be accurate", "omit or misrepresent key conditions or definitions", "be objective", "use clear language"],
+          "correct_answer": "omit or misrepresent key conditions or definitions",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 148,
+          "question": "What is the difference between summarizing a chapter and outlining it?",
+          "options": ["They are the same.", "An outline uses phrases and bullet points to show structure; a summary uses full sentences in a paragraph.", "An outline is longer.", "A summary is for personal use, an outline is for assignments."],
+          "correct_answer": "An outline uses phrases and bullet points to show structure; a summary uses full sentences in a paragraph.",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 149,
+          "question": "A summary that captures the 'spirit' of the original text has successfully represented its...",
+          "options": ["main ideas and overall tone", "spelling mistakes", "page layout", "font size"],
+          "correct_answer": "main ideas and overall tone",
+          "grammar_type": "Writing Chapter Summaries"
+        },
+        {
+          "id": 150,
+          "question": "The most advanced level of summarizing involves not just identifying main ideas, but also...",
+          "options": ["identifying the author's purpose and how the ideas are structured to achieve it", "adding your own story", "criticizing the author's style", "ignoring the author's purpose"],
+          "correct_answer": "identifying the author's purpose and how the ideas are structured to achieve it",
+          "grammar_type": "Writing Chapter Summaries"
+        }
+      ]
+    }
+  ]
+}
+

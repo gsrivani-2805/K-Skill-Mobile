@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The book is ______ the table.",
+          "options": ["in", "on", "under", "at"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 2,
+          "question": "The cat is hiding ______ the bed.",
+          "options": ["on", "in", "under", "over"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 3,
+          "question": "My birthday is ______ January.",
+          "options": ["on", "at", "in", "from"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 4,
+          "question": "The school meeting is ______ 10 AM.",
+          "options": ["in", "on", "at", "to"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 5,
+          "question": "I am going ______ the market.",
+          "options": ["to", "from", "at", "on"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 6,
+          "question": "The ball is ______ the box.",
+          "options": ["on", "under", "in", "over"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 7,
+          "question": "We live ______ a small village.",
+          "options": ["at", "on", "in", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 8,
+          "question": "The picture is hanging ______ the wall.",
+          "options": ["in", "on", "at", "from"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 9,
+          "question": "She will be back ______ an hour.",
+          "options": ["at", "on", "in", "with"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 10,
+          "question": "The dog is sitting ______ the door.",
+          "options": ["in", "on", "at", "under"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 11,
+          "question": "He came here ______ Mumbai.",
+          "options": ["to", "from", "at", "on"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 12,
+          "question": "The cat is sleeping ______ the sofa.",
+          "options": ["under", "on", "in", "at"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 13,
+          "question": "They are waiting ______ the bus stop.",
+          "options": ["in", "on", "at", "to"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 14,
+          "question": "The sun is hiding ______ the clouds.",
+          "options": ["behind", "under", "on", "in"],
+          "correct_answer": "behind",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 15,
+          "question": "I put my keys ______ my pocket.",
+          "options": ["on", "at", "in", "under"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 16,
+          "question": "The school is ______ the park.",
+          "options": ["in", "near", "on", "at"],
+          "correct_answer": "near",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 17,
+          "question": "He was born ______ 2005.",
+          "options": ["on", "at", "in", "from"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 18,
+          "question": "I wake up ______ 6 o'clock every day.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 19,
+          "question": "We play cricket ______ Sundays.",
+          "options": ["in", "on", "at", "from"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 20,
+          "question": "The bird flew ______ the house.",
+          "options": ["under", "in", "over", "at"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 21,
+          "question": "The girl jumped ______ the swimming pool.",
+          "options": ["in", "at", "into", "on"],
+          "correct_answer": "into",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 22,
+          "question": "The car is parked ______ the house.",
+          "options": ["behind", "under", "in front of", "over"],
+          "correct_answer": "in front of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 23,
+          "question": "Wash your hands ______ eating food.",
+          "options": ["after", "before", "on", "at"],
+          "correct_answer": "before",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 24,
+          "question": "I sleep ______ brushing my teeth.",
+          "options": ["before", "after", "in", "on"],
+          "correct_answer": "after",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 25,
+          "question": "Which word is a preposition in 'The monkey is on the tree.'?",
+          "options": ["monkey", "tree", "is", "on"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 26,
+          "question": "Which word is a preposition in 'He is in the room.'?",
+          "options": ["He", "is", "in", "room"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 27,
+          "question": "Which word is a preposition in 'She looked at the stars.'?",
+          "options": ["She", "looked", "at", "stars"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 28,
+          "question": "Which word is a preposition in 'This gift is for you.'?",
+          "options": ["This", "gift", "is", "for"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 29,
+          "question": "Which word is a preposition in 'I will meet you after lunch.'?",
+          "options": ["meet", "you", "after", "lunch"],
+          "correct_answer": "after",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 30,
+          "question": "The plane is flying ______ the clouds.",
+          "options": ["under", "in", "above", "behind"],
+          "correct_answer": "above",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 31,
+          "question": "The shop is ______ the corner of the street.",
+          "options": ["in", "on", "at", "under"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 32,
+          "question": "Republic Day is ______ January 26th.",
+          "options": ["in", "at", "on", "from"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 33,
+          "question": "The students are sitting ______ the classroom.",
+          "options": ["on", "at", "in", "over"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 34,
+          "question": "The moon shines ______ night.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 35,
+          "question": "He sits ______ me in the class.",
+          "options": ["beside", "on", "in", "at"],
+          "correct_answer": "beside",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 36,
+          "question": "The cup is full ______ milk.",
+          "options": ["with", "of", "in", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 37,
+          "question": "He wrote the story ______ a pencil.",
+          "options": ["by", "of", "with", "for"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 38,
+          "question": "The river flows ______ the bridge.",
+          "options": ["over", "on", "under", "in"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 39,
+          "question": "This story is ______ a brave queen.",
+          "options": ["of", "by", "for", "about"],
+          "correct_answer": "about",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 40,
+          "question": "The police car is running ______ the thief's van.",
+          "options": ["before", "after", "on", "in"],
+          "correct_answer": "after",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 41,
+          "question": "The bank is ______ the school.",
+          "options": ["next to", "in", "on", "under"],
+          "correct_answer": "next to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 42,
+          "question": "Please put the waste ______ the dustbin.",
+          "options": ["on", "in", "at", "over"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 43,
+          "question": "I will see you ______ the evening.",
+          "options": ["on", "at", "in", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 44,
+          "question": "The train arrived ______ platform 3.",
+          "options": ["in", "on", "at", "to"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 45,
+          "question": "The book 'Ramayana' was written ______ Valmiki.",
+          "options": ["with", "for", "by", "of"],
+          "correct_answer": "by",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 46,
+          "question": "He is standing ______ a large tree.",
+          "options": ["on", "in", "under", "over"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 47,
+          "question": "She is smiling ______ her friend.",
+          "options": ["on", "at", "in", "by"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 48,
+          "question": "The teacher is walking ______ the classroom.",
+          "options": ["into", "on", "at", "under"],
+          "correct_answer": "into",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 49,
+          "question": "We get light ______ the sun.",
+          "options": ["by", "with", "from", "of"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 50,
+          "question": "The children are running ______ the field.",
+          "options": ["around", "under", "behind", "on"],
+          "correct_answer": "around",
+          "grammar_type": "Prepositions"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "He divided the sweets ______ his two children.",
+          "options": ["among", "between", "in", "with"],
+          "correct_answer": "between",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 52,
+          "question": "The teacher distributed the books ______ all the students.",
+          "options": ["between", "among", "to", "for"],
+          "correct_answer": "among",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 53,
+          "question": "I have been living here ______ 2015.",
+          "options": ["for", "since", "from", "by"],
+          "correct_answer": "since",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 54,
+          "question": "I have been living here ______ five years.",
+          "options": ["for", "since", "from", "at"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 55,
+          "question": "We walked ______ the river bank.",
+          "options": ["across", "through", "along", "into"],
+          "correct_answer": "along",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 56,
+          "question": "The train passed ______ a long tunnel.",
+          "options": ["across", "through", "over", "under"],
+          "correct_answer": "through",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 57,
+          "question": "He is very good ______ drawing.",
+          "options": ["in", "on", "at", "with"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 58,
+          "question": "I am afraid ______ the dark.",
+          "options": ["of", "from", "with", "about"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 59,
+          "question": "She is not interested ______ sports.",
+          "options": ["on", "at", "in", "for"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 60,
+          "question": "The swimmer swam ______ the river to the other side.",
+          "options": ["along", "through", "across", "over"],
+          "correct_answer": "across",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 61,
+          "question": "The monkey climbed ______ the wall.",
+          "options": ["down", "up", "through", "across"],
+          "correct_answer": "up",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 62,
+          "question": "The temperature today is three degrees ______ zero.",
+          "options": ["over", "under", "below", "above"],
+          "correct_answer": "below",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 63,
+          "question": "You must complete the assignment ______ Monday.",
+          "options": ["in", "at", "by", "on"],
+          "correct_answer": "by",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 64,
+          "question": "What is the prepositional phrase in 'The house across the street is for sale.'?",
+          "options": ["The house", "is for sale", "across the street", "the street"],
+          "correct_answer": "across the street",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 65,
+          "question": "The teacher is proud ______ his students.",
+          "options": ["of", "for", "with", "at"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 66,
+          "question": "They went for a walk ______ the bad weather.",
+          "options": ["because of", "despite", "although", "with"],
+          "correct_answer": "despite",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 67,
+          "question": "She insisted ______ helping the old man.",
+          "options": ["on", "in", "at", "with"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 68,
+          "question": "The key is ______ the drawer.",
+          "options": ["outside", "beside", "inside", "without"],
+          "correct_answer": "inside",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 69,
+          "question": "He was absent ______ school yesterday.",
+          "options": ["from", "to", "in", "at"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 70,
+          "question": "This book is quite different ______ that one.",
+          "options": ["to", "than", "from", "with"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 71,
+          "question": "I completely agree ______ you.",
+          "options": ["to", "with", "on", "at"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 72,
+          "question": "The ball rolled ______ the hill.",
+          "options": ["up", "down", "across", "through"],
+          "correct_answer": "down",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 73,
+          "question": "Please don't lean ______ the wet paint.",
+          "options": ["on", "in", "against", "at"],
+          "correct_answer": "against",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 74,
+          "question": "Who is responsible ______ this mess?",
+          "options": ["of", "for", "at", "with"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 75,
+          "question": "We are looking forward ______ the school trip.",
+          "options": ["at", "to", "for", "on"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 76,
+          "question": "What is the function of the prepositional phrase in 'The girl with long hair is my sister.'?",
+          "options": ["It describes the verb.", "It describes the noun 'girl'.", "It is the subject.", "It is the object."],
+          "correct_answer": "It describes the noun 'girl'.",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 77,
+          "question": "You can always rely ______ your parents for help.",
+          "options": ["on", "with", "at", "for"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 78,
+          "question": "He was accused ______ cheating in the exam.",
+          "options": ["for", "with", "of", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 79,
+          "question": "The soldiers fought ______ great bravery.",
+          "options": ["by", "with", "of", "for"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 80,
+          "question": "The final decision is ______ to the principal.",
+          "options": ["up", "on", "at", "by"],
+          "correct_answer": "up",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 81,
+          "question": "I prefer reading books ______ watching movies.",
+          "options": ["than", "from", "to", "over"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 82,
+          "question": "He arrived just ______ time to catch the train.",
+          "options": ["on", "at", "in", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 83,
+          "question": "The flight was ______ time, as per the schedule.",
+          "options": ["on", "at", "in", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 84,
+          "question": "The police are looking ______ the case.",
+          "options": ["at", "for", "into", "on"],
+          "correct_answer": "into",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 85,
+          "question": "The museum is open ______ 10 AM to 6 PM.",
+          "options": ["at", "by", "from", "since"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 86,
+          "question": "My grandmother is suffering ______ a bad cough.",
+          "options": ["with", "of", "from", "by"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 87,
+          "question": "He achieved success ______ hard work.",
+          "options": ["by", "with", "through", "for"],
+          "correct_answer": "through",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 88,
+          "question": "I am writing this email ______ behalf of my team.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 89,
+          "question": "This discount is not applicable ______ online purchases.",
+          "options": ["for", "to", "with", "at"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 90,
+          "question": "He has a great passion ______ classical music.",
+          "options": ["of", "for", "in", "with"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 91,
+          "question": "Let's discuss this matter ______ lunch.",
+          "options": ["on", "over", "at", "in"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 92,
+          "question": "The boy jumped ______ the wall and ran away.",
+          "options": ["across", "through", "over", "along"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 93,
+          "question": "There is no exception ______ this rule.",
+          "options": ["for", "of", "to", "with"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 94,
+          "question": "She is allergic ______ dust.",
+          "options": ["to", "from", "with", "of"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 95,
+          "question": "What is the function of the prepositional phrase in 'He arrived in the morning.'?",
+          "options": ["It describes the subject 'He'.", "It describes where he arrived.", "It describes when he arrived.", "It is the object."],
+          "correct_answer": "It describes when he arrived.",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 96,
+          "question": "The cat is hiding ______ the curtains.",
+          "options": ["over", "behind", "in front of", "under"],
+          "correct_answer": "behind",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 97,
+          "question": "He apologized ______ his rude behavior.",
+          "options": ["for", "of", "to", "with"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 98,
+          "question": "The new cafe is ______ the library.",
+          "options": ["opposite", "through", "along", "into"],
+          "correct_answer": "opposite",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 99,
+          "question": "I am not familiar ______ this part of the city.",
+          "options": ["to", "about", "with", "of"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 100,
+          "question": "The book consists ______ ten chapters.",
+          "options": ["with", "of", "in", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "You must act ______ the rules of the school.",
+          "options": ["in relation to", "according to", "in spite of", "regardless of"],
+          "correct_answer": "according to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 102,
+          "question": "______ all his efforts, he could not win the match.",
+          "options": ["Despite", "Because of", "Due to", "As"],
+          "correct_answer": "Despite",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 103,
+          "question": "The small cottage was situated ______ the tall pine trees.",
+          "options": ["between", "within", "amidst", "along"],
+          "correct_answer": "amidst",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 104,
+          "question": "What is the function of the prepositional phrase in 'She spoke with confidence.'?",
+          "options": ["Adjectival (modifies 'She')", "Adverbial (modifies 'spoke')", "Noun phrase", "Subject complement"],
+          "correct_answer": "Adverbial (modifies 'spoke')",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 105,
+          "question": "In which sentence is 'outside' used as a preposition?",
+          "options": ["The children are playing outside.", "He is waiting outside the gate.", "Let's go outside.", "It is cold outside."],
+          "correct_answer": "He is waiting outside the gate.",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 106,
+          "question": "He is a member of the club, but his actions are ______ its principles.",
+          "options": ["for", "with", "against", "along"],
+          "correct_answer": "against",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 107,
+          "question": "All flights were delayed ______ account of the dense fog.",
+          "options": ["on", "in", "at", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 108,
+          "question": "The new rule will be enforced ______ the country.",
+          "options": ["over", "across", "throughout", "along"],
+          "correct_answer": "throughout",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 109,
+          "question": "This is the person I was telling you ______.",
+          "options": ["of", "for", "about", "with"],
+          "correct_answer": "about",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 110,
+          "question": "He has a reputation ______ being a strict but fair teacher.",
+          "options": ["of", "for", "in", "with"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 111,
+          "question": "You are ______ no obligation to buy anything.",
+          "options": ["in", "on", "under", "with"],
+          "correct_answer": "under",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 112,
+          "question": "All passengers, ______ of their destination, must go through security.",
+          "options": ["regarding", "concerning", "regardless", "in spite"],
+          "correct_answer": "regardless",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 113,
+          "question": "The company has to operate ______ the framework of the law.",
+          "options": ["without", "within", "beyond", "outside"],
+          "correct_answer": "within",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 114,
+          "question": "______ my understanding, the project is due next week.",
+          "options": ["From", "By", "To", "In"],
+          "correct_answer": "From",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 115,
+          "question": "He voted ______ the new proposal because he felt it was unfair.",
+          "options": ["for", "against", "with", "upon"],
+          "correct_answer": "against",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 116,
+          "question": "This is a matter ______ great concern.",
+          "options": ["with", "of", "for", "in"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 117,
+          "question": "The city has expanded rapidly ______ the last twenty years.",
+          "options": ["in", "on", "over", "since"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 118,
+          "question": "She is very angry ______ her brother for breaking her toy.",
+          "options": ["about", "at", "with", "on"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 119,
+          "question": "She is angry ______ what her brother did.",
+          "options": ["about", "at", "with", "on"],
+          "correct_answer": "about",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 120,
+          "question": "The book deals ______ the history of ancient India.",
+          "options": ["of", "about", "with", "in"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 121,
+          "question": "He was prevented ______ entering the building.",
+          "options": ["of", "from", "to", "by"],
+          "correct_answer": "from",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 122,
+          "question": "She takes great pride ______ her children's achievements.",
+          "options": ["of", "for", "in", "with"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 123,
+          "question": "Which sentence has a preposition at the end, which is grammatically acceptable in modern English?",
+          "options": ["For whom is this letter?", "This is the book which I told you about.", "To where are you going?", "From where did you come?"],
+          "correct_answer": "This is the book which I told you about.",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 124,
+          "question": "______ being an excellent singer, she is also a talented dancer.",
+          "options": ["Beside", "Besides", "Despite", "Instead of"],
+          "correct_answer": "Besides",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 125,
+          "question": "I have no confidence ______ his ability to lead the team.",
+          "options": ["on", "at", "in", "for"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 126,
+          "question": "A preposition shows the relationship between its object and...",
+          "options": ["another preposition", "a conjunction", "another word in the sentence", "a clause"],
+          "correct_answer": "another word in the sentence",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 127,
+          "question": "In the phrase 'the foundation of the building', the preposition 'of' indicates...",
+          "options": ["Possession or belonging", "Direction", "Time", "Manner"],
+          "correct_answer": "Possession or belonging",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 128,
+          "question": "The ship is sailing ______ the Atlantic Ocean.",
+          "options": ["in", "on", "across", "through"],
+          "correct_answer": "across",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 129,
+          "question": "He has been working on this project ______ dawn.",
+          "options": ["for", "since", "at", "from"],
+          "correct_answer": "since",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 130,
+          "question": "The new regulations were brought ______ to improve safety.",
+          "options": ["in", "about", "on", "up"],
+          "correct_answer": "about",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 131,
+          "question": "I am writing to you ______ your recent inquiry.",
+          "options": ["regarding", "despite", "within", "beyond"],
+          "correct_answer": "regarding",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 132,
+          "question": "His house is hidden from view, ______ a row of trees.",
+          "options": ["over", "beyond", "through", "across"],
+          "correct_answer": "beyond",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 133,
+          "question": "What he said is ______ the point; we are discussing something else.",
+          "options": ["beside", "besides", "except", "off"],
+          "correct_answer": "beside",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 134,
+          "question": "The cat is sleeping ______ the fireplace.",
+          "options": ["by", "at", "on", "in"],
+          "correct_answer": "by",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 135,
+          "question": "He is indebted ______ his teacher for her guidance.",
+          "options": ["with", "for", "to", "of"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 136,
+          "question": "There was a lot of argument ______ the new law.",
+          "options": ["over", "under", "below", "into"],
+          "correct_answer": "over",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 137,
+          "question": "All these books, with the exception ______ the red one, are for sale.",
+          "options": ["of", "for", "to", "from"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 138,
+          "question": "He was acquitted ______ all the charges.",
+          "options": ["from", "of", "with", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 139,
+          "question": "The new manager is popular ______ the employees.",
+          "options": ["between", "amongst", "with", "for"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 140,
+          "question": "He is an authority ______ medieval history.",
+          "options": ["of", "in", "at", "on"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 141,
+          "question": "He jumped ______ a conclusion without knowing all the facts.",
+          "options": ["on", "at", "to", "in"],
+          "correct_answer": "to",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 142,
+          "question": "This work is ______ my capabilities.",
+          "options": ["outside", "beyond", "without", "off"],
+          "correct_answer": "beyond",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 143,
+          "question": "The village is located ______ the sea.",
+          "options": ["beneath", "under", "below", "at"],
+          "correct_answer": "beneath",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 144,
+          "question": "She has been working here ______ the past five years.",
+          "options": ["since", "from", "for", "during"],
+          "correct_answer": "for",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 145,
+          "question": "He lives ______ a small village in the Himalayas.",
+          "options": ["at", "on", "in", "by"],
+          "correct_answer": "in",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 146,
+          "question": "I am ______ my way to the station.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "on",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 147,
+          "question": "The plane is flying ______ a speed of 900 km/h.",
+          "options": ["in", "on", "at", "by"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 148,
+          "question": "He was charged ______ murder.",
+          "options": ["of", "for", "with", "by"],
+          "correct_answer": "with",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 149,
+          "question": "I have to choose ______ these two options.",
+          "options": ["among", "between", "with", "from"],
+          "correct_answer": "between",
+          "grammar_type": "Prepositions"
+        },
+        {
+          "id": 150,
+          "question": "We were amazed ______ his performance.",
+          "options": ["with", "at", "on", "in"],
+          "correct_answer": "at",
+          "grammar_type": "Prepositions"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does GD stand for?",
+          "options": ["Great Debate", "Group Discussion", "Good Day", "Group Dance"],
+          "correct_answer": "Group Discussion",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 2,
+          "question": "What is the main purpose of a Group Discussion?",
+          "options": ["To argue and win", "To talk with a group on a given topic", "To give a long speech", "To remain silent"],
+          "correct_answer": "To talk with a group on a given topic",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 3,
+          "question": "What should you do when another person is speaking in a GD?",
+          "options": ["Interrupt them", "Talk to your friend", "Listen carefully", "Look out the window"],
+          "correct_answer": "Listen carefully",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 4,
+          "question": "Is it a good habit to shout in a Group Discussion?",
+          "options": ["Yes, it shows confidence", "No, it is rude", "Only if you are right", "Yes, to make others listen"],
+          "correct_answer": "No, it is rude",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 5,
+          "question": "A good way to start your turn in a GD is by...",
+          "options": ["shouting 'Listen to me!'", "greeting the group", "starting your point abruptly", "telling a joke"],
+          "correct_answer": "greeting the group",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 6,
+          "question": "Making eye contact with the other speakers shows that you are...",
+          "options": ["scared", "not interested", "confident and engaged", "bored"],
+          "correct_answer": "confident and engaged",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 7,
+          "question": "The subject that is given to discuss is called the...",
+          "options": ["answer", "problem", "topic", "story"],
+          "correct_answer": "topic",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 8,
+          "question": "You should always wait for your ______ before speaking.",
+          "options": ["friend", "turn", "teacher", "end"],
+          "correct_answer": "turn",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 9,
+          "question": "What should you say if you agree with someone's point?",
+          "options": ["'You are wrong.'", "'I agree with you.'", "'That's a silly idea.'", "'Be quiet.'"],
+          "correct_answer": "'I agree with you.'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 10,
+          "question": "At the end of the discussion, it is good to have a...",
+          "options": ["fight", "new topic", "conclusion or summary", "long silence"],
+          "correct_answer": "conclusion or summary",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 11,
+          "question": "How should you sit during a Group Discussion?",
+          "options": ["Slouched in your chair", "With your back to the group", "Straight and alert", "Lying down"],
+          "correct_answer": "Straight and alert",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 12,
+          "question": "A GD helps to check your ______ skills.",
+          "options": ["sleeping", "eating", "communication", "drawing"],
+          "correct_answer": "communication",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 13,
+          "question": "When you are not speaking, you should be a good...",
+          "options": ["speaker", "listener", "dancer", "singer"],
+          "correct_answer": "listener",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 14,
+          "question": "It is important to ______ the opinions of others in the group.",
+          "options": ["ignore", "laugh at", "respect", "change"],
+          "correct_answer": "respect",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 15,
+          "question": "Using your hands to explain your points is called...",
+          "options": ["gestures", "posture", "eye contact", "shouting"],
+          "correct_answer": "gestures",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 16,
+          "question": "What should you do if you don't understand the topic?",
+          "options": ["Start shouting", "Leave the room", "Ask for clarification", "Remain silent for the whole time"],
+          "correct_answer": "Ask for clarification",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 17,
+          "question": "A good group member tries to include everyone in the...",
+          "options": ["fight", "discussion", "joke", "problem"],
+          "correct_answer": "discussion",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 18,
+          "question": "You should speak ______ so everyone can hear you.",
+          "options": ["very softly", "very quickly", "clearly", "in a whisper"],
+          "correct_answer": "clearly",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 19,
+          "question": "What is a bad habit in a GD?",
+          "options": ["Listening to others", "Interrupting others", "Speaking on topic", "Agreeing with a point"],
+          "correct_answer": "Interrupting others",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 20,
+          "question": "After someone makes a good point, you can say...",
+          "options": ["'That's wrong.'", "'That's a good point.'", "'I don't care.'", "'So what?'"],
+          "correct_answer": "'That's a good point.'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 21,
+          "question": "The main aim of a GD is to have a ______ discussion.",
+          "options": ["healthy and constructive", "loud and chaotic", "pointless and boring", "sad and emotional"],
+          "correct_answer": "healthy and constructive",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 22,
+          "question": "If you want to add a point, you should say...",
+          "options": ["'Let me talk now.'", "'You are wrong, listen to me.'", "'I would like to add a point.'", "'Stop talking.'"],
+          "correct_answer": "'I would like to add a point.'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 23,
+          "question": "It is important to stick to the ______ during the discussion.",
+          "options": ["topic", "your own story", "a different subject", "jokes"],
+          "correct_answer": "topic",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 24,
+          "question": "Teamwork in a GD means...",
+          "options": ["only one person speaks", "everyone works together", "no one speaks", "everyone argues"],
+          "correct_answer": "everyone works together",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 25,
+          "question": "How should you feel during a GD?",
+          "options": ["Angry and aggressive", "Calm and confident", "Scared and nervous", "Sleepy and bored"],
+          "correct_answer": "Calm and confident",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 26,
+          "question": "Is it okay to use simple language in a GD?",
+          "options": ["No, you must use difficult words.", "Yes, as long as your point is clear.", "No, it makes you look weak.", "Yes, but only if others do."],
+          "correct_answer": "Yes, as long as your point is clear.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 27,
+          "question": "What should you do if two people start arguing?",
+          "options": ["Join the argument", "Try to calm them down and bring the discussion back to the topic", "Leave the room", "Laugh at them"],
+          "correct_answer": "Try to calm them down and bring the discussion back to the topic",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 28,
+          "question": "A good point is one that is...",
+          "options": ["very long", "loud", "logical and relevant", "completely off-topic"],
+          "correct_answer": "logical and relevant",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 29,
+          "question": "To prepare for a GD, you should...",
+          "options": ["sleep a lot", "watch movies", "read newspapers and be aware of current topics", "play games"],
+          "correct_answer": "read newspapers and be aware of current topics",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 30,
+          "question": "If you disagree with a point, you should...",
+          "options": ["say 'You are stupid'", "explain politely why you disagree", "start shouting", "remain silent"],
+          "correct_answer": "explain politely why you disagree",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 31,
+          "question": "Your body language (how you sit and move) is a part of...",
+          "options": ["verbal communication", "non-verbal communication", "written communication", "singing"],
+          "correct_answer": "non-verbal communication",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 32,
+          "question": "A Group Discussion is a ______ activity.",
+          "options": ["solo", "team", "sleeping", "drawing"],
+          "correct_answer": "team",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 33,
+          "question": "What should you NOT do in a GD?",
+          "options": ["Listen to others", "Speak on the topic", "Dominate the conversation and not let others speak", "Make eye contact"],
+          "correct_answer": "Dominate the conversation and not let others speak",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 34,
+          "question": "The person who is listening to the group to judge them is the...",
+          "options": ["participant", "moderator or evaluator", "friend", "audience"],
+          "correct_answer": "moderator or evaluator",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 35,
+          "question": "It is good to support your points with...",
+          "options": ["feelings", "guesses", "examples or facts", "rumors"],
+          "correct_answer": "examples or facts",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 36,
+          "question": "The time given for a GD is usually...",
+          "options": ["unlimited", "very long (hours)", "limited (e.g., 15-20 minutes)", "very short (1 minute)"],
+          "correct_answer": "limited (e.g., 15-20 minutes)",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 37,
+          "question": "Being polite in a GD means...",
+          "options": ["not speaking at all", "using words like 'please' and 'thank you', and not being rude", "agreeing with everything", "speaking very loudly"],
+          "correct_answer": "using words like 'please' and 'thank you', and not being rude",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 38,
+          "question": "If you don't have any points on a topic, what should you do?",
+          "options": ["Listen carefully to others and then form your own points.", "Talk about a different topic.", "Say nothing at all.", "Blame the moderator for a bad topic."],
+          "correct_answer": "Listen carefully to others and then form your own points.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 39,
+          "question": "Starting a discussion is a good way to show...",
+          "options": ["you are shy", "leadership skills", "you are scared", "you don't want to talk"],
+          "correct_answer": "leadership skills",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 40,
+          "question": "At the end of a GD, what should the group try to do?",
+          "options": ["Start a new argument", "Summarize the main points discussed", "Leave the room quickly", "Ask for another topic"],
+          "correct_answer": "Summarize the main points discussed",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 41,
+          "question": "Nodding your head when someone is speaking shows that...",
+          "options": ["you are sleeping", "you are not interested", "you are listening and engaged", "you want them to stop"],
+          "correct_answer": "you are listening and engaged",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 42,
+          "question": "What is the opposite of agreeing?",
+          "options": ["Disagreeing", "Listening", "Shouting", "Smiling"],
+          "correct_answer": "Disagreeing",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 43,
+          "question": "Before you speak, it is good to...",
+          "options": ["close your eyes", "think about what you want to say", "stand up", "walk around"],
+          "correct_answer": "think about what you want to say",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 44,
+          "question": "A GD is a test of your knowledge and your...",
+          "options": ["ability to sing", "ability to work in a team", "ability to draw", "ability to sleep"],
+          "correct_answer": "ability to work in a team",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 45,
+          "question": "Speaking for too long is...",
+          "options": ["a good quality", "a bad quality as others don't get a chance", "necessary to win", "a sign of leadership"],
+          "correct_answer": "a bad quality as others don't get a chance",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 46,
+          "question": "It is important to be confident, but not...",
+          "options": ["polite", "overconfident or arrogant", "calm", "prepared"],
+          "correct_answer": "overconfident or arrogant",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 47,
+          "question": "If you make a mistake while speaking, you should...",
+          "options": ["stop speaking immediately", "start crying", "correct yourself calmly and continue", "blame someone else"],
+          "correct_answer": "correct yourself calmly and continue",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 48,
+          "question": "What is the first step of a GD?",
+          "options": ["The conclusion", "The argument", "The announcement of the topic", "The fight"],
+          "correct_answer": "The announcement of the topic",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 49,
+          "question": "Good posture in a GD includes...",
+          "options": ["leaning back with arms crossed", "sitting up straight and leaning slightly forward", "tapping your feet nervously", "looking at the floor"],
+          "correct_answer": "sitting up straight and leaning slightly forward",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 50,
+          "question": "Participating in a GD helps to improve your...",
+          "options": ["handwriting", "speaking skills", "drawing skills", "mathematical skills"],
+          "correct_answer": "speaking skills",
+          "grammar_type": "Group Discussion Practice"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "The person who starts a Group Discussion is known as the...",
+          "options": ["Concluder", "Initiator", "Questioner", "Observer"],
+          "correct_answer": "Initiator",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 52,
+          "question": "Which of these is a good phrase for politely interrupting someone?",
+          "options": ["'Stop talking, it's my turn.'", "'Excuse me, I'd like to add something.'", "'You are wrong, let me speak.'", "'That's enough from you.'"],
+          "correct_answer": "'Excuse me, I'd like to add something.'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 53,
+          "question": "What does it mean to 'steer' the discussion?",
+          "options": ["To end the discussion", "To guide the discussion back to the topic if it goes off track", "To make the discussion personal", "To argue with everyone"],
+          "correct_answer": "To guide the discussion back to the topic if it goes off track",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 54,
+          "question": "In a GD, being 'assertive' means...",
+          "options": ["being aggressive and loud", "being shy and silent", "stating your points confidently and clearly without attacking others", "agreeing with everyone"],
+          "correct_answer": "stating your points confidently and clearly without attacking others",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 55,
+          "question": "A 'case study' based GD requires the group to...",
+          "options": ["discuss a social issue", "analyze a given situation and suggest solutions", "talk about an abstract idea", "debate on a controversial topic"],
+          "correct_answer": "analyze a given situation and suggest solutions",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 56,
+          "question": "Why is it important to summarize the discussion at the end?",
+          "options": ["To show that you remember everything", "To provide a clear conclusion of the group's thoughts", "To start a new argument", "It is not important"],
+          "correct_answer": "To provide a clear conclusion of the group's thoughts",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 57,
+          "question": "Which of these is a good way to begin a GD?",
+          "options": ["By starting with a strong, aggressive statement.", "By defining the topic and giving a brief overview.", "By asking a personal question to a group member.", "By telling a long, unrelated story."],
+          "correct_answer": "By defining the topic and giving a brief overview.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 58,
+          "question": "What is 'active listening'?",
+          "options": ["Hearing sounds but not paying attention", "Waiting for your turn to speak", "Paying full attention to the speaker and understanding their point", "Pretending to listen"],
+          "correct_answer": "Paying full attention to the speaker and understanding their point",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 59,
+          "question": "A 'topic-based' GD is one where the group discusses...",
+          "options": ["a real-life problem scenario", "a general subject or a current event", "a single word like 'blue'", "a personal issue"],
+          "correct_answer": "a general subject or a current event",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 60,
+          "question": "What is a 'fish market' situation in a GD?",
+          "options": ["A very quiet and calm discussion", "When everyone is selling fish", "A chaotic situation where everyone is speaking at once", "A well-organized discussion"],
+          "correct_answer": "A chaotic situation where everyone is speaking at once",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 61,
+          "question": "To add value to a discussion, you should...",
+          "options": ["repeat what others have already said", "bring in new points or a different perspective", "speak very loudly", "disagree with every point"],
+          "correct_answer": "bring in new points or a different perspective",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 62,
+          "question": "What is a good phrase for politely disagreeing?",
+          "options": ["'That's a completely wrong idea.'", "'I see your point, but I have a different perspective.'", "'You don't know anything.'", "'That's not true.'"],
+          "correct_answer": "'I see your point, but I have a different perspective.'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 63,
+          "question": "Why is it important to use facts and figures in some GDs?",
+          "options": ["To make the discussion longer", "To make your arguments more credible and convincing", "To confuse other participants", "It is not important"],
+          "correct_answer": "To make your arguments more credible and convincing",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 64,
+          "question": "When summarizing, you should...",
+          "options": ["only mention your own points", "mention the main points of all speakers objectively", "give your final judgement on who was the best", "start a new discussion"],
+          "correct_answer": "mention the main points of all speakers objectively",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 65,
+          "question": "Leaning back and crossing your arms can be seen as ______ body language.",
+          "options": ["open and friendly", "defensive or uninterested", "confident and engaged", "nervous"],
+          "correct_answer": "defensive or uninterested",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 66,
+          "question": "What is an 'abstract' topic in a GD?",
+          "options": ["A topic about a current event", "A topic that is a concept or an idea, like 'Red' or 'Zero'", "A topic about a social problem", "A topic with a clear solution"],
+          "correct_answer": "A topic that is a concept or an idea, like 'Red' or 'Zero'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 67,
+          "question": "What is the role of a 'moderator' in a formal GD?",
+          "options": ["To participate and win the discussion", "To ensure the GD runs smoothly and follows the rules", "To decide who is wrong", "To give the final conclusion"],
+          "correct_answer": "To ensure the GD runs smoothly and follows the rules",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 68,
+          "question": "If someone is very shy and not speaking, a good team member might...",
+          "options": ["ignore them", "make fun of them", "politely ask for their opinion on a point", "tell them to leave"],
+          "correct_answer": "politely ask for their opinion on a point",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 69,
+          "question": "The quality of your points is more important than the ______ of your points.",
+          "options": ["length", "quantity", "volume", "color"],
+          "correct_answer": "quantity",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 70,
+          "question": "Paraphrasing another speaker's point before adding your own shows that...",
+          "options": ["you were not listening", "you are a good listener and have understood their point", "you want to copy their idea", "you are trying to confuse them"],
+          "correct_answer": "you are a good listener and have understood their point",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 71,
+          "question": "A GD is often used in selection processes to assess a candidate's...",
+          "options": ["handwriting", "drawing skills", "teamwork and communication skills", "ability to sit still"],
+          "correct_answer": "teamwork and communication skills",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 72,
+          "question": "What does it mean to build upon someone's idea?",
+          "options": ["To repeat their idea exactly", "To disagree with their idea", "To accept their idea and add more to it", "To ignore their idea"],
+          "correct_answer": "To accept their idea and add more to it",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 73,
+          "question": "When you are the initiator, you should aim to give the discussion a good...",
+          "options": ["ending", "direction and structure", "fight", "joke"],
+          "correct_answer": "direction and structure",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 74,
+          "question": "A controversial topic in a GD requires participants to be more...",
+          "options": ["aggressive and emotional", "sensitive and respectful of different viewpoints", "silent", "funny"],
+          "correct_answer": "sensitive and respectful of different viewpoints",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 75,
+          "question": "What is 'group dynamics'?",
+          "options": ["A type of dance", "The way people in a group interact with each other", "A scientific experiment", "A GD topic"],
+          "correct_answer": "The way people in a group interact with each other",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 76,
+          "question": "What is a 'rebuttal'?",
+          "options": ["Agreeing with a point", "A response that refutes or argues against a point", "Summarizing a point", "Repeating a point"],
+          "correct_answer": "A response that refutes or argues against a point",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 77,
+          "question": "A successful GD is one where...",
+          "options": ["one person wins the argument", "the group explores the topic from multiple angles", "everyone remains silent", "the group fights"],
+          "correct_answer": "the group explores the topic from multiple angles",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 78,
+          "question": "Fiddling with your phone during a GD is a sign of...",
+          "options": ["great respect", "disrespect and lack of interest", "good preparation", "confidence"],
+          "correct_answer": "disrespect and lack of interest",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 79,
+          "question": "To be an effective speaker, your thoughts should be...",
+          "options": ["random and chaotic", "clear and well-structured", "very complicated", "hidden"],
+          "correct_answer": "clear and well-structured",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 80,
+          "question": "Why is it good to use transitions (e.g., 'Firstly', 'On the other hand')?",
+          "options": ["To confuse the listeners", "To make your speech sound smooth and logical", "To make your speech longer", "It is not good"],
+          "correct_answer": "To make your speech sound smooth and logical",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 81,
+          "question": "Which of these is a key leadership quality shown in a GD?",
+          "options": ["Shouting the loudest", "Speaking the most", "Guiding the discussion and encouraging others", "Disagreeing with everyone"],
+          "correct_answer": "Guiding the discussion and encouraging others",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 82,
+          "question": "An 'open-ended question' is a good way to...",
+          "options": ["end the discussion", "encourage more detailed responses from the group", "get a 'yes' or 'no' answer", "show that you are not listening"],
+          "correct_answer": "encourage more detailed responses from the group",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 83,
+          "question": "What should be your goal if you are the one summarizing?",
+          "options": ["To be fair and include all key viewpoints", "To prove that your points were the best", "To make the summary very long", "To criticize other speakers"],
+          "correct_answer": "To be fair and include all key viewpoints",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 84,
+          "question": "What is the difference between a GD and a debate?",
+          "options": ["There is no difference.", "A GD is a cooperative discussion, while a debate is a competitive argument.", "A debate is quieter than a GD.", "A GD has a winner, a debate does not."],
+          "correct_answer": "A GD is a cooperative discussion, while a debate is a competitive argument.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 85,
+          "question": "What does the phrase 'to play devil's advocate' mean?",
+          "options": ["To be evil", "To agree with a popular point", "To argue against a point for the sake of exploring it, even if you agree with it", "To end the discussion"],
+          "correct_answer": "To argue against a point for the sake of exploring it, even if you agree with it",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 86,
+          "question": "Your tone of voice can show if you are being...",
+          "options": ["tall or short", "sarcastic or sincere", "right or wrong", "rich or poor"],
+          "correct_answer": "sarcastic or sincere",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 87,
+          "question": "If the topic is 'Social Media: Boon or Bane?', you should discuss...",
+          "options": ["only the good parts (boon)", "only the bad parts (bane)", "both the good and bad parts", "a different topic like television"],
+          "correct_answer": "both the good and bad parts",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 88,
+          "question": "Using a personal story (anecdote) can make your point more...",
+          "options": ["boring", "relatable and impactful", "scientific", "confusing"],
+          "correct_answer": "relatable and impactful",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 89,
+          "question": "What is the best way to handle getting interrupted?",
+          "options": ["Start shouting at the person", "Stop talking and never speak again", "Politely say, 'Please let me finish my point.'", "Interrupt them back immediately"],
+          "correct_answer": "Politely say, 'Please let me finish my point.'",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 90,
+          "question": "A GD where you are given a picture to discuss is a form of...",
+          "options": ["case study", "abstract topic", "visual-based discussion", "current affairs discussion"],
+          "correct_answer": "visual-based discussion",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 91,
+          "question": "What does 'thinking on your feet' mean in a GD context?",
+          "options": ["The ability to stand up while thinking", "The ability to respond to points and think of ideas quickly", "The ability to think about your shoes", "The ability to take a long time to think"],
+          "correct_answer": "The ability to respond to points and think of ideas quickly",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 92,
+          "question": "The introduction of a GD should ideally contain a hook and a...",
+          "options": ["conclusion", "brief outline of your initial thoughts", "personal attack", "long story"],
+          "correct_answer": "brief outline of your initial thoughts",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 93,
+          "question": "What does it mean to be 'objective' in a summary?",
+          "options": ["To include your personal feelings", "To present the facts without bias or personal opinion", "To only mention one side of the discussion", "To criticize everyone's points"],
+          "correct_answer": "To present the facts without bias or personal opinion",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 94,
+          "question": "Bringing the discussion to a 'consensus' means the group...",
+          "options": ["is in complete disagreement", "has reached a general agreement", "has stopped talking", "has started a new topic"],
+          "correct_answer": "has reached a general agreement",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 95,
+          "question": "Which of these is a key component of effective communication in a GD?",
+          "options": ["Clarity, confidence, and respect", "Speed, volume, and aggression", "Silence, agreement, and nervousness", "Jokes, stories, and interruptions"],
+          "correct_answer": "Clarity, confidence, and respect",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 96,
+          "question": "If you use a statistic, you should be prepared to...",
+          "options": ["change it if someone disagrees", "state its source if asked", "forget where you got it from", "make up more statistics"],
+          "correct_answer": "state its source if asked",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 97,
+          "question": "Maintaining a positive and constructive ______ is important for a successful GD.",
+          "options": ["argument", "fight", "attitude", "silence"],
+          "correct_answer": "attitude",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 98,
+          "question": "The purpose of a case study GD is to test your ______ skills.",
+          "options": ["creative", "analytical and problem-solving", "listening", "speaking"],
+          "correct_answer": "analytical and problem-solving",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 99,
+          "question": "What is the best way to manage your time when speaking?",
+          "options": ["Speak for as long as you want", "Make your points concise and to the point", "Speak very quickly to say more", "Speak very slowly to use more time"],
+          "correct_answer": "Make your points concise and to the point",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 100,
+          "question": "A good conclusion should not introduce...",
+          "options": ["a summary", "a final thought", "new points or arguments", "a thank you"],
+          "correct_answer": "new points or arguments",
+          "grammar_type": "Group Discussion Practice"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The ability to combine several viewpoints from the group into a cohesive new point is known as...",
+          "options": ["Interrupting", "Summarizing", "Synthesizing", "Initiating"],
+          "correct_answer": "Synthesizing",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 102,
+          "question": "In a GD, what is a 'logical fallacy'?",
+          "options": ["A strong, well-reasoned argument", "A flaw in reasoning that makes an argument invalid", "A fact supported by data", "A polite disagreement"],
+          "correct_answer": "A flaw in reasoning that makes an argument invalid",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 103,
+          "question": "Attacking a person's character instead of their argument is which logical fallacy?",
+          "options": ["Straw Man", "Ad Hominem", "Slippery Slope", "Hasty Generalization"],
+          "correct_answer": "Ad Hominem",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 104,
+          "question": "What does it mean to establish 'rapport' with the group?",
+          "options": ["To create a hostile environment", "To build a harmonious and understanding relationship", "To dominate the conversation", "To be the most knowledgeable person"],
+          "correct_answer": "To build a harmonious and understanding relationship",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 105,
+          "question": "A 'guesstimate' is a type of case study that requires you to...",
+          "options": ["guess a random number", "calculate an exact figure with given data", "make a reasonable estimate based on logical assumptions", "discuss a social issue"],
+          "correct_answer": "make a reasonable estimate based on logical assumptions",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 106,
+          "question": "What is the primary risk of initiating a GD with a very strong, non-negotiable stand?",
+          "options": ["It shows strong leadership.", "It can stifle discussion and make you seem inflexible.", "It encourages others to participate.", "It is the best way to start a discussion."],
+          "correct_answer": "It can stifle discussion and make you seem inflexible.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 107,
+          "question": "The PEEL method for structuring an argument stands for...",
+          "options": ["Point, Example, Explain, Listen", "Point, Evidence, Explain, Link", "Person, Evidence, Emotion, Logic", "Polite, Excellent, Eloquent, Leader"],
+          "correct_answer": "Point, Evidence, Explain, Link",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 108,
+          "question": "In a GD for a management role, which skill is most critical?",
+          "options": ["The ability to speak the longest", "The ability to facilitate discussion and lead the group to a conclusion", "The ability to argue aggressively", "The ability to remain silent"],
+          "correct_answer": "The ability to facilitate discussion and lead the group to a conclusion",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 109,
+          "question": "What is a 'nuanced' argument?",
+          "options": ["A very simple, one-sided argument", "An argument that recognizes the complexity and subtleties of an issue", "A loud and aggressive argument", "An argument that is off-topic"],
+          "correct_answer": "An argument that recognizes the complexity and subtleties of an issue",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 110,
+          "question": "Misrepresenting an opponent's argument to make it easier to attack is which fallacy?",
+          "options": ["Red Herring", "Ad Hominem", "Straw Man", "False Dichotomy"],
+          "correct_answer": "Straw Man",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 111,
+          "question": "A 'red herring' in a discussion is...",
+          "options": ["the main point of the topic", "a piece of evidence", "an irrelevant point introduced to divert attention", "a type of fish"],
+          "correct_answer": "an irrelevant point introduced to divert attention",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 112,
+          "question": "How can you diplomatically handle a dominant group member?",
+          "options": ["By shouting over them", "By acknowledging their point and then redirecting the conversation (e.g., 'That's an interesting point, let's also hear what others think.')", "By getting into a personal argument with them", "By ignoring them completely"],
+          "correct_answer": "By acknowledging their point and then redirecting the conversation (e.g., 'That's an interesting point, let's also hear what others think.')",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 113,
+          "question": "The 'bandwagon fallacy' is arguing that something is right because...",
+          "options": ["it is logical", "an expert said so", "many people believe it", "it is a new idea"],
+          "correct_answer": "many people believe it",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 114,
+          "question": "The ability to think creatively and come up with innovative ideas is especially important for which type of GD topic?",
+          "options": ["Current affairs", "Factual", "Abstract", "Social issue"],
+          "correct_answer": "Abstract",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 115,
+          "question": "In a case study, what is a 'SWOT' analysis?",
+          "options": ["A type of summary", "A framework for analyzing Strengths, Weaknesses, Opportunities, and Threats", "A way to start the discussion", "A method for disagreeing"],
+          "correct_answer": "A framework for analyzing Strengths, Weaknesses, Opportunities, and Threats",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 116,
+          "question": "A 'hasty generalization' fallacy is drawing a conclusion based on...",
+          "options": ["a lot of evidence", "insufficient or biased evidence", "expert opinion", "logical reasoning"],
+          "correct_answer": "insufficient or biased evidence",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 117,
+          "question": "Why is it important to maintain a consistent line of thought in your arguments?",
+          "options": ["It shows you are a good listener.", "It demonstrates logical thinking and makes your argument stronger.", "It is not important.", "It helps to confuse the other participants."],
+          "correct_answer": "It demonstrates logical thinking and makes your argument stronger.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 118,
+          "question": "What is the difference between a 'fact' and an 'inference' in a GD?",
+          "options": ["There is no difference.", "A fact is a verifiable truth; an inference is a conclusion reached based on evidence and reasoning.", "A fact is an opinion; an inference is a truth.", "A fact is a guess; an inference is a certainty."],
+          "correct_answer": "A fact is a verifiable truth; an inference is a conclusion reached based on evidence and reasoning.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 119,
+          "question": "Presenting a complex issue as having only two options when more exist is which fallacy?",
+          "options": ["Ad Hominem", "Slippery Slope", "False Dichotomy", "Bandwagon"],
+          "correct_answer": "False Dichotomy",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 120,
+          "question": "A good initiator not only starts the discussion but also...",
+          "options": ["ends the discussion immediately", "sets a positive and constructive tone", "makes sure no one else can speak", "dominates the entire conversation"],
+          "correct_answer": "sets a positive and constructive tone",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 121,
+          "question": "The 'slippery slope' fallacy is an argument that suggests...",
+          "options": ["the topic is very easy", "a minor first action will lead to a chain of major negative events", "the group should agree to disagree", "the conclusion is based on strong evidence"],
+          "correct_answer": "a minor first action will lead to a chain of major negative events",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 122,
+          "question": "What is meant by 'lateral thinking' in a GD?",
+          "options": ["Thinking in a straight, logical line", "Solving problems through an indirect and creative approach", "Thinking only about the negative aspects", "Disagreeing with every point"],
+          "correct_answer": "Solving problems through an indirect and creative approach",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 123,
+          "question": "A 'circular argument' is a fallacy where...",
+          "options": ["the argument is presented in a circle", "the conclusion is just a restatement of the starting assumption", "the argument has many good points", "the argument leads to a clear solution"],
+          "correct_answer": "the conclusion is just a restatement of the starting assumption",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 124,
+          "question": "To show leadership, you should focus on...",
+          "options": ["quantity of participation", "quality of contribution and facilitation of the group", "volume of your voice", "aggressiveness of your arguments"],
+          "correct_answer": "quality of contribution and facilitation of the group",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 125,
+          "question": "The final summary should be neutral and reflect the group's consensus, even if...",
+          "options": ["it is different from your personal view", "you were the only one who spoke", "no one was listening", "the topic was boring"],
+          "correct_answer": "it is different from your personal view",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 126,
+          "question": "What is the purpose of an 'ice-breaker' before a formal GD?",
+          "options": ["To make the room colder", "To create a tense atmosphere", "To help participants relax and get to know each other", "To test the participants' knowledge"],
+          "correct_answer": "To help participants relax and get to know each other",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 127,
+          "question": "A participant's 'locus of control' can be assessed in a GD. An 'internal locus of control' is shown by...",
+          "options": ["blaming others for problems", "taking initiative and suggesting solutions", "waiting for others to lead", "remaining silent"],
+          "correct_answer": "taking initiative and suggesting solutions",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 128,
+          "question": "An 'appeal to ignorance' fallacy is claiming something is true because...",
+          "options": ["an expert said so", "there is a lot of evidence for it", "it has not been proven false", "it is a popular belief"],
+          "correct_answer": "it has not been proven false",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 129,
+          "question": "The ability to maintain composure under pressure is a key trait evaluated in...",
+          "options": ["all group discussions", "only debates", "only individual speeches", "only written tests"],
+          "correct_answer": "all group discussions",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 130,
+          "question": "A 'paradigm shift' in a discussion refers to...",
+          "options": ["a minor disagreement", "a fundamental change in approach or underlying assumptions", "a summary of points", "a return to the original topic"],
+          "correct_answer": "a fundamental change in approach or underlying assumptions",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 131,
+          "question": "How can you show analytical skills in a GD?",
+          "options": ["By just stating facts", "By breaking down a topic into its components and examining them logically", "By agreeing with every point", "By speaking very emotionally"],
+          "correct_answer": "By breaking down a topic into its components and examining them logically",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 132,
+          "question": "In a case study, 'stakeholders' are...",
+          "options": ["the people who own the company", "all the individuals or groups affected by the situation", "the members of the discussion group", "the evaluators"],
+          "correct_answer": "all the individuals or groups affected by the situation",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 133,
+          "question": "The 'post hoc ergo propter hoc' fallacy is the error of assuming that because one event followed another, the first event...",
+          "options": ["was caused by the second", "caused the second", "is unrelated to the second", "is less important than the second"],
+          "correct_answer": "caused the second",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 134,
+          "question": "The ability to be concise means you can...",
+          "options": ["speak for a very long time", "use very complex words", "express your idea clearly in a few words", "repeat the same point many times"],
+          "correct_answer": "express your idea clearly in a few words",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 135,
+          "question": "What is the primary objective when a GD topic is a controversial social issue?",
+          "options": ["To prove that your view is the only correct one.", "To have a sensitive, multi-faceted discussion that explores different perspectives.", "To avoid the topic completely.", "To reach a unanimous agreement."],
+          "correct_answer": "To have a sensitive, multi-faceted discussion that explores different perspectives.",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 136,
+          "question": "The 'appeal to authority' fallacy happens when the authority cited is...",
+          "options": ["a genuine expert in the field", "unqualified or biased", "supported by other evidence", "presenting a logical argument"],
+          "correct_answer": "unqualified or biased",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 137,
+          "question": "A 'concession' in a GD (e.g., 'While it's true that..., we must also consider...') is a good strategy to show that you are...",
+          "options": ["stubborn and inflexible", "reasonable and have considered the other side", "confused about the topic", "trying to dominate the discussion"],
+          "correct_answer": "reasonable and have considered the other side",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 138,
+          "question": "How should you approach an abstract topic like 'Blue'?",
+          "options": ["By stating you don't understand it.", "By relating it to various concepts like sadness (feeling blue), royalty (royal blue), and nature (the sky).", "By only talking about the color blue.", "By arguing that it's a bad topic."],
+          "correct_answer": "By relating it to various concepts like sadness (feeling blue), royalty (royal blue), and nature (the sky).",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 139,
+          "question": "The ability to persuade others in a GD relies on logical arguments (logos), credibility (ethos), and...",
+          "options": ["a loud voice", "emotional connection (pathos)", "interrupting others", "speaking last"],
+          "correct_answer": "emotional connection (pathos)",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 140,
+          "question": "What is the primary role of the conclusion in a GD?",
+          "options": ["To introduce new evidence", "To provide a cohesive summary of the discussion and state the final position of the group", "To allow one person to give a long speech", "To restart the argument"],
+          "correct_answer": "To provide a cohesive summary of the discussion and state the final position of the group",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 141,
+          "question": "When you 'substantiate' a point, you...",
+          "options": ["make a wild guess", "disagree with it", "provide evidence or proof for it", "change the topic"],
+          "correct_answer": "provide evidence or proof for it",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 142,
+          "question": "A key difference between a formal GD and an informal chat is the presence of a clear objective and...",
+          "options": ["a lack of rules", "a defined structure", "the use of slang", "personal gossip"],
+          "correct_answer": "a defined structure",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 143,
+          "question": "The term 'groupthink' refers to a situation where...",
+          "options": ["the group thinks very creatively", "the desire for harmony in the group leads to poor decision-making as people avoid conflict", "every person in the group thinks independently", "the group cannot reach a decision"],
+          "correct_answer": "the desire for harmony in the group leads to poor decision-making as people avoid conflict",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 144,
+          "question": "A participant who helps to resolve conflicts and find common ground is playing the role of a...",
+          "options": ["disrupter", "facilitator or mediator", "dominator", "silent observer"],
+          "correct_answer": "facilitator or mediator",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 145,
+          "question": "What is the best strategy if you realize you made a factual error in an earlier point?",
+          "options": ["Ignore it and hope no one noticed.", "Argue aggressively that you are still right.", "Politely correct yourself (e.g., 'Earlier I mentioned..., but I'd like to correct that...').", "Stop participating in the discussion."],
+          "correct_answer": "Politely correct yourself (e.g., 'Earlier I mentioned..., but I'd like to correct that...').",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 146,
+          "question": "The 'halo effect' can influence an evaluator if they...",
+          "options": ["judge a speaker's overall performance based on one strong positive trait, like a good opening", "dislike the speaker's first point and judge them negatively after that", "are completely objective", "listen to all points equally"],
+          "correct_answer": "judge a speaker's overall performance based on one strong positive trait, like a good opening",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 147,
+          "question": "A sophisticated participant contributes not just by speaking, but also by...",
+          "options": ["drawing pictures", "listening actively and using non-verbal cues to encourage others", "texting on their phone", "looking bored"],
+          "correct_answer": "listening actively and using non-verbal cues to encourage others",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 148,
+          "question": "In a GD, what does it mean to be 'articulate'?",
+          "options": ["To have a loud voice", "To be able to express ideas clearly and effectively", "To agree with everyone", "To use a lot of hand gestures"],
+          "correct_answer": "To be able to express ideas clearly and effectively",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 149,
+          "question": "The ability to anticipate counter-arguments and address them in your own point shows...",
+          "options": ["a lack of confidence", "that you are being defensive", "proactive thinking and a strong understanding of the topic", "that you are not listening to others"],
+          "correct_answer": "proactive thinking and a strong understanding of the topic",
+          "grammar_type": "Group Discussion Practice"
+        },
+        {
+          "id": 150,
+          "question": "The ultimate goal of a collaborative Group Discussion is to...",
+          "options": ["find a single winner", "arrive at a better understanding or solution through collective thinking", "prove that the topic is bad", "finish as quickly as possible"],
+          "correct_answer": "arrive at a better understanding or solution through collective thinking",
+          "grammar_type": "Group Discussion Practice"
+        }
+      ]
+    }
+  ]
+}
+

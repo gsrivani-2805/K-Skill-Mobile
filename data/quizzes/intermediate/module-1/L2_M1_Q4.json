@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "I ______ to the market tomorrow.",
+          "options": ["go", "went", "will go", "goes"],
+          "correct_answer": "will go",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 2,
+          "question": "She ______ a letter to her grandmother next week.",
+          "options": ["writes", "wrote", "will write", "is writing"],
+          "correct_answer": "will write",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 3,
+          "question": "They ______ a new car soon.",
+          "options": ["buy", "bought", "will buy", "buys"],
+          "correct_answer": "will buy",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 4,
+          "question": "We ______ our grandparents this summer.",
+          "options": ["visit", "visited", "shall visit", "visits"],
+          "correct_answer": "shall visit",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 5,
+          "question": "He ______ his homework later.",
+          "options": ["will do", "did", "does", "is doing"],
+          "correct_answer": "will do",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 6,
+          "question": "You ______ the movie.",
+          "options": ["enjoy", "enjoyed", "will enjoy", "enjoys"],
+          "correct_answer": "will enjoy",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 7,
+          "question": "The train ______ at 10 o'clock.",
+          "options": ["will arrive", "arrived", "arrives", "is arriving"],
+          "correct_answer": "will arrive",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 8,
+          "question": "I think it ______ tomorrow.",
+          "options": ["rains", "rained", "will rain", "is raining"],
+          "correct_answer": "will rain",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 9,
+          "question": "My father ______ back from his trip next month.",
+          "options": ["comes", "came", "will come", "is coming"],
+          "correct_answer": "will come",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 10,
+          "question": "The children ______ in the school play.",
+          "options": ["will act", "acted", "acts", "are acting"],
+          "correct_answer": "will act",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 11,
+          "question": "She ______ not come to the party.",
+          "options": ["do", "will", "is", "does"],
+          "correct_answer": "will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 12,
+          "question": "______ you help me with this box?",
+          "options": ["Do", "Are", "Will", "Did"],
+          "correct_answer": "Will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 13,
+          "question": "I ______ you later.",
+          "options": ["called", "call", "will call", "am calling"],
+          "correct_answer": "will call",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 14,
+          "question": "They ______ the match, I am sure.",
+          "options": ["win", "won", "will win", "are winning"],
+          "correct_answer": "will win",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 15,
+          "question": "He ______ late for the meeting.",
+          "options": ["is", "was", "will be", "are"],
+          "correct_answer": "will be",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 16,
+          "question": "We ______ not forget your kindness.",
+          "options": ["are", "do", "shall", "did"],
+          "correct_answer": "shall",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 17,
+          "question": "The sun ______ again tomorrow morning.",
+          "options": ["shines", "shone", "will shine", "is shining"],
+          "correct_answer": "will shine",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 18,
+          "question": "I ______ to be a doctor when I grow up.",
+          "options": ["am going", "went", "go", "will"],
+          "correct_answer": "am going",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 19,
+          "question": "Look at the dark clouds! It ______ rain.",
+          "options": ["is going to", "will", "rains", "rained"],
+          "correct_answer": "is going to",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 20,
+          "question": "She ______ her grandmother this weekend.",
+          "options": ["will visit", "is going to visit", "visited", "visits"],
+          "correct_answer": "is going to visit",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 21,
+          "question": "They ______ a new house next year. They have saved enough money.",
+          "options": ["will build", "are going to build", "built", "build"],
+          "correct_answer": "are going to build",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 22,
+          "question": "I ______ not tell anyone your secret.",
+          "options": ["am", "will", "do", "did"],
+          "correct_answer": "will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 23,
+          "question": "The shops ______ at 9 PM.",
+          "options": ["closed", "will close", "close", "are closing"],
+          "correct_answer": "will close",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 24,
+          "question": "______ he be here soon?",
+          "options": ["Does", "Is", "Will", "Did"],
+          "correct_answer": "Will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 25,
+          "question": "We ______ a party for her birthday.",
+          "options": ["are going to have", "had", "have", "will has"],
+          "correct_answer": "are going to have",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 26,
+          "question": "It's cold. I ______ the window.",
+          "options": ["am closing", "closed", "will close", "close"],
+          "correct_answer": "will close",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 27,
+          "question": "The teacher ______ us a test next Monday.",
+          "options": ["will give", "gave", "gives", "is giving"],
+          "correct_answer": "will give",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 28,
+          "question": "What ______ you do after school?",
+          "options": ["did", "do", "will", "are"],
+          "correct_answer": "will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 29,
+          "question": "The movie ______ in ten minutes.",
+          "options": ["started", "starts", "will start", "is starting"],
+          "correct_answer": "will start",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 30,
+          "question": "He ______ his friend at the airport.",
+          "options": ["meets", "met", "is going to meet", "was meeting"],
+          "correct_answer": "is going to meet",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 31,
+          "question": "My sister ______ 10 years old next year.",
+          "options": ["is", "was", "will be", "are"],
+          "correct_answer": "will be",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 32,
+          "question": "I am thirsty. I ______ some water.",
+          "options": ["drank", "drink", "will drink", "am drinking"],
+          "correct_answer": "will drink",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 33,
+          "question": "The farmers ______ the crops next month.",
+          "options": ["harvest", "harvested", "will harvest", "are harvesting"],
+          "correct_answer": "will harvest",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 34,
+          "question": "Watch out! You ______ fall.",
+          "options": ["will", "are going to", "fall", "fell"],
+          "correct_answer": "are going to",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 35,
+          "question": "______ we dance?",
+          "options": ["Will", "Do", "Shall", "Are"],
+          "correct_answer": "Shall",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 36,
+          "question": "The examinations ______ on Monday.",
+          "options": ["will begin", "began", "begins", "are beginning"],
+          "correct_answer": "will begin",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 37,
+          "question": "I ______ you with your luggage.",
+          "options": ["help", "am helping", "helped", "will help"],
+          "correct_answer": "will help",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 38,
+          "question": "She ______ study medicine at the university.",
+          "options": ["is going to", "will", "studies", "studied"],
+          "correct_answer": "is going to",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 39,
+          "question": "It's her plan. She ______ a new dress.",
+          "options": ["will buy", "is going to buy", "buys", "bought"],
+          "correct_answer": "is going to buy",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 40,
+          "question": "He ______ not be able to join us.",
+          "options": ["is", "was", "will", "did"],
+          "correct_answer": "will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 41,
+          "question": "I ______ finish this book by tonight.",
+          "options": ["finished", "will finish", "finish", "am finishing"],
+          "correct_answer": "will finish",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 42,
+          "question": "The postman ______ soon.",
+          "options": ["comes", "came", "will come", "is coming"],
+          "correct_answer": "will come",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 43,
+          "question": "We ______ for a picnic if the weather is good.",
+          "options": ["shall go", "went", "go", "goes"],
+          "correct_answer": "shall go",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 44,
+          "question": "What ______ happen next?",
+          "options": ["is", "did", "does", "will"],
+          "correct_answer": "will",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 45,
+          "question": "Be careful! The glass ______ break.",
+          "options": ["will", "is going to", "breaks", "broke"],
+          "correct_answer": "is going to",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 46,
+          "question": "She promises she ______ be late.",
+          "options": ["is not", "won't", "didn't", "doesn't"],
+          "correct_answer": "won't",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 47,
+          "question": "I ______ you when I have time.",
+          "options": ["will call", "called", "call", "am calling"],
+          "correct_answer": "will call",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 48,
+          "question": "They have already decided. They ______ to a new city.",
+          "options": ["will move", "moved", "are going to move", "move"],
+          "correct_answer": "are going to move",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 49,
+          "question": "Perhaps we ______ meet again someday.",
+          "options": ["shall", "did", "do", "are"],
+          "correct_answer": "shall",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 50,
+          "question": "The phone is ringing. I ______ get it.",
+          "options": ["got", "get", "will get", "am going to get"],
+          "correct_answer": "will get",
+          "grammar_type": "Future Tense"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "This time next week, I ______ on a beach in Goa.",
+          "options": ["will relax", "am relaxing", "will be relaxing", "will have relaxed"],
+          "correct_answer": "will be relaxing",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 52,
+          "question": "By the time you arrive, we ______ dinner.",
+          "options": ["will finish", "will be finishing", "will have finished", "finish"],
+          "correct_answer": "will have finished",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 53,
+          "question": "The meeting ______ at 4 PM, so don't be late.",
+          "options": ["will start", "starts", "is starting", "started"],
+          "correct_answer": "starts",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 54,
+          "question": "I can't come to the party because I ______ for my exam.",
+          "options": ["will study", "will be studying", "am studying", "study"],
+          "correct_answer": "will be studying",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 55,
+          "question": "I will call you when I ______ home.",
+          "options": ["will get", "get", "am getting", "got"],
+          "correct_answer": "get",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 56,
+          "question": "By the end of this year, she ______ her new novel.",
+          "options": ["will write", "writes", "will have written", "will be writing"],
+          "correct_answer": "will have written",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 57,
+          "question": "We ______ a meeting with the client tomorrow at 11 AM.",
+          "options": ["have", "are having", "will have", "will be having"],
+          "correct_answer": "are having",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 58,
+          "question": "Don't call me between 7 and 8. I ______ my favorite show.",
+          "options": ["will watch", "am watching", "will be watching", "watch"],
+          "correct_answer": "will be watching",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 59,
+          "question": "Before you come, we ______ the house.",
+          "options": ["will clean", "are cleaning", "will have cleaned", "clean"],
+          "correct_answer": "will have cleaned",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 60,
+          "question": "He ______ his exam by this time next month.",
+          "options": ["will take", "will be taking", "will have taken", "takes"],
+          "correct_answer": "will have taken",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 61,
+          "question": "The train ______ at 5:30 in the morning.",
+          "options": ["will leave", "leaves", "is leaving", "left"],
+          "correct_answer": "leaves",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 62,
+          "question": "If you don't hurry, you ______ the bus.",
+          "options": ["miss", "will miss", "are missing", "missed"],
+          "correct_answer": "will miss",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 63,
+          "question": "In ten years' time, I ______ my own company.",
+          "options": ["will probably run", "am probably running", "will be probably running", "run"],
+          "correct_answer": "will probably run",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 64,
+          "question": "He ______ on this project for six months by the time it is finished.",
+          "options": ["will work", "will be working", "will have worked", "will have been working"],
+          "correct_answer": "will have been working",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 65,
+          "question": "As soon as the teacher ______, the students will stand up.",
+          "options": ["will enter", "is entering", "enters", "entered"],
+          "correct_answer": "enters",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 66,
+          "question": "This evening, I ______ at home and watch a movie.",
+          "options": ["will be staying", "am going to stay", "will have stayed", "stay"],
+          "correct_answer": "am going to stay",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 67,
+          "question": "They ______ dinner when we arrive.",
+          "options": ["will have", "will be having", "are having", "have"],
+          "correct_answer": "will be having",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 68,
+          "question": "By 2030, scientists ______ a cure for the disease.",
+          "options": ["will find", "will be finding", "will have found", "find"],
+          "correct_answer": "will have found",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 69,
+          "question": "What ______ you ______ at this time tomorrow?",
+          "options": ["will...do", "will...be doing", "will...have done", "do...do"],
+          "correct_answer": "will...be doing",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 70,
+          "question": "By the time the course ends, I ______ a lot.",
+          "options": ["will learn", "will be learning", "am learning", "will have learned"],
+          "correct_answer": "will have learned",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 71,
+          "question": "Don't worry, I ______ you as soon as I hear any news.",
+          "options": ["inform", "will inform", "am informing", "am going to inform"],
+          "correct_answer": "will inform",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 72,
+          "question": "My flight ______ at 8 AM tomorrow.",
+          "options": ["departs", "will depart", "is departing", "departed"],
+          "correct_answer": "departs",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 73,
+          "question": "By the end of their trip, they ______ over 20 cities.",
+          "options": ["will visit", "will be visiting", "will have visited", "visit"],
+          "correct_answer": "will have visited",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 74,
+          "question": "While you are at the party, I ______ for my test.",
+          "options": ["will be studying", "am studying", "will study", "study"],
+          "correct_answer": "will be studying",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 75,
+          "question": "I won't go out until the rain ______.",
+          "options": ["will stop", "is stopping", "stops", "stopped"],
+          "correct_answer": "stops",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 76,
+          "question": "In December, she ______ in this school for three years.",
+          "options": ["will work", "will be working", "will have been working", "works"],
+          "correct_answer": "will have been working",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 77,
+          "question": "The team has been practicing hard. They ______ the championship.",
+          "options": ["will win", "are going to win", "win", "will be winning"],
+          "correct_answer": "are going to win",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 78,
+          "question": "He ______ his computer skills course by next month.",
+          "options": ["will have finished", "will be finishing", "finishes", "will finish"],
+          "correct_answer": "will have finished",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 79,
+          "question": "Unless you ______ harder, you will not succeed.",
+          "options": ["will work", "work", "are working", "worked"],
+          "correct_answer": "work",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 80,
+          "question": "At 5 o'clock tomorrow, we ______ the final presentation.",
+          "options": ["will give", "will be giving", "give", "will have given"],
+          "correct_answer": "will be giving",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 81,
+          "question": "The company ______ its annual report next week.",
+          "options": ["publishes", "is publishing", "will publish", "will be publishing"],
+          "correct_answer": "is publishing",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 82,
+          "question": "By the time the guests arrive, I ______ everything.",
+          "options": ["will cook", "will have cooked", "will be cooking", "cook"],
+          "correct_answer": "will have cooked",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 83,
+          "question": "This shop ______ soon. Look, they are putting up a 'closing down' sign.",
+          "options": ["will close", "is going to close", "closes", "will be closing"],
+          "correct_answer": "is going to close",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 84,
+          "question": "Next year, I ______ in college for two years.",
+          "options": ["will be", "will have been", "am", "will be being"],
+          "correct_answer": "will have been",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 85,
+          "question": "We cannot go on a picnic if it ______.",
+          "options": ["will rain", "rains", "is raining", "rained"],
+          "correct_answer": "rains",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 86,
+          "question": "By the end of the day, I ______ over 100 emails.",
+          "options": ["will answer", "will be answering", "will have answered", "answer"],
+          "correct_answer": "will have answered",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 87,
+          "question": "I am ______ dinner with the Sharmas tonight.",
+          "options": ["having", "will have", "am going to have", "have"],
+          "correct_answer": "having",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 88,
+          "question": "By next week, they ______ painting the house for a month.",
+          "options": ["will paint", "will be painting", "will have been painting", "paint"],
+          "correct_answer": "will have been painting",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 89,
+          "question": "The new bridge ______ by the end of the year.",
+          "options": ["will be completed", "will have been completed", "is completed", "completes"],
+          "correct_answer": "will have been completed",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 90,
+          "question": "The president ______ the nation tomorrow at 8 PM.",
+          "options": ["addresses", "will be addressing", "will address", "is addressing"],
+          "correct_answer": "will be addressing",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 91,
+          "question": "I will wait here until she ______ back.",
+          "options": ["will come", "comes", "is coming", "came"],
+          "correct_answer": "comes",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 92,
+          "question": "Before you call me, I ______ the meeting.",
+          "options": ["will leave", "will have left", "am leaving", "leave"],
+          "correct_answer": "will have left",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 93,
+          "question": "The sun is so hot. The ice cream ______.",
+          "options": ["will melt", "is going to melt", "melts", "is melting"],
+          "correct_answer": "is going to melt",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 94,
+          "question": "This time next year, my parents ______ their 25th wedding anniversary.",
+          "options": ["will celebrate", "celebrate", "will be celebrating", "will have celebrated"],
+          "correct_answer": "will be celebrating",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 95,
+          "question": "You should not call her now; she ______.",
+          "options": ["will sleep", "sleeps", "will be sleeping", "will have slept"],
+          "correct_answer": "will be sleeping",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 96,
+          "question": "By the time the movie is over, we ______ all the popcorn.",
+          "options": ["will eat", "will be eating", "will have eaten", "eat"],
+          "correct_answer": "will have eaten",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 97,
+          "question": "Provide me with the details, and I ______ the arrangements.",
+          "options": ["make", "am making", "will make", "am going to make"],
+          "correct_answer": "will make",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 98,
+          "question": "He ______ on this task for three hours by 5 PM.",
+          "options": ["will work", "will be working", "will have worked", "will have been working"],
+          "correct_answer": "will have been working",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 99,
+          "question": "I ______ my exam results next week.",
+          "options": ["get", "am getting", "will get", "got"],
+          "correct_answer": "am getting",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 100,
+          "question": "Once I ______ this chapter, I will take a short break.",
+          "options": ["will finish", "finish", "am finishing", "finished"],
+          "correct_answer": "finish",
+          "grammar_type": "Future Tense"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "I ______ to call you all day, but I have been too busy.",
+          "options": ["was going", "will have been going", "have been going", "am going"],
+          "correct_answer": "have been going",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 102,
+          "question": "The president ______ to visit the flood-affected areas next week.",
+          "options": ["is", "was", "will", "is going"],
+          "correct_answer": "is",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 103,
+          "question": "He ______ to start his own business, but he lacked the funds.",
+          "options": ["was going", "is going", "will be going", "had gone"],
+          "correct_answer": "was going",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 104,
+          "question": "The train is on the point of ______.",
+          "options": ["leave", "leaving", "left", "to leave"],
+          "correct_answer": "leaving",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 105,
+          "question": "I thought you ______ for me.",
+          "options": ["will wait", "would be waiting", "are waiting", "have been waiting"],
+          "correct_answer": "would be waiting",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 106,
+          "question": "The rocket ______ to be launched at 0600 hours.",
+          "options": ["is", "was", "will", "has"],
+          "correct_answer": "is",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 107,
+          "question": "She was about ______ the house when the phone rang.",
+          "options": ["to leave", "leaving", "left", "leaves"],
+          "correct_answer": "to leave",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 108,
+          "question": "I ______ you if I had known your number.",
+          "options": ["will call", "would call", "would have called", "called"],
+          "correct_answer": "would have called",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 109,
+          "question": "By the time they stop arguing, the problem ______ worse.",
+          "options": ["will get", "is getting", "will have gotten", "gets"],
+          "correct_answer": "will have gotten",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 110,
+          "question": "He ______ his decision by this evening.",
+          "options": ["will announce", "announces", "is to announce", "will have announced"],
+          "correct_answer": "will have announced",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 111,
+          "question": "We ______ driving for twelve hours straight by the time we reach the destination.",
+          "options": ["will be", "will have been", "are", "have been"],
+          "correct_answer": "will have been",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 112,
+          "question": "He said he ______ us at the gate.",
+          "options": ["will meet", "is meeting", "would meet", "meets"],
+          "correct_answer": "would meet",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 113,
+          "question": "I knew she ______ the exam because she had studied so hard.",
+          "options": ["will pass", "would pass", "would have passed", "is going to pass"],
+          "correct_answer": "would pass",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 114,
+          "question": "The new law, which is to come into effect next month, ______ many changes.",
+          "options": ["will bring", "brings", "is bringing", "will have brought"],
+          "correct_answer": "will bring",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 115,
+          "question": "I ______ a movie tonight unless I get a call from the office.",
+          "options": ["will watch", "am going to watch", "will be watching", "watch"],
+          "correct_answer": "am going to watch",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 116,
+          "question": "The conference is ______ place from May 10th to May 12th.",
+          "options": ["going to take", "taking", "will take", "takes"],
+          "correct_answer": "taking",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 117,
+          "question": "If you are still here in an hour, I ______ the police.",
+          "options": ["call", "am calling", "will call", "am going to call"],
+          "correct_answer": "will call",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 118,
+          "question": "He is on the verge of ______ his temper.",
+          "options": ["lose", "losing", "lost", "to lose"],
+          "correct_answer": "losing",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 119,
+          "question": "The company hopes that the new product ______ a huge success.",
+          "options": ["is", "will be", "is going to be", "would be"],
+          "correct_answer": "will be",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 120,
+          "question": "They ______ to have finished the work by now.",
+          "options": ["suppose", "are supposed", "supposed", "were supposed"],
+          "correct_answer": "are supposed",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 121,
+          "question": "The forecast says the weather ______ fine tomorrow.",
+          "options": ["is", "will be", "is going to be", "would be"],
+          "correct_answer": "will be",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 122,
+          "question": "This time next month, they ______ in their new house for a few weeks.",
+          "options": ["will live", "will be living", "will have lived", "will have been living"],
+          "correct_answer": "will have been living",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 123,
+          "question": "I felt that I ______ my friend again.",
+          "options": ["will never see", "would never see", "am never seeing", "will have never seen"],
+          "correct_answer": "would never see",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 124,
+          "question": "The students ______ to submit their projects by the end of the month.",
+          "options": ["are", "will", "are going", "have"],
+          "correct_answer": "are",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 125,
+          "question": "By the time he graduates, he ______ for a job for several months.",
+          "options": ["will look", "will be looking", "will have looked", "will have been looking"],
+          "correct_answer": "will have been looking",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 126,
+          "question": "She knew she ______ late, so she took a taxi.",
+          "options": ["will be", "is going to be", "was going to be", "would have been"],
+          "correct_answer": "was going to be",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 127,
+          "question": "The plan was that we ______ at the cafe, but it was closed.",
+          "options": ["would meet", "will meet", "are meeting", "were meeting"],
+          "correct_answer": "would meet",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 128,
+          "question": "I ______ to the gym later if I finish my work on time.",
+          "options": ["go", "will go", "am going", "would go"],
+          "correct_answer": "will go",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 129,
+          "question": "He ______ his 10th year of service with the company next May.",
+          "options": ["will complete", "is completing", "will have completed", "completes"],
+          "correct_answer": "will have completed",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 130,
+          "question": "The government ______ new policies to tackle unemployment.",
+          "options": ["is about to announce", "will have announced", "announces", "announced"],
+          "correct_answer": "is about to announce",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 131,
+          "question": "If you call her now, she ______ from work.",
+          "options": ["will travel", "will be travelling", "will have travelled", "travels"],
+          "correct_answer": "will be travelling",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 132,
+          "question": "The documents ______ to you as soon as they are signed.",
+          "options": ["are sent", "will be sent", "will have been sent", "are going to be sent"],
+          "correct_answer": "will be sent",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 133,
+          "question": "He promised he ______ late again.",
+          "options": ["will not be", "is not going to be", "would not be", "was not"],
+          "correct_answer": "would not be",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 134,
+          "question": "By the time the new manager takes over, the company ______ its financial targets.",
+          "options": ["will achieve", "achieves", "will be achieving", "will have achieved"],
+          "correct_answer": "will have achieved",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 135,
+          "question": "I was under the impression that the exam ______ on Friday.",
+          "options": ["is", "will be", "was", "would be"],
+          "correct_answer": "was",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 136,
+          "question": "This old building ______ down next month.",
+          "options": ["is being pulled", "will be pulling", "is going to be pulled", "will have been pulled"],
+          "correct_answer": "is going to be pulled",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 137,
+          "question": "You ______ to follow the rules, or you will be penalized.",
+          "options": ["are", "will", "have", "do"],
+          "correct_answer": "are",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 138,
+          "question": "The team ______ to have started training by now.",
+          "options": ["was supposed", "is supposed", "supposed", "had supposed"],
+          "correct_answer": "is supposed",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 139,
+          "question": "I ______ for you at the library after the class ends.",
+          "options": ["wait", "am waiting", "will be waiting", "will have waited"],
+          "correct_answer": "will be waiting",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 140,
+          "question": "The new exhibition ______ to be a major success.",
+          "options": ["is expected", "expects", "will expect", "is expecting"],
+          "correct_answer": "is expected",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 141,
+          "question": "In three months' time, I ______ my exams and I will be free.",
+          "options": ["will be finishing", "will have finished", "finish", "am finishing"],
+          "correct_answer": "will have finished",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 142,
+          "question": "He was to ______ for the post of manager, but he fell ill.",
+          "options": ["apply", "have applied", "be applying", "applied"],
+          "correct_answer": "have applied",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 143,
+          "question": "I hoped that my friends ______ for me at the station.",
+          "options": ["will be waiting", "would be waiting", "are waiting", "have been waiting"],
+          "correct_answer": "would be waiting",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 144,
+          "question": "By the end of his career, the scientist ______ on hundreds of research papers.",
+          "options": ["will work", "will be working", "will have worked", "works"],
+          "correct_answer": "will have worked",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 145,
+          "question": "Don't get up, I ______ the door.",
+          "options": ["am going to answer", "am answering", "will answer", "answer"],
+          "correct_answer": "will answer",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 146,
+          "question": "Look at him! He ______ into that wall.",
+          "options": ["will crash", "crashes", "is going to crash", "is crashing"],
+          "correct_answer": "is going to crash",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 147,
+          "question": "The next session ______ until the chairman arrives.",
+          "options": ["will not start", "does not start", "is not starting", "will not be starting"],
+          "correct_answer": "will not start",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 148,
+          "question": "By the time he retires, he ______ for this company for over thirty years.",
+          "options": ["will work", "will be working", "will have worked", "will have been working"],
+          "correct_answer": "will have been working",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 149,
+          "question": "I am certain that the team ______ its best in the finals.",
+          "options": ["will do", "is doing", "is going to do", "does"],
+          "correct_answer": "will do",
+          "grammar_type": "Future Tense"
+        },
+        {
+          "id": 150,
+          "question": "The ceremony ______ place at 10 AM sharp tomorrow.",
+          "options": ["takes", "is taking", "will take", "is going to take"],
+          "correct_answer": "takes",
+          "grammar_type": "Future Tense"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which word is a conjunction? 'I like apples and oranges.'",
+          "options": ["apples", "like", "oranges", "and"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 2,
+          "question": "A conjunction is a word that joins words, phrases, or...",
+          "options": ["nouns", "verbs", "sentences", "adjectives"],
+          "correct_answer": "sentences",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 3,
+          "question": "Choose the correct conjunction: 'Do you want tea ______ coffee?'",
+          "options": ["but", "or", "so", "and"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 4,
+          "question": "He is poor, ______ he is honest.",
+          "options": ["but", "or", "and", "so"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 5,
+          "question": "Identify the conjunction: 'She did not come because she was ill.'",
+          "options": ["she", "was", "ill", "because"],
+          "correct_answer": "because",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 6,
+          "question": "Wait here ______ I come back.",
+          "options": ["but", "until", "so", "or"],
+          "correct_answer": "until",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 7,
+          "question": "Which word connects the two ideas? 'Ram is tall, but Shyam is short.'",
+          "options": ["is", "tall", "but", "short"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 8,
+          "question": "It was raining, ______ I took an umbrella.",
+          "options": ["so", "or", "but", "and"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 9,
+          "question": "______ you work hard, you will pass.",
+          "options": ["But", "So", "If", "Or"],
+          "correct_answer": "If",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 10,
+          "question": "My bag is blue ______ red.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 11,
+          "question": "Find the conjunction: 'He is slow yet steady.'",
+          "options": ["He", "is", "slow", "yet"],
+          "correct_answer": "yet",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 12,
+          "question": "Wash your hands ______ you eat.",
+          "options": ["before", "but", "so", "or"],
+          "correct_answer": "before",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 13,
+          "question": "We can play inside ______ it is raining.",
+          "options": ["if", "or", "but", "so"],
+          "correct_answer": "if",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 14,
+          "question": "She is crying ______ she is sad.",
+          "options": ["and", "because", "but", "or"],
+          "correct_answer": "because",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 15,
+          "question": "He was tired, ______ he went to sleep.",
+          "options": ["but", "or", "so", "and"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 16,
+          "question": "Which of these is a coordinating conjunction?",
+          "options": ["because", "if", "and", "when"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 17,
+          "question": "You can have the cake ______ the ice cream.",
+          "options": ["but", "so", "or", "yet"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 18,
+          "question": "He ran fast, ______ he missed the bus.",
+          "options": ["and", "so", "but", "or"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 19,
+          "question": "The conjunction 'and' is used to...",
+          "options": ["show a choice", "show a contrast", "add similar ideas", "show a result"],
+          "correct_answer": "add similar ideas",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 20,
+          "question": "The conjunction 'or' is used to...",
+          "options": ["show a choice", "show a contrast", "add similar ideas", "show a result"],
+          "correct_answer": "show a choice",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 21,
+          "question": "The conjunction 'but' is used to...",
+          "options": ["show a choice", "show a contrast", "add similar ideas", "show a result"],
+          "correct_answer": "show a contrast",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 22,
+          "question": "The conjunction 'so' is used to...",
+          "options": ["show a choice", "show a contrast", "add similar ideas", "show a result"],
+          "correct_answer": "show a result",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 23,
+          "question": "The conjunction 'because' is used to...",
+          "options": ["show a choice", "show a reason", "add similar ideas", "show a result"],
+          "correct_answer": "show a reason",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 24,
+          "question": "I waited for him ______ he arrived.",
+          "options": ["but", "so", "until", "or"],
+          "correct_answer": "until",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 25,
+          "question": "She is clever ______ beautiful.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 26,
+          "question": "He is not strong, ______ is he brave.",
+          "options": ["and", "but", "so", "nor"],
+          "correct_answer": "nor",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 27,
+          "question": "Finish your work ______ you can go out to play.",
+          "options": ["and", "but", "then", "if"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 28,
+          "question": "I will call you ______ I reach home.",
+          "options": ["when", "but", "or", "so"],
+          "correct_answer": "when",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 29,
+          "question": "The box was heavy, ______ he could not lift it.",
+          "options": ["and", "but", "or", "so"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 30,
+          "question": "We must leave now, ______ we will be late.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 31,
+          "question": "My book is at home ______ in my bag.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 32,
+          "question": "He woke up early ______ he could study.",
+          "options": ["or", "but", "so that", "and"],
+          "correct_answer": "so that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 33,
+          "question": "He was punished ______ he was telling a lie.",
+          "options": ["so", "as", "but", "or"],
+          "correct_answer": "as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 34,
+          "question": "The sky is cloudy, ______ it may rain.",
+          "options": ["but", "or", "and", "so"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 35,
+          "question": "She worked hard, ______ she failed.",
+          "options": ["and", "but", "so", "or"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 36,
+          "question": "I cannot help you ______ you tell me the truth.",
+          "options": ["and", "unless", "so", "but"],
+          "correct_answer": "unless",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 37,
+          "question": "The teacher ______ the students are in the classroom.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 38,
+          "question": "I will go to the party ______ I am invited.",
+          "options": ["if", "or", "but", "so"],
+          "correct_answer": "if",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 39,
+          "question": "He is sad ______ his friend is leaving.",
+          "options": ["because", "but", "or", "and"],
+          "correct_answer": "because",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 40,
+          "question": "I like to sing ______ dance.",
+          "options": ["and", "or", "but", "so"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 41,
+          "question": "Choose the conjunction: 'I looked for the keys, but I could not find them.'",
+          "options": ["looked", "keys", "but", "find"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 42,
+          "question": "I ate the apple ______ I was hungry.",
+          "options": ["and", "for", "or", "but"],
+          "correct_answer": "for",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 43,
+          "question": "It is a small car, ______ it is surprisingly spacious.",
+          "options": ["so", "and", "yet", "or"],
+          "correct_answer": "yet",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 44,
+          "question": "The sun was shining ______ it was cold.",
+          "options": ["because", "although", "so", "if"],
+          "correct_answer": "although",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 45,
+          "question": "Is that story true ______ false?",
+          "options": ["and", "but", "or", "so"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 46,
+          "question": "We were getting late, ______ we took a taxi.",
+          "options": ["but", "or", "and", "so"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 47,
+          "question": "I will be happy ______ you come to my party.",
+          "options": ["if", "or", "but", "so"],
+          "correct_answer": "if",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 48,
+          "question": "The baby was crying, ______ his mother picked him up.",
+          "options": ["but", "so", "or", "yet"],
+          "correct_answer": "so",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 49,
+          "question": "You should study ______ you will fail the test.",
+          "options": ["so", "and", "or", "but"],
+          "correct_answer": "or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 50,
+          "question": "He was thirsty, ______ he drank a glass of water.",
+          "options": ["but", "and", "so", "or"],
+          "correct_answer": "and",
+          "grammar_type": "Conjunctions"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Which type of conjunctions work in pairs, like 'either...or'?",
+          "options": ["Coordinating", "Subordinating", "Correlative", "Conjunctive Adverbs"],
+          "correct_answer": "Correlative",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 52,
+          "question": "You can have ______ tea ______ coffee.",
+          "options": ["both...and", "either...or", "neither...nor", "not only...but also"],
+          "correct_answer": "either...or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 53,
+          "question": "______ he is rich, he is not happy.",
+          "options": ["Because", "If", "Although", "Unless"],
+          "correct_answer": "Although",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 54,
+          "question": "A subordinating conjunction connects an independent clause with a...",
+          "options": ["coordinating clause", "dependent clause", "main clause", "prepositional phrase"],
+          "correct_answer": "dependent clause",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 55,
+          "question": "He is ______ intelligent ______ hardworking.",
+          "options": ["both...and", "either...or", "neither...nor", "so...that"],
+          "correct_answer": "both...and",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 56,
+          "question": "She has ______ money ______ friends.",
+          "options": ["either...or", "both...and", "neither...nor", "whether...or"],
+          "correct_answer": "neither...nor",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 57,
+          "question": "The game will start ______ the rain stops.",
+          "options": ["while", "as soon as", "because", "although"],
+          "correct_answer": "as soon as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 58,
+          "question": "She speaks ______ she knows everything.",
+          "options": ["so that", "as if", "in order that", "since"],
+          "correct_answer": "as if",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 59,
+          "question": "I don't know ______ he will come ______ not.",
+          "options": ["either...or", "neither...nor", "whether...or", "both...and"],
+          "correct_answer": "whether...or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 60,
+          "question": "You cannot succeed ______ you work hard.",
+          "options": ["if", "when", "unless", "while"],
+          "correct_answer": "unless",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 61,
+          "question": "He is ______ a fool, ______ a rogue.",
+          "options": ["not only...but also", "either...or", "both...and", "neither...nor"],
+          "correct_answer": "either...or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 62,
+          "question": "The thief ran away ______ the police arrived.",
+          "options": ["after", "before", "while", "since"],
+          "correct_answer": "before",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 63,
+          "question": "I have been waiting here ______ you came.",
+          "options": ["for", "since", "until", "when"],
+          "correct_answer": "since",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 64,
+          "question": "He must be at home, ______ his car is in the garage.",
+          "options": ["but", "or", "for", "yet"],
+          "correct_answer": "for",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 65,
+          "question": "The movie was so boring ______ I fell asleep.",
+          "options": ["as", "than", "that", "then"],
+          "correct_answer": "that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 66,
+          "question": "What type of conjunction is 'unless'?",
+          "options": ["Coordinating", "Subordinating", "Correlative", "Preposition"],
+          "correct_answer": "Subordinating",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 67,
+          "question": "What type of conjunction is 'both...and'?",
+          "options": ["Coordinating", "Subordinating", "Correlative", "Adverbial"],
+          "correct_answer": "Correlative",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 68,
+          "question": "I was listening to music ______ my mother was cooking.",
+          "options": ["when", "while", "since", "if"],
+          "correct_answer": "while",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 69,
+          "question": "He is ______ honest ______ everyone trusts him.",
+          "options": ["so...that", "such...that", "as...as", "no sooner...than"],
+          "correct_answer": "so...that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 70,
+          "question": "A comma is used before a coordinating conjunction when it joins two...",
+          "options": ["words", "phrases", "dependent clauses", "independent clauses"],
+          "correct_answer": "independent clauses",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 71,
+          "question": "She is ______ intelligent ______ she is humble.",
+          "options": ["not only...but also", "either...or", "neither...nor", "both...and"],
+          "correct_answer": "not only...but also",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 72,
+          "question": "______ he was tired, he completed the work.",
+          "options": ["Because", "Though", "If", "Unless"],
+          "correct_answer": "Though",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 73,
+          "question": "Which of these is NOT a coordinating conjunction (FANBOYS)?",
+          "options": ["for", "and", "nor", "while"],
+          "correct_answer": "while",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 74,
+          "question": "He was behaving in ______ a strange way ______ we all felt uncomfortable.",
+          "options": ["so...that", "such...that", "as...as", "no sooner...than"],
+          "correct_answer": "such...that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 75,
+          "question": "I will go there ______ you forbid me.",
+          "options": ["even if", "because", "so that", "when"],
+          "correct_answer": "even if",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 76,
+          "question": "'Lest' is a subordinating conjunction that means...",
+          "options": ["because", "if not; for fear that", "although", "when"],
+          "correct_answer": "if not; for fear that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 77,
+          "question": "Walk carefully, ______ you should fall.",
+          "options": ["lest", "so", "but", "if"],
+          "correct_answer": "lest",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 78,
+          "question": "______ had the teacher entered the class ______ the students stood up.",
+          "options": ["Hardly...when", "No sooner...than", "As soon as...so", "Either...or"],
+          "correct_answer": "No sooner...than",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 79,
+          "question": "The subordinating conjunction 'while' can show a time relationship or a...",
+          "options": ["reason", "result", "contrast", "condition"],
+          "correct_answer": "contrast",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 80,
+          "question": "I would rather stay at home ______ go to the movies.",
+          "options": ["so", "but", "than", "and"],
+          "correct_answer": "than",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 81,
+          "question": "Which sentence uses a correlative conjunction correctly?",
+          "options": ["He is not only famous but also is humble.", "He is not only famous but also humble.", "He is not only famous, but also he is humble.", "He not only is famous but also humble."],
+          "correct_answer": "He is not only famous but also humble.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 82,
+          "question": "The conjunction in 'I will leave after he comes' introduces a clause of...",
+          "options": ["Time", "Place", "Reason", "Manner"],
+          "correct_answer": "Time",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 83,
+          "question": "The conjunction in 'You will get a prize if you win' introduces a clause of...",
+          "options": ["Time", "Place", "Reason", "Condition"],
+          "correct_answer": "Condition",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 84,
+          "question": "The conjunction in 'I couldn't come because I was busy' introduces a clause of...",
+          "options": ["Time", "Place", "Reason", "Condition"],
+          "correct_answer": "Reason",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 85,
+          "question": "______ he started late, he finished first.",
+          "options": ["Though", "Because", "Since", "If"],
+          "correct_answer": "Though",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 86,
+          "question": "I will wait for you ______ you return.",
+          "options": ["so long as", "as soon as", "as long as", "as if"],
+          "correct_answer": "as long as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 87,
+          "question": "______ you sow, so shall you reap.",
+          "options": ["As", "When", "If", "Where"],
+          "correct_answer": "As",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 88,
+          "question": "______ it was a holiday, the shops were all closed.",
+          "options": ["As", "So", "If", "But"],
+          "correct_answer": "As",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 89,
+          "question": "Which conjunction is used to express doubt?",
+          "options": ["that", "whether", "because", "so"],
+          "correct_answer": "whether",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 90,
+          "question": "She is as tall ______ her brother.",
+          "options": ["as", "so", "than", "like"],
+          "correct_answer": "as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 91,
+          "question": "I came early ______ I could get a good seat.",
+          "options": ["so", "because", "so that", "if"],
+          "correct_answer": "so that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 92,
+          "question": "Which sentence has a punctuation error?",
+          "options": ["He is poor, but he is happy.", "He is poor but happy.", "I was tired so I went to bed.", "We can go now, or we can wait."],
+          "correct_answer": "I was tired so I went to bed.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 93,
+          "question": "He will ______ buy a car ______ a bike.",
+          "options": ["neither...nor", "either...or", "both...and", "whether...or"],
+          "correct_answer": "either...or",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 94,
+          "question": "Hardly had I left the house ______ it began to rain.",
+          "options": ["than", "then", "when", "that"],
+          "correct_answer": "when",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 95,
+          "question": "The patient had died ______ the doctor arrived.",
+          "options": ["when", "while", "before", "after"],
+          "correct_answer": "before",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 96,
+          "question": "______ you are here, you can help me.",
+          "options": ["So that", "Now that", "Even though", "Unless"],
+          "correct_answer": "Now that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 97,
+          "question": "He was angry, ______ he did not say anything.",
+          "options": ["so", "yet", "for", "and"],
+          "correct_answer": "yet",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 98,
+          "question": "A subordinating conjunction can appear at the beginning of a sentence or...",
+          "options": ["at the end", "in the middle", "never at the beginning", "only at the end"],
+          "correct_answer": "in the middle",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 99,
+          "question": "This is the village ______ I was born.",
+          "options": ["which", "that", "where", "what"],
+          "correct_answer": "where",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 100,
+          "question": "He is cleverer ______ I thought.",
+          "options": ["as", "so", "than", "that"],
+          "correct_answer": "than",
+          "grammar_type": "Conjunctions"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Which of these is a conjunctive adverb? 'He studied hard; ______, he passed the exam.'",
+          "options": ["so", "and", "therefore", "but"],
+          "correct_answer": "therefore",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 102,
+          "question": "Conjunctive adverbs like 'however' and 'therefore' are used to connect two...",
+          "options": ["dependent clauses", "independent clauses", "phrases", "words"],
+          "correct_answer": "independent clauses",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 103,
+          "question": "Which punctuation is often used before a conjunctive adverb that connects two sentences?",
+          "options": ["A comma", "A period", "A semicolon", "A colon"],
+          "correct_answer": "A semicolon",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 104,
+          "question": "He doesn't like spicy food; ______, his wife loves it.",
+          "options": ["similarly", "consequently", "on the other hand", "furthermore"],
+          "correct_answer": "on the other hand",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 105,
+          "question": "The adverbial clause in 'Wherever you go, I will follow you' is a clause of...",
+          "options": ["Time", "Place", "Manner", "Condition"],
+          "correct_answer": "Place",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 106,
+          "question": "The conjunction 'provided that' expresses a...",
+          "options": ["reason", "time", "condition", "contrast"],
+          "correct_answer": "condition",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 107,
+          "question": "You can borrow the book, ______ you return it by next week.",
+          "options": ["unless", "although", "provided that", "as if"],
+          "correct_answer": "provided that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 108,
+          "question": "Which of these is NOT a conjunctive adverb?",
+          "options": ["however", "consequently", "moreover", "because"],
+          "correct_answer": "because",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 109,
+          "question": "The company made a huge profit; ______, the employees were given a bonus.",
+          "options": ["nevertheless", "otherwise", "consequently", "instead"],
+          "correct_answer": "consequently",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 110,
+          "question": "The conjunction 'as' can be used to show time, cause, or...",
+          "options": ["result", "condition", "comparison", "purpose"],
+          "correct_answer": "comparison",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 111,
+          "question": "In the sentence, 'He is a writer as well as a singer', the phrase 'as well as' functions as a...",
+          "options": ["Subordinating conjunction", "Correlative conjunction", "Coordinating conjunction", "Conjunctive adverb"],
+          "correct_answer": "Coordinating conjunction",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 112,
+          "question": "He was tired. ______, he went for a walk.",
+          "options": ["Therefore", "Thus", "Nevertheless", "Hence"],
+          "correct_answer": "Nevertheless",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 113,
+          "question": "______ he was an honest man, I trusted him.",
+          "options": ["Seeing that", "So that", "In order that", "Lest"],
+          "correct_answer": "Seeing that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 114,
+          "question": "Which sentence has a punctuation error?",
+          "options": ["I wanted to go; however, I was too busy.", "I wanted to go, however, I was too busy.", "I was too busy; therefore, I couldn't go.", "I was too busy, so I couldn't go."],
+          "correct_answer": "I wanted to go, however, I was too busy.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 115,
+          "question": "The conjunction 'forasmuch as' is an archaic term meaning...",
+          "options": ["although", "unless", "since or because", "if"],
+          "correct_answer": "since or because",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 116,
+          "question": "You should help him; ______, he is your brother.",
+          "options": ["otherwise", "still", "after all", "instead"],
+          "correct_answer": "after all",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 117,
+          "question": "He saved his money ______ he could buy a house.",
+          "options": ["so as to", "in order that", "lest", "while"],
+          "correct_answer": "in order that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 118,
+          "question": "The clause 'that he would succeed' in 'He was confident that he would succeed' is a...",
+          "options": ["Adverb clause", "Adjective clause", "Noun clause", "Main clause"],
+          "correct_answer": "Noun clause",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 119,
+          "question": "The word 'like' can be used informally as a conjunction, but formally it should be...",
+          "options": ["as or as if", "so", "but", "yet"],
+          "correct_answer": "as or as if",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 120,
+          "question": "He is not as clever ______ people think.",
+          "options": ["than", "so", "as", "that"],
+          "correct_answer": "as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 121,
+          "question": "I would rather die ______ beg.",
+          "options": ["than", "then", "to", "from"],
+          "correct_answer": "than",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 122,
+          "question": "In which sentence is 'for' used as a conjunction?",
+          "options": ["This gift is for you.", "I have been waiting for two hours.", "He must be tired, for he has been working all day.", "What did you do that for?"],
+          "correct_answer": "He must be tired, for he has been working all day.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 123,
+          "question": "The conjunctive adverb 'hence' means...",
+          "options": ["consequently or for this reason", "in contrast", "in addition", "for example"],
+          "correct_answer": "consequently or for this reason",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 124,
+          "question": "Study hard; ______, you will fail.",
+          "options": ["moreover", "otherwise", "nonetheless", "similarly"],
+          "correct_answer": "otherwise",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 125,
+          "question": "______ it rains, the match will be cancelled.",
+          "options": ["In case", "So that", "As if", "Lest"],
+          "correct_answer": "In case",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 126,
+          "question": "He has many good qualities; ______, he is very generous.",
+          "options": ["however", "for instance", "in contrast", "as a result"],
+          "correct_answer": "for instance",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 127,
+          "question": "What is the function of 'that' in 'I am so tired that I cannot work'?",
+          "options": ["It introduces a clause of reason.", "It introduces a clause of result.", "It introduces a clause of time.", "It introduces a clause of condition."],
+          "correct_answer": "It introduces a clause of result.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 128,
+          "question": "I have no other option ______ to agree.",
+          "options": ["but", "than", "so", "or"],
+          "correct_answer": "but",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 129,
+          "question": "He speaks English and French. ______, he is learning Spanish.",
+          "options": ["However", "In addition", "Therefore", "On the other hand"],
+          "correct_answer": "In addition",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 130,
+          "question": "The conjunction 'whereas' is used to show...",
+          "options": ["a direct contrast", "a reason", "a result", "a time relationship"],
+          "correct_answer": "a direct contrast",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 131,
+          "question": "She is very ambitious, ______ her brother is quite lazy.",
+          "options": ["so", "whereas", "because", "if"],
+          "correct_answer": "whereas",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 132,
+          "question": "A comma is generally NOT used before a subordinating conjunction when the dependent clause...",
+          "options": ["comes before the main clause", "comes after the main clause", "is very long", "is very short"],
+          "correct_answer": "comes after the main clause",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 133,
+          "question": "He is my friend; ______, I will help him.",
+          "options": ["consequently", "nevertheless", "otherwise", "instead"],
+          "correct_answer": "consequently",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 134,
+          "question": "The phrase 'notwithstanding the fact that' is a formal way of saying...",
+          "options": ["because", "although", "unless", "if"],
+          "correct_answer": "although",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 135,
+          "question": "What is the error in this sentence? 'Both the mother as well as the daughter were present.'",
+          "options": ["'Both' should be followed by 'and', not 'as well as'.", "The verb 'were' should be 'was'.", "There is no error.", "The conjunction is in the wrong place."],
+          "correct_answer": "'Both' should be followed by 'and', not 'as well as'.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 136,
+          "question": "The word 'still' can be used as a conjunctive adverb to mean...",
+          "options": ["in addition", "as a result", "always", "nevertheless or however"],
+          "correct_answer": "nevertheless or however",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 137,
+          "question": "You must finish your homework. ______, you can't watch TV.",
+          "options": ["Moreover", "Similarly", "Otherwise", "Hence"],
+          "correct_answer": "Otherwise",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 138,
+          "question": "The conjunction 'once' in 'Once you learn to ride a bike, you never forget' means...",
+          "options": ["one time", "as soon as or after", "because", "if"],
+          "correct_answer": "as soon as or after",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 139,
+          "question": "The storm was severe; ______, no one was hurt.",
+          "options": ["furthermore", "incidentally", "thankfully", "consequently"],
+          "correct_answer": "thankfully",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 140,
+          "question": "The conjunction 'supposing' is used to express...",
+          "options": ["a fact", "a reason", "a hypothetical condition", "a result"],
+          "correct_answer": "a hypothetical condition",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 141,
+          "question": "'Scarcely had he gone out ______ the phone rang.'",
+          "options": ["than", "then", "when", "that"],
+          "correct_answer": "when",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 142,
+          "question": "What is the function of 'that' in 'It is certain that he will come'?",
+          "options": ["It is a subordinating conjunction introducing a noun clause.", "It is a relative pronoun.", "It is a demonstrative adjective.", "It is a coordinating conjunction."],
+          "correct_answer": "It is a subordinating conjunction introducing a noun clause.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 143,
+          "question": "The project was a success, ______ not in the way we had planned.",
+          "options": ["albeit", "because", "unless", "so"],
+          "correct_answer": "albeit",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 144,
+          "question": "The conjunction 'inasmuch as' means...",
+          "options": ["to the extent that; since", "in spite of the fact that", "in order that", "as long as"],
+          "correct_answer": "to the extent that; since",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 145,
+          "question": "He is guilty ______ he has confessed his crime.",
+          "options": ["provided that", "inasmuch as", "whereas", "lest"],
+          "correct_answer": "inasmuch as",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 146,
+          "question": "You can come with me on one condition: ______ you pay for your own ticket.",
+          "options": ["unless", "that", "whether", "if"],
+          "correct_answer": "that",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 147,
+          "question": "Which of these pairs has a similar meaning to 'if...not'?",
+          "options": ["although", "unless", "since", "while"],
+          "correct_answer": "unless",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 148,
+          "question": "The weather is fine. ______, the sea is too rough for swimming.",
+          "options": ["Meanwhile", "Likewise", "Nevertheless", "Consequently"],
+          "correct_answer": "Nevertheless",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 149,
+          "question": "In which sentence is 'as' used to mean 'in the same way that'?",
+          "options": ["As he was tired, he went to bed.", "He is not as tall as his brother.", "Do as I say, not as I do.", "He works as a doctor."],
+          "correct_answer": "Do as I say, not as I do.",
+          "grammar_type": "Conjunctions"
+        },
+        {
+          "id": 150,
+          "question": "This is not the right way to do it; ______, it's the only way we know.",
+          "options": ["nonetheless", "therefore", "moreover", "otherwise"],
+          "correct_answer": "nonetheless",
+          "grammar_type": "Conjunctions"
+        }
+      ]
+    }
+  ]
+}
+

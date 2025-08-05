@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does the prefix 'un-' mean in the word 'unhappy'?",
+          "options": ["very", "not", "again", "full of"],
+          "correct_answer": "not",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 2,
+          "question": "What does the suffix '-ful' mean in the word 'hopeful'?",
+          "options": ["without", "one who does", "full of", "not"],
+          "correct_answer": "full of",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 3,
+          "question": "Which prefix means 'again'?",
+          "options": ["un-", "dis-", "re-", "pre-"],
+          "correct_answer": "re-",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 4,
+          "question": "What does the suffix '-less' mean in the word 'careless'?",
+          "options": ["full of", "able to", "not", "without"],
+          "correct_answer": "without",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 5,
+          "question": "In the word 'teacher', the suffix '-er' means...",
+          "options": ["not", "again", "a person who does something", "before"],
+          "correct_answer": "a person who does something",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 6,
+          "question": "What does the prefix 'pre-' mean in the word 'preheat'?",
+          "options": ["after", "not", "again", "before"],
+          "correct_answer": "before",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 7,
+          "question": "Which word means 'to build again'?",
+          "options": ["unbuild", "disbuild", "rebuild", "prebuild"],
+          "correct_answer": "rebuild",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 8,
+          "question": "The suffix '-ly' in 'slowly' turns the word 'slow' into a/an...",
+          "options": ["verb", "noun", "adverb", "pronoun"],
+          "correct_answer": "adverb",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 9,
+          "question": "What does the prefix 'dis-' mean in 'dislike'?",
+          "options": ["like again", "like a lot", "not like", "like before"],
+          "correct_answer": "not like",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 10,
+          "question": "Which word means 'without any fear'?",
+          "options": ["fearful", "fearless", "refear", "unfear"],
+          "correct_answer": "fearless",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 11,
+          "question": "A prefix is a letter or group of letters added to the ______ of a word.",
+          "options": ["end", "middle", "beginning", "vowel"],
+          "correct_answer": "beginning",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 12,
+          "question": "A suffix is a letter or group of letters added to the ______ of a word.",
+          "options": ["beginning", "middle", "end", "consonant"],
+          "correct_answer": "end",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 13,
+          "question": "The suffix '-est' in 'biggest' is used to show the ______ degree.",
+          "options": ["positive", "comparative", "superlative", "normal"],
+          "correct_answer": "superlative",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 14,
+          "question": "What is the base word in 'unfriendly'?",
+          "options": ["un", "friend", "ly", "end"],
+          "correct_answer": "friend",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 15,
+          "question": "Which word means 'full of color'?",
+          "options": ["colorless", "recolor", "colorful", "precolor"],
+          "correct_answer": "colorful",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 16,
+          "question": "What does the prefix 'tri-' mean in 'triangle'?",
+          "options": ["two", "four", "three", "one"],
+          "correct_answer": "three",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 17,
+          "question": "What is the suffix in the word 'kindness'?",
+          "options": ["ki", "kind", "-ness", "-ess"],
+          "correct_answer": "-ness",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 18,
+          "question": "Which prefix would you add to 'view' to mean 'to see before'?",
+          "options": ["re-", "un-", "pre-", "dis-"],
+          "correct_answer": "pre-",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 19,
+          "question": "The suffix '-er' in 'faster' means...",
+          "options": ["most", "one who does", "less", "more"],
+          "correct_answer": "more",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 20,
+          "question": "Which of these words has a prefix?",
+          "options": ["happy", "playing", "reread", "jumping"],
+          "correct_answer": "reread",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 21,
+          "question": "Which of these words has a suffix?",
+          "options": ["agree", "honest", "slowly", "open"],
+          "correct_answer": "slowly",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 22,
+          "question": "The prefix 'dis-' in 'disagree' makes the word mean...",
+          "options": ["agree again", "the opposite of agree", "agree completely", "to agree before"],
+          "correct_answer": "the opposite of agree",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 23,
+          "question": "Which word means 'without a home'?",
+          "options": ["homeful", "rehome", "homeless", "unhome"],
+          "correct_answer": "homeless",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 24,
+          "question": "What is the base word in 'replay'?",
+          "options": ["re-", "play", "lay", "rep"],
+          "correct_answer": "play",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 25,
+          "question": "The suffix '-s' in 'dogs' makes the word...",
+          "options": ["plural", "singular", "a verb", "an adjective"],
+          "correct_answer": "plural",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 26,
+          "question": "The prefix 'mis-' in 'misunderstand' means...",
+          "options": ["understand again", "understand before", "understand wrongly", "understand well"],
+          "correct_answer": "understand wrongly",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 27,
+          "question": "The suffix '-ing' in 'walking' shows that the action is...",
+          "options": ["finished", "happening now", "going to happen", "not happening"],
+          "correct_answer": "happening now",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 28,
+          "question": "Which word has the prefix that means 'not'?",
+          "options": ["repeat", "preview", "untie", "forgive"],
+          "correct_answer": "untie",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 29,
+          "question": "Which word has the suffix that means 'full of'?",
+          "options": ["teacher", "quickly", "harmless", "joyful"],
+          "correct_answer": "joyful",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 30,
+          "question": "What do you call the main part of a word that gives it its meaning?",
+          "options": ["Prefix", "Suffix", "Root Word", "Affix"],
+          "correct_answer": "Root Word",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 31,
+          "question": "Which prefix would you add to 'happy' to make it mean 'not happy'?",
+          "options": ["re-", "un-", "pre-", "dis-"],
+          "correct_answer": "un-",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 32,
+          "question": "Which suffix would you add to 'help' to make it mean 'without help'?",
+          "options": ["-ful", "-ing", "-er", "-less"],
+          "correct_answer": "-less",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 33,
+          "question": "What is the prefix in 'bicycle'?",
+          "options": ["bi-", "cy-", "cle-", "bi-cy-"],
+          "correct_answer": "bi-",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 34,
+          "question": "The prefix 'bi-' in 'bicycle' means...",
+          "options": ["one", "two", "three", "four"],
+          "correct_answer": "two",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 35,
+          "question": "Which word means 'to write again'?",
+          "options": ["unwrite", "prewrite", "rewrite", "diswrite"],
+          "correct_answer": "rewrite",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 36,
+          "question": "The suffix '-ed' in 'walked' shows that the action happened in the...",
+          "options": ["past", "present", "future", "it does not show time"],
+          "correct_answer": "past",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 37,
+          "question": "Which of these words does NOT have a prefix?",
+          "options": ["unlucky", "reread", "beside", "dislike"],
+          "correct_answer": "beside",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 38,
+          "question": "Which of these words does NOT have a suffix?",
+          "options": ["running", "sadness", "talk", "teacher"],
+          "correct_answer": "talk",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 39,
+          "question": "What is the base word in 'uncomfortable'?",
+          "options": ["un", "comfort", "fort", "able"],
+          "correct_answer": "comfort",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 40,
+          "question": "The suffix '-y' in 'cloudy' turns the noun 'cloud' into an...",
+          "options": ["adverb", "adjective", "verb", "pronoun"],
+          "correct_answer": "adjective",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 41,
+          "question": "The prefix 'over-' in 'overcooked' means...",
+          "options": ["not enough", "perfectly", "before", "too much"],
+          "correct_answer": "too much",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 42,
+          "question": "Which suffix means 'state of being', as in 'happiness'?",
+          "options": ["-less", "-ful", "-ness", "-ly"],
+          "correct_answer": "-ness",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 43,
+          "question": "What is the prefix in 'impossible'?",
+          "options": ["im-", "in-", "poss-", "ible-"],
+          "correct_answer": "im-",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 44,
+          "question": "The prefix 'im-' in 'impossible' means...",
+          "options": ["not", "again", "before", "very"],
+          "correct_answer": "not",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 45,
+          "question": "What is the suffix in 'worker'?",
+          "options": ["-er", "-or", "work", "wor"],
+          "correct_answer": "-er",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 46,
+          "question": "A painter is a person who...",
+          "options": ["paints", "sings", "dances", "runs"],
+          "correct_answer": "paints",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 47,
+          "question": "Which word means 'not correct'?",
+          "options": ["recorrect", "precorrect", "discorrect", "incorrect"],
+          "correct_answer": "incorrect",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 48,
+          "question": "Which word means 'full of wonder'?",
+          "options": ["wonderless", "wonderful", "rewonder", "unwonder"],
+          "correct_answer": "wonderful",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 49,
+          "question": "What is the root word in 'unhelpful'?",
+          "options": ["un", "help", "ful", "unhelp"],
+          "correct_answer": "help",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 50,
+          "question": "What does the prefix 'under-' mean in 'underwater'?",
+          "options": ["above", "beside", "below", "through"],
+          "correct_answer": "below",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "The root word 'port' means 'to carry'. What does the word 'transport' mean?",
+          "options": ["To carry out", "To carry across", "To carry under", "To carry against"],
+          "correct_answer": "To carry across",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 52,
+          "question": "The suffix '-able' in 'readable' means...",
+          "options": ["one who reads", "the study of reading", "able to be read", "the state of reading"],
+          "correct_answer": "able to be read",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 53,
+          "question": "The root word 'spect' means 'to see'. What is an 'inspector'?",
+          "options": ["A person who looks into something", "A person who looks away", "A person who cannot see", "A place for seeing"],
+          "correct_answer": "A person who looks into something",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 54,
+          "question": "What does the prefix 'sub-' mean in the word 'submarine'?",
+          "options": ["above", "across", "under", "around"],
+          "correct_answer": "under",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 55,
+          "question": "The suffix '-ion' in 'creation' turns the verb 'create' into a...",
+          "options": ["noun", "adjective", "adverb", "pronoun"],
+          "correct_answer": "noun",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 56,
+          "question": "The root word 'dict' means 'to say'. What does 'predict' mean?",
+          "options": ["To say against", "To say between", "To say before", "To say again"],
+          "correct_answer": "To say before",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 57,
+          "question": "What does the prefix 'inter-' mean in 'international'?",
+          "options": ["within", "between", "over", "under"],
+          "correct_answer": "between",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 58,
+          "question": "The suffix '-ment' in 'agreement' creates a...",
+          "options": ["verb", "adjective", "adverb", "noun"],
+          "correct_answer": "noun",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 59,
+          "question": "The root word 'form' means 'shape'. What does 'reform' mean?",
+          "options": ["To shape before", "To shape against", "To shape again or to improve", "To change shape"],
+          "correct_answer": "To shape again or to improve",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 60,
+          "question": "What does the prefix 'non-' mean in 'nonsense'?",
+          "options": ["full of sense", "the study of sense", "not sense", "before sense"],
+          "correct_answer": "not sense",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 61,
+          "question": "The suffix '-ible' in 'flexible' is similar in meaning to which other suffix?",
+          "options": ["-less", "-ful", "-able", "-ness"],
+          "correct_answer": "-able",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 62,
+          "question": "The root word 'rupt' means 'to break'. What does 'erupt' mean?",
+          "options": ["To break in", "To break apart", "To break out", "To break under"],
+          "correct_answer": "To break out",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 63,
+          "question": "What does the prefix 'trans-' mean in 'transplant'?",
+          "options": ["across", "under", "over", "between"],
+          "correct_answer": "across",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 64,
+          "question": "The suffix '-ology' in 'biology' means...",
+          "options": ["the state of", "one who studies", "the study of", "able to be"],
+          "correct_answer": "the study of",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 65,
+          "question": "The root word 'scrib' or 'script' means 'to write'. What does 'inscribe' mean?",
+          "options": ["To write out", "To write under", "To write on or into", "To write against"],
+          "correct_answer": "To write on or into",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 66,
+          "question": "The prefix 'in-' can mean 'not'. In which word does 'in-' mean 'into'?",
+          "options": ["inactive", "inside", "incomplete", "invisible"],
+          "correct_answer": "inside",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 67,
+          "question": "The suffix '-ian' in 'magician' means...",
+          "options": ["the study of magic", "without magic", "a person skilled in magic", "full of magic"],
+          "correct_answer": "a person skilled in magic",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 68,
+          "question": "The root word 'ject' means 'to throw'. What does 'reject' mean?",
+          "options": ["To throw back", "To throw in", "To throw under", "To throw across"],
+          "correct_answer": "To throw back",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 69,
+          "question": "What does the prefix 'mid-' mean in 'midnight'?",
+          "options": ["before", "after", "middle", "around"],
+          "correct_answer": "middle",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 70,
+          "question": "The suffix '-en' in 'wooden' means...",
+          "options": ["full of wood", "without wood", "to become wood", "made of wood"],
+          "correct_answer": "made of wood",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 71,
+          "question": "The root word 'press' means 'to push'. What does 'compress' mean?",
+          "options": ["To push apart", "To push out", "To push together", "To push back"],
+          "correct_answer": "To push together",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 72,
+          "question": "What does the prefix 'fore-' mean in 'forecast'?",
+          "options": ["after", "not", "before or in front", "badly"],
+          "correct_answer": "before or in front",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 73,
+          "question": "The suffix '-al' in 'national' turns the noun 'nation' into an...",
+          "options": ["adverb", "adjective", "verb", "noun"],
+          "correct_answer": "adjective",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 74,
+          "question": "The root word 'tract' means 'to pull or draw'. What does 'attract' mean?",
+          "options": ["To pull away", "To pull back", "To pull towards", "To pull under"],
+          "correct_answer": "To pull towards",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 75,
+          "question": "What does the prefix 'semi-' mean in 'semicircle'?",
+          "options": ["full", "half", "around", "many"],
+          "correct_answer": "half",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 76,
+          "question": "The suffix '-ive' in 'creative' makes the word a/an...",
+          "options": ["noun", "verb", "adverb", "adjective"],
+          "correct_answer": "adjective",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 77,
+          "question": "The root word 'vis' or 'vid' means 'to see'. What is a 'visitor'?",
+          "options": ["A person who comes to see", "A person who does not see", "A place for seeing", "The act of seeing"],
+          "correct_answer": "A person who comes to see",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 78,
+          "question": "What does the prefix 'auto-' mean in 'autograph'?",
+          "options": ["other", "self", "far", "many"],
+          "correct_answer": "self",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 79,
+          "question": "The suffix '-ous' in 'dangerous' means...",
+          "options": ["without", "full of", "the study of", "one who does"],
+          "correct_answer": "full of",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 80,
+          "question": "The root word 'ped' or 'pod' means 'foot'. What is a 'pedal' used for?",
+          "options": ["Something you use your hands for", "Something you use your feet for", "Something you see with", "Something you hear with"],
+          "correct_answer": "Something you use your feet for",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 81,
+          "question": "What does the prefix 'ex-' mean in 'export'?",
+          "options": ["in or into", "out or from", "against", "under"],
+          "correct_answer": "out or from",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 82,
+          "question": "The suffix '-hood' in 'childhood' refers to a...",
+          "options": ["person", "place", "state or period of time", "thing"],
+          "correct_answer": "state or period of time",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 83,
+          "question": "The root word 'struct' means 'to build'. What does 'construct' mean?",
+          "options": ["To build again", "To build under", "To build together", "To build badly"],
+          "correct_answer": "To build together",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 84,
+          "question": "What does the prefix 'anti-' mean in 'antifreeze'?",
+          "options": ["for", "with", "against", "before"],
+          "correct_answer": "against",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 85,
+          "question": "The suffix '-logy' is related to which Greek word meaning 'word' or 'study'?",
+          "options": ["logos", "pathos", "ethos", "chronos"],
+          "correct_answer": "logos",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 86,
+          "question": "The root 'aud' means 'to hear'. What does 'audible' mean?",
+          "options": ["Able to be seen", "Able to be heard", "Able to be carried", "Able to be broken"],
+          "correct_answer": "Able to be heard",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 87,
+          "question": "What is the prefix in 'cooperate'?",
+          "options": ["co-", "coo-", "op-", "operate-"],
+          "correct_answer": "co-",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 88,
+          "question": "The suffix '-ship' in 'friendship' denotes...",
+          "options": ["a type of boat", "a person", "a state or condition", "a place"],
+          "correct_answer": "a state or condition",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 89,
+          "question": "The root 'mit' or 'mis' means 'to send'. What does 'transmit' mean?",
+          "options": ["To send back", "To send under", "To send against", "To send across"],
+          "correct_answer": "To send across",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 90,
+          "question": "What does the prefix 'post-' mean in 'post-war'?",
+          "options": ["before", "during", "after", "against"],
+          "correct_answer": "after",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 91,
+          "question": "The suffix '-ist' in 'artist' refers to...",
+          "options": ["the art itself", "the study of art", "a person who practices an art", "the quality of art"],
+          "correct_answer": "a person who practices an art",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 92,
+          "question": "The root 'graph' means 'to write'. What is a 'biography'?",
+          "options": ["Writing about the earth", "Writing about oneself", "Writing about someone's life", "Writing about stars"],
+          "correct_answer": "Writing about someone's life",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 93,
+          "question": "What does the prefix 'pro-' mean in 'proceed'?",
+          "options": ["backward", "forward", "against", "again"],
+          "correct_answer": "forward",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 94,
+          "question": "The suffix '-en' in 'darken' means...",
+          "options": ["made of dark", "full of dark", "to become dark", "without dark"],
+          "correct_answer": "to become dark",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 95,
+          "question": "The root 'bio' means 'life'. What is 'biology'?",
+          "options": ["The study of the earth", "The study of stars", "The study of life", "The study of water"],
+          "correct_answer": "The study of life",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 96,
+          "question": "What does the prefix 'uni-' mean in 'uniform'?",
+          "options": ["one", "two", "three", "many"],
+          "correct_answer": "one",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 97,
+          "question": "The suffix '-ward' in 'homeward' indicates...",
+          "options": ["a person", "a state", "a direction", "a quality"],
+          "correct_answer": "a direction",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 98,
+          "question": "The root 'terr' means 'earth' or 'land'. What is a 'territory'?",
+          "options": ["A body of water", "An area of land", "The sky", "An underground place"],
+          "correct_answer": "An area of land",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 99,
+          "question": "What does the prefix 'de-' mean in 'devalue'?",
+          "options": ["increase", "before", "reduce or reverse", "again"],
+          "correct_answer": "reduce or reverse",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 100,
+          "question": "The suffix '-ate' can turn a word into a...",
+          "options": ["noun", "adjective", "verb", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The root 'bene' means 'good'. What is a 'benefactor'?",
+          "options": ["A person who does bad things", "A person who receives help", "A person who gives help or money to a cause", "A person who is not good"],
+          "correct_answer": "A person who gives help or money to a cause",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 102,
+          "question": "The root 'mal' means 'bad'. What does 'malicious' mean?",
+          "options": ["Intending to do good", "Intending to do harm", "Feeling neutral", "Feeling happy"],
+          "correct_answer": "Intending to do harm",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 113,
+          "question": "The suffix '-cide' means 'to kill'. What is a 'pesticide' used for?",
+          "options": ["To kill plants", "To kill insects or other pests", "To kill bacteria", "To kill weeds"],
+          "correct_answer": "To kill insects or other pests",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 104,
+          "question": "The root 'cred' means 'to believe'. What does 'incredible' mean?",
+          "options": ["Easy to believe", "A person who believes", "Not able to be believed", "The act of believing"],
+          "correct_answer": "Not able to be believed",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 105,
+          "question": "The prefix 'ante-' in 'antedate' means...",
+          "options": ["against", "after", "before", "with"],
+          "correct_answer": "before",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 106,
+          "question": "The suffix '-ify' in 'beautify' means...",
+          "options": ["the state of being beautiful", "full of beauty", "to make beautiful", "one who is beautiful"],
+          "correct_answer": "to make beautiful",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 107,
+          "question": "The root 'duc' or 'duct' means 'to lead'. What does 'conduct' mean?",
+          "options": ["To lead against", "To lead together or guide", "To lead away", "To lead under"],
+          "correct_answer": "To lead together or guide",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 108,
+          "question": "What does the prefix 'contra-' mean in 'contradict'?",
+          "options": ["with", "for", "against", "before"],
+          "correct_answer": "against",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 109,
+          "question": "The suffix '-ism' in 'socialism' refers to...",
+          "options": ["a person who follows", "the study of", "a doctrine, belief, or practice", "the quality of"],
+          "correct_answer": "a doctrine, belief, or practice",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 110,
+          "question": "The root 'mort' means 'death'. What does 'immortal' mean?",
+          "options": ["Living forever; not subject to death", "A person who is about to die", "Related to death", "A deadly poison"],
+          "correct_answer": "Living forever; not subject to death",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 111,
+          "question": "What does the prefix 'hyper-' mean in 'hyperactive'?",
+          "options": ["under", "over; excessively", "slow", "normal"],
+          "correct_answer": "over; excessively",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 112,
+          "question": "The suffix '-ize' in 'modernize' means...",
+          "options": ["to become modern", "the state of being modern", "one who is modern", "related to modern times"],
+          "correct_answer": "to become modern",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 113,
+          "question": "The root 'voc' means 'to call'. What does 'revoke' mean?",
+          "options": ["To call in", "To call back or cancel", "To call out", "To call upon"],
+          "correct_answer": "To call back or cancel",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 114,
+          "question": "What does the prefix 'hypo-' mean in 'hypothermia'?",
+          "options": ["over; above normal", "under; below normal", "around", "through"],
+          "correct_answer": "under; below normal",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 115,
+          "question": "The suffix '-esque' in 'picturesque' means...",
+          "options": ["the study of pictures", "without pictures", "a person who makes pictures", "in the style of; resembling"],
+          "correct_answer": "in the style of; resembling",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 116,
+          "question": "The root 'fract' or 'frag' means 'to break'. What is a 'fraction'?",
+          "options": ["The whole of something", "A part of a whole; something broken off", "Something that cannot be broken", "The act of building"],
+          "correct_answer": "A part of a whole; something broken off",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 117,
+          "question": "What does the prefix 'a-' mean in the word 'asymmetrical'?",
+          "options": ["with; having", "not; without", "same; equal", "many"],
+          "correct_answer": "not; without",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 118,
+          "question": "The suffix '-tude' in 'attitude' refers to a...",
+          "options": ["person", "place", "state or quality", "small version of"],
+          "correct_answer": "state or quality",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 119,
+          "question": "The root 'chrono' means 'time'. What is 'chronological order'?",
+          "options": ["In order of importance", "In alphabetical order", "In the order that events occurred in time", "In a random order"],
+          "correct_answer": "In the order that events occurred in time",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 120,
+          "question": "What does the prefix 'eu-' mean in 'eulogy'?",
+          "options": ["bad; difficult", "self", "good; well", "new"],
+          "correct_answer": "good; well",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 121,
+          "question": "The suffix '-archy' in 'monarchy' means...",
+          "options": ["the study of", "rule by", "without", "fear of"],
+          "correct_answer": "rule by",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 122,
+          "question": "The root 'spec' means 'to see'. What does 'circumspect' mean?",
+          "options": ["To look around carefully; cautious", "To look into the future", "To look back at the past", "To look inward"],
+          "correct_answer": "To look around carefully; cautious",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 123,
+          "question": "What does the prefix 'macro-' mean in 'macroeconomics'?",
+          "options": ["small-scale", "large-scale", "bad", "good"],
+          "correct_answer": "large-scale",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 124,
+          "question": "The suffix '-gamy' in 'monogamy' refers to...",
+          "options": ["writing", "belief", "marriage", "fear"],
+          "correct_answer": "marriage",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 125,
+          "question": "The root 'path' means 'feeling' or 'suffering'. What is 'empathy'?",
+          "options": ["A feeling against someone", "The ability to understand and share the feelings of another", "A lack of feeling", "A feeling of superiority"],
+          "correct_answer": "The ability to understand and share the feelings of another",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 126,
+          "question": "What is the meaning of the prefix 'omni-' in 'omniscient'?",
+          "options": ["all", "nothing", "some", "one"],
+          "correct_answer": "all",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 127,
+          "question": "The suffix '-oid' in 'humanoid' means...",
+          "options": ["the study of", "one who does", "resembling or like", "full of"],
+          "correct_answer": "resembling or like",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 128,
+          "question": "The root 'gen' means 'birth' or 'origin'. What does 'generate' mean?",
+          "options": ["To stop something from existing", "To cause something to arise or come about", "To change the origin of something", "To be born again"],
+          "correct_answer": "To cause something to arise or come about",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 129,
+          "question": "What is the meaning of the prefix 'equi-' in 'equidistant'?",
+          "options": ["different", "far", "near", "equal"],
+          "correct_answer": "equal",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 130,
+          "question": "The suffix '-mania' in 'pyromania' refers to...",
+          "options": ["fear", "love", "an obsession or madness", "the study of"],
+          "correct_answer": "an obsession or madness",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 131,
+          "question": "The root 'ver' means 'truth'. What does 'verify' mean?",
+          "options": ["To make something false", "To hide the truth", "To make sure that something is true or accurate", "To tell a lie"],
+          "correct_answer": "To make sure that something is true or accurate",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 132,
+          "question": "What does the prefix 'ambi-' mean in 'ambidextrous'?",
+          "options": ["one", "against", "both", "not"],
+          "correct_answer": "both",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 133,
+          "question": "The suffix '-cracy' in 'democracy' means...",
+          "options": ["rule by", "the study of", "belief in", "fear of"],
+          "correct_answer": "rule by",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 134,
+          "question": "The root 'gress' means 'to step' or 'to go'. What does 'progress' mean?",
+          "options": ["To step back", "To step together", "To step away", "To step forward"],
+          "correct_answer": "To step forward",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 135,
+          "question": "What does the prefix 'dys-' mean in 'dysfunctional'?",
+          "options": ["good; normal", "bad; difficult; abnormal", "over", "under"],
+          "correct_answer": "bad; difficult; abnormal",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 136,
+          "question": "The suffix '-some' in 'tiresome' means...",
+          "options": ["without", "one who does", "tending to; causing", "a group of"],
+          "correct_answer": "tending to; causing",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 137,
+          "question": "The root 'viv' means 'to live'. What does 'revive' mean?",
+          "options": ["To live together", "To live a long life", "To bring back to life", "To live badly"],
+          "correct_answer": "To bring back to life",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 138,
+          "question": "What is the meaning of the prefix 'circum-' in 'circumnavigate'?",
+          "options": ["through", "across", "around", "under"],
+          "correct_answer": "around",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 139,
+          "question": "The suffix '-phobia' in 'arachnophobia' means...",
+          "options": ["love of", "fear of", "study of", "rule by"],
+          "correct_answer": "fear of",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 140,
+          "question": "The root 'manu' means 'hand'. What does 'manufacture' mean?",
+          "options": ["To make by hand or by machine", "To write by hand", "To carry by hand", "To break by hand"],
+          "correct_answer": "To make by hand or by machine",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 141,
+          "question": "What is the meaning of the prefix 'intro-' in 'introspection'?",
+          "options": ["outward", "between", "inward", "against"],
+          "correct_answer": "inward",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 142,
+          "question": "The suffix '-itis' in 'bronchitis' refers to...",
+          "options": ["the study of", "a fear of", "an inflammation or disease", "a belief in"],
+          "correct_answer": "an inflammation or disease",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 143,
+          "question": "The root 'vac' means 'empty'. What does 'evacuate' mean?",
+          "options": ["To make something full", "To make something empty; to remove people from a place", "To look at something empty", "To carry something empty"],
+          "correct_answer": "To make something empty; to remove people from a place",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 144,
+          "question": "What does the prefix 'extra-' mean in 'extraordinary'?",
+          "options": ["within", "under", "beyond", "same"],
+          "correct_answer": "beyond",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 145,
+          "question": "The suffix '-dom' in 'kingdom' refers to a...",
+          "options": ["person", "realm or state of being", "small version", "direction"],
+          "correct_answer": "realm or state of being",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 146,
+          "question": "The root 'log' means 'word' or 'reason'. What is a 'dialogue'?",
+          "options": ["A long speech by one person", "A conversation or written work with words between two or more people", "A picture book with no words", "A book of scientific reasons"],
+          "correct_answer": "A conversation or written work with words between two or more people",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 147,
+          "question": "What does the prefix 'proto-' mean in 'prototype'?",
+          "options": ["last", "against", "first; original", "many"],
+          "correct_answer": "first; original",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 148,
+          "question": "The suffix '-meter' in 'thermometer' refers to an instrument for...",
+          "options": ["writing", "seeing", "measuring", "hearing"],
+          "correct_answer": "measuring",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 149,
+          "question": "The root 'fac' or 'fact' means 'to make' or 'to do'. What does 'factory' mean?",
+          "options": ["A place where things are made", "A person who does things", "The act of doing something", "Something that has been made"],
+          "correct_answer": "A place where things are made",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        },
+        {
+          "id": 150,
+          "question": "What is the meaning of the prefix 'syn-' or 'sym-' in 'synchronize'?",
+          "options": ["against", "apart", "together; at the same time", "bad"],
+          "correct_answer": "together; at the same time",
+          "grammar_type": "Prefix, Suffix, and Roots"
+        }
+      ]
+    }
+  ]
+}
+

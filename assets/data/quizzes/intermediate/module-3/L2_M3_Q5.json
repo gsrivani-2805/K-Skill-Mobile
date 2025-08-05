@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The dog ran across the park. He was chasing a red ball. He was happy and wagging his tail. What is this paragraph mainly about?",
+          "options": ["A red ball", "A park", "A happy dog playing", "A dog sleeping"],
+          "correct_answer": "A happy dog playing",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 2,
+          "question": "Sita loves to read books. Her favorite books are about magic and adventure. She reads every night before bed. What does Sita love to do?",
+          "options": ["Play sports", "Watch TV", "Read books", "Cook food"],
+          "correct_answer": "Read books",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 3,
+          "question": "It is raining outside. The sky is dark and full of clouds. People are using umbrellas to stay dry. What is the weather like?",
+          "options": ["Sunny", "Windy", "Snowy", "Rainy"],
+          "correct_answer": "Rainy",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 4,
+          "question": "Anil went to the market. He bought apples, bananas, and grapes. The fruits were fresh and juicy. What did Anil buy at the market?",
+          "options": ["Vegetables", "Clothes", "Fruits", "Toys"],
+          "correct_answer": "Fruits",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 5,
+          "question": "The lion is the king of the jungle. It is a big and strong animal. It roars very loudly. What is the main idea of this passage?",
+          "options": ["The jungle is big.", "All animals are strong.", "The lion is a powerful animal.", "Lions are quiet animals."],
+          "correct_answer": "The lion is a powerful animal.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 6,
+          "question": "My school is very big. It has a playground and a library. I love my school very much. What does this passage describe?",
+          "options": ["A house", "A market", "A school", "A park"],
+          "correct_answer": "A school",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 7,
+          "question": "Ravi is a farmer. He wakes up early in the morning. He works in his field all day. What is Ravi's job?",
+          "options": ["A teacher", "A doctor", "A farmer", "A pilot"],
+          "correct_answer": "A farmer",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 8,
+          "question": "A bird is sitting on the branch of a tree. It is singing a sweet song. The bird is blue and yellow. What color is the bird?",
+          "options": ["Red and green", "Black and white", "Blue and yellow", "Only blue"],
+          "correct_answer": "Blue and yellow",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 9,
+          "question": "My mother is cooking dinner in the kitchen. She is making rice and dal. The food smells delicious. What is the main idea?",
+          "options": ["My mother is sleeping.", "My mother is cooking.", "The kitchen is dirty.", "The food smells bad."],
+          "correct_answer": "My mother is cooking.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 10,
+          "question": "The train is long and fast. It runs on a track. It makes a 'choo-choo' sound. Where does the train run?",
+          "options": ["On the road", "In the sky", "On a track", "In the water"],
+          "correct_answer": "On a track",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 11,
+          "question": "We celebrate Diwali with lights and sweets. We wear new clothes. It is the festival of lights. What is Diwali called?",
+          "options": ["The festival of colors", "The festival of lights", "The festival of kites", "The festival of flowers"],
+          "correct_answer": "The festival of lights",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 12,
+          "question": "The elephant is a very large animal. It has a long trunk and big ears. It lives in the forest. What is the passage about?",
+          "options": ["A monkey", "A tiger", "An elephant", "A deer"],
+          "correct_answer": "An elephant",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 13,
+          "question": "The children are playing in the garden. They are laughing and shouting. They are having a lot of fun. How are the children feeling?",
+          "options": ["Sad", "Angry", "Happy", "Tired"],
+          "correct_answer": "Happy",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 14,
+          "question": "A fish lives in water. It can swim very fast. It has fins to help it swim. Where does a fish live?",
+          "options": ["On land", "In the sky", "In a nest", "In water"],
+          "correct_answer": "In water",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 15,
+          "question": "I have a pet cat. Her name is Rani. She likes to drink milk. What is the name of the pet cat?",
+          "options": ["Moti", "Sheru", "Rani", "Mithu"],
+          "correct_answer": "Rani",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 16,
+          "question": "The moon shines at night. It looks beautiful in the sky. The stars also twinkle at night. What is the main idea?",
+          "options": ["The sun shines during the day.", "The sky is beautiful at night.", "The sky is full of planes.", "The stars are not visible."],
+          "correct_answer": "The sky is beautiful at night.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 17,
+          "question": "We should always speak the truth. It is a good habit. Everyone respects an honest person. What is a good habit?",
+          "options": ["Telling lies", "Speaking the truth", "Shouting loudly", "Being lazy"],
+          "correct_answer": "Speaking the truth",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 18,
+          "question": "My father is a doctor. He works in a hospital. He helps sick people get better. What does my father do?",
+          "options": ["He is a teacher.", "He is a farmer.", "He is a doctor.", "He is a shopkeeper."],
+          "correct_answer": "He is a doctor.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 19,
+          "question": "The rose is a beautiful flower. It is red in color. It has a sweet smell. What color is the rose in the passage?",
+          "options": ["Yellow", "White", "Pink", "Red"],
+          "correct_answer": "Red",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 20,
+          "question": "Trees are very important. They give us shade, fruits, and wood. They also give us clean air to breathe. What is the main idea of the passage?",
+          "options": ["Trees are not useful.", "Trees are important for us.", "Trees only give us fruits.", "Trees are small plants."],
+          "correct_answer": "Trees are important for us.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 21,
+          "question": "A policeman wears a uniform. He helps to catch thieves. He keeps our neighbourhood safe. What does a policeman do?",
+          "options": ["He helps catch thieves.", "He cooks food.", "He teaches students.", "He drives a bus."],
+          "correct_answer": "He helps catch thieves.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 22,
+          "question": "The cow is a domestic animal. It gives us milk. Milk is good for our health. What do we get from a cow?",
+          "options": ["Eggs", "Wool", "Milk", "Fruits"],
+          "correct_answer": "Milk",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 23,
+          "question": "I use a pencil to write in my notebook. I can erase my mistakes with an eraser. My handwriting is neat. What is the passage about?",
+          "options": ["Reading a book", "Drawing a picture", "Writing in a notebook", "Playing a game"],
+          "correct_answer": "Writing in a notebook",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 24,
+          "question": "My house is painted yellow. It has two big windows and a red door. There is a small garden in front of it. What color is the door of the house?",
+          "options": ["Yellow", "Blue", "Green", "Red"],
+          "correct_answer": "Red",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 25,
+          "question": "We should wash our hands before eating. This keeps us away from germs and diseases. It is a healthy habit. What is the main idea?",
+          "options": ["Washing hands is not important.", "Washing hands is a healthy habit.", "We should eat with dirty hands.", "Germs are good for us."],
+          "correct_answer": "Washing hands is a healthy habit.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 26,
+          "question": "A tailor stitches our clothes. He uses a sewing machine, a needle, and thread. He makes nice dresses for us. Who stitches our clothes?",
+          "options": ["A doctor", "A tailor", "A teacher", "A farmer"],
+          "correct_answer": "A tailor",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 27,
+          "question": "The sun rises in the east. It sets in the west. It gives us light and heat. Where does the sun set?",
+          "options": ["In the east", "In the north", "In the south", "In the west"],
+          "correct_answer": "In the west",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 28,
+          "question": "A rabbit has long ears and a short, fluffy tail. It loves to eat carrots. It can run very fast. What does a rabbit love to eat?",
+          "options": ["Apples", "Carrots", "Bananas", "Grapes"],
+          "correct_answer": "Carrots",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 29,
+          "question": "My birthday is in January. I celebrate it with my friends and family. I cut a cake and get many gifts. What is the passage about?",
+          "options": ["A school day", "A festival", "A birthday celebration", "A holiday trip"],
+          "correct_answer": "A birthday celebration",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 30,
+          "question": "A ship sails on the sea. It is very big and can carry many people. The captain is in charge of the ship. Where does a ship sail?",
+          "options": ["On the road", "In the air", "On the sea", "On a railway track"],
+          "correct_answer": "On the sea",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 31,
+          "question": "We go to school to learn new things. Our teachers teach us to read and write. We also play games at school. What is the main idea?",
+          "options": ["School is a place to sleep.", "School is a place for learning and playing.", "We only play games at school.", "Teachers do not teach anything."],
+          "correct_answer": "School is a place for learning and playing.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 32,
+          "question": "A spider makes a web. It uses the web to catch insects for food. The web is sticky. What does a spider make?",
+          "options": ["A nest", "A web", "A house", "A hole"],
+          "correct_answer": "A web",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 33,
+          "question": "India is my country. It is a very big and beautiful country. People of many religions live here together. What is this passage about?",
+          "options": ["A city", "A village", "The country of India", "A continent"],
+          "correct_answer": "The country of India",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 34,
+          "question": "We should drink plenty of water every day. Water helps our body to work properly. It keeps us healthy and active. Why should we drink plenty of water?",
+          "options": ["To stay healthy and active.", "Because it tastes sweet.", "To feel tired.", "Because it has color."],
+          "correct_answer": "To stay healthy and active.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 35,
+          "question": "A postman brings us letters and parcels. He wears a khaki uniform. He works very hard. Who brings us letters?",
+          "options": ["A policeman", "A doctor", "A postman", "A teacher"],
+          "correct_answer": "A postman",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 36,
+          "question": "The camel is called the ship of the desert. It can walk easily on sand. It can live without water for many days. Which animal is called the ship of the desert?",
+          "options": ["Horse", "Elephant", "Camel", "Donkey"],
+          "correct_answer": "Camel",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 37,
+          "question": "Winter is the cold season. People wear warm woolen clothes. They like to drink hot tea and soup. What is the passage describing?",
+          "options": ["The summer season", "The rainy season", "The winter season", "The spring season"],
+          "correct_answer": "The winter season",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 38,
+          "question": "We see with our eyes. We hear with our ears. We smell with our nose. What do we use to hear?",
+          "options": ["Eyes", "Nose", "Ears", "Hands"],
+          "correct_answer": "Ears",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 39,
+          "question": "A library is a place full of books. We can go there to read books quietly. We can also borrow books to take home. What is the main idea?",
+          "options": ["A library is a noisy place.", "A library is a place for reading and borrowing books.", "A library has no books.", "A library is for playing games."],
+          "correct_answer": "A library is a place for reading and borrowing books.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 40,
+          "question": "An airplane flies high in the sky. It can travel very fast from one city to another. A pilot flies the airplane. Who flies an airplane?",
+          "options": ["A driver", "A captain", "A pilot", "A postman"],
+          "correct_answer": "A pilot",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 41,
+          "question": "A bee makes honey. It collects nectar from flowers. Honey is sweet and healthy. What is the main idea of the passage?",
+          "options": ["Flowers have nectar.", "Bees make sweet honey from flowers.", "Honey is not healthy.", "Bees are large insects."],
+          "correct_answer": "Bees make sweet honey from flowers.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 42,
+          "question": "The traffic signal has three lights: red, yellow, and green. Red light says 'stop'. Green light says 'go'. What does the red light mean?",
+          "options": ["Go", "Stop", "Get ready", "Look around"],
+          "correct_answer": "Stop",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 43,
+          "question": "My favorite game is cricket. I play with my friends in the evening. We use a bat and a ball. What is the passage about?",
+          "options": ["The game of football", "The game of cricket", "The game of hockey", "The game of chess"],
+          "correct_answer": "The game of cricket",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 44,
+          "question": "We must keep our village clean. We should not throw garbage on the roads. A clean village is a healthy village. What is the main idea?",
+          "options": ["We should make our village dirty.", "A clean village is not important.", "We should keep our village clean for good health.", "Garbage on the road is good."],
+          "correct_answer": "We should keep our village clean for good health.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 45,
+          "question": "The cheetah is the fastest land animal. It can run at very high speeds to catch its prey. It has a spotted coat. Which animal is the fastest on land?",
+          "options": ["Lion", "Tiger", "Elephant", "Cheetah"],
+          "correct_answer": "Cheetah",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 46,
+          "question": "A baker bakes bread and cakes. He works in a bakery. He uses a big oven to bake. What does a baker do?",
+          "options": ["He sells clothes.", "He bakes bread and cakes.", "He repairs cars.", "He treats patients."],
+          "correct_answer": "He bakes bread and cakes.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 47,
+          "question": "The Earth is our planet. It is round like a ball. It is mostly covered with water. What is the shape of the Earth?",
+          "options": ["Flat", "Square", "Round", "Triangle"],
+          "correct_answer": "Round",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 48,
+          "question": "A carpenter makes furniture from wood. He makes tables, chairs, and beds. He uses tools like a saw and a hammer. What is this passage about?",
+          "options": ["The work of a tailor", "The work of a carpenter", "The work of a potter", "The work of a blacksmith"],
+          "correct_answer": "The work of a carpenter",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 49,
+          "question": "We use a computer for many things. We can draw, play games, and find information on it. It makes our work easy. Which of these is NOT something mentioned that we do on a computer?",
+          "options": ["Draw", "Play games", "Find information", "Cook food"],
+          "correct_answer": "Cook food",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 50,
+          "question": "Holi is the festival of colors. People play with colors and water. They eat special sweets called 'gujiya'. What is the main idea?",
+          "options": ["Holi is a sad festival.", "Holi is a festival of lights.", "Holi is a colorful and joyful festival.", "People do not eat sweets on Holi."],
+          "correct_answer": "Holi is a colorful and joyful festival.",
+          "grammar_type": "Main Idea and Story Details"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Last Sunday, our family went for a picnic at the lake. We packed sandwiches and fruits. My brother and I played badminton while our parents relaxed on a mat. It was a refreshing break from our daily routine. What is the main idea of this paragraph?",
+          "options": ["How to play badminton", "A description of a lake", "A family's enjoyable picnic", "The types of sandwiches to pack"],
+          "correct_answer": "A family's enjoyable picnic",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 52,
+          "question": "To stay healthy, it is important to have a balanced diet. This means eating a variety of foods like fruits, vegetables, grains, and proteins. Junk food should be avoided as it contains too much sugar and fat. What is the best way to stay healthy, according to the passage?",
+          "options": ["Eating only fruits", "Eating a lot of junk food", "Eating a balanced diet", "Avoiding all fats"],
+          "correct_answer": "Eating a balanced diet",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 53,
+          "question": "The Indian Space Research Organisation (ISRO) successfully launched its moon mission, Chandrayaan. The mission aimed to study the moon's surface and look for water. It made every Indian proud. What was the aim of the Chandrayaan mission?",
+          "options": ["To study the sun", "To build a house on the moon", "To study the moon and look for water", "To launch a mission to Mars"],
+          "correct_answer": "To study the moon and look for water",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 54,
+          "question": "The village sarpanch called a Gram Sabha meeting. The main topic of discussion was the shortage of drinking water during the summer. Villagers suggested cleaning the old well and building a new water tank. The sarpanch agreed to work on these solutions. What was the main problem discussed in the meeting?",
+          "options": ["The lack of a school", "The problem with electricity", "The shortage of drinking water", "The bad condition of the roads"],
+          "correct_answer": "The shortage of drinking water",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 55,
+          "question": "Deforestation, or the cutting down of trees on a large scale, has many negative effects. It leads to soil erosion, loss of habitat for animals, and an increase in global warming. Planting more trees is the best way to fight deforestation. What is the main idea of the passage?",
+          "options": ["Trees are beautiful.", "Deforestation is harmful and planting trees is the solution.", "Animals live in forests.", "Soil erosion is a big problem."],
+          "correct_answer": "Deforestation is harmful and planting trees is the solution.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 56,
+          "question": "Meera is a talented potter. She learned the art from her grandfather. She takes clay from the riverbank, shapes it on her potter's wheel, and then bakes the pots in a kiln. Her beautifully painted pots are famous in the nearby towns. Where does Meera get the clay from?",
+          "options": ["She buys it from the market.", "From her grandfather.", "From the riverbank.", "She makes it herself."],
+          "correct_answer": "From the riverbank.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 57,
+          "question": "The annual school sports day was a great success. The event started with a march past by all four houses. Many events like running races, long jump, and relay races were held. The Red House won the overall championship trophy this year. What is the main idea?",
+          "options": ["A description of the Red House", "Details about the long jump event", "A report on the successful school sports day", "The importance of marching"],
+          "correct_answer": "A report on the successful school sports day",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 58,
+          "question": "Solar energy is the energy we get from the sun. It is a clean source of energy because it does not cause pollution. Solar panels are used to capture sunlight and convert it into electricity. This electricity can then be used to light up homes and streets. What are solar panels used for?",
+          "options": ["To block sunlight", "To cause pollution", "To capture sunlight and make electricity", "To create wind energy"],
+          "correct_answer": "To capture sunlight and make electricity",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 59,
+          "question": "Kabir was excited for the village fair. He went with his parents. He saw a giant wheel, a magic show, and many food stalls. He bought a wooden toy and ate some jalebis. He enjoyed the day very much. Which of these did Kabir NOT see at the fair?",
+          "options": ["A giant wheel", "A magic show", "A movie theatre", "Food stalls"],
+          "correct_answer": "A movie theatre",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 60,
+          "question": "Regular exercise has many benefits. It helps to keep our body fit and strong. It also improves our mood and reduces stress. Activities like running, cycling, and yoga are great forms of exercise. What is the main idea of this passage?",
+          "options": ["Yoga is the only good exercise.", "Exercise is important for physical and mental health.", "Running is better than cycling.", "Exercise makes you feel stressed."],
+          "correct_answer": "Exercise is important for physical and mental health.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 61,
+          "question": "The Himalayan mountain range is home to many high peaks, including Mount Everest, the highest in the world. These mountains are always covered in snow. Many important rivers, like the Ganga and Yamuna, originate from the Himalayan glaciers. What is the highest peak in the world mentioned in the passage?",
+          "options": ["K2", "Kangchenjunga", "Mount Everest", "Nanda Devi"],
+          "correct_answer": "Mount Everest",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 62,
+          "question": "A public library is a wonderful resource for the community. It provides free access to books, newspapers, and computers with internet. It is a quiet place for students to study and for anyone to learn new things. What is the main point of the passage?",
+          "options": ["Libraries are noisy places.", "Libraries are only for borrowing books.", "Libraries are valuable community centers for learning and resources.", "Libraries are expensive to use."],
+          "correct_answer": "Libraries are valuable community centers for learning and resources.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 63,
+          "question": "Last night, there was a powerful thunderstorm. The wind was howling, and the rain was pouring down heavily. There were bright flashes of lightning, followed by loud claps of thunder. The electricity went out for an hour. What happened for an hour during the storm?",
+          "options": ["The sun came out.", "It started snowing.", "The electricity went out.", "The wind stopped."],
+          "correct_answer": "The electricity went out.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 64,
+          "question": "Waste management is a big challenge in cities. We should practice the 3 R's: Reduce, Reuse, and Recycle. We should reduce waste by buying less. We can reuse old items. We should recycle materials like paper, plastic, and glass. What is the passage mainly about?",
+          "options": ["How to create more waste", "The problems caused by waste", "Ways to manage waste using the 3 R's", "The process of recycling paper"],
+          "correct_answer": "Ways to manage waste using the 3 R's",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 65,
+          "question": "The Bengal tiger is the national animal of India. It is a symbol of strength and grace. Unfortunately, its population has decreased due to poaching and loss of habitat. Conservation projects are now working to protect these magnificent animals. Why has the tiger population decreased?",
+          "options": ["Because they are weak animals", "Because they moved to another country", "Because of conservation projects", "Because of poaching and loss of habitat"],
+          "correct_answer": "Because of poaching and loss of habitat",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 66,
+          "question": "Rina was learning to ride a bicycle. Her father was holding the back of the seat. She wobbled a little but did not fall. After a few tries, she was able to pedal by herself for a short distance. She felt very proud. How did Rina feel after she could pedal by herself?",
+          "options": ["Scared", "Sad", "Proud", "Angry"],
+          "correct_answer": "Proud",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 67,
+          "question": "The postal service is an important means of communication. A postman delivers letters, money orders, and parcels to our homes. Even with the invention of email and phones, many people in rural areas still depend on the postman. What is the main idea?",
+          "options": ["The postal service is no longer useful.", "The postal service remains an important communication system, especially in rural areas.", "Postmen only deliver parcels.", "Email is better than the postal service in every way."],
+          "correct_answer": "The postal service remains an important communication system, especially in rural areas.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 68,
+          "question": "Photosynthesis is the process by which green plants make their own food. They use sunlight, water, and a gas called carbon dioxide from the air. This process takes place in the leaves of the plant. What gas do plants use from the air to make food?",
+          "options": ["Oxygen", "Nitrogen", "Carbon dioxide", "Hydrogen"],
+          "correct_answer": "Carbon dioxide",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 69,
+          "question": "The Right to Education Act in India ensures that every child between the ages of 6 and 14 gets free and compulsory education. This law aims to increase literacy and provide equal opportunities for all children. What is the purpose of this Act?",
+          "options": ["To make sure children work instead of study", "To provide free education to all children aged 6-14", "To give free books only to boys", "To close down schools"],
+          "correct_answer": "To provide free education to all children aged 6-14",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 70,
+          "question": "A drought is a long period of time with very little or no rainfall. It causes a shortage of water. This is very hard for farmers, as their crops die. Rivers and wells can also dry up. What is the main idea of the passage?",
+          "options": ["A drought is a period of heavy rain.", "Droughts are good for farmers.", "A drought is a period without rain that causes many problems.", "Rivers never dry up."],
+          "correct_answer": "A drought is a period without rain that causes many problems.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 71,
+          "question": "The Constitution of India is the supreme law of the country. It lays down the framework of the government and the rights and duties of citizens. It was adopted on 26th November 1949 and came into effect on 26th January 1950. What does the Constitution of India lay down?",
+          "options": ["The rules for a cricket match", "The framework of government and citizen's rights", "A list of holidays", "The history of Indian kings"],
+          "correct_answer": "The framework of government and citizen's rights",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 72,
+          "question": "Yesterday, a new library was inaugurated in our village. The District Collector was the chief guest. He said that books are our best friends and encouraged all the children to develop a reading habit. What did the chief guest encourage the children to do?",
+          "options": ["To play more games", "To watch more TV", "To develop a reading habit", "To open more libraries"],
+          "correct_answer": "To develop a reading habit",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 73,
+          "question": "A team of doctors from the city organized a free health camp in our village. They checked people's blood pressure and sugar levels. They also distributed free medicines to those who needed them. Many villagers benefited from the camp. What is the main idea?",
+          "options": ["Doctors from the city are not good.", "Villagers had to pay a lot of money for medicine.", "A free health camp was helpful for the villagers.", "The camp was only for checking blood pressure."],
+          "correct_answer": "A free health camp was helpful for the villagers.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 74,
+          "question": "The peacock is a beautiful bird, famous for its colorful tail feathers. When a peacock spreads its tail, it looks like a big fan. This spectacular display is called a dance. The peacock is the national bird of India. What is the peacock's spectacular display called?",
+          "options": ["A song", "A walk", "A dance", "A flight"],
+          "correct_answer": "A dance",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 75,
+          "question": "Pollution is the introduction of harmful materials into the environment. Air pollution is caused by smoke from vehicles and factories. Water pollution is caused by throwing waste into rivers. Pollution is dangerous for all living things. What is the main idea of this passage?",
+          "options": ["Pollution is good for the environment.", "Pollution is harmful and has different types.", "Air pollution is not dangerous.", "Only water gets polluted."],
+          "correct_answer": "Pollution is harmful and has different types.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 76,
+          "question": "Arun saved his pocket money for a month. He wanted to buy a storybook he had seen in a shop. At the end of the month, he had enough money. He went to the shop and bought the book. He was very happy. Why was Arun saving his pocket money?",
+          "options": ["To buy a toy", "To buy a storybook", "To give it to his friend", "To buy chocolates"],
+          "correct_answer": "To buy a storybook",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 77,
+          "question": "The internet is a global network of computers. It allows us to send emails, watch videos, and find information on any topic. While it is very useful, we should be careful about sharing our personal information online. What is the main idea?",
+          "options": ["The internet is only for watching videos.", "The internet is a useful tool, but we must use it cautiously.", "The internet is not useful at all.", "We should share all our personal information online."],
+          "correct_answer": "The internet is a useful tool, but we must use it cautiously.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 78,
+          "question": "A food chain shows how energy is passed from one living thing to another. It starts with a producer, which is usually a plant. A herbivore eats the plant, and then a carnivore eats the herbivore. For example: grass -> deer -> lion. What does a food chain start with?",
+          "options": ["A carnivore", "A herbivore", "An animal", "A producer (a plant)"],
+          "correct_answer": "A producer (a plant)",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 79,
+          "question": "The government has started a campaign to keep the country clean. It is called the 'Swachh Bharat Abhiyan'. The aim is to make our streets, roads, and infrastructure clean. Everyone should participate in this mission. What is the aim of the 'Swachh Bharat Abhiyan'?",
+          "options": ["To build more roads", "To make the country clean", "To plant more trees", "To provide free electricity"],
+          "correct_answer": "To make the country clean",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 80,
+          "question": "A farmer had a goose that laid a golden egg every day. The farmer became greedy and thought there must be a treasure of gold inside the goose. He killed the goose to get all the gold at once, but found nothing inside. He lost the one golden egg he used to get daily. What is the moral of the story?",
+          "options": ["Honesty is the best policy.", "Unity is strength.", "Greed leads to loss.", "Slow and steady wins the race."],
+          "correct_answer": "Greed leads to loss.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 81,
+          "question": "A renewable source of energy is one that will not run out, like wind or solar energy. A non-renewable source, like coal or petrol, will one day be finished. We should try to use more renewable energy to protect our future. What is the main idea?",
+          "options": ["Coal is a renewable source of energy.", "We should use more non-renewable energy.", "Using renewable energy is better for the future.", "Solar energy will run out one day."],
+          "correct_answer": "Using renewable energy is better for the future.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 82,
+          "question": "The human body has five sense organs: the eyes, ears, nose, tongue, and skin. They help us to see, hear, smell, taste, and touch. These senses help us to understand the world around us. Which of these is NOT a sense organ mentioned?",
+          "options": ["Eyes", "Tongue", "Skin", "Stomach"],
+          "correct_answer": "Stomach",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 83,
+          "question": "During the freedom struggle, many brave Indians fought against British rule. Leaders like Mahatma Gandhi, Jawaharlal Nehru, and Sardar Patel led the country. After a long struggle, India became independent on 15th August 1947. What is the main topic of this passage?",
+          "options": ["The life of Mahatma Gandhi", "India's freedom struggle", "The British rule in India", "The celebration of Independence Day"],
+          "correct_answer": "India's freedom struggle",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 84,
+          "question": "A group of students from our school went on a trek in the mountains. They learned to set up tents, read maps, and identify different plants. They also saw a beautiful waterfall. The trip taught them teamwork and self-reliance. What did the trip teach the students?",
+          "options": ["How to cook food", "Only how to read maps", "Teamwork and self-reliance", "How to build a house"],
+          "correct_answer": "Teamwork and self-reliance",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 85,
+          "question": "A balanced ecosystem is one where all the living (plants, animals) and non-living (sun, water, soil) things are in harmony. If one part is disturbed, it can affect the entire system. For example, cutting down too many trees can harm the animals that live there. What is the main idea?",
+          "options": ["Ecosystems only have living things.", "A balance in the ecosystem is important for all its parts.", "Disturbing one part does not affect others.", "Animals and plants are not in harmony."],
+          "correct_answer": "A balance in the ecosystem is important for all its parts.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 86,
+          "question": "Raju is a bus driver. His duty is to drive the school bus safely. He picks up children from their stops in the morning and drops them back in the afternoon. He always drives carefully and follows all the traffic rules. What is Raju's main responsibility?",
+          "options": ["To drive the bus very fast", "To reach the school late", "To drive the school bus safely", "To repair the bus"],
+          "correct_answer": "To drive the school bus safely",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 87,
+          "question": "Our village has a self-help group run by women. They make pickles, papad, and handicrafts. They sell these items in the city market. The money they earn helps them to support their families and educate their children. What do the women in the self-help group do?",
+          "options": ["They work as teachers.", "They make and sell food items and handicrafts.", "They work as doctors.", "They sell clothes in the village."],
+          "correct_answer": "They make and sell food items and handicrafts.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 88,
+          "question": "A vaccine helps our body to fight against diseases. It prepares our immune system to recognize and destroy harmful germs like viruses and bacteria. Getting vaccinated is a safe and effective way to protect ourselves and others from many dangerous illnesses. What is the main purpose of a vaccine?",
+          "options": ["To make us sick", "To help our body fight diseases", "To weaken our immune system", "To give us energy"],
+          "correct_answer": "To help our body fight diseases",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 89,
+          "question": "The state of Kerala in India is famous for its backwaters, which are a network of lakes, canals, and lagoons. Tourists enjoy riding in houseboats on these backwaters. The area is also rich in greenery and coconut trees. What is Kerala famous for, according to the passage?",
+          "options": ["Deserts", "Snowy mountains", "Backwaters and greenery", "Large factories"],
+          "correct_answer": "Backwaters and greenery",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 90,
+          "question": "Once, a clever fox saw a crow with a piece of cheese in its beak. The fox wanted the cheese, so he started praising the crow's voice and asked it to sing. The foolish crow opened its mouth to sing, the cheese fell down, and the fox ran away with it. What is the main idea?",
+          "options": ["The crow had a beautiful voice.", "The fox was very kind.", "The clever fox tricked the foolish crow.", "The cheese was not tasty."],
+          "correct_answer": "The clever fox tricked the foolish crow.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 91,
+          "question": "Democracy is a system of government by the whole population, typically through elected representatives. In India, citizens above the age of 18 have the right to vote and choose their government. This makes the people the real source of power. What is the main idea of the passage?",
+          "options": ["Only people above 50 can vote.", "Democracy is a system where citizens choose their government.", "In a democracy, the king has all the power.", "India is not a democracy."],
+          "correct_answer": "Democracy is a system where citizens choose their government.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 92,
+          "question": "A good friend is someone who helps you in times of need. They are honest with you and celebrate your success. Friendship is a valuable relationship based on trust and mutual respect. According to the passage, what is a key quality of a good friend?",
+          "options": ["Someone who is never honest.", "Someone who is jealous of your success.", "Someone who helps you when you need it.", "Someone you do not trust."],
+          "correct_answer": "Someone who helps you when you need it.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 93,
+          "question": "The Taj Mahal is a beautiful white marble monument in Agra, India. It was built by the Mughal emperor Shah Jahan in memory of his wife Mumtaz Mahal. It is considered one of the wonders of the world. Why was the Taj Mahal built?",
+          "options": ["As a fort for fighting wars", "As a palace for the emperor to live in", "In memory of Shah Jahan's wife", "As a place of government"],
+          "correct_answer": "In memory of Shah Jahan's wife",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 94,
+          "question": "A map is a drawing of a place as seen from above. It helps us to understand the location of different places like rivers, mountains, cities, and roads. Different symbols and colors are used on a map to show different features. What is the main purpose of a map?",
+          "options": ["To show a beautiful drawing", "To help us understand the location of places", "To show the weather of a place", "To tell a story"],
+          "correct_answer": "To help us understand the location of places",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 95,
+          "question": "The Red Fort in Delhi is a historic fort that was the main residence of the Mughal emperors. On India's Independence Day, the Prime Minister hoists the national flag at the Red Fort. It is a very popular tourist destination. What happens at the Red Fort on Independence Day?",
+          "options": ["A cricket match is played.", "The President gives a speech.", "The Prime Minister hoists the national flag.", "A big festival is held."],
+          "correct_answer": "The Prime Minister hoists the national flag.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 96,
+          "question": "Earthquakes are the shaking of the surface of the Earth. They are caused by the sudden movement of rock beneath the surface. A strong earthquake can cause buildings to collapse and can be very dangerous. What is the main point of this paragraph?",
+          "options": ["Earthquakes are not dangerous.", "Earthquakes are a safe and common event.", "Earthquakes are a dangerous shaking of the Earth caused by movements under the surface.", "Earthquakes are caused by heavy rain."],
+          "correct_answer": "Earthquakes are a dangerous shaking of the Earth caused by movements under the surface.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 97,
+          "question": "Iron is a strong metal that is used to make many things, like tools, machines, and bridges. However, when iron is exposed to air and water, it can rust. Rust is a reddish-brown coating that weakens the iron. What happens to iron when it is exposed to air and water?",
+          "options": ["It becomes stronger.", "It turns into gold.", "It can rust.", "It becomes very light."],
+          "correct_answer": "It can rust.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 98,
+          "question": "A newspaper is a publication containing news, articles, and advertisements. It gives us information about what is happening in our city, country, and the world. Reading a newspaper daily is a good habit to stay informed. What is the main idea?",
+          "options": ["Newspapers only contain advertisements.", "Reading a newspaper is a good way to stay informed about current events.", "Newspapers do not have any real news.", "Newspapers are very expensive."],
+          "correct_answer": "Reading a newspaper is a good way to stay informed about current events.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 99,
+          "question": "The judiciary is the system of courts that interprets and applies the law. The Supreme Court is the highest court in India. The judiciary plays an important role in protecting the rights of citizens and ensuring justice for all. What is the highest court in India?",
+          "options": ["The High Court", "The District Court", "The Supreme Court", "The Village Court"],
+          "correct_answer": "The Supreme Court",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 100,
+          "question": "Salim Ali was a famous Indian ornithologist, also known as the 'Birdman of India'. He dedicated his life to studying different species of birds and their habitats. His books have helped many people to understand and appreciate birds. What is this passage mainly about?",
+          "options": ["A famous Indian politician", "A famous Indian scientist who studied birds", "A book about different types of trees", "The birds of Africa"],
+          "correct_answer": "A famous Indian scientist who studied birds",
+          "grammar_type": "Main Idea and Story Details"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The Green Revolution in India, which began in the 1960s, was a period of significant agricultural development. It involved the introduction of high-yield variety seeds, increased use of fertilizers, and better irrigation facilities. While it greatly increased food production and made India self-sufficient in food grains, critics point out that it also led to environmental damage and benefited wealthy farmers more than poor ones. What is the main idea of the passage?",
+          "options": ["The Green Revolution was a complete failure.", "The Green Revolution only used better seeds.", "The Green Revolution increased food production but also had negative consequences.", "The Green Revolution only benefited poor farmers."],
+          "correct_answer": "The Green Revolution increased food production but also had negative consequences.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 102,
+          "question": "The right to information (RTI) is a fundamental right for citizens of India. The RTI Act allows any citizen to request information from a public authority and receive it within 30 days. This tool promotes transparency and accountability in the working of the government, empowering the common person to question official decisions. What is the primary purpose of the RTI Act as described in the passage?",
+          "options": ["To make government work slower", "To keep government information secret", "To promote transparency and accountability by empowering citizens", "To allow citizens to make official decisions"],
+          "correct_answer": "To promote transparency and accountability by empowering citizens",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 103,
+          "question": "Many scientists believe that climate change, driven by the burning of fossil fuels like coal and petrol, is the biggest challenge of our time. Rising global temperatures are causing glaciers to melt, sea levels to rise, and extreme weather events to become more frequent. The passage suggests that a major cause of climate change is...",
+          "options": ["The melting of glaciers", "The rise in sea levels", "The burning of fossil fuels", "The frequency of extreme weather"],
+          "correct_answer": "The burning of fossil fuels",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 104,
+          "question": "While a smartphone is a powerful tool for communication and learning, its excessive use can have drawbacks. It can lead to eye strain, poor sleep patterns, and a lack of real-world social interaction. Moreover, the constant notifications can create a state of distraction, making it hard to concentrate on important tasks. What is the author's main point?",
+          "options": ["Smartphones are powerful tools with no negative effects.", "Smartphones are only useful for communication.", "Excessive smartphone use can lead to various physical and mental health issues.", "Constant notifications help improve concentration."],
+          "correct_answer": "Excessive smartphone use can lead to various physical and mental health issues.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 105,
+          "question": "The Indian monsoon is a complex weather phenomenon. The southwest monsoon brings the majority of the country's annual rainfall between June and September. This rainfall is crucial for India's agriculture and economy. However, if the monsoon is too weak it can lead to drought, and if it is too strong, it can cause devastating floods. Which statement best summarizes the passage?",
+          "options": ["The monsoon only causes droughts.", "The monsoon is a simple weather pattern.", "The Indian monsoon is vital for the country but can be destructive if it is not balanced.", "The monsoon happens throughout the year."],
+          "correct_answer": "The Indian monsoon is vital for the country but can be destructive if it is not balanced.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 106,
+          "question": "Biodiversity refers to the variety of life on Earth, from the smallest bacteria to the largest whales. Each species plays a role in its ecosystem. The loss of biodiversity, caused by pollution and habitat destruction, can disrupt these ecosystems and threaten our own supply of food and clean water. What can be inferred from the passage?",
+          "options": ["The loss of one species has no effect on others.", "Protecting biodiversity is important for human well-being.", "Biodiversity only refers to large animals.", "Pollution helps to increase biodiversity."],
+          "correct_answer": "Protecting biodiversity is important for human well-being.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 107,
+          "question": "In a democratic election, the media plays the role of a 'watchdog'. Its job is to provide unbiased information about all candidates and parties, report on campaign promises, and hold elected officials accountable for their actions. A free and responsible media is therefore essential for voters to make informed choices. What is the main role of the media in an election, according to the passage?",
+          "options": ["To support only one candidate", "To act as a 'watchdog' by providing unbiased information and ensuring accountability", "To tell voters who to vote for", "To ignore the actions of elected officials"],
+          "correct_answer": "To act as a 'watchdog' by providing unbiased information and ensuring accountability",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 108,
+          "question": "The Industrial Revolution, which began in the 18th century, was a shift from handmade goods to machine-made goods. This led to the growth of factories and cities. While it brought about economic growth and new technologies, it also created poor working conditions for many laborers and increased pollution. Which of these was NOT an effect of the Industrial Revolution mentioned in the passage?",
+          "options": ["Growth of factories", "Increased pollution", "Poor working conditions", "A decrease in economic growth"],
+          "correct_answer": "A decrease in economic growth",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 109,
+          "question": "Digital literacy is no longer just about knowing how to use a computer. In today's world, it also includes the ability to critically evaluate online sources, identify 'fake news', and protect one's privacy online. These skills are essential for being a responsible and informed digital citizen. What is the main idea of the passage?",
+          "options": ["Digital literacy is only about using a computer.", "Fake news is not a real problem.", "Modern digital literacy involves critical thinking and online safety skills.", "Protecting privacy online is not important."],
+          "correct_answer": "Modern digital literacy involves critical thinking and online safety skills.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 110,
+          "question": "The Chipko movement was a non-violent social and ecological movement by rural villagers in India in the 1970s. The movement's main aim was to protect trees and forests from being cut down by the government and contractors. Women were at the forefront of this movement, often hugging the trees to prevent them from being felled. What does this passage imply about the Chipko movement?",
+          "options": ["It was a violent movement led by men.", "It was an unsuccessful movement.", "It was a movement focused on building factories.", "It was a significant environmental movement with active participation from women."],
+          "correct_answer": "It was a significant environmental movement with active participation from women.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 111,
+          "question": "A federal system of government is one where power is divided between a central authority and constituent political units, such as states. In India, for example, there is a list of subjects for the central government, a list for the state governments, and a concurrent list for both. This division of power is a key feature of the Indian Constitution. The passage is primarily about...",
+          "options": ["A system with only a central government", "The features of a federal system of government", "The powers of the Indian Prime Minister", "The Indian judicial system"],
+          "correct_answer": "The features of a federal system of government",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 112,
+          "question": "Plagiarism is the act of using someone else's words or ideas without giving them proper credit, presenting them as one's own. In academic and professional settings, it is considered a serious ethical offense. It is not just copying text but also includes borrowing ideas without citation. What is the most important aspect of avoiding plagiarism?",
+          "options": ["Using as many ideas from others as possible", "Copying text exactly as it is written", "Giving proper credit or citation to the original source", "Never using anyone else's ideas"],
+          "correct_answer": "Giving proper credit or citation to the original source",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 113,
+          "question": "The concept of 'zero' is one of India's most significant contributions to the world of mathematics. Developed by ancient Indian mathematicians, the concept of zero as a number and a placeholder was revolutionary. It enabled the development of the decimal system and paved the way for modern algebra and calculus. What is the main idea of this passage?",
+          "options": ["The concept of zero was not very important.", "The decimal system was invented in Europe.", "The development of zero in India was a crucial moment in the history of mathematics.", "Algebra and calculus do not use the number zero."],
+          "correct_answer": "The development of zero in India was a crucial moment in the history of mathematics.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 114,
+          "question": "Critical thinking is the ability to analyze information objectively and make a reasoned judgment. It involves evaluating evidence, identifying different points of view, and recognizing bias. It is not about simply criticizing, but about thinking with clarity and depth. Which of these is a key part of critical thinking?",
+          "options": ["Accepting all information as true", "Ignoring different points of view", "Evaluating evidence and recognizing bias", "Making judgments based on emotion"],
+          "correct_answer": "Evaluating evidence and recognizing bias",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 115,
+          "question": "The 'gig economy' refers to a labor market characterized by short-term contracts or freelance work, as opposed to permanent jobs. While it offers flexibility for workers and lower costs for companies, it is also criticized for its lack of job security, benefits like health insurance, and worker protections. Which statement best summarizes the passage?",
+          "options": ["The gig economy only has benefits for workers.", "The gig economy offers flexibility but raises concerns about worker security and rights.", "The gig economy is about permanent, secure jobs.", "All companies are now part of the gig economy."],
+          "correct_answer": "The gig economy offers flexibility but raises concerns about worker security and rights.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 116,
+          "question": "Satellites are not just for communication or weather forecasting. Remote sensing satellites constantly monitor the Earth's surface, providing valuable data on forest cover, groundwater levels, and urban sprawl. This information is crucial for disaster management, urban planning, and environmental protection. The passage suggests that remote sensing satellites are used for...",
+          "options": ["Sending TV signals only", "Predicting earthquakes", "Monitoring various aspects of the Earth's surface for planning and protection", "Studying other planets"],
+          "correct_answer": "Monitoring various aspects of the Earth's surface for planning and protection",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 117,
+          "question": "The placebo effect is a fascinating phenomenon where a patient experiences real health improvements after taking a 'placebo' - a substance with no actual therapeutic effect, like a sugar pill. This suggests a powerful connection between a person's belief or expectation and their physical health. What does the placebo effect demonstrate?",
+          "options": ["Sugar pills can cure all diseases.", "The mind has no effect on the body.", "A person's belief can have a real impact on their health.", "All medicines are just sugar pills."],
+          "correct_answer": "A person's belief can have a real impact on their health.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 118,
+          "question": "The Harappan civilization, one of the world's earliest urban civilizations, was known for its remarkable city planning. Cities like Mohenjo-daro had well-organized street grids, advanced drainage and sanitation systems, and impressive multi-storied brick houses. This evidence points to a sophisticated and highly organized society. What feature of Harappan cities points to a sophisticated society?",
+          "options": ["The lack of any planning", "The use of mud houses", "The advanced city planning and drainage systems", "The presence of many small villages"],
+          "correct_answer": "The advanced city planning and drainage systems",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 119,
+          "question": "Artificial Intelligence (AI) is rapidly evolving. While it has the potential to solve major world problems in medicine and science, there are also ethical concerns. Issues like job displacement due to automation, algorithmic bias, and the potential for autonomous weapons require careful consideration and regulation as we develop this technology further. What is the author's main point?",
+          "options": ["AI has no potential to solve problems.", "AI is a perfect technology with no ethical concerns.", "The development of AI offers great promise but also requires careful handling of its ethical challenges.", "AI will not cause any job displacement."],
+          "correct_answer": "The development of AI offers great promise but also requires careful handling of its ethical challenges.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 120,
+          "question": "Mindfulness is the practice of paying attention to the present moment without judgment. It can be cultivated through meditation and other exercises. Studies have shown that regular mindfulness practice can reduce stress, improve focus, and increase feelings of well-being. What is the central focus of the practice of mindfulness?",
+          "options": ["Thinking about the past", "Worrying about the future", "Paying attention to the present moment", "Judging your thoughts"],
+          "correct_answer": "Paying attention to the present moment",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 121,
+          "question": "The preamble to the Indian Constitution begins with the words 'We, the people of India...'. This phrase is significant because it establishes that the ultimate source of all authority under the Constitution is not an external power or a monarch, but the citizens of India themselves. What does the phrase 'We, the people of India...' signify?",
+          "options": ["That the constitution was written by foreigners.", "That the authority of the constitution comes from the people of India.", "That the constitution is for a small group of people.", "That the people have no power."],
+          "correct_answer": "That the authority of the constitution comes from the people of India.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 122,
+          "question": "Confirmation bias is the tendency to search for, interpret, and recall information in a way that confirms one's pre-existing beliefs. For example, a person might only read news articles that support their political views and dismiss any that contradict them. This cognitive bias can be a major barrier to open-minded and objective thinking. The passage suggests that confirmation bias...",
+          "options": ["Helps people to be more open-minded", "Is the tendency to search for information that challenges one's beliefs", "Is a barrier to objective thinking because it favors supporting evidence", "Is a rare and unimportant bias"],
+          "correct_answer": "Is a barrier to objective thinking because it favors supporting evidence",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 123,
+          "question": "Microfinance institutions provide small loans and other financial services to low-income individuals, especially women, who lack access to traditional banking services. The goal is to promote entrepreneurship and alleviate poverty. By enabling people to start small businesses, microfinance can be a powerful tool for economic empowerment at the grassroots level. What is the main idea of the passage?",
+          "options": ["Microfinance is for wealthy individuals.", "Microfinance is a system that can help reduce poverty by providing small loans for businesses.", "Microfinance only provides large loans for big factories.", "Microfinance is not a useful tool."],
+          "correct_answer": "A system that can help reduce poverty by providing small loans for businesses.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 124,
+          "question": "Sleep is not just a period of rest; it is crucial for our physical and mental health. During sleep, our brain consolidates memories, and our body repairs itself. A chronic lack of sleep can lead to serious health problems, including poor concentration, a weakened immune system, and an increased risk of heart disease. What can be concluded from this passage?",
+          "options": ["Sleeping less is good for health.", "Sleep is an active period that is essential for health and brain function.", "The brain is not active during sleep.", "A lack of sleep only makes you feel a little tired."],
+          "correct_answer": "Sleep is an active period that is essential for health and brain function.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 125,
+          "question": "The concept of secularism in the Indian context means that the state does not have its own official religion. It treats all religions equally and guarantees freedom of religion to all citizens. This is different from some Western concepts of secularism which can imply a strict separation of religion and state. What is a key feature of Indian secularism according to the passage?",
+          "options": ["The state has one official religion.", "The state is against all religions.", "The state treats all religions equally.", "Citizens do not have freedom of religion."],
+          "correct_answer": "The state treats all religions equally.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 126,
+          "question": "While teamwork is often praised, a psychological phenomenon known as 'social loafing' can sometimes occur. This is the tendency for individuals to exert less effort when working in a group than when working alone. This can happen when individuals feel their own contribution is not important or will not be noticed. What does the passage describe?",
+          "options": ["A situation where people work harder in groups.", "The tendency for some people to work less hard in a group setting.", "A phenomenon that makes teamwork more efficient.", "A type of positive team-building exercise."],
+          "correct_answer": "The tendency for some people to work less hard in a group setting.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 127,
+          "question": "The discovery of penicillin by Alexander Fleming was accidental. He noticed that a mold had contaminated one of his culture plates and had killed the bacteria around it. This observation led to the development of the first antibiotic, which has saved millions of lives. What does this story primarily illustrate?",
+          "options": ["That all scientific discoveries are planned.", "The importance of careful observation and recognizing unexpected results in science.", "That mold is always dangerous.", "That bacteria are stronger than antibiotics."],
+          "correct_answer": "The importance of careful observation and recognizing unexpected results in science.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 128,
+          "question": "The Indian classical dance form of Bharatanatyam originated in the temples of Tamil Nadu. It is known for its fixed upper torso, bent legs, and spectacular footwork, combined with an intricate language of gestures and facial expressions to tell stories. The passage highlights that Bharatanatyam is NOT characterized by...",
+          "options": ["Intricate gestures", "Spectacular footwork", "A very flexible and mobile upper torso", "Facial expressions"],
+          "correct_answer": "A very flexible and mobile upper torso",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 129,
+          "question": "Globalization is the process of interaction and integration among people, companies, and governments worldwide. Driven by international trade and investment and aided by information technology, this process has effects on the environment, culture, and economic development. While it has led to economic growth, it is also criticized for increasing inequality. Which statement best summarizes the main idea?",
+          "options": ["Globalization is a simple process with no drawbacks.", "Globalization is driven solely by information technology.", "Globalization is a complex process of worldwide integration with both positive and negative effects.", "Globalization has only led to increased inequality."],
+          "correct_answer": "Globalization is a complex process of worldwide integration with both positive and negative effects.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 130,
+          "question": "Emotional intelligence (EQ) is the ability to understand, use, and manage your own emotions in positive ways to relieve stress, communicate effectively, and overcome challenges. It is often considered as important as intellectual ability (IQ) for achieving success in life and work. What is the central argument of the passage?",
+          "options": ["Intellectual ability (IQ) is the only thing that matters for success.", "Emotional intelligence is about suppressing all emotions.", "Emotional intelligence is a key skill for managing life effectively and is as important as IQ.", "EQ and IQ are the same thing."],
+          "correct_answer": "Emotional intelligence is a key skill for managing life effectively and is as important as IQ.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 131,
+          "question": "The Non-Cooperation movement, launched by Mahatma Gandhi, was a pivotal phase in India's freedom struggle. It was based on the principle of 'ahimsa' or non-violence. The strategy involved boycotting British goods, schools, and courts, and refusing to pay taxes, with the aim of crippling the British administration. The main strategy of this movement was...",
+          "options": ["Violent protests and attacks", "Asking the British to leave politely", "Non-violent refusal to cooperate with the British administration", "Cooperating fully with the British government"],
+          "correct_answer": "Non-violent refusal to cooperate with the British administration",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 132,
+          "question": "The concept of 'opportunity cost' in economics is the value of the next-best alternative that you give up when you make a choice. For example, if you have ten rupees and you choose to buy a pen, the opportunity cost is the chocolate that you could have bought instead. What does this passage mainly explain?",
+          "options": ["That pens are more valuable than chocolates.", "The idea that every choice involves giving up something else of value.", "That you should always buy a pen.", "That economics is a very difficult subject."],
+          "correct_answer": "The idea that every choice involves giving up something else of value.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 133,
+          "question": "A watershed is an area of land that drains all the streams and rainfall to a common outlet like a river or a lake. Watershed management is the process of implementing conservation practices in this area. It not only helps in conserving soil and water but also in improving crop production and creating sustainable livelihoods. According to the passage, watershed management has which of the following benefits?",
+          "options": ["It only helps to conserve water.", "It causes soil erosion.", "It has environmental as well as economic benefits.", "It decreases crop production."],
+          "correct_answer": "It has environmental as well as economic benefits.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 134,
+          "question": "Many ancient observatories, like the Jantar Mantar in India, were built to track the movements of the sun, moon, and planets. This was not just for astronomical curiosity; it was essential for creating accurate calendars, predicting seasons for agriculture, and for astrology. This implies that ancient astronomy was...",
+          "options": ["Only a hobby for kings", "Not very accurate", "Closely linked to the practical needs of society", "Separate from everyday life"],
+          "correct_answer": "Closely linked to the practical needs of society",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 135,
+          "question": "Cognitive dissonance is the mental discomfort experienced by a person who holds two or more contradictory beliefs or values, or when their beliefs are inconsistent with their actions. To reduce this discomfort, people may change their beliefs, change their actions, or justify their behavior. The passage is primarily about...",
+          "options": ["A state of mental comfort and harmony", "A state of mental conflict and the ways people resolve it", "A theory that beliefs and actions are always consistent", "A type of physical illness"],
+          "correct_answer": "A state of mental conflict and the ways people resolve it",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 136,
+          "question": "The Indian parliamentary system has two houses: the Lok Sabha (House of the People) and the Rajya Sabha (Council of States). Members of the Lok Sabha are directly elected by the people, while members of the Rajya Sabha are elected by state legislative assemblies. A bill has to be passed by both houses to become a law. A key difference between the two houses is...",
+          "options": ["The method by which their members are elected", "The Rajya Sabha has more members than the Lok Sabha", "The Lok Sabha is the upper house", "A bill only needs to be passed by the Lok Sabha"],
+          "correct_answer": "The method by which their members are elected",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 137,
+          "question": "Freedom of speech and expression is a fundamental right, but it is not absolute. The Constitution allows for 'reasonable restrictions' on this right in the interests of the sovereignty and integrity of India, public order, decency, or morality. What does the passage suggest about the right to freedom of speech?",
+          "options": ["It is an unlimited right.", "It can be reasonably restricted under certain conditions.", "It is not a fundamental right.", "There are no restrictions on this right."],
+          "correct_answer": "It can be reasonably restricted under certain conditions.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 138,
+          "question": "The Great Barrier Reef is the world's largest coral reef system, composed of over 2,900 individual reefs. It is a fragile ecosystem that is now under threat from climate change, which causes coral bleaching, and from pollution. What is the main idea?",
+          "options": ["The Great Barrier Reef is a man-made structure.", "The Great Barrier Reef is a robust ecosystem that cannot be harmed.", "The Great Barrier Reef is a vast, important ecosystem that is currently facing serious threats.", "Coral bleaching is helping the reef to grow."],
+          "correct_answer": "The Great Barrier Reef is a vast, important ecosystem that is currently facing serious threats.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 139,
+          "question": "The 'Dunning-Kruger effect' is a cognitive bias where people with low ability at a task overestimate their ability. Essentially, they are too incompetent to recognize their own incompetence. Conversely, experts in a field often underestimate their own competence, assuming that tasks which are easy for them are also easy for others. This passage explains a bias where...",
+          "options": ["Experts overestimate their ability.", "Incompetent people are aware of their incompetence.", "Incompetent people overestimate their ability, while experts may underestimate theirs.", "Ability and self-assessment are always accurate."],
+          "correct_answer": "Incompetent people overestimate their ability, while experts may underestimate theirs.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 140,
+          "question": "The fundamental duties of citizens were added to the Indian Constitution later. These include duties like respecting the national flag and anthem, protecting public property, and promoting harmony. While these duties are not legally enforceable by courts, they are meant to be moral obligations on all citizens. What does the passage state about the fundamental duties?",
+          "options": ["They were part of the original constitution.", "They are legally enforceable, and you can be jailed for not following them.", "They are moral obligations intended to guide citizens.", "They only include respecting the national flag."],
+          "correct_answer": "They are moral obligations intended to guide citizens.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 141,
+          "question": "The Silk Road was not a single road, but a network of ancient trade routes connecting the East and West. It was central to cultural interaction between different civilizations for centuries. More than just silk was traded; spices, porcelain, and, crucially, ideas like religions and philosophies also traveled along these routes. What is the main idea of this passage?",
+          "options": ["The Silk Road was a single road used only for trading silk.", "The Silk Road was an important network for the exchange of goods as well as culture and ideas.", "The Silk Road only connected different parts of China.", "No ideas were exchanged on the Silk Road."],
+          "correct_answer": "The Silk Road was an important network for the exchange of goods as well as culture and ideas.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 142,
+          "question": "A 'Growth Mindset', a concept developed by Carol Dweck, is the belief that one's abilities can be developed through dedication and hard work. In contrast, a 'Fixed Mindset' is the belief that abilities are innate and unchangeable. The passage suggests that a person with a growth mindset is more likely to...",
+          "options": ["Avoid challenges to prevent failure.", "Believe that effort is fruitless.", "Embrace challenges and persist in the face of setbacks.", "Believe that their intelligence cannot be changed."],
+          "correct_answer": "Embrace challenges and persist in the face of setbacks.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 143,
+          "question": "The principle of 'checks and balances' is fundamental to many democratic governments. It ensures that no single branch of government—legislative, executive, or judicial—becomes too powerful. For example, the legislature can pass a law, but the executive can veto it, and the judiciary can declare it unconstitutional. The primary purpose of 'checks and balances' is to...",
+          "options": ["Make one branch of government all-powerful", "Make the government work faster", "Prevent the abuse of power by any one branch of government", "Abolish the different branches of government"],
+          "correct_answer": "Prevent the abuse of power by any one branch of government",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 144,
+          "question": "While formal education in schools is vital, informal education is a lifelong process. We learn informally from our family, our community, through reading books, traveling, and even from our mistakes. This continuous learning from life experiences is just as important for personal growth as a school degree. What is the author's main argument?",
+          "options": ["Formal education in schools is not important.", "Learning stops after you finish school.", "Informal, lifelong learning from experience is a crucial part of personal growth.", "Learning from mistakes is a sign of failure."],
+          "correct_answer": "Informal, lifelong learning from experience is a crucial part of personal growth.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 145,
+          "question": "The Partition of India in 1947 was the division of British India into two independent dominions, India and Pakistan. The event was accompanied by large-scale violence and one of the largest mass migrations in human history. While it led to the birth of two new nations, it left a legacy of deep trauma and conflict. Which statement best reflects the main idea of the passage?",
+          "options": ["The Partition was a peaceful and organized event.", "The Partition created two new nations but was also a tragic and violent event with lasting consequences.", "The Partition did not involve any migration of people.", "The Partition only affected a small number of people."],
+          "correct_answer": "The Partition created two new nations but was also a tragic and violent event with lasting consequences.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 146,
+          "question": "A 'food desert' is an area that has limited access to affordable and nutritious food. This is often the case in low-income neighborhoods where there are no large supermarkets, only small shops selling processed and junk food. This lack of access can lead to poor health outcomes for residents. According to the passage, what is a key problem in a 'food desert'?",
+          "options": ["There is no food available at all.", "There are too many large supermarkets.", "There is a lack of affordable, healthy food options.", "The residents are not hungry."],
+          "correct_answer": "There is a lack of affordable, healthy food options.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 147,
+          "question": "The 'Tragedy of the Commons' is a situation where individuals, acting in their own self-interest, deplete a shared, limited resource, even when it is not in anyone's long-term interest for this to happen. For example, if many herders share a common pasture, each may try to graze as many of their own cattle as possible, leading to the destruction of the pasture for everyone. This concept illustrates a conflict between...",
+          "options": ["Individual interest and the common good", "Animals and humans", "The past and the future", "Wealthy and poor herders"],
+          "correct_answer": "Individual interest and the common good",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 148,
+          "question": "The invention of the printing press by Johannes Gutenberg in the 15th century was a turning point in history. It allowed for the mass production of books, making them cheaper and more widely available. This spread of knowledge to the common people challenged the authority of ruling elites and was a key factor in fueling the Renaissance and the Reformation. What was a major impact of the printing press?",
+          "options": ["It made books more expensive and rarer.", "It had no real impact on society.", "It democratized access to knowledge, leading to major social and cultural changes.", "It was only used to print religious texts."],
+          "correct_answer": "It democratized access to knowledge, leading to major social and cultural changes.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 149,
+          "question": "Correlation does not imply causation. This is a critical principle in science and statistics. Just because two things happen at the same time (correlation) does not mean that one thing caused the other (causation). For example, ice cream sales and drowning incidents both increase in the summer, but eating ice cream does not cause drowning. The real cause is the hot weather that leads to both. What does this passage mainly argue?",
+          "options": ["If two things happen together, one must have caused the other.", "Ice cream is a major cause of drowning.", "It is a mistake to assume that a correlation between two things means one causes the other.", "Scientists never study correlations."],
+          "correct_avswer": "It is a mistake to assume that a correlation between two things means one causes the other.",
+          "grammar_type": "Main Idea and Story Details"
+        },
+        {
+          "id": 150,
+          "question": "The Universal Declaration of Human Rights, adopted by the UN in 1948, states that all human beings are born free and equal in dignity and rights. It sets out fundamental rights to be universally protected, including the right to life, liberty, and security. While not a legally binding treaty itself, it has inspired the constitutions of many nations. What is the core principle of the Universal Declaration of Human Rights?",
+          "options": ["That rights are only for citizens of certain countries.", "That all humans have fundamental, equal rights.", "That it is a legally binding treaty that all nations must enforce.", "That the right to liberty is not important."],
+          "correct_answer": "That all humans have fundamental, equal rights.",
+          "grammar_type": "Main Idea and Story Details"
+        }
+      ]
+    }
+  ]
+}
+

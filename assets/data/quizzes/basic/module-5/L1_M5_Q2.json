@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A person who sells vegetables is a ____.",
+          "options": ["Florist", "Baker", "Greengrocer", "Butcher"],
+          "correct_answer": "Greengrocer",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 2,
+          "question": "What do you use to carry the things you buy at the market?",
+          "options": ["Box", "Bag", "Pocket", "Hat"],
+          "correct_answer": "Bag",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 3,
+          "question": "Which of these is a fruit you might buy at the market?",
+          "options": ["Potato", "Onion", "Mango", "Cabbage"],
+          "correct_answer": "Mango",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 4,
+          "question": "What do you give the shopkeeper to buy something?",
+          "options": ["Food", "Clothes", "Money", "Books"],
+          "correct_answer": "Money",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 5,
+          "question": "A place where many people sell different things is called a ____.",
+          "options": ["School", "Hospital", "Market", "House"],
+          "correct_answer": "Market",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 6,
+          "question": "A person who buys things from a shop is a ____.",
+          "options": ["Customer", "Shopkeeper", "Seller", "Owner"],
+          "correct_answer": "Customer",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 7,
+          "question": "Which of these is a green vegetable?",
+          "options": ["Tomato", "Carrot", "Spinach", "Radish"],
+          "correct_answer": "Spinach",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 8,
+          "question": "A person who sells flowers is a ____.",
+          "options": ["Gardener", "Florist", "Farmer", "Grocer"],
+          "correct_answer": "Florist",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 9,
+          "question": "What is the price of an item called?",
+          "options": ["Cost", "Sale", "Buy", "Shop"],
+          "correct_answer": "Cost",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 10,
+          "question": "Which of these do you buy at a bakery?",
+          "options": ["Meat", "Vegetables", "Bread", "Fish"],
+          "correct_answer": "Bread",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 11,
+          "question": "A person who sells fish is a ____.",
+          "options": ["Fishman", "Fisher", "Fishmonger", "Fish-seller"],
+          "correct_answer": "Fishmonger",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 12,
+          "question": "A shop that sells meat is a ____'s shop.",
+          "options": ["Baker", "Butcher", "Grocer", "Chemist"],
+          "correct_answer": "Butcher",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 13,
+          "question": "When you buy something, you ____ for it.",
+          "options": ["sell", "take", "pay", "look"],
+          "correct_answer": "pay",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 14,
+          "question": "What is a small, open shop in a market called?",
+          "options": ["Store", "Supermarket", "Stall", "House"],
+          "correct_answer": "Stall",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 15,
+          "question": "Which of these might you buy at a fruit stall?",
+          "options": ["Banana", "Cabbage", "Milk", "Shirt"],
+          "correct_answer": "Banana",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 16,
+          "question": "A person who sells general food items like rice, flour, and sugar is a ____.",
+          "options": ["Greengrocer", "Grocer", "Baker", "Florist"],
+          "correct_answer": "Grocer",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 17,
+          "question": "After you pay, the shopkeeper gives you a ____.",
+          "options": ["List", "Bag", "Receipt", "Discount"],
+          "correct_answer": "Receipt",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 18,
+          "question": "An onion is a type of ____.",
+          "options": ["Fruit", "Vegetable", "Flower", "Grain"],
+          "correct_answer": "Vegetable",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 19,
+          "question": "To ask for the price, you say: 'How much does this ____?'",
+          "options": ["sell", "buy", "give", "cost"],
+          "correct_answer": "cost",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 20,
+          "question": "A person who sells things in the street is a ____.",
+          "options": ["Vendor", "Shopkeeper", "Customer", "Manager"],
+          "correct_answer": "Vendor",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 21,
+          "question": "Which of these is a dairy product you can buy?",
+          "options": ["Apple", "Bread", "Cheese", "Potato"],
+          "correct_answer": "Cheese",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 22,
+          "question": "The money you get back if you pay more than the price is called ____.",
+          "options": ["Profit", "Loss", "Change", "Tax"],
+          "correct_answer": "Change",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 23,
+          "question": "The action of looking at items in shops is called ____.",
+          "options": ["Shopping", "Selling", "Paying", "Walking"],
+          "correct_answer": "Shopping",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 24,
+          "question": "What is the list of things you need to buy called?",
+          "options": ["A recipe", "A menu", "A shopping list", "A bill"],
+          "correct_answer": "A shopping list",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 25,
+          "question": "A large store that sells many different types of food and household goods is a ____.",
+          "options": ["Stall", "Small shop", "Supermarket", "Bakery"],
+          "correct_answer": "Supermarket",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 26,
+          "question": "A carrot is a ____.",
+          "options": ["Fruit", "Vegetable", "Flower", "Leaf"],
+          "correct_answer": "Vegetable",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 27,
+          "question": "To buy something means to get it in exchange for ____.",
+          "options": ["more things", "work", "money", "a promise"],
+          "correct_answer": "money",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 28,
+          "question": "A person who makes and sells bread and cakes is a ____.",
+          "options": ["Butcher", "Baker", "Grocer", "Cook"],
+          "correct_answer": "Baker",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 29,
+          "question": "A shop that sells medicines is a ____.",
+          "options": ["Clinic", "Hospital", "Pharmacy", "Grocery store"],
+          "correct_answer": "Pharmacy",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 30,
+          "question": "Which of these is a spice?",
+          "options": ["Salt", "Sugar", "Turmeric", "Flour"],
+          "correct_answer": "Turmeric",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 31,
+          "question": "A market that is set up only on a specific day of the week is a ____ market.",
+          "options": ["Daily", "Monthly", "Weekly", "Annual"],
+          "correct_answer": "Weekly",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 32,
+          "question": "The person who owns the shop is the ____.",
+          "options": ["Customer", "Helper", "Shopkeeper", "Worker"],
+          "correct_answer": "Shopkeeper",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 33,
+          "question": "What is another word for a shop?",
+          "options": ["House", "Store", "School", "Park"],
+          "correct_answer": "Store",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 34,
+          "question": "A bunch of ____ is a common purchase from a greengrocer.",
+          "options": ["flowers", "bananas", "pens", "books"],
+          "correct_answer": "bananas",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 35,
+          "question": "When many people want to buy something, it is in high ____.",
+          "options": ["price", "demand", "sale", "stock"],
+          "correct_answer": "demand",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 36,
+          "question": "A dozen eggs is how many eggs?",
+          "options": ["6", "10", "12", "20"],
+          "correct_answer": "12",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 37,
+          "question": "A shop selling books is a ____.",
+          "options": ["Library", "Bookstore", "Stationery shop", "Publisher"],
+          "correct_answer": "Bookstore",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 38,
+          "question": "The things you buy at a market are called ____.",
+          "options": ["Goods", "Items", "Products", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 39,
+          "question": "Cabbage is a ____ vegetable.",
+          "options": ["root", "leafy", "fruit", "stem"],
+          "correct_answer": "leafy",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 40,
+          "question": "When you choose something to buy, you ____ it.",
+          "options": ["select", "sell", "give", "throw"],
+          "correct_answer": "select",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 41,
+          "question": "A person selling things is a ____.",
+          "options": ["buyer", "seller", "customer", "shopper"],
+          "correct_answer": "seller",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 42,
+          "question": "To pay with a card, you need to ____ it in the machine.",
+          "options": ["tap", "swipe", "insert", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 43,
+          "question": "Which of these might you buy at a clothes shop?",
+          "options": ["T-shirt", "Milk", "Rice", "Apples"],
+          "correct_answer": "T-shirt",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 44,
+          "question": "A place that sells fresh produce from farms is a ____ market.",
+          "options": ["Super", "Farmers'", "Local", "General"],
+          "correct_answer": "Farmers'",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 45,
+          "question": "A person buying something is a ____.",
+          "options": ["seller", "owner", "buyer", "keeper"],
+          "correct_answer": "buyer",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 46,
+          "question": "What is a 'bargain'?",
+          "options": ["Something very expensive", "Something sold at a low price", "Something you don't need", "Something that is broken"],
+          "correct_answer": "Something sold at a low price",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 47,
+          "question": "Which of these is a type of payment?",
+          "options": ["Cash", "Card", "Online payment", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 48,
+          "question": "A shop selling pens, notebooks and other writing materials is a ____ shop.",
+          "options": ["Book", "Gift", "Stationery", "General"],
+          "correct_answer": "Stationery",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 49,
+          "question": "A tomato is a ____.",
+          "options": ["Fruit", "Vegetable", "Both (botanically a fruit, used as a vegetable)", "Neither"],
+          "correct_answer": "Both (botanically a fruit, used as a vegetable)",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 50,
+          "question": "The place where you pay for your items in a supermarket is the ____.",
+          "options": ["Entrance", "Aisle", "Shelf", "Checkout counter"],
+          "correct_answer": "Checkout counter",
+          "grammar_type": "At the Market"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What does it mean if an item is 'out of stock'?",
+          "options": ["It is very cheap.", "It is not available for sale right now.", "It is on sale.", "It is a new item."],
+          "correct_answer": "It is not available for sale right now.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 52,
+          "question": "The process of discussing the price of an item to lower it is called ____.",
+          "options": ["Paying", "Selling", "Bargaining", "Discounting"],
+          "correct_answer": "Bargaining",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 53,
+          "question": "What is a 'discount'?",
+          "options": ["An increase in price", "A reduction in price", "The total price", "The tax on an item"],
+          "correct_answer": "A reduction in price",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 54,
+          "question": "A person who makes and sells jewellery is a ____.",
+          "options": ["Blacksmith", "Goldsmith", "Jeweller", "Both B and C"],
+          "correct_answer": "Both B and C",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 55,
+          "question": "Which of these is considered 'poultry'?",
+          "options": ["Fish", "Beef", "Mutton", "Chicken"],
+          "correct_answer": "Chicken",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 56,
+          "question": "The path between shelves in a supermarket is called an ____.",
+          "options": ["Aisle", "Alley", "Row", "Line"],
+          "correct_answer": "Aisle",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 57,
+          "question": "What is another word for a seller, especially in a street market?",
+          "options": ["Vendor", "Trader", "Hawker", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 58,
+          "question": "A shop that sells sweet foods like pastries and cakes is a ____.",
+          "options": ["Bakery", "Patisserie", "Confectionery", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 59,
+          "question": "What do you call the items you have chosen to buy before you pay?",
+          "options": ["Products", "Goods", "Purchases", "Wishes"],
+          "correct_answer": "Purchases",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 60,
+          "question": "If something is 'fresh', it is ____.",
+          "options": ["old", "recently made or picked", "expensive", "cheap"],
+          "correct_answer": "recently made or picked",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 61,
+          "question": "A ____ is a large container on wheels you use in a supermarket.",
+          "options": ["Basket", "Bag", "Trolley", "Cart"],
+          "correct_answer": "Trolley",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 62,
+          "question": "The amount of goods a shop has is its ____.",
+          "options": ["Stock", "Stall", "Store", "Stack"],
+          "correct_answer": "Stock",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 63,
+          "question": "Which of these is a 'legume'?",
+          "options": ["Carrot", "Cabbage", "Lentil", "Apple"],
+          "correct_answer": "Lentil",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 64,
+          "question": "The person who handles money at the checkout is the ____.",
+          "options": ["Manager", "Cashier", "Accountant", "Clerk"],
+          "correct_answer": "Cashier",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 65,
+          "question": "What does 'imported' mean?",
+          "options": ["Made in your own country", "Brought in from another country", "Sold to another country", "Very expensive"],
+          "correct_answer": "Brought in from another country",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 66,
+          "question": "A shop specializing in one type of product is a ____.",
+          "options": ["Supermarket", "Department store", "Boutique", "Mall"],
+          "correct_answer": "Boutique",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 67,
+          "question": "If vegetables are 'organic', they are grown without ____.",
+          "options": ["water", "sunlight", "soil", "artificial chemicals"],
+          "correct_answer": "artificial chemicals",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 68,
+          "question": "The paper that lists your purchases and the total cost is the ____.",
+          "options": ["Bill", "Receipt", "List", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 69,
+          "question": "What is a 'wholesaler'?",
+          "options": ["Someone who sells directly to customers", "Someone who sells goods in large quantities to retailers", "Someone who owns a supermarket", "Someone who checks the quality of goods"],
+          "correct_answer": "Someone who sells goods in large quantities to retailers",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 70,
+          "question": "What does 'local produce' mean?",
+          "options": ["Food that is imported", "Food that is grown or made in the nearby area", "Food that is sold in a local shop", "Food that is very popular"],
+          "correct_answer": "Food that is grown or made in the nearby area",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 71,
+          "question": "A 'butcher' sells meat. What does a 'baker' sell?",
+          "options": ["Candles", "Fish", "Clothes", "Bread"],
+          "correct_answer": "Bread",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 72,
+          "question": "If an item is 'on offer', it usually means it is...",
+          "options": ["more expensive.", "being sold at a special low price.", "not for sale.", "the last one in stock."],
+          "correct_answer": "being sold at a special low price.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 73,
+          "question": "To 'browse' in a shop means to:",
+          "options": ["Buy things quickly", "Look at items casually without intending to buy", "Ask for a discount", "Complain about the price"],
+          "correct_answer": "Look at items casually without intending to buy",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 74,
+          "question": "The 'expiry date' on a food product tells you when...",
+          "options": ["it was made.", "it is no longer safe to eat.", "it will be on sale.", "you should buy it."],
+          "correct_answer": "it is no longer safe to eat.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 75,
+          "question": "Which of these is a 'condiment'?",
+          "options": ["Rice", "Flour", "Ketchup", "Sugar"],
+          "correct_answer": "Ketchup",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 76,
+          "question": "A 'retailer' sells goods directly to ____.",
+          "options": ["Wholesalers", "Manufacturers", "Consumers", "Other retailers"],
+          "correct_answer": "Consumers",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 77,
+          "question": "If a fruit is 'ripe', it is ____.",
+          "options": ["unfit to eat", "raw and hard", "ready to be eaten", "very small"],
+          "correct_answer": "ready to be eaten",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 78,
+          "question": "A shop where you can buy second-hand goods is a ____ shop.",
+          "options": ["Boutique", "Thrift", "Antique", "Souvenir"],
+          "correct_answer": "Thrift",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 79,
+          "question": "The machine that scans the price of an item is a ____ scanner.",
+          "options": ["Price", "Money", "Barcode", "Product"],
+          "correct_answer": "Barcode",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 80,
+          "question": "A market with a roof over it is an ____ market.",
+          "options": ["outdoor", "open-air", "indoor", "street"],
+          "correct_answer": "indoor",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 81,
+          "question": "A 'delicatessen' or 'deli' sells ____.",
+          "options": ["only fruits and vegetables", "pre-cooked fine foods", "only bread and cakes", "only clothes"],
+          "correct_answer": "pre-cooked fine foods",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 82,
+          "question": "To 'weigh' something at the market is to check its ____.",
+          "options": ["price", "size", "weight", "freshness"],
+          "correct_answer": "weight",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 83,
+          "question": "What are 'perishable' goods?",
+          "options": ["Goods that last a long time", "Goods that are very expensive", "Goods that can spoil or decay quickly, like milk or vegetables", "Goods that are imported"],
+          "correct_answer": "Goods that can spoil or decay quickly, like milk or vegetables",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 84,
+          "question": "A 'brand' refers to a...",
+          "options": ["type of shop.", "name given to a product by a particular company.", "special discount.", "type of customer."],
+          "correct_answer": "name given to a product by a particular company.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 85,
+          "question": "The total amount of money you spend is the ____.",
+          "options": ["Change", "Cost", "Expense", "Total"],
+          "correct_answer": "Total",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 86,
+          "question": "A market that is not in a permanent building and moves around is a ____ market.",
+          "options": ["Mobile", "Flea", "Street", "Local"],
+          "correct_answer": "Mobile",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 87,
+          "question": "Which of these is NOT a method of payment?",
+          "options": ["Cash", "Credit Card", "Bargain", "Digital Wallet"],
+          "correct_answer": "Bargain",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 88,
+          "question": "The person who helps you in a shop is a shop ____.",
+          "options": ["Owner", "Manager", "Assistant", "Customer"],
+          "correct_answer": "Assistant",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 89,
+          "question": "A 'fixed price' shop means you cannot ____.",
+          "options": ["pay by card", "bargain", "buy many items", "get a receipt"],
+          "correct_answer": "bargain",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 90,
+          "question": "A market that sells old or second-hand goods is often called a ____ market.",
+          "options": ["Fresh", "Flea", "Farmers'", "Whole"],
+          "correct_answer": "Flea",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 91,
+          "question": "The section of a supermarket with milk, cheese, and yogurt is the ____ section.",
+          "options": ["Bakery", "Produce", "Dairy", "Frozen"],
+          "correct_answer": "Dairy",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 92,
+          "question": "If you are not happy with an item, you might ____ it to the shop.",
+          "options": ["sell", "return", "buy", "keep"],
+          "correct_answer": "return",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 93,
+          "question": "A shop that is open 24 hours a day is a ____ store.",
+          "options": ["Department", "Convenience", "Super", "General"],
+          "correct_answer": "Convenience",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 94,
+          "question": "A group of shops together in one large building is a ____.",
+          "options": ["Market", "Supermarket", "Shopping mall", "Complex"],
+          "correct_answer": "Shopping mall",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 95,
+          "question": "A 'refund' is when you get your ____ back for a returned item.",
+          "options": ["time", "item", "money", "bag"],
+          "correct_answer": "money",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 96,
+          "question": "The section with fresh fruits and vegetables is the ____ section.",
+          "options": ["Produce", "Grocery", "Dairy", "Bakery"],
+          "correct_answer": "Produce",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 97,
+          "question": "A 'loyalty card' gives regular customers ____.",
+          "options": ["free items every time", "discounts or points", "the ability to manage the store", "a job at the store"],
+          "correct_answer": "discounts or points",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 98,
+          "question": "Which of these might you find at a fishmonger's?",
+          "options": ["Chicken", "Sausages", "Shrimp", "Bread"],
+          "correct_answer": "Shrimp",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 99,
+          "question": "A 'special offer' like 'Buy one, get one free' is a type of ____.",
+          "options": ["Promotion", "Bargain", "Sale", "Discount"],
+          "correct_answer": "Promotion",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 100,
+          "question": "A shop that sells valuable old items is an ____ shop.",
+          "options": ["Antique", "Old", "Second-hand", "Thrift"],
+          "correct_answer": "Antique",
+          "grammar_type": "At the Market"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the difference between a 'receipt' and an 'invoice'?",
+          "options": ["A receipt is proof of payment; an invoice is a request for payment.", "An invoice is proof of payment; a receipt is a request for payment.", "They are the same thing.", "A receipt is for cash; an invoice is for card."],
+          "correct_answer": "A receipt is proof of payment; an invoice is a request for payment.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 102,
+          "question": "A 'consumer' is a person who...",
+          "options": ["sells goods.", "produces goods.", "transports goods.", "purchases goods for personal use."],
+          "correct_answer": "purchases goods for personal use.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 103,
+          "question": "If a product is 'artisan-made', it is...",
+          "options": ["made by a machine in a factory.", "made by a skilled craftsperson.", "imported from another country.", "the cheapest brand available."],
+          "correct_answer": "made by a skilled craftsperson.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 104,
+          "question": "What is 'bartering'?",
+          "options": ["A system of paying with a special card.", "A system of exchanging goods without using money.", "A type of discount for regular customers.", "A system of buying goods in bulk."],
+          "correct_answer": "A system of exchanging goods without using money.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 105,
+          "question": "What does it mean to buy something 'in bulk'?",
+          "options": ["To buy a large quantity at once", "To buy a very heavy item", "To buy something that is packaged", "To buy something on credit"],
+          "correct_answer": "To buy a large quantity at once",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 106,
+          "question": "A 'concession stand' typically sells what at a place like a cinema or stadium?",
+          "options": ["Groceries", "Clothes", "Snacks and drinks", "Electronics"],
+          "correct_answer": "Snacks and drinks",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 107,
+          "question": "What is a 'commodity'?",
+          "options": ["A branded, luxury product.", "A raw material or primary agricultural product that can be bought and sold.", "A service offered at a market.", "A handmade item."],
+          "correct_answer": "A raw material or primary agricultural product that can be bought and sold.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 108,
+          "question": "A 'consignment' shop is one that...",
+          "options": ["sells goods on behalf of an owner and pays them after it is sold.", "sells only one type of product.", "is open 24 hours.", "sells goods at a very high price."],
+          "correct_answer": "sells goods on behalf of an owner and pays them after it is sold.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 109,
+          "question": "What does the term 'fair trade' mean for a product?",
+          "options": ["The product is very cheap.", "The product is of average quality.", "Producers in developing countries were paid a fair price.", "The product is only sold at fairs."],
+          "correct_answer": "Producers in developing countries were paid a fair price.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 110,
+          "question": "A 'mercer' is a historical term for a dealer in ____.",
+          "options": ["spices", "textiles, especially silk", "medicines", "livestock"],
+          "correct_answer": "textiles, especially silk",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 111,
+          "question": "If a price is 'exorbitant', it is:",
+          "options": ["very low", "fixed", "unreasonably high", "negotiable"],
+          "correct_answer": "unreasonably high",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 112,
+          "question": "What is a 'loss leader' in a retail store?",
+          "options": ["The most profitable item.", "An item sold at a loss to attract customers.", "The manager of a failing store.", "An item that is out of stock."],
+          "correct_answer": "An item sold at a loss to attract customers.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 113,
+          "question": "A 'haberdasher' is a person who sells...",
+          "options": ["small articles for sewing and men's clothing.", "spices and herbs.", "houses and land.", "meat and poultry."],
+          "correct_answer": "small articles for sewing and men's clothing.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 114,
+          "question": "What does 'procurement' mean in a business context?",
+          "options": ["The act of selling goods.", "The act of marketing goods.", "The act of acquiring goods or services.", "The act of returning goods."],
+          "correct_answer": "The act of acquiring goods or services.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 115,
+          "question": "What is a 'boutique'?",
+          "options": ["A large supermarket", "A small shop selling fashionable clothes or accessories", "A shop that sells only second-hand items", "A weekly farmers' market"],
+          "correct_answer": "A small shop selling fashionable clothes or accessories",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 116,
+          "question": "If you 'haggle' over a price, you...",
+          "options": ["accept the price immediately.", "pay more than the asking price.", "argue or bargain persistently.", "pay in installments."],
+          "correct_answer": "argue or bargain persistently.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 117,
+          "question": "A 'co-operative' or 'co-op' is a store that is owned and managed by its ____.",
+          "options": ["government", "single owner", "large corporation", "members or customers"],
+          "correct_answer": "members or customers",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 118,
+          "question": "What is 'merchandise'?",
+          "options": ["The money used for buying.", "The people who work in a shop.", "The goods that are available to be bought.", "The act of advertising."],
+          "correct_answer": "The goods that are available to be bought.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 119,
+          "question": "A 'taster' or 'sample' at a food market allows you to...",
+          "options": ["buy a small portion.", "get the recipe.", "try the food before buying.", "see the food being made."],
+          "correct_answer": "try the food before buying.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 120,
+          "question": "An 'auction' is a public sale where goods are sold to the person who offers the ____.",
+          "options": ["lowest price", "highest price", "first price", "fixed price"],
+          "correct_answer": "highest price",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 121,
+          "question": "If an item has a 'warranty', it is a written guarantee that promises to...",
+          "options": ["give you a discount.", "repair or replace the item if it has faults.", "sell you another item.", "give you loyalty points."],
+          "correct_answer": "repair or replace the item if it has faults.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 122,
+          "question": "What is 'VAT' that is often included in the price?",
+          "options": ["A type of discount", "A tax on goods and services", "A loyalty program", "A fee for using a credit card"],
+          "correct_answer": "A tax on goods and services",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 123,
+          "question": "A 'sommelier' is an expert who would advise you on which ____ to buy.",
+          "options": ["cheese", "bread", "wine", "meat"],
+          "correct_answer": "wine",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 124,
+          "question": "A 'monopoly' in a market means that there is...",
+          "options": ["only one seller of a product.", "many sellers of a product.", "only one buyer of a product.", "high competition."],
+          "correct_answer": "only one seller of a product.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 125,
+          "question": "What is a 'tannery'?",
+          "options": ["A place that sells tea.", "A place where animal hides are processed into leather.", "A shop that sells suntan lotion.", "A type of bakery."],
+          "correct_answer": "A place where animal hides are processed into leather.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 126,
+          "question": "If you buy something 'on credit', you...",
+          "options": ["pay for it immediately with cash.", "get it for free.", "agree to pay for it at a later date.", "exchange it for another item."],
+          "correct_answer": "agree to pay for it at a later date.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 127,
+          "question": "A 'poulterer' is a person who sells ____.",
+          "options": ["pulses and grains", "domestic fowl like chicken and turkey", "potted plants", "bread and pastries"],
+          "correct_answer": "domestic fowl like chicken and turkey",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 128,
+          "question": "What is a 'barter system'?",
+          "options": ["A system of paying for goods with money.", "A system of exchanging goods for other goods.", "A system of buying things online.", "A system of getting discounts."],
+          "correct_answer": "A system of exchanging goods for other goods.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 129,
+          "question": "An 'emolument' is a salary, fee, or profit from...",
+          "options": ["a hobby.", "a discount.", "employment or office.", "selling your own things."],
+          "correct_answer": "employment or office.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 130,
+          "question": "A 'chandler' was historically a dealer in which items?",
+          "options": ["Horses", "Spices", "Ships", "Candles, soap, and other provisions"],
+          "correct_answer": "Candles, soap, and other provisions",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 131,
+          "question": "A 'charcuterie' board is an appetizer board that typically features ____.",
+          "options": ["various cheeses", "prepared meats", "assorted fruits", "different types of bread"],
+          "correct_answer": "prepared meats",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 132,
+          "question": "If a product is a 'knockoff', it is a...",
+          "options": ["high-quality, expensive product.", "product that has been discontinued.", "a cheap copy of a famous brand.", "a product sold in bulk."],
+          "correct_answer": "a cheap copy of a famous brand.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 133,
+          "question": "The term 'going rate' for a product in a market refers to its ____.",
+          "options": ["discounted price", "highest possible price", "average or standard price", "lowest possible price"],
+          "correct_answer": "average or standard price",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 134,
+          "question": "What is 'pawn-broking'?",
+          "options": ["A type of grocery store.", "Lending money in exchange for a personal item, which can be sold if the loan is not repaid.", "Selling items at an auction.", "A system for returning faulty goods."],
+          "correct_answer": "Lending money in exchange for a personal item, which can be sold if the loan is not repaid.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 135,
+          "question": "A 'souk' is a type of market or bazaar, especially in which region?",
+          "options": ["East Asia", "North Africa and the Middle East", "South America", "Eastern Europe"],
+          "correct_answer": "North Africa and the Middle East",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 136,
+          "question": "What is 'window shopping'?",
+          "options": ["Buying windows for your house.", "Looking at goods in shop windows without intending to buy.", "A special sale on glass items.", "A type of online shopping."],
+          "correct_answer": "Looking at goods in shop windows without intending to buy.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 137,
+          "question": "A 'draper' is a person who sells...",
+          "options": ["drapes and curtains.", "cloth, clothing, and textiles.", "medicines.", "alcoholic drinks."],
+          "correct_answer": "cloth, clothing, and textiles.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 138,
+          "question": "If something is sold 'as is', it means...",
+          "options": ["it is brand new.", "it has a lifetime warranty.", "it is sold in its current condition, possibly with faults.", "it is the best quality available."],
+          "correct_answer": "it is sold in its current condition, possibly with faults.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 139,
+          "question": "The 'markup' on a product is the difference between the...",
+          "options": ["selling price and the discount.", "cost to the seller and the selling price.", "original price and the sale price.", "tax and the final price."],
+          "correct_answer": "cost to the seller and the selling price.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 140,
+          "question": "A 'cartwright' is a person who makes and repairs ____.",
+          "options": ["shopping carts", "carpets", "carts and wagons", "cardboard boxes"],
+          "correct_answer": "carts and wagons",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 141,
+          "question": "What does 'e-commerce' refer to?",
+          "options": ["A very large market", "Buying and selling goods electronically on the internet", "A system of exporting goods", "A market that only sells electronics"],
+          "correct_answer": "Buying and selling goods electronically on the internet",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 142,
+          "question": "A 'prospectus' given out by a seller contains...",
+          "options": ["a list of discounts.", "a history of the company.", "information about a product or business.", "the names of all employees."],
+          "correct_answer": "information about a product or business.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 143,
+          "question": "An 'itinerant' trader is one who...",
+          "options": ["stays in a permanent shop.", "sells only one type of product.", "travels from place to place.", "sells imported goods."],
+          "correct_answer": "travels from place to place.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 144,
+          "question": "What is a 'consortium'?",
+          "options": ["A single large supermarket.", "An association of several companies for a combined venture.", "A type of loyalty program.", "A government-run market."],
+          "correct_answer": "An association of several companies for a combined venture.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 145,
+          "question": "If you are 'short-changed' by a shopkeeper, you...",
+          "options": ["received too much change.", "received the wrong item.", "were given less change than you were due.", "were treated rudely."],
+          "correct_answer": "were given less change than you were due.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 146,
+          "question": "A 'vintner' is a person who sells ____.",
+          "options": ["vintage cars", "vegetables", "wine", "antiques"],
+          "correct_answer": "wine",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 147,
+          "question": "What does 'caveat emptor' mean?",
+          "options": ["The customer is always right.", "Let the buyer beware.", "Everything must be sold.", "The price is fixed."],
+          "correct_answer": "Let the buyer beware.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 148,
+          "question": "An 'outlet' store typically sells...",
+          "options": ["only the newest products.", "a manufacturer's goods directly to the public at a discount.", "only second-hand items.", "only food items."],
+          "correct_answer": "a manufacturer's goods directly to the public at a discount.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 149,
+          "question": "A 'costermonger' is a historical term for a person who sells...",
+          "options": ["coats.", "fruit and vegetables from a barrow or stall.", "expensive costumes.", "spices from the coast."],
+          "correct_answer": "fruit and vegetables from a barrow or stall.",
+          "grammar_type": "At the Market"
+        },
+        {
+          "id": 150,
+          "question": "A 'bill of lading' is a document issued by a carrier acknowledging receipt of ____ for shipment.",
+          "options": ["payment", "cargo", "a complaint", "an order"],
+          "correct_answer": "cargo",
+          "grammar_type": "At the Market"
+        }
+      ]
+    }
+  ]
+}
+

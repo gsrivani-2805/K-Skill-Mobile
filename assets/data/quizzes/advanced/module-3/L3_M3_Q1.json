@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "When you describe a picture, what is the first thing you should mention?",
+          "options": ["The colors", "The main subject or action", "The small details in the corner", "Your personal opinion"],
+          "correct_answer": "The main subject or action",
+          "grammar_type": "Describe a Picture or Object"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "The sentence 'The ball is red' describes the ball's ______.",
+          "options": ["size", "shape", "color", "action"],
+          "correct_answer": "color",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 3,
+          "question": "The word 'large' in 'It is a large elephant' describes its ______.",
+          "options": ["color", "shape", "sound", "size"],
+          "correct_answer": "size",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 4,
+          "question": "The word 'round' in 'The sun is a round star' describes its ______.",
+          "options": ["color", "shape", "temperature", "weight"],
+          "correct_answer": "shape",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 5,
+          "question": "The cat is sitting ______ the chair.",
+          "options": ["on", "in", "through", "with"],
+          "correct_answer": "on",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 6,
+          "question": "What is the boy doing in a picture if he is holding a book and looking at it?",
+          "options": ["Sleeping", "Eating", "Playing", "Reading"],
+          "correct_answer": "Reading",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 7,
+          "question": "Which word best describes the feel of a stone?",
+          "options": ["Soft", "Hard", "Sweet", "Loud"],
+          "correct_answer": "Hard",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 8,
+          "question": "To describe a sunny day in a picture, you would use the word ______.",
+          "options": ["dark", "rainy", "bright", "cold"],
+          "correct_answer": "bright",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 9,
+          "question": "A tree has many green ______.",
+          "options": ["roots", "stones", "leaves", "cars"],
+          "correct_answer": "leaves",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 10,
+          "question": "The girl has ______ hair.",
+          "options": ["long", "tall", "wide", "big"],
+          "correct_answer": "long",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 11,
+          "question": "The bird is flying ______ the house.",
+          "options": ["under", "over", "in", "with"],
+          "correct_answer": "over",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 12,
+          "question": "The fish is swimming ______ the water.",
+          "options": ["on", "in", "at", "above"],
+          "correct_answer": "in",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 13,
+          "question": "A person who is smiling in a picture probably feels ______.",
+          "options": ["sad", "angry", "happy", "tired"],
+          "correct_answer": "happy",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 14,
+          "question": "The children are sitting ______ a tree.",
+          "options": ["over", "through", "under", "on"],
+          "correct_answer": "under",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 15,
+          "question": "What shape is a typical door?",
+          "options": ["Circle", "Triangle", "Rectangle", "Star"],
+          "correct_answer": "Rectangle",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 16,
+          "question": "To describe a tiger's coat, you would use the word ______.",
+          "options": ["spotted", "plain", "striped", "blue"],
+          "correct_answer": "striped",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 17,
+          "question": "The part of the picture that is closest to you is the ______.",
+          "options": ["background", "foreground", "middle ground", "corner"],
+          "correct_answer": "foreground",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 18,
+          "question": "The part of the picture that is farthest away is the ______.",
+          "options": ["foreground", "background", "side", "middle"],
+          "correct_answer": "background",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 19,
+          "question": "A mountain is very ______.",
+          "options": ["flat", "low", "high", "deep"],
+          "correct_answer": "high",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 20,
+          "question": "The boy is sitting ______ his two friends.",
+          "options": ["over", "between", "under", "through"],
+          "correct_answer": "between",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 21,
+          "question": "A knife is a ______ object.",
+          "options": ["soft", "blunt", "sharp", "round"],
+          "correct_answer": "sharp",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 22,
+          "question": "The main action in a picture of a race is ______.",
+          "options": ["sitting", "sleeping", "standing", "running"],
+          "correct_answer": "running",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 23,
+          "question": "The glass is full ______ water.",
+          "options": ["of", "with", "in", "by"],
+          "correct_answer": "of",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 24,
+          "question": "A picture of a birthday party would look ______.",
+          "options": ["sad", "boring", "festive", "scary"],
+          "correct_answer": "festive",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 25,
+          "question": "The cat is ______ the mouse.",
+          "options": ["helping", "chasing", "reading", "drawing"],
+          "correct_answer": "chasing",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 26,
+          "question": "The moon is shining ______ in the sky.",
+          "options": ["brightly", "sadly", "slowly", "loudly"],
+          "correct_answer": "brightly",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 27,
+          "question": "An old house might look ______.",
+          "options": ["new", "modern", "dilapidated", "clean"],
+          "correct_answer": "dilapidated",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 28,
+          "question": "The children are wearing school ______.",
+          "options": ["toys", "uniforms", "books", "bags"],
+          "correct_answer": "uniforms",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 29,
+          "question": "The apple is red and ______.",
+          "options": ["soft", "juicy", "loud", "tall"],
+          "correct_answer": "juicy",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 30,
+          "question": "The car is parked ______ the tree.",
+          "options": ["over", "through", "next to", "with"],
+          "correct_answer": "next to",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 31,
+          "question": "When you describe an object, what are the key things to mention?",
+          "options": ["Only its color", "Its size, shape, and color", "Only your opinion", "Only its price"],
+          "correct_answer": "Its size, shape, and color",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 32,
+          "question": "The pillow feels ______. What word describes its texture?",
+          "options": ["hard", "rough", "soft", "sharp"],
+          "correct_answer": "soft",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 33,
+          "question": "The man in the picture looks old. He has ______ on his face.",
+          "options": ["spots", "stripes", "wrinkles", "colors"],
+          "correct_answer": "wrinkles",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 34,
+          "question": "A desert in a picture would have a lot of ______.",
+          "options": ["trees", "water", "sand", "snow"],
+          "correct_answer": "sand",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 35,
+          "question": "The water in a flowing river is not ______, it is moving.",
+          "options": ["still", "blue", "wet", "deep"],
+          "correct_answer": "still",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 36,
+          "question": "If people in a picture are wearing sweaters and mufflers, the weather is probably ______.",
+          "options": ["hot", "rainy", "cold", "sunny"],
+          "correct_answer": "cold",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 37,
+          "question": "The position of an object, like 'on the left' or 'on the right', helps to describe its ______.",
+          "options": ["color", "location", "size", "shape"],
+          "correct_answer": "location",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 38,
+          "question": "The sky is full of ______ clouds, so it might rain.",
+          "options": ["white", "light", "dark", "small"],
+          "correct_answer": "dark",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 39,
+          "question": "The ______ man is working in the field.",
+          "options": ["farmer", "doctor", "teacher", "pilot"],
+          "correct_answer": "farmer",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 40,
+          "question": "The road in the mountains is very ______ with many turns.",
+          "options": ["straight", "winding", "flat", "wide"],
+          "correct_answer": "winding",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 41,
+          "question": "A football has a ______ and ______ pattern.",
+          "options": ["red and yellow", "black and white", "blue and green", "striped"],
+          "correct_answer": "black and white",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 42,
+          "question": "In a picture of a busy market, you would see many ______.",
+          "options": ["empty spaces", "people and shops", "wild animals", "quiet corners"],
+          "correct_answer": "people and shops",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 43,
+          "question": "A candle gives off a warm, yellow ______.",
+          "options": ["light", "sound", "smell", "feeling"],
+          "correct_answer": "light",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 44,
+          "question": "The train is moving on the ______.",
+          "options": ["road", "railway track", "water", "sky"],
+          "correct_answer": "railway track",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 45,
+          "question": "The building in the city is very ______.",
+          "options": ["short", "small", "tall", "low"],
+          "correct_answer": "tall",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 46,
+          "question": "To describe an object, you should use ______ words.",
+          "options": ["action", "describing (adjectives)", "naming", "joining"],
+          "correct_answer": "describing (adjectives)",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 47,
+          "question": "A broken glass would have ______ edges.",
+          "options": ["smooth", "soft", "sharp", "round"],
+          "correct_answer": "sharp",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 48,
+          "question": "The area behind the main objects in a picture is called the ______.",
+          "options": ["foreground", "background", "middle", "frame"],
+          "correct_answer": "background",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 49,
+          "question": "The doctor is checking a ______.",
+          "options": ["student", "farmer", "patient", "player"],
+          "correct_answer": "patient",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 50,
+          "question": "To start a description, you can say: 'This picture shows...'",
+          "options": ["True", "False", "Sometimes", "Never"],
+          "correct_answer": "True",
+          "grammar_type": "Describe a Picture or Object"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "When describing a picture, what does 'composition' refer to?",
+          "options": ["The colors used in the picture", "The way objects are arranged in the picture", "The size of the picture", "The signature of the artist"],
+          "correct_answer": "The way objects are arranged in the picture",
+          "grammar_type": "Describe a Picture or Object"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "The wooden table has a rough, grainy ______. What word best fits?",
+          "options": ["texture", "color", "shape", "weight"],
+          "correct_answer": "texture",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 53,
+          "question": "Which sentence uses more vivid and descriptive language?",
+          "options": ["The man is old.", "The elderly man has a kind face with deep wrinkles.", "He is a man.", "The man is sitting."],
+          "correct_answer": "The elderly man has a kind face with deep wrinkles.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 54,
+          "question": "What is the 'mood' or 'atmosphere' of a picture?",
+          "options": ["The main object in the picture", "The overall feeling the picture creates", "The colors used in the picture", "The time of day"],
+          "correct_answer": "The overall feeling the picture creates",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 55,
+          "question": "A picture of a dark, stormy sea would likely have a ______ mood.",
+          "options": ["calm and peaceful", "joyful and festive", "tense and dramatic", "funny and humorous"],
+          "correct_answer": "tense and dramatic",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 56,
+          "question": "The vase is made of transparent ______, so you can see the water inside.",
+          "options": ["wood", "metal", "glass", "clay"],
+          "correct_answer": "glass",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 57,
+          "question": "When you describe an object, what is meant by its 'function'?",
+          "options": ["Its color", "Its size", "Its purpose or what it is used for", "Its material"],
+          "correct_answer": "Its purpose or what it is used for",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 58,
+          "question": "The part of the picture between the foreground and the background is the ______.",
+          "options": ["side ground", "middle ground", "underground", "top ground"],
+          "correct_answer": "middle ground",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 59,
+          "question": "Which of these is a good detail to mention when describing a person's expression?",
+          "options": ["The color of their shoes", "The shape of their eyes and mouth", "The material of their shirt", "The height of the person"],
+          "correct_answer": "The shape of their eyes and mouth",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 60,
+          "question": "What is a good way to structure a description?",
+          "options": ["Start with small details, then the main idea.", "Describe things in a random order.", "Start with a general overview, then move to specific details.", "Only describe the colors."],
+          "correct_answer": "Start with a general overview, then move to specific details.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 61,
+          "question": "The light in the picture is dim and hazy. The time of day is probably ______ or ______.",
+          "options": ["midday or noon", "dawn or dusk", "afternoon or morning", "midnight or midday"],
+          "correct_answer": "dawn or dusk",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 62,
+          "question": "Using sensory details means describing what you can see, hear, smell, taste, and ______.",
+          "options": ["think", "feel (touch)", "believe", "hope"],
+          "correct_answer": "feel (touch)",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 63,
+          "question": "The old book has yellow, ______ pages.",
+          "options": ["new", "glossy", "brittle", "smooth"],
+          "correct_answer": "brittle",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 64,
+          "question": "In a picture of a celebration, the atmosphere is likely to be ______.",
+          "options": ["somber", "jubilant", "tense", "melancholy"],
+          "correct_answer": "jubilant",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 65,
+          "question": "The building is ______, with crumbling walls and broken windows.",
+          "options": ["modern", "pristine", "derelict", "ornate"],
+          "correct_answer": "derelict",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 66,
+          "question": "What can you 'infer' from a picture?",
+          "options": ["Guess something based on the visual clues", "Describe only what you can see", "State the colors of the objects", "Measure the size of the objects"],
+          "correct_answer": "Guess something based on the visual clues",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 67,
+          "question": "If you see a picture of children with school bags walking away from a school building in the afternoon, you can infer that...",
+          "options": ["school is about to start", "it is a holiday", "school has just finished for the day", "the children are going to a party"],
+          "correct_answer": "school has just finished for the day",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 68,
+          "question": "The knife has a ______ wooden handle and a sharp, metallic blade.",
+          "options": ["polished", "transparent", "soft", "colorful"],
+          "correct_answer": "polished",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 69,
+          "question": "To describe an object in detail, you should mention its parts. A tree has a trunk, branches, and ______.",
+          "options": ["wheels", "windows", "roots", "doors"],
+          "correct_answer": "roots",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 70,
+          "question": "Which of these is a good detail for describing a busy city street?",
+          "options": ["A lone bird singing", "The peaceful silence", "The constant hum of traffic and chatter of people", "A single person walking slowly"],
+          "correct_answer": "The constant hum of traffic and chatter of people",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 71,
+          "question": "The arrangement of light and shadow in a picture is called ______.",
+          "options": ["color", "lighting", "composition", "texture"],
+          "correct_answer": "lighting",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 72,
+          "question": "A room with neat furniture and everything in its place can be described as ______.",
+          "options": ["chaotic", "cluttered", "orderly", "messy"],
+          "correct_answer": "orderly",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 73,
+          "question": "The ______ of the picture is a group of people having a picnic.",
+          "options": ["focal point", "background", "corner", "frame"],
+          "correct_answer": "focal point",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 74,
+          "question": "What is a good starting sentence for describing a picture?",
+          "options": ["'I don't like this picture.'", "'The picture depicts a bustling market scene.'", "'There are three colors in this picture.'", "'The picture was taken yesterday.'"],
+          "correct_answer": "'The picture depicts a bustling market scene.'",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 75,
+          "question": "The old man's face shows a ______ expression, suggesting he is thinking deeply.",
+          "options": ["joyful", "pensive", "angry", "frightened"],
+          "correct_answer": "pensive",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 76,
+          "question": "The ______ pattern on the butterfly's wings is beautiful.",
+          "options": ["symmetrical", "plain", "heavy", "rough"],
+          "correct_answer": "symmetrical",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 77,
+          "question": "Describing an object's 'origin' means telling...",
+          "options": ["what it is used for", "where it comes from", "what color it is", "how big it is"],
+          "correct_answer": "where it comes from",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 78,
+          "question": "In the ______ of the picture, we can see tall mountains.",
+          "options": ["foreground", "middle ground", "background", "corner"],
+          "correct_answer": "background",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 79,
+          "question": "The crowd is watching the cricket match with ______ excitement.",
+          "options": ["great", "little", "no", "some"],
+          "correct_answer": "great",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 80,
+          "question": "This is a ______ photo, not a color one.",
+          "options": ["bright", "dark", "black-and-white", "new"],
+          "correct_answer": "black-and-white",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 81,
+          "question": "Which sentence gives the most information about an object?",
+          "options": ["It is a box.", "It is a big box.", "It is a big, brown, cardboard box.", "It is a brown box."],
+          "correct_answer": "It is a big, brown, cardboard box.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 82,
+          "question": "The path through the forest is narrow and ______.",
+          "options": ["straight", "wide", "overgrown", "paved"],
+          "correct_answer": "overgrown",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 83,
+          "question": "From the clothes they are wearing, we can infer that the people in the picture belong to a ______.",
+          "options": ["particular region or culture", "specific profession", "sports team", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 84,
+          "question": "A village scene might be described as ______, while a city scene is urban.",
+          "options": ["rural", "modern", "busy", "crowded"],
+          "correct_answer": "rural",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 85,
+          "question": "The river in the picture is calm and ______.",
+          "options": ["turbulent", "raging", "serene", "choppy"],
+          "correct_answer": "serene",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 86,
+          "question": "The artist has used ______ colors to create a happy mood.",
+          "options": ["dark and dull", "vibrant and bright", "only black and white", "monochromatic"],
+          "correct_answer": "vibrant and bright",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 87,
+          "question": "A ______ of birds is flying across the sky.",
+          "options": ["herd", "pride", "flock", "pack"],
+          "correct_answer": "flock",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 88,
+          "question": "The old fort is a magnificent historical ______.",
+          "options": ["building", "place", "monument", "house"],
+          "correct_answer": "monument",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 89,
+          "question": "When describing a picture, it's good to use prepositions of place to describe the ______ of objects.",
+          "options": ["color", "size", "position", "shape"],
+          "correct_answer": "position",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 90,
+          "question": "The road is ______ with vehicles during rush hour.",
+          "options": ["empty", "deserted", "congested", "wide"],
+          "correct_answer": "congested",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 91,
+          "question": "What is the 'perspective' in a picture?",
+          "options": ["The main idea", "The point of view from which the picture is taken", "The color scheme", "The mood"],
+          "correct_answer": "The point of view from which the picture is taken",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 92,
+          "question": "The scene is ______, with colorful flowers and green trees.",
+          "options": ["barren", "picturesque", "ugly", "dull"],
+          "correct_answer": "picturesque",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 93,
+          "question": "The water in the puddle is ______ the blue sky.",
+          "options": ["hiding", "reflecting", "absorbing", "ignoring"],
+          "correct_answer": "reflecting",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 94,
+          "question": "The child's face is full of ______ as he looks at the new toy.",
+          "options": ["sadness", "anger", "wonder", "fear"],
+          "correct_answer": "wonder",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 95,
+          "question": "A logical way to describe a scene is to move from...",
+          "options": ["left to right, or top to bottom", "the smallest detail to the biggest", "your opinion to the facts", "the middle to the outside"],
+          "correct_answer": "left to right, or top to bottom",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 96,
+          "question": "The antique clock has an ______ design on its wooden case.",
+          "options": ["plain", "simple", "intricate", "modern"],
+          "correct_answer": "intricate",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 97,
+          "question": "The mountain peaks are ______ in the distance.",
+          "options": ["clearly visible", "shrouded in mist", "very close", "underground"],
+          "correct_answer": "shrouded in mist",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 98,
+          "question": "What can you infer about the relationship between two people holding hands in a picture?",
+          "options": ["They are strangers.", "They are angry with each other.", "They have a close and affectionate relationship.", "They are fighting."],
+          "correct_answer": "They have a close and affectionate relationship.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 99,
+          "question": "The artist uses a ______ color palette to create a somber mood.",
+          "options": ["bright and vibrant", "warm and sunny", "muted and dark", "colorful and cheerful"],
+          "correct_answer": "muted and dark",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 100,
+          "question": "The clay pot is ______ and has a smooth, curved shape.",
+          "options": ["metallic", "earthen", "transparent", "wooden"],
+          "correct_answer": "earthen",
+          "grammar_type": "Describe a Picture or Object"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "How does the artist's use of 'chiaroscuro' (strong contrast between light and dark) affect the mood of the picture?",
+          "options": ["It makes the picture feel flat and boring.", "It creates a dramatic and mysterious atmosphere.", "It makes the picture bright and cheerful.", "It has no effect on the mood."],
+          "correct_answer": "It creates a dramatic and mysterious atmosphere.",
+          "grammar_type": "Describe a Picture or Object"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "The worn-out pages and faded ink of the ancient manuscript ______ its great age.",
+          "options": ["conceal", "attest to", "contradict", "disprove"],
+          "correct_answer": "attest to",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 103,
+          "question": "Which simile best describes the old man's wrinkled face? 'His face was ______.'",
+          "options": ["like a smooth pond", "like a roadmap of his life", "like a blank page", "like a new book"],
+          "correct_answer": "like a roadmap of his life",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 104,
+          "question": "The chaotic arrangement of objects in the room suggests that the occupant left in a ______.",
+          "options": ["calm and orderly manner", "leisurely way", "hurry or state of panic", "planned fashion"],
+          "correct_answer": "hurry or state of panic",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 105,
+          "question": "The artist uses a low-angle perspective to make the main figure seem more ______.",
+          "options": ["small and insignificant", "powerful and dominant", "far away", "ordinary"],
+          "correct_answer": "powerful and dominant",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 106,
+          "question": "What is the 'symbolism' of a dove in a picture?",
+          "options": ["It symbolizes war and conflict.", "It symbolizes peace and hope.", "It is just a bird with no other meaning.", "It symbolizes sadness."],
+          "correct_answer": "It symbolizes peace and hope.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 107,
+          "question": "The ______ of the bright red flower against the dull grey background makes it the focal point.",
+          "options": ["similarity", "juxtaposition", "harmony", "blend"],
+          "correct_answer": "juxtaposition",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 108,
+          "question": "The city skyline is ______ with skyscrapers of varying heights.",
+          "options": ["flattened", "punctuated", "emptied", "levelled"],
+          "correct_answer": "punctuated",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 109,
+          "question": "What can you infer about a room that is sparsely furnished and immaculately clean?",
+          "options": ["The owner is messy and disorganized.", "The owner is a collector of many things.", "The owner might be a minimalist or very disciplined.", "The room is very old and derelict."],
+          "correct_answer": "The owner might be a minimalist or very disciplined.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 110,
+          "question": "Which metaphor best describes a very busy market? 'The market was ______.'",
+          "options": ["a quiet library", "a calm sea", "a beehive of activity", "a deserted island"],
+          "correct_answer": "a beehive of activity",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 111,
+          "question": "The 'provenance' of an antique object refers to its...",
+          "options": ["material composition", "future value", "history of ownership", "physical dimensions"],
+          "correct_answer": "history of ownership",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 112,
+          "question": "The half-eaten meal on the table and the overturned chair ______ that something interrupted the scene abruptly.",
+          "options": ["deny", "imply", "disprove", "confirm"],
+          "correct_answer": "imply",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 113,
+          "question": "A high-angle perspective, looking down on a subject, can make the subject seem...",
+          "options": ["powerful and important", "vulnerable or insignificant", "closer to the viewer", "larger than life"],
+          "correct_answer": "vulnerable or insignificant",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 114,
+          "question": "The soft, diffused lighting in the portrait creates a ______ and dreamlike quality.",
+          "options": ["harsh", "dramatic", "sharp", "ethereal"],
+          "correct_answer": "ethereal",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 115,
+          "question": "What is the primary message the artist might be conveying in a picture showing a single green sapling growing through cracked, barren concrete?",
+          "options": ["The dangers of construction", "The resilience of nature and hope", "The beauty of concrete", "The loneliness of trees"],
+          "correct_answer": "The resilience of nature and hope",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 116,
+          "question": "The use of 'leading lines' in a photograph's composition helps to...",
+          "options": ["confuse the viewer", "draw the viewer's eye towards a specific point", "make the picture look flat", "show the time of day"],
+          "correct_answer": "draw the viewer's eye towards a specific point",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 117,
+          "question": "The ______ smile on the politician's face seems insincere.",
+          "options": ["genuine", "heartfelt", "beatific", "sardonic"],
+          "correct_answer": "sardonic",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 118,
+          "question": "The 'rule of thirds' is a principle of composition that suggests placing key elements...",
+          "options": ["directly in the center of the picture", "at the very edges of the picture", "along imaginary lines that divide the picture into thirds", "only in the background"],
+          "correct_answer": "along imaginary lines that divide the picture into thirds",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 119,
+          "question": "The once vibrant city is now a ______ of its former self, with empty streets and decaying buildings.",
+          "options": ["pinnacle", "specter", "celebration", "creation"],
+          "correct_answer": "specter",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 120,
+          "question": "What can you infer from a picture of a single person standing on a vast, empty beach looking out at the ocean?",
+          "options": ["The person is at a crowded party.", "The picture might evoke feelings of solitude or contemplation.", "The person is afraid of water.", "The picture is about the dangers of swimming alone."],
+          "correct_answer": "The picture might evoke feelings of solitude or contemplation.",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 121,
+          "question": "The ______ of the old photograph gives it a nostalgic feel.",
+          "options": ["bright, saturated colors", "sharp, digital quality", "sepia tone and faded edges", "modern frame"],
+          "correct_answer": "sepia tone and faded edges",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 122,
+          "question": "The artist uses 'asymmetry' in the composition to create a sense of...",
+          "options": ["perfect balance and calm", "boredom and stillness", "visual interest and dynamism", "order and predictability"],
+          "correct_answer": "visual interest and dynamism",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 123,
+          "question": "The dilapidated state of the playground ______ a lack of community funding or care.",
+          "options": ["celebrates", "disproves", "bespeaks", "conceals"],
+          "correct_answer": "bespeaks",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 124,
+          "question": "Which metaphor best describes the feeling of a city at night? 'The city at night was ______.'",
+          "options": ["a sleeping giant", "a tapestry of twinkling lights", "a silent forest", "a bright, sunny field"],
+          "correct_answer": "a tapestry of twinkling lights",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 125,
+          "question": "The 'patina' on an old bronze statue refers to the...",
+          "options": ["sharpness of its features", "green or brown film on its surface produced by oxidation over a long period", "original price of the statue", "artist's signature"],
+          "correct_answer": "green or brown film on its surface produced by oxidation over a long period",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 126,
+          "question": "The 'body language' of the figures in the painting suggests a tense ______.",
+          "options": ["celebration", "conversation", "confrontation", "agreement"],
+          "correct_answer": "confrontation",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 127,
+          "question": "The ______ sky, painted in hues of orange and purple, indicates the sun has just set.",
+          "options": ["monochromatic", "azure", "incandescent", "drab"],
+          "correct_answer": "incandescent",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 128,
+          "question": "What is the likely theme of a picture showing a wealthy family dining lavishly while a poor child watches from outside a window?",
+          "options": ["The joy of family meals", "The importance of wealth", "Social inequality", "The beauty of city lights"],
+          "correct_answer": "Social inequality",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 129,
+          "question": "The 'iconography' of a painting refers to the...",
+          "options": ["colors used", "size of the canvas", "identification and interpretation of the subject matter and symbols", "artist's technique"],
+          "correct_answer": "identification and interpretation of the subject matter and symbols",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 130,
+          "question": "The soldier's ______ posture and grim expression convey the harsh realities of war.",
+          "options": ["relaxed", "slumped", "cheerful", "energetic"],
+          "correct_answer": "slumped",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 131,
+          "question": "The use of 'selective focus' in a photograph, where one object is sharp and the background is blurry, helps to...",
+          "options": ["make the whole picture blurry", "emphasize the main subject", "hide the main subject", "make the picture look flat"],
+          "correct_answer": "emphasize the main subject",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 132,
+          "question": "The room is filled with ______ objects from around the world, suggesting the owner is a well-traveled person.",
+          "options": ["identical", "local", "eclectic", "mundane"],
+          "correct_answer": "eclectic",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 133,
+          "question": "The 'ephemera' in a picture, like a ticket stub or a fading letter, can suggest themes of...",
+          "options": ["permanence and strength", "the future and technology", "memory and the passage of time", "wealth and power"],
+          "correct_answer": "memory and the passage of time",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 134,
+          "question": "The artist's 'oeuvre' refers to...",
+          "options": ["a single painting", "the artist's studio", "the entire body of an artist's work", "the artist's signature"],
+          "correct_answer": "the entire body of an artist's work",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 135,
+          "question": "The ______ light of dawn is beginning to illuminate the eastern sky.",
+          "options": ["harsh midday", "pitch-black", "nascent", "setting"],
+          "correct_answer": "nascent",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 136,
+          "question": "The crumbling facade of the ancient temple is a testament to its ______.",
+          "options": ["modernity", "newness", "antiquity", "simplicity"],
+          "correct_answer": "antiquity",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 137,
+          "question": "The motion blur in the photograph of the racing car effectively conveys a sense of ______.",
+          "options": ["stillness", "slowness", "velocity", "clarity"],
+          "correct_answer": "velocity",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 138,
+          "question": "The ______ between the pristine garden and the decaying factory in the background creates a powerful social commentary.",
+          "options": ["harmony", "dichotomy", "similarity", "agreement"],
+          "correct_answer": "dichotomy",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 139,
+          "question": "The sparse, ______ landscape suggests a feeling of isolation and emptiness.",
+          "options": ["lush", "verdant", "austere", "vibrant"],
+          "correct_answer": "austere",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 140,
+          "question": "An 'allegorical' picture is one where...",
+          "options": ["the meaning is purely literal and direct", "the characters and events symbolize abstract ideas or concepts", "the picture has no meaning", "the picture is a perfect photograph of reality"],
+          "correct_answer": "the characters and events symbolize abstract ideas or concepts",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 141,
+          "question": "The object's ______ design, with its clean lines and lack of ornamentation, is a hallmark of modernism.",
+          "options": ["ornate", "baroque", "rococo", "utilitarian"],
+          "correct_answer": "utilitarian",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 142,
+          "question": "The half-open door in the picture acts as a symbolic ______ to another world or a different future.",
+          "options": ["barrier", "wall", "portal", "conclusion"],
+          "correct_answer": "portal",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 143,
+          "question": "The ______ of the characters, with their backs turned to the viewer, creates a sense of mystery and intrigue.",
+          "options": ["orientation", "color", "size", "texture"],
+          "correct_answer": "orientation",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 144,
+          "question": "The swirling, energetic brushstrokes give the painting a ______ quality.",
+          "options": ["static", "calm", "dynamic", "flat"],
+          "correct_answer": "dynamic",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 145,
+          "question": "The shadow of the prison bars falling across the man's face is a powerful ______ for his lack of freedom.",
+          "options": ["simile", "metaphor", "alliteration", "onomatopoeia"],
+          "correct_answer": "metaphor",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 146,
+          "question": "The 'mise-en-scène' of a photograph refers to...",
+          "options": ["the camera settings used", "the arrangement of everything within the frame (setting, props, lighting, figures)", "the editing done after the photo was taken", "the type of film used"],
+          "correct_answer": "the arrangement of everything within the frame (setting, props, lighting, figures)",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 147,
+          "question": "The ______ of the child's bright red coat in an otherwise black-and-white scene is a deliberate artistic choice to draw attention.",
+          "options": ["saturation", "desaturation", "monochrome", "texture"],
+          "correct_answer": "saturation",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 148,
+          "question": "A picture depicting an abandoned and overgrown city after a disaster would have a ______ mood.",
+          "options": ["jubilant", "post-apocalyptic", "serene", "humorous"],
+          "correct_answer": "post-apocalyptic",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 149,
+          "question": "The golden ratio is a principle of ______ thought to be aesthetically pleasing.",
+          "options": ["color theory", "composition", "lighting", "texture"],
+          "correct_answer": "composition",
+          "grammar_type": "Describe a Picture or Object"
+        },
+        {
+          "id": 150,
+          "question": "A critical description of an object goes beyond its physical properties to discuss its cultural or historical ______.",
+          "options": ["weight", "significance", "color", "price"],
+          "correct_answer": "significance",
+          "grammar_type": "Describe a Picture or Object"
         }
       ]
     }
   ]
 }
+

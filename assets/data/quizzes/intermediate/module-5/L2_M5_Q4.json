@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A special function like Annual Day or Sports Day at school is called an ____.",
+          "options": ["event", "exam", "class", "holiday"],
+          "correct_answer": "event",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 2,
+          "question": "Before planning an event, you need to get ____ from the Principal.",
+          "options": ["a gift", "permission", "a book", "a pen"],
+          "correct_answer": "permission",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 3,
+          "question": "The people who come to watch the event are the ____.",
+          "options": ["performers", "audience", "teachers", "organizers"],
+          "correct_answer": "audience",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 4,
+          "question": "What do you send to people to invite them to an event?",
+          "options": ["A letter", "An invitation card", "A notice", "An email"],
+          "correct_answer": "An invitation card",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 5,
+          "question": "Where do students perform dances or plays during an event?",
+          "options": ["On the ground", "In the classroom", "On the stage", "In the library"],
+          "correct_answer": "On the stage",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 6,
+          "question": "The plan of what will happen at what time is the ____.",
+          "options": ["story", "list", "schedule", "menu"],
+          "correct_answer": "schedule",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 7,
+          "question": "Who is the main guest of honour at a big school event?",
+          "options": ["The Principal", "A student", "A teacher", "The Chief Guest"],
+          "correct_answer": "The Chief Guest",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 8,
+          "question": "What do winners of competitions receive?",
+          "options": ["Homework", "Books", "Prizes", "Food"],
+          "correct_answer": "Prizes",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 9,
+          "question": "A group of students and teachers who plan the event is a ____.",
+          "options": ["crowd", "team", "class", "line"],
+          "correct_answer": "team",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 10,
+          "question": "What do you use to make the stage and school look beautiful?",
+          "options": ["Books", "Bags", "Decorations", "Chairs"],
+          "correct_answer": "Decorations",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 11,
+          "question": "The person who participates in an event is a ____.",
+          "options": ["participant", "audience", "guest", "teacher"],
+          "correct_answer": "participant",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 12,
+          "question": "What is the event where students show their science models?",
+          "options": ["Sports Day", "Annual Day", "Science Fair", "Music Day"],
+          "correct_answer": "Science Fair",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 13,
+          "question": "Before the main event, students do a lot of ____.",
+          "options": ["sleeping", "eating", "practice", "playing"],
+          "correct_answer": "practice",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 14,
+          "question": "What do you use so that everyone can hear the announcements?",
+          "options": ["A book", "A pen", "A microphone", "A chair"],
+          "correct_answer": "A microphone",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 15,
+          "question": "The event where students play games and run races is ____.",
+          "options": ["Sports Day", "Parents' Day", "Teachers' Day", "Annual Day"],
+          "correct_answer": "Sports Day",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 16,
+          "question": "What is the first step in planning an event?",
+          "options": ["Decorate the stage", "Get an idea and make a plan", "Invite the guests", "Give prizes"],
+          "correct_answer": "Get an idea and make a plan",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 17,
+          "question": "A student who helps organize the event is a ____.",
+          "options": ["guest", "volunteer", "audience", "participant"],
+          "correct_answer": "volunteer",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 18,
+          "question": "At the end of an event, the Principal might give a ____.",
+          "options": ["song", "dance", "speech", "test"],
+          "correct_answer": "speech",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 19,
+          "question": "What is the main purpose of a school event?",
+          "options": ["To give holidays", "To showcase student talent and celebrate", "To conduct exams", "To sell books"],
+          "correct_answer": "To showcase student talent and celebrate",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 20,
+          "question": "The list of performances or activities is called the ____ of events.",
+          "options": ["programme", "invitation", "notice", "report"],
+          "correct_answer": "programme",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 21,
+          "question": "Who is in charge of a school?",
+          "options": ["The students", "The parents", "The Principal", "The Chief Guest"],
+          "correct_answer": "The Principal",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 22,
+          "question": "What is the job of the audience?",
+          "options": ["To perform on stage", "To organize the event", "To watch the performances and applaud", "To give prizes"],
+          "correct_answer": "To watch the performances and applaud",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 23,
+          "question": "Where can you put up a notice about the event?",
+          "options": ["In the library", "On the notice board", "In the staffroom", "In the canteen"],
+          "correct_answer": "On the notice board",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 24,
+          "question": "A person who sings a song on stage is a ____.",
+          "options": ["dancer", "actor", "singer", "speaker"],
+          "correct_answer": "singer",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 25,
+          "question": "What do you need to arrange for the audience to sit?",
+          "options": ["Beds", "Chairs", "Tables", "Sofas"],
+          "correct_answer": "Chairs",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 26,
+          "question": "An event that happens every year is an ____ event.",
+          "options": ["annual", "weekly", "daily", "monthly"],
+          "correct_answer": "annual",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 27,
+          "question": "A person who dances on stage is a ____.",
+          "options": ["singer", "actor", "dancer", "writer"],
+          "correct_answer": "dancer",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 28,
+          "question": "What is a 'welcome speech'?",
+          "options": ["A speech to say goodbye", "A speech to welcome the guests and audience", "A speech to announce prizes", "A speech to tell a story"],
+          "correct_answer": "A speech to welcome the guests and audience",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 29,
+          "question": "The school ____ is a large room for holding events.",
+          "options": ["classroom", "library", "laboratory", "hall"],
+          "correct_answer": "hall",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 30,
+          "question": "The tasks and duties of a person are their ____.",
+          "options": ["hobbies", "responsibilities", "games", "problems"],
+          "correct_answer": "responsibilities",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 31,
+          "question": "Which of these is a decoration?",
+          "options": ["Book", "Chair", "Table", "Balloon"],
+          "correct_answer": "Balloon",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 32,
+          "question": "A group of people working together on a plan is a ____.",
+          "options": ["committee", "crowd", "class", "audience"],
+          "correct_answer": "committee",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 33,
+          "question": "What does a 'host' or 'anchor' do?",
+          "options": ["Sings all the songs", "Announces the events and performers", "Gives all the prizes", "Sits with the audience"],
+          "correct_answer": "Announces the events and performers",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 34,
+          "question": "What do you need to do after the event is over?",
+          "options": ["Leave everything as it is", "Clean up the place", "Go home immediately", "Ask for more prizes"],
+          "correct_answer": "Clean up the place",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 35,
+          "question": "A 'performance' is an act of...",
+          "options": ["studying for a test.", "singing, dancing, or acting in front of an audience.", "planning an event.", "decorating the stage."],
+          "correct_answer": "singing, dancing, or acting in front of an audience.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 36,
+          "question": "A plan for the event helps to keep it ____.",
+          "options": ["disorganized", "chaotic", "organized", "secret"],
+          "correct_answer": "organized",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 37,
+          "question": "The clothes worn by performers are called ____.",
+          "options": ["uniforms", "costumes", "pyjamas", "suits"],
+          "correct_answer": "costumes",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 38,
+          "question": "What is the 'venue' of an event?",
+          "options": ["The time of the event", "The date of the event", "The place where the event happens", "The reason for the event"],
+          "correct_answer": "The place where the event happens",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 39,
+          "question": "The list of people who will perform is the ____ list.",
+          "options": ["guest", "participant", "audience", "teacher"],
+          "correct_answer": "participant",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 40,
+          "question": "Food and drinks served at an event are called ____.",
+          "options": ["lunch", "dinner", "breakfast", "refreshments"],
+          "correct_answer": "refreshments",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 41,
+          "question": "What is the main task before Sports Day?",
+          "options": ["Studying science", "Practicing for races and games", "Decorating the classrooms", "Writing essays"],
+          "correct_answer": "Practicing for races and games",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 42,
+          "question": "The school ____ is often the venue for large events like Annual Day.",
+          "options": ["canteen", "library", "auditorium", "staffroom"],
+          "correct_answer": "auditorium",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 43,
+          "question": "To plan well, you should make a ____ of tasks to do.",
+          "options": ["list", "drawing", "song", "story"],
+          "correct_answer": "list",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 44,
+          "question": "Working together as a team is called ____.",
+          "options": ["fighting", "arguing", "collaboration", "competing"],
+          "correct_answer": "collaboration",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 45,
+          "question": "The final practice in costumes before the main event is the ____ rehearsal.",
+          "options": ["first", "daily", "dress", "final"],
+          "correct_answer": "dress",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 46,
+          "question": "The 'theme' of an event is its ____.",
+          "options": ["date and time", "main idea or topic", "list of guests", "budget"],
+          "correct_answer": "main idea or topic",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 47,
+          "question": "The people who plan everything are the ____.",
+          "options": ["organizers", "audience", "guests", "performers"],
+          "correct_answer": "organizers",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 48,
+          "question": "What do you need to arrange for the Chief Guest on the stage?",
+          "options": ["A special seat", "A classroom desk", "A student's chair", "A mat on the floor"],
+          "correct_answer": "A special seat",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 49,
+          "question": "What is the opening performance of an event often called?",
+          "options": ["The final act", "The welcome song", "The prize distribution", "The thank you speech"],
+          "correct_answer": "The welcome song",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 50,
+          "question": "A successful event is one that is ____.",
+          "options": ["well-planned", "chaotic", "disorganized", "secret"],
+          "correct_answer": "well-planned",
+          "grammar_type": "Planning a School Event"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "A plan for how much money can be spent on an event is called a ____.",
+          "options": ["schedule", "list", "budget", "receipt"],
+          "correct_answer": "budget",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 52,
+          "question": "To give different tasks to different team members is to ____ the work.",
+          "options": ["collect", "finish", "delegate", "start"],
+          "correct_answer": "delegate",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 53,
+          "question": "The person in charge of a specific team, like the decoration team, is the team ____.",
+          "options": ["member", "volunteer", "coordinator", "audience"],
+          "correct_answer": "coordinator",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 54,
+          "question": "What is the difference between a 'schedule' and an 'agenda'?",
+          "options": ["A schedule is for meetings, an agenda is for events.", "A schedule is a list of timings, an agenda is a list of points to be discussed.", "They are the same thing.", "A schedule is a plan, an agenda is a report."],
+          "correct_answer": "A schedule is a list of timings, an agenda is a list of points to be discussed.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 55,
+          "question": "Arranging for the sound system, lights, and seating comes under ____.",
+          "options": ["performance", "logistics", "budgeting", "invitations"],
+          "correct_answer": "logistics",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 56,
+          "question": "A practice session for a performance is called a ____.",
+          "options": ["rehearsal", "recital", "review", "repetition"],
+          "correct_answer": "rehearsal",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 57,
+          "question": "The formal speech at the end of an event to thank everyone is the ____.",
+          "options": ["Welcome Address", "Chief Guest's Speech", "Vote of Thanks", "Annual Report"],
+          "correct_answer": "Vote of Thanks",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 58,
+          "question": "What does it mean to 'coordinate' an event?",
+          "options": ["To participate in the event", "To watch the event", "To organize different parts of the event so they work together", "To cancel the event"],
+          "correct_answer": "To organize different parts of the event so they work together",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 59,
+          "question": "A written document that is displayed to give information is a ____.",
+          "options": ["notice", "letter", "email", "report"],
+          "correct_answer": "notice",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 60,
+          "question": "The main person who hosts and presents the event is the ____ or MC.",
+          "options": ["Master of Ceremonies", "Manager of Class", "Main Character", "Master of Celebration"],
+          "correct_answer": "Master of Ceremonies",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 61,
+          "question": "What is a 'contingency plan' for an outdoor event?",
+          "options": ["A plan for the main performances", "A plan for what to do if something unexpected happens, like rain", "The seating plan for guests", "The budget for the event"],
+          "correct_answer": "A plan for what to do if something unexpected happens, like rain",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 62,
+          "question": "The money spent on different items for the event is called ____.",
+          "options": ["income", "expenditure", "profit", "savings"],
+          "correct_answer": "expenditure",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 63,
+          "question": "What is the purpose of 'feedback' after an event?",
+          "options": ["To praise everyone", "To find out what people liked and disliked, to improve next time", "To give prizes", "To clean up the venue"],
+          "correct_answer": "To find out what people liked and disliked, to improve next time",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 64,
+          "question": "A 'cultural festival' in a school showcases the students' ____.",
+          "options": ["scientific skills", "athletic skills", "artistic and cultural talents", "reading skills"],
+          "correct_answer": "artistic and cultural talents",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 65,
+          "question": "The team responsible for arranging chairs and tables is the ____ committee.",
+          "options": ["Food", "Discipline", "Seating Arrangement", "Cultural"],
+          "correct_answer": "Seating Arrangement",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 66,
+          "question": "What does it mean to 'preside over' a function?",
+          "options": ["To be in a position of authority at the function", "To attend as a normal guest", "To perform in the function", "To watch the function from the back"],
+          "correct_answer": "To be in a position of authority at the function",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 67,
+          "question": "The formal opening of an event is called the ____.",
+          "options": ["conclusion", "intermission", "inauguration", "finale"],
+          "correct_answer": "inauguration",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 68,
+          "question": "A person who is an expert judge in a competition is a/an ____.",
+          "options": ["adjudicator", "spectator", "participant", "coordinator"],
+          "correct_answer": "adjudicator",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 69,
+          "question": "What are 'logistics'?",
+          "options": ["The speeches made at the event", "The list of winners", "The detailed organization and implementation of a complex operation", "The cultural performances"],
+          "correct_answer": "The detailed organization and implementation of a complex operation",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 70,
+          "question": "A 'keynote address' is a speech that...",
+          "options": ["is very short and funny.", "is given at the very end.", "opens the event and sets its main theme.", "is given only by a student."],
+          "correct_answer": "opens the event and sets its main theme.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 71,
+          "question": "The time and date are the most crucial ____ for an invitation.",
+          "options": ["decorations", "details", "ideas", "duties"],
+          "correct_answer": "details",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 72,
+          "question": "If you are responsible for the sound system, you must check the ____.",
+          "options": ["microphones and speakers", "lights and curtains", "chairs and tables", "food and drinks"],
+          "correct_answer": "microphones and speakers",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 73,
+          "question": "An 'exhibition' is a public display of items of interest, such as ____.",
+          "options": ["art or science projects", "sports equipment", "school uniforms", "library books"],
+          "correct_answer": "art or science projects",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 74,
+          "question": "To 'allocate' funds means to:",
+          "options": ["Spend all the money", "Distribute money for a particular purpose", "Raise more money", "Save the money"],
+          "correct_answer": "Distribute money for a particular purpose",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 75,
+          "question": "The closing ceremony of an event is its ____.",
+          "options": ["opening", "middle part", "conclusion", "rehearsal"],
+          "correct_answer": "conclusion",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 76,
+          "question": "What is a 'press release' for a school event?",
+          "options": ["An invitation for parents", "A notice for students", "An official statement sent to the media", "The event schedule"],
+          "correct_answer": "An official statement sent to the media",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 77,
+          "question": "The 'backstage' area is where...",
+          "options": ["the audience sits.", "the Chief Guest sits.", "performers get ready and wait.", "food is served."],
+          "correct_answer": "performers get ready and wait.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 78,
+          "question": "A 'memento' is a small gift given to guests to ____ the event.",
+          "options": ["pay for", "remember", "start", "end"],
+          "correct_answer": "remember",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 79,
+          "question": "What is the role of a 'stage crew'?",
+          "options": ["To perform on stage", "To manage props, lights, and sound during a performance", "To sit in the front row", "To judge the performances"],
+          "correct_answer": "To manage props, lights, and sound during a performance",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 80,
+          "question": "The lighting of a lamp often ____ the start of an event in India.",
+          "options": ["ends", "symbolizes", "stops", "delays"],
+          "correct_answer": "symbolizes",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 81,
+          "question": "The school's 'Annual Report' is often presented during the Annual Day. What does it contain?",
+          "options": ["A story", "A list of holidays", "The school's achievements for the year", "The exam timetable"],
+          "correct_answer": "The school's achievements for the year",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 82,
+          "question": "To get money for an event from a company, you seek ____.",
+          "options": ["a loan", "a donation", "sponsorship", "a prize"],
+          "correct_answer": "sponsorship",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 83,
+          "question": "A 'felicitation' ceremony is held to ____ someone.",
+          "options": ["punish", "congratulate or honour", "question", "welcome"],
+          "correct_answer": "congratulate or honour",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 84,
+          "question": "The final performance or event in a series is the ____.",
+          "options": ["audition", "rehearsal", "opener", "finale"],
+          "correct_answer": "finale",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 85,
+          "question": "What is an 'itinerary'?",
+          "options": ["A list of problems", "A detailed plan or route of a journey or event", "A list of food items", "A budget plan"],
+          "correct_answer": "A detailed plan or route of a journey or event",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 86,
+          "question": "A 'fundraiser' event is organized to ____.",
+          "options": ["spend money", "celebrate a festival", "raise money for a cause", "compete in sports"],
+          "correct_answer": "raise money for a cause",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 87,
+          "question": "The student 'council' often helps in ____ school events.",
+          "options": ["disrupting", "organizing", "cancelling", "ignoring"],
+          "correct_answer": "organizing",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 88,
+          "question": "What is the 'protocol' for a formal event?",
+          "options": ["The list of food items", "The official procedure or system of rules", "The decoration plan", "The list of participants"],
+          "correct_answer": "The official procedure or system of rules",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 89,
+          "question": "The person who trains students for a play is the ____.",
+          "options": ["director", "actor", "writer", "producer"],
+          "correct_answer": "director",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 90,
+          "question": "What is 'crowd control'?",
+          "options": ["Making the crowd excited", "Managing a large group of people to avoid problems", "Counting the number of people", "Giving gifts to the crowd"],
+          "correct_answer": "Managing a large group of people to avoid problems",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 91,
+          "question": "A 'brochure' for an event contains ____.",
+          "options": ["only the date", "only the venue", "detailed information and pictures", "only the budget"],
+          "correct_answer": "detailed information and pictures",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 92,
+          "question": "What is a 'post-event report'?",
+          "options": ["A report written before the event", "A summary and analysis of the event after it has happened", "An invitation to the next event", "A list of complaints"],
+          "correct_answer": "A summary and analysis of the event after it has happened",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 93,
+          "question": "To 'liaise' with different teams means to ____.",
+          "options": ["compete with them", "ignore them", "cooperate and exchange information with them", "give them orders"],
+          "correct_answer": "cooperate and exchange information with them",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 94,
+          "question": "The 'dress code' for an event tells you ____.",
+          "options": ["what time to arrive", "what to eat", "what type of clothes to wear", "where to sit"],
+          "correct_answer": "what type of clothes to wear",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 95,
+          "question": "A 'dignitary' is a very important person. The Chief Guest is a ____.",
+          "options": ["performer", "volunteer", "dignitary", "student"],
+          "correct_answer": "dignitary",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 96,
+          "question": "The process of setting up all the equipment is called the ____.",
+          "options": ["pack-up", "setup", "rehearsal", "performance"],
+          "correct_answer": "setup",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 97,
+          "question": "What is 'publicity' for a school event?",
+          "options": ["Keeping the event a secret", "Making the public aware of the event", "Cancelling the event", "The budget for the event"],
+          "correct_answer": "Making the public aware of the event",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 98,
+          "question": "An 'inter-school' competition is one that is ____.",
+          "options": ["between different houses of one school", "between different classes of one school", "between different schools", "within one school only"],
+          "correct_answer": "between different schools",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 99,
+          "question": "To 'officiate' a match on Sports Day means to act as the ____.",
+          "options": ["player", "spectator", "coach", "referee or umpire"],
+          "correct_answer": "referee or umpire",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 100,
+          "question": "What is the 'green room'?",
+          "options": ["A room for gardening", "A room in a theatre for performers to get ready", "The principal's office", "A classroom painted green"],
+          "correct_answer": "A room in a theatre for performers to get ready",
+          "grammar_type": "Planning a School Event"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The formal acknowledgement of sponsors and chief guests is a crucial part of the ____.",
+          "options": ["event protocol", "rehearsal", "logistics plan", "contingency plan"],
+          "correct_answer": "event protocol",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 102,
+          "question": "What is the difference between an 'itinerary' and a 'schedule'?",
+          "options": ["An itinerary is a detailed plan for a journey; a schedule is a list of events at specific times.", "A schedule is for a journey; an itinerary is for an event.", "They are identical in meaning.", "An itinerary is a list of guests, while a schedule is a list of timings."],
+          "correct_answer": "An itinerary is a detailed plan for a journey; a schedule is a list of events at specific times.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 103,
+          "question": "A 'contingency' is a future event that is possible but cannot be predicted with certainty. What is its role in planning?",
+          "options": ["It is the main goal of the event.", "It is a plan for dealing with such an event.", "It is the budget for the event.", "It is the list of performers."],
+          "correct_answer": "It is a plan for dealing with such an event.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 104,
+          "question": "The final document that summarizes the event's success, attendance, and finances is the ____ report.",
+          "options": ["pre-event", "annual", "post-event", "financial"],
+          "correct_answer": "post-event",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 105,
+          "question": "What does 'procurement' involve in event planning?",
+          "options": ["Selling tickets", "Finding and acquiring necessary supplies and services", "Marketing the event", "Managing the audience"],
+          "correct_answer": "Finding and acquiring necessary supplies and services",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 106,
+          "question": "An 'adjudication panel' is a group of people responsible for ____.",
+          "options": ["organizing the event", "performing at the event", "judging the competitions", "managing the budget"],
+          "correct_answer": "judging the competitions",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 107,
+          "question": "To 'reconnoitre' a venue means to:",
+          "options": ["Book the venue", "Decorate the venue", "Make a preliminary survey or inspection of the venue", "Cancel the booking"],
+          "correct_answer": "Make a preliminary survey or inspection of the venue",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 108,
+          "question": "What is a 'stakeholder' in a school event?",
+          "options": ["Only the students participating", "Only the teachers", "Anyone with an interest in the event, including students, parents, and staff", "Only the chief guest"],
+          "correct_answer": "Anyone with an interest in the event, including students, parents, and staff",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 109,
+          "question": "The 'master of ceremonies' is often abbreviated as ____.",
+          "options": ["MC", "MOC", "MEC", "MSC"],
+          "correct_answer": "MC",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 110,
+          "question": "What does 'RSVP' on an invitation stand for and mean?",
+          "options": ["'Répondez s'il vous plaît'; it means please reply.", "'Road Side Vendor Point'; it marks a location.", "'Review, Sign, and Verify Please'; it is a legal term.", "'Report to Senior Vice Principal'; it is a school instruction."],
+          "correct_answer": "'Répondez s'il vous plaît'; it means please reply.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 111,
+          "question": "A 'symposium' is a type of school event that is a ____.",
+          "options": ["sports competition", "cultural festival", "conference or meeting to discuss a particular subject", "music concert"],
+          "correct_answer": "conference or meeting to discuss a particular subject",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 112,
+          "question": "The term 'logistical nightmare' would be used for an event that is ____.",
+          "options": ["perfectly planned", "very easy to organize", "extremely difficult to manage and arrange", "very small and simple"],
+          "correct_answer": "extremely difficult to manage and arrange",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 113,
+          "question": "The 'décor' of a venue refers to its ____.",
+          "options": ["size and location", "furnishing and decoration", "sound system", "seating capacity"],
+          "correct_answer": "furnishing and decoration",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 114,
+          "question": "A 'valedictory' function is one that serves as a ____.",
+          "options": ["welcome", "farewell", "competition", "fundraiser"],
+          "correct_answer": "farewell",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 115,
+          "question": "What is the primary role of a 'rapporteur' at a school conference?",
+          "options": ["To give the keynote speech", "To officially record the proceedings and summarize them", "To entertain the guests", "To manage the finances"],
+          "correct_answer": "To officially record the proceedings and summarize them",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 116,
+          "question": "A 'memorandum of understanding' (MoU) might be signed during an event between the school and another ____.",
+          "options": ["student", "parent", "organization", "teacher"],
+          "correct_answer": "organization",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 117,
+          "question": "The 'accoustics' of the auditorium refer to the properties that determine how well ____ can be heard.",
+          "options": ["light", "sound", "wind", "speech"],
+          "correct_answer": "sound",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 118,
+          "question": "What is 'guerilla marketing' for a school fete?",
+          "options": ["Sending formal invitations", "Using low-cost, unconventional methods to promote the event", "Putting up large, expensive banners", "Not advertising the event at all"],
+          "correct_answer": "Using low-cost, unconventional methods to promote the event",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 119,
+          "question": "A 'postmortem' meeting after an event is held to ____.",
+          "options": ["celebrate its success", "distribute leftover food", "analyze what went wrong and what went right", "plan the next event"],
+          "correct_answer": "analyze what went wrong and what went right",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 120,
+          "question": "The 'marshalling area' for a parade is the place where participants ____.",
+          "options": ["finish the parade", "watch the parade from", "assemble before the parade starts", "have refreshments after the parade"],
+          "correct_answer": "assemble before the parade starts",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 121,
+          "question": "A 'colloquium' is an academic conference or ____.",
+          "options": ["seminar", "sports meet", "cultural fest", "annual party"],
+          "correct_answer": "seminar",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 122,
+          "question": "If an event 'runs like clockwork', it means it...",
+          "options": ["is very slow and boring.", "happens very late at night.", "goes exactly as planned, without problems.", "has a lot of music and dancing."],
+          "correct_answer": "goes exactly as planned, without problems.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 123,
+          "question": "The 'onus' of ensuring the event's success lies with the ____.",
+          "options": ["audience", "guests", "organizing committee", "performers"],
+          "correct_answer": "organizing committee",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 124,
+          "question": "What is an 'impromptu' speech?",
+          "options": ["A very long, prepared speech", "A speech that is memorized", "A speech delivered without any prior preparation", "A welcome speech"],
+          "correct_answer": "A speech delivered without any prior preparation",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 125,
+          "question": "The 'protocol' for flag hoisting involves a set of established ____.",
+          "options": ["rules and etiquette", "songs", "dances", "speeches"],
+          "correct_answer": "rules and etiquette",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 126,
+          "question": "A 'contingent' of students refers to a ____.",
+          "options": ["single student", "group of students representing their school or house", "the entire student body", "the student council"],
+          "correct_answer": "group of students representing their school or house",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 127,
+          "question": "What does 'pro bono' work by a guest performer mean?",
+          "options": ["They are performing for a professional fee.", "They are performing for free for the public good.", "They are the main, highest-paid performer.", "They are performing for the first time."],
+          "correct_answer": "They are performing for free for the public good.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 128,
+          "question": "The 'final run-through' is another name for the ____.",
+          "options": ["first practice", "audition", "final rehearsal", "main event"],
+          "correct_answer": "final rehearsal",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 129,
+          "question": "The 'logistics coordinator' is primarily responsible for ____.",
+          "options": ["the performances", "the smooth flow of practical arrangements", "the budget", "inviting the guests"],
+          "correct_answer": "the smooth flow of practical arrangements",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 130,
+          "question": "A 'plenary' session at a school conference is one attended by ____.",
+          "options": ["only the teachers", "only the principal", "only the student organizers", "all participants"],
+          "correct_answer": "all participants",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 131,
+          "question": "If an event starts at 9:00 AM 'sharp', it means it starts ____.",
+          "options": ["around 9:00 AM", "a little after 9:00 AM", "exactly at 9:00 AM", "a little before 9:00 AM"],
+          "correct_answer": "exactly at 9:00 AM",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 132,
+          "question": "What is a 'standing ovation'?",
+          "options": ["When the audience sits and claps", "When the audience stands up to clap for an excellent performance", "When the audience leaves during a performance", "When the audience boos a performance"],
+          "correct_answer": "When the audience stands up to clap for an excellent performance",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 133,
+          "question": "The 'debriefing' session after an event is for:",
+          "options": ["celebrating with a party.", "cleaning the venue.", "questioning someone about a completed task to get feedback.", "planning the next event."],
+          "correct_answer": "questioning someone about a completed task to get feedback.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 134,
+          "question": "An 'ad hoc' committee for an event is one that is formed for ____.",
+          "options": ["a permanent purpose", "a specific, particular purpose", "all school events", "no purpose at all"],
+          "correct_answer": "a specific, particular purpose",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 135,
+          "question": "The 'minutes' of a planning meeting are the ____.",
+          "options": ["time taken for the meeting", "number of people present", "written record of what was said", "agenda for the next meeting"],
+          "correct_answer": "written record of what was said",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 136,
+          "question": "What is a 'fiasco'?",
+          "options": ["A very successful event", "A complete and embarrassing failure", "A small, informal party", "The first event of the year"],
+          "correct_answer": "A complete and embarrassing failure",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 137,
+          "question": "A 'sound check' is done before an event to:",
+          "options": ["see if the audience is quiet.", "test the audio equipment.", "choose the songs to be played.", "check the hearing of the performers."],
+          "correct_answer": "test the audio equipment.",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 138,
+          "question": "What does it mean to 'fast-track' the preparations?",
+          "options": ["To do them very slowly and carefully", "To stop the preparations", "To make progress more rapidly than usual", "To follow the original plan without changes"],
+          "correct_answer": "To make progress more rapidly than usual",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 139,
+          "question": "The 'flow' of an event refers to the ____.",
+          "options": ["number of people attending", "smoothness and logical sequence of the programme", "amount of water available", "direction of the wind"],
+          "correct_answer": "smoothness and logical sequence of the programme",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 140,
+          "question": "A 'milestone' event for a school could be its ____.",
+          "options": ["weekly assembly", "annual sports day", "Golden Jubilee (50th anniversary)", "parents-teachers meeting"],
+          "correct_answer": "Golden Jubilee (50th anniversary)",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 141,
+          "question": "The 'backdrop' on a stage is the ____.",
+          "options": ["floor of the stage", "lights on the stage", "curtain at the front", "painted cloth or screen behind the stage"],
+          "correct_answer": "painted cloth or screen behind the stage",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 142,
+          "question": "To 'emcee' an event is to act as the ____.",
+          "options": ["Chief Guest", "Principal", "Master of Ceremonies", "Stage Manager"],
+          "correct_answer": "Master of Ceremonies",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 143,
+          "question": "What is a 'picket line' in the context of a protest event?",
+          "options": ["A line of people standing as a barrier", "A queue for tickets", "A type of decoration", "The seating arrangement"],
+          "correct_answer": "A line of people standing as a barrier",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 144,
+          "question": "A 'symposium' differs from a 'workshop' in that a symposium has more ____.",
+          "options": ["practical, hands-on activities", "presentations and discussions", "sports and games", "food and drinks"],
+          "correct_answer": "presentations and discussions",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 145,
+          "question": "To have 'carte blanche' in planning an event means to have ____.",
+          "options": ["a very small budget", "very strict rules to follow", "complete freedom to act as one wishes", "a lot of help from others"],
+          "correct_answer": "complete freedom to act as one wishes",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 146,
+          "question": "The 'credentials' of a guest speaker refer to their ____.",
+          "options": ["name and address", "hobbies and interests", "qualifications and achievements", "family background"],
+          "correct_answer": "qualifications and achievements",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 147,
+          "question": "An 'interlude' is a ____.",
+          "options": ["the main performance", "the final act", "a short performance or piece of music between the main parts", "the opening speech"],
+          "correct_answer": "a short performance or piece of music between the main parts",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 148,
+          "question": "What is the 'turnout' for an event?",
+          "options": ["The final result", "The number of people who attend", "The time the event ends", "The amount of money raised"],
+          "correct_answer": "The number of people who attend",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 149,
+          "question": "A 'stagehand' is a person who helps with the ____.",
+          "options": ["invitations", "budget", "props and scenery on stage", "refreshments"],
+          "correct_answer": "props and scenery on stage",
+          "grammar_type": "Planning a School Event"
+        },
+        {
+          "id": 150,
+          "question": "If an event is 'scrapped', it has been ____.",
+          "options": ["very successful", "postponed", "cancelled or abandoned", "planned perfectly"],
+          "correct_answer": "cancelled or abandoned",
+          "grammar_type": "Planning a School Event"
+        }
+      ]
+    }
+  ]
+}
+

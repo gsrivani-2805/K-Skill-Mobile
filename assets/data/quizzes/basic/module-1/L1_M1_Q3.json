@@ -1,0 +1,895 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 46,
+          "question": "Where is the stress in the word 'doctor'?",
+          "options": ["DOC-tor", "doc-TOR", "Both syllables", "No stress"],
+          "correct_answer": "DOC-tor",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 47,
+          "question": "Which syllable is stressed in 'music'?",
+          "options": ["MU-sic", "mu-SIC", "Both", "Neither"],
+          "correct_answer": "MU-sic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 48,
+          "question": "In the word 'pencil', which syllable is louder?",
+          "options": ["PEN-cil", "pen-CIL", "Both are equal", "Neither is loud"],
+          "correct_answer": "PEN-cil",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 49,
+          "question": "Where is the stress in the word 'alone'?",
+          "options": ["A-lone", "a-LONE", "Both syllables", "No stress"],
+          "correct_answer": "a-LONE",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 50,
+          "question": "Which syllable is stressed in 'garden'?",
+          "options": ["GAR-den", "gar-DEN", "Both", "None"],
+          "correct_answer": "GAR-den",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 51,
+          "question": "Listen to the word 'believe'. Where is the stress?",
+          "options": ["BE-lieve", "be-LIEVE", "On 'be'", "On 'lieve'"],
+          "correct_answer": "be-LIEVE",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 52,
+          "question": "In the word 'window', where is the stress?",
+          "options": ["WIN-dow", "win-DOW", "On the 'ow'", "No stress"],
+          "correct_answer": "WIN-dow",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 53,
+          "question": "Which part of the word 'forget' is stressed?",
+          "options": ["FOR-get", "for-GET", "The first letter", "The last letter"],
+          "correct_answer": "for-GET",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 54,
+          "question": "Where is the stress in the word 'number'?",
+          "options": ["NUM-ber", "num-BER", "Both syllables", "It has no stress"],
+          "correct_answer": "NUM-ber",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 55,
+          "question": "Which syllable is stressed in 'enjoy'?",
+          "options": ["EN-joy", "en-JOY", "Both are equal", "Neither is stressed"],
+          "correct_answer": "en-JOY",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 56,
+          "question": "In 'seven', which syllable is stressed?",
+          "options": ["SE-ven", "se-VEN", "Both syllables", "No stress"],
+          "correct_answer": "SE-ven",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 57,
+          "question": "Where is the stress in the word 'visit'?",
+          "options": ["VI-sit", "vi-SIT", "Both", "Neither"],
+          "correct_answer": "VI-sit",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 58,
+          "question": "Which syllable in 'polite' is the strongest?",
+          "options": ["PO-lite", "po-LITE", "Both are strong", "All are equal"],
+          "correct_answer": "po-LITE",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 59,
+          "question": "Where is the stress in the word 'morning'?",
+          "options": ["MORN-ing", "morn-ING", "Both syllables", "No stress"],
+          "correct_answer": "MORN-ing",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 60,
+          "question": "Which part of the word 'answer' is stressed?",
+          "options": ["AN-swer", "an-SWER", "Both", "Neither"],
+          "correct_answer": "AN-swer",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 61,
+          "question": "Where is the stress in 'complete'?",
+          "options": ["COM-plete", "com-PLETE", "Both", "Neither"],
+          "correct_answer": "com-PLETE",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 62,
+          "question": "In the word 'kitchen', where is the stress?",
+          "options": ["KITCH-en", "kitch-EN", "No stress", "On 'en'"],
+          "correct_answer": "KITCH-en",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 63,
+          "question": "Which syllable is stressed in 'explain'?",
+          "options": ["EX-plain", "ex-PLAIN", "Both", "None"],
+          "correct_answer": "ex-PLAIN",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 64,
+          "question": "Where is the stress in 'butter'?",
+          "options": ["BUT-ter", "but-TER", "On both", "No stress"],
+          "correct_answer": "BUT-ter",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 65,
+          "question": "Which syllable in 'around' is stressed?",
+          "options": ["A-round", "a-ROUND", "Both are equal", "Neither is stressed"],
+          "correct_answer": "a-ROUND",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 66,
+          "question": "In the word 'summer', which syllable is stronger?",
+          "options": ["SUM-mer", "sum-MER", "Both", "Neither"],
+          "correct_answer": "SUM-mer",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 67,
+          "question": "Where is the stress on the word 'return'?",
+          "options": ["RE-turn", "re-TURN", "On the first letter", "On the last letter"],
+          "correct_answer": "re-TURN",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 68,
+          "question": "Which syllable is stressed in 'lesson'?",
+          "options": ["LES-son", "les-SON", "Both syllables", "It has no stress"],
+          "correct_answer": "LES-son",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 69,
+          "question": "In the word 'invite', where is the stress?",
+          "options": ["IN-vite", "in-VITE", "Both", "Neither"],
+          "correct_answer": "in-VITE",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 70,
+          "question": "Where is the stress in 'yellow'?",
+          "options": ["YEL-low", "yel-LOW", "Both are stressed", "None are stressed"],
+          "correct_answer": "YEL-low",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 71,
+          "question": "Which syllable of 'depend' is stressed?",
+          "options": ["DE-pend", "de-PEND", "Both", "Neither"],
+          "correct_answer": "de-PEND",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 72,
+          "question": "In the word 'after', which syllable is stressed?",
+          "options": ["AF-ter", "af-TER", "Both syllables", "No stress"],
+          "correct_answer": "AF-ter",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 73,
+          "question": "Where is the stress in 'prepare'?",
+          "options": ["PRE-pare", "pre-PARE", "Both", "None"],
+          "correct_answer": "pre-PARE",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 74,
+          "question": "Which part of the word 'open' is stressed?",
+          "options": ["O-pen", "o-PEN", "Both are equal", "No stress"],
+          "correct_answer": "O-pen",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 75,
+          "question": "Which syllable is stressed in 'today'?",
+          "options": ["TO-day", "to-DAY", "Both", "Neither"],
+          "correct_answer": "to-DAY",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 76,
+          "question": "Where is the stress in the word 'famous'?",
+          "options": ["FA-mous", "fa-MOUS", "Both", "Neither"],
+          "correct_answer": "FA-mous",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 77,
+          "question": "In the word 'potato', where is the stress?",
+          "options": ["PO-ta-to", "po-TA-to", "po-ta-TO", "No stress"],
+          "correct_answer": "po-TA-to",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 78,
+          "question": "Which syllable is stressed in 'holiday'?",
+          "options": ["HO-li-day", "ho-LI-day", "ho-li-DAY", "No stress"],
+          "correct_answer": "HO-li-day",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 79,
+          "question": "Where is the stress in 'another'?",
+          "options": ["A-no-ther", "a-NO-ther", "a-no-THER", "No stress"],
+          "correct_answer": "a-NO-ther",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 80,
+          "question": "In the word 'family', which syllable is stressed?",
+          "options": ["FA-mi-ly", "fa-MI-ly", "fa-mi-LY", "No stress"],
+          "correct_answer": "FA-mi-ly",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 81,
+          "question": "Which syllable of 'continue' is stressed?",
+          "options": ["CON-ti-nue", "con-TI-nue", "con-ti-NUE", "No stress"],
+          "correct_answer": "con-TI-nue",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 82,
+          "question": "Where is the stress in the word 'together'?",
+          "options": ["TO-ge-ther", "to-GE-ther", "to-ge-THER", "No stress"],
+          "correct_answer": "to-GE-ther",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 83,
+          "question": "In the word 'umbrella', where is the stress?",
+          "options": ["UM-brel-la", "um-BREL-la", "um-brel-LA", "No stress"],
+          "correct_answer": "um-BREL-la",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 84,
+          "question": "Where is the stress in 'tomorrow'?",
+          "options": ["TO-mor-row", "to-MOR-row", "to-mor-ROW", "No stress"],
+          "correct_answer": "to-MOR-row",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 85,
+          "question": "Which syllable is stressed in 'expensive'?",
+          "options": ["EX-pen-sive", "ex-PEN-sive", "ex-pen-SIVE", "No stress"],
+          "correct_answer": "ex-PEN-sive",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 86,
+          "question": "Where is the stress in the word 'remember'?",
+          "options": ["RE-mem-ber", "re-MEM-ber", "re-mem-BER", "No stress"],
+          "correct_answer": "re-MEM-ber",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 87,
+          "question": "In the word 'animal', which syllable is stressed?",
+          "options": ["AN-i-mal", "an-I-mal", "an-i-MAL", "No stress"],
+          "correct_answer": "AN-i-mal",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 88,
+          "question": "Which syllable of 'delicious' is stressed?",
+          "options": ["DE-li-cious", "de-LI-cious", "de-li-CIOUS", "No stress"],
+          "correct_answer": "de-LI-cious",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 89,
+          "question": "Where is the stress in 'important'?",
+          "options": ["IM-por-tant", "im-POR-tant", "im-por-TANT", "No stress"],
+          "correct_answer": "im-POR-tant",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 90,
+          "question": "In the word 'Saturday', where is the stress?",
+          "options": ["SA-tur-day", "sa-TUR-day", "sa-tur-DAY", "No stress"],
+          "correct_answer": "SA-tur-day",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 91,
+          "question": "Which syllable is stressed in 'fantastic'?",
+          "options": ["FAN-tas-tic", "fan-TAS-tic", "fan-tas-TIC", "No stress"],
+          "correct_answer": "fan-TAS-tic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 92,
+          "question": "Where is the stress in the word 'example'?",
+          "options": ["EX-am-ple", "ex-AM-ple", "ex-am-PLE", "No stress"],
+          "correct_answer": "ex-AM-ple",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 93,
+          "question": "In the word 'customer', which syllable is stressed?",
+          "options": ["CUS-to-mer", "cus-TO-mer", "cus-to-MER", "No stress"],
+          "correct_answer": "CUS-to-mer",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 94,
+          "question": "Which syllable of 'adventure' is stressed?",
+          "options": ["AD-ven-ture", "ad-VEN-ture", "ad-ven-TURE", "No stress"],
+          "correct_answer": "ad-VEN-ture",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 95,
+          "question": "Where is the stress in 'September'?",
+          "options": ["SEP-tem-ber", "sep-TEM-ber", "sep-tem-BER", "No stress"],
+          "correct_answer": "sep-TEM-ber",
+          "grammar_type": "Word Stress"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 96,
+          "question": "Where is the stress in the compound noun 'sunflower'?",
+          "options": ["SUN-flower", "sun-FLOWER", "On both words", "On neither word"],
+          "correct_answer": "SUN-flower",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 97,
+          "question": "In words ending in '-ity' like 'ability', where is the stress?",
+          "options": ["On the first syllable", "On the syllable before '-ity'", "On the last syllable", "On '-ity'"],
+          "correct_answer": "On the syllable before '-ity'",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 98,
+          "question": "Where is the stress in 'community'?",
+          "options": ["COM-mu-ni-ty", "com-MU-ni-ty", "com-mu-NI-ty", "com-mu-ni-TY"],
+          "correct_answer": "com-MU-ni-ty",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 99,
+          "question": "Which word is a verb with stress on the second syllable?",
+          "options": ["object (a thing)", "increase (a rise)", "export (to send out)", "rebel (a person)"],
+          "correct_answer": "export (to send out)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 100,
+          "question": "Where is the stress in the word 'education'?",
+          "options": ["E-du-ca-tion", "e-du-CA-tion", "e-du-ca-TION", "ED-u-ca-tion"],
+          "correct_answer": "e-du-CA-tion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 101,
+          "question": "Where is the stress in the reflexive pronoun 'themselves'?",
+          "options": ["THEM-selves", "them-SELVES", "Both", "Neither"],
+          "correct_answer": "them-SELVES",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 102,
+          "question": "Which word has a different stress pattern?",
+          "options": ["terrific", "atlantic", "fantastic", "arabic"],
+          "correct_answer": "arabic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 103,
+          "question": "In the compound verb 'overlook', where is the stress?",
+          "options": ["O-ver-look", "o-ver-LOOK", "Both", "Neither"],
+          "correct_answer": "o-ver-LOOK",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 104,
+          "question": "Where is the stress in the word 'biology'?",
+          "options": ["BI-o-lo-gy", "bi-O-lo-gy", "bi-o-LO-gy", "bi-o-lo-GY"],
+          "correct_answer": "bi-O-lo-gy",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 105,
+          "question": "Which word is a noun with stress on the first syllable?",
+          "options": ["decrease (to go down)", "decrease (a fall)", "protest (to object)", "permit (to allow)"],
+          "correct_answer": "decrease (a fall)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 106,
+          "question": "For words ending in '-ese' like 'Japanese', where is the stress?",
+          "options": ["First syllable", "Second syllable", "On the syllable before '-ese'", "On the '-ese' syllable"],
+          "correct_answer": "On the '-ese' syllable",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 107,
+          "question": "Where is the stress in the word 'celebrate'?",
+          "options": ["CE-le-brate", "ce-LE-brate", "ce-le-BRATE", "No stress"],
+          "correct_answer": "CE-le-brate",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 108,
+          "question": "Which word has the stress on the first syllable?",
+          "options": ["original", "Canadian", "photograph", "political"],
+          "correct_answer": "photograph",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 109,
+          "question": "Where is the stress in 'television'?",
+          "options": ["TE-le-vi-sion", "te-LE-vi-sion", "te-le-VI-sion", "te-le-vi-SION"],
+          "correct_answer": "te-LE-vi-sion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 110,
+          "question": "In the compound noun 'airport', where is the stress?",
+          "options": ["AIR-port", "air-PORT", "On both", "On neither"],
+          "correct_answer": "AIR-port",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 111,
+          "question": "Which word has a stress shift from the root word 'politic'?",
+          "options": ["political", "politician", "Both a and b", "Neither a nor b"],
+          "correct_answer": "Both a and b",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 112,
+          "question": "Where is the stress in the word 'geography'?",
+          "options": ["GE-o-gra-phy", "ge-O-gra-phy", "ge-o-GRA-phy", "ge-o-gra-PHY"],
+          "correct_answer": "ge-O-gra-phy",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 113,
+          "question": "The noun 'an import' has stress on the first syllable. Where is the stress on the verb 'to import'?",
+          "options": ["First syllable", "Second syllable", "It is the same", "It has no stress"],
+          "correct_answer": "Second syllable",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 114,
+          "question": "Which syllable is stressed in 'technology'?",
+          "options": ["TECH-no-lo-gy", "tech-NO-lo-gy", "tech-no-LO-gy", "tech-no-lo-GY"],
+          "correct_answer": "tech-NO-lo-gy",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 115,
+          "question": "Where is the stress in the word 'Canadian'?",
+          "options": ["CA-na-di-an", "ca-NA-di-an", "ca-na-DI-an", "ca-na-di-AN"],
+          "correct_answer": "ca-NA-di-an",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 116,
+          "question": "In the compound adjective 'hard-working', where is the stress?",
+          "options": ["On 'hard'", "On 'working'", "On both", "On neither"],
+          "correct_answer": "On 'working'",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 117,
+          "question": "Which word has a different stress pattern?",
+          "options": ["invite", "decide", "happen", "complain"],
+          "correct_answer": "happen",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 118,
+          "question": "Where is the stress in 'conversation'?",
+          "options": ["CON-ver-sa-tion", "con-ver-SA-tion", "con-VER-sa-tion", "con-ver-sa-TION"],
+          "correct_answer": "con-ver-SA-tion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 119,
+          "question": "The word 'rebel' can be a noun or a verb. Which form has stress on the first syllable?",
+          "options": ["The noun (a person)", "The verb (to fight against)", "Both have stress on the first syllable", "Neither has stress on the first syllable"],
+          "correct_answer": "The noun (a person)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 120,
+          "question": "Where is the stress in the word 'original'?",
+          "options": ["O-ri-gi-nal", "o-RI-gi-nal", "o-ri-GI-nal", "o-ri-gi-NAL"],
+          "correct_answer": "o-RI-gi-nal",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 121,
+          "question": "In words ending in '-ive' like 'creative', where is the stress usually placed?",
+          "options": ["On the first syllable", "On the '-ive' syllable", "On the syllable before '-ive'", "On the last syllable"],
+          "correct_answer": "On the syllable before '-ive'",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 122,
+          "question": "Which syllable is stressed in 'attractive'?",
+          "options": ["AT-trac-tive", "at-TRAC-tive", "at-trac-TIVE", "No stress"],
+          "correct_answer": "at-TRAC-tive",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 123,
+          "question": "Where is the stress on 'seventeen'?",
+          "options": ["SE-ven-teen", "se-VEN-teen", "se-ven-TEEN", "No stress"],
+          "correct_answer": "se-ven-TEEN",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 124,
+          "question": "Where is the stress on 'seventy'?",
+          "options": ["SE-ven-ty", "se-VEN-ty", "se-ven-TY", "No stress"],
+          "correct_answer": "SE-ven-ty",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 125,
+          "question": "Where is the stress in the compound noun 'post office'?",
+          "options": ["POST office", "post OF-fice", "Both", "Neither"],
+          "correct_answer": "POST office",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 126,
+          "question": "Which word has a different stress pattern?",
+          "options": ["ability", "activity", "necessity", "yesterday"],
+          "correct_answer": "yesterday",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 127,
+          "question": "Where is the stress in the word 'political'?",
+          "options": ["PO-li-ti-cal", "po-LI-ti-cal", "po-li-TI-cal", "po-li-ti-CAL"],
+          "correct_answer": "po-LI-ti-cal",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 128,
+          "question": "The verb 'to permit' has stress on the second syllable. Where is the stress on the noun 'a permit'?",
+          "options": ["First syllable", "Second syllable", "It's the same", "It varies"],
+          "correct_answer": "First syllable",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 129,
+          "question": "Where is the stress in 'preparation'?",
+          "options": ["PRE-pa-ra-tion", "pre-pa-RA-tion", "pre-PA-ra-tion", "pre-pa-ra-TION"],
+          "correct_answer": "pre-pa-RA-tion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 130,
+          "question": "Which syllable of 'development' is stressed?",
+          "options": ["DE-ve-lop-ment", "de-VE-lop-ment", "de-ve-LOP-ment", "de-ve-lop-MENT"],
+          "correct_answer": "de-VE-lop-ment",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 131,
+          "question": "Where is the stress in the word 'interrupt'?",
+          "options": ["IN-ter-rupt", "in-ter-RUPT", "in-TER-rupt", "in-ter-ru-PT"],
+          "correct_answer": "in-ter-RUPT",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 132,
+          "question": "The word 'produce' (noun, as in fresh fruits) has stress on the first syllable. Where is the stress on the verb 'to produce'?",
+          "options": ["First syllable", "Second syllable", "It stays the same", "It depends on the sentence"],
+          "correct_answer": "Second syllable",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 133,
+          "question": "Which word has the stress pattern oOoo (stress on the second of four syllables)?",
+          "options": ["congratulate", "ceremony", "apology", "necessary"],
+          "correct_answer": "apology",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 134,
+          "question": "Where is the stress in the word 'enthusiasm'?",
+          "options": ["EN-thu-si-asm", "en-THU-si-asm", "en-thu-SI-asm", "en-thu-si-ASM"],
+          "correct_answer": "en-THU-si-asm",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 135,
+          "question": "In most phrasal verbs like 'turn on', where is the stress?",
+          "options": ["On the verb (turn)", "On the particle (on)", "On both", "On neither"],
+          "correct_answer": "On the particle (on)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 136,
+          "question": "Where is the stress in 'psychology'?",
+          "options": ["PSY-cho-lo-gy", "psy-CHO-lo-gy", "psy-cho-LO-gy", "psy-cho-lo-GY"],
+          "correct_answer": "psy-CHO-lo-gy",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 137,
+          "question": "Which syllable is stressed in 'photographer'?",
+          "options": ["PHO-to-graph-er", "pho-TO-graph-er", "pho-to-GRAPH-er", "pho-to-graph-ER"],
+          "correct_answer": "pho-TO-graph-er",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 138,
+          "question": "The noun 'a contract' has stress on the first syllable. Where is the stress on the verb 'to contract'?",
+          "options": ["First syllable", "Second syllable", "The stress does not move", "On both syllables"],
+          "correct_answer": "Second syllable",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 139,
+          "question": "Where is the stress on the word 'ceremony'?",
+          "options": ["CE-re-mo-ny", "ce-RE-mo-ny", "ce-re-MO-ny", "ce-re-mo-NY"],
+          "correct_answer": "CE-re-mo-ny",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 140,
+          "question": "Which syllable of 'understandable' is stressed?",
+          "options": ["UN-der-stand-a-ble", "un-der-STAND-a-ble", "un-DER-stand-a-ble", "un-der-stand-A-ble"],
+          "correct_answer": "un-der-STAND-a-ble",
+          "grammar_type": "Word Stress"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 141,
+          "question": "The stress in 'photograph' is on the first syllable. Where is the stress in 'photographic'?",
+          "options": ["PHO-to-graph-ic", "pho-TO-graph-ic", "pho-to-GRAPH-ic", "pho-to-graph-IC"],
+          "correct_answer": "pho-to-GRAPH-ic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 142,
+          "question": "The word 'invalid' can mean 'not valid' or 'a sick person'. Which meaning has the stress on the first syllable?",
+          "options": ["Not valid", "A sick person", "Both", "Neither"],
+          "correct_answer": "A sick person",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 143,
+          "question": "Where is the primary stress in 'pronunciation'?",
+          "options": ["pro-nun-ci-A-tion", "pro-NUN-ci-a-tion", "PRO-nun-ci-a-tion", "pro-nun-CI-a-tion"],
+          "correct_answer": "pro-nun-ci-A-tion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 144,
+          "question": "Which word is an exception to the rule that stress is on the syllable before '-ic'?",
+          "options": ["terrific", "specific", "arabic", "dramatic"],
+          "correct_answer": "arabic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 145,
+          "question": "The noun 'a conflict' and the verb 'to conflict' have different stress patterns. Where is the stress on the verb?",
+          "options": ["First syllable (CON-flict)", "Second syllable (con-FLICT)", "Both", "The stress does not change"],
+          "correct_answer": "Second syllable (con-FLICT)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 146,
+          "question": "Where is the main stress in the word 'responsibility'?",
+          "options": ["res-pon-si-BI-li-ty", "res-PON-si-bi-li-ty", "res-pon-SI-bi-li-ty", "res-pon-si-bi-LI-ty"],
+          "correct_answer": "res-pon-si-BI-li-ty",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 147,
+          "question": "Where is the stress on the word 'character'?",
+          "options": ["CHA-rac-ter", "cha-RAC-ter", "cha-rac-TER", "No stress"],
+          "correct_answer": "CHA-rac-ter",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 148,
+          "question": "The stress on 'character' is on the first syllable. Where is it on 'characteristic'?",
+          "options": ["cha-rac-te-RIS-tic", "cha-RAC-te-ris-tic", "CHA-rac-te-ris-tic", "cha-rac-TE-ris-tic"],
+          "correct_answer": "cha-rac-te-RIS-tic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 149,
+          "question": "The word 'attribute' can be a noun or a verb. Which form has the stress on the second syllable?",
+          "options": ["The noun (a quality)", "The verb (to give credit)", "Both", "Neither"],
+          "correct_answer": "The verb (to give credit)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 150,
+          "question": "Where is the primary stress in 'international'?",
+          "options": ["in-ter-NA-tion-al", "IN-ter-na-tion-al", "in-TER-na-tion-al", "in-ter-na-TION-al"],
+          "correct_answer": "in-ter-NA-tion-al",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 151,
+          "question": "In the noun form of a phrasal verb, like 'a break-up', where is the stress?",
+          "options": ["On the verb (break)", "On the particle (up)", "On both", "On neither"],
+          "correct_answer": "On the verb (break)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 152,
+          "question": "Which word has the stress pattern ooOo (stress on the third of four syllables)?",
+          "options": ["opportunity", "agriculture", "catastrophe", "democracy"],
+          "correct_answer": "opportunity",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 153,
+          "question": "Where is the primary stress in 'psychological'?",
+          "options": ["PSY-cho-lo-gi-cal", "psy-cho-LO-gi-cal", "psy-CHO-lo-gi-cal", "psy-cho-lo-GI-cal"],
+          "correct_answer": "psy-cho-LO-gi-cal",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 154,
+          "question": "The word 'suspect' can be a noun or a verb. Which form has stress on the first syllable?",
+          "options": ["The verb (to believe something)", "The noun (a person)", "Both", "Neither"],
+          "correct_answer": "The noun (a person)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 155,
+          "question": "Where is the main stress in 'unfortunately'?",
+          "options": ["un-FOR-tu-nate-ly", "UN-for-tu-nate-ly", "un-for-tu-NATE-ly", "un-for-TU-nate-ly"],
+          "correct_answer": "un-FOR-tu-nate-ly",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 156,
+          "question": "How is the word 'vegetable' usually pronounced, affecting its stress pattern?",
+          "options": ["With 4 syllables (ve-ge-ta-ble)", "With 3 syllables (veg-ta-ble)", "With 2 syllables (veg-ble)", "With 5 syllables"],
+          "correct_answer": "With 3 syllables (veg-ta-ble)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 157,
+          "question": "Where is the stress on the word 'analyze'?",
+          "options": ["A-na-lyze", "a-NA-lyze", "a-na-LYZE", "No stress"],
+          "correct_answer": "A-na-lyze",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 158,
+          "question": "The word 'personnel' (staff) has a different stress from 'personal' (private). Where is the stress on 'personnel'?",
+          "options": ["PER-son-nel", "per-son-NEL", "per-SON-nel", "per-so-NNEL"],
+          "correct_answer": "per-son-NEL",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 159,
+          "question": "Which word has its primary stress on the third syllable?",
+          "options": ["academic", "catastrophe", "philosophy", "volunteer"],
+          "correct_answer": "volunteer",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 160,
+          "question": "Where is the primary stress in the word 'organization'?",
+          "options": ["or-ga-ni-ZA-tion", "OR-ga-ni-za-tion", "or-GA-ni-za-tion", "or-ga-NI-za-tion"],
+          "correct_answer": "or-ga-ni-ZA-tion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 161,
+          "question": "The word 'conduct' as a noun (behavior) and a verb (to lead) have different stress. Where is the stress on the noun?",
+          "options": ["First syllable", "Second syllable", "On both", "The stress is the same"],
+          "correct_answer": "First syllable",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 162,
+          "question": "Where is the stress on the word 'catastrophe'?",
+          "options": ["CA-ta-stro-phe", "ca-TA-stro-phe", "ca-ta-STRO-phe", "ca-ta-stro-PHE"],
+          "correct_answer": "ca-TA-stro-phe",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 163,
+          "question": "Which of these words, borrowed from French, retains stress on the final syllable?",
+          "options": ["ballet", "bureau", "cliche", "all of the above"],
+          "correct_answer": "all of the above",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 164,
+          "question": "Where is the main stress in 'academic'?",
+          "options": ["A-ca-de-mic", "a-ca-DE-mic", "a-CA-de-mic", "a-ca-de-MIC"],
+          "correct_answer": "a-ca-DE-mic",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 165,
+          "question": "Where is the stress on the word 'philosophy'?",
+          "options": ["PHI-lo-so-phy", "phi-LO-so-phy", "phi-lo-SO-phy", "phi-lo-so-PHY"],
+          "correct_answer": "phi-LO-so-phy",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 166,
+          "question": "The word 'progress' can be a noun or verb. Which form has stress on the second syllable?",
+          "options": ["The noun", "The verb", "Both", "Neither"],
+          "correct_answer": "The verb",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 167,
+          "question": "Where is the stress in the word 'significant'?",
+          "options": ["SIG-ni-fi-cant", "sig-NI-fi-cant", "sig-ni-FI-cant", "sig-ni-fi-CANT"],
+          "correct_answer": "sig-NI-fi-cant",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 168,
+          "question": "Which of these words is an exception to a common stress rule?",
+          "options": ["television (-sion rule)", "politics (-ic rule)", "employee (-ee rule)", "biology (-logy rule)"],
+          "correct_answer": "politics (-ic rule)",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 169,
+          "question": "Where is the main stress in 'interpretation'?",
+          "options": ["in-ter-pre-TA-tion", "IN-ter-pre-ta-tion", "in-TER-pre-ta-tion", "in-ter-PRE-ta-tion"],
+          "correct_answer": "in-ter-pre-TA-tion",
+          "grammar_type": "Word Stress"
+        },
+        {
+          "id": 170,
+          "question": "Where is the stress on 'category'?",
+          "options": ["CA-te-go-ry", "ca-TE-go-ry", "ca-te-GO-ry", "ca-te-go-RY"],
+          "correct_answer": "CA-te-go-ry",
+          "grammar_type": "Word Stress"
+        }
+      ]
+    }
+  ]
+}
+

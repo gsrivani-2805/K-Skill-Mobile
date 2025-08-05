@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does it mean to 'compare' two things?",
+          "options": ["To show how they are different", "To show how they are the same", "To describe one thing only", "To tell a story about them"],
+          "correct_answer": "To show how they are the same",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 2,
+          "question": "What does it mean to 'contrast' two things?",
+          "options": ["To show how they are different", "To show how they are the same", "To list their best qualities", "To ignore one of them"],
+          "correct_answer": "To show how they are different",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 3,
+          "question": "Which word is a signal word for comparing?",
+          "options": ["but", "however", "different", "similarly"],
+          "correct_answer": "similarly",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 4,
+          "question": "Which word is a signal word for contrasting?",
+          "options": ["also", "too", "however", "same"],
+          "correct_answer": "however",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 5,
+          "question": "The sentence 'Apples and oranges are both fruits' is an example of...",
+          "options": ["Comparing", "Contrasting", "A command", "A question"],
+          "correct_answer": "Comparing",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 6,
+          "question": "The sentence 'A dog is a mammal, but a lizard is a reptile' is an example of...",
+          "options": ["Comparing", "Contrasting", "A command", "A question"],
+          "correct_answer": "Contrasting",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 7,
+          "question": "What is the main purpose of a compare and contrast essay?",
+          "options": ["To only tell a story", "To describe one thing in great detail", "To show the similarities and differences between two or more things", "To argue that one thing is the best"],
+          "correct_answer": "To show the similarities and differences between two or more things",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 8,
+          "question": "The word 'like' is often used to...",
+          "options": ["Contrast", "Compare", "End a sentence", "Give a command"],
+          "correct_answer": "Compare",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 9,
+          "question": "The word 'unlike' is used to...",
+          "options": ["Contrast", "Compare", "Start a sentence", "Show agreement"],
+          "correct_answer": "Contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 10,
+          "question": "If you are writing about how two friends are the same, you are...",
+          "options": ["Contrasting them", "Describing them", "Comparing them", "Arguing with them"],
+          "correct_answer": "Comparing them",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 11,
+          "question": "If you write about how a village is different from a city, you are...",
+          "options": ["Comparing them", "Contrasting them", "Telling a story", "Describing a village"],
+          "correct_answer": "Contrasting them",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 12,
+          "question": "Which of these shows a comparison? 'A cat, ______ a dog, is a popular pet.'",
+          "options": ["unlike", "different from", "like", "but"],
+          "correct_answer": "like",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 13,
+          "question": "Which of these shows a contrast? 'Winter is cold, ______ summer is hot.'",
+          "options": ["and", "also", "similarly", "but"],
+          "correct_answer": "but",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 14,
+          "question": "The first step in writing a compare and contrast essay is to...",
+          "options": ["write the conclusion", "choose two subjects to compare", "check for spelling mistakes", "write the body paragraphs"],
+          "correct_answer": "choose two subjects to compare",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 15,
+          "question": "A Venn diagram is a good tool for...",
+          "options": ["writing a story", "checking grammar", "planning a compare and contrast essay", "writing the final copy"],
+          "correct_answer": "planning a compare and contrast essay",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 16,
+          "question": "In a Venn diagram, where do you write the similarities?",
+          "options": ["In the left circle only", "In the right circle only", "In the overlapping part", "Outside the circles"],
+          "correct_answer": "In the overlapping part",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 17,
+          "question": "The word 'both' is used to show...",
+          "options": ["A difference", "A similarity", "A problem", "A solution"],
+          "correct_answer": "A similarity",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 18,
+          "question": "The phrase 'on the other hand' is used to show...",
+          "options": ["A similarity", "A difference", "An example", "A conclusion"],
+          "correct_answer": "A difference",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 19,
+          "question": "If two things are 'alike', they are...",
+          "options": ["Different", "Similar", "Opposite", "Difficult"],
+          "correct_answer": "Similar",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 20,
+          "question": "If two things are 'different', they are...",
+          "options": ["Similar", "Alike", "The same", "Not the same"],
+          "correct_answer": "Not the same",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 21,
+          "question": "To write about things two subjects have in common, you should look for...",
+          "options": ["differences", "similarities", "problems", "questions"],
+          "correct_answer": "similarities",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 22,
+          "question": "Which question asks you to compare? 'How are a bus and a train ______?'",
+          "options": ["different", "alike", "fast", "slow"],
+          "correct_answer": "alike",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 23,
+          "question": "Which question asks you to contrast? 'What is the main ______ between a city and a village?'",
+          "options": ["similarity", "likeness", "difference", "agreement"],
+          "correct_answer": "difference",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 24,
+          "question": "'Both a car and a bicycle have wheels.' This sentence...",
+          "options": ["Contrasts a car and a bicycle", "Compares a car and a bicycle", "Describes a car", "Describes a bicycle"],
+          "correct_answer": "Compares a car and a bicycle",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 25,
+          "question": "'A car runs on fuel, whereas a bicycle runs on human power.' This sentence...",
+          "options": ["Contrasts a car and a bicycle", "Compares a car and a bicycle", "Describes human power", "Describes fuel"],
+          "correct_answer": "Contrasts a car and a bicycle",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 26,
+          "question": "The word 'also' is used to...",
+          "options": ["show a difference", "add another similarity", "start a conclusion", "end a paragraph"],
+          "correct_answer": "add another similarity",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 27,
+          "question": "The phrase 'in contrast' is used to...",
+          "options": ["show a similarity", "introduce a difference", "give an example", "conclude an essay"],
+          "correct_answer": "introduce a difference",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 28,
+          "question": "What is the most important part of a compare and contrast essay?",
+          "options": ["A good title", "A clear purpose for the comparison", "Many long paragraphs", "A funny story"],
+          "correct_answer": "A clear purpose for the comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 29,
+          "question": "When you compare two books, you might discuss their...",
+          "options": ["number of pages", "cover color", "characters and plot", "price"],
+          "correct_answer": "characters and plot",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 30,
+          "question": "A compare and contrast essay needs an introduction, body, and...",
+          "options": ["a moral", "a climax", "a conclusion", "a new topic"],
+          "correct_answer": "a conclusion",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 31,
+          "question": "Which pair of words is used for comparing?",
+          "options": ["different, unlike", "but, however", "same, similar", "on the one hand, on the other hand"],
+          "correct_answer": "same, similar",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 32,
+          "question": "Which pair of words is used for contrasting?",
+          "options": ["like, as", "both, also", "different, but", "similar, too"],
+          "correct_answer": "different, but",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 33,
+          "question": "To compare means to find things that are...",
+          "options": ["not the same", "in common", "opposite", "difficult"],
+          "correct_answer": "in common",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 34,
+          "question": "To contrast means to find things that are...",
+          "options": ["the same", "alike", "similar", "not alike"],
+          "correct_answer": "not alike",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 35,
+          "question": "The introduction of a compare and contrast essay should...",
+          "options": ["give all the details", "summarize the essay", "introduce the two subjects and the main point", "end the essay"],
+          "correct_answer": "introduce the two subjects and the main point",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 36,
+          "question": "'Apples are red. In the same way, some cherries are red.' This is a...",
+          "options": ["Contrast", "Comparison", "Question", "Command"],
+          "correct_answer": "Comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 37,
+          "question": "'He is tall. On the other hand, his brother is short.' This is a...",
+          "options": ["Comparison", "Contrast", "Story", "Description"],
+          "correct_answer": "Contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 38,
+          "question": "What is the purpose of brainstorming before writing?",
+          "options": ["To write the final copy", "To list similarities and differences", "To check for errors", "To write the conclusion"],
+          "correct_answer": "To list similarities and differences",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 39,
+          "question": "The conclusion of your essay should...",
+          "options": ["introduce a new subject", "summarize the main points of comparison", "be the longest paragraph", "ask a question"],
+          "correct_answer": "summarize the main points of comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 40,
+          "question": "The word 'likewise' indicates a...",
+          "options": ["similarity", "difference", "question", "command"],
+          "correct_answer": "similarity",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 41,
+          "question": "The word 'although' often introduces a...",
+          "options": ["similarity", "difference", "comparison", "contrast"],
+          "correct_answer": "contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 42,
+          "question": "Comparing a book and a movie based on the book is a common type of...",
+          "options": ["Narrative essay", "Compare and contrast essay", "Descriptive essay", "Process essay"],
+          "correct_answer": "Compare and contrast essay",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 43,
+          "question": "The body paragraphs should provide ______ for your points of comparison and contrast.",
+          "options": ["questions", "new topics", "details and examples", "a summary"],
+          "correct_answer": "details and examples",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 44,
+          "question": "You can compare two ______ to see which one you want to visit.",
+          "options": ["problems", "places", "colors", "stories"],
+          "correct_answer": "places",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 45,
+          "question": "The phrase 'as well as' is used for...",
+          "options": ["Contrasting", "Comparing", "Concluding", "Questioning"],
+          "correct_answer": "Comparing",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 46,
+          "question": "The word 'yet' can be used to show a...",
+          "options": ["comparison", "contrast", "similarity", "reason"],
+          "correct_answer": "contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 47,
+          "question": "To write a good essay, your points of comparison must be...",
+          "options": ["random", "meaningful", "confusing", "very short"],
+          "correct_answer": "meaningful",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 48,
+          "question": "What is the main idea of a compare and contrast essay stated in the introduction?",
+          "options": ["Topic Sentence", "Hook", "Thesis Statement", "Conclusion"],
+          "correct_answer": "Thesis Statement",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 49,
+          "question": "'Both subjects are interesting.' This is a...",
+          "options": ["Contrast", "Comparison", "Question", "Command"],
+          "correct_answer": "Comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 50,
+          "question": "'One is easy, while the other is difficult.' This is a...",
+          "options": ["Comparison", "Contrast", "Similarity", "Agreement"],
+          "correct_answer": "Contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What are the two main organizational structures for a compare and contrast essay?",
+          "options": ["Introduction and Conclusion", "First and Last", "Block Method and Point-by-Point Method", "Narrative and Descriptive"],
+          "correct_answer": "Block Method and Point-by-Point Method",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 52,
+          "question": "In the 'Block Method', you discuss...",
+          "options": ["one point about both subjects at a time", "all of subject A, then all of subject B", "only the similarities", "only the differences"],
+          "correct_answer": "all of subject A, then all of subject B",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 53,
+          "question": "In the 'Point-by-Point Method', you discuss...",
+          "options": ["all of subject A, then all of subject B", "one point of comparison at a time for both subjects", "only the introduction", "only the conclusion"],
+          "correct_answer": "one point of comparison at a time for both subjects",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 54,
+          "question": "A strong thesis statement for a compare and contrast essay should not just state that there are similarities and differences, but also...",
+          "options": ["ask a question", "make a meaningful point about them", "list every single similarity", "be very long"],
+          "correct_answer": "make a meaningful point about them",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 55,
+          "question": "Which of these is the BEST thesis statement? 'While both villages and cities provide a place to live, villages offer a stronger sense of community.'",
+          "options": ["This is a good thesis statement.", "This is not a thesis statement.", "This thesis is too broad.", "This thesis only compares."],
+          "correct_answer": "This is a good thesis statement.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 56,
+          "question": "The phrase 'on the contrary' is a strong transition for...",
+          "options": ["adding a similar point", "introducing a direct contrast", "giving an example", "summarizing a point"],
+          "correct_answer": "introducing a direct contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 57,
+          "question": "What is the purpose of the 'basis of comparison'?",
+          "options": ["It is the main argument of the essay.", "It refers to the specific points or criteria you are using to compare and contrast.", "It is the conclusion of the essay.", "It is the title of the essay."],
+          "correct_answer": "It refers to the specific points or criteria you are using to compare and contrast.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 58,
+          "question": "If you are comparing two poems, which of these would be a good basis for comparison?",
+          "options": ["The number of words in each poem", "The color of the book they were printed in", "The use of imagery and theme", "The age of the poets"],
+          "correct_answer": "The use of imagery and theme",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 59,
+          "question": "The point-by-point method is often better for ______ essays.",
+          "options": ["very short and simple", "longer and more complex", "narrative", "descriptive"],
+          "correct_answer": "longer and more complex",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 60,
+          "question": "The block method can be effective for ______ essays where the goal is to give a whole picture of each subject.",
+          "options": ["longer", "shorter", "very complex", "argumentative"],
+          "correct_answer": "shorter",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 61,
+          "question": "An essay that argues that one subject is superior to another, based on a comparison, is both a compare/contrast and a ______ essay.",
+          "options": ["narrative", "descriptive", "persuasive", "expository"],
+          "correct_answer": "persuasive",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 62,
+          "question": "The transition word 'conversely' indicates...",
+          "options": ["a similarity", "an example", "a contrast", "a result"],
+          "correct_answer": "a contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 63,
+          "question": "The phrase 'in a like manner' indicates...",
+          "options": ["a difference", "a problem", "a comparison", "a conclusion"],
+          "correct_answer": "a comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 64,
+          "question": "To avoid a boring essay, you should not just list similarities and differences, but also...",
+          "options": ["analyze why they are significant", "add more subjects", "make the paragraphs longer", "use a lot of difficult words"],
+          "correct_answer": "analyze why they are significant",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 65,
+          "question": "If you use the block method, what is a potential risk you need to avoid?",
+          "options": ["The essay will be too integrated.", "The two sections will seem like two separate essays.", "The essay will be too short.", "The reader will be too engaged."],
+          "correct_answer": "The two sections will seem like two separate essays.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 66,
+          "question": "What is the function of the sentence: 'Despite these differences, both characters are seeking a sense of belonging.'?",
+          "options": ["To introduce a new character", "To transition from discussing differences to discussing similarities", "To start the conclusion", "To state the thesis"],
+          "correct_answer": "To transition from discussing differences to discussing similarities",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 67,
+          "question": "The thesis statement in a compare and contrast essay serves as a ______ for the entire paper.",
+          "options": ["summary", "roadmap", "question", "title"],
+          "correct_answer": "roadmap",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 68,
+          "question": "When comparing online learning and traditional learning, a key point of contrast would be...",
+          "options": ["both require a teacher", "the level of face-to-face interaction", "both require students to study", "the use of textbooks"],
+          "correct_answer": "the level of face-to-face interaction",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 69,
+          "question": "The word 'disparate' means...",
+          "options": ["essentially different", "very similar", "exactly the same", "somewhat alike"],
+          "correct_answer": "essentially different",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 70,
+          "question": "The word 'analogous' means...",
+          "options": ["completely different", "opposite", "comparable in certain respects", "not related"],
+          "correct_answer": "comparable in certain respects",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 71,
+          "question": "To maintain a balanced essay, you should...",
+          "options": ["give equal attention to both subjects", "focus only on one subject", "write more about the differences", "write more about the similarities"],
+          "correct_answer": "give equal attention to both subjects",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 72,
+          "question": "What is wrong with the thesis: 'This essay will compare and contrast cars and bicycles.'?",
+          "options": ["It is too long.", "It is a question.", "It is too obvious and doesn't make an interesting point.", "Nothing is wrong with it."],
+          "correct_answer": "It is too obvious and doesn't make an interesting point.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 73,
+          "question": "The conclusion of a compare and contrast essay should synthesize the information to...",
+          "options": ["introduce a new topic", "provide new evidence", "show the reader the significance of the comparison", "ask the reader a question"],
+          "correct_answer": "show the reader the significance of the comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 74,
+          "question": "The main advantage of the point-by-point method is that it...",
+          "options": ["is easier to write", "creates a more direct and integrated comparison", "is better for short essays", "focuses on one subject at a time"],
+          "correct_answer": "creates a more direct and integrated comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 75,
+          "question": "What does it mean to make an 'analogy'?",
+          "options": ["To show that two things are identical", "To explain a complex idea by comparing it to a simpler, more familiar one", "To list the differences between two things", "To tell a story about two things"],
+          "correct_answer": "To explain a complex idea by comparing it to a simpler, more familiar one",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 76,
+          "question": "'A city is to a country as a leaf is to a tree.' This is an example of a/an...",
+          "options": ["Simple comparison", "Contrast", "Analogy", "Thesis statement"],
+          "correct_answer": "Analogy",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 77,
+          "question": "A balanced conclusion should touch upon...",
+          "options": ["only the similarities", "only the differences", "both the key similarities and differences", "a new topic"],
+          "correct_answer": "both the key similarities and differences",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 78,
+          "question": "Which of these is a good transition for a paragraph about differences, following a paragraph about similarities?",
+          "options": ["Similarly...", "In addition...", "Despite these similarities...", "For example..."],
+          "correct_answer": "Despite these similarities...",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 79,
+          "question": "When comparing two characters, focusing on their motivations would be a...",
+          "options": ["shallow comparison", "deep and analytical comparison", "waste of time", "descriptive comparison"],
+          "correct_answer": "deep and analytical comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 80,
+          "question": "The phrase 'a key distinction is' introduces a...",
+          "options": ["similarity", "contrast", "conclusion", "comparison"],
+          "correct_answer": "contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 81,
+          "question": "To ensure fairness in your essay, you should avoid...",
+          "options": ["discussing both subjects", "using evidence", "showing bias toward one subject unless it's a persuasive essay", "having a conclusion"],
+          "correct_answer": "showing bias toward one subject unless it's a persuasive essay",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 82,
+          "question": "If you are comparing two historical events, what is a crucial element to consider?",
+          "options": ["The historical context of each event", "The colors associated with each event", "Your personal feelings about the events", "Only the dates of the events"],
+          "correct_answer": "The historical context of each event",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 83,
+          "question": "The phrase 'at the same time' can be used to introduce a...",
+          "options": ["comparison", "contrast", "cause", "conclusion"],
+          "correct_answer": "contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 84,
+          "question": "What is the function of supporting details in a compare/contrast paragraph?",
+          "options": ["To state the main idea", "To provide evidence for the point of comparison or contrast", "To conclude the essay", "To introduce the two subjects"],
+          "correct_answer": "To provide evidence for the point of comparison or contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 85,
+          "question": "A successful compare and contrast essay helps the reader...",
+          "options": ["get confused about two subjects", "see two subjects in a new or clearer way", "memorize a list of facts", "learn about only one subject"],
+          "correct_answer": "see two subjects in a new or clearer way",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 86,
+          "question": "The block method is also known as the ______ method.",
+          "options": ["point-by-point", "integrated", "subject-by-subject", "narrative"],
+          "correct_answer": "subject-by-subject",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 87,
+          "question": "The point-by-point method is also known as the ______ method.",
+          "options": ["block", "alternating", "whole-to-whole", "descriptive"],
+          "correct_answer": "alternating",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 88,
+          "question": "A thesis statement that says 'Cats and dogs are similar in some ways and different in others' is...",
+          "options": ["strong and specific", "a good example of a thesis", "weak because it is too obvious", "a good hook"],
+          "correct_answer": "weak because it is too obvious",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 89,
+          "question": "Which transition shows a similarity?",
+          "options": ["Nevertheless", "By contrast", "Likewise", "Whereas"],
+          "correct_answer": "Likewise",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 90,
+          "question": "Which transition shows a difference?",
+          "options": ["In the same vein", "Correspondingly", "Conversely", "Equally"],
+          "correct_answer": "Conversely",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 91,
+          "question": "It is important that the points you compare and contrast are ______ for both subjects.",
+          "options": ["completely different", "parallel or the same", "random", "unrelated"],
+          "correct_answer": "parallel or the same",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 92,
+          "question": "If your essay's purpose is to show that one option is better, your thesis should...",
+          "options": ["state that they are both the same", "clearly state which one is superior and why", "not mention which is better until the conclusion", "be a question"],
+          "correct_answer": "clearly state which one is superior and why",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 93,
+          "question": "A comparison becomes more insightful when it reveals a ______ similarity between two seemingly different things.",
+          "options": ["obvious", "superficial", "surprising", "minor"],
+          "correct_answer": "surprising",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 94,
+          "question": "The body of a compare and contrast essay must be directly related to the...",
+          "options": ["title", "hook", "conclusion's final thought", "thesis statement"],
+          "correct_answer": "thesis statement",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 95,
+          "question": "A good conclusion might emphasize the ______ of the comparison.",
+          "options": ["irrelevance", "difficulty", "significance", "length"],
+          "correct_answer": "significance",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 96,
+          "question": "When comparing two novels, discussing the authors' use of symbolism is a...",
+          "options": ["point of comparison", "thesis statement", "conclusion", "hook"],
+          "correct_answer": "point of comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 97,
+          "question": "The conclusion should provide a sense of...",
+          "options": ["confusion", "beginning", "closure", "suspense"],
+          "correct_answer": "closure",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 98,
+          "question": "Using a Venn diagram helps you visually ______ your points before writing.",
+          "options": ["conclude", "organize", "write", "publish"],
+          "correct_answer": "organize",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 99,
+          "question": "The two subjects of your essay must have enough ______ to justify a comparison.",
+          "options": ["differences", "in common", "length", "problems"],
+          "correct_answer": "in common",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 100,
+          "question": "The 'synthesis' that happens in the conclusion is about...",
+          "options": ["introducing new information", "bringing the compared points together to form a larger insight", "repeating the introduction", "listing the sources"],
+          "correct_answer": "bringing the compared points together to form a larger insight",
+          "grammar_type": "Compare and Contrast Writing"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the primary weakness of the block method for a complex, multi-faceted comparison?",
+          "options": ["It is too integrated.", "The reader may forget the details of Subject A by the time they are reading about Subject B.", "It is only suitable for persuasive essays.", "It does not allow for a thesis statement."],
+          "correct_answer": "The reader may forget the details of Subject A by the time they are reading about Subject B.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 102,
+          "question": "A sophisticated thesis for a compare and contrast essay often aims to...",
+          "options": ["prove that two things are identical", "challenge a common assumption about the relationship between two subjects", "list as many differences as possible", "summarize two subjects separately"],
+          "correct_answer": "challenge a common assumption about the relationship between two subjects",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 103,
+          "question": "What is the function of a 'basis of comparison'?",
+          "options": ["To ensure a fair and logical comparison by using consistent criteria for both subjects.", "To introduce bias into the essay.", "To provide a historical context only.", "To act as the essay's conclusion."],
+          "correct_answer": "To ensure a fair and logical comparison by using consistent criteria for both subjects.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 104,
+          "question": "How does an analogy differ from a simple comparison?",
+          "options": ["An analogy is a brief comparison, while a simple comparison is extended.", "An analogy primarily aims to explain a complex or abstract relationship by relating it to a more familiar one.", "There is no difference.", "An analogy only shows differences."],
+          "correct_answer": "An analogy primarily aims to explain a complex or abstract relationship by relating it to a more familiar one.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 105,
+          "question": "A 'false analogy' is a logical fallacy where...",
+          "options": ["a comparison is made between two things that are not alike in relevant aspects", "a comparison is used to explain a concept clearly", "two things are shown to be identical", "a strong conclusion is drawn from a comparison"],
+          "correct_answer": "a comparison is made between two things that are not alike in relevant aspects",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 106,
+          "question": "When comparing two different historical periods, it is crucial to avoid 'presentism', which is the act of...",
+          "options": ["analyzing the past in its own context", "using primary sources", "interpreting the past with modern-day attitudes and beliefs", "focusing on similarities"],
+          "correct_answer": "interpreting the past with modern-day attitudes and beliefs",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 107,
+          "question": "In a critical literary comparison, the essay should move beyond surface-level observations to analyze how similarities and differences...",
+          "options": ["are not important", "create meaning or affect the reader's interpretation", "are listed on the book's cover", "were intended by the author"],
+          "correct_answer": "create meaning or affect the reader's interpretation",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 108,
+          "question": "A nuanced compare and contrast essay often concludes that...",
+          "options": ["one subject is completely good and the other is completely bad", "the two subjects are exactly the same", "the relationship between the subjects is complex, with no simple answer", "the comparison was not useful"],
+          "correct_answer": "the relationship between the subjects is complex, with no simple answer",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 109,
+          "question": "The point-by-point structure is generally more effective for developing a/an...",
+          "options": ["surface-level summary", "integrated and analytical argument", "simple description", "personal narrative"],
+          "correct_answer": "integrated and analytical argument",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 110,
+          "question": "The phrase 'A is a foil to B' means that...",
+          "options": ["A and B are identical.", "character A's qualities contrast with character B's, highlighting B's traits more clearly.", "A and B are best friends.", "A is the main character and B is the villain."],
+          "correct_answer": "character A's qualities contrast with character B's, highlighting B's traits more clearly.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 111,
+          "question": "A successful synthesis in a conclusion should...",
+          "options": ["repeat the thesis statement word for word", "go beyond summarizing to show the broader implications of the comparison", "introduce a new piece of evidence", "end with a question"],
+          "correct_answer": "go beyond summarizing to show the broader implications of the comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 112,
+          "question": "When comparing two solutions to a problem, the most important criterion for evaluation is usually...",
+          "options": ["their cost", "their popularity", "their effectiveness", "their history"],
+          "correct_answer": "their effectiveness",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 113,
+          "question": "A sophisticated transition between points in a compare and contrast essay will not just signal a shift, but also...",
+          "options": ["state a random fact", "explain the logical relationship between the points", "repeat the previous point", "ask a question"],
+          "correct_answer": "explain the logical relationship between the points",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 114,
+          "question": "An essay that compares a book's narrative with its film adaptation should primarily focus on...",
+          "options": ["the actors' salaries", "the director's personal life", "the choices made in adapting the story and their effects on theme and character", "the box office revenue of the film"],
+          "correct_answer": "the choices made in adapting the story and their effects on theme and character",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 115,
+          "question": "What is the purpose of using a 'concession' in a persuasive compare and contrast essay?",
+          "options": ["To admit that your argument is weak.", "To acknowledge a minor point of the opposing view, which adds credibility to your overall argument.", "To confuse the reader.", "To change your main point."],
+          "correct_answer": "To acknowledge a minor point of the opposing view, which adds credibility to your overall argument.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 116,
+          "question": "The phrase 'juxtaposition of ideas' in writing means...",
+          "options": ["placing two concepts side-by-side to highlight their similarities or differences", "hiding one idea behind another", "explaining one idea in great detail", "summarizing many ideas"],
+          "correct_answer": "placing two concepts side-by-side to highlight their similarities or differences",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 117,
+          "question": "In a compare and contrast essay about two political ideologies, the writer must strive for...",
+          "options": ["strong personal bias", "using only one source", "objectivity and the use of neutral language", "a narrative style"],
+          "correct_answer": "objectivity and the use of neutral language",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 118,
+          "question": "What is a potential pitfall of the point-by-point method?",
+          "options": ["It can feel mechanical or repetitive if not handled with good transitions.", "It is not integrated enough.", "It makes the reader forget the first subject.", "It is only good for short essays."],
+          "correct_answer": "It can feel mechanical or repetitive if not handled with good transitions.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 119,
+          "question": "A strong compare/contrast thesis often evaluates the subjects, arguing that one is more significant or effective based on...",
+          "options": ["personal preference", "clearly defined criteria", "popularity", "length"],
+          "correct_answer": "clearly defined criteria",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 120,
+          "question": "How can an analogy be an effective persuasive tool?",
+          "options": ["By oversimplifying a complex issue.", "By linking a complex argument to a simpler, emotionally resonant situation.", "By providing statistical data.", "By confusing the audience with an irrelevant comparison."],
+          "correct_answer": "By linking a complex argument to a simpler, emotionally resonant situation.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 121,
+          "question": "What does a 'diachronic' comparison involve?",
+          "options": ["Comparing two different things at the same point in time.", "Comparing the same thing at different points in time.", "Comparing two unrelated things.", "Comparing two identical things."],
+          "correct_answer": "Comparing the same thing at different points in time.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 122,
+          "question": "What does a 'synchronic' comparison involve?",
+          "options": ["Comparing two different things at the same point in time.", "Comparing the same thing at different points in time.", "Analyzing something over a long historical period.", "Ignoring time as a factor."],
+          "correct_answer": "Comparing two different things at the same point in time.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 123,
+          "question": "The most sophisticated compare and contrast essays often conclude by...",
+          "options": ["proving one subject is perfect", "synthesizing the findings to propose a new idea or a more nuanced understanding", "stating that the comparison was pointless", "repeating the introduction verbatim"],
+          "correct_answer": "synthesizing the findings to propose a new idea or a more nuanced understanding",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 124,
+          "question": "When comparing two texts, it is important to go beyond plot summary and analyze...",
+          "options": ["the number of pages", "the author's biography", "literary devices, themes, and style", "the font used in the book"],
+          "correct_answer": "literary devices, themes, and style",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 125,
+          "question": "What is the function of a 'bridge' in a compare and contrast essay, especially when using the block method?",
+          "options": ["To end the essay.", "A sentence or phrase that connects the discussion of Subject A to the discussion of Subject B.", "The main point of the essay.", "A type of evidence."],
+          "correct_answer": "A sentence or phrase that connects the discussion of Subject A to the discussion of Subject B.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 126,
+          "question": "A comparison of 'freedom' in two different philosophical systems requires the writer to first...",
+          "options": ["choose which one is better", "provide a clear, operational definition of 'freedom' for the essay", "ignore the concept of freedom", "assume everyone has the same definition"],
+          "correct_answer": "provide a clear, operational definition of 'freedom' for the essay",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 127,
+          "question": "In a formal academic essay, what is the best way to handle obvious similarities?",
+          "options": ["Focus the entire essay on them.", "Acknowledge them briefly and then focus on more complex or surprising comparisons.", "Ignore them completely.", "Make them the main point of your thesis."],
+          "correct_answer": "Acknowledge them briefly and then focus on more complex or surprising comparisons.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 128,
+          "question": "What is the main risk of choosing two subjects that are too similar?",
+          "options": ["The essay will be too long.", "The comparison may become a simple list with no interesting argument.", "The conclusion will be too strong.", "The reader will be very surprised."],
+          "correct_answer": "The comparison may become a simple list with no interesting argument.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 129,
+          "question": "What is the main risk of choosing two subjects that are too different?",
+          "options": ["The essay will be too easy to write.", "The comparison might feel forced and lack a meaningful basis.", "The thesis statement will be too clear.", "The conclusion will be obvious."],
+          "correct_answer": "The comparison might feel forced and lack a meaningful basis.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 130,
+          "question": "A successful compare and contrast essay must demonstrate which key academic skill?",
+          "options": ["Memorization", "Creative writing", "Critical thinking", "Speed reading"],
+          "correct_answer": "Critical thinking",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 131,
+          "question": "To avoid a 'so what?' thesis, your main point should answer the question of...",
+          "options": ["what the subjects are", "why the comparison is important or what it reveals", "how many similarities there are", "when the subjects were created"],
+          "correct_answer": "why the comparison is important or what it reveals",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 132,
+          "question": "The level of detail in your comparison should be dictated by...",
+          "options": ["the length requirement of the essay", "the complexity of your thesis and the needs of your audience", "how much you like each subject", "the number of paragraphs"],
+          "correct_answer": "the complexity of your thesis and the needs of your audience",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 133,
+          "question": "What does it mean to provide a 'balanced' treatment in a compare and contrast essay?",
+          "options": ["Giving equal space and depth of analysis to both subjects.", "Making sure the number of similarities and differences is exactly the same.", "Writing the same number of words for each paragraph.", "Focusing only on the positive aspects."],
+          "correct_answer": "Giving equal space and depth of analysis to both subjects.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 134,
+          "question": "The use of 'whereas' in a sentence signals a...",
+          "options": ["comparison that emphasizes similarity", "contrast that often balances two equal points", "cause and effect relationship", "chronological sequence"],
+          "correct_answer": "contrast that often balances two equal points",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 135,
+          "question": "An evaluative compare and contrast essay does what?",
+          "options": ["It simply lists similarities and differences.", "It judges which of the two subjects is better based on set criteria.", "It tells a story about the two subjects.", "It describes the two subjects separately."],
+          "correct_answer": "It judges which of the two subjects is better based on set criteria.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 136,
+          "question": "When comparing two artworks, a formal analysis would focus on elements like...",
+          "options": ["the artist's personal life", "the price of the artwork", "composition, color, and technique", "the size of the museum"],
+          "correct_answer": "composition, color, and technique",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 137,
+          "question": "The purpose of comparing is not just to find sameness, but to...",
+          "options": ["highlight subtle differences", "prove they are identical", "make the essay longer", "confuse the reader"],
+          "correct_answer": "highlight subtle differences",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 138,
+          "question": "The purpose of contrasting is not just to find differences, but to...",
+          "options": ["prove they are completely unrelated", "highlight unexpected similarities", "make one subject look bad", "create conflict"],
+          "correct_answer": "highlight unexpected similarities",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 139,
+          "question": "A 'straw man' argument in a compare/contrast essay would involve...",
+          "options": ["fairly representing both subjects", "misrepresenting one subject to make the other look better", "using a lot of evidence", "having a strong conclusion"],
+          "correct_answer": "misrepresenting one subject to make the other look better",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 140,
+          "question": "What is the key to successfully using the block method?",
+          "options": ["A strong concluding paragraph that ties the two sections together.", "Making the first section much longer than the second.", "Using different criteria for each subject.", "Never referring back to the first subject in the second section."],
+          "correct_answer": "A strong concluding paragraph that ties the two sections together.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 141,
+          "question": "A sophisticated introduction might begin with a general statement, narrow down to the subjects, and then present the...",
+          "options": ["first body paragraph", "conclusion", "thesis statement", "supporting evidence"],
+          "correct_answer": "thesis statement",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 142,
+          "question": "The 'apples and oranges' problem in compare and contrast writing refers to...",
+          "options": ["comparing two things that are too similar", "comparing two things that have no valid basis for comparison", "a type of healthy essay", "a common topic for essays"],
+          "correct_answer": "comparing two things that have no valid basis for comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 143,
+          "question": "To write an effective compare and contrast essay, you must move beyond mere description and into...",
+          "options": ["narration", "analysis", "poetry", "personal opinion"],
+          "correct_answer": "analysis",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 144,
+          "question": "A comparison that reveals the 'evolution' of an idea would be best structured...",
+          "options": ["thematically", "chronologically", "spatially", "randomly"],
+          "correct_answer": "chronologically",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 145,
+          "question": "In a formal essay, the transition 'while' is best used to...",
+          "options": ["indicate a period of time", "emphasize a contrast", "show a similarity", "start a conclusion"],
+          "correct_answer": "emphasize a contrast",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 146,
+          "question": "The conclusion of a highly effective compare/contrast essay might do what?",
+          "options": ["Introduce a third subject for comparison.", "Propose a synthesis or new understanding that arises from the comparison.", "End with a question that has no answer.", "Simply restate the introduction."],
+          "correct_answer": "Propose a synthesis or new understanding that arises from the comparison.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 147,
+          "question": "What is a 'qualitative' comparison?",
+          "options": ["A comparison based on numbers and statistics.", "A comparison based on qualities, characteristics, and interpretations.", "A comparison that is very short.", "A comparison that is biased."],
+          "correct_answer": "A comparison based on qualities, characteristics, and interpretations.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 148,
+          "question": "What is a 'quantitative' comparison?",
+          "options": ["A comparison based on numbers, data, and measurable quantities.", "A comparison based on feelings and opinions.", "A comparison that is very long.", "A comparison of quality."],
+          "correct_answer": "A comparison based on numbers, data, and measurable quantities.",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 149,
+          "question": "A sophisticated writer uses comparison and contrast not as an end in itself, but as a tool to...",
+          "options": ["make a larger point or argument", "fill the required word count", "show off their vocabulary", "confuse the reader"],
+          "correct_answer": "make a larger point or argument",
+          "grammar_type": "Compare and Contrast Writing"
+        },
+        {
+          "id": 150,
+          "question": "Choosing to compare two seemingly unrelated items can be a high-risk but high-reward strategy if you can...",
+          "options": ["prove they are actually the same", "establish a surprising but insightful basis for comparison", "make the essay very long", "use a lot of difficult words"],
+          "correct_answer": "establish a surprising but insightful basis for comparison",
+          "grammar_type": "Compare and Contrast Writing"
+        }
+      ]
+    }
+  ]
+}
+

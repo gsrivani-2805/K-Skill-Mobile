@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which figure of speech is used in 'The stars are like diamonds in the sky'?",
+          "options": ["Metaphor", "Simile", "Personification", "Hyperbole"],
+          "correct_answer": "Simile",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 2,
+          "question": "The sentence 'Her voice is music' is an example of a...",
+          "options": ["Simile", "Metaphor", "Alliteration", "Onomatopoeia"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 3,
+          "question": "What does the idiom 'It's raining cats and dogs' mean?",
+          "options": ["It is raining very heavily.", "Cats and dogs are falling from the sky.", "It is a light drizzle.", "Animals are playing in the rain."],
+          "correct_answer": "It is raining very heavily.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 4,
+          "question": "Identify the figure of speech: 'The wind whispered through the trees.'",
+          "options": ["Hyperbole", "Simile", "Personification", "Metaphor"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 5,
+          "question": "'I'm so hungry I could eat a horse.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Hyperbole", "Personification"],
+          "correct_answer": "Hyperbole",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 6,
+          "question": "The word 'buzz' in 'The bee buzzed around the flower' is an example of...",
+          "options": ["Alliteration", "Onomatopoeia", "Simile", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 7,
+          "question": "'She sells seashells by the seashore.' This sentence is a classic example of...",
+          "options": ["Personification", "Hyperbole", "Alliteration", "Simile"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 8,
+          "question": "A simile is a comparison that uses the words ______ or ______.",
+          "options": ["is, are", "like, as", "was, were", "for, and"],
+          "correct_answer": "like, as",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 9,
+          "question": "What does the idiom 'a piece of cake' mean?",
+          "options": ["Something very difficult", "A type of dessert", "Something very easy", "A small portion of food"],
+          "correct_answer": "Something very easy",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 10,
+          "question": "'The car engine coughed and sputtered.' The word 'coughed' is an example of...",
+          "options": ["Personification", "Simile", "Metaphor", "Hyperbole"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 11,
+          "question": "Which sentence contains a simile?",
+          "options": ["He is a lion in the battle.", "He is brave.", "He fought like a lion.", "The lion is brave."],
+          "correct_answer": "He fought like a lion.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 12,
+          "question": "Which sentence contains a metaphor?",
+          "options": ["The world is like a stage.", "The world is a stage.", "The stage is worldly.", "Act like you are on a stage."],
+          "correct_answer": "The world is a stage.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 13,
+          "question": "The 'hiss' of the snake is an example of...",
+          "options": ["Onomatopoeia", "Alliteration", "Personification", "Hyperbole"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 14,
+          "question": "'I've told you a million times!' This is an example of...",
+          "options": ["Metaphor", "Hyperbole", "Simile", "Alliteration"],
+          "correct_answer": "Hyperbole",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 15,
+          "question": "'Peter Piper picked a peck of pickled peppers.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Onomatopoeia", "Alliteration"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 16,
+          "question": "What does the idiom 'break a leg' mean?",
+          "options": ["To literally break a leg", "Good luck", "Bad luck", "To be clumsy"],
+          "correct_answer": "Good luck",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 17,
+          "question": "'The sun smiled down on us.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 18,
+          "question": "His feet are as big as boats. This is a...",
+          "options": ["Metaphor", "Simile", "Hyperbole", "Personification"],
+          "correct_answer": "Simile",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 19,
+          "question": "The 'bang' of the drum is an example of...",
+          "options": ["Alliteration", "Simile", "Metaphor", "Onomatopoeia"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 20,
+          "question": "Giving human qualities to an object is called...",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 21,
+          "question": "A direct comparison between two unlike things is a...",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 22,
+          "question": "What does the idiom 'hit the books' mean?",
+          "options": ["To physically hit books", "To study", "To read a story", "To buy new books"],
+          "correct_answer": "To study",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 23,
+          "question": "'He runs faster than the wind.' This is an example of...",
+          "options": ["Hyperbole", "Simile", "Metaphor", "Personification"],
+          "correct_answer": "Hyperbole",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 24,
+          "question": "'The calm lake was a mirror.' This is a...",
+          "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 25,
+          "question": "The repetition of the same starting sound in words is called...",
+          "options": ["Onomatopoeia", "Alliteration", "Simile", "Metaphor"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 26,
+          "question": "'The water plopped into the pond.' The word 'plopped' is an example of...",
+          "options": ["Simile", "Onomatopoeia", "Hyperbole", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 27,
+          "question": "'My alarm clock yells at me every morning.' This is an example of...",
+          "options": ["Personification", "Simile", "Hyperbole", "Metaphor"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 28,
+          "question": "What does the idiom 'when pigs fly' mean?",
+          "options": ["Something that will happen soon", "Something that is very likely", "Something that will never happen", "A type of farm animal"],
+          "correct_answer": "Something that will never happen",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 29,
+          "question": "'He is as strong as an ox.' This is a...",
+          "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+          "correct_answer": "Simile",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 30,
+          "question": "A huge exaggeration is called a...",
+          "options": ["Simile", "Hyperbole", "Metaphor", "Personification"],
+          "correct_answer": "Hyperbole",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 31,
+          "question": "'Crazy cats climbing curtains.' This is an example of...",
+          "options": ["Personification", "Simile", "Alliteration", "Hyperbole"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 32,
+          "question": "'The moon was a ghostly galleon tossed upon cloudy seas.' This is a...",
+          "options": ["Simile", "Metaphor", "Personification", "Onomatopoeia"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 33,
+          "question": "What does 'to be on cloud nine' mean?",
+          "options": ["To be very happy", "To be very sad", "To be high up in the sky", "To be confused"],
+          "correct_answer": "To be very happy",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 34,
+          "question": "'The thirsty ground drank the water.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 35,
+          "question": "The 'creak' of the old door is an example of...",
+          "options": ["Onomatopoeia", "Alliteration", "Simile", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 36,
+          "question": "'This bag weighs a ton!' This is an example of...",
+          "options": ["Simile", "Metaphor", "Hyperbole", "Personification"],
+          "correct_answer": "Hyperbole",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 37,
+          "question": "'She is as sweet as sugar.' This is a...",
+          "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+          "correct_answer": "Simile",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 38,
+          "question": "'Go gather the green leaves on the grass.' This is an example of...",
+          "options": ["Onomatopoeia", "Simile", "Alliteration", "Metaphor"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 39,
+          "question": "What does the idiom 'costs an arm and a leg' mean?",
+          "options": ["It is very cheap.", "It is free.", "It is very expensive.", "It requires a physical sacrifice."],
+          "correct_answer": "It is very expensive.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 40,
+          "question": "'The waves danced on the shore.' This is an example of...",
+          "options": ["Simile", "Personification", "Hyperbole", "Metaphor"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 41,
+          "question": "'His words were a soothing balm.' This is a...",
+          "options": ["Simile", "Metaphor", "Personification", "Onomatopoeia"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 42,
+          "question": "The 'tick-tock' of a clock is an example of...",
+          "options": ["Alliteration", "Onomatopoeia", "Simile", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 43,
+          "question": "'He has a heart of stone.' This is an example of a...",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 44,
+          "question": "A comparison using 'like' or 'as' is a...",
+          "options": ["Metaphor", "Simile", "Personification", "Alliteration"],
+          "correct_answer": "Simile",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 45,
+          "question": "What does the idiom 'bite the bullet' mean?",
+          "options": ["To eat something hard", "To get shot", "To face a difficult situation with courage", "To go to the dentist"],
+          "correct_answer": "To face a difficult situation with courage",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 46,
+          "question": "'The old car groaned as it climbed the hill.' This is an example of...",
+          "options": ["Personification", "Simile", "Hyperbole", "Metaphor"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 47,
+          "question": "'I walked for an eternity.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Hyperbole", "Alliteration"],
+          "correct_answer": "Hyperbole",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 48,
+          "question": "A word that imitates a sound is called...",
+          "options": ["Alliteration", "Onomatopoeia", "Simile", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 49,
+          "question": "'The river is a silver ribbon.' This is a...",
+          "options": ["Simile", "Metaphor", "Personification", "Onomatopoeia"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 50,
+          "question": "'Big bad bears bought big blue berries.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Alliteration", "Hyperbole"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Which of the following sentences contains a metaphor, not a simile?",
+          "options": ["He is as brave as a lion.", "He is a lion on the battlefield.", "His courage was like a lion's.", "He roars like a lion."],
+          "correct_answer": "He is a lion on the battlefield.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 52,
+          "question": "What does the idiom 'spill the beans' mean?",
+          "options": ["To be clumsy", "To reveal a secret", "To cook a meal", "To waste food"],
+          "correct_answer": "To reveal a secret",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 53,
+          "question": "'The ancient castle stood as a silent guardian of the past.' This sentence contains an example of...",
+          "options": ["Hyperbole", "Personification", "Onomatopoeia", "Alliteration"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 54,
+          "question": "Which sentence is the best example of alliteration?",
+          "options": ["The cat sat on the mat.", "The wind howled loudly.", "Paula planted the pretty pink poppies.", "The moon is a silver coin."],
+          "correct_answer": "Paula planted the pretty pink poppies.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 55,
+          "question": "A figure of speech where a situation is made to seem much less important than it really is, is called...",
+          "options": ["Hyperbole", "Understatement", "Personification", "Paradox"],
+          "correct_answer": "Understatement",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 56,
+          "question": "The 'rumble' of thunder and the 'patter' of rain are examples of...",
+          "options": ["Simile", "Metaphor", "Alliteration", "Onomatopoeia"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 57,
+          "question": "'The classroom was a zoo.' This metaphor suggests that the classroom was...",
+          "options": ["Quiet and orderly", "Full of animals", "Chaotic and noisy", "A place for learning"],
+          "correct_answer": "Chaotic and noisy",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 58,
+          "question": "What does the idiom 'to see eye to eye' mean?",
+          "options": ["To look at each other's eyes", "To have the same opinion; to agree", "To have good eyesight", "To disagree strongly"],
+          "correct_answer": "To have the same opinion; to agree",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 59,
+          "question": "'The curtains danced in the breeze.' What is being personified in this sentence?",
+          "options": ["The breeze", "The curtains", "The window", "The act of dancing"],
+          "correct_answer": "The curtains",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 60,
+          "question": "'His explanation was as clear as mud.' This simile is ironic and means the explanation was...",
+          "options": ["Very clear", "Very dirty", "Not clear at all", "Easy to understand"],
+          "correct_answer": "Not clear at all",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 61,
+          "question": "Which of these is the best example of hyperbole?",
+          "options": ["I am a bit tired.", "I could sleep for a year.", "I need to get some sleep.", "I slept for eight hours."],
+          "correct_answer": "I could sleep for a year.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 62,
+          "question": "What is the primary effect of alliteration in poetry and prose?",
+          "options": ["It makes the text harder to read.", "It creates a musical or rhythmic effect.", "It makes the meaning unclear.", "It is only used for children's rhymes."],
+          "correct_answer": "It creates a musical or rhythmic effect.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 63,
+          "question": "'The rusty gate complained as it opened.' The verb 'complained' is an example of...",
+          "options": ["Simile", "Metaphor", "Personification", "Onomatopoeia"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 64,
+          "question": "What does the idiom 'to have a chip on your shoulder' mean?",
+          "options": ["To carry a piece of wood", "To be holding a grudge or feeling angry about something that happened in the past", "To have a shoulder injury", "To be very happy"],
+          "correct_answer": "To be holding a grudge or feeling angry about something that happened in the past",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 65,
+          "question": "'The snow is a white blanket covering the town.' This is a metaphor that emphasizes the snow's...",
+          "options": ["Coldness", "Softness and complete coverage", "Hardness", "Wetness"],
+          "correct_answer": "Softness and complete coverage",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 66,
+          "question": "A comparison of two unlike things without using 'like' or 'as' is called a...",
+          "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 67,
+          "question": "'The silence was deafening.' This is an example of a paradox, which is a statement that seems to...",
+          "options": ["Be obviously true", "Contradict itself", "Be a question", "Be a command"],
+          "correct_answer": "Contradict itself",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 68,
+          "question": "Which sentence contains an example of onomatopoeia?",
+          "options": ["The sun was a golden ball.", "The leaves danced in the wind.", "The fire crackled in the hearth.", "She was as busy as a bee."],
+          "correct_answer": "The fire crackled in the hearth.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 69,
+          "question": "What does the idiom 'to let the cat out of the bag' mean?",
+          "options": ["To release a pet cat", "To reveal a secret accidentally", "To buy a new bag", "To be very quiet"],
+          "correct_answer": "To reveal a secret accidentally",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 70,
+          "question": "'He has the heart of a lion.' This metaphor means he is very...",
+          "options": ["Brave", "Scared", "Furry", "Big"],
+          "correct_answer": "Brave",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 71,
+          "question": "Which of these sentences contains a simile?",
+          "options": ["The clouds are cotton balls.", "The clouds drifted lazily.", "The clouds look like cotton balls.", "The clouds wept rain."],
+          "correct_answer": "The clouds look like cotton balls.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 72,
+          "question": "'The city never sleeps.' This is an example of...",
+          "options": ["Hyperbole", "Personification", "Both A and B", "Neither A nor B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 73,
+          "question": "'The horse's hooves went clippity-clop on the cobblestone street.' What is this an example of?",
+          "options": ["Alliteration", "Simile", "Onomatopoeia", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 74,
+          "question": "What does the idiom 'to be in hot water' mean?",
+          "options": ["To take a bath", "To be in a warm place", "To be in trouble", "To feel very comfortable"],
+          "correct_answer": "To be in trouble",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 75,
+          "question": "'Fear was a cold, gripping hand on his shoulder.' This sentence contains a...",
+          "options": ["Simile", "Metaphor", "Alliteration", "Onomatopoeia"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 76,
+          "question": "Which of the following is an example of alliteration?",
+          "options": ["The birds sang sweetly.", "The grass was green.", "Doubting, dreaming dreams no mortal ever dared to dream before.", "He ran like the wind."],
+          "correct_answer": "Doubting, dreaming dreams no mortal ever dared to dream before.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 77,
+          "question": "'The news of his success was a breath of fresh air.' This metaphor means the news was...",
+          "options": ["Difficult to hear", "Windy", "Welcome and refreshing", "Not important"],
+          "correct_answer": "Welcome and refreshing",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 78,
+          "question": "Which figure of speech is a form of understatement where a positive is stated by negating its opposite? E.g., 'He is not a bad singer.'",
+          "options": ["Hyperbole", "Irony", "Litotes", "Paradox"],
+          "correct_answer": "Litotes",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 79,
+          "question": "What does the idiom 'to add insult to injury' mean?",
+          "options": ["To make a bad situation even worse", "To help someone who is hurt", "To apologize for a mistake", "To be a doctor"],
+          "correct_answer": "To make a bad situation even worse",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 80,
+          "question": "'The angry storm pounded on the roof.' This is an example of...",
+          "options": ["Simile", "Personification", "Hyperbole", "Onomatopoeia"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 81,
+          "question": "'The child's eyes were stars, shining brightly.' This is an example of...",
+          "options": ["A simile", "A metaphor", "Personification", "A hyperbole"],
+          "correct_answer": "A metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 82,
+          "question": "'The old tree's branches were arms reaching for the sky.' What two things are being compared in this metaphor?",
+          "options": ["Tree and sky", "Branches and arms", "Old and new", "Reaching and sky"],
+          "correct_answer": "Branches and arms",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 83,
+          "question": "Which of these is the best example of a simile?",
+          "options": ["Her smile was the sun.", "Her smile lit up the room.", "Her smile was like the sun.", "The sun smiled."],
+          "correct_answer": "Her smile was like the sun.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 84,
+          "question": "What does the idiom 'to have cold feet' mean?",
+          "options": ["To be brave and confident", "To feel cold", "To be nervous and hesitant about doing something", "To wear winter boots"],
+          "correct_answer": "To be nervous and hesitant about doing something",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 85,
+          "question": "'He has a mountain of homework.' This hyperbole emphasizes that he has...",
+          "options": ["A small amount of homework", "Homework about mountains", "A very large amount of homework", "Easy homework"],
+          "correct_answer": "A very large amount of homework",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 86,
+          "question": "The 'murmur' of the stream is an example of...",
+          "options": ["Onomatopoeia", "Alliteration", "Simile", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 87,
+          "question": "'While I nodded, nearly napping...' is a line from Edgar Allan Poe that uses...",
+          "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+          "correct_answer": "Alliteration",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 88,
+          "question": "What is being personified in 'The camera loves her'?",
+          "options": ["The girl", "The act of loving", "The camera", "The picture"],
+          "correct_answer": "The camera",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 89,
+          "question": "What does the idiom 'to be on the same page' mean?",
+          "options": ["To be reading the same book", "To agree or have a shared understanding", "To be confused", "To be in a library"],
+          "correct_answer": "To agree or have a shared understanding",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 90,
+          "question": "'The politician's promises were a house of cards, ready to collapse.' This is a metaphor for something...",
+          "options": ["Strong and stable", "Beautiful and complex", "Poorly built and easily destroyed", "Made of paper"],
+          "correct_answer": "Poorly built and easily destroyed",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 91,
+          "question": "Which of these is a figure of speech that uses a part to represent the whole (e.g., 'all hands on deck')?",
+          "options": ["Metonymy", "Synecdoche", "Irony", "Apostrophe"],
+          "correct_answer": "Synecdoche",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 92,
+          "question": "'He worked with the speed of light to finish the project.' This is an example of...",
+          "options": ["Simile", "Metaphor", "Hyperbole", "Both A and C"],
+          "correct_answer": "Both A and C",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 93,
+          "question": "The 'whoosh' of the wind is an example of...",
+          "options": ["Onomatopoeia", "Alliteration", "Simile", "Metaphor"],
+          "correct_answer": "Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 94,
+          "question": "What does the idiom 'to jump on the bandwagon' mean?",
+          "options": ["To join a popular activity or trend", "To leave a group", "To play music in a parade", "To ride in a wagon"],
+          "correct_answer": "To join a popular activity or trend",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 95,
+          "question": "'The world's a stage, and all the men and women merely players.' This is a famous...",
+          "options": ["Simile", "Metaphor", "Personification", "Hyperbole"],
+          "correct_answer": "Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 96,
+          "question": "'The lonely lighthouse stood watch over the sea.' This sentence uses...",
+          "options": ["Simile", "Metaphor", "Personification", "Alliteration"],
+          "correct_answer": "Personification",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 97,
+          "question": "'His mind is a computer.' This metaphor suggests that his mind is...",
+          "options": ["Creative and artistic", "Slow and forgetful", "Logical and processes information quickly", "Made of metal"],
+          "correct_answer": "Logical and processes information quickly",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 98,
+          "question": "The saying 'The pen is mightier than the sword' is an example of metonymy, where 'pen' represents...",
+          "options": ["Writing and ideas", "A literal pen", "Fighting", "A type of bird"],
+          "correct_answer": "Writing and ideas",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 99,
+          "question": "What does the idiom 'to cry wolf' mean?",
+          "options": ["To be very brave", "To see a wolf", "To raise a false alarm", "To be very quiet"],
+          "correct_answer": "To raise a false alarm",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 100,
+          "question": "'The wind sang its mournful song through the old ruins.' This sentence contains...",
+          "options": ["Only a metaphor", "Only a simile", "Only personification", "Both personification and a metaphor"],
+          "correct_answer": "Both personification and a metaphor",
+          "grammar_type": "Figurative Speeches"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "In the sentence, 'The roaring traffic was a monster with a thousand hungry eyes,' what is the primary effect of the metaphor?",
+          "options": ["To describe the traffic as organized and efficient.", "To portray the traffic as something dangerous, overwhelming, and menacing.", "To suggest the traffic is alive and can see.", "To show that the traffic is moving very fast."],
+          "correct_answer": "To portray the traffic as something dangerous, overwhelming, and menacing.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 102,
+          "question": "A figure of speech in which a writer addresses an imaginary character or an abstract idea is called...",
+          "options": ["Apostrophe", "Synecdoche", "Litotes", "Paradox"],
+          "correct_answer": "Apostrophe",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 103,
+          "question": "The phrase 'friendly fire' is an example of what figure of speech, where two contradictory terms appear together?",
+          "options": ["Oxymoron", "Paradox", "Irony", "Understatement"],
+          "correct_answer": "Oxymoron",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 104,
+          "question": "What is the key difference between situational irony and dramatic irony?",
+          "options": ["Situational irony is when the opposite of what is expected happens; dramatic irony is when the audience knows something the characters do not.", "They are the same thing.", "Dramatic irony is spoken, while situational irony is not.", "Situational irony is always funny, while dramatic irony is always tragic."],
+          "correct_answer": "Situational irony is when the opposite of what is expected happens; dramatic irony is when the audience knows something the characters do not.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 105,
+          "question": "The idiom 'a Pyrrhic victory' refers to a victory that...",
+          "options": ["Is won easily", "Is achieved without any losses", "Comes at such a high cost that it is almost a defeat", "Is celebrated by everyone"],
+          "correct_answer": "Comes at such a high cost that it is almost a defeat",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 106,
+          "question": "'The child is the father of the man.' This famous line by Wordsworth is an example of a...",
+          "options": ["Simile", "Paradox", "Hyperbole", "Metaphor"],
+          "correct_answer": "Paradox",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 107,
+          "question": "Which sentence contains both personification and alliteration?",
+          "options": ["The sun is like a golden ball.", "The wild wind whistled and wept.", "The river is a snake.", "The thunder boomed loudly."],
+          "correct_answer": "The wild wind whistled and wept.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 108,
+          "question": "The idiom 'to throw down the gauntlet' means...",
+          "options": ["To surrender", "To drop a glove", "To issue a challenge", "To accept defeat"],
+          "correct_answer": "To issue a challenge",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 109,
+          "question": "What is the effect of the onomatopoeia in the line 'The silken, sad, uncertain rustling of each purple curtain'?",
+          "options": ["It creates a sense of peace and calm.", "It creates an auditory image that contributes to a suspenseful and eerie mood.", "It describes the color of the curtain.", "It makes the line difficult to understand."],
+          "correct_answer": "It creates an auditory image that contributes to a suspenseful and eerie mood.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 110,
+          "question": "A 'cliché' is an idiom or figure of speech that has been...",
+          "options": ["Newly invented", "Used only in poetry", "Overused to the point of losing its original impact", "Used only by famous writers"],
+          "correct_answer": "Overused to the point of losing its original impact",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 111,
+          "question": "'Hope is the thing with feathers / That perches in the soul.' This extended metaphor by Emily Dickinson compares hope to a...",
+          "options": ["Bird", "Soul", "Feather", "Storm"],
+          "correct_answer": "Bird",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 112,
+          "question": "The phrase 'deafening silence' is an example of an...",
+          "options": ["Oxymoron", "Simile", "Alliteration", "Understatement"],
+          "correct_answer": "Oxymoron",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 113,
+          "question": "What is the primary function of a metaphor in literature?",
+          "options": ["To state a literal fact.", "To create a vivid, imaginative comparison that reveals a deeper truth or feeling.", "To make the writing more confusing.", "To simply decorate the text."],
+          "correct_answer": "To create a vivid, imaginative comparison that reveals a deeper truth or feeling.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 114,
+          "question": "The idiom 'to read between the lines' means...",
+          "options": ["To read very carefully", "To understand the hidden or implied meaning", "To read alternate lines of text", "To be a fast reader"],
+          "correct_answer": "To understand the hidden or implied meaning",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 115,
+          "question": "In T.S. Eliot's line, 'I have measured out my life with coffee spoons,' the imagery functions as a metaphor for a life that is...",
+          "options": ["Exciting and adventurous", "Long and happy", "Cautious, mundane, and precisely controlled", "Sweet and enjoyable"],
+          "correct_answer": "Cautious, mundane, and precisely controlled",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 116,
+          "question": "Which of these is the best example of synecdoche?",
+          "options": ["The White House issued a statement.", "He is the star of the team.", "She has a lot of mouths to feed.", "The wind howled all night."],
+          "correct_answer": "She has a lot of mouths to feed.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 117,
+          "question": "When a firefighter's house burns down, it is an example of...",
+          "options": ["Dramatic Irony", "Verbal Irony", "Situational Irony", "Cosmic Irony"],
+          "correct_answer": "Situational Irony",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 118,
+          "question": "The idiom 'a Hobson's choice' refers to...",
+          "options": ["A choice between two equally good options", "A choice that is difficult to make", "A situation with many different options", "A choice that is not a real choice at all; 'take it or leave it'"],
+          "correct_answer": "A choice that is not a real choice at all; 'take it or leave it'",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 119,
+          "question": "The sentence 'The car screamed in protest as he slammed on the brakes' contains which two figures of speech?",
+          "options": ["Simile and Metaphor", "Personification and Onomatopoeia", "Alliteration and Hyperbole", "Irony and Paradox"],
+          "correct_answer": "Personification and Onomatopoeia",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 120,
+          "question": "An 'eponym' is a word derived from the name of a person, like 'sandwich' from the Earl of Sandwich. It's a type of...",
+          "options": ["Metonymy", "Synecdoche", "Allusion", "Paradox"],
+          "correct_answer": "Allusion",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 121,
+          "question": "'He was a real Romeo with the ladies.' This is an allusion to Shakespeare's character, suggesting the man is...",
+          "options": ["A great fighter", "Very tragic", "Very romantic", "From a rich family"],
+          "correct_answer": "Very romantic",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 122,
+          "question": "The phrase 'living dead' is a well-known...",
+          "options": ["Simile", "Metaphor", "Oxymoron", "Hyperbole"],
+          "correct_answer": "Oxymoron",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 123,
+          "question": "What is the primary difference between synecdoche and metonymy?",
+          "options": ["There is no difference.", "Synecdoche uses a part for a whole (or vice-versa), while metonymy uses a closely associated concept.", "Synecdoche is always about people, metonymy about places.", "Metonymy is a type of metaphor, but synecdoche is not."],
+          "correct_answer": "Synecdoche uses a part for a whole (or vice-versa), while metonymy uses a closely associated concept.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 124,
+          "question": "The idiom 'to cross the Rubicon' means...",
+          "options": ["To cross a river in Italy", "To take a vacation", "To make an irreversible decision or take a decisive step", "To retreat from a difficult situation"],
+          "correct_answer": "To make an irreversible decision or take a decisive step",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 125,
+          "question": "What is the intended effect of the hyperbole in 'The whole world was watching her perform'?",
+          "options": ["To state that every single person on Earth was watching.", "To emphasize the immense pressure and attention she was under.", "To describe the size of the television.", "To suggest that the performance was not very important."],
+          "correct_answer": "To emphasize the immense pressure and attention she was under.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 126,
+          "question": "'Oh, Death, be not proud.' This line from a poem by John Donne is a clear example of...",
+          "options": ["Apostrophe", "Simile", "Alliteration", "Onomatopoeia"],
+          "correct_answer": "Apostrophe",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 127,
+          "question": "Saying 'I'm not unhappy with the results' instead of 'I'm happy with the results' is an example of...",
+          "options": ["Hyperbole", "Litotes", "Paradox", "Metaphor"],
+          "correct_answer": "Litotes",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 128,
+          "question": "The idiom 'a wolf in sheep's clothing' refers to someone who...",
+          "options": ["Is a farmer", "Is kind and gentle", "Appears friendly but has hostile intentions", "Likes animals"],
+          "correct_answer": "Appears friendly but has hostile intentions",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 129,
+          "question": "When a character in a horror movie walks into a dark basement and the audience knows the killer is there, this creates...",
+          "options": ["Verbal Irony", "Situational Irony", "Dramatic Irony", "Cosmic Irony"],
+          "correct_answer": "Dramatic Irony",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 130,
+          "question": "'Conscience is a man's compass.' This metaphor suggests that conscience...",
+          "options": ["Is a physical object", "Helps to guide a person's moral direction", "Is always pointing north", "Can be easily lost"],
+          "correct_answer": "Helps to guide a person's moral direction",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 131,
+          "question": "The phrase 'jumbo shrimp' is an example of an...",
+          "options": ["Oxymoron", "Paradox", "Apostrophe", "Allusion"],
+          "correct_answer": "Oxymoron",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 132,
+          "question": "What does the idiom 'the elephant in the room' refer to?",
+          "options": ["A large pet", "A difficult or obvious problem that everyone is avoiding", "A piece of furniture", "A happy memory"],
+          "correct_answer": "A difficult or obvious problem that everyone is avoiding",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 133,
+          "question": "The sentence 'The sputtering tap dripped, a lonely percussion in the silent house' contains which two devices?",
+          "options": ["Alliteration and Simile", "Onomatopoeia and Metaphor", "Hyperbole and Irony", "Paradox and Personification"],
+          "correct_answer": "Onomatopoeia and Metaphor",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 134,
+          "question": "Saying 'It's a bit chilly' when it's freezing outside is an example of...",
+          "options": ["Hyperbole", "Understatement", "Paradox", "Metonymy"],
+          "correct_answer": "Understatement",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 135,
+          "question": "The idiom 'to have an axe to grind' means...",
+          "options": ["To work as a woodcutter", "To have a private, often selfish, reason for being involved in something", "To be a good musician", "To be very angry"],
+          "correct_answer": "To have a private, often selfish, reason for being involved in something",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 136,
+          "question": "Which of these is the best example of metonymy?",
+          "options": ["He bought a new set of wheels (for a car).", "The Crown has declared a new holiday (for the monarchy).", "The soldier was a lion in battle.", "I'm so tired I could sleep for a century."],
+          "correct_answer": "The Crown has declared a new holiday (for the monarchy).",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 137,
+          "question": "'The child's laughter was a babbling brook.' This metaphor creates a sense of...",
+          "options": ["Sadness and grief", "Danger and fear", "Joyful, natural, and continuous sound", "Silence"],
+          "correct_answer": "Joyful, natural, and continuous sound",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 138,
+          "question": "The phrase 'an open secret' is an example of a/an...",
+          "options": ["Paradox", "Oxymoron", "Simile", "Allusion"],
+          "correct_answer": "Oxymoron",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 139,
+          "question": "What does the idiom 'to play devil's advocate' mean?",
+          "options": ["To be evil", "To argue against a popular opinion for the sake of debate", "To be a lawyer for a criminal", "To agree with everyone"],
+          "correct_answer": "To argue against a popular opinion for the sake of debate",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 140,
+          "question": "In 'The fog comes on little cat feet,' the extended metaphor gives the fog qualities of being...",
+          "options": ["Loud and disruptive", "Fast and powerful", "Silent, stealthy, and gentle", "Cold and wet"],
+          "correct_answer": "Silent, stealthy, and gentle",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 141,
+          "question": "A pun is a play on words that relies on a word having...",
+          "options": ["Only one meaning", "Multiple meanings or sounding like another word", "A very complex meaning", "No meaning at all"],
+          "correct_answer": "Multiple meanings or sounding like another word",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 142,
+          "question": "The statement 'I must be cruel only to be kind' is a famous example of a/an...",
+          "options": ["Simile", "Paradox", "Hyperbole", "Understatement"],
+          "correct_answer": "Paradox",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 143,
+          "question": "The idiom 'to turn a blind eye' means...",
+          "options": ["To become blind", "To look carefully", "To pretend not to notice something wrong", "To help someone who is blind"],
+          "correct_answer": "To pretend not to notice something wrong",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 144,
+          "question": "What is the primary purpose of using an allusion in literature?",
+          "options": ["To confuse the reader.", "To create a connection to another work of art, history, or literature, adding a deeper layer of meaning.", "To make the text longer.", "To show off the author's knowledge."],
+          "correct_answer": "To create a connection to another work of art, history, or literature, adding a deeper layer of meaning.",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 145,
+          "question": "Verbal irony is when a speaker...",
+          "options": ["Says the opposite of what they actually mean", "Is very loud", "Doesn't know the truth", "Predicts the future"],
+          "correct_answer": "Says the opposite of what they actually mean",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 146,
+          "question": "The idiom 'a dime a dozen' refers to something that is...",
+          "options": ["Very rare and valuable", "Very common and of little value", "Very expensive", "A type of coin"],
+          "correct_answer": "Very common and of little value",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 147,
+          "question": "'My love is a red, red rose.' In this metaphor, the qualities being transferred from the rose to the love are likely...",
+          "options": ["Thorns and danger", "Beauty, sweetness, and perhaps fragility", "Green leaves and a long stem", "The fact that it grows in a garden"],
+          "correct_answer": "Beauty, sweetness, and perhaps fragility",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 148,
+          "question": "Which of these sentences contains an apostrophe (the figure of speech)?",
+          "options": ["The car's tire is flat.", "She can't come to the party.", "'O, solitude! where are the charms / That sages have seen in thy face?'", "The students' books are on the table."],
+          "correct_answer": "'O, solitude! where are the charms / That sages have seen in thy face?'",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 149,
+          "question": "The idiom 'to bite off more than you can chew' means...",
+          "options": ["To eat a very large meal", "To try to do something that is too difficult for you", "To be very hungry", "To talk a lot"],
+          "correct_answer": "To try to do something that is too difficult for you",
+          "grammar_type": "Figurative Speeches"
+        },
+        {
+          "id": 150,
+          "question": "In analyzing figurative language, the 'tenor' is the subject being described, and the 'vehicle' is the object used for comparison. In 'The Lord is my shepherd,' the tenor is ______ and the vehicle is ______.",
+          "options": ["The Lord... my", "shepherd... my", "The Lord... shepherd", "my... shepherd"],
+          "correct_answer": "The Lord... shepherd",
+          "grammar_type": "Figurative Speeches"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main purpose of an informal message?",
+          "options": ["To apply for a job", "To convey information quickly to a friend or family member", "To write a formal complaint", "To publish in a newspaper"],
+          "correct_answer": "To convey information quickly to a friend or family member",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 2,
+          "question": "Which of these is a key feature of an informal message?",
+          "options": ["It is very long and detailed.", "It is brief and to the point.", "It uses very formal language.", "It must be handwritten."],
+          "correct_answer": "It is brief and to the point.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 3,
+          "question": "What should you always include in a message?",
+          "options": ["The weather report", "The name of the person who the message is for", "A famous quote", "Your full address"],
+          "correct_answer": "The name of the person who the message is for",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 4,
+          "question": "Which of these is an appropriate salutation for an informal message to your brother, Rohan?",
+          "options": ["Respected Sir,", "To whom it may concern,", "Dear Rohan,", "Subject: Message"],
+          "correct_answer": "Dear Rohan,",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 5,
+          "question": "What is the tone of an informal message?",
+          "options": ["Strict and commanding", "Casual and friendly", "Sad and depressing", "Official and impersonal"],
+          "correct_answer": "Casual and friendly",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 6,
+          "question": "What information is usually written at the top of a message?",
+          "options": ["Sender's name", "Date and Time", "A closing remark", "The main information"],
+          "correct_answer": "Date and Time",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 7,
+          "question": "Who is the 'sender' of a message?",
+          "options": ["The person who reads the message", "The person who the message is for", "The person who writes the message", "The person who delivers the message"],
+          "correct_answer": "The person who writes the message",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 8,
+          "question": "An informal message does NOT need...",
+          "options": ["The sender's name", "A date", "A formal closing like 'Yours sincerely'", "The main content"],
+          "correct_answer": "A formal closing like 'Yours sincerely'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 9,
+          "question": "What is the most important part of a message?",
+          "options": ["The date", "The salutation", "The main information or reason for writing", "The sender's signature"],
+          "correct_answer": "The main information or reason for writing",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 10,
+          "question": "How do you end an informal message?",
+          "options": ["By writing your full formal signature", "By simply writing your first name", "With 'Yours faithfully,'", "By writing the date again"],
+          "correct_answer": "By simply writing your first name",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 11,
+          "question": "A message should be written in...",
+          "options": ["Long, complex sentences", "Short and simple sentences", "Rhyming couplets", "A different language"],
+          "correct_answer": "Short and simple sentences",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 12,
+          "question": "If your mom leaves a message for you before going to the market, who is the receiver?",
+          "options": ["Your mom", "You", "The shopkeeper", "Your dad"],
+          "correct_answer": "You",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 13,
+          "question": "What is the main difference between an informal message and a formal letter?",
+          "options": ["A message is shorter and less formal.", "A letter is shorter.", "There is no difference.", "A message is always typed."],
+          "correct_answer": "A message is shorter and less formal.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 14,
+          "question": "Why is it important to write the time on a message?",
+          "options": ["It is not important.", "To show how long it took to write.", "To let the reader know when the message was written, which can be important for urgent matters.", "To make the message look official."],
+          "correct_answer": "To let the reader know when the message was written, which can be important for urgent matters.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 15,
+          "question": "What does it mean if a message asks you to do something 'ASAP'?",
+          "options": ["As Silly As Possible", "As Soon As Possible", "As Slow As Possible", "As Simple As Possible"],
+          "correct_answer": "As Soon As Possible",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 16,
+          "question": "The body of the message should contain...",
+          "options": ["Only the most important information", "A long story", "A joke", "A poem"],
+          "correct_answer": "Only the most important information",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 17,
+          "question": "Is it okay to use contractions like 'I'm' or 'don't' in an informal message?",
+          "options": ["No, never.", "Yes, it's common in informal writing.", "Only if the message is for your parents.", "No, it is bad grammar."],
+          "correct_answer": "Yes, it's common in informal writing.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 18,
+          "question": "What is the first thing to write in a message format?",
+          "options": ["Sender's name", "Salutation", "Date", "The word 'MESSAGE'"],
+          "correct_answer": "The word 'MESSAGE'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 19,
+          "question": "A message is usually left when...",
+          "options": ["The person you want to speak to is not available.", "You have a lot of time to talk.", "You are writing a book.", "You are in a formal meeting."],
+          "correct_answer": "The person you want to speak to is not available.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 20,
+          "question": "Which of these is a typical reason for writing a message?",
+          "options": ["To publish a research paper", "To inform someone about a change of plans", "To apply for a bank loan", "To write a legal notice"],
+          "correct_answer": "To inform someone about a change of plans",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 21,
+          "question": "Where do you write the name of the sender?",
+          "options": ["At the very top", "At the bottom, after the message", "On the back of the paper", "It is not needed"],
+          "correct_answer": "At the bottom, after the message",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 22,
+          "question": "An informal message should be enclosed in a...",
+          "options": ["Box", "Circle", "Triangle", "Envelope"],
+          "correct_answer": "Box",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 23,
+          "question": "The language of the message should be...",
+          "options": ["Complex and difficult", "Clear and easy to understand", "Vague and confusing", "Poetic"],
+          "correct_answer": "Clear and easy to understand",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 24,
+          "question": "Do you need to write the receiver's address in a message?",
+          "options": ["Yes, always", "No, it's not part of the format", "Only if it's a long message", "Yes, at the bottom"],
+          "correct_answer": "No, it's not part of the format",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 25,
+          "question": "A message is a form of ___ communication.",
+          "options": ["Verbal", "Written", "Non-verbal", "Audiovisual"],
+          "correct_answer": "Written",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 26,
+          "question": "What does 'to the point' mean in message writing?",
+          "options": ["To be direct and avoid unnecessary details", "To use pointy letters", "To write a very long message", "To be rude"],
+          "correct_answer": "To be direct and avoid unnecessary details",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 27,
+          "question": "Salutation means...",
+          "options": ["Greeting", "Closing", "Main body", "Signature"],
+          "correct_answer": "Greeting",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 28,
+          "question": "A message is 'informal' because it is for...",
+          "options": ["Business colleagues", "The government", "Friends and family", "The general public"],
+          "correct_answer": "Friends and family",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 29,
+          "question": "The word count for a message is usually around...",
+          "options": ["500 words", "200 words", "50 words", "1000 words"],
+          "correct_answer": "50 words",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 30,
+          "question": "What is the main skill tested in message writing?",
+          "options": ["Your drawing skills", "Your ability to extract and present important information", "Your storytelling skills", "Your knowledge of history"],
+          "correct_answer": "Your ability to extract and present important information",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 31,
+          "question": "Which of these would you NOT find in an informal message?",
+          "options": ["Date", "Sender's name", "A subject line", "Time"],
+          "correct_answer": "A subject line",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 32,
+          "question": "If a friend calls to cancel a plan, and you have to inform your brother, what is the main point of your message?",
+          "options": ["The weather", "That the plan is cancelled", "What your friend was wearing", "The model of your friend's phone"],
+          "correct_answer": "That the plan is cancelled",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 33,
+          "question": "The salutation 'Hi Mom,' is...",
+          "options": ["Too formal", "Too informal", "Appropriate for a message", "Incorrect"],
+          "correct_answer": "Appropriate for a message",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 34,
+          "question": "Why must a message be clear?",
+          "options": ["To avoid confusion and misunderstanding", "To make it look pretty", "To make it longer", "It doesn't need to be clear"],
+          "correct_answer": "To avoid confusion and misunderstanding",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 35,
+          "question": "If you are taking a phone message for your father, who is the sender of the message you write?",
+          "options": ["Your father", "The person on the phone", "You", "Your mother"],
+          "correct_answer": "You",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 36,
+          "question": "Should you use complete sentences in a message?",
+          "options": ["No, only single words.", "Yes, it is generally best to use complete, simple sentences.", "No, that makes it too formal.", "Only if the message is sad."],
+          "correct_answer": "Yes, it is generally best to use complete, simple sentences.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 37,
+          "question": "What is the best way to write 'You should call Mr. Sharma'?",
+          "options": ["'Call Mr. Sharma.'", "'It is my humble request for you to call Mr. Sharma.'", "'You are hereby ordered to call Mr. Sharma.'", "'Maybe you can call Mr. Sharma?'"],
+          "correct_answer": "'Call Mr. Sharma.'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 38,
+          "question": "The primary medium for a traditional written message is...",
+          "options": ["A computer screen", "A note pad or a piece of paper", "A large whiteboard", "A billboard"],
+          "correct_answer": "A note pad or a piece of paper",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 39,
+          "question": "Accuracy in a message means...",
+          "options": ["Getting the information correct", "Using beautiful handwriting", "Making the message long", "Using difficult words"],
+          "correct_answer": "Getting the information correct",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 40,
+          "question": "If a message is about an appointment, what two details are most crucial?",
+          "options": ["The doctor's name and favorite color", "The time and date of the appointment", "The weather on that day", "Your name and age"],
+          "correct_answer": "The time and date of the a ppointment",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 41,
+          "question": "Do you need to sign your full name at the end of a message?",
+          "options": ["Yes, full name and surname", "No, just your first name is enough", "Yes, with a formal signature", "You don't need a name at all"],
+          "correct_answer": "No, just your first name is enough",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 42,
+          "question": "A message to your friend about homework should be...",
+          "options": ["Friendly and clear", "Strict and formal", "Very long and detailed", "Vague"],
+          "correct_answer": "Friendly and clear",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 43,
+          "question": "The heading 'MESSAGE' is written in...",
+          "options": ["Small letters", "Italics", "Capital letters", "A different color"],
+          "correct_answer": "Capital letters",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 44,
+          "question": "Brevity in message writing means...",
+          "options": ["Being brief or concise", "Being very detailed", "Being rude", "Being formal"],
+          "correct_answer": "Being brief or concise",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 45,
+          "question": "What is the very last thing you write in a message?",
+          "options": ["The date", "The salutation", "The body", "The sender's name"],
+          "correct_answer": "The sender's name",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 46,
+          "question": "A message is a substitute for...",
+          "options": ["A direct conversation", "A novel", "A newspaper article", "A school textbook"],
+          "correct_answer": "A direct conversation",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 47,
+          "question": "Should a message include greetings like 'How are you?'?",
+          "options": ["Yes, it's compulsory.", "No, you should get straight to the point to keep it brief.", "Only if you have extra space.", "Yes, to make it longer."],
+          "correct_answer": "No, you should get straight to the point to keep it brief.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 48,
+          "question": "Which of these is the most suitable language for a message?",
+          "options": ["'It has come to my attention that...'", "'Please be informed that...'", "'Dad called. He'll be late for dinner.'", "'This is to officially state that...'"],
+          "correct_answer": "'Dad called. He'll be late for dinner.'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 49,
+          "question": "If the message is urgent, what word might you add?",
+          "options": ["'Later'", "'Maybe'", "'Urgent'", "'Relax'"],
+          "correct_answer": "'Urgent'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 50,
+          "question": "The skill of message writing involves turning a conversation into...",
+          "options": ["A long essay", "A short written note", "A poem", "A drawing"],
+          "correct_answer": "A short written note",
+          "grammar_type": "Informal Message Writing"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "You receive a phone call for your sister, who is not at home. The caller, her friend, says, 'Please tell her our study session is at 5 PM at my place, not 4 PM.' What is the most crucial information to include in your message?",
+          "options": ["That her friend called.", "The change in time and location of the study session.", "That you answered the phone.", "The name of the friend."],
+          "correct_answer": "The change in time and location of the study session.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 52,
+          "question": "Why is it important to omit extra information (like 'the caller sounded happy') from a message?",
+          "options": ["It is not important.", "To keep the message concise and focused on the essential points.", "Because it's a secret.", "Because it makes the message too friendly."],
+          "correct_answer": "To keep the message concise and focused on the essential points.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 53,
+          "question": "A message format helps to...",
+          "options": ["Make the message difficult to read.", "Confuse the reader.", "Present the information clearly and ensure no key details are missed.", "Waste time."],
+          "correct_answer": "Present the information clearly and ensure no key details are missed.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 54,
+          "question": "In message writing, converting direct speech from a phone call into reported speech helps to...",
+          "options": ["Make the message longer.", "Make the message more concise.", "Make the message more formal.", "Make the message confusing."],
+          "correct_answer": "Make the message more concise.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 55,
+          "question": "What is the key difference between leaving a message and writing an SMS/text to a friend?",
+          "options": ["There is no difference.", "A traditional message has a specific format (Date, Time, Salutation, etc.) that is often not strictly followed in a casual SMS.", "An SMS is more formal.", "A message is digital, an SMS is written."],
+          "correct_answer": "A traditional message has a specific format (Date, Time, Salutation, etc.) that is often not strictly followed in a casual SMS.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 56,
+          "question": "If the original message has two points, (1) a meeting is cancelled and (2) you need to call back, how should you structure the body?",
+          "options": ["Mix them together in one sentence.", "State both points clearly, perhaps using numbers or separate sentences.", "Only mention the more important point.", "Write two separate messages."],
+          "correct_answer": "State both points clearly, perhaps using numbers or separate sentences.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 57,
+          "question": "The instruction 'Convey this message to your father' means you are the...",
+          "options": ["Receiver", "Sender of the original message", "Medium or channel", "Final destination"],
+          "correct_answer": "Medium or channel",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 58,
+          "question": "What tense is most commonly used in the body of a message conveying information from a recent phone call?",
+          "options": ["Past tense (e.g., 'Ravi called.')", "Future tense (e.g., 'Ravi will call.')", "Present continuous tense (e.g., 'Ravi is calling.')", "Present perfect tense (e.g., 'Ravi has called.')"],
+          "correct_answer": "Past tense (e.g., 'Ravi called.')",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 59,
+          "question": "If a message is left on a shared family message board, why is the salutation ('Dear Mom') particularly important?",
+          "options": ["It is not important.", "To ensure the correct person reads and acts on the message.", "To show off your handwriting.", "To follow a useless rule."],
+          "correct_answer": "To ensure the correct person reads and acts on the message.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 60,
+          "question": "When writing a message of apology (e.g., 'Sorry, I broke the vase'), what quality is most important?",
+          "options": ["Brevity", "Sincerity", "Formality", "Complexity"],
+          "correct_answer": "Sincerity",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 61,
+          "question": "A message should not include your personal opinions unless...",
+          "options": ["You feel like it.", "They are part of the information you need to convey.", "You want to confuse the reader.", "Never."],
+          "correct_answer": "They are part of the information you need to convey.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 62,
+          "question": "Why is putting the message in a box a common convention?",
+          "options": ["To make it harder to read.", "To separate it from other text on a page and draw attention to it.", "To make it look like a gift.", "Because the rules of geometry say so."],
+          "correct_answer": "To separate it from other text on a page and draw attention to it.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 63,
+          "question": "Which of these demonstrates the most concise way to write a message?",
+          "options": ["'It has come to my attention that your friend Sameer made a phone call and he wanted to tell you that the football match has been postponed.'", "'Sameer called. The football match is postponed.'", "'This message is to inform you about a postponement of the football match, as per your friend Sameer.'", "'Sameer called to inform about the football match postponement.'"],
+          "correct_answer": "'Sameer called. The football match is postponed.'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 64,
+          "question": "If no specific salutation is used, what can be inferred?",
+          "options": ["The message is very formal.", "The writer is angry.", "The context makes it obvious who the message is for.", "The message is incomplete."],
+          "correct_answer": "The context makes it obvious who the message is for.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 65,
+          "question": "What is a 'call to action' in a message?",
+          "options": ["A greeting.", "A piece of information that requires the reader to do something (e.g., 'Please call him back').", "The sender's name.", "The date and time."],
+          "correct_answer": "A piece of information that requires the reader to do something (e.g., 'Please call him back').",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 66,
+          "question": "How does the tone of an urgent message ('The pipe is leaking, call the plumber NOW!') differ from a simple informational message?",
+          "options": ["There is no difference.", "The urgent message uses words and punctuation (like capital letters or exclamation marks) to convey immediacy.", "The urgent message is longer.", "The informational message is more emotional."],
+          "correct_answer": "The urgent message uses words and punctuation (like capital letters or exclamation marks) to convey immediacy.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 67,
+          "question": "In a situation where you are relaying a message, what is your primary responsibility?",
+          "options": ["To add your own opinions.", "To deliver the original message's content accurately and clearly.", "To make the message more interesting with stories.", "To ignore the message."],
+          "correct_answer": "To deliver the original message's content accurately and clearly.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 68,
+          "question": "Omitting the salutation and closing is most common in which modern form of messaging?",
+          "options": ["Formal emails", "Business letters", "Instant messaging or texts", "Job applications"],
+          "correct_answer": "Instant messaging or texts",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 69,
+          "question": "You hear this on the phone: 'Hello, this is Mr. Gupta. Could you please tell your father that tomorrow's 9 AM meeting has been shifted to 11 AM?' Which detail is LEAST essential for the message?",
+          "options": ["Mr. Gupta was the caller.", "The meeting is tomorrow.", "The meeting time has changed from 9 AM to 11 AM.", "The fact that you said 'Hello' when you answered."],
+          "correct_answer": "The fact that you said 'Hello' when you answered.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 70,
+          "question": "The content of a message should be based on...",
+          "options": ["Your imagination", "The information given in the prompt or conversation", "A famous novel", "What you think the person wants to hear"],
+          "correct_answer": "The information given in the prompt or conversation",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 71,
+          "question": "What is the function of the sender's name at the end?",
+          "options": ["To make the message longer.", "To show who wrote the message so the reader knows who to ask for more details.", "It has no function.", "To practice your signature."],
+          "correct_answer": "To show who wrote the message so the reader knows who to ask for more details.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 72,
+          "question": "A message with a reminder should be delivered...",
+          "options": ["A week after the event", "In a timely manner, before the event", "It doesn't matter when", "A month before the event"],
+          "correct_answer": "In a timely manner, before the event",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 73,
+          "question": "Which of these messages contains a clear call to action?",
+          "options": ["'Your friend called.'", "'The weather is nice.'", "'Please bring the library book with you.'", "'Dinner is at 8 PM.'"],
+          "correct_answer": "'Please bring the library book with you.'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 74,
+          "question": "The expression 'got your message' means...",
+          "options": ["The person understood the message.", "The person received the message.", "The person liked the message.", "The person is holding the message paper."],
+          "correct_answer": "The person received the message.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 75,
+          "question": "Using bullet points or numbers in a message with multiple instructions...",
+          "options": ["Makes it confusing.", "Improves clarity and readability.", "Is too formal for a message.", "Is a waste of space."],
+          "correct_answer": "Improves clarity and readability.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 76,
+          "question": "When you write a message, you are acting as a link between the original speaker and the...",
+          "options": ["Sender", "Intended recipient", "Postman", "General public"],
+          "correct_answer": "Intended recipient",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 77,
+          "question": "A message should avoid ambiguity. Ambiguity means...",
+          "options": ["Having a clear, single meaning.", "Having more than one possible meaning, which causes confusion.", "Being very brief.", "Being very formal."],
+          "correct_answer": "Having more than one possible meaning, which causes confusion.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 78,
+          "question": "Why would you write down the caller's name in a phone message?",
+          "options": ["So the recipient knows who the information is from and can call them back if needed.", "To practice spelling their name.", "It is not necessary.", "Just to make the message longer."],
+          "correct_answer": "So the recipient knows who the information is from and can call them back if needed.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 79,
+          "question": "A message is a form of asynchronous communication. This means...",
+          "options": ["The sender and receiver communicate at the same time.", "The sender and receiver do not need to be available at the same time.", "The communication is always in sync.", "The communication is not important."],
+          "correct_answer": "The sender and receiver do not need to be available at the same time.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 80,
+          "question": "A message that says 'Your parcel has arrived' is purely...",
+          "options": ["Persuasive", "Informational", "Argumentative", "Fictional"],
+          "correct_answer": "Informational",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 81,
+          "question": "How does the context (e.g., leaving a note on the fridge vs. in an office) affect the message's tone?",
+          "options": ["It doesn't.", "A note on the fridge is usually for family and is more casual than a note for a colleague.", "A note in an office is more informal.", "The tone is always the same."],
+          "correct_answer": "A note on the fridge is usually for family and is more casual than a note for a colleague.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 82,
+          "question": "When summarizing a conversation for a message, your goal is to find the...",
+          "options": ["Funniest part", "Least important detail", "Main points and key details", "Longest sentences"],
+          "correct_answer": "Main points and key details",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 83,
+          "question": "A message with just 'Be home by 7 PM.' has an implied...",
+          "options": ["Question", "Command or instruction", "Story", "Joke"],
+          "correct_answer": "Command or instruction",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 84,
+          "question": "Which of these would be inappropriate in a standard written message for a school assignment?",
+          "options": ["Clear language", "Correct format", "Emojis and internet slang", "Sender's name"],
+          "correct_answer": "Emojis and internet slang",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 85,
+          "question": "A well-written message shows that the writer is...",
+          "options": ["Careless and disorganized", "A good listener and communicator", "Trying to be difficult", "Not interested"],
+          "correct_answer": "A good listener and communicator",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 86,
+          "question": "In the context of message writing, 'convey' means to...",
+          "options": ["Hide information", "Make information known; communicate", "Ignore information", "Change information"],
+          "correct_answer": "Make information known; communicate",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 87,
+          "question": "A message written to congratulate a friend should have a ___ tone.",
+          "options": ["Sad", "Serious", "Joyful and happy", "Angry"],
+          "correct_answer": "Joyful and happy",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 88,
+          "question": "The main constraint in message writing is usually...",
+          "options": ["The size of the paper", "The word limit", "The color of the ink", "The time of day"],
+          "correct_answer": "The word limit",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 89,
+          "question": "If you are unsure about a detail while taking a message, what should you do?",
+          "options": ["Guess the detail", "Leave the detail out", "Ask the caller to clarify or repeat the detail", "Make something up"],
+          "correct_answer": "Ask the caller to clarify or repeat the detail",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 90,
+          "question": "A message that changes a plan (e.g., meeting time) requires the writer to be extra...",
+          "options": ["Vague", "Creative", "Clear to avoid confusion", "Funny"],
+          "correct_answer": "Clear to avoid confusion",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 91,
+          "question": "Which message is the most effective? (Context: Your dad needs to pick up your brother.)",
+          "options": ["'Pick him up.'", "'Dad, please pick up Rohan from his music class at 6 PM.'", "'Someone needs picking up.'", "'Dad, Rohan needs to be picked up from music class sometime this evening.'"],
+          "correct_answer": "'Dad, please pick up Rohan from his music class at 6 PM.'",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 92,
+          "question": "The skills for writing a good message are most similar to...",
+          "options": ["Writing a novel", "Writing a summary or précis", "Writing a poem", "Writing a play"],
+          "correct_answer": "Writing a summary or précis",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 93,
+          "question": "What is wrong with this message? 'Anu called to say she can't come.'",
+          "options": ["It is too long.", "It is too formal.", "It lacks key details like who the message is for and who wrote it.", "It is perfect."],
+          "correct_answer": "It lacks key details like who the message is for and who wrote it.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 94,
+          "question": "Using indirect speech ('He said that...') instead of direct speech ('He said, \"I will...\"') makes a message...",
+          "options": ["Flow better and seem more like a summary.", "More complicated and longer.", "Less accurate.", "More dramatic."],
+          "correct_answer": "Flow better and seem more like a summary.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 95,
+          "question": "A message is a practical form of writing because it...",
+          "options": ["Is artistic.", "Serves a clear, real-world purpose.", "Is fictional.", "Is always fun to write."],
+          "correct_answer": "Serves a clear, real-world purpose.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 96,
+          "question": "The salutation in a message can sometimes be omitted if...",
+          "options": ["The writer is in a hurry.", "The message is left on a personal item, making the recipient obvious.", "The writer doesn't know the recipient's name.", "The message is very short."],
+          "correct_answer": "The message is left on a personal item, making the recipient obvious.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 97,
+          "question": "How do you convey urgency without using the word 'urgent'?",
+          "options": ["By using words like 'immediately' or 'right now'.", "It's impossible.", "By writing very slowly.", "By using a sad tone."],
+          "correct_answer": "By using words like 'immediately' or 'right now'.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 98,
+          "question": "What is the biggest risk of writing a vague message?",
+          "options": ["The recipient will understand it perfectly.", "It will cause confusion, and the required action might not be taken.", "It will be too long.", "There is no risk."],
+          "correct_answer": "It will cause confusion, and the required action might not be taken.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 99,
+          "question": "What is the key information to extract from a conversation for a message?",
+          "options": ["The background noise.", "The essential facts, instructions, or news.", "The caller's tone of voice.", "The length of the conversation."],
+          "correct_answer": "The essential facts, instructions, or news.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 100,
+          "question": "A message must be self-contained. This means...",
+          "options": ["It must be in a box.", "It should contain all the necessary information for the reader to understand it without needing more context.", "It should be kept a secret.", "It should be very short."],
+          "correct_answer": "It should contain all the necessary information for the reader to understand it without needing more context.",
+          "grammar_type": "Informal Message Writing"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "A message reads: 'Your cousin called. Something about the tickets. Said to call back.' What is the primary weakness of this message?",
+          "options": ["It is too long.", "It is too formal.", "It lacks specific, actionable information about the tickets and the cousin's name.", "It is too clear."],
+          "correct_answer": "It lacks specific, actionable information about the tickets and the cousin's name.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 102,
+          "question": "How does the intended audience (e.g., a younger sibling vs. a parent) influence the diction and syntax of a message?",
+          "options": ["It has no influence.", "A message to a sibling might use more slang and simpler sentences than a message to a parent.", "A message to a parent is always more informal.", "A message to a sibling requires more formal language."],
+          "correct_answer": "A message to a sibling might use more slang and simpler sentences than a message to a parent.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 103,
+          "question": "Critique this message: 'MESSAGE, 15/07, 4 PM. Dear Sir, It is to inform you that Mr. Sharma called. He said the package is ready. Yours faithfully, Ram.' What is the main error?",
+          "options": ["The information is unclear.", "The tone ('Dear Sir,' 'Yours faithfully,') is too formal for an informal message.", "The date and time are missing.", "The sender's name is missing."],
+          "correct_answer": "The tone ('Dear Sir,' 'Yours faithfully,') is too formal for an informal message.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 104,
+          "question": "The act of writing a message based on a phone call is primarily an exercise in...",
+          "options": ["Creative writing", "Information synthesis and summarization", "Formal correspondence", "Persuasive argument"],
+          "correct_answer": "Information synthesis and summarization",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 105,
+          "question": "How can a poorly written message lead to a negative real-world outcome?",
+          "options": ["It cannot.", "If it's ambiguous (e.g., wrong time/date), it can cause someone to miss an important appointment or event.", "By being too friendly.", "By being too brief."],
+          "correct_answer": "If it's ambiguous (e.g., wrong time/date), it can cause someone to miss an important appointment or event.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 106,
+          "question": "What is the role of 'inference' for the person writing the message?",
+          "options": ["To infer or guess the main point of a long, rambling conversation.", "To add their own imaginary details.", "To infer what the reader wants to hear.", "Inference plays no role."],
+          "correct_answer": "To infer or guess the main point of a long, rambling conversation.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 107,
+          "question": "Compare an informal message with a Twitter post. What is a key difference?",
+          "options": ["A message has a private, specific audience, while a tweet has a public, broad audience.", "A tweet is longer than a message.", "A message is always formal.", "There is no difference."],
+          "correct_answer": "A message has a private, specific audience, while a tweet has a public, broad audience.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 108,
+          "question": "A message that says, 'Your teacher called, she sounded angry,' conveys both factual information and...",
+          "options": ["A direct command", "A subjective interpretation of tone", "A formal request", "A joke"],
+          "correct_answer": "A subjective interpretation of tone",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 109,
+          "question": "The transition from handwritten notes to digital text messages has led to an increased use of...",
+          "options": ["Formal language", "Long, complex sentences", "Abbreviations, acronyms, and emojis", "The standard message format"],
+          "correct_answer": "Abbreviations, acronyms, and emojis",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 110,
+          "question": "Why is it often unnecessary to include a salutation in a text message to a close friend?",
+          "options": ["Because it is rude.", "Because the identity of the sender and receiver is already established by the phone/app.", "Because a salutation makes it too formal.", "Because text messages have a character limit."],
+          "correct_answer": "Because the identity of the sender and receiver is already established by the phone/app.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 111,
+          "question": "What is the 'pragmatics' of a message?",
+          "options": ["The grammatical structure.", "The way context contributes to meaning; the 'unwritten rules' of communication.", "The spelling and punctuation.", "The format of the message."],
+          "correct_answer": "The way context contributes to meaning; the 'unwritten rules' of communication.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 112,
+          "question": "A message that reads, 'Remember the thing we talked about? It's happening tomorrow.' relies heavily on...",
+          "options": ["Formal formatting", "Shared context and prior conversation", "Public knowledge", "The time it was written"],
+          "correct_answer": "Shared context and prior conversation",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 113,
+          "question": "In a situation with conflicting information from a caller, what is the most responsible action for the message writer?",
+          "options": ["Choose the information you like best.", "Write down both conflicting pieces of information and note the uncertainty.", "Guess which one is correct.", "Write a vague message to hide the conflict."],
+          "correct_answer": "Write down both conflicting pieces of information and note the uncertainty.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 114,
+          "question": "How does a message about a serious matter (e.g., a family emergency) differ in tone and style from a casual one?",
+          "options": ["There is no difference.", "It would likely be more direct, avoid any casual remarks, and emphasize the urgency.", "It would be more humorous to lighten the mood.", "It would be much longer and more detailed."],
+          "correct_answer": "It would likely be more direct, avoid any casual remarks, and emphasize the urgency.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 115,
+          "question": "What is an 'implied call to action'?",
+          "options": ["A direct order.", "A message that provides information so the reader can decide on the necessary action (e.g., 'The shop closes in 10 minutes').", "A message with no action needed.", "A formal request."],
+          "correct_answer": "A message that provides information so the reader can decide on the necessary action (e.g., 'The shop closes in 10 minutes').",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 116,
+          "question": "Analyze the function of conciseness in message writing beyond just saving space.",
+          "options": ["It shows disrespect for the reader.", "A concise message is quicker to read and understand, which is crucial for a busy recipient.", "Conciseness makes a message less clear.", "It has no other function."],
+          "correct_answer": "A concise message is quicker to read and understand, which is crucial for a busy recipient.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 117,
+          "question": "The phrase 'The gist of the message' refers to...",
+          "options": ["The exact wording", "The main point or essential part", "The greeting and closing", "The format"],
+          "correct_answer": "The main point or essential part",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 118,
+          "question": "A message is found with no sender's name. What is the most likely reason?",
+          "options": ["The sender has a secret identity.", "The writer forgot, or the context (handwriting, location) makes the sender's identity obvious.", "The message is from a machine.", "The sender is angry."],
+          "correct_answer": "The writer forgot, or the context (handwriting, location) makes the sender's identity obvious.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 119,
+          "question": "How has the purpose of the handwritten message evolved in an age of instant digital communication?",
+          "options": ["It is now completely obsolete.", "It is often reserved for more personal, heartfelt, or deliberate communication, where the physical object matters.", "It has become more formal.", "It has not evolved."],
+          "correct_answer": "It is often reserved for more personal, heartfelt, or deliberate communication, where the physical object matters.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 120,
+          "question": "What is the key flaw in a message that provides information but omits the source? (e.g., 'The meeting is cancelled.')",
+          "options": ["There is no flaw.", "The recipient cannot verify the information or ask for more details.", "It is too short.", "It is too informal."],
+          "correct_answer": "The recipient cannot verify the information or ask for more details.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 121,
+          "question": "Writing a message that is both brief and polite requires a balance between...",
+          "options": ["Directness and friendliness", "Formality and slang", "Long words and short words", "Facts and fiction"],
+          "correct_answer": "Directness and friendliness",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 122,
+          "question": "In a legal context, a written message could be used as evidence. This highlights the importance of...",
+          "options": ["Clarity and accuracy", "Using emojis", "Being vague", "Handwriting quality"],
+          "correct_answer": "Clarity and accuracy",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 123,
+          "question": "How does a message differ from a 'to-do list'?",
+          "options": ["They are the same.", "A message is a form of communication between people, while a to-do list is a personal organizational tool.", "A to-do list is longer.", "A message is more formal."],
+          "correct_answer": "A message is a form of communication between people, while a to-do list is a personal organizational tool.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 124,
+          "question": "A message that says 'I'll be late' is less effective than 'I'll be about 30 minutes late' because the second message...",
+          "options": ["Is longer", "Is more formal", "Provides specific, quantifiable information", "Is funnier"],
+          "correct_answer": "Provides specific, quantifiable information",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 125,
+          "question": "What is a 'meta-message'?",
+          "options": ["The written text itself.", "The underlying message communicated by how the message is delivered (e.g., a quickly scribbled note vs. a carefully written one).", "A very long message.", "A message about messages."],
+          "correct_answer": "The underlying message communicated by how the message is delivered (e.g., a quickly scribbled note vs. a carefully written one).",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 126,
+          "question": "Why is it usually inappropriate to convey very sensitive or bad news in a brief, informal message?",
+          "options": ["It's the perfect way.", "It can seem cold, uncaring, and lacks the emotional support needed for such situations.", "It's too expensive.", "The message might get lost."],
+          "correct_answer": "It can seem cold, uncaring, and lacks the emotional support needed for such situations.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 127,
+          "question": "The omission of punctuation in a modern text message can sometimes create...",
+          "options": ["Clarity", "Formality", "Ambiguity or a change in tone", "A more poetic feel"],
+          "correct_answer": "Ambiguity or a change in tone",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 128,
+          "question": "A message written for an exam requires a stricter adherence to format than a real-life message because...",
+          "options": ["It's not a real situation.", "The format is part of what is being tested.", "Real-life messages have no format.", "Exam messages need to be longer."],
+          "correct_answer": "The format is part of what is being tested.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 129,
+          "question": "What is the primary challenge when the 'message' is a set of complex directions?",
+          "options": ["Making the message long enough.", "Breaking down the steps into a clear, simple, and sequential order.", "Making the directions sound poetic.", "There is no challenge."],
+          "correct_answer": "Breaking down the steps into a clear, simple, and sequential order.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 130,
+          "question": "The effectiveness of an informal message is ultimately judged by whether...",
+          "options": ["It is written in beautiful handwriting.", "The recipient understands it and can act on it correctly.", "It is very long and detailed.", "It uses difficult vocabulary."],
+          "correct_answer": "The recipient understands it and can act on it correctly.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 131,
+          "question": "How can you diplomatically correct wrong information given by a caller in your message?",
+          "options": ["By stating the correct information and noting the caller said otherwise (e.g., 'He said 5 PM, but I think he meant the 6 PM show').", "By writing the wrong information as fact.", "By refusing to write the message.", "By calling the caller and arguing with them."],
+          "correct_answer": "By stating the correct information and noting the caller said otherwise (e.g., 'He said 5 PM, but I think he meant the 6 PM show').",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 132,
+          "question": "The phrase 'Sorry for the short notice' in a message acknowledges that...",
+          "options": ["The message is physically small.", "The writer is giving the information with very little time before an event.", "The writer is not sorry.", "The message is unimportant."],
+          "correct_answer": "The writer is giving the information with very little time before an event.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 133,
+          "question": "What is a 'chain of communication' and how does a message fit into it?",
+          "options": ["A message is the entire chain.", "A message is a link in the chain, passing information from one person to another.", "A message breaks the chain.", "It's a type of jewelry."],
+          "correct_answer": "A message is a link in the chain, passing information from one person to another.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 134,
+          "question": "A message with poor grammar and spelling can...",
+          "options": ["Improve communication.", "Have no effect on communication.", "Create a negative impression and potentially cause misunderstanding.", "Show that the writer is very intelligent."],
+          "correct_answer": "Create a negative impression and potentially cause misunderstanding.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 135,
+          "question": "How do you handle relaying a message where the caller was very emotional (e.g., angry or crying)?",
+          "options": ["Ignore the emotion and just write the facts.", "Accurately convey the facts and perhaps add a note about the urgency or tone if it's important for context (e.g., 'She sounded very upset').", "Exaggerate the emotion for dramatic effect.", "Refuse to take the message."],
+          "correct_answer": "Accurately convey the facts and perhaps add a note about the urgency or tone if it's important for context (e.g., 'She sounded very upset').",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 136,
+          "question": "What is the inherent limitation of any written message compared to a face-to-face conversation?",
+          "options": ["It is more accurate.", "The lack of immediate feedback and the inability to clarify questions in real-time.", "It is more personal.", "There are no limitations."],
+          "correct_answer": "The lack of immediate feedback and the inability to clarify questions in real-time.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 137,
+          "question": "A message to an elderly grandparent might need to be written differently from one to a peer. How?",
+          "options": ["With smaller text and more slang.", "With larger, clearer handwriting and avoiding modern slang or abbreviations they may not know.", "There is no need to change it.", "With more complex vocabulary."],
+          "correct_answer": "With larger, clearer handwriting and avoiding modern slang or abbreviations they may not know.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 138,
+          "question": "The process of decoding a message involves...",
+          "options": ["The sender writing it.", "The recipient reading and interpreting its meaning.", "Encrypting it with a secret code.", "Tearing it up."],
+          "correct_answer": "The recipient reading and interpreting its meaning.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 139,
+          "question": "What does it mean to 'read between the lines' of a message?",
+          "options": ["To check the spelling.", "To understand the implied or hidden meaning that is not explicitly stated.", "To read the lines of the paper.", "To read very slowly."],
+          "correct_answer": "To understand the implied or hidden meaning that is not explicitly stated.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 140,
+          "question": "If a message contains a phone number, what is the most important aspect?",
+          "options": ["Writing it beautifully", "Getting every single digit correct and in the right order", "Writing it very small", "Guessing the number if you're not sure"],
+          "correct_answer": "Getting every single digit correct and in the right order",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 141,
+          "question": "What is a 'confirmation message'?",
+          "options": ["A message that asks a question.", "A message sent to acknowledge receipt of information or to confirm a plan.", "A message with a lot of details.", "A message that is very confusing."],
+          "correct_answer": "A message sent to acknowledge receipt of information or to confirm a plan.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 142,
+          "question": "Why would you use bullet points in a message?",
+          "options": ["To present a list of items or instructions in a clear and easy-to-read format.", "To make the message look informal.", "To add decoration.", "To confuse the reader."],
+          "correct_answer": "To present a list of items or instructions in a clear and easy-to-read format.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 143,
+          "question": "The 'noise' in communication theory can be a metaphor for what in message writing?",
+          "options": ["Clarity and precision.", "Anything that interferes with the message's meaning, like bad handwriting, vague language, or incorrect information.", "The paper the message is written on.", "The greeting."],
+          "correct_answer": "Anything that interferes with the message's meaning, like bad handwriting, vague language, or incorrect information.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 144,
+          "question": "How can you ensure the tone of a simple message like 'Don't forget the keys' is not perceived as angry or bossy?",
+          "options": ["By adding a smiley face in a digital message or a friendly word like 'Please'.", "By using all capital letters.", "By adding five exclamation marks.", "You cannot change the tone."],
+          "correct_answer": "By adding a smiley face in a digital message or a friendly word like 'Please'.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 145,
+          "question": "When relaying a message, why is it bad practice to paraphrase too much or change the original wording significantly?",
+          "options": ["It is good practice.", "Because you might accidentally alter the core meaning or lose important details.", "Because it makes the message shorter.", "Because it makes you seem more intelligent."],
+          "correct_answer": "Because you might accidentally alter the core meaning or lose important details.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 146,
+          "question": "A message left for yourself (a self-reminder) often omits which elements?",
+          "options": ["The core information.", "Salutation and sender's name, as they are redundant.", "Date and time.", "None, the format is always the same."],
+          "correct_answer": "Salutation and sender's name, as they are redundant.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 147,
+          "question": "Analyzing a series of messages between two people can reveal...",
+          "options": ["Nothing of importance.", "The nature and evolution of their relationship.", "The weather on different days.", "The price of paper."],
+          "correct_answer": "The nature and evolution of their relationship.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 148,
+          "question": "What is the ethical implication of reading a message not intended for you?",
+          "options": ["It is a good way to stay informed.", "It is a violation of the sender's and intended recipient's privacy.", "There are no ethical implications.", "It is a sign of a caring friend."],
+          "correct_answer": "It is a violation of the sender's and intended recipient's privacy.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 149,
+          "question": "The skill of anticipating the recipient's potential questions is key to writing an effective message. This means...",
+          "options": ["Writing a very long message.", "Including all necessary details (like 'where' and 'when') so they don't have to ask.", "Writing a vague message to make them ask questions.", "Ignoring the recipient's needs."],
+          "correct_answer": "Including all necessary details (like 'where' and 'when') so they don't have to ask.",
+          "grammar_type": "Informal Message Writing"
+        },
+        {
+          "id": 150,
+          "question": "Ultimately, the shift from formal letter-writing conventions to informal messaging reflects a cultural shift towards...",
+          "options": ["Greater formality and complexity.", "Slower, more thoughtful communication.", "Speed, brevity, and informality in communication.", "The end of written communication."],
+          "correct_answer": "Speed, brevity, and informality in communication.",
+          "grammar_type": "Informal Message Writing"
+        }
+      ]
+    }
+  ]
+}
+

@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "What is the main purpose of a village announcement?",
+          "options": ["To tell a long story", "To share important information with all villagers", "To play music", "To sell products"],
+          "correct_answer": "To share important information with all villagers",
+          "grammar_type": "Village Announcements"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "Which of these is the most important piece of information in an announcement about a free health camp?",
+          "options": ["The color of the doctor's coat", "The brand of the loudspeaker", "The date, time, and location of the camp", "The weather forecast"],
+          "correct_answer": "The date, time, and location of the camp",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 3,
+          "question": "Who is the 'audience' for a village announcement?",
+          "options": ["Only the village headman", "Only the school children", "All the people living in the village", "People in the next town"],
+          "correct_answer": "All the people living in the village",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 4,
+          "question": "An announcement should be made in a ___ language.",
+          "options": ["Difficult and complex", "Foreign", "Simple and clear for everyone to understand", "Secret code"],
+          "correct_answer": "Simple and clear for everyone to understand",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 5,
+          "question": "What does 'Where?' refer to in an announcement?",
+          "options": ["The reason for the event", "The time of the event", "The location or place of the event", "The date of the event"],
+          "correct_answer": "The location or place of the event",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 6,
+          "question": "What does 'When?' refer to in an announcement?",
+          "options": ["The place of the event", "The reason for the event", "The date and time of the event", "The people involved"],
+          "correct_answer": "The date and time of the event",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 7,
+          "question": "Why is it important for an announcement to be loud and clear?",
+          "options": ["To disturb people", "So that it reaches everyone in the village", "To show the power of the speaker", "It is not important"],
+          "correct_answer": "So that it reaches everyone in the village",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 8,
+          "question": "Which of these is a likely topic for a village announcement?",
+          "options": ["International space station news", "A warning about a coming storm", "A stock market report", "A review of a new movie"],
+          "correct_answer": "A warning about a coming storm",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 9,
+          "question": "An announcement for a village meeting should clearly state the ___ of the meeting.",
+          "options": ["Color of the chairs", "Purpose or agenda", "Snacks being served", "History of meetings"],
+          "correct_answer": "Purpose or agenda",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 10,
+          "question": "The person making the announcement is called the...",
+          "options": ["Audience", "Announcer", "Villager", "Listener"],
+          "correct_answer": "Announcer",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 11,
+          "question": "What is the first thing an announcer should say to get everyone's attention?",
+          "options": ["'The end.'", "'Attention everyone!' or 'Please listen carefully!'", "'Good night.'", "Start whispering the message"],
+          "correct_answer": "'Attention everyone!' or 'Please listen carefully!'",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 12,
+          "question": "Which detail is crucial for an announcement about a lost child?",
+          "options": ["The child's favorite food", "A description of the child and where they were last seen", "The brand of the child's shoes", "The child's school grades"],
+          "correct_answer": "A description of the child and where they were last seen",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 13,
+          "question": "What is a village 'notice board' used for?",
+          "options": ["Playing games", "Displaying written announcements for everyone to read", "Drying clothes", "As a mirror"],
+          "correct_answer": "Displaying written announcements for everyone to read",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 14,
+          "question": "An announcement must be...",
+          "options": ["False and misleading", "A secret", "Truthful and accurate", "A funny story"],
+          "correct_answer": "Truthful and accurate",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 15,
+          "question": "What does 'Who?' refer to in an announcement?",
+          "options": ["The event itself", "Who should attend or who is involved", "The location", "The time"],
+          "correct_answer": "Who should attend or who is involved",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 16,
+          "question": "An announcement about a power cut should mention...",
+          "options": ["The reason for the power cut and the expected duration", "The history of electricity", "The cost of electricity", "The name of the electrician"],
+          "correct_answer": "The reason for the power cut and the expected duration",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 17,
+          "question": "Why might an announcement be repeated?",
+          "options": ["Because the announcer likes the sound of their voice", "To make sure everyone has heard and understood the information", "To waste time", "Because it's a rule"],
+          "correct_answer": "To make sure everyone has heard and understood the information",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 18,
+          "question": "Which of these is a channel for village announcements?",
+          "options": ["A personal diary", "A loudspeaker at the panchayat office", "A private phone call", "A secret letter"],
+          "correct_answer": "A loudspeaker at the panchayat office",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 19,
+          "question": "What is the tone of an announcement warning about contaminated water?",
+          "options": ["Humorous and funny", "Casual and relaxed", "Serious and urgent", "Happy and cheerful"],
+          "correct_answer": "Serious and urgent",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 20,
+          "question": "What does 'What?' refer to in an announcement?",
+          "options": ["The main event or the subject of the announcement", "The place", "The time", "The person speaking"],
+          "correct_answer": "The main event or the subject of the announcement",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 21,
+          "question": "If an announcement is for a 'vaccination drive', what is it about?",
+          "options": ["A car race", "A program to give injections for preventing diseases", "A tree-planting event", "A village fair"],
+          "correct_answer": "A program to give injections for preventing diseases",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 22,
+          "question": "Who usually makes official village announcements?",
+          "options": ["Any random child", "A tourist", "The Village Panchayat or a government official", "A shopkeeper"],
+          "correct_answer": "The Village Panchayat or a government official",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 23,
+          "question": "An announcement for a village fair should highlight the...",
+          "options": ["Sad parts", "Boring parts", "Main attractions and timings", "Rules of the school"],
+          "correct_answer": "Main attractions and timings",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 24,
+          "question": "Why is it good to end an announcement by repeating the key information?",
+          "options": ["It is not good.", "To help people remember the most important details.", "To make the announcement longer.", "To confuse people."],
+          "correct_answer": "To help people remember the most important details.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 25,
+          "question": "A 'public announcement' means it is for...",
+          "options": ["Only one person", "A private group", "Everyone in the public", "Only for animals"],
+          "correct_answer": "Everyone in the public",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 26,
+          "question": "The language used in an announcement should be respectful or rude?",
+          "options": ["Rude", "Disrespectful", "Respectful", "It doesn't matter"],
+          "correct_answer": "Respectful",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 27,
+          "question": "What is a 'town crier'?",
+          "options": ["A person who cries all day.", "An old method where a person shouts announcements in the street, often beating a drum.", "A type of bird.", "A modern loudspeaker."],
+          "correct_answer": "An old method where a person shouts announcements in the street, often beating a drum.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 28,
+          "question": "If an announcement asks for volunteers, what does it mean?",
+          "options": ["It is asking for people to pay money.", "It is asking for people to help with some work willingly.", "It is a warning.", "It is selling something."],
+          "correct_answer": "It is asking for people to help with some work willingly.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 29,
+          "question": "An announcement about a government scheme should include details on...",
+          "options": ["How to get the benefits and who is eligible.", "The personal life of the announcer.", "The history of the government.", "A funny poem."],
+          "correct_answer": "How to get the benefits and who is eligible.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 30,
+          "question": "Clarity in an announcement means it is...",
+          "options": ["Confusing", "Easy to see through", "Easy to hear and understand", "Very quiet"],
+          "correct_answer": "Easy to hear and understand",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 31,
+          "question": "What is the key information needed in an announcement about a new bus service?",
+          "options": ["The bus driver's name", "The bus timings and route", "The color of the bus seats", "The brand of the bus tires"],
+          "correct_answer": "The bus timings and route",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 32,
+          "question": "An urgent announcement should be made...",
+          "options": ["After a week", "The next day", "As soon as possible", "Never"],
+          "correct_answer": "As soon as possible",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 33,
+          "question": "Which of these is NOT a good way to make a village announcement?",
+          "options": ["Using a loudspeaker", "Putting a notice on the Panchayat board", "Whispering to one person and asking them to tell everyone", "Going door-to-door for very important news"],
+          "correct_answer": "Whispering to one person and asking them to tell everyone",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 34,
+          "question": "The greeting 'Dear villagers,' is a...",
+          "options": ["Closing", "Body", "Salutation", "Heading"],
+          "correct_answer": "Salutation",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 35,
+          "question": "An announcement should avoid using...",
+          "options": ["Simple words", "Clear voice", "Jargon and technical terms that people don't understand", "Important details"],
+          "correct_answer": "Jargon and technical terms that people don't understand",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 36,
+          "question": "A 'call to action' in an announcement tells people...",
+          "options": ["What to do", "What to think", "What to wear", "What to eat"],
+          "correct_answer": "What to do",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 37,
+          "question": "Announcements are a form of ___ communication.",
+          "options": ["One-to-many", "One-to-one", "Many-to-one", "Secret"],
+          "correct_answer": "One-to-many",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 38,
+          "question": "Which sense is most important for hearing a spoken announcement?",
+          "options": ["Sight", "Smell", "Hearing", "Touch"],
+          "correct_answer": "Hearing",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 39,
+          "question": "An announcement that is too fast is hard to...",
+          "options": ["See", "Understand", "Smell", "Touch"],
+          "correct_answer": "Understand",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 40,
+          "question": "The information in an announcement should be...",
+          "options": ["Random and disorganized", "Organized and logical", "Hidden", "In a foreign language"],
+          "correct_answer": "Organized and logical",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 41,
+          "question": "What is the purpose of an announcement about boiling drinking water during floods?",
+          "options": ["To sell water filters", "To prevent the spread of diseases", "To conduct a science experiment", "To waste cooking gas"],
+          "correct_answer": "To prevent the spread of diseases",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 42,
+          "question": "A written notice should be placed where...?",
+          "options": ["Inside a locked room", "A place where many people can see it", "Under a rock", "At the bottom of a well"],
+          "correct_answer": "A place where many people can see it",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 43,
+          "question": "What does an announcement about a 'Gram Sabha' mean?",
+          "options": ["A village party", "A village sports day", "A meeting of all the adult citizens of the village", "A school function"],
+          "correct_answer": "A meeting of all the adult citizens of the village",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 44,
+          "question": "Why should an announcer speak slowly?",
+          "options": ["To make people sleep", "So that listeners have time to process the information", "Because they are tired", "To make the announcement last longer"],
+          "correct_answer": "So that listeners have time to process the information",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 45,
+          "question": "An announcement starting with 'This is a reminder...' is for an event that...",
+          "options": ["Is new", "Has been announced before", "Has been cancelled", "Is a secret"],
+          "correct_answer": "Has been announced before",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 46,
+          "question": "What is a key detail in an announcement asking people to collect their new ration cards?",
+          "options": ["The color of the ration card", "The timings and location for collection, and documents required", "The material the card is made of", "The name of the printing press"],
+          "correct_answer": "The timings and location for collection, and documents required",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 47,
+          "question": "The 5 Ws of an announcement are What, When, Where, Who and ___.",
+          "options": ["Whistle", "Wonderful", "Why", "Wrong"],
+          "correct_answer": "Why",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 48,
+          "question": "The tone of an announcement celebrating the village's achievement should be...",
+          "options": ["Sad", "Angry", "Proud and happy", "Scary"],
+          "correct_answer": "Proud and happy",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 49,
+          "question": "An effective announcement leads to...",
+          "options": ["Confusion", "The desired action or awareness from the villagers", "No result", "Arguments"],
+          "correct_answer": "The desired action or awareness from the villagers",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 50,
+          "question": "If you miss hearing an announcement, what should you do?",
+          "options": ["Ignore it", "Ask a neighbor or check the village notice board", "Make up your own announcement", "Assume it was not important"],
+          "correct_answer": "Ask a neighbor or check the village notice board",
+          "grammar_type": "Village Announcements"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "Which of these is the most effective opening for an announcement about a lost wallet?",
+          "options": ["'Someone lost something somewhere.'", "'Attention! A brown leather wallet has been found near the village well.'", "'I have a wallet.'", "'Listen up, everyone, because I am speaking.'"],
+          "correct_answer": "'Attention! A brown leather wallet has been found near the village well.'",
+          "grammar_type": "Village Announcements"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "Why is it better to say 'The meeting will begin at 10 AM' instead of 'The meeting might begin around 10 AM'?",
+          "options": ["It is more confusing.", "It is more definite and clear, avoiding ambiguity.", "It is less polite.", "It is a longer sentence."],
+          "correct_answer": "It is more definite and clear, avoiding ambiguity.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 53,
+          "question": "What is wrong with this announcement? 'All villagers must come to the Panchayat office tomorrow.'",
+          "options": ["It is too polite.", "It is very clear.", "It is missing the 'Why' (purpose) and 'When' (time).", "Nothing is wrong."],
+          "correct_answer": "It is missing the 'Why' (purpose) and 'When' (time).",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 54,
+          "question": "A 'call to action' like 'Please bring your Aadhar card' makes an announcement...",
+          "options": ["Less effective", "More actionable and ensures people come prepared", "More confusing", "Longer for no reason"],
+          "correct_answer": "More actionable and ensures people come prepared",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 55,
+          "question": "When announcing a competition, what detail is crucial for encouraging participation?",
+          "options": ["The names of the judges", "Details about the prizes and how to register", "The history of competitions", "The color of the registration form"],
+          "correct_answer": "Details about the prizes and how to register",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 56,
+          "question": "Using local dialect or language in a village announcement can make it...",
+          "options": ["Harder for everyone to understand", "More relatable and easier for the local population to understand", "Sound very formal", "Unprofessional"],
+          "correct_answer": "More relatable and easier for the local population to understand",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 57,
+          "question": "How should an announcement about a new rule (e.g., no plastic bags) be framed?",
+          "options": ["As a suggestion that nobody needs to follow.", "By clearly stating the rule, the reason behind it, and when it starts.", "By threatening people with punishment immediately.", "By hiding the new rule in a long speech."],
+          "correct_answer": "By clearly stating the rule, the reason behind it, and when it starts.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 58,
+          "question": "If an announcement contains multiple points, how should they be ordered?",
+          "options": ["Randomly", "From least important to most important", "From most important to least important", "Alphabetically"],
+          "correct_answer": "From most important to least important",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 59,
+          "question": "What is the best medium for a very urgent warning, like a wild animal sighting?",
+          "options": ["A written notice that will be put up tomorrow", "A loudspeaker announcement made immediately", "An article in next week's newspaper", "A casual conversation"],
+          "correct_answer": "A loudspeaker announcement made immediately",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 60,
+          "question": "Which sentence is more effective for an announcement? 'It is requested that you attend.' OR 'All villagers are requested to attend.'",
+          "options": ["'It is requested that you attend.'", "'All villagers are requested to attend.' because it clearly specifies the audience.", "Both are equally effective.", "Neither is effective."],
+          "correct_answer": "'All villagers are requested to attend.' because it clearly specifies the audience.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 61,
+          "question": "What is 'feedback' in the context of an announcement?",
+          "options": ["The sound of the loudspeaker.", "Villagers asking questions or confirming they understood the message.", "The announcer's voice.", "The weather during the announcement."],
+          "correct_answer": "Villagers asking questions or confirming they understood the message.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 62,
+          "question": "Why is it important to state the source of the announcement (e.g., 'This is an announcement from the Health Department')?",
+          "options": ["It is not important.", "It adds authority and credibility to the message.", "It makes the message longer.", "It is just a formality."],
+          "correct_answer": "It adds authority and credibility to the message.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 63,
+          "question": "How can you make a written announcement on a notice board more eye-catching?",
+          "options": ["By writing in very small letters.", "By using a bold headline and clear handwriting.", "By using a color that is hard to read.", "By placing it at the very bottom of the board."],
+          "correct_answer": "By using a bold headline and clear handwriting.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 64,
+          "question": "An announcement should be structured with an opening, a body, and a ___.",
+          "options": ["Joke", "Confusing part", "Closing", "Question"],
+          "correct_answer": "Closing",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 65,
+          "question": "A closing like 'For more information, contact the Panchayat office' is useful because...",
+          "options": ["It tells people where to go if they have questions.", "It ends the announcement abruptly.", "It is a standard line with no meaning.", "It confuses people."],
+          "correct_answer": "It tells people where to go if they have questions.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 66,
+          "question": "What is the problem with using a negative tone, like 'Don't come late'?",
+          "options": ["There is no problem.", "A positive tone like 'Please be on time' is often more encouraging.", "It is too polite.", "It is not clear."],
+          "correct_answer": "A positive tone like 'Please be on time' is often more encouraging.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 67,
+          "question": "To ensure inclusivity, a written announcement in a multi-lingual village might need to be...",
+          "options": ["In a very difficult language.", "In only one language.", "Translated into the main languages spoken in the village.", "In a language nobody speaks."],
+          "correct_answer": "Translated into the main languages spoken in the village.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 68,
+          "question": "An announcement that creates panic is...",
+          "options": ["A good announcement", "An ineffective and poorly worded announcement", "A clear announcement", "A helpful announcement"],
+          "correct_answer": "An ineffective and poorly worded announcement",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 69,
+          "question": "When announcing a 'fundraiser', what information is most critical?",
+          "options": ["The personal bank account of the announcer.", "The purpose of the fundraising and how the money will be used.", "The history of fundraising.", "A sad story to make people donate."],
+          "correct_answer": "The purpose of the fundraising and how the money will be used.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 70,
+          "question": "Why would an announcer use a hand-held microphone (megaphone)?",
+          "options": ["To whisper", "To amplify their voice and be heard over a larger area", "To play music", "As a decoration"],
+          "correct_answer": "To amplify their voice and be heard over a larger area",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 71,
+          "question": "Using gestures while making a face-to-face announcement can...",
+          "options": ["Distract the audience", "Help to emphasize points and convey meaning", "Confuse people", "Make the announcer tired"],
+          "correct_answer": "Help to emphasize points and convey meaning",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 72,
+          "question": "What is the best way to structure an announcement about a village cleaning drive?",
+          "options": ["Start with the benefits of cleanliness, then give the date, time, and meeting point.", "Just shout 'Clean the village!'.", "Talk about the history of cleaning.", "Start with the date and time, then the purpose."],
+          "correct_answer": "Start with the benefits of cleanliness, then give the date, time, and meeting point.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 73,
+          "question": "An announcement that is culturally sensitive...",
+          "options": ["Respects the local traditions and beliefs of the villagers.", "Ignores local traditions.", "Makes fun of local traditions.", "Is always about culture."],
+          "correct_answer": "Respects the local traditions and beliefs of the villagers.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 74,
+          "question": "Which of these is the most persuasive call to action for a tree-planting event?",
+          "options": ["'You can plant a tree if you want.'", "'Come, let us make our village green! Join the tree-planting drive this Sunday.'", "'Planting trees is an activity.'", "'Trees are good.'"],
+          "correct_answer": "'Come, let us make our village green! Join the tree-planting drive this Sunday.'",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 75,
+          "question": "A good announcer should check that the loudspeaker or microphone is ___ before starting.",
+          "options": ["Broken", "Switched off", "Working properly", "Very quiet"],
+          "correct_answer": "Working properly",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 76,
+          "question": "To ensure deaf people are included, what is a good supplement to a spoken announcement?",
+          "options": ["Speaking louder", "A clear written notice or sign language interpreter", "Speaking faster", "Repeating the message many times"],
+          "correct_answer": "A clear written notice or sign language interpreter",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 77,
+          "question": "What is wrong with the announcement: 'A meeting about the water problem will be held soon.'?",
+          "options": ["It gives a clear purpose.", "It is too specific.", "It lacks a definite date, time, and location, making it useless.", "It is too long."],
+          "correct_answer": "It lacks a definite date, time, and location, making it useless.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 78,
+          "question": "The choice of words in an announcement can affect the ___ of the villagers.",
+          "options": ["Height", "Age", "Mood and willingness to cooperate", "Weight"],
+          "correct_answer": "Mood and willingness to cooperate",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 79,
+          "question": "Why is it important for the announcer to sound confident?",
+          "options": ["It is not important.", "A confident voice makes the message sound more credible and important.", "To show off.", "To make people scared."],
+          "correct_answer": "A confident voice makes the message sound more credible and important.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 80,
+          "question": "Which is more effective for a complex government scheme?",
+          "options": ["A very brief announcement with no details.", "An announcement followed by a public meeting where people can ask questions.", "An announcement in a language people don't speak.", "A single, confusing announcement."],
+          "correct_answer": "An announcement followed by a public meeting where people can ask questions.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 81,
+          "question": "A formal announcement often begins by stating the authority behind it, for example...",
+          "options": ["'I think we should...'", "'By order of the District Collector...'", "'My friend told me that...'", "'Once upon a time...'"],
+          "correct_answer": "'By order of the District Collector...'",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 82,
+          "question": "An announcement should be checked for ___ before being made public.",
+          "options": ["Funny stories", "Spelling mistakes and factual errors", "Difficult words", "Personal opinions"],
+          "correct_answer": "Spelling mistakes and factual errors",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 83,
+          "question": "The phrase 'All are welcome' at the end of an announcement for a cultural event makes it sound...",
+          "options": ["Exclusive and private", "Inclusive and inviting", "Boring", "Scary"],
+          "correct_answer": "Inclusive and inviting",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 84,
+          "question": "What is the best channel to announce something to farmers who are in their fields all day?",
+          "options": ["An email", "A notice inside the Panchayat office", "A mobile loudspeaker that can travel around the village", "A post on social media"],
+          "correct_answer": "A mobile loudspeaker that can travel around the village",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 85,
+          "question": "What is the problem with making an announcement during a noisy festival?",
+          "options": ["More people will hear it.", "The message may not be heard or understood clearly over the noise.", "There is no problem.", "The announcement will sound better."],
+          "correct_answer": "The message may not be heard or understood clearly over the noise.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 86,
+          "question": "How can you verify the information from a village announcement if you are unsure?",
+          "options": ["By starting a rumor", "By asking the announcer or the concerned authority, like the Panchayat.", "By assuming it is false.", "By ignoring it."],
+          "correct_answer": "By asking the announcer or the concerned authority, like the Panchayat.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 87,
+          "question": "Which announcement is better? 'Don't litter.' OR 'Let's keep our village clean. Please use the dustbins.'",
+          "options": ["'Don't litter.'", "'Let's keep our village clean. Please use the dustbins.' because it is positive and gives a solution.", "Both are equally bad.", "Both are equally good."],
+          "correct_answer": "'Let's keep our village clean. Please use the dustbins.' because it is positive and gives a solution.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 88,
+          "question": "A good written announcement uses paragraphs or bullet points to...",
+          "options": ["Confuse the reader", "Break up information and make it easier to read", "Hide the main point", "Make the notice look ugly"],
+          "correct_answer": "Break up information and make it easier to read",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 89,
+          "question": "When announcing a change of venue for an event at the last minute, what is crucial?",
+          "options": ["To make the announcement as widely and quickly as possible using multiple channels.", "To only announce it at the old venue.", "To keep it a secret.", "To announce it after the event has started."],
+          "correct_answer": "To make the announcement as widely and quickly as possible using multiple channels.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 90,
+          "question": "The credibility of an announcement depends on the credibility of the...",
+          "options": ["Listener", "Weather", "Source or announcer", "Loudspeaker"],
+          "correct_answer": "Source or announcer",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 91,
+          "question": "Why is it important to provide a contact number in some announcements?",
+          "options": ["So people can make prank calls", "So people can inquire for more details or register for an event", "It is never important", "So the announcer can get more friends"],
+          "correct_answer": "So people can inquire for more details or register for an event",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 92,
+          "question": "What is the 'grapevine' in a village context?",
+          "options": ["A type of fruit", "The official channel for announcements", "An informal way information and rumors spread from person to person", "The village notice board"],
+          "correct_answer": "An informal way information and rumors spread from person to person",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 93,
+          "question": "A clear, official announcement helps to prevent...",
+          "options": ["The spread of correct information", "The spread of rumors and misinformation from the grapevine", "People from talking to each other", "The village from developing"],
+          "correct_answer": "The spread of rumors and misinformation from the grapevine",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 94,
+          "question": "What is the best way to announce a winner of a village competition?",
+          "options": ["By whispering the winner's name.", "By first congratulating all participants, then announcing the winner's name clearly.", "By only announcing the losers.", "By making the winner a secret."],
+          "correct_answer": "By first congratulating all participants, then announcing the winner's name clearly.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 95,
+          "question": "An announcement written in all capital letters on a notice board can seem...",
+          "options": ["Polite and calm", "Like it is shouting or very urgent", "Hard to read if it's a long message", "Both B and C"],
+          "correct_answer": "Both B and C",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 96,
+          "question": "To get villagers to attend a meeting on a new farming technique, the announcement should focus on...",
+          "options": ["The scientific names of the crops", "The history of farming", "The potential benefits for the farmers, like increased income", "The personal life of the agricultural officer"],
+          "correct_answer": "The potential benefits for the farmers, like increased income",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 97,
+          "question": "The effectiveness of a village announcement can be measured by...",
+          "options": ["The loudness of the speaker", "The number of people who take the desired action or receive the information", "The length of the announcement", "The weather on that day"],
+          "correct_answer": "The number of people who take the desired action or receive the information",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 98,
+          "question": "What is a major disadvantage of only using a written notice board for announcements?",
+          "options": ["It is very expensive.", "It cannot reach people who are illiterate or have poor eyesight.", "Everyone will see it.", "It is too loud."],
+          "correct_answer": "It cannot reach people who are illiterate or have poor eyesight.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 99,
+          "question": "When announcing a public health issue, it is important to provide information without causing...",
+          "options": ["Awareness", "Unnecessary fear or panic", "Cooperation", "Cleanliness"],
+          "correct_answer": "Unnecessary fear or panic",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 100,
+          "question": "What does a 'follow-up' announcement do?",
+          "options": ["It cancels the first announcement.", "It provides updated information or reminds people about a previous announcement.", "It is on a completely different topic.", "It is the first announcement."],
+          "correct_answer": "It provides updated information or reminds people about a previous announcement.",
+          "grammar_type": "Village Announcements"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "Critique this announcement: 'Everyone should be aware that some people are getting sick. Be careful.' What is its main flaw?",
+          "options": ["It is too specific.", "It is informative and helpful.", "It is dangerously vague, lacking details on the illness, symptoms, or preventive measures, which could cause panic.", "It has a clear call to action."],
+          "correct_answer": "It is dangerously vague, lacking details on the illness, symptoms, or preventive measures, which could cause panic.",
+          "grammar_type": "Village Announcements"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "What is the most significant barrier to communication for a loudspeaker announcement made at noon in a village?",
+          "options": ["People are sleeping.", "Many villagers, especially farmers and laborers, may be away from their homes and in the fields.", "The sound travels better at noon.", "It is too bright to hear properly."],
+          "correct_answer": "Many villagers, especially farmers and laborers, may be away from their homes and in the fields.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 103,
+          "question": "When an announcement involves a sensitive community issue, what is the best first step?",
+          "options": ["Make a loud, angry announcement immediately.", "Consult with village elders and community leaders to frame the message appropriately.", "Post it on social media without any context.", "Ignore the issue completely."],
+          "correct_answer": "Consult with village elders and community leaders to frame the message appropriately.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 104,
+          "question": "A 'multi-channel' approach to an important announcement (e.g., using a loudspeaker, notice board, and health workers) is effective because...",
+          "options": ["It confuses people.", "It costs a lot of money.", "It increases the chances of reaching all sections of the population, including those missed by a single channel.", "It is the slowest method."],
+          "correct_answer": "It increases the chances of reaching all sections of the population, including those missed by a single channel.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 105,
+          "question": "How can an announcer establish trust when delivering a difficult message, like an evacuation order?",
+          "options": ["By sounding panicked and unsure.", "By speaking in a calm, authoritative voice, stating the source of the order, and clearly explaining the reason and instructions.", "By making the message very short and leaving out the reason.", "By shouting at people."],
+          "correct_answer": "By speaking in a calm, authoritative voice, stating the source of the order, and clearly explaining the reason and instructions.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 106,
+          "question": "What is the potential negative impact of an announcement that promises benefits from a new scheme but omits the eligibility criteria?",
+          "options": ["Everyone will get the benefits.", "It can create false hope and disappointment for those who are not eligible.", "It makes the announcement shorter and more effective.", "There is no negative impact."],
+          "correct_answer": "It can create false hope and disappointment for those who are not eligible.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 107,
+          "question": "How can you evaluate the effectiveness of an announcement about a new waste segregation rule?",
+          "options": ["By asking the announcer if they think it was effective.", "By observing over the next few weeks if people are actually segregating their waste.", "By measuring the loudness of the announcement.", "By assuming everyone followed the rule."],
+          "correct_answer": "By observing over the next few weeks if people are actually segregating their waste.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 108,
+          "question": "An announcement states, 'The new road will benefit the village.' How could this be made more persuasive?",
+          "options": ["By not explaining the benefits.", "By specifying the benefits, e.g., 'The new road will help our farmers reach the market faster and ensure the school bus can run even during monsoons.'", "By talking about a different road.", "By saying 'The road is good.'"],
+          "correct_answer": "By specifying the benefits, e.g., 'The new road will help our farmers reach the market faster and ensure the school bus can run even during monsoons.'",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 109,
+          "question": "In propaganda, an announcement might use emotionally charged language to manipulate public opinion. A responsible public announcement should aim to be...",
+          "options": ["Manipulative and emotional", "Objective and factual", "Vague and confusing", "Biased and one-sided"],
+          "correct_answer": "Objective and factual",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 110,
+          "question": "What is the risk of using only a modern digital channel like a WhatsApp group for a critical village announcement?",
+          "options": ["It is very fast and efficient.", "It may exclude the elderly, those without smartphones, or those with no internet access.", "It is the most inclusive method.", "There is no risk."],
+          "correct_answer": "It may exclude the elderly, those without smartphones, or those with no internet access.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 111,
+          "question": "An announcement about a temporary road closure must include what crucial piece of information for drivers?",
+          "options": ["The history of the road", "The brand of the construction equipment", "Information about alternative routes", "The names of the construction workers"],
+          "correct_answer": "Information about alternative routes",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 112,
+          "question": "Why is active voice ('The Health Department will hold a camp') generally better than passive voice ('A camp will be held by the Health Department') for announcements?",
+          "options": ["Passive voice is better.", "Active voice is more direct, clearer, and less wordy.", "Active voice is more confusing.", "It makes no difference."],
+          "correct_answer": "Active voice is more direct, clearer, and less wordy.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 113,
+          "question": "How can a village announcement be used to counter a harmful rumor?",
+          "options": ["By ignoring the rumor.", "By directly addressing the rumor, stating the facts clearly, and providing a credible source of information.", "By creating another rumor.", "By banning all announcements."],
+          "correct_answer": "By directly addressing the rumor, stating the facts clearly, and providing a credible source of information.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 114,
+          "question": "When announcing a public distribution of relief supplies, what is the most important factor to ensure fairness and order?",
+          "options": ["Announcing a clear system for distribution (e.g., by token, by family name) to prevent chaos.", "Announcing it at midnight.", "Letting people figure it out themselves.", "Giving supplies only to a few people."],
+          "correct_answer": "Announcing a clear system for distribution (e.g., by token, by family name) to prevent chaos.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 115,
+          "question": "What is 'information overload' and how can it make an announcement ineffective?",
+          "options": ["When there is too little information.", "When too much information is presented at once, causing listeners to become confused and retain nothing.", "It makes the announcement more effective.", "It is not a real concept."],
+          "correct_answer": "When too much information is presented at once, causing listeners to become confused and retain nothing.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 116,
+          "question": "What is a major challenge in making an announcement in a village with diverse dialects?",
+          "options": ["There is no challenge.", "Choosing words and a pronunciation that are widely understood across all dialects.", "Making the announcement very long.", "Using very technical terms."],
+          "correct_answer": "Choosing words and a pronunciation that are widely understood across all dialects.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 117,
+          "question": "Why might a village-level announcement be more effective than a generic national-level one on TV?",
+          "options": ["It is less effective.", "It can be tailored to the local context, language, and culture, and delivered by a trusted local figure.", "The TV announcement is always better.", "Because the village has a better loudspeaker."],
+          "correct_answer": "It can be tailored to the local context, language, and culture, and delivered by a trusted local figure.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 118,
+          "question": "An announcement ending with 'Strict action will be taken against violators' uses what kind of appeal?",
+          "options": ["An appeal to emotion", "An appeal to logic", "An appeal to fear or authority", "An appeal to humor"],
+          "correct_answer": "An appeal to fear or authority",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 119,
+          "question": "To ensure transparency, an announcement about the use of village funds should ideally include...",
+          "options": ["Vague details about spending.", "A clear breakdown of how the money was spent and the resulting work.", "No details about the money.", "A message that the funds are a secret."],
+          "correct_answer": "A clear breakdown of how the money was spent and the resulting work.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 120,
+          "question": "What is the primary risk of a delayed announcement about a contagious disease outbreak?",
+          "options": ["The disease may spread further, making containment more difficult.", "The disease will disappear on its own.", "People will be less scared.", "There is no risk."],
+          "correct_answer": "The disease may spread further, making containment more difficult.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 121,
+          "question": "If an announcement is based on a new law, the announcer has an ethical responsibility to...",
+          "options": ["Interpret the law in their own way.", "Represent the information from the law accurately without personal bias.", "Make the law sound scary.", "Tell people to ignore the law."],
+          "correct_answer": "Represent the information from the law accurately without personal bias.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 122,
+          "question": "How can the timing of an announcement be strategically chosen for maximum impact?",
+          "options": ["The timing does not matter.", "Announcing in the evening when most people are back from work can ensure a larger audience.", "Announcing at 3 AM in the morning.", "Announcing during a major festival's noisiest part."],
+          "correct_answer": "Announcing in the evening when most people are back from work can ensure a larger audience.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 123,
+          "question": "An announcement that uses a success story from a neighboring village can be more persuasive. This technique is an appeal to...",
+          "options": ["Authority", "Logic", "Social proof (if they can do it, so can we)", "Fear"],
+          "correct_answer": "Social proof (if they can do it, so can we)",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 124,
+          "question": "When a village has internal conflicts, a public announcement on a contentious issue must be worded very carefully to avoid...",
+          "options": ["Solving the conflict", "Worsening tensions or appearing to take sides", "Being clear", "Being heard"],
+          "correct_answer": "Worsening tensions or appearing to take sides",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 125,
+          "question": "What is a 'contingency plan' and why should it be part of an announcement for an outdoor event?",
+          "options": ["A plan for snacks.", "A plan for what to do in case of unforeseen problems, like rain (e.g., 'If it rains, the event will be held in the school hall').", "It should not be part of the announcement.", "A plan to cancel the event."],
+          "correct_answer": "A plan for what to do in case of unforeseen problems, like rain (e.g., 'If it rains, the event will be held in the school hall').",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 126,
+          "question": "The process of simplifying complex government circulars into a simple village announcement requires skill in...",
+          "options": ["Making things more complicated", "Communication and simplification", "Forgetting the information", "Ignoring the circular"],
+          "correct_answer": "Communication and simplification",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 127,
+          "question": "An announcement that only focuses on problems without offering any solutions or guidance can lead to...",
+          "options": ["A feeling of empowerment", "A feeling of helplessness and anxiety among villagers", "Immediate solutions", "Happiness"],
+          "correct_answer": "A feeling of helplessness and anxiety among villagers",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 128,
+          "question": "How does providing a rationale or 'why' behind a new rule (e.g., 'We are banning plastic to protect our village's water sources') affect compliance?",
+          "options": ["It has no effect.", "It can increase compliance as people are more likely to follow a rule they understand and agree with.", "It decreases compliance.", "It makes people angry."],
+          "correct_answer": "It can increase compliance as people are more likely to follow a rule they understand and agree with.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 129,
+          "question": "What is the limitation of a top-down announcement model where the village head simply dictates information?",
+          "options": ["It is the most effective model.", "It lacks community participation and feedback, which can lead to resentment or non-cooperation.", "It is very democratic.", "It ensures everyone is happy."],
+          "correct_answer": "It lacks community participation and feedback, which can lead to resentment or non-cooperation.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 130,
+          "question": "To ensure accountability, a written announcement about a new project should ideally mention...",
+          "options": ["The estimated cost and timeline", "The personal details of the announcer", "A prediction that the project will fail", "That the details are secret"],
+          "correct_answer": "The estimated cost and timeline",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 131,
+          "question": "What is the psychological principle behind repeating key information three times in an announcement?",
+          "options": ["It is based on the idea that repetition aids memory and reinforces the importance of the message.", "It is done to annoy the listeners.", "It is a random, meaningless tradition.", "It makes the information less important."],
+          "correct_answer": "It is based on the idea that repetition aids memory and reinforces the importance of the message.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 132,
+          "question": "A proactive announcement is one that...",
+          "options": ["Responds to a problem after it has happened.", "Gives information in advance to prevent a problem from happening (e.g., a pre-monsoon cleanliness drive).", "Is made by a professional.", "Is very short."],
+          "correct_answer": "Gives information in advance to prevent a problem from happening (e.g., a pre-monsoon cleanliness drive).",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 133,
+          "question": "How can you assess the 'reach' of a village announcement?",
+          "options": ["By asking the announcer.", "By conducting a quick, informal survey to see what percentage of the population heard and understood the message.", "By measuring the distance the sound traveled.", "By assuming 100% reach."],
+          "correct_answer": "By conducting a quick, informal survey to see what percentage of the population heard and understood the message.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 134,
+          "question": "An announcement written from the 'we' perspective ('Let's work together') instead of the 'you' perspective ('You must do this') fosters a sense of...",
+          "options": ["Distance and authority", "Community and shared responsibility", "Conflict", "Confusion"],
+          "correct_answer": "Community and shared responsibility",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 135,
+          "question": "In case of a disaster, what is the most critical type of information to announce first?",
+          "options": ["Information about financial aid.", "Information about immediate safety measures and evacuation routes.", "Information about rebuilding efforts.", "Information about who is to blame."],
+          "correct_answer": "Information about immediate safety measures and evacuation routes.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 136,
+          "question": "What ethical issue arises if an announcement for a private company's product is made using the official village loudspeaker?",
+          "options": ["It is a great way for the village to earn money.", "It could be a misuse of public infrastructure for private gain and may seem like an official endorsement.", "There is no ethical issue.", "It helps the villagers get good products."],
+          "correct_answer": "It could be a misuse of public infrastructure for private gain and may seem like an official endorsement.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 137,
+          "question": "What is the role of a pilot test for an announcement campaign about a complex topic like organic farming?",
+          "options": ["It is not necessary.", "Testing the message on a small group first can help identify confusing parts and improve it before the main announcement.", "A pilot test is for airplanes.", "It involves making the announcement louder."],
+          "correct_answer": "Testing the message on a small group first can help identify confusing parts and improve it before the main announcement.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 138,
+          "question": "How can you make an announcement about a new tax less unpopular?",
+          "options": ["By hiding the tax.", "By clearly explaining how the tax revenue will be used for the village's own development (e.g., better roads, clean water).", "By announcing it as a punishment.", "By using a very angry tone."],
+          "correct_answer": "By clearly explaining how the tax revenue will be used for the village's own development (e.g., better roads, clean water).",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 139,
+          "question": "A participatory approach to village announcements would involve...",
+          "options": ["The village head making all decisions alone.", "Asking villagers for their input on issues and what information they need before making announcements.", "Never making any announcements.", "Only making announcements that benefit the village head."],
+          "correct_answer": "Asking villagers for their input on issues and what information they need before making announcements.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 140,
+          "question": "What is 'semantic noise' in an announcement?",
+          "options": ["Loud sounds from the speaker.", "When the announcer uses words or jargon that the audience cannot understand.", "The echo of the announcement.", "When the announcement is too quiet."],
+          "correct_answer": "When the announcer uses words or jargon that the audience cannot understand.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 141,
+          "question": "An announcement states 'The program is for the youth.' Why is this phrasing potentially problematic?",
+          "options": ["It is very clear.", "It is vague. It should specify an age range (e.g., 'for people between 15 and 25 years old') to avoid confusion.", "It is perfect.", "It excludes old people."],
+          "correct_answer": "It is vague. It should specify an age range (e.g., 'for people between 15 and 25 years old') to avoid confusion.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 142,
+          "question": "How can traditional art forms like folk songs or street plays be used for village announcements?",
+          "options": ["They cannot be used.", "They can be a powerful and engaging way to communicate social messages (e.g., about health or education) in a memorable format.", "They are less effective than a loudspeaker.", "They are only for entertainment."],
+          "correct_answer": "They can be a powerful and engaging way to communicate social messages (e.g., about health or education) in a memorable format.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 143,
+          "question": "What is the danger of an announcement that over-promises and under-delivers?",
+          "options": ["It builds trust.", "It can lead to a loss of trust and credibility for the announcer and the village authorities.", "It makes people happy.", "There is no danger."],
+          "correct_answer": "It can lead to a loss of trust and credibility for the announcer and the village authorities.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 144,
+          "question": "In a written announcement, the use of white space (empty areas) helps to...",
+          "options": ["Waste paper", "Make the text look crowded and hard to read", "Improve readability by preventing the page from looking too cluttered", "Confuse the reader"],
+          "correct_answer": "Improve readability by preventing the page from looking too cluttered",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 145,
+          "question": "If an announcement needs to be made about a sensitive personal matter (e.g., a family quarantine), what is the most ethical approach?",
+          "options": ["Announce all personal details over a loudspeaker.", "Avoid public announcements and use a discreet, direct approach by a trusted official or health worker.", "Put a large sign on the family's door.", "Ignore the situation."],
+          "correct_answer": "Avoid public announcements and use a discreet, direct approach by a trusted official or health worker.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 146,
+          "question": "The 'call-in' model, where a phone number is provided for villagers to hear a recorded announcement, is useful because...",
+          "options": ["It is a very old method.", "It allows people to get information at their own convenience and replay it if needed.", "It is not useful at all.", "It requires everyone to have a loudspeaker."],
+          "correct_answer": "It allows people to get information at their own convenience and replay it if needed.",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 147,
+          "question": "A good announcement anticipates potential questions and...",
+          "options": ["Ignores them", "Answers them within the announcement itself", "Creates more questions", "Makes them a secret"],
+          "correct_answer": "Answers them within the announcement itself",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 148,
+          "question": "An announcement that successfully mobilizes the entire village for a common cause demonstrates the power of...",
+          "options": ["Ineffective communication", "Individualism", "Community and collective action", "Conflict"],
+          "correct_answer": "Community and collective action",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 149,
+          "question": "The final check before making an announcement should be: 'If I were a villager hearing this for the first time, would I understand...?'",
+          "options": ["The announcer's life story", "What it is about, what I need to do, when, and where", "The technical details of the microphone", "A few of the words"],
+          "correct_answer": "What it is about, what I need to do, when, and where",
+          "grammar_type": "Village Announcements"
+        },
+        {
+          "id": 150,
+          "question": "How does the 'digital divide' affect modern village announcements?",
+          "options": ["It helps everyone get information equally.", "It creates a gap where those with digital access get information instantly, while those without are left behind.", "It has no effect.", "It makes announcements fairer."],
+          "correct_answer": "It creates a gap where those with digital access get information instantly, while those without are left behind.",
+          "grammar_type": "Village Announcements"
         }
       ]
     }
   ]
 }
+

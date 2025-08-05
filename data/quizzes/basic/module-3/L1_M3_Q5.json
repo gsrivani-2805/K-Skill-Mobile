@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Every sentence has two parts: a subject and a ____.",
+          "options": ["verb", "noun", "predicate", "pronoun"],
+          "correct_answer": "predicate",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 2,
+          "question": "What is the subject in the sentence: 'The dog barks.'?",
+          "options": ["The dog", "barks", "The", "dog barks"],
+          "correct_answer": "The dog",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 3,
+          "question": "What is the predicate in the sentence: 'The dog barks.'?",
+          "options": ["The dog", "barks", "The", "dog"],
+          "correct_answer": "barks",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 4,
+          "question": "The subject of a sentence tells ____ or what the sentence is about.",
+          "options": ["when", "where", "why", "who"],
+          "correct_answer": "who",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 5,
+          "question": "Identify the subject: 'She is reading a book.'",
+          "options": ["She", "is reading", "a book", "reading a book"],
+          "correct_answer": "She",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 6,
+          "question": "Identify the predicate: 'He plays football.'",
+          "options": ["He", "plays", "football", "plays football"],
+          "correct_answer": "plays football",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 7,
+          "question": "What is the subject in 'Birds fly.'?",
+          "options": ["fly", "Birds", "Birds fly", "The birds"],
+          "correct_answer": "Birds",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 8,
+          "question": "What is the predicate in 'The sun shines.'?",
+          "options": ["The sun", "sun", "shines", "The"],
+          "correct_answer": "shines",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 9,
+          "question": "Find the subject: 'My father drives a car.'",
+          "options": ["drives a car", "a car", "drives", "My father"],
+          "correct_answer": "My father",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 10,
+          "question": "Find the predicate: 'The baby is sleeping.'",
+          "options": ["The baby", "is sleeping", "baby", "The"],
+          "correct_answer": "is sleeping",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 11,
+          "question": "Which part of the sentence is the subject in 'We love our country.'?",
+          "options": ["We", "love", "our country", "love our country"],
+          "correct_answer": "We",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 12,
+          "question": "Which part of the sentence is the predicate in 'They are playing in the park.'?",
+          "options": ["They", "are playing", "in the park", "are playing in the park"],
+          "correct_answer": "are playing in the park",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 13,
+          "question": "What is the subject? 'The girl sings a song.'",
+          "options": ["sings a song", "a song", "The girl", "sings"],
+          "correct_answer": "The girl",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 14,
+          "question": "What is the predicate? 'I eat an apple daily.'",
+          "options": ["I", "eat an apple daily", "an apple", "daily"],
+          "correct_answer": "eat an apple daily",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 15,
+          "question": "The predicate always contains the ____.",
+          "options": ["noun", "pronoun", "verb", "adjective"],
+          "correct_answer": "verb",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 16,
+          "question": "Identify the subject: 'The teacher is kind.'",
+          "options": ["The teacher", "is kind", "is", "kind"],
+          "correct_answer": "The teacher",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 17,
+          "question": "Identify the predicate: 'The cat ran away.'",
+          "options": ["The cat", "cat", "ran away", "ran"],
+          "correct_answer": "ran away",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 18,
+          "question": "Subject: 'The children'. Predicate: ?",
+          "options": ["are happy", "The", "happy", "children"],
+          "correct_answer": "are happy",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 19,
+          "question": "Predicate: 'is blue'. Subject: ?",
+          "options": ["The sky", "blue", "is", "The"],
+          "correct_answer": "The sky",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 20,
+          "question": "What is the subject in 'He is my friend.'?",
+          "options": ["He", "is", "my friend", "friend"],
+          "correct_answer": "He",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 21,
+          "question": "What is the predicate in 'Monkeys eat bananas.'?",
+          "options": ["Monkeys", "eat", "bananas", "eat bananas"],
+          "correct_answer": "eat bananas",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 22,
+          "question": "Find the subject: 'My book is on the table.'",
+          "options": ["My book", "is on the table", "on the table", "is"],
+          "correct_answer": "My book",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 23,
+          "question": "Find the predicate: 'The old man walked slowly.'",
+          "options": ["The old man", "walked", "slowly", "walked slowly"],
+          "correct_answer": "walked slowly",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 24,
+          "question": "The subject is the ____ of the action in a sentence.",
+          "options": ["receiver", "doer", "place", "time"],
+          "correct_answer": "doer",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 25,
+          "question": "Identify the subject: 'The train arrived late.'",
+          "options": ["arrived late", "late", "The train", "arrived"],
+          "correct_answer": "The train",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 26,
+          "question": "Identify the predicate: 'A big spider made a web.'",
+          "options": ["A big spider", "made a web", "a web", "made"],
+          "correct_answer": "made a web",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 27,
+          "question": "What is the subject in 'You are a good singer.'?",
+          "options": ["You", "are", "a good singer", "singer"],
+          "correct_answer": "You",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 28,
+          "question": "What is the predicate in 'The lion roared loudly.'?",
+          "options": ["The lion", "roared", "loudly", "roared loudly"],
+          "correct_answer": "roared loudly",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 29,
+          "question": "Find the subject: 'The house is beautiful.'",
+          "options": ["The house", "is", "beautiful", "is beautiful"],
+          "correct_answer": "The house",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 30,
+          "question": "Find the predicate: 'The fish swims in the pond.'",
+          "options": ["The fish", "swims", "in the pond", "swims in the pond"],
+          "correct_answer": "swims in the pond",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 31,
+          "question": "Which part is the subject? 'A little boy sat in a corner.'",
+          "options": ["A little boy", "sat in a corner", "in a corner", "sat"],
+          "correct_answer": "A little boy",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 32,
+          "question": "Which part is the predicate? 'The clever fox told a lie.'",
+          "options": ["The clever fox", "told a lie", "a lie", "told"],
+          "correct_answer": "told a lie",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 33,
+          "question": "Subject: 'It'. Predicate: ?",
+          "options": ["is raining", "It", "raining", "is"],
+          "correct_answer": "is raining",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 34,
+          "question": "Predicate: 'are playing chess'. Subject: ?",
+          "options": ["The boys", "chess", "are playing", "The"],
+          "correct_answer": "The boys",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 35,
+          "question": "What is the subject in 'My mother cooks food.'?",
+          "options": ["My mother", "cooks", "food", "cooks food"],
+          "correct_answer": "My mother",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 36,
+          "question": "What is the predicate in 'He is a brave soldier.'?",
+          "options": ["He", "is a brave soldier", "a brave soldier", "is"],
+          "correct_answer": "is a brave soldier",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 37,
+          "question": "Find the subject: 'The moon shines at night.'",
+          "options": ["The moon", "shines", "at night", "shines at night"],
+          "correct_answer": "The moon",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 38,
+          "question": "Find the predicate: 'The cow eats grass.'",
+          "options": ["The cow", "eats grass", "eats", "grass"],
+          "correct_answer": "eats grass",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 39,
+          "question": "The predicate tells what the subject ____ or is.",
+          "options": ["sees", "has", "does", "wants"],
+          "correct_answer": "does",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 40,
+          "question": "Identify the subject: 'The tall tree fell down.'",
+          "options": ["The tall tree", "fell down", "fell", "down"],
+          "correct_answer": "The tall tree",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 41,
+          "question": "Identify the predicate: 'The birds are chirping.'",
+          "options": ["The birds", "are", "chirping", "are chirping"],
+          "correct_answer": "are chirping",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 42,
+          "question": "What is the subject in 'She wrote a letter.'?",
+          "options": ["She", "wrote", "a letter", "wrote a letter"],
+          "correct_answer": "She",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 43,
+          "question": "What is the predicate in 'I can solve this puzzle.'?",
+          "options": ["I", "can solve this puzzle", "this puzzle", "can solve"],
+          "correct_answer": "can solve this puzzle",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 44,
+          "question": "Find the subject: 'That beautiful house is ours.'",
+          "options": ["That beautiful house", "is ours", "ours", "is"],
+          "correct_answer": "That beautiful house",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 45,
+          "question": "Find the predicate: 'He speaks English fluently.'",
+          "options": ["He", "speaks", "English", "speaks English fluently"],
+          "correct_answer": "speaks English fluently",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 46,
+          "question": "The subject is usually a noun or a ____.",
+          "options": ["verb", "pronoun", "adverb", "preposition"],
+          "correct_answer": "pronoun",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 47,
+          "question": "Identify the subject: 'The stars are shining brightly.'",
+          "options": ["The stars", "are shining", "brightly", "are shining brightly"],
+          "correct_answer": "The stars",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 48,
+          "question": "Identify the predicate: 'The farmer works in the field.'",
+          "options": ["The farmer", "works", "in the field", "works in the field"],
+          "correct_answer": "works in the field",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 49,
+          "question": "What is the subject in 'It is a sunny day.'?",
+          "options": ["It", "is", "a sunny day", "day"],
+          "correct_answer": "It",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 50,
+          "question": "What is the predicate in 'You should work hard.'?",
+          "options": ["You", "should work hard", "work hard", "should work"],
+          "correct_answer": "should work hard",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 51,
+          "question": "Find the subject: 'Her new dress is very nice.'",
+          "options": ["Her new dress", "is very nice", "is", "very nice"],
+          "correct_answer": "Her new dress",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 52,
+          "question": "Find the predicate: 'The players were tired.'",
+          "options": ["The players", "were tired", "were", "tired"],
+          "correct_answer": "were tired",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 53,
+          "question": "Which is the subject? 'My younger brother lives in Delhi.'",
+          "options": ["My younger brother", "lives in Delhi", "in Delhi", "lives"],
+          "correct_answer": "My younger brother",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 54,
+          "question": "Which is the predicate? 'She bought a new phone.'",
+          "options": ["She", "bought a new phone", "a new phone", "bought"],
+          "correct_answer": "bought a new phone",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 55,
+          "question": "The subject can be one word or ____ words.",
+          "options": ["never", "always", "many", "two"],
+          "correct_answer": "many",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 56,
+          "question": "Identify the subject: 'A barking dog seldom bites.'",
+          "options": ["A barking dog", "seldom bites", "bites", "A dog"],
+          "correct_answer": "A barking dog",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 57,
+          "question": "Identify the predicate: 'The child cried for milk.'",
+          "options": ["The child", "cried", "for milk", "cried for milk"],
+          "correct_answer": "cried for milk",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 58,
+          "question": "What is the subject in 'He has a good memory.'?",
+          "options": ["He", "has", "a good memory", "memory"],
+          "correct_answer": "He",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 59,
+          "question": "What is the predicate in 'The earth revolves around the sun.'?",
+          "options": ["The earth", "revolves around the sun", "around the sun", "revolves"],
+          "correct_answer": "revolves around the sun",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 60,
+          "question": "Find the subject: 'The class is very noisy.'",
+          "options": ["The class", "is", "very noisy", "is very noisy"],
+          "correct_answer": "The class",
+          "grammar_type": "Subject and Predicate"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "What is the complete subject in 'The little boy from the village won the prize.'?",
+          "options": ["The little boy", "The boy", "boy", "The little boy from the village"],
+          "correct_answer": "The little boy from the village",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 62,
+          "question": "What is the simple subject in 'The little boy from the village won the prize.'?",
+          "options": ["The little boy", "boy", "The boy", "village"],
+          "correct_answer": "boy",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 63,
+          "question": "What is the complete predicate in 'The cat slowly crept towards the mouse.'?",
+          "options": ["crept towards the mouse", "slowly crept towards the mouse", "crept", "towards the mouse"],
+          "correct_answer": "slowly crept towards the mouse",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 64,
+          "question": "What is the simple predicate (verb) in 'The cat slowly crept towards the mouse.'?",
+          "options": ["crept", "slowly crept", "crept towards", "crept towards the mouse"],
+          "correct_answer": "crept",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 65,
+          "question": "What is the subject of the command: 'Open the door.'?",
+          "options": ["The door", "Open", "(You)", "There is no subject"],
+          "correct_answer": "(You)",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 66,
+          "question": "Identify the compound subject: 'Ram and Shyam are brothers.'",
+          "options": ["Ram", "Shyam", "brothers", "Ram and Shyam"],
+          "correct_answer": "Ram and Shyam",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 67,
+          "question": "Identify the compound predicate: 'She sang and danced at the party.'",
+          "options": ["sang", "danced", "sang and danced", "at the party"],
+          "correct_answer": "sang and danced",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 68,
+          "question": "What is the subject in 'Here comes the bus.'?",
+          "options": ["Here", "comes", "the bus", "bus"],
+          "correct_answer": "the bus",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 69,
+          "question": "What is the subject in 'There are many students in the class.'?",
+          "options": ["There", "are", "many students", "class"],
+          "correct_answer": "many students",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 70,
+          "question": "What is the simple subject in 'My favourite blue shirt is in the cupboard.'?",
+          "options": ["My favourite blue shirt", "shirt", "blue shirt", "cupboard"],
+          "correct_answer": "shirt",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 71,
+          "question": "What is the simple predicate in 'The team will play the final match tomorrow.'?",
+          "options": ["will play", "play", "will play the final match", "will play tomorrow"],
+          "correct_answer": "will play",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 72,
+          "question": "Identify the subject: 'On the table lay a beautiful book.'",
+          "options": ["On the table", "table", "a beautiful book", "lay"],
+          "correct_answer": "a beautiful book",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 73,
+          "question": "Identify the predicate: 'The man with the red hat smiled at me.'",
+          "options": ["The man", "The man with the red hat", "smiled", "smiled at me"],
+          "correct_answer": "smiled at me",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 74,
+          "question": "What is the subject in the command: 'Please be quiet.'?",
+          "options": ["Please", "be quiet", "(You)", "There is no subject"],
+          "correct_answer": "(You)",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 75,
+          "question": "Find the compound subject: 'The teacher and the students went on a trip.'",
+          "options": ["The teacher", "the students", "The teacher and the students", "a trip"],
+          "correct_answer": "The teacher and the students",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 76,
+          "question": "Find the compound predicate: 'He tripped and fell down.'",
+          "options": ["tripped", "fell down", "tripped and fell", "tripped and fell down"],
+          "correct_answer": "tripped and fell down",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 77,
+          "question": "What is the subject? 'Out of the jungle came a tiger.'",
+          "options": ["Out of the jungle", "jungle", "came", "a tiger"],
+          "correct_answer": "a tiger",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 78,
+          "question": "What is the complete subject in 'All the students in my class are hard-working.'?",
+          "options": ["All the students", "students", "All the students in my class", "my class"],
+          "correct_answer": "All the students in my class",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 79,
+          "question": "What is the complete predicate in 'My younger sister likes to draw pictures.'?",
+          "options": ["likes to draw pictures", "likes", "likes to draw", "draw pictures"],
+          "correct_answer": "likes to draw pictures",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 80,
+          "question": "Identify the subject: 'Into the room ran the little child.'",
+          "options": ["Into the room", "ran", "the little child", "room"],
+          "correct_answer": "the little child",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 81,
+          "question": "My father and mother ____ doctors.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 82,
+          "question": "The horse and carriage ____ at the door.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 83,
+          "question": "What is the simple subject in 'The hungry, grey cat jumped on the wall.'?",
+          "options": ["The hungry, grey cat", "cat", "The cat", "wall"],
+          "correct_answer": "cat",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 84,
+          "question": "What is the simple predicate (verb) in 'She has been working since morning.'?",
+          "options": ["has been working", "working", "has been", "been working"],
+          "correct_answer": "has been working",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 85,
+          "question": "Find the subject: 'Behind the tree was hiding a small rabbit.'",
+          "options": ["Behind the tree", "tree", "was hiding", "a small rabbit"],
+          "correct_answer": "a small rabbit",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 86,
+          "question": "The subject of a command sentence is always ____.",
+          "options": ["I", "He", "She", "You"],
+          "correct_answer": "You",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 87,
+          "question": "Find the compound predicate: 'The dog wagged its tail and barked happily.'",
+          "options": ["wagged its tail", "barked happily", "wagged its tail and barked happily", "wagged and barked"],
+          "correct_answer": "wagged its tail and barked happily",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 88,
+          "question": "What is the subject? 'There goes my hero.'",
+          "options": ["There", "goes", "my hero", "hero"],
+          "correct_answer": "my hero",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 89,
+          "question": "What is the complete subject? 'The book on the top shelf belongs to me.'",
+          "options": ["The book", "The book on the top shelf", "book", "shelf"],
+          "correct_answer": "The book on the top shelf",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 90,
+          "question": "What is the complete predicate? 'The players of our team tried very hard.'",
+          "options": ["tried very hard", "tried", "very hard", "The players"],
+          "correct_answer": "tried very hard",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 91,
+          "question": "In the sentence 'Stop talking!', what is the subject?",
+          "options": ["Stop", "talking", "(You)", "No subject"],
+          "correct_answer": "(You)",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 92,
+          "question": "The birds and the bees ____ flying around.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 93,
+          "question": "What is the subject? 'Under the bridge lived an old man.'",
+          "options": ["Under the bridge", "bridge", "an old man", "lived"],
+          "correct_answer": "an old man",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 94,
+          "question": "What is the simple subject? 'Several of the paintings were missing.'",
+          "options": ["Several", "paintings", "Several of the paintings", "missing"],
+          "correct_answer": "Several",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 95,
+          "question": "What is the simple predicate? 'The children have been playing for hours.'",
+          "options": ["have been playing", "playing", "have been", "for hours"],
+          "correct_answer": "have been playing",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 96,
+          "question": "Identify the compound subject: 'Either the students or the teacher has the book.'",
+          "options": ["students", "teacher", "the students or the teacher", "the book"],
+          "correct_answer": "the students or the teacher",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 97,
+          "question": "Identify the compound predicate: 'He will either go to the market or stay at home.'",
+          "options": ["go to the market", "stay at home", "will either go or stay", "either go to the market or stay at home"],
+          "correct_answer": "either go to the market or stay at home",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 98,
+          "question": "What is the subject? 'Across the river is a small village.'",
+          "options": ["Across the river", "river", "is", "a small village"],
+          "correct_answer": "a small village",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 99,
+          "question": "The complete subject includes the simple subject and all the words that ____ it.",
+          "options": ["come after", "describe", "replace", "are verbs for"],
+          "correct_answer": "describe",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 100,
+          "question": "The complete predicate includes the verb and all the words that ____ the verb.",
+          "options": ["come before", "modify", "are nouns for", "describe the subject of"],
+          "correct_answer": "modify",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 101,
+          "question": "Find the subject: 'Around the corner came the police car.'",
+          "options": ["Around the corner", "came", "the police car", "police car"],
+          "correct_answer": "the police car",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 102,
+          "question": "Identify the simple subject in 'The high-speed train from Mumbai has arrived.'",
+          "options": ["The high-speed train", "train", "Mumbai", "The train"],
+          "correct_answer": "train",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 103,
+          "question": "What is the subject of the sentence: 'Don't make a noise.'?",
+          "options": ["noise", "make", "(You)", "Don't"],
+          "correct_answer": "(You)",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 104,
+          "question": "Slow and steady ____ the race.",
+          "options": ["win", "wins", "are winning", "have won"],
+          "correct_answer": "wins",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 105,
+          "question": "Find the compound predicate: 'We studied for the test and passed with good marks.'",
+          "options": ["studied and passed", "studied for the test", "passed with good marks", "studied for the test and passed with good marks"],
+          "correct_answer": "studied for the test and passed with good marks",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 106,
+          "question": "What is the subject in 'There is a book on the desk.'?",
+          "options": ["There", "is", "a book", "desk"],
+          "correct_answer": "a book",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 107,
+          "question": "The complete subject is the who or what part of the sentence, including all ____.",
+          "options": ["verbs", "modifiers", "predicates", "conjunctions"],
+          "correct_answer": "modifiers",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 108,
+          "question": "What is the simple predicate in 'The dog should not have chewed the shoe.'?",
+          "options": ["should not have chewed", "chewed", "should have chewed", "have chewed"],
+          "correct_answer": "should not have chewed",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 109,
+          "question": "Find the subject: 'Down the street lived the doctor.'",
+          "options": ["Down the street", "street", "lived", "the doctor"],
+          "correct_answer": "the doctor",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 110,
+          "question": "Identify the compound subject: 'Lions and tigers are wild animals.'",
+          "options": ["Lions", "tigers", "Lions and tigers", "wild animals"],
+          "correct_answer": "Lions and tigers",
+          "grammar_type": "Subject and Predicate"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "What is the subject in the question: 'Are you coming to the party?'",
+          "options": ["Are", "you", "coming", "the party"],
+          "correct_answer": "you",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 112,
+          "question": "Identify the subject of the sentence: 'To swim in the ocean is his greatest joy.'",
+          "options": ["To swim", "To swim in the ocean", "ocean", "his greatest joy"],
+          "correct_answer": "To swim in the ocean",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 113,
+          "question": "Identify the subject of the sentence: 'Reading books makes you knowledgeable.'",
+          "options": ["Reading", "Reading books", "books", "You"],
+          "correct_answer": "Reading books",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 114,
+          "question": "What is the simple subject in 'The man whom you met yesterday is my uncle.'?",
+          "options": ["The man", "man", "whom", "uncle"],
+          "correct_answer": "man",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 115,
+          "question": "What is the complete predicate in 'The car that he bought last week broke down.'?",
+          "options": ["that he bought last week broke down", "broke down", "the car that he bought last week", "bought last week broke down"],
+          "correct_answer": "broke down",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 116,
+          "question": "What is the subject in the question: 'Where did he go?'",
+          "options": ["Where", "did go", "he", "go"],
+          "correct_answer": "he",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 117,
+          "question": "Neither the players nor the coach ____ happy with the result.",
+          "options": ["was", "were", "are", "be"],
+          "correct_answer": "was",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 118,
+          "question": "Identify the subject: 'What he said is not true.'",
+          "options": ["he", "What he said", "What", "true"],
+          "correct_answer": "What he said",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 119,
+          "question": "The jury ____ given its verdict.",
+          "options": ["has", "have", "are", "were"],
+          "correct_answer": "has",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 120,
+          "question": "What is the subject in 'When will the train arrive?'",
+          "options": ["When", "will arrive", "the train", "arrive"],
+          "correct_answer": "the train",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 121,
+          "question": "Identify the subject: 'That he will win is certain.'",
+          "options": ["he", "That", "That he will win", "certain"],
+          "correct_answer": "That he will win",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 122,
+          "question": "The man who is wearing a blue shirt ____ my brother.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 123,
+          "question": "Identify the subject: 'Never have I seen such a mess.'",
+          "options": ["Never", "I", "seen", "a mess"],
+          "correct_answer": "I",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 124,
+          "question": "The poet and philosopher ____ dead.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 125,
+          "question": "What is the subject in 'Why are they shouting?'",
+          "options": ["Why", "are shouting", "they", "shouting"],
+          "correct_answer": "they",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 126,
+          "question": "Each of the boys ____ given a prize.",
+          "options": ["was", "were", "are", "have been"],
+          "correct_answer": "was",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 127,
+          "question": "Identify the subject: 'Helping others gives me joy.'",
+          "options": ["Helping", "Helping others", "others", "me"],
+          "correct_answer": "Helping others",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 128,
+          "question": "The quality of these mangoes ____ not good.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 129,
+          "question": "What is the subject in 'Did she finish her homework?'",
+          "options": ["Did", "she", "finish", "her homework"],
+          "correct_answer": "she",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 130,
+          "question": "To forgive is divine. What is the subject?",
+          "options": ["To forgive", "forgive", "is", "divine"],
+          "correct_answer": "To forgive",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 131,
+          "question": "One of my friends ____ gone to Canada.",
+          "options": ["has", "have", "are", "were"],
+          "correct_answer": "has",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 132,
+          "question": "Identify the subject: 'Hardly had I reached the station when the train left.'",
+          "options": ["Hardly", "I", "the station", "the train"],
+          "correct_answer": "I",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 133,
+          "question": "The committee ____ divided in their opinions.",
+          "options": ["is", "was", "are", "has"],
+          "correct_answer": "are",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 134,
+          "question": "What is the subject in 'How did you solve the problem?'",
+          "options": ["How", "you", "solve", "the problem"],
+          "correct_answer": "you",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 135,
+          "question": "The subject of this sentence is a gerund phrase: 'Running every morning keeps him fit.' What is it?",
+          "options": ["Running", "Running every morning", "morning", "him"],
+          "correct_answer": "Running every morning",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 136,
+          "question": "The number of students in the class ____ forty.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 137,
+          "question": "Identify the subject: 'Seldom does he visit his parents.'",
+          "options": ["Seldom", "does visit", "he", "his parents"],
+          "correct_answer": "he",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 138,
+          "question": "A number of students ____ waiting outside.",
+          "options": ["is", "was", "are", "has been"],
+          "correct_answer": "are",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 139,
+          "question": "What is the subject in 'May I come in?'",
+          "options": ["May", "I", "come", "in"],
+          "correct_answer": "I",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 140,
+          "question": "The subject of this sentence is an infinitive phrase: 'To see is to believe.' What is it?",
+          "options": ["To see", "see", "is", "to believe"],
+          "correct_answer": "To see",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 141,
+          "question": "The manager, along with the team members, ____ attending the meeting.",
+          "options": ["is", "am", "are", "were"],
+          "correct_answer": "is",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 142,
+          "question": "Identify the subject: 'Not only the students but also the teacher was happy.'",
+          "options": ["Not only the students", "the teacher", "Not only the students but also the teacher", "happy"],
+          "correct_answer": "Not only the students but also the teacher",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 143,
+          "question": "What is the subject in the question 'Whom did you meet?'",
+          "options": ["Whom", "did meet", "you", "meet"],
+          "correct_answer": "you",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 144,
+          "question": "Many a student ____ tried to solve this problem.",
+          "options": ["has", "have", "are", "were"],
+          "correct_answer": "has",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 145,
+          "question": "Identify the subject: 'That we cannot go out today is a pity.'",
+          "options": ["That", "we", "That we cannot go out today", "a pity"],
+          "correct_answer": "That we cannot go out today",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 146,
+          "question": "More than one person ____ injured in the accident.",
+          "options": ["was", "were", "are", "have been"],
+          "correct_answer": "was",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 147,
+          "question": "Identify the simple subject: 'The dog that was chasing the cat is a stray.'",
+          "options": ["The dog", "dog", "The dog that was chasing the cat", "cat"],
+          "correct_answer": "dog",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 148,
+          "question": "What is the subject in 'Is there any sugar left?'",
+          "options": ["Is there", "any sugar", "sugar", "there"],
+          "correct_answer": "any sugar",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 149,
+          "question": "The captain, with all his players, ____ praised by the coach.",
+          "options": ["was", "were", "are", "have been"],
+          "correct_answer": "was",
+          "grammar_type": "Subject and Predicate"
+        },
+        {
+          "id": 150,
+          "question": "Identify the subject: 'No sooner did he see the police than he ran away.'",
+          "options": ["No sooner", "he", "the police", "he ran away"],
+          "correct_answer": "he",
+          "grammar_type": "Subject and Predicate"
+        }
+      ]
+    }
+  ]
+}
+

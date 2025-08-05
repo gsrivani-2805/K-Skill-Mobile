@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Choose the correct article: I saw ____ big elephant.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 2,
+          "question": "She wants to eat ____ apple.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 3,
+          "question": "____ sun is shining brightly.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 4,
+          "question": "He is ____ doctor.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 5,
+          "question": "My father is ____ honest man.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 6,
+          "question": "I have ____ new book. ____ book is very interesting.",
+          "options": ["a, The", "an, The", "the, A", "a, A"],
+          "correct_answer": "a, The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 7,
+          "question": "Can you give me ____ pen?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 8,
+          "question": "____ sky is blue.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 9,
+          "question": "She bought ____ umbrella yesterday.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 10,
+          "question": "What is ____ capital of France?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 11,
+          "question": "My brother is ____ engineer.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 12,
+          "question": "I need ____ glass of water.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 13,
+          "question": "We live in ____ small house.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 14,
+          "question": "____ Earth revolves around the Sun.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 15,
+          "question": "That is ____ interesting story.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 16,
+          "question": "He saw ____ old man walking on the road.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 17,
+          "question": "Please close ____ door.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 18,
+          "question": "I have ____ pet dog.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 19,
+          "question": "She is wearing ____ beautiful dress.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 20,
+          "question": "Which article do we use before a word starting with a vowel sound?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 21,
+          "question": "I would like ____ cup of tea.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 22,
+          "question": "It took me ____ hour to finish my homework.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 23,
+          "question": "____ moon looks beautiful tonight.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 24,
+          "question": "He gave me ____ one-rupee coin.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 25,
+          "question": "My sister wants to be ____ astronaut.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 26,
+          "question": "____ boy standing over there is my brother.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 27,
+          "question": "I have ____ idea.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 28,
+          "question": "She is ____ university student.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 29,
+          "question": "He is ____ tallest boy in the class.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 30,
+          "question": "We saw ____ lions at the zoo.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 31,
+          "question": "She is ____ intelligent girl.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 32,
+          "question": "My friend has ____ cute puppy.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 33,
+          "question": "____ teacher who taught us English was very good.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 34,
+          "question": "I need to buy ____ new pair of shoes.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 35,
+          "question": "It is ____ useful tool.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 36,
+          "question": "Which article is used for something specific?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 37,
+          "question": "He wrote ____ letter to his friend.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 38,
+          "question": "There is ____ bird on the tree.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 39,
+          "question": "She is ____ amazing singer.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 40,
+          "question": "Can I ask you ____ question?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 41,
+          "question": "____ girl with the red dress is my cousin.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 42,
+          "question": "I saw ____ eagle flying high.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 43,
+          "question": "My grandfather is ____ old farmer.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 44,
+          "question": "We are going to ____ library.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 45,
+          "question": "He has ____ unique talent.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 46,
+          "question": "I need ____ information about the project.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 47,
+          "question": "What ____ beautiful painting!",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 48,
+          "question": "He returned after ____ long time.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 49,
+          "question": "I bought ____ orange and two bananas.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 50,
+          "question": "Which article is a definite article?",
+          "options": ["a", "an", "the", "a and an"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 51,
+          "question": "He is ____ very clever boy.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 52,
+          "question": "____ Himalayas are the highest mountains.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 53,
+          "question": "I drink ____ milk every morning.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 54,
+          "question": "Can you play ____ guitar?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 55,
+          "question": "She is studying at ____ European university.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 56,
+          "question": "The children found ____ egg in the nest.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 57,
+          "question": "Please turn off ____ lights when you leave.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 58,
+          "question": "I need ____ new uniform for school.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 59,
+          "question": "He is ____ heir to a large fortune.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 60,
+          "question": "I like to read ____ books.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "____ honesty is the best policy.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 62,
+          "question": "She is from ____ United Kingdom.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 63,
+          "question": "My uncle is ____ MLA.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 64,
+          "question": "I saw ____ one-eyed man on the street.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 65,
+          "question": "____ rich should help the poor.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 66,
+          "question": "He speaks ____ German fluently.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 67,
+          "question": "____ River Nile is the longest river in the world.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 8,
+          "question": "I have ____ breakfast at 8 a.m. every day.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 69,
+          "question": "She was ____ first woman to climb Mount Everest.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 70,
+          "question": "We visited ____ Lake Superior last summer.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 71,
+          "question": "____ more you study, the more you learn.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 72,
+          "question": "____ President of India is the head of state.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 73,
+          "question": "I am allergic to ____ cats.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 74,
+          "question": "He is studying ____ history of ancient Rome.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 75,
+          "question": "My father goes to ____ temple every morning.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 76,
+          "question": "It is ____ quarter past ten.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 77,
+          "question": "____ water in that bottle is not clean.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 78,
+          "question": "He was injured in ____ accident.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 79,
+          "question": "She is ____ most beautiful girl I have ever seen.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 80,
+          "question": "I don't like ____ winter.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 81,
+          "question": "____ Pacific Ocean is the largest ocean on Earth.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 82,
+          "question": "Can you pass me ____ sugar, please?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 83,
+          "question": "He is learning to play ____ violin.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 84,
+          "question": "I met ____ boy who helped me yesterday.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 85,
+          "question": "____ happiness is important for good health.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 86,
+          "question": "She is ____ expert in her field.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 87,
+          "question": "He has ____ good knowledge of mathematics.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 88,
+          "question": "____ French are known for their cuisine.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 89,
+          "question": "I go to ____ school by bus.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 90,
+          "question": "My father went to ____ school to meet my teacher.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 91,
+          "question": "____ English is a global language.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 92,
+          "question": "This is ____ same car I saw yesterday.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 93,
+          "question": "He is ____ honorable person.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 94,
+          "question": "____ harder you work, the luckier you get.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 95,
+          "question": "____ dinner we had at the hotel was delicious.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 96,
+          "question": "He looks as stupid as ____ owl.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 97,
+          "question": "Let's go to ____ beach.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 98,
+          "question": "Which article is used with superlatives?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 99,
+          "question": "She is ____ N.R.I.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 100,
+          "question": "____ information you gave me was very helpful.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 101,
+          "question": "I live in ____ India.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 102,
+          "question": "He is ____ only son of his parents.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 103,
+          "question": "What kind of ____ bird is that?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 104,
+          "question": "____ man is a social animal.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 105,
+          "question": "He was elected ____ chairman of the committee.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 106,
+          "question": "I have never seen such ____ mess.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 107,
+          "question": "This is made of ____ wood.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 108,
+          "question": "The Taj Mahal is ____ historical monument.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 109,
+          "question": "He drives his car at 80 km ____ hour.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 110,
+          "question": "____ virtue is its own reward.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "He is in ____ hurry.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 112,
+          "question": "Don't make ____ noise.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 113,
+          "question": "____ patient was taken to ____ hospital after the accident.",
+          "options": ["A, the", "The, the", "The, No article", "A, No article"],
+          "correct_answer": "The, No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 114,
+          "question": "I know ____ little about this subject.",
+          "options": ["a", "an", "the", "little"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 115,
+          "question": "He is considered ____ Shakespeare of our age.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 116,
+          "question": "____ man you met yesterday is my uncle.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 117,
+          "question": "Few people knew ____ answer.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 118,
+          "question": "It is ____ pity that he failed.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 119,
+          "question": "The criminal was sent to ____ prison.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 120,
+          "question": "His father went to ____ prison to meet him.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 121,
+          "question": "By ____ train is a convenient way to travel.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 122,
+          "question": "____ Mr. Sharma I know is a doctor, not a teacher.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 123,
+          "question": "She has ____ good understanding of the subject.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 124,
+          "question": "He is not ____ man to be trifled with.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 125,
+          "question": "The horse is ____ useful animal.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 126,
+          "question": "____ English defeated the French in this battle.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 127,
+          "question": "He plays tennis twice ____ week.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 128,
+          "question": "It's ____ high time you started working hard.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 129,
+          "question": "He caught me by ____ arm.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 130,
+          "question": "Which is ____ longest river in India?",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 131,
+          "question": "Man, thou art ____ wonderful animal.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 132,
+          "question": "He has come without ____ umbrella.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "an",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 133,
+          "question": "A dozen costs ten rupees. It should be: Ten rupees ____ dozen.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 134,
+          "question": "____ wisdom of Solomon is famous.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 135,
+          "question": "He is not so big ____ fool as you think.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 136,
+          "question": "The boy was punished for being in ____ bed after 10 p.m.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 137,
+          "question": "He has ____ great respect for his elders.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 138,
+          "question": "This is ____ best book of elementary chemistry.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 139,
+          "question": "What ____ beautiful scene this is!",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 140,
+          "question": "____ more one has, ____ more one wants.",
+          "options": ["The, the", "A, a", "The, a", "A, the"],
+          "correct_answer": "The, the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 141,
+          "question": "I have never taken ____ fancy to that kind of work.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 142,
+          "question": "He can speak ____ English language very well.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 143,
+          "question": "I don't usually have ____ lunch, but I was hungry today.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 144,
+          "question": "____ gold is a precious metal.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 145,
+          "question": "____ gold of this ring is very pure.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "The",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 146,
+          "question": "He made ____ mistake of thinking I was his friend.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 147,
+          "question": "She went to ____ sea for a holiday.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "the",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 148,
+          "question": "I am in ____ trouble.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "No article",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 149,
+          "question": "She is suffering from ____ bad cold.",
+          "options": ["a", "an", "the", "No article"],
+          "correct_answer": "a",
+          "grammar_type": "Articles"
+        },
+        {
+          "id": 150,
+          "question": "____ little knowledge is a dangerous thing.",
+          "options": ["A", "An", "The", "No article"],
+          "correct_answer": "A",
+          "grammar_type": "Articles"
+        }
+      ]
+    }
+  ]
+}
+

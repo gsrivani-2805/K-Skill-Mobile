@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What type of sentence is this? 'The sun is shining brightly.'",
+          "options": ["Statement", "Question", "Command", "Greeting"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 2,
+          "question": "What type of sentence is this? 'Where are you going?'",
+          "options": ["Statement", "Question", "Command", "Answer"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 3,
+          "question": "What type of sentence is this? 'Please close the door.'",
+          "options": ["Statement", "Question", "Command", "Story"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 4,
+          "question": "Which punctuation mark is used at the end of a statement?",
+          "options": ["Question Mark (?)", "Full Stop (.)", "Exclamation Mark (!)", "Comma (,)"],
+          "correct_answer": "Full Stop (.)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 5,
+          "question": "Which punctuation mark is used at the end of a question?",
+          "options": ["Full Stop (.)", "Comma (,)", "Exclamation Mark (!)", "Question Mark (?)"],
+          "correct_answer": "Question Mark (?)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 6,
+          "question": "A sentence that tells you something is a...",
+          "options": ["Question", "Command", "Statement", "Phrase"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 7,
+          "question": "A sentence that asks something is a...",
+          "options": ["Statement", "Command", "Question", "Clause"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 8,
+          "question": "A sentence that gives an order or makes a request is a...",
+          "options": ["Statement", "Question", "Command", "Greeting"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 9,
+          "question": "Identify the sentence type: 'My favorite color is blue.'",
+          "options": ["Question", "Statement", "Command", "Exclamation"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 10,
+          "question": "Identify the sentence type: 'Have you finished your homework?'",
+          "options": ["Statement", "Command", "Question", "Exclamation"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 11,
+          "question": "Identify the sentence type: 'Be quiet in the library.'",
+          "options": ["Statement", "Question", "Command", "Exclamation"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 12,
+          "question": "Which of these is a statement?",
+          "options": ["Are you thirsty?", "Get me a glass of water.", "Water is essential for life.", "What a cool glass of water!"],
+          "correct_answer": "Water is essential for life.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 13,
+          "question": "Which of these is a question?",
+          "options": ["The school is closed today.", "Is the school closed today?", "Do not go to school today.", "I am going to school."],
+          "correct_answer": "Is the school closed today?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 14,
+          "question": "Which of these is a command?",
+          "options": ["I am reading a book.", "What book are you reading?", "Please give me that book.", "This book is interesting."],
+          "correct_answer": "Please give me that book.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 15,
+          "question": "The sentence 'Birds fly in the sky.' is a...",
+          "options": ["Statement", "Question", "Command", "Request"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 16,
+          "question": "The sentence 'Can you sing a song?' is a...",
+          "options": ["Statement", "Question", "Command", "Fact"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 17,
+          "question": "The sentence 'Wash your hands before eating.' is a...",
+          "options": ["Statement", "Question", "Command", "Story"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 18,
+          "question": "Which punctuation is missing? 'He is a good boy__' ",
+          "options": ["?", ".", "!", ","],
+          "correct_answer": ".",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 19,
+          "question": "Which punctuation is missing? 'When will the train arrive__' ",
+          "options": [".", ",", "?", "!"],
+          "correct_answer": "?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 20,
+          "question": "Which punctuation is correct? 'Stop talking now.'",
+          "options": ["?", ".", "!", ","],
+          "correct_answer": ".",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 21,
+          "question": "What kind of sentence tells something?",
+          "options": ["Question", "Statement", "Command", "Exclamatory"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 22,
+          "question": "What kind of sentence asks something?",
+          "options": ["Statement", "Command", "Question", "Exclamatory"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 23,
+          "question": "What kind of sentence gives an order?",
+          "options": ["Statement", "Question", "Command", "Exclamatory"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 24,
+          "question": "'The cow gives us milk.' is a...",
+          "options": ["Question", "Statement", "Command", "Exclamatory"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 25,
+          "question": "'How old are you?' is a...",
+          "options": ["Statement", "Question", "Command", "Exclamatory"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 26,
+          "question": "'Don't make a noise.' is a...",
+          "options": ["Statement", "Question", "Command", "Exclamatory"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 27,
+          "question": "A statement starts with a capital letter and ends with a...",
+          "options": ["question mark", "full stop", "comma", "colon"],
+          "correct_answer": "full stop",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 28,
+          "question": "A question starts with a capital letter and ends with a...",
+          "options": ["full stop", "comma", "question mark", "semicolon"],
+          "correct_answer": "question mark",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 29,
+          "question": "Which sentence is a statement?",
+          "options": ["My name is Rohan.", "What is your name?", "Tell me your name.", "Is your name Rohan?"],
+          "correct_answer": "My name is Rohan.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 30,
+          "question": "Which sentence is a question?",
+          "options": ["The bus is late.", "When will the bus come?", "The bus just left.", "Wait for the bus."],
+          "correct_answer": "When will the bus come?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 31,
+          "question": "Which sentence is a command?",
+          "options": ["He is closing the window.", "Is the window closed?", "Why is the window open?", "Close the window."],
+          "correct_answer": "Close the window.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 32,
+          "question": "'An elephant is a large animal.' This sentence is a...",
+          "options": ["Statement", "Question", "Command", "Exclamation"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 33,
+          "question": "'Who is your best friend?' This sentence is a...",
+          "options": ["Statement", "Question", "Command", "Exclamation"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 34,
+          "question": "'Please help me with this box.' This sentence is a...",
+          "options": ["Statement", "Question", "Command (Request)", "Exclamation"],
+          "correct_answer": "Command (Request)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 35,
+          "question": "A command usually starts with a...",
+          "options": ["Noun", "Verb", "Question word", "Pronoun"],
+          "correct_answer": "Verb",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 36,
+          "question": "A question often starts with a...",
+          "options": ["Verb", "Statement", "Question word (Who, What, etc.)", "Full stop"],
+          "correct_answer": "Question word (Who, What, etc.)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 37,
+          "question": "Identify the statement: 'The Earth revolves around the Sun.'",
+          "options": ["Statement", "Question", "Command", "None of the above"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 38,
+          "question": "Identify the question: 'Do you have a pencil?'",
+          "options": ["Statement", "Question", "Command", "None of the above"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 39,
+          "question": "Identify the command: 'Raise your hand.'",
+          "options": ["Statement", "Question", "Command", "None of the above"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 40,
+          "question": "Which is the correct punctuation for a command?",
+          "options": ["Question Mark (?)", "Full Stop (.) or Exclamation Mark (!)", "Comma (,)", "Semicolon (;)"],
+          "correct_answer": "Full Stop (.) or Exclamation Mark (!)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 41,
+          "question": "'I am feeling happy today.' What kind of sentence is this?",
+          "options": ["Question", "Command", "Statement", "Order"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 42,
+          "question": "'Why is the sky blue?' What kind of sentence is this?",
+          "options": ["Statement", "Command", "Question", "Answer"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 43,
+          "question": "'Listen to the teacher.' What kind of sentence is this?",
+          "options": ["Statement", "Question", "Command", "Fact"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 44,
+          "question": "A sentence that states a fact is a...",
+          "options": ["Question", "Statement", "Command", "Exclamation"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 45,
+          "question": "A sentence that makes a request is a type of...",
+          "options": ["Question", "Statement", "Command", "Exclamation"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 46,
+          "question": "'My father is a farmer.'",
+          "options": ["Statement", "Question", "Command", "Exclamation"],
+          "correct_answer": "Statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 47,
+          "question": "'What time is it?'",
+          "options": ["Statement", "Question", "Command", "Exclamation"],
+          "correct_answer": "Question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 48,
+          "question": "'Finish your food quickly.'",
+          "options": ["Statement", "Question", "Command", "Exclamation"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 49,
+          "question": "Which sentence tells you something?",
+          "options": ["Where do you live?", "Go to your home.", "I live in a small village.", "What a lovely home!"],
+          "correct_answer": "I live in a small village.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 50,
+          "question": "Which sentence asks you something?",
+          "options": ["My school is far away.", "How do you go to school?", "Go to school on time.", "I like my school."],
+          "correct_answer": "How do you go to school?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "A sentence that makes a statement is also called a/an ______ sentence.",
+          "options": ["Interrogative", "Imperative", "Exclamatory", "Declarative"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 52,
+          "question": "A sentence that asks a question is also called a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 53,
+          "question": "A sentence that gives a command or makes a request is also called a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Imperative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 54,
+          "question": "Identify the type of this sentence: 'The team celebrated their victory.'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 55,
+          "question": "Identify the type of this sentence: 'Who wrote the national anthem?'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 56,
+          "question": "Identify the type of this sentence: 'Please submit your assignments by Friday.'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Imperative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 57,
+          "question": "Change this declarative sentence into an interrogative sentence: 'She is coming with us.'",
+          "options": ["She is coming with us.", "Is she coming with us?", "Come with us.", "She should come with us."],
+          "correct_answer": "Is she coming with us?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 58,
+          "question": "What is the primary function of a declarative sentence?",
+          "options": ["To ask for information", "To give a command", "To state a fact or an opinion", "To express strong emotion"],
+          "correct_answer": "To state a fact or an opinion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 59,
+          "question": "What is the implied subject of the imperative sentence: 'Look both ways before crossing the road.'?",
+          "options": ["I", "We", "They", "You"],
+          "correct_answer": "You",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 60,
+          "question": "A sentence that expresses strong emotion, like 'What a pleasant surprise!', is called a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Exclamatory",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 61,
+          "question": "Which of these is an interrogative sentence?",
+          "options": ["I wonder who will win.", "He asked who would win.", "Who will win the match?", "The winner gets a trophy."],
+          "correct_answer": "Who will win the match?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 62,
+          "question": "Which of these is an imperative sentence?",
+          "options": ["You should be careful.", "He is very careful.", "Why aren't you careful?", "Be careful while handling that glass."],
+          "correct_answer": "Be careful while handling that glass.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 63,
+          "question": "Change this interrogative sentence to a declarative one: 'Did the students understand the lesson?'",
+          "options": ["The students understood the lesson.", "The students did not understand the lesson.", "Understand the lesson.", "Did the students not understand?"],
+          "correct_answer": "The students understood the lesson.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 64,
+          "question": "'Don't make promises you can't keep.' This is a...",
+          "options": ["Declarative sentence", "Negative imperative sentence", "Interrogative sentence", "Positive statement"],
+          "correct_answer": "Negative imperative sentence",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 65,
+          "question": "A request is a polite form of a...",
+          "options": ["Question", "Command", "Statement", "Declaration"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 66,
+          "question": "Which sentence is declarative?",
+          "options": ["Where is the nearest hospital?", "Take him to the hospital immediately!", "The nearest hospital is five kilometers away.", "How far is the hospital?"],
+          "correct_answer": "The nearest hospital is five kilometers away.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 67,
+          "question": "'How beautiful the rainbow is!' is an example of what type of sentence?",
+          "options": ["Interrogative", "Imperative", "Exclamatory", "Declarative"],
+          "correct_answer": "Exclamatory",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 68,
+          "question": "The sentence 'Let's go for a walk' is a type of...",
+          "options": ["Declarative sentence", "Interrogative sentence", "Imperative sentence (suggestion)", "Exclamatory sentence"],
+          "correct_answer": "Imperative sentence (suggestion)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 69,
+          "question": "An interrogative sentence can be a 'Yes/No' question or a...",
+          "options": ["'Wh-' question", "'Maybe' question", "'True/False' question", "Command question"],
+          "correct_answer": "'Wh-' question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 70,
+          "question": "Which of these is a 'Yes/No' question?",
+          "options": ["What is your plan?", "Why are you late?", "Are you feeling better?", "Where is the book?"],
+          "correct_answer": "Are you feeling better?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 71,
+          "question": "What is the function of the sentence: 'The Earth is a planet.'?",
+          "options": ["To ask", "To command", "To exclaim", "To declare a fact"],
+          "correct_answer": "To declare a fact",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 72,
+          "question": "What is the function of the sentence: 'Kindly grant me leave for two days.'?",
+          "options": ["To ask", "To make a request", "To exclaim", "To state an opinion"],
+          "correct_answer": "To make a request",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 73,
+          "question": "'I am not sure if he will join us.' This is a...",
+          "options": ["Question", "Declarative sentence expressing doubt", "Command", "Exclamatory sentence"],
+          "correct_answer": "Declarative sentence expressing doubt",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 74,
+          "question": "Convert the command 'Help the poor' into a declarative sentence.",
+          "options": ["You should help the poor.", "Do you help the poor?", "Why should you help the poor?", "How wonderful to help the poor!"],
+          "correct_answer": "You should help the poor.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 75,
+          "question": "A declarative sentence can be positive or...",
+          "options": ["Interrogative", "Imperative", "Negative", "Exclamatory"],
+          "correct_answer": "Negative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 76,
+          "question": "Which of these is a negative declarative sentence?",
+          "options": ["The sun is not a planet.", "Is the sun a planet?", "The sun is a star.", "Don't look at the sun."],
+          "correct_answer": "The sun is not a planet.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 77,
+          "question": "'Stop!' This one-word sentence is a/an...",
+          "options": ["Declarative sentence", "Interrogative sentence", "Imperative sentence", "Exclamatory sentence"],
+          "correct_answer": "Imperative sentence",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 78,
+          "question": "Identify the sentence type: 'May I come in?'",
+          "options": ["Declarative", "Interrogative (request)", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative (request)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 79,
+          "question": "An imperative sentence can be a command, a request, or...",
+          "options": ["A question", "A fact", "An advice or suggestion", "An opinion"],
+          "correct_answer": "An advice or suggestion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 80,
+          "question": "'You should consult a doctor.' This sentence gives advice and is a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 81,
+          "question": "Which question word asks about a reason?",
+          "options": ["When", "Where", "Who", "Why"],
+          "correct_answer": "Why",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 82,
+          "question": "Which question word asks about a place?",
+          "options": ["What", "When", "Where", "How"],
+          "correct_answer": "Where",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 83,
+          "question": "Which question word asks about time?",
+          "options": ["Who", "What", "When", "Why"],
+          "correct_answer": "When",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 84,
+          "question": "Identify the sentence type: 'I cannot believe we won the match!'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Exclamatory",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 85,
+          "question": "Change the statement 'They are playing well' into a question.",
+          "options": ["They are playing well.", "Play well!", "Are they playing well?", "How well they play!"],
+          "correct_answer": "Are they playing well?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 86,
+          "question": "Which sentence makes a request?",
+          "options": ["He is helping me.", "Can he help me?", "Will you please help me?", "He will not help me."],
+          "correct_answer": "Will you please help me?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 87,
+          "question": "'All the students were present in the class.' This is a...",
+          "options": ["Declarative sentence", "Interrogative sentence", "Imperative sentence", "Exclamatory sentence"],
+          "correct_answer": "Declarative sentence",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 88,
+          "question": "'Whose book is this?' is what kind of sentence?",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 89,
+          "question": "'Always speak the truth.' is what kind of sentence?",
+          "options": ["Declarative", "Interrogative", "Imperative (advice)", "Exclamatory"],
+          "correct_answer": "Imperative (advice)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 90,
+          "question": "The subject is usually not stated in which sentence type?",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Imperative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 91,
+          "question": "A declarative sentence can also be called an...",
+          "options": ["Assertive sentence", "Interrogative sentence", "Imperative sentence", "Exclamatory sentence"],
+          "correct_answer": "Assertive sentence",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 92,
+          "question": "Which is an imperative sentence giving a warning?",
+          "options": ["The dog is dangerous.", "Is the dog dangerous?", "Beware of the dog.", "What a dangerous dog!"],
+          "correct_answer": "Beware of the dog.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 93,
+          "question": "Change this statement into an exclamatory sentence: 'It is a very tall building.'",
+          "options": ["Is it a tall building?", "What a tall building it is!", "Build a tall building.", "It is a tall building."],
+          "correct_answer": "What a tall building it is!",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 94,
+          "question": "Identify the interrogative sentence: 'Did you see the beautiful sunset?'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 95,
+          "question": "Identify the declarative sentence: 'The concert begins at 7 PM.'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 96,
+          "question": "What is the sentence type of 'I wish I had a new bicycle.'?",
+          "options": ["Declarative (expressing a wish)", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative (expressing a wish)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 97,
+          "question": "Which sentence gives a command?",
+          "options": ["He is marching.", "Are they marching?", "March forward, soldiers!", "The soldiers marched bravely."],
+          "correct_answer": "March forward, soldiers!",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 98,
+          "question": "'How do you solve this problem?' is a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 99,
+          "question": "'Please don't be late.' is a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative (request)", "Exclamatory"],
+          "correct_answer": "Imperative (request)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 100,
+          "question": "The main verb in an imperative sentence is in which form?",
+          "options": ["Past tense form", "Past participle form", "Base form", "'-ing' form"],
+          "correct_answer": "Base form",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the function of the sentence 'Could you please be a little quieter?' although it ends with a question mark?",
+          "options": ["To ask for information", "To make a polite request (Imperative)", "To express a strong opinion", "To state a fact"],
+          "correct_answer": "To make a polite request (Imperative)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 102,
+          "question": "The sentence 'You're not going out dressed like that, are you?' is a tag question that functions as a...",
+          "options": ["Genuine question", "Strong statement or command", "Polite request", "Simple declaration"],
+          "correct_answer": "Strong statement or command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 103,
+          "question": "What is a rhetorical question?",
+          "options": ["A question that needs a detailed answer.", "A question asked to make a point, not to get an answer.", "A question that is grammatically incorrect.", "A question that can only be answered with 'yes' or 'no'."],
+          "correct_answer": "A question asked to make a point, not to get an answer.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 104,
+          "question": "Which of these is a rhetorical question? 'Who doesn't want to be successful?'",
+          "options": ["It is a rhetorical question.", "It is a standard interrogative sentence.", "It is an imperative sentence.", "It is a declarative sentence."],
+          "correct_answer": "It is a rhetorical question.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 105,
+          "question": "The sentence 'I wonder why he is late.' is a declarative sentence that contains an...",
+          "options": ["Indirect question", "Imperative clause", "Direct command", "Exclamatory phrase"],
+          "correct_answer": "Indirect question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 106,
+          "question": "How can the declarative sentence 'You are quiet.' be made into an imperative sentence?",
+          "options": ["Are you quiet?", "Be quiet.", "You should be quiet.", "How quiet you are!"],
+          "correct_answer": "Be quiet.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 107,
+          "question": "'Help!' This one-word utterance in a crisis situation functions as both imperative and...",
+          "options": ["Declarative", "Interrogative", "Exclamatory", "Assertive"],
+          "correct_answer": "Exclamatory",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 108,
+          "question": "A sentence that expresses a wish, prayer, or blessing, like 'May you live long!', is called a/an ______ sentence.",
+          "options": ["Imperative", "Optative", "Assertive", "Interrogative"],
+          "correct_answer": "Optative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 109,
+          "question": "In the sentence 'Have a safe journey', what is the implied subject?",
+          "options": ["I", "They", "We", "You"],
+          "correct_answer": "You",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 110,
+          "question": "What is the difference in function between 'He is so clever!' and 'How clever he is!'?",
+          "options": ["There is no difference.", "The first is declarative, the second is exclamatory.", "The first is exclamatory, the second is interrogative.", "Both are exclamatory, but they use different structures."],
+          "correct_answer": "Both are exclamatory, but they use different structures.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 111,
+          "question": "He asked me what my name was. This entire sentence is...",
+          "options": ["Interrogative", "Declarative (reporting a question)", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative (reporting a question)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 112,
+          "question": "'You will now proceed to the main hall.' This declarative sentence functions as a...",
+          "options": ["Question", "Polite but firm command", "Request for information", "Statement of opinion"],
+          "correct_answer": "Polite but firm command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 113,
+          "question": "'If only I had studied harder!' This sentence expresses a strong wish or regret and is functionally...",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Exclamatory",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 114,
+          "question": "The sentence 'You say you're leaving?' uses a declarative structure with a question mark to express...",
+          "options": ["A command", "A fact", "Surprise or to ask for confirmation", "A wish"],
+          "correct_answer": "Surprise or to ask for confirmation",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 115,
+          "question": "Which of these is a direct question?",
+          "options": ["She wants to know if you are coming.", "He wondered what the time was.", "Are you coming to the party?", "Tell me if you are coming."],
+          "correct_answer": "Are you coming to the party?",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 116,
+          "question": "What type of question is 'You're a doctor, aren't you?'",
+          "options": ["Wh- question", "Yes/No question", "Tag question", "Rhetorical question"],
+          "correct_answer": "Tag question",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 117,
+          "question": "'Get out.' This is a strong, direct...",
+          "options": ["Request", "Command", "Question", "Statement"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 118,
+          "question": "The sentence 'It's a beautiful day, isn't it?' primarily functions to...",
+          "options": ["Get information", "Give a command", "Seek agreement or start a conversation", "Express strong sadness"],
+          "correct_answer": "Seek agreement or start a conversation",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 119,
+          "question": "Which sentence structure is used to form a 'Wh-' question in English?",
+          "options": ["Subject + Verb + Object", "Wh-word + Auxiliary Verb + Subject + Main Verb", "Verb + Subject + Object", "Auxiliary Verb + Subject + Main Verb"],
+          "correct_answer": "Wh-word + Auxiliary Verb + Subject + Main Verb",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 120,
+          "question": "'Would that I were a king!' This archaic sentence structure expresses a strong wish and is a/an _______ sentence.",
+          "options": ["Declarative", "Interrogative", "Optative", "Imperative"],
+          "correct_answer": "Optative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 121,
+          "question": "'Mind the gap.' This is a common imperative sentence used as a...",
+          "options": ["Greeting", "Question", "Warning", "Statement of fact"],
+          "correct_answer": "Warning",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 122,
+          "question": "Which sentence is NOT interrogative?",
+          "options": ["I have no idea what he wants.", "What does he want?", "Could you tell me what he wants?", "What he wants is a mystery."],
+          "correct_answer": "I have no idea what he wants.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 123,
+          "question": "The sentence 'Do you mind if I sit here?' is a polite way of asking for...",
+          "options": ["Information", "An opinion", "Permission", "A command"],
+          "correct_answer": "Permission",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 124,
+          "question": "The sentence 'Never have I seen such a thing!' begins with an adverb for emphasis. What is its basic type?",
+          "options": ["Interrogative", "Imperative", "Declarative (Inverted)", "Rhetorical"],
+          "correct_answer": "Declarative (Inverted)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 125,
+          "question": "Identify the indirect question: 'The question is whether we should proceed.'",
+          "options": ["It is a direct question.", "It is an indirect question.", "It is a command.", "It is an exclamation."],
+          "correct_answer": "It is an indirect question.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 126,
+          "question": "Which sentence is a command?",
+          "options": ["I want you to be quiet.", "Can you be quiet?", "You will be quiet.", "Be quiet."],
+          "correct_answer": "Be quiet.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 127,
+          "question": "'How could you be so careless?' This question is often used to express...",
+          "options": ["Admiration", "A genuine request for reasons", "Annoyance or criticism", "A polite request"],
+          "correct_answer": "Annoyance or criticism",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 128,
+          "question": "'Let there be peace.' This sentence is an example of a/an...",
+          "options": ["Declarative sentence", "Interrogative sentence", "Imperative sentence (expressing a wish)", "Exclamatory sentence"],
+          "correct_answer": "Imperative sentence (expressing a wish)",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 129,
+          "question": "The tone of an imperative sentence can range from a harsh command to a...",
+          "options": ["Question of fact", "Polite invitation or suggestion", "Statement of doubt", "Rhetorical question"],
+          "correct_answer": "Polite invitation or suggestion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 130,
+          "question": "A declarative sentence states a fact. An exclamatory sentence...",
+          "options": ["Also states a fact but with strong emotion", "Asks a question with strong emotion", "Gives a command with strong emotion", "Is always negative"],
+          "correct_answer": "Also states a fact but with strong emotion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 131,
+          "question": "Which of these declarative sentences has the function of an apology?",
+          "options": ["I am truly sorry for my mistake.", "Did I make a mistake?", "I will not make a mistake.", "What a terrible mistake!"],
+          "correct_answer": "I am truly sorry for my mistake.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 132,
+          "question": "The sentence 'Here comes the bus.' has an inverted subject-verb order. What is its type?",
+          "options": ["Interrogative", "Imperative", "Declarative", "Exclamatory"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 133,
+          "question": "'Why not take a break?' This question functions as a/an...",
+          "options": ["Accusation", "Suggestion", "Statement of fact", "Strong command"],
+          "correct_answer": "Suggestion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 134,
+          "question": "'All rise!' This imperative sentence is a formal command typically used in a...",
+          "options": ["Classroom", "Playground", "Courtroom", "Market"],
+          "correct_answer": "Courtroom",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 135,
+          "question": "Which sentence functions as a warning?",
+          "options": ["I think the floor is wet.", "Is the floor wet?", "Watch your step; the floor is wet.", "How wet the floor is!"],
+          "correct_answer": "Watch your step; the floor is wet.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 136,
+          "question": "An interrogative sentence becomes an indirect question when it is...",
+          "options": ["Asked directly to a person", "Reported as part of a declarative sentence", "Used to give a command", "Expressed with strong emotion"],
+          "correct_answer": "Reported as part of a declarative sentence",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 137,
+          "question": "'If you finish your work, you can go out and play.' This sentence, which contains a condition, is a/an ______ sentence.",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 138,
+          "question": "'You are going to apologize right now.' The declarative form makes this statement sound like a/an...",
+          "options": ["Polite request", "Unavoidable command", "Open question", "Suggestion"],
+          "correct_answer": "Unavoidable command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 139,
+          "question": "The sentence 'One more step and you're in trouble!' is a warning that functions as a/an...",
+          "options": ["Question", "Statement", "Command", "Request"],
+          "correct_answer": "Command",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 140,
+          "question": "In formal writing, a polite command is often phrased as a...",
+          "options": ["Strong imperative", "Declarative statement", "Rhetorical question", "Direct question"],
+          "correct_answer": "Declarative statement",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 141,
+          "question": "'What if we tried a different approach?' This question functions as a...",
+          "options": ["Demand for an answer", "Command to stop", "Suggestion", "Statement of fact"],
+          "correct_answer": "Suggestion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 142,
+          "question": "The headline 'Will the new policy succeed?' is an interrogative sentence designed to...",
+          "options": ["Give a direct command", "State a definite fact", "Invite speculation and encourage reading the article", "Express strong emotion"],
+          "correct_answer": "Invite speculation and encourage reading the article",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 143,
+          "question": "'So you think you can just walk in late?' This question is not seeking information but is expressing...",
+          "options": ["Praise", "A polite request", "Disapproval or sarcasm", "A genuine query"],
+          "correct_answer": "Disapproval or sarcasm",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 144,
+          "question": "'Long live the Queen!' This is an example of an optative sentence functioning as a...",
+          "options": ["Question", "Command", "Blessing or cheer", "Statement of fact"],
+          "correct_answer": "Blessing or cheer",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 145,
+          "question": "'Tell me what you think.' This is an imperative sentence asking for...",
+          "options": ["An action", "An opinion", "A command", "A favor"],
+          "correct_answer": "An opinion",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 146,
+          "question": "A key difference between a declarative and an imperative sentence is that the declarative has a visible subject, while the imperative's subject is...",
+          "options": ["Also visible", "Usually implied as 'you'", "Always 'I'", "The object of the sentence"],
+          "correct_answer": "Usually implied as 'you'",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 147,
+          "question": "'You wouldn't happen to have a spare pen, would you?' This question is a very indirect and polite way to...",
+          "options": ["State a fact", "Make a request", "Give a command", "Express surprise"],
+          "correct_answer": "Make a request",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 148,
+          "question": "The sentence 'That the Earth is round is a known fact.' begins with a noun clause. What is the overall sentence type?",
+          "options": ["Interrogative", "Declarative", "Imperative", "Exclamatory"],
+          "correct_answer": "Declarative",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 149,
+          "question": "What function does the sentence 'Say you're sorry.' have?",
+          "options": ["It is a statement about being sorry.", "It is a command to apologize.", "It is a question about apologies.", "It is an expression of surprise."],
+          "correct_answer": "It is a command to apologize.",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        },
+        {
+          "id": 150,
+          "question": "'Okay, team, let's win this!' This sentence is an imperative that functions as...",
+          "options": ["A formal order", "A piece of advice", "An encouragement or exhortation", "A question"],
+          "correct_answer": "An encouragement or exhortation",
+          "grammar_type": "Sentence Types (statement, question, command)"
+        }
+      ]
+    }
+  ]
+}
+

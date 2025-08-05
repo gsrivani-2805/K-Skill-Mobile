@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Identify the voice: 'The cat chased the mouse.'",
+          "options": ["Active Voice", "Passive Voice", "Direct Voice", "Indirect Voice"],
+          "correct_answer": "Active Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 2,
+          "question": "Identify the voice: 'The mouse was chased by the cat.'",
+          "options": ["Active Voice", "Passive Voice", "Direct Voice", "Indirect Voice"],
+          "correct_answer": "Passive Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 3,
+          "question": "Change the voice: 'She writes a letter.'",
+          "options": ["A letter is written by her.", "A letter was written by her.", "A letter is being written by her.", "She is writing a letter."],
+          "correct_answer": "A letter is written by her.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 4,
+          "question": "Change the voice: 'He ate an apple.'",
+          "options": ["An apple is eaten by him.", "An apple was eaten by him.", "An apple has been eaten by him.", "He is eating an apple."],
+          "correct_answer": "An apple was eaten by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 5,
+          "question": "Change the voice: 'They will play football.'",
+          "options": ["Football will be played by them.", "Football is played by them.", "Football was played by them.", "They are playing football."],
+          "correct_answer": "Football will be played by them.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 6,
+          "question": "Identify the voice: 'The teacher teaches the students.'",
+          "options": ["Active Voice", "Passive Voice", "Both", "Neither"],
+          "correct_answer": "Active Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 7,
+          "question": "Identify the voice: 'The students are taught by the teacher.'",
+          "options": ["Active Voice", "Passive Voice", "Both", "Neither"],
+          "correct_answer": "Passive Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 8,
+          "question": "Change the voice: 'The gardener waters the plants.'",
+          "options": ["The plants was watered by the gardener.", "The plants are being watered by the gardener.", "The plants are watered by the gardener.", "The gardener is watering the plants."],
+          "correct_answer": "The plants are watered by the gardener.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 9,
+          "question": "Change the voice: 'I broke the window.'",
+          "options": ["The window is broken by me.", "The window was being broken by me.", "The window is being broken by me.", "The window was broken by me."],
+          "correct_answer": "The window was broken by me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 10,
+          "question": "Change the voice: 'We shall help you.'",
+          "options": ["You will be helped by us.", "You shall be helped by us.", "You are helped by us.", "We are helping you."],
+          "correct_answer": "You will be helped by us.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 11,
+          "question": "Identify the voice: 'A car was bought by my father.'",
+          "options": ["Active Voice", "Passive Voice", "Middle Voice", "Reflexive Voice"],
+          "correct_answer": "Passive Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 12,
+          "question": "Identify the voice: 'My father bought a car.'",
+          "options": ["Active Voice", "Passive Voice", "Middle Voice", "Reflexive Voice"],
+          "correct_answer": "Active Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 13,
+          "question": "Change the voice: 'The police caught the thief.'",
+          "options": ["The thief is caught by the police.", "The thief was caught by the police.", "The thief has been caught by the police.", "The police is catching the thief."],
+          "correct_answer": "The thief was caught by the police.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 14,
+          "question": "Change the voice: 'She sings a song.'",
+          "options": ["A song is sung by her.", "A song was sung by her.", "A song is being sung by her.", "She is singing a song."],
+          "correct_answer": "A song is sung by her.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 15,
+          "question": "Change the voice: 'The doctor will examine the patient.'",
+          "options": ["The patient is examined by the doctor.", "The patient was examined by the doctor.", "The patient will be examined by the doctor.", "The doctor is examining the patient."],
+          "correct_answer": "The patient will be examined by the doctor.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 16,
+          "question": "In Active Voice, the focus is on the...",
+          "options": ["action", "object", "doer of the action (subject)", "receiver of the action"],
+          "correct_answer": "doer of the action (subject)",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 17,
+          "question": "In Passive Voice, the focus is on the...",
+          "options": ["action or the receiver of the action", "doer of the action", "subject", "verb"],
+          "correct_answer": "action or the receiver of the action",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 18,
+          "question": "Change the voice: 'The homework is done by me.'",
+          "options": ["I do the homework.", "I did the homework.", "I am doing the homework.", "Me does the homework."],
+          "correct_answer": "I do the homework.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 19,
+          "question": "Change the voice: 'The match was won by our team.'",
+          "options": ["Our team wins the match.", "Our team is winning the match.", "Our team will win the match.", "Our team won the match."],
+          "correct_answer": "Our team won the match.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 20,
+          "question": "Change the voice: 'The window will be opened by him.'",
+          "options": ["He opens the window.", "He opened the window.", "He is opening the window.", "He will open the window."],
+          "correct_answer": "He will open the window.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 21,
+          "question": "Identify the voice: 'He loves his parents.'",
+          "options": ["Active Voice", "Passive Voice", "Imperative Voice", "Interrogative Voice"],
+          "correct_answer": "Active Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 22,
+          "question": "Identify the voice: 'His parents are loved by him.'",
+          "options": ["Active Voice", "Passive Voice", "Imperative Voice", "Interrogative Voice"],
+          "correct_answer": "Passive Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 23,
+          "question": "Change the voice: 'The cow eats grass.'",
+          "options": ["Grass is ate by the cow.", "Grass was eaten by the cow.", "Grass is eaten by the cow.", "Grass is being eaten by the cow."],
+          "correct_answer": "Grass is eaten by the cow.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 24,
+          "question": "Change the voice: 'The children saw the movie.'",
+          "options": ["The movie was seen by the children.", "The movie is seen by the children.", "The movie will be seen by the children.", "The movie was being seen by the children."],
+          "correct_answer": "The movie was seen by the children.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 25,
+          "question": "Change the voice: 'The postman will deliver the letter.'",
+          "options": ["The letter is delivered by the postman.", "The letter was delivered by the postman.", "The letter will be delivered by the postman.", "The letter is being delivered by the postman."],
+          "correct_answer": "The letter will be delivered by the postman.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 26,
+          "question": "Identify the voice: 'A kite is being flown by the boy.'",
+          "options": ["Active", "Passive", "Direct", "Indirect"],
+          "correct_answer": "Passive",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 27,
+          "question": "Identify the voice: 'The boy is flying a kite.'",
+          "options": ["Active", "Passive", "Direct", "Indirect"],
+          "correct_answer": "Active",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 28,
+          "question": "Change the voice: 'The carpenter makes furniture.'",
+          "options": ["Furniture were made by the carpenter.", "Furniture is made by the carpenter.", "Furniture is being made by the carpenter.", "Furniture was made by the carpenter."],
+          "correct_answer": "Furniture is made by the carpenter.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 29,
+          "question": "Change the voice: 'She cleaned the room.'",
+          "options": ["The room is cleaned by her.", "The room was cleaned by her.", "The room has been cleaned by her.", "The room will be cleaned by her."],
+          "correct_answer": "The room was cleaned by her.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 30,
+          "question": "Change the voice: 'They will paint the house.'",
+          "options": ["The house will be painted by them.", "The house is painted by them.", "The house was painted by them.", "The house has been painted by them."],
+          "correct_answer": "The house will be painted by them.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 31,
+          "question": "In passive voice, the verb form is always...",
+          "options": ["Present participle (V-ing)", "Past participle (V3)", "Base form (V1)", "Past tense (V2)"],
+          "correct_answer": "Past participle (V3)",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 32,
+          "question": "Change the voice: 'The car is washed by the driver.'",
+          "options": ["The driver washes the car.", "The driver washed the car.", "The driver is washing the car.", "The driver has washed the car."],
+          "correct_answer": "The driver washes the car.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 33,
+          "question": "Change the voice: 'The cake was eaten by the children.'",
+          "options": ["The children eat the cake.", "The children are eating the cake.", "The children ate the cake.", "The children have eaten the cake."],
+          "correct_answer": "The children ate the cake.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 34,
+          "question": "Change the voice: 'The book will be read by me.'",
+          "options": ["I read the book.", "I will read the book.", "I am reading the book.", "I have read the book."],
+          "correct_answer": "I will read the book.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 35,
+          "question": "Identify the voice: 'He helps the poor.'",
+          "options": ["Active Voice", "Passive Voice", "Not a sentence", "A question"],
+          "correct_answer": "Active Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 36,
+          "question": "Identify the voice: 'The poor are helped by him.'",
+          "options": ["Active Voice", "Passive Voice", "Not a sentence", "A question"],
+          "correct_answer": "Passive Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 37,
+          "question": "Change the voice: 'A barber cuts hair.'",
+          "options": ["Hair is cut by a barber.", "Hair was cut by a barber.", "Hair are cut by a barber.", "A barber is cutting hair."],
+          "correct_answer": "Hair is cut by a barber.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 38,
+          "question": "Change the voice: 'The fisherman caught a big fish.'",
+          "options": ["A big fish is caught by the fisherman.", "A big fish has been caught by the fisherman.", "A big fish was caught by the fisherman.", "A big fish is being caught by the fisherman."],
+          "correct_answer": "A big fish was caught by the fisherman.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 39,
+          "question": "Change the voice: 'The teacher will check the notebooks.'",
+          "options": ["The notebooks are checked by the teacher.", "The notebooks were checked by the teacher.", "The notebooks will be checked by the teacher.", "The notebooks are being checked by the teacher."],
+          "correct_answer": "The notebooks will be checked by the teacher.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 40,
+          "question": "In the passive voice, the doer of the action is introduced by the preposition...",
+          "options": ["on", "in", "by", "at"],
+          "correct_answer": "by",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 41,
+          "question": "Change the voice: 'The flowers are being plucked by the girl.'",
+          "options": ["The girl plucks the flowers.", "The girl plucked the flowers.", "The girl is plucking the flowers.", "The girl has plucked the flowers."],
+          "correct_answer": "The girl is plucking the flowers.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 42,
+          "question": "Change the voice: 'A story was told by my grandmother.'",
+          "options": ["My grandmother tells a story.", "My grandmother is telling a story.", "My grandmother told a story.", "My grandmother has told a story."],
+          "correct_answer": "My grandmother told a story.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 43,
+          "question": "Change the voice: 'The problem will be solved by them.'",
+          "options": ["They solve the problem.", "They solved the problem.", "They will solve the problem.", "They are solving the problem."],
+          "correct_answer": "They will solve the problem.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 44,
+          "question": "Identify the voice: 'I drive a car.'",
+          "options": ["Active", "Passive", "Neither", "Both"],
+          "correct_answer": "Active",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 45,
+          "question": "Identify the voice: 'A car is driven by me.'",
+          "options": ["Active", "Passive", "Neither", "Both"],
+          "correct_answer": "Passive",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 46,
+          "question": "Change the voice: 'The dog drinks milk.'",
+          "options": ["Milk is drunk by the dog.", "Milk was drunk by the dog.", "Milk is being drunk by the dog.", "The dog is drinking milk."],
+          "correct_answer": "Milk is drunk by the dog.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 47,
+          "question": "Change the voice: 'Someone stole my pen.'",
+          "options": ["My pen is stolen by someone.", "My pen was stolen.", "My pen has been stolen by someone.", "Someone is stealing my pen."],
+          "correct_answer": "My pen was stolen.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 48,
+          "question": "Change the voice: 'The farmer will grow rice.'",
+          "options": ["Rice is grown by the farmer.", "Rice was grown by the farmer.", "Rice will be grown by the farmer.", "Rice is being grown by the farmer."],
+          "correct_answer": "Rice will be grown by the farmer.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 49,
+          "question": "Change the voice: 'She helps me.'",
+          "options": ["I was helped by her.", "I am helped by her.", "I am being helped by her.", "She is helping me."],
+          "correct_answer": "I am helped by her.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 50,
+          "question": "Change the voice: 'The letter was written by her.'",
+          "options": ["She writes the letter.", "She wrote the letter.", "She is writing the letter.", "She has written the letter."],
+          "correct_answer": "She wrote the letter.",
+          "grammar_type": "Active and Passive Voice"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Change the voice: 'She is singing a song.'",
+          "options": ["A song is sung by her.", "A song was sung by her.", "A song is being sung by her.", "A song has been sung by her."],
+          "correct_answer": "A song is being sung by her.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 52,
+          "question": "Change the voice: 'He has finished the work.'",
+          "options": ["The work has been finished by him.", "The work was finished by him.", "The work is finished by him.", "The work is being finished by him."],
+          "correct_answer": "The work has been finished by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 53,
+          "question": "Change the voice: 'They were painting the wall.'",
+          "options": ["The wall is being painted by them.", "The wall has been painted by them.", "The wall was being painted by them.", "The wall was painted by them."],
+          "correct_answer": "The wall was being painted by them.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 54,
+          "question": "Change the voice: 'Someone had stolen my bicycle.'",
+          "options": ["My bicycle was stolen.", "My bicycle has been stolen.", "My bicycle is stolen.", "My bicycle had been stolen."],
+          "correct_answer": "My bicycle had been stolen.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 55,
+          "question": "Change the voice: 'The results will have been announced.'",
+          "options": ["They will announce the results.", "They will be announcing the results.", "They will have announced the results.", "They have announced the results."],
+          "correct_answer": "They will have announced the results.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 56,
+          "question": "Change the voice: 'Who broke this glass?'",
+          "options": ["By who was this glass broken?", "By whom was this glass broken?", "By whom this glass was broken?", "Who was broken this glass?"],
+          "correct_answer": "By whom was this glass broken?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 57,
+          "question": "Change the voice: 'Please help me.'",
+          "options": ["You are requested to help me.", "You are ordered to help me.", "You were requested to help me.", "Let me be helped by you."],
+          "correct_answer": "You are requested to help me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 58,
+          "question": "Change the voice: 'He can lift this box.'",
+          "options": ["This box can be lifted by him.", "This box could be lifted by him.", "This box can lift him.", "This box is lifted by him."],
+          "correct_answer": "This box can be lifted by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 59,
+          "question": "Change the voice: 'Why did you do this?'",
+          "options": ["Why was this did by you?", "Why this was done by you?", "Why was this done by you?", "Why did this been done by you?"],
+          "correct_answer": "Why was this done by you?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 60,
+          "question": "Change the voice: 'The task must be completed.'",
+          "options": ["You must have completed the task.", "You must be completing the task.", "You must complete the task.", "You had to complete the task."],
+          "correct_answer": "You must complete the task.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 61,
+          "question": "Identify the voice: 'The case is being investigated by the police.'",
+          "options": ["Active Voice", "Passive Voice", "Active-Passive", "None"],
+          "correct_answer": "Passive Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 62,
+          "question": "Identify the voice: 'She has written a novel.'",
+          "options": ["Active Voice", "Passive Voice", "Passive-Active", "None"],
+          "correct_answer": "Active Voice",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 63,
+          "question": "Change the voice: 'The boys were making a noise.'",
+          "options": ["A noise was made by the boys.", "A noise has been made by the boys.", "A noise is being made by the boys.", "A noise was being made by the boys."],
+          "correct_answer": "A noise was being made by the boys.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 64,
+          "question": "Change the voice: 'I have painted the door.'",
+          "options": ["The door is painted by me.", "The door was painted by me.", "The door has been painted by me.", "The door is being painted by me."],
+          "correct_answer": "The door has been painted by me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 65,
+          "question": "Change the voice: 'She will be singing a song.'",
+          "options": ["A song will be sung by her.", "A song is being sung by her.", "A song will be being sung by her.", "A song will have been sung by her."],
+          "correct_answer": "A song will be being sung by her.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 66,
+          "question": "Change the voice: 'Do your homework.'",
+          "options": ["Your homework should be done.", "Let your homework be done.", "You are ordered to do your homework.", "All of the above are possible."],
+          "correct_answer": "All of the above are possible.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 67,
+          "question": "Change the voice: 'By whom was the window broken?'",
+          "options": ["Who broke the window?", "Who has broken the window?", "Who was breaking the window?", "Who had broken the window?"],
+          "correct_answer": "Who broke the window?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 68,
+          "question": "Change the voice: 'The work should have been finished by you.'",
+          "options": ["You should finish the work.", "You should be finishing the work.", "You should have finished the work.", "You have to finish the work."],
+          "correct_answer": "You should have finished the work.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 69,
+          "question": "Change the voice: 'They are building a new bridge.'",
+          "options": ["A new bridge is built by them.", "A new bridge was being built by them.", "A new bridge is being built by them.", "A new bridge has been built by them."],
+          "correct_answer": "A new bridge is being built by them.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 70,
+          "question": "Change the voice: 'Who taught you grammar?'",
+          "options": ["By whom was you taught grammar?", "By whom were you taught grammar?", "By whom are you taught grammar?", "By whom you were taught grammar?"],
+          "correct_answer": "By whom were you taught grammar?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 71,
+          "question": "Identify the voice: 'Promises should be kept.'",
+          "options": ["Active", "Passive", "Assertive", "Negative"],
+          "correct_answer": "Passive",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 72,
+          "question": "Identify the voice: 'He is known to me.'",
+          "options": ["Active", "Passive", "Direct", "Indirect"],
+          "correct_answer": "Passive",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 73,
+          "question": "Change the voice: 'The news has surprised me.'",
+          "options": ["I have been surprised by the news.", "I was surprised by the news.", "I am surprised by the news.", "Me has been surprised by the news."],
+          "correct_answer": "I have been surprised by the news.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 74,
+          "question": "Change the voice: 'The police had been informed.'",
+          "options": ["Someone had informed the police.", "Someone was informing the police.", "Someone has informed the police.", "Someone informed the police."],
+          "correct_answer": "Someone had informed the police.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 75,
+          "question": "Change the voice: 'You must follow the rules.'",
+          "options": ["The rules must be followed by you.", "The rules must have been followed by you.", "The rules must be following by you.", "The rules have to be followed by you."],
+          "correct_answer": "The rules must be followed by you.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 76,
+          "question": "Change the voice: 'The old man was being helped by the boy.'",
+          "options": ["The boy helped the old man.", "The boy was helping the old man.", "The boy helps the old man.", "The boy has helped the old man."],
+          "correct_answer": "The boy was helping the old man.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 77,
+          "question": "Change the voice: 'Have you finished the report?'",
+          "options": ["Has the report been finished by you?", "Was the report finished by you?", "Is the report finished by you?", "Had the report been finished by you?"],
+          "correct_answer": "Has the report been finished by you?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 78,
+          "question": "Change the voice: 'The boys laughed at the beggar.'",
+          "options": ["The beggar was laughed at by the boys.", "The beggar was being laughed at by the boys.", "The beggar is laughed at by the boys.", "The beggar has been laughed at by the boys."],
+          "correct_answer": "The beggar was laughed at by the boys.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 79,
+          "question": "Change the voice: 'I know him.'",
+          "options": ["He is known by me.", "He was known to me.", "He is known to me.", "He has been known by me."],
+          "correct_answer": "He is known to me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 80,
+          "question": "Change the voice: 'Let the window be opened.'",
+          "options": ["You should open the window.", "Open the window.", "You are requested to open the window.", "You can open the window."],
+          "correct_answer": "Open the window.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 81,
+          "question": "Which tense cannot be changed into passive voice?",
+          "options": ["Present Perfect", "Past Perfect", "Future Continuous", "Future Perfect Continuous"],
+          "correct_answer": "Future Perfect Continuous",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 82,
+          "question": "Change the voice: 'The students were listening to the lecture.'",
+          "options": ["The lecture was being listened to by the students.", "The lecture was listened to by the students.", "The lecture is being listened to by the students.", "The lecture has been listened to by the students."],
+          "correct_answer": "The lecture was being listened to by the students.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 83,
+          "question": "Change the voice: 'The fire has destroyed the forest.'",
+          "options": ["The forest is destroyed by the fire.", "The forest has been destroyed by the fire.", "The forest was destroyed by the fire.", "The forest was being destroyed by the fire."],
+          "correct_answer": "The forest has been destroyed by the fire.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 84,
+          "question": "Change the voice: 'Did she do her duty?'",
+          "options": ["Was her duty done by her?", "Is her duty done by her?", "Has her duty been done by her?", "Had her duty been done by her?"],
+          "correct_answer": "Was her duty done by her?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 85,
+          "question": "Change the voice: 'He may solve this problem.'",
+          "options": ["This problem may be solved by him.", "This problem might be solved by him.", "This problem may have been solved by him.", "This problem is solved by him."],
+          "correct_answer": "This problem may be solved by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 86,
+          "question": "Change the voice: 'I was given a book by him.'",
+          "options": ["He gives me a book.", "He has given me a book.", "He was giving me a book.", "He gave me a book."],
+          "correct_answer": "He gave me a book.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 87,
+          "question": "Change the voice: 'Don't disturb the class.'",
+          "options": ["The class should not be disturbed.", "Let the class not be disturbed.", "You are warned not to disturb the class.", "All of the above are possible."],
+          "correct_answer": "All of the above are possible.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 88,
+          "question": "Change the voice: 'He will have received the letter.'",
+          "options": ["The letter will have been received by him.", "The letter will be received by him.", "The letter will be being received by him.", "The letter has been received by him."],
+          "correct_answer": "The letter will have been received by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 89,
+          "question": "Change the voice: 'The walls have to be painted.'",
+          "options": ["Someone has to paint the walls.", "Someone have to paint the walls.", "Someone should paint the walls.", "Someone had to paint the walls."],
+          "correct_answer": "Someone has to paint the walls.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 90,
+          "question": "Change the voice: 'His behavior surprised me.'",
+          "options": ["I am surprised by his behavior.", "I have been surprised by his behavior.", "I was surprised by his behavior.", "I was surprised at his behavior."],
+          "correct_answer": "I was surprised at his behavior.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 91,
+          "question": "Identify the voice: 'The decision had already been made.'",
+          "options": ["Active", "Passive", "Declarative", "Interrogative"],
+          "correct_answer": "Passive",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 92,
+          "question": "Identify the voice: 'They had been planning this for months.'",
+          "options": ["Active", "Passive", "Declarative", "Interrogative"],
+          "correct_answer": "Active",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 93,
+          "question": "Change the voice: 'The criminal was arrested.'",
+          "options": ["The police was arresting the criminal.", "The police arrested the criminal.", "The police arrests the criminal.", "The police has arrested the criminal."],
+          "correct_answer": "The police arrested the criminal.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 94,
+          "question": "Change the voice: 'Will you have finished the work?'",
+          "options": ["Will the work have been finished by you?", "Will the work be finished by you?", "Will the work be being finished by you?", "Will the work be finished by you?"],
+          "correct_answer": "Will the work have been finished by you?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 95,
+          "question": "Change the voice: 'I am doing my work.'",
+          "options": ["My work is done by me.", "My work has been done by me.", "My work was being done by me.", "My work is being done by me."],
+          "correct_answer": "My work is being done by me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 96,
+          "question": "Change the voice: 'The truth was told to us by him.'",
+          "options": ["He was telling us the truth.", "He has told us the truth.", "He told us the truth.", "He tells us the truth."],
+          "correct_answer": "He told us the truth.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 97,
+          "question": "Change the voice: 'Let this work be finished now.'",
+          "options": ["Finish this work now.", "You should finish this work now.", "You must finish this work now.", "You can finish this work now."],
+          "correct_answer": "Finish this work now.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 98,
+          "question": "Change the voice: 'The team was practicing for the tournament.'",
+          "options": ["The tournament was being practiced for by the team.", "Practice was being done by the team for the tournament.", "The team has been practicing for the tournament.", "This sentence cannot be changed easily."],
+          "correct_answer": "The tournament was being practiced for by the team.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 99,
+          "question": "Change the voice: 'One should respect one's elders.'",
+          "options": ["One's elders should be respected.", "Elders should be respected.", "Elders are to be respected.", "Let the elders be respected."],
+          "correct_answer": "Elders should be respected.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 100,
+          "question": "Change the voice: 'The bell has been rung by the peon.'",
+          "options": ["The peon rings the bell.", "The peon was ringing the bell.", "The peon has rung the bell.", "The peon had rung the bell."],
+          "correct_answer": "The peon has rung the bell.",
+          "grammar_type": "Active and Passive Voice"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Change the voice: 'He gave me a pen.' (Start with 'I')",
+          "options": ["I was given a pen by him.", "I gave a pen to him.", "A pen was given to me by him.", "I was being given a pen by him."],
+          "correct_answer": "I was given a pen by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 102,
+          "question": "Change the voice: 'He gave me a pen.' (Start with 'A pen')",
+          "options": ["A pen was given to me by him.", "A pen was given by him to me.", "I was given a pen by him.", "A pen gave me by him."],
+          "correct_answer": "A pen was given to me by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 103,
+          "question": "Change the voice: 'It is time to take tea.'",
+          "options": ["It is time for tea to be taken.", "It is time tea was taken.", "It is time tea should be taken.", "Tea should be taken now."],
+          "correct_answer": "It is time for tea to be taken.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 104,
+          "question": "Change the voice: 'People believe that he is a good leader.' (Start with 'It')",
+          "options": ["It is believed that he is a good leader.", "It was believed that he is a good leader.", "It is believed that he was a good leader.", "It is to be believed that he is a good leader."],
+          "correct_answer": "It is believed that he is a good leader.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 105,
+          "question": "Change the voice: 'People believe that he is a good leader.' (Start with 'He')",
+          "options": ["He is believed that he is a good leader.", "He is believed to be a good leader.", "He was believed to be a good leader.", "He had been believed to be a good leader."],
+          "correct_answer": "He is believed to be a good leader.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 106,
+          "question": "Change the voice: 'The doctor is to examine the patient.'",
+          "options": ["The patient is to be examined by the doctor.", "The patient is examined by the doctor.", "The patient was to be examined by the doctor.", "The patient has to be examined by the doctor."],
+          "correct_answer": "The patient is to be examined by the doctor.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 107,
+          "question": "Change the voice: 'I remember my teacher taking me to the museum.'",
+          "options": ["I remember I was taken to the museum by my teacher.", "I remember being taken to the museum by my teacher.", "I remember myself being taken to the museum by my teacher.", "I remember my teacher had taken me to the museum."],
+          "correct_answer": "I remember being taken to the museum by my teacher.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 108,
+          "question": "Which sentence can NOT be changed into the passive voice?",
+          "options": ["He is writing a letter.", "She laughed loudly.", "They built a house.", "I will help you."],
+          "correct_answer": "She laughed loudly.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 109,
+          "question": "Change the voice: 'They elected him president.'",
+          "options": ["He was elected president by them.", "President was elected by them.", "He is elected president by them.", "He had been elected president by them."],
+          "correct_answer": "He was elected president by them.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 110,
+          "question": "Change the voice: 'Honey tastes sweet.'",
+          "options": ["Honey is tasted sweet.", "Honey is sweet when it is tasted.", "Sweet is the taste of honey.", "This sentence cannot be changed."],
+          "correct_answer": "Honey is sweet when it is tasted.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 111,
+          "question": "Change the voice: 'His sudden arrival surprised everyone.'",
+          "options": ["Everyone is surprised by his sudden arrival.", "Everyone was surprised at his sudden arrival.", "Everyone was surprised by his sudden arrival.", "Everyone had been surprised by his sudden arrival."],
+          "correct_answer": "Everyone was surprised at his sudden arrival.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 112,
+          "question": "Change the voice: 'I object to your proposal.'",
+          "options": ["Your proposal is objected to by me.", "Your proposal is to be objected by me.", "Your proposal was objected to by me.", "Your proposal has been objected to by me."],
+          "correct_answer": "Your proposal is objected to by me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 113,
+          "question": "Change the voice: 'The manager will look into the matter.'",
+          "options": ["The matter will be looked into by the manager.", "The matter will be looked by the manager.", "The matter will have been looked into by the manager.", "The matter is looked into by the manager."],
+          "correct_answer": "The matter will be looked into by the manager.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 114,
+          "question": "Change the voice: 'Circumstances will oblige me to go.'",
+          "options": ["I will be obliged to go by circumstances.", "I shall be obliged by circumstances to go.", "I would be obliged to go by circumstances.", "I shall be obliged to go by circumstances."],
+          "correct_answer": "I shall be obliged to go by circumstances.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 115,
+          "question": "Change the voice: 'The noise of the traffic kept me awake.'",
+          "options": ["I was kept awake by the noise of the traffic.", "I was being kept awake by the noise of the traffic.", "I had been kept awake by the noise of the traffic.", "I am kept awake by the noise of the traffic."],
+          "correct_answer": "I was kept awake by the noise of the traffic.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 116,
+          "question": "Change the voice: 'He made us work.'",
+          "options": ["We were made to work by him.", "We were made work by him.", "We had been made to work by him.", "We are made to work by him."],
+          "correct_answer": "We were made to work by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 117,
+          "question": "Change the voice: 'Let him finish the job.'",
+          "options": ["Let the job be finished by him.", "The job should be finished by him.", "He must finish the job.", "He is requested to finish the job."],
+          "correct_answer": "Let the job be finished by him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 118,
+          "question": "Change the voice: 'It is your duty to help your parents.'",
+          "options": ["Your parents are to be helped by you.", "Your parents must be helped by you.", "You are supposed to help your parents.", "Let your parents be helped by you."],
+          "correct_answer": "You are supposed to help your parents.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 119,
+          "question": "Change the voice: 'Who do you think will be chosen?'",
+          "options": ["By whom do you think will be chosen?", "Whom do you think will be chosen?", "This sentence is already in passive form.", "This sentence cannot be changed."],
+          "correct_answer": "This sentence is already in passive form.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 120,
+          "question": "Change the voice: 'The problem is being discussed.'",
+          "options": ["They are discussing the problem.", "They were discussing the problem.", "They have been discussing the problem.", "They had been discussing the problem."],
+          "correct_answer": "They are discussing the problem.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 121,
+          "question": "Change the voice: 'I was asked my name.'",
+          "options": ["They asked me my name.", "My name was asked by them.", "They were asking me my name.", "They had asked me my name."],
+          "correct_answer": "They asked me my name.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 122,
+          "question": "Change the voice: 'His comments annoyed me.'",
+          "options": ["I was annoyed by his comments.", "I was annoyed with his comments.", "I had been annoyed by his comments.", "I am annoyed with his comments."],
+          "correct_answer": "I was annoyed by his comments.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 123,
+          "question": "Change the voice: 'We must listen to his words.'",
+          "options": ["His words must be listened to by us.", "His words must be listened by us.", "His words should be listened to by us.", "His words have to be listened to by us."],
+          "correct_answer": "His words must be listened to by us.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 124,
+          "question": "The passive form of 'The doctor advised me to rest' is:",
+          "options": ["I was advised by the doctor to rest.", "I was being advised by the doctor to rest.", "The doctor advised that I should be rested.", "Rest was advised to me by the doctor."],
+          "correct_answer": "I was advised by the doctor to rest.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 125,
+          "question": "Change the voice: 'The judge suspected that someone had bribed the witness.'",
+          "options": ["It was suspected by the judge that the witness had been bribed.", "The judge suspected that the witness was bribed by someone.", "The witness was suspected of being bribed.", "The judge suspected that the witness had been bribed by someone."],
+          "correct_answer": "It was suspected by the judge that the witness had been bribed.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 126,
+          "question": "Change the voice: 'The walls need painting.'",
+          "options": ["The walls need to be painted.", "Painting is needed by the walls.", "The walls are needed to be painted.", "The walls need being painted."],
+          "correct_answer": "The walls need to be painted.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 127,
+          "question": "Change the voice: 'Who is creating this mess?'",
+          "options": ["By whom is this mess created?", "By whom has this mess been created?", "By whom is this mess being created?", "By whom was this mess being created?"],
+          "correct_answer": "By whom is this mess being created?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 128,
+          "question": "Change the voice: 'You have to do it.'",
+          "options": ["It has to be done by you.", "It has to be did by you.", "It have to be done by you.", "It is to be done by you."],
+          "correct_answer": "It has to be done by you.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 129,
+          "question": "Which of these sentences is in the passive voice?",
+          "options": ["The sun had risen.", "He has arrived.", "The work has been completed.", "She was running."],
+          "correct_answer": "The work has been completed.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 130,
+          "question": "Change the voice: 'Don't let him be disturbed.'",
+          "options": ["Don't disturb him.", "You should not disturb him.", "He is not to be disturbed.", "Let's not disturb him."],
+          "correct_answer": "Don't disturb him.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 131,
+          "question": "Change the voice: 'They will have to postpone the meeting.'",
+          "options": ["The meeting will have to be postponed by them.", "The meeting will have to be postpone by them.", "The meeting will be postponed by them.", "The meeting has to be postponed by them."],
+          "correct_answer": "The meeting will have to be postponed by them.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 132,
+          "question": "Change the voice: 'I saw him opening the box.'",
+          "options": ["He was seen to open the box by me.", "He was seen opening the box by me.", "He was seen by me to be opening the box.", "The box was seen being opened by him."],
+          "correct_answer": "He was seen opening the box by me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 133,
+          "question": "Change the voice: 'It is expected that he will succeed.'",
+          "options": ["He is expected to succeed.", "He is expected that he will succeed.", "He will be expected to succeed.", "It is expected for him to succeed."],
+          "correct_answer": "He is expected to succeed.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 134,
+          "question": "The passive form of 'The king gave him a reward' is:",
+          "options": ["He was given a reward by the king.", "A reward was given to him by the king.", "Both A and B are correct.", "Neither A nor B is correct."],
+          "correct_answer": "Both A and B are correct.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 135,
+          "question": "Change the voice: 'The news pleased her.'",
+          "options": ["She was pleased with the news.", "She was pleased by the news.", "She was pleased at the news.", "She has been pleased with the news."],
+          "correct_answer": "She was pleased with the news.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 136,
+          "question": "Change the voice: 'Who can solve this problem?'",
+          "options": ["By whom can this problem be solved?", "By who can this problem be solved?", "By whom can this problem solved?", "By whom this problem can be solved?"],
+          "correct_answer": "By whom can this problem be solved?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 137,
+          "question": "Change the voice: 'Let me do this.'",
+          "options": ["Let this be done by me.", "Let I do this.", "This should be done by me.", "Let this be did by me."],
+          "correct_answer": "Let this be done by me.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 138,
+          "question": "Change the voice: 'This box contains books.'",
+          "options": ["Books are contained by this box.", "Books were contained in this box.", "Books are contained in this box.", "Books are contained with this box."],
+          "correct_answer": "Books are contained in this box.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 139,
+          "question": "Change the voice: 'We are to write a story.'",
+          "options": ["A story is to be written by us.", "A story is to be wrote by us.", "A story has to be written by us.", "A story was to be written by us."],
+          "correct_answer": "A story is to be written by us.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 140,
+          "question": "Change the voice: 'What did he eat?'",
+          "options": ["What was eaten by him?", "What did he ate?", "What was ate by him?", "What had been eaten by him?"],
+          "correct_answer": "What was eaten by him?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 141,
+          "question": "Change the voice: 'He enjoys being praised.'",
+          "options": ["He enjoys praise.", "Praise is enjoyed by him.", "To be praised is enjoyed by him.", "This sentence cannot be changed."],
+          "correct_answer": "This sentence cannot be changed.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 142,
+          "question": "The active form of 'The injured were being helped by the volunteers' is:",
+          "options": ["The volunteers were helping the injured.", "The volunteers helped the injured.", "The volunteers have been helping the injured.", "The volunteers had helped the injured."],
+          "correct_answer": "The volunteers were helping the injured.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 143,
+          "question": "Change the voice: 'I was made to laugh by him.'",
+          "options": ["He made me laugh.", "He was making me laugh.", "He makes me laugh.", "He has made me laugh."],
+          "correct_answer": "He made me laugh.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 144,
+          "question": "Change the voice: 'One cannot gather grapes from thistles.'",
+          "options": ["Grapes cannot be gathered from thistles.", "Grapes can be not gathered from thistles.", "Grapes from thistles cannot be gathered.", "Thistles cannot gather grapes."],
+          "correct_answer": "Grapes cannot be gathered from thistles.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 145,
+          "question": "Change the voice: 'Why should I be suspected by you?'",
+          "options": ["Why should you suspect me?", "Why do you suspect me?", "Why should you have suspected me?", "Why you should suspect me?"],
+          "correct_answer": "Why should you suspect me?",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 146,
+          "question": "The active form of 'The city was destroyed by the earthquake' is:",
+          "options": ["The earthquake was destroying the city.", "The earthquake destroys the city.", "The earthquake has destroyed the city.", "The earthquake destroyed the city."],
+          "correct_answer": "The earthquake destroyed the city.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 147,
+          "question": "Change the voice: 'We all know that there is only one God.'",
+          "options": ["It is known to us all that there is only one God.", "It is known that there is only one God.", "That there is only one God is known by us all.", "All of the above are correct."],
+          "correct_answer": "All of the above are correct.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 148,
+          "question": "Change the voice: 'The speech is being delivered by the leader.'",
+          "options": ["The leader was delivering the speech.", "The leader is delivering the speech.", "The leader has been delivering the speech.", "The leader delivers the speech."],
+          "correct_answer": "The leader is delivering the speech.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 149,
+          "question": "Change the voice: 'The matter was looked into by the committee.'",
+          "options": ["The committee looked into the matter.", "The committee was looking into the matter.", "The committee has looked into the matter.", "The committee had been looking into the matter."],
+          "correct_answer": "The committee looked into the matter.",
+          "grammar_type": "Active and Passive Voice"
+        },
+        {
+          "id": 150,
+          "question": "The passive form of 'The situation is getting out of control' is:",
+          "options": ["Control is being gotten out of by the situation.", "The situation is being gotten out of control.", "Control is getting out of the situation.", "This sentence has no passive form."],
+          "correct_answer": "This sentence has no passive form.",
+          "grammar_type": "Active and Passive Voice"
+        }
+      ]
+    }
+  ]
+}
+

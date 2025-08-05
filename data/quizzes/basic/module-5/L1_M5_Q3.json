@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "In which room do you sleep?",
+          "options": ["Kitchen", "Bathroom", "Bedroom", "Living room"],
+          "correct_answer": "Bedroom",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 2,
+          "question": "What do you sit on at a dining table?",
+          "options": ["Bed", "Sofa", "Chair", "Stool"],
+          "correct_answer": "Chair",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 3,
+          "question": "Where is food cooked in a house?",
+          "options": ["Bedroom", "Kitchen", "Garden", "Bathroom"],
+          "correct_answer": "Kitchen",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 4,
+          "question": "What do you open to enter or leave a room?",
+          "options": ["Window", "Wall", "Door", "Roof"],
+          "correct_answer": "Door",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 5,
+          "question": "What is the main piece of furniture in a bedroom for sleeping?",
+          "options": ["Table", "Chair", "Bed", "Sofa"],
+          "correct_answer": "Bed",
+          "grammar_type": "At the Home"
+        },
+        {
+          "id": 6,
+          "question": "What do you use to watch shows and movies?",
+          "options": ["Radio", "Television", "Computer", "Book"],
+          "correct_answer": "Television",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 7,
+          "question": "In which room do you take a bath?",
+          "options": ["Kitchen", "Bedroom", "Hall", "Bathroom"],
+          "correct_answer": "Bathroom",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 8,
+          "question": "What gives light in a room at night?",
+          "options": ["Fan", "Window", "Bulb", "Door"],
+          "correct_answer": "Bulb",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 9,
+          "question": "What do you look through to see outside?",
+          "options": ["Wall", "Door", "Window", "Floor"],
+          "correct_answer": "Window",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 10,
+          "question": "Where do you wash your hands in the bathroom?",
+          "options": ["Tub", "Shower", "Sink", "Toilet"],
+          "correct_answer": "Sink",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 11,
+          "question": "Your father and mother are your ____.",
+          "options": ["Siblings", "Parents", "Cousins", "Grandparents"],
+          "correct_answer": "Parents",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 12,
+          "question": "What do you use to keep a room cool?",
+          "options": ["Heater", "Light", "Fan", "Stove"],
+          "correct_answer": "Fan",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 13,
+          "question": "What is the top covering of a house called?",
+          "options": ["Floor", "Wall", "Roof", "Ceiling"],
+          "correct_answer": "Roof",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 14,
+          "question": "Where do you usually eat your meals?",
+          "options": ["Bedroom", "Dining room", "Bathroom", "Garden"],
+          "correct_answer": "Dining room",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 15,
+          "question": "Your brother and sister are your ____.",
+          "options": ["Parents", "Cousins", "Siblings", "Friends"],
+          "correct_answer": "Siblings",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 16,
+          "question": "What do you use to clean the floor?",
+          "options": ["Cloth", "Broom", "Brush", "Sponge"],
+          "correct_answer": "Broom",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 17,
+          "question": "What do you keep your clothes in?",
+          "options": ["Cupboard", "Table", "Shelf", "Box"],
+          "correct_answer": "Cupboard",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 18,
+          "question": "The room where guests sit is the ____.",
+          "options": ["Bedroom", "Living room", "Kitchen", "Storeroom"],
+          "correct_answer": "Living room",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 19,
+          "question": "What do you use to cover the floor?",
+          "options": ["Curtain", "Carpet", "Bed sheet", "Towel"],
+          "correct_answer": "Carpet",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 20,
+          "question": "Where do you grow flowers and plants?",
+          "options": ["Terrace", "Balcony", "Garden", "Verandah"],
+          "correct_answer": "Garden",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 21,
+          "question": "You sleep on a bed with a pillow under your ____.",
+          "options": ["feet", "back", "hand", "head"],
+          "correct_answer": "head",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 22,
+          "question": "What do you use to boil water for tea?",
+          "options": ["Pan", "Kettle", "Plate", "Bowl"],
+          "correct_answer": "Kettle",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 23,
+          "question": "You hang ____ on the windows.",
+          "options": ["Carpets", "Photos", "Curtains", "Clocks"],
+          "correct_answer": "Curtains",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 24,
+          "question": "What do you use to lock a door?",
+          "options": ["Handle", "Hinge", "Key", "Bell"],
+          "correct_answer": "Key",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 25,
+          "question": "The main meal of the day eaten at night is ____.",
+          "options": ["Breakfast", "Lunch", "Snack", "Dinner"],
+          "correct_answer": "Dinner",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 26,
+          "question": "What is the floor you walk on inside the house?",
+          "options": ["Roof", "Ceiling", "Floor", "Ground"],
+          "correct_answer": "Floor",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 27,
+          "question": "The room where you study is the ____.",
+          "options": ["Study room", "Dining room", "Drawing room", "Bedroom"],
+          "correct_answer": "Study room",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 28,
+          "question": "What do you use to eat food?",
+          "options": ["Pan", "Spoon", "Knife", "Plate"],
+          "correct_answer": "Plate",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 29,
+          "question": "The child of your uncle or aunt is your ____.",
+          "options": ["Sibling", "Niece", "Cousin", "Nephew"],
+          "correct_answer": "Cousin",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 30,
+          "question": "A comfortable long seat for more than one person is a ____.",
+          "options": ["Chair", "Stool", "Sofa", "Bench"],
+          "correct_answer": "Sofa",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 31,
+          "question": "What is the flat surface on top of the room called?",
+          "options": ["Floor", "Ceiling", "Roof", "Wall"],
+          "correct_answer": "Ceiling",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 32,
+          "question": "What do you drink water from?",
+          "options": ["Plate", "Bowl", "Glass", "Spoon"],
+          "correct_answer": "Glass",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 33,
+          "question": "Your father's father is your ____.",
+          "options": ["Uncle", "Father", "Grandfather", "Brother"],
+          "correct_answer": "Grandfather",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 34,
+          "question": "We keep our food cold in a ____.",
+          "options": ["Stove", "Oven", "Refrigerator", "Cupboard"],
+          "correct_answer": "Refrigerator",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 35,
+          "question": "You see your reflection in a ____.",
+          "options": ["Window", "Picture", "Mirror", "Wall"],
+          "correct_answer": "Mirror",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 36,
+          "question": "We wash dirty clothes in a ____.",
+          "options": ["Dishwasher", "Washing machine", "Sink", "Bucket"],
+          "correct_answer": "Washing machine",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 37,
+          "question": "A set of stairs helps you go ____.",
+          "options": ["outside", "inside", "upstairs or downstairs", "around"],
+          "correct_answer": "upstairs or downstairs",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 38,
+          "question": "Your mother's sister is your ____.",
+          "options": ["Grandmother", "Cousin", "Aunt", "Niece"],
+          "correct_answer": "Aunt",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 39,
+          "question": "What is another name for a living room?",
+          "options": ["Guest room", "Drawing room", "Study room", "Storeroom"],
+          "correct_answer": "Drawing room",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 40,
+          "question": "You use a ____ to clean your teeth.",
+          "options": ["Soap", "Towel", "Toothbrush", "Comb"],
+          "correct_answer": "Toothbrush",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 41,
+          "question": "The area just outside the front door of a house is the ____.",
+          "options": ["Garden", "Porch", "Balcony", "Terrace"],
+          "correct_answer": "Porch",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 42,
+          "question": "What is a daily task of keeping the house clean called?",
+          "options": ["Hobby", "Work", "Chore", "Job"],
+          "correct_answer": "Chore",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 43,
+          "question": "You put books on a book____.",
+          "options": ["case", "shelf", "rack", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 44,
+          "question": "Where do you park your car at home?",
+          "options": ["Garden", "Garage", "Kitchen", "Living room"],
+          "correct_answer": "Garage",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 45,
+          "question": "Your family lives together in a ____.",
+          "options": ["School", "Market", "Home", "Office"],
+          "correct_answer": "Home",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 46,
+          "question": "We use a ____ to cut vegetables.",
+          "options": ["Spoon", "Fork", "Knife", "Plate"],
+          "correct_answer": "Knife",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 47,
+          "question": "What is the main door of the house called?",
+          "options": ["Back door", "Front door", "Room door", "Gate"],
+          "correct_answer": "Front door",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 48,
+          "question": "You throw waste into a ____.",
+          "options": ["Bucket", "Bag", "Dustbin", "Box"],
+          "correct_answer": "Dustbin",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 49,
+          "question": "Your father's brother is your ____.",
+          "options": ["Grandfather", "Cousin", "Nephew", "Uncle"],
+          "correct_answer": "Uncle",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 50,
+          "question": "An outdoor area on an upper floor of a house is a ____.",
+          "options": ["Garden", "Balcony", "Porch", "Yard"],
+          "correct_answer": "Balcony",
+          "grammar_type": "At Home"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is a 'household'?",
+          "options": ["A type of house", "A person who owns a house", "The people living in a house collectively", "The furniture in a house"],
+          "correct_answer": "The people living in a house collectively",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 52,
+          "question": "A piece of furniture with drawers for storing clothes is a ____.",
+          "options": ["Wardrobe", "Chest of drawers", "Bookshelf", "Cabinet"],
+          "correct_answer": "Chest of drawers",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 53,
+          "question": "What is the room in the roof of a house called?",
+          "options": ["Basement", "Attic", "Cellar", "Loft"],
+          "correct_answer": "Attic",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 54,
+          "question": "An appliance that washes plates and spoons automatically is a ____.",
+          "options": ["Washing machine", "Dishwasher", "Mixer", "Oven"],
+          "correct_answer": "Dishwasher",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 55,
+          "question": "The son of your brother or sister is your ____.",
+          "options": ["Cousin", "Sibling", "Nephew", "Son-in-law"],
+          "correct_answer": "Nephew",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 56,
+          "question": "What is a 'chore'?",
+          "options": ["A fun activity", "A routine task, especially a household one", "A type of game", "A school subject"],
+          "correct_answer": "A routine task, especially a household one",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 57,
+          "question": "A small carpet for a particular area is called a ____.",
+          "options": ["Mat", "Rug", "Runner", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 58,
+          "question": "What is the appliance used for baking or roasting food?",
+          "options": ["Microwave", "Stove", "Oven", "Toaster"],
+          "correct_answer": "Oven",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 59,
+          "question": "The daughter of your brother or sister is your ____.",
+          "options": ["Niece", "Cousin", "Daughter-in-law", "Aunt"],
+          "correct_answer": "Niece",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 60,
+          "question": "The path leading from the gate to the front door is the ____.",
+          "options": ["Road", "Driveway", "Pavement", "Corridor"],
+          "correct_answer": "Driveway",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 61,
+          "question": "What is the room below the ground floor of a house called?",
+          "options": ["Attic", "Loft", "Basement", "Garage"],
+          "correct_answer": "Basement",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 62,
+          "question": "The part of the stove that produces a flame for cooking is a ____.",
+          "options": ["Burner", "Knob", "Grill", "Hotplate"],
+          "correct_answer": "Burner",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 63,
+          "question": "A tall cupboard in which you hang clothes is a ____.",
+          "options": ["Cabinet", "Wardrobe", "Locker", "Dresser"],
+          "correct_answer": "Wardrobe",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 64,
+          "question": "The husband of your sister is your ____.",
+          "options": ["Brother-in-law", "Son-in-law", "Step-brother", "Cousin"],
+          "correct_answer": "Brother-in-law",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 65,
+          "question": "What is a 'pantry'?",
+          "options": ["A room for washing clothes", "A small room for storing food", "A room for guests", "A study room"],
+          "correct_answer": "A small room for storing food",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 66,
+          "question": "The frame of a door or window is called the ____.",
+          "options": ["Sill", "Frame", "Lintel", "Jamb"],
+          "correct_answer": "Frame",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 67,
+          "question": "What is the daily task of washing plates and spoons called?",
+          "options": ["Washing up", "Doing the dishes", "Cleaning the kitchen", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 68,
+          "question": "A piece of absorbent cloth used for drying is a ____.",
+          "options": ["Napkin", "Towel", "Bed sheet", "Handkerchief"],
+          "correct_answer": "Towel",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 69,
+          "question": "The wife of your brother is your ____.",
+          "options": ["Sister-in-law", "Cousin", "Niece", "Aunt"],
+          "correct_answer": "Sister-in-law",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 70,
+          "question": "What is the chore of removing dust from furniture?",
+          "options": ["Sweeping", "Mopping", "Dusting", "Wiping"],
+          "correct_answer": "Dusting",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 71,
+          "question": "A small table beside a bed is called a ____.",
+          "options": ["Coffee table", "Dining table", "Bedside table", "Study table"],
+          "correct_answer": "Bedside table",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 72,
+          "question": "What is an 'appliance' in a home?",
+          "options": ["A piece of furniture", "A decoration", "A device or piece of equipment designed for a specific task", "A type of chore"],
+          "correct_answer": "A device or piece of equipment designed for a specific task",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 73,
+          "question": "A soft covering for a pillow is a ____.",
+          "options": ["Bed sheet", "Blanket", "Pillowcase", "Quilt"],
+          "correct_answer": "Pillowcase",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 74,
+          "question": "The parents of your parents are your ____.",
+          "options": ["Ancestors", "Grandparents", "Elders", "Relatives"],
+          "correct_answer": "Grandparents",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 75,
+          "question": "The pipe or tube that carries away smoke from a fireplace is the ____.",
+          "options": ["Vent", "Duct", "Chimney", "Exhaust"],
+          "correct_answer": "Chimney",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 76,
+          "question": "What is the chore of cleaning the floor with water and a cloth?",
+          "options": ["Sweeping", "Mopping", "Dusting", "Scrubbing"],
+          "correct_answer": "Mopping",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 77,
+          "question": "The set of all your relatives is your ____.",
+          "options": ["family tree", "kinship", "extended family", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 78,
+          "question": "The tap that controls the flow of water is also called a ____.",
+          "options": ["Spout", "Nozzle", "Faucet", "Pipe"],
+          "correct_answer": "Faucet",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 79,
+          "question": "What is a 'lullaby'?",
+          "options": ["A story told to children", "A soft song to make a baby sleep", "A game played by children", "A type of food for babies"],
+          "correct_answer": "A soft song to make a baby sleep",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 80,
+          "question": "The small items you use to eat with, like spoons and forks, are called ____.",
+          "options": ["Utensils", "Tools", "Cutlery", "Crockery"],
+          "correct_answer": "Cutlery",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 81,
+          "question": "The mother of your spouse is your ____.",
+          "options": ["Grandmother", "Mother", "Aunt", "Mother-in-law"],
+          "correct_answer": "Mother-in-law",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 82,
+          "question": "What do you call a meal cooked and eaten outdoors?",
+          "options": ["Picnic", "Barbecue", "Feast", "Buffet"],
+          "correct_answer": "Barbecue",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 83,
+          "question": "The machine that cleans carpets and floors by suction is a ____.",
+          "options": ["Broom", "Mop", "Vacuum cleaner", "Sweeper"],
+          "correct_answer": "Vacuum cleaner",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 84,
+          "question": "A long passage inside a house with doors leading to rooms is a ____.",
+          "options": ["Hallway", "Corridor", "Lobby", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 85,
+          "question": "Your family's history can be shown on a family ____.",
+          "options": ["chart", "list", "tree", "graph"],
+          "correct_answer": "tree",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 86,
+          "question": "What are plates, cups, and bowls collectively called?",
+          "options": ["Cutlery", "Utensils", "Crockery", "Glassware"],
+          "correct_answer": "Crockery",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 87,
+          "question": "The task of putting clothes on a line to dry is called ____.",
+          "options": ["washing clothes", "doing the laundry", "hanging out the laundry", "ironing clothes"],
+          "correct_answer": "hanging out the laundry",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 88,
+          "question": "A room for storing things you don't use often is a ____.",
+          "options": ["Storeroom", "Pantry", "Attic", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 89,
+          "question": "The father of your spouse is your ____.",
+          "options": ["Grandfather", "Father", "Uncle", "Father-in-law"],
+          "correct_answer": "Father-in-law",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 90,
+          "question": "An appliance that toasts slices of bread is a ____.",
+          "options": ["Oven", "Grill", "Toaster", "Microwave"],
+          "correct_answer": "Toaster",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 91,
+          "question": "A soft chair for one person with supports for the arms is an ____.",
+          "options": ["Armchair", "Sofa", "Couch", "Stool"],
+          "correct_answer": "Armchair",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 92,
+          "question": "What is a 'heirloom'?",
+          "options": ["A tool for weaving", "A valuable object passed down through a family", "A type of vegetable", "The eldest heir of a family"],
+          "correct_answer": "A valuable object passed down through a family",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 93,
+          "question": "The task of using an iron to remove wrinkles from clothes is ____.",
+          "options": ["Washing", "Drying", "Pressing", "Ironing"],
+          "correct_answer": "Ironing",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 94,
+          "question": "The small table in the middle of the living room is a ____.",
+          "options": ["Dining table", "Coffee table", "Study table", "Side table"],
+          "correct_answer": "Coffee table",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 95,
+          "question": "A person you rent a house from is the ____.",
+          "options": ["Owner", "Landlord", "Tenant", "Resident"],
+          "correct_answer": "Landlord",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 96,
+          "question": "The kitchen counter where you prepare food is the ____.",
+          "options": ["Tabletop", "Worktop", "Shelf", "Platform"],
+          "correct_answer": "Worktop",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 97,
+          "question": "A person who pays rent to live in a house is the ____.",
+          "options": ["Owner", "Landlord", "Tenant", "Buyer"],
+          "correct_answer": "Tenant",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 98,
+          "question": "The small house at the entrance of a large property for a guard is a ____.",
+          "options": ["Gatehouse", "Outhouse", "Shed", "Cabin"],
+          "correct_answer": "Gatehouse",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 99,
+          "question": "A thick, warm bed covering is a ____.",
+          "options": ["Bed sheet", "Pillowcase", "Duvet", "Mat"],
+          "correct_answer": "Duvet",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 100,
+          "question": "What is the chore of taking the rubbish outside called?",
+          "options": ["Throwing the garbage", "Taking out the trash", "Emptying the bin", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At Home"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "A decorative cloth spread over a bed is a ____.",
+          "options": ["Duvet", "Quilt", "Bedspread", "Blanket"],
+          "correct_answer": "Bedspread",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 102,
+          "question": "The structure of rails and posts that supports a staircase is a ____.",
+          "options": ["Railing", "Balustrade", "Handrail", "Banister"],
+          "correct_answer": "Banister",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 103,
+          "question": "A room that is partly or wholly below ground level is a ____.",
+          "options": ["Basement", "Cellar", "Attic", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 104,
+          "question": "What is a 'scullery'?",
+          "options": ["A small kitchen or room at the back of a house used for washing dishes.", "A room for storing sculptures.", "A type of bedroom.", "A small study room."],
+          "correct_answer": "A small kitchen or room at the back of a house used for washing dishes.",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 105,
+          "question": "A soft, padded seat without a back or arms is a/an ____.",
+          "options": ["Stool", "Bench", "Ottoman", "Pouf"],
+          "correct_answer": "Ottoman",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 106,
+          "question": "A person's 'lineage' refers to their ____.",
+          "options": ["address", "occupation", "ancestral descent", "hobbies"],
+          "correct_answer": "ancestral descent",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 107,
+          "question": "A small room or large cupboard for storing food is a ____ or pantry.",
+          "options": ["Larder", "Cellar", "Storeroom", "Cabinet"],
+          "correct_answer": "Larder",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 108,
+          "question": "A 'patriarch' is the ____ head of a family.",
+          "options": ["female", "youngest", "male", "joint"],
+          "correct_answer": "male",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 109,
+          "question": "The ledge at the bottom of a window is the ____.",
+          "options": ["Windowsill", "Frame", "Pane", "Sash"],
+          "correct_answer": "Windowsill",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 110,
+          "question": "An electrical appliance that blends or emulsifies food is a ____.",
+          "options": ["Mixer", "Grinder", "Blender", "Food processor"],
+          "correct_answer": "Blender",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 111,
+          "question": "A family that extends beyond the nuclear family is an ____ family.",
+          "options": ["Extended", "Joint", "Large", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 112,
+          "question": "The panel of wood below a window is known as ____.",
+          "options": ["Wainscoting", "Skirting board", "Dado rail", "Cornice"],
+          "correct_answer": "Wainscoting",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 113,
+          "question": "A 'matriarch' is the ____ head of a family.",
+          "options": ["male", "joint", "female", "elected"],
+          "correct_answer": "female",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 114,
+          "question": "What is a 'bidet' found in some bathrooms used for?",
+          "options": ["Washing hands", "Storing towels", "Washing the lower part of the body", "A type of toilet"],
+          "correct_answer": "Washing the lower part of the body",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 115,
+          "question": "A 'hearth' is the floor of a ____.",
+          "options": ["Kitchen", "Fireplace", "Bathroom", "Balcony"],
+          "correct_answer": "Fireplace",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 116,
+          "question": "The term 'kin' refers to your ____.",
+          "options": ["friends and neighbours", "family and relations", "parents only", "children only"],
+          "correct_answer": "family and relations",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 117,
+          "question": "An 'alcove' is a small ____ in the wall of a room.",
+          "options": ["window", "door", "recess", "shelf"],
+          "correct_answer": "recess",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 118,
+          "question": "The activity of maintaining and repairing a house is called ____.",
+          "options": ["Housework", "Chores", "Upkeep", "Renovation"],
+          "correct_answer": "Upkeep",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 119,
+          "question": "A 'verandah' is a ____.",
+          "options": ["roofed platform along the outside of a house", "room in the attic", "basement used for storage", "small garden shed"],
+          "correct_answer": "roofed platform along the outside of a house",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 120,
+          "question": "Your 'progeny' refers to your ____.",
+          "options": ["Ancestors", "Parents", "Siblings", "Descendants or children"],
+          "correct_answer": "Descendants or children",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 121,
+          "question": "What is a 'chaise lounge'?",
+          "options": ["A type of dining chair", "A sofa in the shape of a chair that is long enough to support the legs", "A chair used in a lounge", "A small, decorative table"],
+          "correct_answer": "A sofa in the shape of a chair that is long enough to support the legs",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 122,
+          "question": "The 'threshold' is the strip of wood or stone at the bottom of a ____.",
+          "options": ["window", "doorway", "staircase", "roof"],
+          "correct_answer": "doorway",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 123,
+          "question": "A 'dormer' is a window that projects vertically from a ____ roof.",
+          "options": ["flat", "sloping", "thatched", "terrace"],
+          "correct_answer": "sloping",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 124,
+          "question": "What is a 'spatula' used for in the kitchen?",
+          "options": ["Cutting vegetables", "Boiling water", "Lifting, spreading, or mixing", "Grinding spices"],
+          "correct_answer": "Lifting, spreading, or mixing",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 125,
+          "question": "Your 'next of kin' is your ____.",
+          "options": ["closest living relative", "eldest family member", "youngest family member", "entire extended family"],
+          "correct_answer": "closest living relative",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 126,
+          "question": "A 'parapet' is a low protective ____ along the edge of a roof or balcony.",
+          "options": ["wall", "fence", "railing", "hedge"],
+          "correct_answer": "wall",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 127,
+          "question": "The chore of 'decluttering' involves:",
+          "options": ["Deep cleaning the house", "Removing unnecessary items from an untidy space", "Organizing clothes in a wardrobe", "Doing the laundry"],
+          "correct_answer": "Removing unnecessary items from an untidy space",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 128,
+          "question": "A 'conservatory' or 'sunroom' is a room with ____.",
+          "options": ["no windows", "a glass roof and walls", "very thick walls", "underground access"],
+          "correct_answer": "a glass roof and walls",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 129,
+          "question": "What is a 'colander' used for?",
+          "options": ["Serving soup", "Straining food such as pasta or vegetables", "Baking cakes", "Frying eggs"],
+          "correct_answer": "Straining food such as pasta or vegetables",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 130,
+          "question": "A family that consists of a couple and their children from previous marriages is a ____ family.",
+          "options": ["Joint", "Nuclear", "Blended", "Extended"],
+          "correct_answer": "Blended",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 131,
+          "question": "The 'eaves' are the part of the roof that ____.",
+          "options": ["is at the very top", "has the chimney", "meets or overhangs the walls", "is made of tiles"],
+          "correct_answer": "meets or overhangs the walls",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 132,
+          "question": "A 'food processor' is an appliance that can...",
+          "options": ["only blend liquids.", "only grind dry spices.", "perform various tasks like chopping, grinding, and mixing.", "only bake food."],
+          "correct_answer": "perform various tasks like chopping, grinding, and mixing.",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 133,
+          "question": "What is a 'foyer' or 'entrance hall'?",
+          "options": ["The main living area", "The room immediately inside the front door", "The kitchen", "A corridor between rooms"],
+          "correct_answer": "The room immediately inside the front door",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 134,
+          "question": "The brother of your grandparent is your ____.",
+          "options": ["Great-uncle", "Grand-uncle", "Second uncle", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 135,
+          "question": "A 'mantelpiece' is a structure of wood or stone above and around a ____.",
+          "options": ["Doorway", "Window", "Fireplace", "Bed"],
+          "correct_answer": "Fireplace",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 136,
+          "question": "What does it mean to do 'menial' chores?",
+          "options": ["Difficult and challenging tasks", "Tasks that require a lot of skill", "Tasks that do not require much skill", "Tasks that are done only by men"],
+          "correct_answer": "Tasks that do not require much skill",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 137,
+          "question": "A 'utility room' is a room equipped for ____.",
+          "options": ["studying and reading", "entertaining guests", "sleeping", "washing and ironing clothes"],
+          "correct_answer": "washing and ironing clothes",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 138,
+          "question": "A 'whisk' is a kitchen utensil used for ____.",
+          "options": ["cutting", "peeling", "beating or stirring", "serving"],
+          "correct_answer": "beating or stirring",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 139,
+          "question": "The term 'household chores' refers to the ____.",
+          "options": ["work of maintaining a house", "money spent on the house", "people living in the house", "rules of the house"],
+          "correct_answer": "work of maintaining a house",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 140,
+          "question": "What is a 'mortgage'?",
+          "options": ["The monthly rent for a house", "A legal agreement to borrow money to buy a house", "The insurance for a house", "The tax paid on a house"],
+          "correct_answer": "A legal agreement to borrow money to buy a house",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 141,
+          "question": "A 'dumbwaiter' is a small ____.",
+          "options": ["lift for carrying food and dishes", "kitchen appliance for chopping", "table for serving drinks", "person who serves food"],
+          "correct_answer": "lift for carrying food and dishes",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 142,
+          "question": "What is a 'housewarming' party?",
+          "options": ["A party to celebrate winter", "A party to warm up a cold house", "A party to celebrate moving into a new home", "A family get-together"],
+          "correct_answer": "A party to celebrate moving into a new home",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 143,
+          "question": "The term 'abode' is a more formal or literary word for one's ____.",
+          "options": ["family", "room", "home", "village"],
+          "correct_answer": "home",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 144,
+          "question": "A 'turret' is a small ____ that projects from the wall of a building, such as a castle.",
+          "options": ["window", "door", "tower", "balcony"],
+          "correct_answer": "tower",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 145,
+          "question": "The chore of 'spring cleaning' refers to ____.",
+          "options": ["cleaning the garden in spring", "a thorough cleaning of the whole house", "washing winter clothes", "cleaning only the springs of a bed"],
+          "correct_answer": "a thorough cleaning of the whole house",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 146,
+          "question": "A 'mezzanine' is an intermediate floor in a building which is partly open to the ____.",
+          "options": ["floor below", "roof", "outside", "next room"],
+          "correct_answer": "floor below",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 147,
+          "question": "Your 'sibling-in-law' refers to ____.",
+          "options": ["your spouse's sibling", "your sibling's spouse", "the spouse of your spouse's sibling", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 148,
+          "question": "A 'skirting board' or 'baseboard' is a wooden board running along the bottom of an interior ____.",
+          "options": ["ceiling", "window", "door", "wall"],
+          "correct_answer": "wall",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 149,
+          "question": "What is 'filial piety'?",
+          "options": ["A type of pie made by children", "The love between siblings", "The virtue of respect for one's parents and ancestors", "A family celebration"],
+          "correct_answer": "The virtue of respect for one's parents and ancestors",
+          "grammar_type": "At Home"
+        },
+        {
+          "id": 150,
+          "question": "A 'cupola' is a small, dome-like structure on top of a ____.",
+          "options": ["door", "window", "wall", "roof"],
+          "correct_answer": "roof",
+          "grammar_type": "At Home"
+        }
+      ]
+    }
+  ]
+}
+

@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "What is the most common way to begin a folk tale?",
+          "options": ["In the future...", "Breaking news...", "The end.", "Once upon a time..."],
+          "correct_answer": "Once upon a time...",
+          "grammar_type": "Writing a Folk Tale"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "The main purpose of a folk tale is usually to entertain and to...",
+          "options": ["sell a product", "report the news", "teach a lesson", "confuse the reader"],
+          "correct_answer": "teach a lesson",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 3,
+          "question": "What is the lesson of a folk tale called?",
+          "options": ["The title", "The character", "The setting", "The moral"],
+          "correct_answer": "The moral",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 4,
+          "question": "Which of these is a common character in a folk tale?",
+          "options": ["A robot", "An astronaut", "A talking animal", "A computer"],
+          "correct_answer": "A talking animal",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 5,
+          "question": "Where does a typical folk tale take place?",
+          "options": ["In a modern city", "On a spaceship", "In a village or a deep forest", "In an office building"],
+          "correct_answer": "In a village or a deep forest",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 6,
+          "question": "The 'good' character who solves the problem in a folk tale is called the...",
+          "options": ["villain", "narrator", "hero", "setting"],
+          "correct_answer": "hero",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 7,
+          "question": "The 'bad' character who creates the problem is called the...",
+          "options": ["hero", "moral", "villain", "helper"],
+          "correct_answer": "villain",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 8,
+          "question": "Which of these is a common magical element in a folk tale?",
+          "options": ["A mobile phone", "The internet", "A flying carpet", "A television"],
+          "correct_answer": "A flying carpet",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 9,
+          "question": "How do folk tales usually end?",
+          "options": ["Sadly", "Abruptly", "Happily", "With a question"],
+          "correct_answer": "Happily",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 10,
+          "question": "What is the first part of a folk tale's plot?",
+          "options": ["The solution", "The ending", "The problem", "The moral"],
+          "correct_answer": "The problem",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 11,
+          "question": "Folk tales were originally passed down by...",
+          "options": ["writing books", "sending emails", "word of mouth", "watching videos"],
+          "correct_answer": "word of mouth",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 12,
+          "question": "Which character trait is often rewarded in a folk tale?",
+          "options": ["Greed", "Kindness", "Laziness", "Cruelty"],
+          "correct_answer": "Kindness",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 13,
+          "question": "Which character trait is often punished in a folk tale?",
+          "options": ["Honesty", "Bravery", "Generosity", "Greed"],
+          "correct_answer": "Greed",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 14,
+          "question": "The language in a folk tale should be...",
+          "options": ["Complex and difficult", "Simple and clear", "Scientific", "Full of modern slang"],
+          "correct_answer": "Simple and clear",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 15,
+          "question": "A folk tale that features animals as the main characters to teach a lesson is called a...",
+          "options": ["Legend", "Myth", "Fable", "Biography"],
+          "correct_answer": "Fable",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 16,
+          "question": "What is the second part of a folk tale's plot, where the hero tries to solve the problem?",
+          "options": ["The beginning", "The events or adventure", "The moral", "The title"],
+          "correct_answer": "The events or adventure",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 17,
+          "question": "What is the final part of a folk tale's plot?",
+          "options": ["The conflict", "The introduction", "The solution or resolution", "The rising action"],
+          "correct_answer": "The solution or resolution",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 18,
+          "question": "What number is often repeated in folk tales (e.g., three wishes, three brothers)?",
+          "options": ["Two", "Three", "Five", "Ten"],
+          "correct_answer": "Three",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 19,
+          "question": "A good folk tale should have a clear...",
+          "options": ["Beginning, middle, and end", "List of facts", "Scientific formula", "News report"],
+          "correct_answer": "Beginning, middle, and end",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 20,
+          "question": "Who are the 'folk' in 'folk tale'?",
+          "options": ["Only the royal family", "The common people of a region", "Famous scientists", "Modern celebrities"],
+          "correct_answer": "The common people of a region",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 21,
+          "question": "In a folk tale, a character who is a 'simpleton' or 'fool' is often...",
+          "options": ["The evilest character", "The strongest character", "Successful due to luck or kindness", "The wisest character"],
+          "correct_answer": "Successful due to luck or kindness",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 22,
+          "question": "When writing a folk tale, it is important to show a clear difference between...",
+          "options": ["day and night", "good and evil", "the sea and the sky", "two different villages"],
+          "correct_answer": "good and evil",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 23,
+          "question": "A folk tale that is believed to be based on a real person or event is a...",
+          "options": ["Fable", "Myth", "Legend", "Fairy tale"],
+          "correct_answer": "Legend",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 24,
+          "question": "What should the setting of a folk tale feel like?",
+          "options": ["Modern and futuristic", "Timeless and faraway", "Specific to a recent year", "Busy and industrial"],
+          "correct_answer": "Timeless and faraway",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 25,
+          "question": "The person telling the story is the...",
+          "options": ["Hero", "Villain", "Narrator", "Moral"],
+          "correct_answer": "Narrator",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 26,
+          "question": "The most important part of writing a fable is to have a clear...",
+          "options": ["Setting", "Moral", "Title", "Hero"],
+          "correct_answer": "Moral",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 27,
+          "question": "A folk tale that includes fairies and royalty is often called a...",
+          "options": ["Fable", "Legend", "Myth", "Fairy tale"],
+          "correct_answer": "Fairy tale",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 28,
+          "question": "When you write a folk tale, the characters should be...",
+          "options": ["Very complex and hard to understand", "Simple and easy to understand", "All the same", "All evil"],
+          "correct_answer": "Simple and easy to understand",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 29,
+          "question": "What is a 'quest' in a folk tale?",
+          "options": ["A short nap", "A difficult journey to find something", "A big party", "A simple question"],
+          "correct_answer": "A difficult journey to find something",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 30,
+          "question": "The hero in a folk tale is usually...",
+          "options": ["rich and powerful", "poor and humble", "mean and cruel", "lazy and boring"],
+          "correct_answer": "poor and humble",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 31,
+          "question": "What is a 'curse' in a folk tale?",
+          "options": ["A good wish", "A magical spell that causes bad things", "A type of food", "A happy song"],
+          "correct_answer": "A magical spell that causes bad things",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 32,
+          "question": "When writing a folk tale, it's good to use words that are...",
+          "options": ["Easy for everyone to understand", "Hard for most people to understand", "Only used in science", "Only used in business"],
+          "correct_answer": "Easy for everyone to understand",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 33,
+          "question": "The beginning of your folk tale should introduce the main characters and the...",
+          "options": ["solution", "moral", "problem", "ending"],
+          "correct_answer": "problem",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 34,
+          "question": "What is a 'magical helper' in a folk tale?",
+          "options": ["The villain", "A character who creates problems", "A creature or person who helps the hero", "The main character's pet"],
+          "correct_answer": "A creature or person who helps the hero",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 35,
+          "question": "A good moral for a folk tale about a lazy grasshopper and a hardworking ant would be...",
+          "options": ["It is best to sing and dance all day.", "Hard work is always punished.", "It is important to prepare for the future.", "Ants and grasshoppers are friends."],
+          "correct_answer": "It is important to prepare for the future.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 36,
+          "question": "The middle of the folk tale is where the main ______ happens.",
+          "options": ["introduction", "action and adventure", "moral", "ending"],
+          "correct_answer": "action and adventure",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 37,
+          "question": "To write a good folk tale, you need a good...",
+          "options": ["imagination", "calculator", "scientific formula", "business plan"],
+          "correct_answer": "imagination",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 38,
+          "question": "Who is the audience for a folk tale?",
+          "options": ["Only scientists", "Only historians", "Everyone, especially young people", "Only politicians"],
+          "correct_answer": "Everyone, especially young people",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 39,
+          "question": "In the end, the villain in a folk tale usually...",
+          "options": ["wins", "is rewarded", "is punished", "becomes the hero"],
+          "correct_answer": "is punished",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 40,
+          "question": "When writing dialogue for folk tale characters, it should be...",
+          "options": ["long and complicated", "short, simple, and direct", "full of difficult words", "whispered"],
+          "correct_answer": "short, simple, and direct",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 41,
+          "question": "A folk tale that explains why a tiger has stripes is called a...",
+          "options": ["Fairy tale", "'Why' story (Pourquoi tale)", "Legend", "Fable"],
+          "correct_answer": "'Why' story (Pourquoi tale)",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 42,
+          "question": "What is the most important element to include in the ending?",
+          "options": ["A new problem", "How the problem is solved", "A confusing twist", "A sad conclusion"],
+          "correct_answer": "How the problem is solved",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 43,
+          "question": "A wise old woman in a folk tale is likely to give the hero...",
+          "options": ["a difficult problem", "bad advice", "good advice or a magical gift", "a punishment"],
+          "correct_answer": "good advice or a magical gift",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 44,
+          "question": "To make a folk tale interesting, you should describe the...",
+          "options": ["characters and setting", "narrator's family", "author's life", "price of the book"],
+          "correct_answer": "characters and setting",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 45,
+          "question": "The events in a folk tale often seem...",
+          "options": ["realistic and ordinary", "magical and extraordinary", "boring and dull", "scientific and factual"],
+          "correct_answer": "magical and extraordinary",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 46,
+          "question": "The ending '...and they lived happily ever after' is common in which type of folk tale?",
+          "options": ["Fable", "Legend", "Fairy tale", "Myth"],
+          "correct_answer": "Fairy tale",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 47,
+          "question": "A good way to show a character is foolish is by describing their...",
+          "options": ["brave deeds", "kind words", "silly actions", "wise thoughts"],
+          "correct_answer": "silly actions",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 48,
+          "question": "What is a 'trickster' character in a folk tale?",
+          "options": ["The hero", "A clever and mischievous character who plays tricks", "The kindest character", "The strongest character"],
+          "correct_answer": "A clever and mischievous character who plays tricks",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 49,
+          "question": "A folk tale from India would likely include details about Indian...",
+          "options": ["space missions", "culture and traditions", "modern politics", "stock market"],
+          "correct_answer": "culture and traditions",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 50,
+          "question": "Before writing, it is a good idea to ______ your folk tale.",
+          "options": ["publish", "sell", "plan", "forget"],
+          "correct_answer": "plan",
+          "grammar_type": "Writing a Folk Tale"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "What is the 'inciting incident' in the plot of a folk tale?",
+          "options": ["The happy ending", "The event that introduces the main conflict or problem", "The moral of the story", "The description of the setting"],
+          "correct_answer": "The event that introduces the main conflict or problem",
+          "grammar_type": "Writing a Folk Tale"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "When writing a fable, the animal characters should represent...",
+          "options": ["specific people you know", "human traits and behaviors", "only their animal nature", "complex and confusing ideas"],
+          "correct_answer": "human traits and behaviors",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 53,
+          "question": "What is a 'motif' in a folk tale?",
+          "options": ["The main character", "The moral", "A recurring element, like an impossible task or a magical object", "The ending"],
+          "correct_answer": "A recurring element, like an impossible task or a magical object",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 54,
+          "question": "The 'oral tradition' influenced the style of folk tales by making them...",
+          "options": ["long and complex with difficult vocabulary", "repetitive and easy to remember", "full of scientific data", "hard to understand when heard"],
+          "correct_answer": "repetitive and easy to remember",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 55,
+          "question": "When developing a hero for your folk tale, it's important to give them...",
+          "options": ["no weaknesses", "a clear goal and a challenge to overcome", "a very complicated personality", "a bad attitude"],
+          "correct_answer": "a clear goal and a challenge to overcome",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 56,
+          "question": "A 'cumulative tale' is a type of folk tale that...",
+          "options": ["has a sad ending", "explains why something in nature exists", "builds upon itself by repeating and adding a new element each time", "has no characters"],
+          "correct_answer": "builds upon itself by repeating and adding a new element each time",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 57,
+          "question": "How can you show a character's personality without directly telling the reader?",
+          "options": ["Through their actions, words, and choices", "By writing a long description of their personality", "By using a narrator to say 'he was brave'", "You cannot show personality indirectly"],
+          "correct_answer": "Through their actions, words, and choices",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 58,
+          "question": "What is an 'archetype' in folklore?",
+          "options": ["A unique, never-before-seen character", "A typical character that represents a universal pattern, like the wise old mentor", "The villain's evil plan", "A type of ancient writing"],
+          "correct_answer": "A typical character that represents a universal pattern, like the wise old mentor",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 59,
+          "question": "In the 'rising action' of a folk tale, the...",
+          "options": ["problem is introduced", "problem is solved", "tension and conflict build up", "moral is stated"],
+          "correct_answer": "tension and conflict build up",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 60,
+          "question": "The 'climax' of a folk tale is...",
+          "options": ["the beginning of the story", "the most exciting point where the hero confronts the villain", "the happy ending", "the introduction of characters"],
+          "correct_answer": "the most exciting point where the hero confronts the villain",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 61,
+          "question": "What is the difference between a myth and a folk tale?",
+          "options": ["There is no difference.", "Myths often feature gods and explain the origins of the world.", "Folk tales are always true.", "Myths never have characters."],
+          "correct_answer": "Myths often feature gods and explain the origins of the world.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 62,
+          "question": "When crafting a moral for your tale, it should be...",
+          "options": ["very long and complicated", "a universal truth that relates to the story's events", "a secret that is hard to find", "completely unrelated to the story"],
+          "correct_answer": "a universal truth that relates to the story's events",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 63,
+          "question": "The use of personification in a folk tale means...",
+          "options": ["making the story more personal", "giving human qualities to animals or objects", "using very specific details", "writing from a first-person perspective"],
+          "correct_answer": "giving human qualities to animals or objects",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 64,
+          "question": "To make the setting of a folk tale feel authentic, you should...",
+          "options": ["include modern technology like smartphones", "use simple, descriptive language to paint a picture of a timeless place", "make it very specific, like 'New Delhi in 2023'", "not describe the setting at all"],
+          "correct_answer": "use simple, descriptive language to paint a picture of a timeless place",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 65,
+          "question": "The 'rule of three' motif can apply to characters, events, or objects. Which is an example?",
+          "options": ["The hero is given three impossible tasks.", "The hero has one magical helper.", "The story has four main parts.", "The villain is a two-headed dragon."],
+          "correct_answer": "The hero is given three impossible tasks.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 66,
+          "question": "The 'resolution' or 'falling action' of a folk tale is where...",
+          "options": ["the conflict is at its highest point", "the loose ends of the story are tied up after the climax", "the story begins", "a new problem appears"],
+          "correct_answer": "the loose ends of the story are tied up after the climax",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 67,
+          "question": "Why is it important for the problem in a folk tale to seem difficult or impossible?",
+          "options": ["To make the story boring", "To make the hero's success more impressive and satisfying", "To make the hero fail in the end", "It is not important"],
+          "correct_answer": "To make the hero's success more impressive and satisfying",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 68,
+          "question": "In a 'pourquoi tale' explaining why bears have short tails, the main plot would focus on...",
+          "options": ["an event that caused the bear's tail to become short", "the bear's family life", "what the bear eats", "how strong the bear is"],
+          "correct_answer": "an event that caused the bear's tail to become short",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 69,
+          "question": "When a character in a folk tale is a 'trickster', they usually solve problems using...",
+          "options": ["great strength", "kindness and honesty", "cleverness and cunning", "magical powers"],
+          "correct_answer": "cleverness and cunning",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 70,
+          "question": "How can you create suspense while writing the middle of a folk tale?",
+          "options": ["By telling the reader the ending early", "By making the hero's tasks very easy", "By introducing obstacles and setbacks for the hero", "By having no villain"],
+          "correct_answer": "By introducing obstacles and setbacks for the hero",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 71,
+          "question": "The theme of 'transformation' in a folk tale could be shown by...",
+          "options": ["a character who never changes", "a frog turning into a prince", "a character who stays in the same place", "a story with no magic"],
+          "correct_answer": "a frog turning into a prince",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 72,
+          "question": "When writing a legend, it is good to connect the story to a...",
+          "options": ["fictional planet", "scientific theory", "real historical place or person", "modern celebrity"],
+          "correct_answer": "real historical place or person",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 73,
+          "question": "The simple, direct sentences often found in written folk tales are a reflection of their origin in...",
+          "options": ["scientific papers", "legal documents", "oral storytelling", "business reports"],
+          "correct_answer": "oral storytelling",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 74,
+          "question": "A 'flat character' in a folk tale is one who...",
+          "options": ["is very complex and changes throughout the story", "embodies a single quality, like pure evil or absolute kindness", "is not important to the story", "is physically flat"],
+          "correct_answer": "embodies a single quality, like pure evil or absolute kindness",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 75,
+          "question": "The use of stock phrases like 'a faraway kingdom' helps to...",
+          "options": ["make the story very specific", "establish a timeless, universal setting", "confuse the reader about the location", "make the story historically accurate"],
+          "correct_answer": "establish a timeless, universal setting",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 76,
+          "question": "What is the primary function of dialogue in a folk tale?",
+          "options": ["To make the story longer", "To reveal character and advance the plot", "To describe the setting in detail", "To state the moral repeatedly"],
+          "correct_answer": "To reveal character and advance the plot",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 77,
+          "question": "A folk tale about the creation of the world is more accurately classified as a...",
+          "options": ["Fable", "Legend", "Myth", "Fairy tale"],
+          "correct_answer": "Myth",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 78,
+          "question": "'Poetic justice' in the resolution of a folk tale means that...",
+          "options": ["the story ends with a poem", "there is no justice", "good is rewarded and evil is punished in a fitting way", "the villain wins"],
+          "correct_answer": "good is rewarded and evil is punished in a fitting way",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 79,
+          "question": "A good way to make your villain more threatening is to show them...",
+          "options": ["being kind to animals", "succeeding in their evil plans at first", "helping the hero", "telling funny jokes"],
+          "correct_answer": "succeeding in their evil plans at first",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 80,
+          "question": "When writing a folk tale, the author's personal opinions should be...",
+          "options": ["stated directly and frequently", "hidden within the moral and the story's events", "the main focus of the story", "completely absent"],
+          "correct_answer": "hidden within the moral and the story's events",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 81,
+          "question": "The 'evil stepmother' is a common ______ in fairy tales.",
+          "options": ["hero", "setting", "archetype", "moral"],
+          "correct_answer": "archetype",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 82,
+          "question": "To write an effective fable, the moral should be...",
+          "options": ["subtle and directly related to the animals' actions", "stated at the beginning", "very complex", "unrelated to the story"],
+          "correct_answer": "subtle and directly related to the animals' actions",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 83,
+          "question": "The plot of a folk tale is often driven by...",
+          "options": ["the hero's internal thoughts", "the hero's actions to solve a problem", "the description of the weather", "the villain's backstory"],
+          "correct_answer": "the hero's actions to solve a problem",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 84,
+          "question": "Why does a folk tale hero often have a humble background?",
+          "options": ["To make the story more realistic.", "To make their final success more inspiring for ordinary people.", "Because rich people cannot be heroes.", "To make the story sadder."],
+          "correct_answer": "To make their final success more inspiring for ordinary people.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 85,
+          "question": "A 'talisman' is a common motif in folk tales. What is it?",
+          "options": ["The villain's main weapon", "A magical object that protects or helps the hero", "A wise old man", "A map to a treasure"],
+          "correct_answer": "A magical object that protects or helps the hero",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 86,
+          "question": "When writing a folk tale, it's best to use a ______ point of view.",
+          "options": ["first-person ('I')", "second-person ('you')", "third-person ('he', 'she')", "fourth-person"],
+          "correct_answer": "third-person ('he', 'she')",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 87,
+          "question": "A 'frame story' is a literary device where...",
+          "options": ["the story has no ending", "the story is told in pictures", "a main story is used to introduce a series of smaller stories", "the story is told backwards"],
+          "correct_answer": "a main story is used to introduce a series of smaller stories",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 88,
+          "question": "The conflict in a folk tale can be between a character and nature, another character, or...",
+          "options": ["themself", "a specific date", "a color", "a piece of furniture"],
+          "correct_answer": "themself",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 89,
+          "question": "Using sensory details (sight, sound, smell) helps to...",
+          "options": ["make the story's setting more vivid and believable", "make the moral clearer", "make the characters more confusing", "make the plot shorter"],
+          "correct_answer": "make the story's setting more vivid and believable",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 90,
+          "question": "A 'variant' of a folk tale is...",
+          "options": ["the only correct version of the story", "a different version of the same basic story", "a completely unrelated story", "the moral of the story"],
+          "correct_answer": "a different version of the same basic story",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 91,
+          "question": "A good way to start planning your folk tale is to first decide on the...",
+          "options": ["title", "moral or lesson", "number of pages", "cover design"],
+          "correct_answer": "moral or lesson",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 92,
+          "question": "The 'animal groom' motif (like in 'Beauty and the Beast') explores the theme of...",
+          "options": ["the importance of wealth", "looking beyond outward appearances", "the danger of animals", "the fun of parties"],
+          "correct_answer": "looking beyond outward appearances",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 93,
+          "question": "The tone of a folk tale narrator is typically...",
+          "options": ["confused and unsure", "angry and aggressive", "straightforward and authoritative", "sad and emotional"],
+          "correct_answer": "straightforward and authoritative",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 94,
+          "question": "When writing a folk tale, why should you avoid explaining the magic too much?",
+          "options": ["Because magic is not important.", "To maintain a sense of wonder and mystery.", "To make the story more scientific.", "Because the reader already knows everything."],
+          "correct_answer": "To maintain a sense of wonder and mystery.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 95,
+          "question": "The theme of 'hospitality' is important in many folk tales because a stranger could be...",
+          "options": ["the villain", "a magical being in disguise", "the hero's lost sibling", "a normal person"],
+          "correct_answer": "a magical being in disguise",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 96,
+          "question": "The 'falling action' is the part of the story that happens...",
+          "options": ["before the problem is introduced", "right after the climax", "at the very beginning", "it is not part of a story"],
+          "correct_answer": "right after the climax",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 97,
+          "question": "A 'prophecy' in a folk tale is a...",
+          "options": ["magical object", "prediction of the future that drives the story", "type of villain", "wise saying"],
+          "correct_answer": "prediction of the future that drives the story",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 98,
+          "question": "What is the best way to show that a character is wise?",
+          "options": ["Have the narrator state 'He was wise.'", "Have the character solve a difficult riddle or give good advice.", "Describe the character as old.", "Have the character own many books."],
+          "correct_answer": "Have the character solve a difficult riddle or give good advice.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 99,
+          "question": "A 'taboo' or forbidden action in a folk tale (like opening a specific door) usually leads to...",
+          "options": ["a great reward", "the end of the story", "trouble or negative consequences", "nothing happening"],
+          "correct_answer": "trouble or negative consequences",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 100,
+          "question": "To create an authentic folk tale, it's good to research the ______ of a specific culture.",
+          "options": ["modern technology", "stock market", "traditional beliefs and customs", "political system"],
+          "correct_answer": "traditional beliefs and customs",
+          "grammar_type": "Writing a Folk Tale"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "How does an author create an authentic 'folkloric voice' in a written tale?",
+          "options": ["By using complex, literary language and sentence structures.", "By mimicking the patterns of oral storytelling, such as repetition and simple syntax.", "By including footnotes and academic references.", "By writing in the first person."],
+          "correct_answer": "By mimicking the patterns of oral storytelling, such as repetition and simple syntax.",
+          "grammar_type": "Writing a Folk Tale"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "A 'dilemma tale' is a sophisticated form of folk tale that ends with a question for the audience to debate. What is its primary purpose?",
+          "options": ["To provide a clear and simple moral.", "To encourage critical thinking and discussion about ethics or social norms.", "To tell a complete story with a happy ending.", "To explain a natural phenomenon."],
+          "correct_answer": "To encourage critical thinking and discussion about ethics or social norms.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 103,
+          "question": "What is the literary technique of 'subverting a trope' in the context of writing a modern folk tale?",
+          "options": ["Using a common folk tale element exactly as it has always been used.", "Taking a familiar element, like a 'damsel in distress', and giving it an unexpected twist.", "Avoiding all common folk tale elements.", "Copying an existing folk tale exactly."],
+          "correct_answer": "Taking a familiar element, like a 'damsel in distress', and giving it an unexpected twist.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 104,
+          "question": "What is the function of symbolism in a folk tale, such as a dark forest representing the unknown?",
+          "options": ["To describe the location literally.", "To add a deeper layer of meaning to the story.", "To confuse the reader with hidden messages.", "To make the story longer."],
+          "correct_answer": "To add a deeper layer of meaning to the story.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 105,
+          "question": "The concept of 'liminality' often appears in a hero's journey. When writing this, you would place the hero in a state that is...",
+          "options": ["safely at home", "at the peak of their power", "at a threshold, in a transitional phase of trial and change", "celebrating their victory"],
+          "correct_answer": "at a threshold, in a transitional phase of trial and change",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 106,
+          "question": "To create a 'sympathetic villain' in a folk tale, an author might...",
+          "options": ["make them purely evil with no reason for their actions", "give them a tragic backstory or a understandable, though misguided, motivation", "ensure they win in the end", "describe them as physically perfect"],
+          "correct_answer": "give them a tragic backstory or a understandable, though misguided, motivation",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 107,
+          "question": "How can an author use foreshadowing in a folk tale?",
+          "options": ["By directly telling the reader what will happen next.", "By hiding clues or hints about future events early in the story.", "By never mentioning future events.", "By changing the ending at the last minute."],
+          "correct_answer": "By hiding clues or hints about future events early in the story.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 108,
+          "question": "The 'Aarne-Thompson-Uther Index' is a tool used by folklorists to...",
+          "options": ["rate the quality of folk tales", "classify folk tales based on their recurring plots and motifs", "translate folk tales", "determine the age of a story"],
+          "correct_answer": "classify folk tales based on their recurring plots and motifs",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 109,
+          "question": "What is a key difference between the protagonist of a folk tale and the protagonist of a modern psychological novel?",
+          "options": ["The folk tale protagonist usually has a more complex inner life.", "The folk tale protagonist is more often defined by their actions and archetypal role.", "The novel protagonist has no personality.", "There is no difference."],
+          "correct_answer": "The folk tale protagonist is more often defined by their actions and archetypal role.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 110,
+          "question": "A 'didactic' tale is one that is primarily intended to...",
+          "options": ["entertain", "confuse", "instruct or teach", "frighten"],
+          "correct_answer": "instruct or teach",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 111,
+          "question": "How would you create a culturally authentic but universally understandable folk tale?",
+          "options": ["By using only universal themes and no cultural details.", "By grounding the story in specific cultural customs but focusing on a universal human theme.", "By using a language that only a few people speak.", "By making the story about a modern, global issue."],
+          "correct_answer": "By grounding the story in specific cultural customs but focusing on a universal human theme.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 112,
+          "question": "The 'false hero' is an archetype who...",
+          "options": ["helps the true hero from the beginning", "is the main villain", "takes credit for the hero's deeds before being exposed", "is not important to the plot"],
+          "correct_answer": "takes credit for the hero's deeds before being exposed",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 113,
+          "question": "To write a convincing legend, you should subtly blend...",
+          "options": ["historical facts with fantastical elements", "scientific data with magical events", "future predictions with past events", "personal opinions with proven theories"],
+          "correct_answer": "historical facts with fantastical elements",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 114,
+          "question": "The pacing of a folk tale is typically...",
+          "options": ["slow and reflective, with long descriptions", "fast-paced and action-driven", "uneven and confusing", "There is no typical pace."],
+          "correct_answer": "fast-paced and action-driven",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 115,
+          "question": "When writing a 'pourquoi tale' (e.g., how the leopard got its spots), the most important element is...",
+          "options": ["a complex hero", "a scientifically accurate explanation", "a clever and imaginative narrative for the explanation", "a sad ending"],
+          "correct_answer": "a clever and imaginative narrative for the explanation",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 116,
+          "question": "The 'monomyth' or 'Hero's Journey' is a story structure that involves a hero's departure, initiation, and...",
+          "options": ["failure", "return", "death", "disappearance"],
+          "correct_answer": "return",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 117,
+          "question": "A folk tale that has been written down by an author like Hans Christian Andersen, with a distinct style, is called a...",
+          "options": ["traditional folk tale", "myth", "literary folk tale", "legend"],
+          "correct_answer": "literary folk tale",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 118,
+          "question": "How does the use of figurative language like similes and metaphors enhance a folk tale?",
+          "options": ["It makes the story more factual.", "It adds richness and helps the audience visualize the magical or extraordinary elements.", "It has no effect.", "It makes the language simpler."],
+          "correct_answer": "It adds richness and helps the audience visualize the magical or extraordinary elements.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 119,
+          "question": "A 'cautionary tale' is a type of folk tale that warns the audience about...",
+          "options": ["the benefits of kindness", "the dangers of certain behaviors or actions", "the importance of magic", "the history of a village"],
+          "correct_answer": "the dangers of certain behaviors or actions",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 120,
+          "question": "The 'magical flight' is a common motif where the hero escapes a villain by...",
+          "options": ["running very fast", "using an airplane", "throwing objects behind them that become obstacles", "hiding in a cave"],
+          "correct_answer": "throwing objects behind them that become obstacles",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 121,
+          "question": "What is the primary challenge in writing a folk tale for a modern audience?",
+          "options": ["Making the moral relevant without sounding preachy.", "Using modern technology in the story.", "Finding a hero.", "There are no challenges."],
+          "correct_answer": "Making the moral relevant without sounding preachy.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 122,
+          "question": "When a folk tale uses a 'test' motif, the hero is often tested for qualities like...",
+          "options": ["wealth and strength", "kindness, courage, and wit", "their family background", "their knowledge of science"],
+          "correct_answer": "kindness, courage, and wit",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 123,
+          "question": "To create a powerful moral, the outcome of the story should be a direct ______ of the hero's choices.",
+          "options": ["opposite", "consequence", "coincidence", "mystery"],
+          "correct_answer": "consequence",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 124,
+          "question": "Why is the use of abstract concepts generally avoided in the language of traditional folk tales?",
+          "options": ["Because they are more powerful than concrete images.", "To make the story appeal to a wider audience through concrete actions and images.", "Because the storytellers did not understand them.", "Abstract concepts are always used."],
+          "correct_answer": "To make the story appeal to a wider audience through concrete actions and images.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 125,
+          "question": "A folk tale where the plot revolves around a clever character outsmarting a stronger but more foolish opponent is a...",
+          "options": ["legend", "myth", "trickster tale", "fairy tale"],
+          "correct_answer": "trickster tale",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 126,
+          "question": "What is meant by the 'economy of language' in folk tale writing?",
+          "options": ["Using as many words as possible.", "Telling the story with simple, direct language and avoiding unnecessary details.", "Writing about financial matters.", "Using very expensive words."],
+          "correct_answer": "Telling the story with simple, direct language and avoiding unnecessary details.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 127,
+          "question": "The structure of a cumulative tale like 'The Old Woman and Her Pig' creates a sense of...",
+          "options": ["suspense and fear", "rhythm and predictability", "sadness and loss", "confusion"],
+          "correct_answer": "rhythm and predictability",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 128,
+          "question": "When writing a folk tale, the 'show, don't tell' rule means you should...",
+          "options": ["Tell the reader a character is brave.", "Show the character's bravery through their actions.", "Only describe what can be shown in pictures.", "Never tell the reader anything."],
+          "correct_answer": "Show the character's bravery through their actions.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 129,
+          "question": "What is a 'numskull tale'?",
+          "options": ["A story about a very intelligent character.", "A humorous story about a very foolish character or group of people.", "A scary story about skulls.", "A story with a tragic ending."],
+          "correct_answer": "A humorous story about a very foolish character or group of people.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 130,
+          "question": "A 'just-so story' is another name for a...",
+          "options": ["fable", "legend", "myth", "pourquoi tale"],
+          "correct_answer": "pourquoi tale",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 131,
+          "question": "To create a strong sense of conflict, the hero's goal and the villain's goal should be...",
+          "options": ["the same", "completely unrelated", "in direct opposition", "easy to achieve"],
+          "correct_answer": "in direct opposition",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 132,
+          "question": "Using an 'unreliable narrator' would be an unusual and modern twist on which folk tale convention?",
+          "options": ["The use of magic.", "The straightforward, all-knowing narrator.", "The happy ending.", "The hero's quest."],
+          "correct_answer": "The straightforward, all-knowing narrator.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 133,
+          "question": "A 'beast fable' like 'The Lion and the Mouse' uses anthropomorphism to...",
+          "options": ["accurately portray animal behavior", "comment on human society and morality", "describe different animal species", "tell a realistic story"],
+          "correct_answer": "comment on human society and morality",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 134,
+          "question": "The 'grateful dead' is a folk tale motif where a hero is rewarded for...",
+          "options": ["defeating a ghost", "paying for a proper burial for a stranger", "visiting a graveyard", "telling a scary story"],
+          "correct_answer": "paying for a proper burial for a stranger",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 135,
+          "question": "When writing a folk tale, a 'deus ex machina' (a sudden, improbable solution) should generally be avoided because it...",
+          "options": ["makes the hero's victory feel unearned", "is a common and respected folk tale element", "makes the story more exciting", "is too realistic"],
+          "correct_answer": "makes the hero's victory feel unearned",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 136,
+          "question": "The 'forbidden chamber' motif tests the hero's...",
+          "options": ["strength", "courage", "obedience and curiosity", "kindness"],
+          "correct_answer": "obedience and curiosity",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 137,
+          "question": "In writing a folk tale, the 'world-building' should be...",
+          "options": ["complex and detailed with maps and histories", "simple and suggestive, creating a backdrop for the action", "exactly like the real world", "futuristic and high-tech"],
+          "correct_answer": "simple and suggestive, creating a backdrop for the action",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 138,
+          "question": "The 'changeling' motif, where a human baby is swapped for a fairy child, explores cultural anxieties about...",
+          "options": ["child health and the supernatural", "the importance of wealth", "the power of kings", "the changing seasons"],
+          "correct_answer": "child health and the supernatural",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 139,
+          "question": "A 'parable' is a simple story used to illustrate a moral or spiritual lesson. How does it differ from a fable?",
+          "options": ["Parables use animal characters, while fables use humans.", "Parables use human characters to illustrate a lesson, while fables typically use animals.", "There is no difference.", "Parables have no moral."],
+          "correct_answer": "Parables use human characters to illustrate a lesson, while fables typically use animals.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 140,
+          "question": "What is the function of a 'magical threshold' in a hero's journey?",
+          "options": ["It is the hero's final destination.", "It marks the boundary between the ordinary world and the world of adventure.", "It is the hero's home.", "It is a magical object."],
+          "correct_answer": "It marks the boundary between the ordinary world and the world of adventure.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 141,
+          "question": "To write a compelling conflict, the 'stakes' of the story should be...",
+          "options": ["very low and unimportant", "high and clear to the reader", "confusing and vague", "only important to the villain"],
+          "correct_answer": "high and clear to the reader",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 142,
+          "question": "The 'polygenesis' theory suggests that similar folk tales in different cultures are a result of...",
+          "options": ["people traveling and sharing stories", "the fundamental similarity of human experience and psychology", "pure coincidence", "all stories being written by one author"],
+          "correct_answer": "the fundamental similarity of human experience and psychology",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 143,
+          "question": "When writing a modern folk tale, one might replace a magical element with a...",
+          "options": ["more powerful magical element", "technological element that serves the same plot function", "historical fact", "sad ending"],
+          "correct_answer": "technological element that serves the same plot function",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 144,
+          "question": "The use of 'stock epithets' (e.g., 'wise old owl', 'cunning fox') in writing folk tales helps to...",
+          "options": ["create complex, multi-dimensional characters", "quickly establish a character's primary trait", "confuse the reader about the character", "make the story longer"],
+          "correct_answer": "quickly establish a character's primary trait",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 145,
+          "question": "The 'pact with the devil' motif is a powerful way to explore the theme of...",
+          "options": ["kindness and generosity", "ambition and its consequences", "the importance of friendship", "the beauty of nature"],
+          "correct_answer": "ambition and its consequences",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 146,
+          "question": "A writer can create a sense of 'verisimilitude' (the appearance of being true) in a legend by...",
+          "options": ["making the entire story magical", "including specific, verifiable historical or geographical details", "using very complex language", "ending the story with a question"],
+          "correct_answer": "including specific, verifiable historical or geographical details",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 147,
+          "question": "What is the main challenge in concluding a dilemma tale?",
+          "options": ["Providing a happy ending for the hero.", "Crafting a powerful open question that sparks debate.", "Ensuring the villain is punished.", "Making sure the solution is obvious."],
+          "correct_answer": "Crafting a powerful open question that sparks debate.",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 148,
+          "question": "The 'diffusion' theory of folklore suggests that folk tales...",
+          "options": ["appear spontaneously in different places", "are spread from one culture to another through contact", "are all invented by modern authors", "are not shared between cultures"],
+          "correct_answer": "are spread from one culture to another through contact",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 149,
+          "question": "When you write a folk tale, the 'resolution' should directly address and solve the...",
+          "options": ["main conflict introduced in the beginning", "a minor character's problem", "a new problem that just appeared", "reader's personal problems"],
+          "correct_answer": "main conflict introduced in the beginning",
+          "grammar_type": "Writing a Folk Tale"
+        },
+        {
+          "id": 150,
+          "question": "The enduring power of folk tales lies in their ability to simplify complex human experiences into...",
+          "options": ["scientific formulas", "historical documents", "memorable and meaningful narratives", "confusing and abstract ideas"],
+          "correct_answer": "memorable and meaningful narratives",
+          "grammar_type": "Writing a Folk Tale"
         }
       ]
     }
   ]
 }
+

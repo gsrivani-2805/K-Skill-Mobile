@@ -1,0 +1,1057 @@
+
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which of these is a verb?",
+          "options": ["happy", "ball", "run", "slowly"],
+          "correct_answer": "run",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 2,
+          "question": "A verb is a word that shows ____.",
+          "options": ["a person", "a thing", "an action or state of being", "a quality"],
+          "correct_answer": "an action or state of being",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 3,
+          "question": "Find the verb in this sentence: 'Birds fly in the sky.'",
+          "options": ["Birds", "fly", "in", "sky"],
+          "correct_answer": "fly",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 4,
+          "question": "She ____ a beautiful song.",
+          "options": ["sings", "song", "beautiful", "she"],
+          "correct_answer": "sings",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 5,
+          "question": "Which word is an action word?",
+          "options": ["apple", "eat", "red", "big"],
+          "correct_answer": "eat",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 6,
+          "question": "Identify the verb: 'He plays cricket every day.'",
+          "options": ["He", "cricket", "every", "plays"],
+          "correct_answer": "plays",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 7,
+          "question": "They ____ to school by bus.",
+          "options": ["go", "bus", "school", "They"],
+          "correct_answer": "go",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 8,
+          "question": "Which of the following is a 'doing' word?",
+          "options": ["book", "read", "story", "page"],
+          "correct_answer": "read",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 9,
+          "question": "Find the verb: 'The dog is barking.'",
+          "options": ["The", "dog", "is", "barking"],
+          "correct_answer": "is",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 10,
+          "question": "I ____ my homework.",
+          "options": ["did", "homework", "I", "my"],
+          "correct_answer": "did",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 11,
+          "question": "Which word describes an action?",
+          "options": ["jump", "high", "boy", "happy"],
+          "correct_answer": "jump",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 12,
+          "question": "The baby ____.",
+          "options": ["milk", "sleeps", "cot", "small"],
+          "correct_answer": "sleeps",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 13,
+          "question": "My father ____ a car.",
+          "options": ["drives", "fast", "car", "red"],
+          "correct_answer": "drives",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 14,
+          "question": "The sun ____ brightly.",
+          "options": ["hot", "sun", "shines", "yellow"],
+          "correct_answer": "shines",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 15,
+          "question": "Which of these is NOT a verb?",
+          "options": ["write", "talk", "table", "listen"],
+          "correct_answer": "table",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 16,
+          "question": "Find the verb: 'We are students.'",
+          "options": ["We", "are", "students", "."],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 17,
+          "question": "I ____ an apple every day.",
+          "options": ["is", "am", "eat", "are"],
+          "correct_answer": "eat",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 18,
+          "question": "What is the past form of 'go'?",
+          "options": ["goes", "gone", "went", "going"],
+          "correct_answer": "went",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 19,
+          "question": "She ____ very happy.",
+          "options": ["look", "looks", "happy", "very"],
+          "correct_answer": "looks",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 20,
+          "question": "Identify the verb: 'The teacher teaches English.'",
+          "options": ["teacher", "English", "The", "teaches"],
+          "correct_answer": "teaches",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 21,
+          "question": "We ____ in a big city.",
+          "options": ["city", "live", "big", "in"],
+          "correct_answer": "live",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 22,
+          "question": "Fish ____ in water.",
+          "options": ["swim", "water", "fish", "in"],
+          "correct_answer": "swim",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 23,
+          "question": "Which word is a verb?",
+          "options": ["water", "drink", "thirsty", "glass"],
+          "correct_answer": "drink",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 24,
+          "question": "I ____ a letter to my friend.",
+          "options": ["letter", "friend", "wrote", "my"],
+          "correct_answer": "wrote",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 25,
+          "question": "The stars ____ at night.",
+          "options": ["stars", "night", "at", "twinkle"],
+          "correct_answer": "twinkle",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 26,
+          "question": "He ____ his teeth every morning.",
+          "options": ["teeth", "brushes", "morning", "his"],
+          "correct_answer": "brushes",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 27,
+          "question": "The phone ____.",
+          "options": ["ring", "rang", "rung", "is ringing"],
+          "correct_answer": "is ringing",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 28,
+          "question": "What is the past form of 'see'?",
+          "options": ["see", "seen", "saw", "seeing"],
+          "correct_answer": "saw",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 29,
+          "question": "Find the verb: 'You are a good boy.'",
+          "options": ["You", "are", "good", "boy"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 30,
+          "question": "The children ____ in the garden.",
+          "options": ["play", "garden", "children", "the"],
+          "correct_answer": "play",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 31,
+          "question": "Which of these is a verb?",
+          "options": ["tall", "man", "walk", "quickly"],
+          "correct_answer": "walk",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 32,
+          "question": "They ____ watching a movie.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 33,
+          "question": "My mother ____ delicious food.",
+          "options": ["delicious", "food", "cooks", "my"],
+          "correct_answer": "cooks",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 34,
+          "question": "What is the past form of 'eat'?",
+          "options": ["eats", "eaten", "ate", "eating"],
+          "correct_answer": "ate",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 35,
+          "question": "I ____ a student.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 36,
+          "question": "She ____ to the music.",
+          "options": ["listens", "music", "she", "to"],
+          "correct_answer": "listens",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 37,
+          "question": "We ____ our country.",
+          "options": ["love", "country", "our", "we"],
+          "correct_answer": "love",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 38,
+          "question": "The boy ____ the ball.",
+          "options": ["boy", "ball", "the", "kicked"],
+          "correct_answer": "kicked",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 39,
+          "question": "He ____ very tired yesterday.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "was",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 40,
+          "question": "What is the present form of 'ran'?",
+          "options": ["run", "runs", "running", "ran"],
+          "correct_answer": "run",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 41,
+          "question": "She ____ her friend.",
+          "options": ["friend", "her", "helps", "kind"],
+          "correct_answer": "helps",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 42,
+          "question": "The door is ____.",
+          "options": ["open", "opened", "closed", "shutting"],
+          "correct_answer": "open",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 43,
+          "question": "He ____ to become a doctor.",
+          "options": ["wants", "doctor", "become", "he"],
+          "correct_answer": "wants",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 44,
+          "question": "They ____ happy.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 45,
+          "question": "I ____ TV in the evening.",
+          "options": ["see", "look", "watch", "view"],
+          "correct_answer": "watch",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 46,
+          "question": "What is the past form of 'is'?",
+          "options": ["am", "are", "was", "be"],
+          "correct_answer": "was",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 47,
+          "question": "She can ____ very fast.",
+          "options": ["run", "ran", "running", "runs"],
+          "correct_answer": "run",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 48,
+          "question": "Find the verb: 'The cat slept on the mat.'",
+          "options": ["cat", "slept", "on", "mat"],
+          "correct_answer": "slept",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 49,
+          "question": "He ____ a new shirt.",
+          "options": ["is", "has", "am", "are"],
+          "correct_answer": "has",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 50,
+          "question": "The girl ____ a picture.",
+          "options": ["draws", "picture", "girl", "beautiful"],
+          "correct_answer": "draws",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 51,
+          "question": "What is the past form of 'buy'?",
+          "options": ["buyed", "bought", "buys", "buying"],
+          "correct_answer": "bought",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 52,
+          "question": "We ____ our lessons.",
+          "options": ["lesson", "our", "learn", "we"],
+          "correct_answer": "learn",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 53,
+          "question": "He ____ a book yesterday.",
+          "options": ["read", "reads", "is reading", "was read"],
+          "correct_answer": "read",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 54,
+          "question": "The moon ____ at night.",
+          "options": ["shines", "moon", "night", "the"],
+          "correct_answer": "shines",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 55,
+          "question": "You ____ very smart.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 56,
+          "question": "What is the past form of 'come'?",
+          "options": ["comes", "coming", "came", "comed"],
+          "correct_answer": "came",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 57,
+          "question": "The baker ____ bread.",
+          "options": ["bakes", "baker", "bread", "the"],
+          "correct_answer": "bakes",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 58,
+          "question": "They ____ to the party last night.",
+          "options": ["go", "goes", "went", "gone"],
+          "correct_answer": "went",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 59,
+          "question": "The baby is ____.",
+          "options": ["cries", "cried", "crying", "cry"],
+          "correct_answer": "crying",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 60,
+          "question": "I can ____ English.",
+          "options": ["spoke", "speaks", "speak", "speaking"],
+          "correct_answer": "speak",
+          "grammar_type": "Verbs and Types of Verbs"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "In 'She reads a book,' the verb 'reads' is a ____ verb.",
+          "options": ["Transitive", "Intransitive", "Linking", "Helping"],
+          "correct_answer": "Transitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 62,
+          "question": "In 'The bird flies,' the verb 'flies' is a ____ verb.",
+          "options": ["Transitive", "Intransitive", "Helping", "Modal"],
+          "correct_answer": "Intransitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 63,
+          "question": "In 'He is a doctor,' the verb 'is' is a ____ verb.",
+          "options": ["Action", "Helping", "Linking", "Modal"],
+          "correct_answer": "Linking",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 64,
+          "question": "Which of these is a modal verb?",
+          "options": ["is", "am", "are", "can"],
+          "correct_answer": "can",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 65,
+          "question": "In 'We are playing cricket,' what is the helping verb?",
+          "options": ["We", "are", "playing", "cricket"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 66,
+          "question": "A verb that needs an object to complete its meaning is called ____.",
+          "options": ["Transitive", "Intransitive", "Regular", "Irregular"],
+          "correct_answer": "Transitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 67,
+          "question": "She ____ be tired after the long journey.",
+          "options": ["is", "am", "must", "are"],
+          "correct_answer": "must",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 68,
+          "question": "Which sentence has an intransitive verb?",
+          "options": ["He kicked the ball.", "She wrote a letter.", "They laughed loudly.", "I ate an apple."],
+          "correct_answer": "They laughed loudly.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 69,
+          "question": "What is the main verb in 'He has completed his work'?",
+          "options": ["has", "completed", "his", "work"],
+          "correct_answer": "completed",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 70,
+          "question": "Which of the following is an irregular verb?",
+          "options": ["walk", "talk", "play", "speak"],
+          "correct_answer": "speak",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 71,
+          "question": "The sky ____ dark.",
+          "options": ["grew", "flew", "ate", "ran"],
+          "correct_answer": "grew",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 72,
+          "question": "You ____ not touch that.",
+          "options": ["are", "can", "should", "is"],
+          "correct_answer": "should",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 73,
+          "question": "Which sentence has a linking verb?",
+          "options": ["He ran fast.", "She feels happy.", "They played well.", "I read a book."],
+          "correct_answer": "She feels happy.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 74,
+          "question": "The past participle of 'write' is ____.",
+          "options": ["wrote", "writed", "written", "writing"],
+          "correct_answer": "written",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 75,
+          "question": "I ____ have gone to the party, but I was busy.",
+          "options": ["can", "will", "would", "am"],
+          "correct_answer": "would",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 76,
+          "question": "Which verb correctly completes the sentence: 'The baby has ____ all the milk.'?",
+          "options": ["drink", "drank", "drunk", "drinking"],
+          "correct_answer": "drunk",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 77,
+          "question": "A verb that forms its past tense by adding '-d' or '-ed' is a ____ verb.",
+          "options": ["Regular", "Irregular", "Linking", "Helping"],
+          "correct_answer": "Regular",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 80,
+          "question": "Which is the helping verb in 'They will go tomorrow'?",
+          "options": ["They", "will", "go", "tomorrow"],
+          "correct_answer": "will",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 81,
+          "question": "The earth ____ around the sun.",
+          "options": ["is moving", "moves", "moved", "will move"],
+          "correct_answer": "moves",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 82,
+          "question": "A verb that connects the subject to a noun or adjective in the predicate is a ____ verb.",
+          "options": ["Transitive", "Intransitive", "Linking", "Action"],
+          "correct_answer": "Linking",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 83,
+          "question": "The past form of 'bring' is ____.",
+          "options": ["brang", "bringed", "brought", "brung"],
+          "correct_answer": "brought",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 84,
+          "question": "He ____ like to play chess.",
+          "options": ["is", "does not", "are not", "do not"],
+          "correct_answer": "does not",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 85,
+          "question": "Identify the transitive verb: 'The dog chased the cat.'",
+          "options": ["dog", "chased", "cat", "The"],
+          "correct_answer": "chased",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 86,
+          "question": "What is the base form of the verb 'flew'?",
+          "options": ["flown", "fly", "flow", "flew"],
+          "correct_answer": "fly",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 87,
+          "question": "You ____ finish your homework before you play.",
+          "options": ["may", "must", "might", "are"],
+          "correct_answer": "must",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 88,
+          "question": "Which verb is regular?",
+          "options": ["think", "catch", "close", "teach"],
+          "correct_answer": "close",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 89,
+          "question": "In 'The story seems interesting,' the verb 'seems' is a...",
+          "options": ["Helping verb", "Action verb", "Modal verb", "Linking verb"],
+          "correct_answer": "Linking verb",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 90,
+          "question": "The verb phrase 'has been working' is in which tense?",
+          "options": ["Present simple", "Past simple", "Present perfect continuous", "Future simple"],
+          "correct_answer": "Present perfect continuous",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 91,
+          "question": "She ____ her keys yesterday.",
+          "options": ["loses", "lost", "has lost", "is losing"],
+          "correct_answer": "lost",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 92,
+          "question": "Which is an auxiliary (helping) verb?",
+          "options": ["eat", "sleep", "have", "run"],
+          "correct_answer": "have",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 93,
+          "question": "Find the sentence with an intransitive verb.",
+          "options": ["She read the book.", "He opened the door.", "The baby slept soundly.", "I cleaned my room."],
+          "correct_answer": "The baby slept soundly.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 94,
+          "question": "The past participle of 'choose' is ____.",
+          "options": ["chose", "choosed", "chosen", "choseen"],
+          "correct_answer": "chosen",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 95,
+          "question": "It ____ rain tomorrow.",
+          "options": ["may", "is", "was", "are"],
+          "correct_answer": "may",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 96,
+          "question": "The verb 'become' is an example of a ____ verb.",
+          "options": ["Transitive", "Intransitive", "Linking", "Modal"],
+          "correct_answer": "Linking",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 97,
+          "question": "He has ____ me his pen.",
+          "options": ["give", "gave", "given", "giving"],
+          "correct_answer": "given",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 98,
+          "question": "We ____ to inform you that the event is cancelled.",
+          "options": ["regret", "are", "have", "must"],
+          "correct_answer": "regret",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 99,
+          "question": "Which of these is NOT a modal verb?",
+          "options": ["can", "could", "will", "be"],
+          "correct_answer": "be",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 100,
+          "question": "The flowers smell sweet. 'Smell' is used here as a ____ verb.",
+          "options": ["Transitive", "Intransitive", "Linking", "Helping"],
+          "correct_answer": "Linking",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 101,
+          "question": "I have ____ my lunch.",
+          "options": ["ate", "eaten", "eat", "eats"],
+          "correct_answer": "eaten",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 102,
+          "question": "The verb 'arrive' is an example of an ____ verb.",
+          "options": ["Transitive", "Intransitive", "Helping", "Linking"],
+          "correct_answer": "Intransitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 103,
+          "question": "What is the past form of 'teach'?",
+          "options": ["teached", "taught", "teaches", "teach"],
+          "correct_answer": "taught",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 104,
+          "question": "____ I use your phone?",
+          "options": ["Do", "Am", "Will", "May"],
+          "correct_answer": "May",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 105,
+          "question": "What is the verb phrase in 'She has been studying for two hours'?",
+          "options": ["has been", "been studying", "has been studying", "studying for"],
+          "correct_answer": "has been studying",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 106,
+          "question": "Which verb form completes the sentence: 'The sun had ____ before we reached.'?",
+          "options": ["set", "sets", "setting", "sat"],
+          "correct_answer": "set",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 107,
+          "question": "He ____ be able to solve the problem.",
+          "options": ["can", "could", "will", "is"],
+          "correct_answer": "will",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 108,
+          "question": "Identify the main verb in 'You should have listened to me.'",
+          "options": ["should", "have", "listened", "to"],
+          "correct_answer": "listened",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 109,
+          "question": "The ship ____ in the ocean.",
+          "options": ["sailed", "flew", "drove", "ran"],
+          "correct_answer": "sailed",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 110,
+          "question": "What is the past participle of 'break'?",
+          "options": ["broke", "broken", "braked", "breaked"],
+          "correct_answer": "broken",
+          "grammar_type": "Verbs and Types of Verbs"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "In the sentence 'Swimming is good exercise,' the word 'Swimming' is a ____.",
+          "options": ["Participle", "Gerund", "Infinitive", "Main Verb"],
+          "correct_answer": "Gerund",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 112,
+          "question": "In 'The letter was written by him,' the verb phrase 'was written' is in the ____ voice.",
+          "options": ["Active", "Passive", "Indicative", "Subjunctive"],
+          "correct_answer": "Passive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 113,
+          "question": "Which of these is a phrasal verb?",
+          "options": ["look at", "look after", "look", "look for"],
+          "correct_answer": "look after",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 114,
+          "question": "A verb form that acts as an adjective is called a ____.",
+          "options": ["Gerund", "Infinitive", "Participle", "Modal"],
+          "correct_answer": "Participle",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 115,
+          "question": "In 'He wants to go,' the phrase 'to go' is a/an ____.",
+          "options": ["Gerund", "Participle", "Infinitive", "Object"],
+          "correct_answer": "Infinitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 116,
+          "question": "Change to active voice: 'The homework was done by the students.'",
+          "options": ["The students were doing the homework.", "The students have done the homework.", "The students did the homework.", "The students do the homework."],
+          "correct_answer": "The students did the homework.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 117,
+          "question": "If I ____ you, I would not do that. (Subjunctive mood)",
+          "options": ["am", "was", "were", "be"],
+          "correct_answer": "were",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 118,
+          "question": "The 'broken' chair needs to be repaired. Here, 'broken' is a ____.",
+          "options": ["Verb", "Adverb", "Gerund", "Participle"],
+          "correct_answer": "Participle",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 119,
+          "question": "A verb that has a subject and shows tense is a ____ verb.",
+          "options": ["Finite", "Non-finite", "Transitive", "Intransitive"],
+          "correct_answer": "Finite",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 120,
+          "question": "He denied ____ the money.",
+          "options": ["to steal", "stealing", "stole", "to have stolen"],
+          "correct_answer": "stealing",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 121,
+          "question": "Identify the phrasal verb meaning 'to cancel': 'They decided to ____ the meeting.'",
+          "options": ["call up", "call on", "call for", "call off"],
+          "correct_answer": "call off",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 122,
+          "question": "I suggest that he ____ a doctor.",
+          "options": ["sees", "see", "is seeing", "has seen"],
+          "correct_answer": "see",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 123,
+          "question": "Having finished his work, he went home. 'Having finished' is a ____.",
+          "options": ["Present participle phrase", "Perfect participle phrase", "Gerund phrase", "Infinitive phrase"],
+          "correct_answer": "Perfect participle phrase",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 124,
+          "question": "Change to passive voice: 'The cat is chasing the mouse.'",
+          "options": ["The mouse was being chased by the cat.", "The mouse is chased by the cat.", "The mouse is being chased by the cat.", "The mouse has been chased by the cat."],
+          "correct_answer": "The mouse is being chased by the cat.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 125,
+          "question": "Which sentence uses the subjunctive mood correctly?",
+          "options": ["I wish I was a king.", "He demands that she is present.", "I wish I were a king.", "If I was you, I would go."],
+          "correct_answer": "I wish I were a king.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 126,
+          "question": "To err is human. 'To err' is a/an ____ acting as the subject.",
+          "options": ["Gerund", "Participle", "Infinitive", "Preposition"],
+          "correct_answer": "Infinitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 127,
+          "question": "A verb like 'to run' or 'to eat' which is not marked for tense is called a ____ verb.",
+          "options": ["Finite", "Non-finite", "Modal", "Linking"],
+          "correct_answer": "Non-finite",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 128,
+          "question": "He went on ____ even after I told him to stop.",
+          "options": ["talking", "to talk", "talked", "talk"],
+          "correct_answer": "talking",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 129,
+          "question": "Identify the meaning of the phrasal verb 'look up to'.",
+          "options": ["search for", "visit", "admire", "be careful"],
+          "correct_answer": "admire",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 130,
+          "question": "The police ____ looking for the thief.",
+          "options": ["is", "am", "are", "was"],
+          "correct_answer": "are",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 131,
+          "question": "In 'She was made to confess her crime,' the verb 'to confess' is a ____.",
+          "options": ["Full infinitive", "Bare infinitive", "Gerund", "Participle"],
+          "correct_answer": "Bare infinitive",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 132,
+          "question": "He ____ in this house since 2010.",
+          "options": ["is living", "has lived", "has been living", "was living"],
+          "correct_answer": "has been living",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 133,
+          "question": "The news ____ not true.",
+          "options": ["are", "is", "were", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 134,
+          "question": "I would rather ____ than surrender.",
+          "options": ["die", "to die", "dying", "died"],
+          "correct_answer": "die",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 135,
+          "question": "Identify the sentence in the active voice.",
+          "options": ["A song was sung by her.", "Let the door be shut.", "He is known to me.", "He teaches us grammar."],
+          "correct_answer": "He teaches us grammar.",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 136,
+          "question": "What is the gerund in 'He is fond of playing cricket'?",
+          "options": ["is", "fond", "playing", "cricket"],
+          "correct_answer": "playing",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 137,
+          "question": "The verb 'to be' can act as a main verb and a/an ____ verb.",
+          "options": ["Transitive", "Intransitive", "Modal", "Auxiliary"],
+          "correct_answer": "Auxiliary",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 138,
+          "question": "The quality of the apples ____ not good.",
+          "options": ["were", "are", "is", "was"],
+          "correct_answer": "was",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 139,
+          "question": "Choose the correct verb form: 'I look forward to ____ you soon.'",
+          "options": ["see", "seeing", "saw", "have seen"],
+          "correct_answer": "seeing",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 140,
+          "question": "Let him ____ what he wants.",
+          "options": ["do", "does", "doing", "to do"],
+          "correct_answer": "do",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 141,
+          "question": "The phrasal verb 'give up' means ____.",
+          "options": ["distribute", "surrender", "continue", "stop"],
+          "correct_answer": "stop",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 142,
+          "question": "It is time we ____ home.",
+          "options": ["go", "gone", "went", "should go"],
+          "correct_answer": "went",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 143,
+          "question": "Identify the participle: 'The crying baby was hungry.'",
+          "options": ["baby", "was", "hungry", "crying"],
+          "correct_answer": "crying",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 144,
+          "question": "Either of the two candidates ____ suitable.",
+          "options": ["is", "are", "were", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 145,
+          "question": "I had my car ____ yesterday.",
+          "options": ["repaired", "repair", "to repair", "repairing"],
+          "correct_answer": "repaired",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 146,
+          "question": "This is one of the best books that ____ ever been written.",
+          "options": ["has", "have", "is", "are"],
+          "correct_answer": "have",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 147,
+          "question": "She helped him ____ the box.",
+          "options": ["to carry", "carrying", "carried", "carry"],
+          "correct_answer": "carry",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 148,
+          "question": "Bread and butter ____ his only food.",
+          "options": ["is", "are", "was", "were"],
+          "correct_answer": "is",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 149,
+          "question": "What is the meaning of the phrasal verb 'put up with'?",
+          "options": ["wear", "build", "tolerate", "postpone"],
+          "correct_answer": "tolerate",
+          "grammar_type": "Verbs and Types of Verbs"
+        },
+        {
+          "id": 150,
+          "question": "If he had worked hard, he ____.",
+          "options": ["would pass", "would have passed", "will pass", "had passed"],
+          "correct_answer": "would have passed",
+          "grammar_type": "Verbs and Types of Verbs"
+        }
+      ]
+    }
+  ]
+}
+

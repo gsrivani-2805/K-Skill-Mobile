@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "The sun ______ in the east.",
+          "options": ["rise", "rises", "is rising", "are rising"],
+          "correct_answer": "rises",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 2,
+          "question": "I ______ watching television now.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 3,
+          "question": "They ______ football every Sunday.",
+          "options": ["play", "plays", "is playing", "are play"],
+          "correct_answer": "play",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 4,
+          "question": "She ______ her homework every day.",
+          "options": ["do", "does", "is doing", "are doing"],
+          "correct_answer": "does",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 5,
+          "question": "Listen! The baby ______.",
+          "options": ["cry", "cries", "is crying", "are crying"],
+          "correct_answer": "is crying",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 6,
+          "question": "We ______ to school by bus.",
+          "options": ["go", "goes", "is going", "are go"],
+          "correct_answer": "go",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 7,
+          "question": "He ______ not like vegetables.",
+          "options": ["do", "does", "is", "are"],
+          "correct_answer": "does",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 8,
+          "question": "The children ______ in the park at the moment.",
+          "options": ["play", "plays", "is playing", "are playing"],
+          "correct_answer": "are playing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 9,
+          "question": "Water ______ at 100 degrees Celsius.",
+          "options": ["boil", "boils", "is boiling", "are boiling"],
+          "correct_answer": "boils",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 10,
+          "question": "What ______ you doing?",
+          "options": ["is", "am", "are", "do"],
+          "correct_answer": "are",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 11,
+          "question": "My father ______ a newspaper every morning.",
+          "options": ["read", "reads", "is reading", "are reading"],
+          "correct_answer": "reads",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 12,
+          "question": "Look! The train ______.",
+          "options": ["come", "comes", "is coming", "are coming"],
+          "correct_answer": "is coming",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 13,
+          "question": "I ______ a student of Class 6.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "am",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 14,
+          "question": "Cows ______ us milk.",
+          "options": ["give", "gives", "is giving", "are give"],
+          "correct_answer": "give",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 15,
+          "question": "The teacher ______ on the blackboard.",
+          "options": ["write", "writes", "is writing", "are writing"],
+          "correct_answer": "is writing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 16,
+          "question": "He ______ his teeth twice a day.",
+          "options": ["brush", "brushes", "is brushing", "are brushing"],
+          "correct_answer": "brushes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 17,
+          "question": "They ______ not my friends.",
+          "options": ["is", "am", "are", "do"],
+          "correct_answer": "are",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 18,
+          "question": "My mother ______ delicious food.",
+          "options": ["cook", "cooks", "is cooking", "are cooking"],
+          "correct_answer": "cooks",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 19,
+          "question": "She ______ a blue dress today.",
+          "options": ["wear", "wears", "is wearing", "are wearing"],
+          "correct_answer": "is wearing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 20,
+          "question": "A dog ______ when it sees a stranger.",
+          "options": ["bark", "barks", "is barking", "are barking"],
+          "correct_answer": "barks",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 21,
+          "question": "You ______ a good singer.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 22,
+          "question": "The school bus ______ for us.",
+          "options": ["wait", "waits", "is waiting", "are waiting"],
+          "correct_answer": "is waiting",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 23,
+          "question": "We always ______ our elders.",
+          "options": ["respect", "respects", "is respecting", "are respecting"],
+          "correct_answer": "respect",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 24,
+          "question": "Where ______ he live?",
+          "options": ["do", "does", "is", "are"],
+          "correct_answer": "does",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 25,
+          "question": "An airplane ______ in the sky.",
+          "options": ["fly", "flies", "is flying", "are flying"],
+          "correct_answer": "flies",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 26,
+          "question": "I ______ not understand this question.",
+          "options": ["do", "does", "am", "is"],
+          "correct_answer": "do",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 27,
+          "question": "My father ______ in a factory.",
+          "options": ["work", "works", "is working", "are working"],
+          "correct_answer": "works",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 28,
+          "question": "The boys ______ a lot of noise.",
+          "options": ["make", "makes", "is making", "are making"],
+          "correct_answer": "are making",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 29,
+          "question": "The earth ______ round.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "is",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 30,
+          "question": "He ______ his lunch at 1 PM every day.",
+          "options": ["eat", "eats", "is eating", "are eating"],
+          "correct_answer": "eats",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 31,
+          "question": "She ______ a letter at the moment.",
+          "options": ["write", "writes", "is writing", "are writing"],
+          "correct_answer": "is writing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 32,
+          "question": "They ______ to the temple on Tuesdays.",
+          "options": ["go", "goes", "is going", "are going"],
+          "correct_answer": "go",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 33,
+          "question": "The phone ______ . Can you answer it?",
+          "options": ["ring", "rings", "is ringing", "are ringing"],
+          "correct_answer": "is ringing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 34,
+          "question": "A fish ______ in water.",
+          "options": ["live", "lives", "is living", "are living"],
+          "correct_answer": "lives",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 35,
+          "question": "My brother ______ video games.",
+          "options": ["like", "likes", "is liking", "are liking"],
+          "correct_answer": "likes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 36,
+          "question": "Look out! The car ______ very fast.",
+          "options": ["come", "comes", "is coming", "are coming"],
+          "correct_answer": "is coming",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 37,
+          "question": "The stars ______ bright.",
+          "options": ["is", "am", "are", "be"],
+          "correct_answer": "are",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 38,
+          "question": "It often ______ in our village during the monsoon.",
+          "options": ["rain", "rains", "is raining", "are raining"],
+          "correct_answer": "rains",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 39,
+          "question": "Why ______ you laughing?",
+          "options": ["is", "am", "are", "do"],
+          "correct_answer": "are",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 40,
+          "question": "The shop ______ at 9 PM every night.",
+          "options": ["close", "closes", "is closing", "are closing"],
+          "correct_answer": "closes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 41,
+          "question": "A baker ______ bread and cakes.",
+          "options": ["bake", "bakes", "is baking", "are baking"],
+          "correct_answer": "bakes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 42,
+          "question": "We ______ our country.",
+          "options": ["love", "loves", "is loving", "are loving"],
+          "correct_answer": "love",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 43,
+          "question": "The children ______ their grandmother's stories.",
+          "options": ["enjoy", "enjoys", "is enjoying", "are enjoying"],
+          "correct_answer": "enjoy",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 44,
+          "question": "He ______ his car now.",
+          "options": ["wash", "washes", "is washing", "are washing"],
+          "correct_answer": "is washing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 45,
+          "question": "The postman ______ letters.",
+          "options": ["deliver", "delivers", "is delivering", "are delivering"],
+          "correct_answer": "delivers",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 46,
+          "question": "She ______ on the phone right now.",
+          "options": ["talk", "talks", "is talking", "are talking"],
+          "correct_answer": "is talking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 47,
+          "question": "Good students always ______ hard.",
+          "options": ["work", "works", "is working", "are working"],
+          "correct_answer": "work",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 48,
+          "question": "What time ______ the movie start?",
+          "options": ["do", "does", "is", "are"],
+          "correct_answer": "does",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 49,
+          "question": "The moon ______ at night.",
+          "options": ["shine", "shines", "is shining", "are shining"],
+          "correct_answer": "shines",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 50,
+          "question": "They ______ for the bus.",
+          "options": ["wait", "waits", "is waiting", "are waiting"],
+          "correct_answer": "are waiting",
+          "grammar_type": "Present Tense"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "He usually ______ tea, but today he ______ coffee.",
+          "options": ["drinks...is drinking", "is drinking...drinks", "drinks...drinks", "is drinking...is drinking"],
+          "correct_answer": "drinks...is drinking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 52,
+          "question": "I ______ this movie before.",
+          "options": ["see", "saw", "have seen", "am seeing"],
+          "correct_answer": "have seen",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 53,
+          "question": "She ______ for her keys. She can't find them.",
+          "options": ["looks", "is looking", "has looked", "looked"],
+          "correct_answer": "is looking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 54,
+          "question": "They ______ here for three years.",
+          "options": ["live", "are living", "have lived", "lived"],
+          "correct_answer": "have lived",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 55,
+          "question": "I ______ what you mean.",
+          "options": ["am not understanding", "don't understand", "haven't understood", "not understand"],
+          "correct_answer": "don't understand",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 56,
+          "question": "The train ______ just ______.",
+          "options": ["has...arrived", "is...arriving", "had...arrived", "arrived"],
+          "correct_answer": "has...arrived",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 57,
+          "question": "Water ______ of hydrogen and oxygen.",
+          "options": ["is consisting", "consists", "has consisted", "consist"],
+          "correct_answer": "consists",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 58,
+          "question": "How long ______ you ______ him?",
+          "options": ["do...know", "are...knowing", "have...known", "did...know"],
+          "correct_answer": "have...known",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 59,
+          "question": "He ______ his work, so he can relax now.",
+          "options": ["finishes", "is finishing", "has finished", "finished"],
+          "correct_answer": "has finished",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 60,
+          "question": "The population of the world ______ very fast.",
+          "options": ["increases", "is increasing", "has increased", "increase"],
+          "correct_answer": "is increasing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 61,
+          "question": "She ______ never ______ to Japan.",
+          "options": ["has...been", "is...going", "was...going", "had...been"],
+          "correct_answer": "has...been",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 62,
+          "question": "I'm tired because I ______ all day.",
+          "options": ["work", "am working", "have been working", "worked"],
+          "correct_answer": "have been working",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 63,
+          "question": "My father ______ for this company since 2010.",
+          "options": ["works", "is working", "has been working", "worked"],
+          "correct_answer": "has been working",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 64,
+          "question": "It ______ for two hours now.",
+          "options": ["rains", "is raining", "has been raining", "rained"],
+          "correct_answer": "has been raining",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 65,
+          "question": "The children's clothes are dirty. They ______ in the mud.",
+          "options": ["play", "are playing", "have been playing", "played"],
+          "correct_answer": "have been playing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 66,
+          "question": "He is a vegetarian. He ______ meat.",
+          "options": ["is not eating", "doesn't eat", "hasn't eaten", "not eat"],
+          "correct_answer": "doesn't eat",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 67,
+          "question": "Why are you so tired? ______ you ______ well?",
+          "options": ["Do...sleep", "Are...sleeping", "Have...been sleeping", "Did...sleep"],
+          "correct_answer": "Have...been sleeping",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 68,
+          "question": "My hands are dirty because I ______ my bike.",
+          "options": ["repair", "am repairing", "have been repairing", "repaired"],
+          "correct_answer": "have been repairing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 69,
+          "question": "This flower ______ really nice.",
+          "options": ["is smelling", "smells", "has smelled", "smell"],
+          "correct_answer": "smells",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 70,
+          "question": "The flight to Mumbai ______ at 6 PM this evening.",
+          "options": ["leaves", "is leaving", "has left", "will leave"],
+          "correct_answer": "leaves",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 71,
+          "question": "Hurry up! The programme ______.",
+          "options": ["starts", "is starting", "has started", "will start"],
+          "correct_answer": "is starting",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 72,
+          "question": "I ______ already ______ this film three times.",
+          "options": ["have...seen", "am...seeing", "had...seen", "did...see"],
+          "correct_answer": "have...seen",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 73,
+          "question": "He ______ his glasses. He can't read the board.",
+          "options": ["forgets", "is forgetting", "has forgotten", "forgot"],
+          "correct_answer": "has forgotten",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 74,
+          "question": "Why are your eyes red? ______ you ______?",
+          "options": ["Do...cry", "Are...crying", "Have...been crying", "Did...cry"],
+          "correct_answer": "Have...been crying",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 75,
+          "question": "We ______ for our exams all this week.",
+          "options": ["study", "are studying", "have studied", "have been studying"],
+          "correct_answer": "are studying",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 76,
+          "question": "I ______ a lot of interesting people at this conference.",
+          "options": ["meet", "am meeting", "have met", "met"],
+          "correct_answer": "have met",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 77,
+          "question": "My English ______ better since I moved here.",
+          "options": ["gets", "is getting", "has gotten", "got"],
+          "correct_answer": "has gotten",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 78,
+          "question": "She normally ______ in the city, but she ______ with her grandmother this month.",
+          "options": ["works...is staying", "is working...stays", "works...stays", "is working...is staying"],
+          "correct_answer": "works...is staying",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 79,
+          "question": "The soup ______ good. Can I have some?",
+          "options": ["is tasting", "tastes", "has tasted", "taste"],
+          "correct_answer": "tastes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 80,
+          "question": "The chef ______ the soup now to check the salt.",
+          "options": ["tastes", "is tasting", "has tasted", "taste"],
+          "correct_answer": "is tasting",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 81,
+          "question": "How many pages of the book ______ you ______ so far?",
+          "options": ["do...read", "are...reading", "have...read", "did...read"],
+          "correct_answer": "have...read",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 82,
+          "question": "He ______ to his friend on the phone for an hour.",
+          "options": ["talks", "is talking", "has been talking", "talked"],
+          "correct_answer": "has been talking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 83,
+          "question": "The sun ______ on the water now.",
+          "options": ["shines", "is shining", "has shone", "shone"],
+          "correct_answer": "is shining",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 84,
+          "question": "This is the most delicious cake I ______.",
+          "options": ["ever eat", "have ever eaten", "am ever eating", "did ever eat"],
+          "correct_answer": "have ever eaten",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 85,
+          "question": "She ______ the bus to work every day.",
+          "options": ["takes", "is taking", "has taken", "has been taking"],
+          "correct_answer": "takes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 86,
+          "question": "The company's sales ______ this year.",
+          "options": ["increase", "are increasing", "have increased", "increases"],
+          "correct_answer": "have increased",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 87,
+          "question": "I ______ on this project since Monday.",
+          "options": ["work", "am working", "have been working", "worked"],
+          "correct_answer": "have been working",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 88,
+          "question": "The teacher ______ our notebooks yet.",
+          "options": ["doesn't check", "isn't checking", "hasn't checked", "didn't check"],
+          "correct_answer": "hasn't checked",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 89,
+          "question": "I ______ I can solve this problem.",
+          "options": ["am not thinking", "don't think", "haven't thought", "not think"],
+          "correct_answer": "don't think",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 90,
+          "question": "We ______ a party next Saturday. Would you like to come?",
+          "options": ["have", "are having", "have had", "will have"],
+          "correct_answer": "are having",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 91,
+          "question": "The number of people who ______ a smartphone ______ increasing.",
+          "options": ["own...is", "owns...are", "own...are", "owns...is"],
+          "correct_answer": "own...is",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 92,
+          "question": "He ______ his phone, but now he has found it.",
+          "options": ["loses", "was losing", "has lost", "had lost"],
+          "correct_answer": "has lost",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 93,
+          "question": "The ground is wet. It ______.",
+          "options": ["rains", "is raining", "has been raining", "rained"],
+          "correct_answer": "has been raining",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 94,
+          "question": "This jacket ______ to my sister.",
+          "options": ["is belonging", "belongs", "has belonged", "belong"],
+          "correct_answer": "belongs",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 95,
+          "question": "I ______ my dinner. You can have the kitchen.",
+          "options": ["finish", "am finishing", "have finished", "finished"],
+          "correct_answer": "have finished",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 96,
+          "question": "How often ______ you ______ to the gym?",
+          "options": ["are...going", "have...been", "do...go", "did...go"],
+          "correct_answer": "do...go",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 97,
+          "question": "The climate ______ warmer every year.",
+          "options": ["gets", "is getting", "has gotten", "get"],
+          "correct_answer": "is getting",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 98,
+          "question": "She ______ three languages: English, French, and Spanish.",
+          "options": ["speaks", "is speaking", "has spoken", "has been speaking"],
+          "correct_answer": "speaks",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 99,
+          "question": "The price of petrol ______ again.",
+          "options": ["goes up", "is going up", "has gone up", "go up"],
+          "correct_answer": "has gone up",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 100,
+          "question": "Why is the baby's face so dirty? He ______ chocolate.",
+          "options": ["eats", "is eating", "has eaten", "has been eating"],
+          "correct_answer": "has been eating",
+          "grammar_type": "Present Tense"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The Prime Minister ______ for Japan tomorrow morning.",
+          "options": ["leaves", "is leaving", "has left", "will have left"],
+          "correct_answer": "leaves",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 102,
+          "question": "This is the third time you ______ me the same question.",
+          "options": ["ask", "are asking", "have asked", "asked"],
+          "correct_answer": "have asked",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 103,
+          "question": "The writer ______ a new book since last year.",
+          "options": ["writes", "is writing", "has written", "has been writing"],
+          "correct_answer": "has been writing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 104,
+          "question": "The committee ______ that the new rules be implemented immediately.",
+          "options": ["suggests", "is suggesting", "suggest", "has suggested"],
+          "correct_answer": "suggest",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 105,
+          "question": "It's the first time I ______ an electric car.",
+          "options": ["drive", "am driving", "have driven", "drove"],
+          "correct_answer": "have driven",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 106,
+          "question": "He ______ on his phone, which is why he didn't hear you call.",
+          "options": ["talks", "is talking", "has been talking", "was talking"],
+          "correct_answer": "was talking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 107,
+          "question": "The law of gravity ______ that what goes up must come down.",
+          "options": ["is stating", "has stated", "states", "stated"],
+          "correct_answer": "states",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 108,
+          "question": "I suggest that she ______ to a specialist.",
+          "options": ["goes", "go", "is going", "has gone"],
+          "correct_answer": "go",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 109,
+          "question": "This film ______ for three hours by the time it finishes.",
+          "options": ["will run", "will be running", "will have been running", "runs"],
+          "correct_answer": "will have been running",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 110,
+          "question": "The man standing over there ______ to be my old teacher.",
+          "options": ["is appearing", "appears", "has appeared", "appear"],
+          "correct_answer": "appears",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 111,
+          "question": "She's very annoying. She ______ complaining about something.",
+          "options": ["always is", "is always", "has always been", "always was"],
+          "correct_answer": "is always",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 112,
+          "question": "The new mall ______ next week, according to the schedule.",
+          "options": ["opens", "is opening", "will open", "has opened"],
+          "correct_answer": "opens",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 113,
+          "question": "I ______ of applying for a new job.",
+          "options": ["think", "am thinking", "have thought", "have been thinking"],
+          "correct_answer": "am thinking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 114,
+          "question": "I ______ this is a bad idea.",
+          "options": ["am thinking", "think", "have thought", "have been thinking"],
+          "correct_answer": "think",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 115,
+          "question": "The local team ______ five matches so far this season.",
+          "options": ["wins", "is winning", "has won", "won"],
+          "correct_answer": "has won",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 116,
+          "question": "My head hurts because I ______ on the computer for too long.",
+          "options": ["work", "am working", "have been working", "worked"],
+          "correct_answer": "have been working",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 117,
+          "question": "The doctor's report insists that the patient ______ complete rest.",
+          "options": ["takes", "take", "is taking", "has taken"],
+          "correct_answer": "take",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 118,
+          "question": "The aroma from the kitchen ______ that my mother is baking a cake.",
+          "options": ["is suggesting", "suggests", "has suggested", "suggest"],
+          "correct_answer": "suggests",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 119,
+          "question": "He ______ more and more like his father these days.",
+          "options": ["looks", "is looking", "has looked", "has been looking"],
+          "correct_answer": "is looking",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 120,
+          "question": "I ______ to my village next weekend for a family function.",
+          "options": ["go", "am going", "have gone", "went"],
+          "correct_answer": "am going",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 121,
+          "question": "The new policy ______ to affect everyone in the country.",
+          "options": ["is going", "goes", "will have", "is likely"],
+          "correct_answer": "is likely",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 122,
+          "question": "How many chapters ______ you ______ for the test?",
+          "options": ["are...preparing", "have...prepared", "do...prepare", "did...prepare"],
+          "correct_answer": "have...prepared",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 123,
+          "question": "It is imperative that every student ______ a uniform.",
+          "options": ["wears", "wear", "is wearing", "has worn"],
+          "correct_answer": "wear",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 124,
+          "question": "Why does this milk ______ sour?",
+          "options": ["taste", "is tasting", "tastes", "has tasted"],
+          "correct_answer": "taste",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 125,
+          "question": "She ______ the sitar since she was a child.",
+          "options": ["plays", "is playing", "has been playing", "played"],
+          "correct_answer": "has been playing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 126,
+          "question": "That he ______ is a well-known fact.",
+          "options": ["lies", "is lying", "has lied", "lie"],
+          "correct_answer": "lies",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 127,
+          "question": "I ______ here for hours. I am going home.",
+          "options": ["wait", "am waiting", "have been waiting", "waited"],
+          "correct_answer": "have been waiting",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 128,
+          "question": "He ______ three novels, and he is working on another one.",
+          "options": ["writes", "is writing", "has written", "has been writing"],
+          "correct_answer": "has written",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 129,
+          "question": "The manager recommended that the employee ______ a bonus.",
+          "options": ["is given", "was given", "be given", "has been given"],
+          "correct_answer": "be given",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 130,
+          "question": "This coffee ______ for me. I prefer it stronger.",
+          "options": ["isn't tasting", "doesn't taste", "hasn't tasted", "not taste"],
+          "correct_answer": "doesn't taste",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 131,
+          "question": "One of my brothers ______ in Canada at the moment.",
+          "options": ["lives", "is living", "has lived", "live"],
+          "correct_answer": "is living",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 132,
+          "question": "The current economic situation ______ a lot of concern.",
+          "options": ["causes", "is causing", "has caused", "has been causing"],
+          "correct_answer": "is causing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 133,
+          "question": "I'm not going out now as it ______, and I don't have an umbrella.",
+          "options": ["rains", "is raining", "has been raining", "rained"],
+          "correct_answer": "is raining",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 134,
+          "question": "The board requires that the proposal ______ before the next meeting.",
+          "options": ["is submitted", "was submitted", "be submitted", "has been submitted"],
+          "correct_answer": "be submitted",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 135,
+          "question": "It's the only one of his films that ______ an award.",
+          "options": ["has won", "have won", "wins", "is winning"],
+          "correct_answer": "has won",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 136,
+          "question": "He ______ his temper very often, which is a problem.",
+          "options": ["loses", "is losing", "has lost", "has been losing"],
+          "correct_answer": "loses",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 137,
+          "question": "What's that smell? Something ______ in the kitchen.",
+          "options": ["burns", "is burning", "has burned", "has been burning"],
+          "correct_answer": "is burning",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 138,
+          "question": "The river ______ towards the sea.",
+          "options": ["flows", "is flowing", "has flown", "flow"],
+          "correct_answer": "flows",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 139,
+          "question": "The agenda for the meeting ______ several important items.",
+          "options": ["is including", "includes", "has included", "include"],
+          "correct_answer": "includes",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 140,
+          "question": "The train for Chennai ______ from Platform 4.",
+          "options": ["is departing", "departs", "has departed", "depart"],
+          "correct_answer": "departs",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 141,
+          "question": "This is the fifth time that the phone ______ in the last hour.",
+          "options": ["rings", "is ringing", "has rung", "has been ringing"],
+          "correct_answer": "has rung",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 142,
+          "question": "My father is a pilot; he ______ all over the world.",
+          "options": ["travels", "is travelling", "has travelled", "has been travelling"],
+          "correct_answer": "travels",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 143,
+          "question": "It is essential that every applicant ______ the form correctly.",
+          "options": ["fills", "fill", "is filling", "has filled"],
+          "correct_answer": "fill",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 144,
+          "question": "The city ______ a lot in the last decade.",
+          "options": ["changes", "is changing", "has changed", "has been changing"],
+          "correct_answer": "has changed",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 145,
+          "question": "We ______ our annual company meeting next Tuesday.",
+          "options": ["have", "are having", "have had", "will have"],
+          "correct_answer": "are having",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 146,
+          "question": "He ______ tennis since he was ten. That's why he's so good.",
+          "options": ["plays", "is playing", "has played", "has been playing"],
+          "correct_answer": "has been playing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 147,
+          "question": "I'm busy right now. I ______ for an important exam.",
+          "options": ["prepare", "am preparing", "have prepared", "have been preparing"],
+          "correct_answer": "am preparing",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 148,
+          "question": "The new research paper ______ some interesting findings.",
+          "options": ["is containing", "contains", "has contained", "contain"],
+          "correct_answer": "contains",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 149,
+          "question": "The teacher insists that the students ______ quiet.",
+          "options": ["are", "be", "is", "were"],
+          "correct_answer": "be",
+          "grammar_type": "Present Tense"
+        },
+        {
+          "id": 150,
+          "question": "She ______ three major projects this year, and it's only July.",
+          "options": ["completes", "is completing", "has completed", "has been completing"],
+          "correct_answer": "has completed",
+          "grammar_type": "Present Tense"
+        }
+      ]
+    }
+  ]
+}
+

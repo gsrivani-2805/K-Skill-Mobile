@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "When the teacher enters the classroom, students should ____.",
+          "options": ["lie down", "stand up", "run out", "shout"],
+          "correct_answer": "stand up",
+          "grammar_type": "In the Classroom"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "What do you say when you want to enter the classroom?",
+          "options": ["May I go out?", "May I come in?", "May I sit down?", "May I sleep?"],
+          "correct_answer": "May I come in?",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 3,
+          "question": "To ask a question, you should first raise your ____.",
+          "options": ["book", "voice", "hand", "bag"],
+          "correct_answer": "hand",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 4,
+          "question": "The teacher writes on the ____.",
+          "options": ["floor", "wall", "board", "desk"],
+          "correct_answer": "board",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 5,
+          "question": "When the teacher is speaking, you should listen ____.",
+          "options": ["carefully", "loudly", "angrily", "slowly"],
+          "correct_answer": "carefully",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 6,
+          "question": "What is the opposite of 'Open your book'?",
+          "options": ["Read your book", "Write in your book", "Close your book", "Tear your book"],
+          "correct_answer": "Close your book",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 7,
+          "question": "If you make a noise, the teacher might say 'Be ____!'",
+          "options": ["loud", "happy", "quiet", "sad"],
+          "correct_answer": "quiet",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 8,
+          "question": "What is the work you do at home called?",
+          "options": ["Classwork", "Homework", "Art work", "Teamwork"],
+          "correct_answer": "Homework",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 9,
+          "question": "If you don't understand something, you should ____ a question.",
+          "options": ["give", "answer", "ask", "see"],
+          "correct_answer": "ask",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 10,
+          "question": "A person who learns in a classroom is a ____.",
+          "options": ["teacher", "principal", "student", "doctor"],
+          "correct_answer": "student",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 11,
+          "question": "To greet your teacher in the morning, you say 'Good ____, teacher.'",
+          "options": ["afternoon", "evening", "morning", "night"],
+          "correct_answer": "morning",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 12,
+          "question": "You write your notes in a ____.",
+          "options": ["textbook", "story book", "notebook", "picture book"],
+          "correct_answer": "notebook",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 13,
+          "question": "What is the command to make a straight line?",
+          "options": ["Make a circle.", "Stand in a queue.", "Sit down.", "Run around."],
+          "correct_answer": "Stand in a queue.",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 14,
+          "question": "What do you say when you need a pencil from a friend?",
+          "options": ["Give me a pencil.", "Where is your pencil?", "Can I borrow your pencil, please?", "My pencil is broken."],
+          "correct_answer": "Can I borrow your pencil, please?",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 15,
+          "question": "The people you study with are your ____.",
+          "options": ["teachers", "friends", "classmates", "neighbours"],
+          "correct_answer": "classmates",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 16,
+          "question": "If you are late for class, you should say:",
+          "options": ["Thank you.", "Hello.", "Sorry for being late.", "Good morning."],
+          "correct_answer": "Sorry for being late.",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 17,
+          "question": "The teacher gives you a ____ to know how well you have learned.",
+          "options": ["book", "test", "gift", "note"],
+          "correct_answer": "test",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 18,
+          "question": "What is the command to stop talking?",
+          "options": ["Keep talking.", "Silence, please.", "Speak louder.", "Talk now."],
+          "correct_answer": "Silence, please.",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 19,
+          "question": "A book with information for a subject is a ____.",
+          "options": ["notebook", "textbook", "workbook", "diary"],
+          "correct_answer": "textbook",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 20,
+          "question": "You should ____ your homework every day.",
+          "options": ["forget", "lose", "do", "ignore"],
+          "correct_answer": "do",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 21,
+          "question": "What do you do when the school bell rings for a break?",
+          "options": ["Start studying", "Go outside to play", "Go to sleep", "Cry"],
+          "correct_answer": "Go outside to play",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 22,
+          "question": "If the teacher says 'Pay attention', you should ____.",
+          "options": ["look outside", "talk to your friend", "listen and watch carefully", "close your book"],
+          "correct_answer": "listen and watch carefully",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 23,
+          "question": "'Come to the front' means:",
+          "options": ["Go to the back", "Go to the board", "Stay in your seat", "Go outside"],
+          "correct_answer": "Go to the board",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 24,
+          "question": "To read a text loudly in class is to read ____.",
+          "options": ["silently", "aloud", "slowly", "quickly"],
+          "correct_answer": "aloud",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 25,
+          "question": "The break in the middle of the school day is called ____.",
+          "options": ["assembly", "recess", "period", "holiday"],
+          "correct_answer": "recess",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 26,
+          "question": "You must wear a school ____ to school.",
+          "options": ["costume", "uniform", "dress", "shirt"],
+          "correct_answer": "uniform",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 27,
+          "question": "What do you say if you want to go to the washroom?",
+          "options": ["May I eat?", "May I drink water?", "May I go to the washroom?", "May I sleep?"],
+          "correct_answer": "May I go to the washroom?",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 28,
+          "question": "The time for all students to gather in the morning is called ____.",
+          "options": ["Assembly", "Recess", "Lunch break", "Class"],
+          "correct_answer": "Assembly",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 29,
+          "question": "When you work with other students on a task, it is called ____ work.",
+          "options": ["Home", "Hard", "Group", "Single"],
+          "correct_answer": "Group",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 30,
+          "question": "The list of what you will study in a year is the ____.",
+          "options": ["timetable", "syllabus", "report card", "notice"],
+          "correct_answer": "syllabus",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 31,
+          "question": "'Speak up' means:",
+          "options": ["Speak quietly", "Stop speaking", "Speak louder", "Speak in a whisper"],
+          "correct_answer": "Speak louder",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 32,
+          "question": "The person in charge of the entire school is the ____.",
+          "options": ["Teacher", "Monitor", "Principal", "Librarian"],
+          "correct_answer": "Principal",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 33,
+          "question": "When you finish your exam paper, you should ____ it to the teacher.",
+          "options": ["tear", "keep", "submit", "hide"],
+          "correct_answer": "submit",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 34,
+          "question": "The teacher asks you to ____ a picture in your notebook.",
+          "options": ["eat", "run", "draw", "sing"],
+          "correct_answer": "draw",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 35,
+          "question": "What is the work you do during the class period called?",
+          "options": ["Homework", "Classwork", "Project", "Assignment"],
+          "correct_answer": "Classwork",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 36,
+          "question": "A student who helps the teacher in the class is the class ____.",
+          "options": ["captain", "friend", "monitor", "leader"],
+          "correct_answer": "monitor",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 37,
+          "question": "The schedule of your classes is called a ____.",
+          "options": ["calendar", "list", "timetable", "diary"],
+          "correct_answer": "timetable",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 38,
+          "question": "What is the instruction to put a circle around a word?",
+          "options": ["Underline the word", "Circle the word", "Highlight the word", "Cross out the word"],
+          "correct_answer": "Circle the word",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 39,
+          "question": "What should you do with waste paper in the classroom?",
+          "options": ["Throw it on the floor", "Put it in the dustbin", "Keep it in your bag", "Give it to a friend"],
+          "correct_answer": "Put it in the dustbin",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 40,
+          "question": "When the teacher explains a lesson, students should ____.",
+          "options": ["take notes", "play games", "talk to each other", "sleep"],
+          "correct_answer": "take notes",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 41,
+          "question": "What is the phrase for reading a chapter of a book?",
+          "options": ["Eating a chapter", "Learning a chapter", "Going through a chapter", "Saying a chapter"],
+          "correct_answer": "Going through a chapter",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 42,
+          "question": "'Please come to my desk' is an instruction from the ____.",
+          "options": ["student", "teacher", "parent", "friend"],
+          "correct_answer": "teacher",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 43,
+          "question": "To share something with a classmate means to ____.",
+          "options": ["give it to them to keep", "let them use it too", "hide it from them", "sell it to them"],
+          "correct_answer": "let them use it too",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 44,
+          "question": "Your grades are written on your ____ card.",
+          "options": ["ID", "Library", "Report", "Credit"],
+          "correct_answer": "Report",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 45,
+          "question": "What is the instruction to draw a line under a word?",
+          "options": ["Underline the word", "Circle the word", "Highlight the word", "Erase the word"],
+          "correct_answer": "Underline the word",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 46,
+          "question": "The room for all teachers is called the ____.",
+          "options": ["Principal's office", "Classroom", "Staffroom", "Library"],
+          "correct_answer": "Staffroom",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 47,
+          "question": "What do you call the final test of the school year?",
+          "options": ["Weekly test", "Class test", "Mid-term exam", "Final exam"],
+          "correct_answer": "Final exam",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 48,
+          "question": "'Work in pairs' means you should work with ____.",
+          "options": ["three people", "one other person", "the whole class", "yourself"],
+          "correct_answer": "one other person",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 49,
+          "question": "What should you say if you need help from your teacher?",
+          "options": ["'Teacher, help!'", "'Excuse me, teacher, could you please help me?'", "'I need help now.'", "'This is too hard.'"],
+          "correct_answer": "'Excuse me, teacher, could you please help me?'",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 50,
+          "question": "When a lesson is finished, the teacher says, 'That's all for ____.'",
+          "options": ["yesterday", "tomorrow", "today", "now"],
+          "correct_answer": "today",
+          "grammar_type": "In the Classroom"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "If the teacher says 'Let's have a quick recap,' it means to:",
+          "options": ["Start a new chapter", "Summarize what was just learned", "Take a short break", "End the class"],
+          "correct_answer": "Summarize what was just learned",
+          "grammar_type": "In the Classroom"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "What is the purpose of a 'group discussion' in a classroom?",
+          "options": ["To talk about movies", "To share ideas and learn from each other", "To decide who is the best student", "To complain about homework"],
+          "correct_answer": "To share ideas and learn from each other",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 53,
+          "question": "When a teacher asks you to 'give an example,' you should:",
+          "options": ["Ask a question", "Provide a specific instance to explain a point", "Repeat the definition", "Write a summary"],
+          "correct_answer": "Provide a specific instance to explain a point",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 54,
+          "question": "The phrase 'take turns' means:",
+          "options": ["Everyone speaks at the same time", "One person does all the work", "People do something one after another", "To turn around"],
+          "correct_answer": "People do something one after another",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 55,
+          "question": "What is 'peer pressure' in a school context?",
+          "options": ["Pressure from teachers to get good grades", "The feeling that you need to do something because your friends are doing it", "The pressure of exams", "The weight of your school bag"],
+          "correct_answer": "The feeling that you need to do something because your friends are doing it",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 56,
+          "question": "A teacher might say 'Stick to the topic' if a student is...",
+          "options": ["speaking too quietly", "not participating", "talking about something irrelevant", "giving the correct answer"],
+          "correct_answer": "talking about something irrelevant",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 57,
+          "question": "What does it mean to 'proofread' your work?",
+          "options": ["To read it aloud to the class", "To ask a friend to do it for you", "To check it for errors before submitting", "To submit it without checking"],
+          "correct_answer": "To check it for errors before submitting",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 58,
+          "question": "If a teacher says, 'Any volunteers?', what are they asking for?",
+          "options": ["Someone to leave the class", "Someone to do a task willingly", "Someone who knows the answer", "Someone who has finished their work"],
+          "correct_answer": "Someone to do a task willingly",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 59,
+          "question": "What is 'active listening' in a classroom?",
+          "options": ["Hearing sounds while doing other work", "Fully concentrating on what is being said", "Waiting for your turn to speak", "Writing notes without listening"],
+          "correct_answer": "Fully concentrating on what is being said",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 60,
+          "question": "The instruction 'Compare and contrast' asks you to:",
+          "options": ["Only find the similarities", "Only find the differences", "Find both similarities and differences", "Choose the better option"],
+          "correct_answer": "Find both similarities and differences",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 61,
+          "question": "If you are 'absent' from school, it means you:",
+          "options": ["were present in class", "were not in school", "were late for school", "were on a school trip"],
+          "correct_answer": "were not in school",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 62,
+          "question": "What is a 'pop quiz'?",
+          "options": ["A very easy quiz", "A fun quiz with pictures", "A surprise test that you didn't know about", "The final exam"],
+          "correct_answer": "A surprise test that you didn't know about",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 63,
+          "question": "When a teacher says 'Line up in single file', you should:",
+          "options": ["Make two lines", "Stand one behind another in one line", "Make a circle", "Stand anywhere you like"],
+          "correct_answer": "Stand one behind another in one line",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 64,
+          "question": "What does it mean to 'participate' in class?",
+          "options": ["To sit quietly and listen", "To take an active part in discussions and activities", "To only do the written work", "To help the teacher clean the board"],
+          "correct_answer": "To take an active part in discussions and activities",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 65,
+          "question": "The phrase 'Show your work' in a math class means:",
+          "options": ["To display your notebook to everyone", "To explain the steps you took to get the answer", "To do the work neatly", "To get the correct answer"],
+          "correct_answer": "To explain the steps you took to get the answer",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 66,
+          "question": "What is 'plagiarism'?",
+          "options": ["Forgetting to do your homework", "Copying someone else's work and saying it is your own", "Making a lot of spelling mistakes", "Submitting your work late"],
+          "correct_answer": "Copying someone else's work and saying it is your own",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 67,
+          "question": "A student who disrupts the class is being ____.",
+          "options": ["attentive", "cooperative", "disruptive", "creative"],
+          "correct_answer": "disruptive",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 68,
+          "question": "What does 'brainstorming' mean?",
+          "options": ["Taking a test", "Thinking of many different ideas quickly", "Reading a book very fast", "A type of headache from studying"],
+          "correct_answer": "Thinking of many different ideas quickly",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 69,
+          "question": "If you 'fall behind' in your studies, you are:",
+          "options": ["ahead of the class", "not making progress at the same rate as others", "the best student", "not interested in studies"],
+          "correct_answer": "not making progress at the same rate as others",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 70,
+          "question": "The instruction 'Summarize the text' means to:",
+          "options": ["Copy the text", "Read the text aloud", "Give the main points of the text in a short form", "Find the difficult words in the text"],
+          "correct_answer": "Give the main points of the text in a short form",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 71,
+          "question": "What is 'constructive feedback'?",
+          "options": ["Saying only negative things", "Saying only positive things", "Helpful criticism that suggests improvements", "Ignoring someone's work"],
+          "correct_answer": "Helpful criticism that suggests improvements",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 72,
+          "question": "A student who is present in school is marked 'P' on the ____.",
+          "options": ["report card", "register", "notice board", "timetable"],
+          "correct_answer": "register",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 73,
+          "question": "What are 'extra-curricular activities'?",
+          "options": ["Additional homework", "Activities like sports, music, or drama outside of regular class subjects", "Punishment for not doing work", "Extra classes for difficult subjects"],
+          "correct_answer": "Activities like sports, music, or drama outside of regular class subjects",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 74,
+          "question": "The phrase 'on the same page' means:",
+          "options": ["Everyone is looking at the same page in the book", "Everyone understands and agrees", "Everyone is confused", "Everyone has a different opinion"],
+          "correct_answer": "Everyone understands and agrees",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 75,
+          "question": "If a teacher says 'Time's up', it means:",
+          "options": ["It is time for a break", "The time for the task or test has finished", "You can have more time", "It is time to start"],
+          "correct_answer": "The time for the task or test has finished",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 76,
+          "question": "What is the purpose of a 'role-play' activity?",
+          "options": ["To test memory", "To practice a situation by acting it out", "To check handwriting", "To learn new vocabulary"],
+          "correct_answer": "To practice a situation by acting it out",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 77,
+          "question": "'Could you elaborate on that point?' The teacher wants you to:",
+          "options": ["Repeat the point", "Move to the next point", "Give more details about the point", "Disagree with the point"],
+          "correct_answer": "Give more details about the point",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 78,
+          "question": "What does it mean to be 'punctual' for school?",
+          "options": ["To be friendly with everyone", "To wear a clean uniform", "To be on time", "To be absent"],
+          "correct_answer": "To be on time",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 79,
+          "question": "A 'field trip' is a trip taken for students to ____.",
+          "options": ["have a picnic", "study something outside the classroom", "visit their relatives", "play sports"],
+          "correct_answer": "study something outside the classroom",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 80,
+          "question": "If you 'ace' a test, it means you:",
+          "options": ["failed the test", "barely passed the test", "did very well on the test", "did not take the test"],
+          "correct_answer": "did very well on the test",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 81,
+          "question": "The instruction 'Fill in the blanks' means you have to:",
+          "options": ["Erase the words", "Write words in the empty spaces", "Make the spaces bigger", "Colour the spaces"],
+          "correct_answer": "Write words in the empty spaces",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 82,
+          "question": "What is the 'due date' for an assignment?",
+          "options": ["The date you receive the assignment", "The date you have to submit the assignment", "The date the assignment is graded", "Any date you choose"],
+          "correct_answer": "The date you have to submit the assignment",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 83,
+          "question": "What is 'rote learning'?",
+          "options": ["Learning by understanding concepts", "Learning by memorizing without understanding", "Learning in a group", "Learning by doing experiments"],
+          "correct_answer": "Learning by memorizing without understanding",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 84,
+          "question": "If a teacher says 'Give it a shot', it means:",
+          "options": ["Don't do it", "Try to do it", "It is impossible", "Let someone else do it"],
+          "correct_answer": "Try to do it",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 85,
+          "question": "'Match the columns' means you should:",
+          "options": ["Draw lines between items in two lists that belong together", "Write the lists again", "Colour the columns", "Erase one of the columns"],
+          "correct_answer": "Draw lines between items in two lists that belong together",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 86,
+          "question": "A student who bullies others is someone who:",
+          "options": ["helps other students", "is very friendly", "frightens or hurts weaker students", "is the class monitor"],
+          "correct_answer": "frightens or hurts weaker students",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 87,
+          "question": "What is a 'school assembly'?",
+          "options": ["A daily class", "The lunch break", "A gathering of all students and teachers", "The final exam"],
+          "correct_answer": "A gathering of all students and teachers",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 88,
+          "question": "If the teacher says 'Settle down', it means:",
+          "options": ["Leave the classroom", "Stand up on the bench", "Stop being noisy and get ready to work", "Start a discussion"],
+          "correct_answer": "Stop being noisy and get ready to work",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 89,
+          "question": "What is a 'project' in school?",
+          "options": ["A short daily task", "A long-term assignment that requires research or creation", "A surprise test", "A ten-minute exercise"],
+          "correct_answer": "A long-term assignment that requires research or creation",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 90,
+          "question": "The phrase 'hands-on experience' means:",
+          "options": ["Learning by reading books", "Learning by watching a video", "Learning by doing something yourself", "Learning by listening to a teacher"],
+          "correct_answer": "Learning by doing something yourself",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 91,
+          "question": "A student's 'attendance' refers to:",
+          "options": ["Their grades in exams", "Their behaviour in class", "The record of them being present or absent", "Their homework submission record"],
+          "correct_answer": "The record of them being present or absent",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 92,
+          "question": "If you 'cram' for an exam, you:",
+          "options": ["Study regularly over a long period", "Study intensively just before the exam", "Don't study at all", "Cheat in the exam"],
+          "correct_answer": "Study intensively just before the exam",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 93,
+          "question": "What is a 'faculty meeting'?",
+          "options": ["A meeting for all students", "A meeting for parents and teachers", "A meeting for the teaching staff", "A meeting for class monitors"],
+          "correct_answer": "A meeting for the teaching staff",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 94,
+          "question": "To 'jot down' notes means to:",
+          "options": ["Write them very slowly and neatly", "Write them quickly", "Ignore the notes", "Memorize the notes without writing"],
+          "correct_answer": "Write them quickly",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 95,
+          "question": "The instruction 'Speak one at a time' is given to:",
+          "options": ["Encourage everyone to speak together", "Stop students from speaking", "Ensure only one person speaks at a time to avoid chaos", "Make the class silent"],
+          "correct_answer": "Ensure only one person speaks at a time to avoid chaos",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 96,
+          "question": "What does a 'hall pass' allow a student to do?",
+          "options": ["To get good grades", "To be in the hallways during class time", "To get a free lunch", "To skip an exam"],
+          "correct_answer": "To be in the hallways during class time",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 97,
+          "question": "What is 'peer review'?",
+          "options": ["When a teacher reviews your work", "When you review your own work", "When students review each other's work", "When your parents review your work"],
+          "correct_answer": "When students review each other's work",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 98,
+          "question": "A 'detention' is a form of punishment where a student has to:",
+          "options": ["Do extra homework", "Clean the classroom", "Stay at school after classes have ended", "Apologize to the teacher"],
+          "correct_answer": "Stay at school after classes have ended",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 99,
+          "question": "If a teacher says, 'Let's take it from the top,' they mean:",
+          "options": ["Let's end the lesson.", "Let's begin again from the start.", "Let's discuss the most important part.", "Let's take a break."],
+          "correct_answer": "Let's begin again from the start.",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 100,
+          "question": "What is a 'valedictorian'?",
+          "options": ["A student with the worst grades", "A student who has failed", "The student with the highest academic rank who gives a speech at graduation", "The student who is best at sports"],
+          "correct_answer": "The student with the highest academic rank who gives a speech at graduation",
+          "grammar_type": "In the Classroom"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "If a teacher asks for your 'take' on a topic, they want your:",
+          "options": ["notes", "textbook", "opinion or perspective", "summary"],
+          "correct_answer": "opinion or perspective",
+          "grammar_type": "In the Classroom"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "The phrase 'a show of hands' is used to ask for a ____.",
+          "options": ["volunteer", "vote", "round of applause", "break"],
+          "correct_answer": "vote",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 103,
+          "question": "What does 'academic probation' mean?",
+          "options": ["A period of high achievement", "A trial period for a student with poor grades to improve", "A scholarship for bright students", "A disciplinary punishment for cheating"],
+          "correct_answer": "A trial period for a student with poor grades to improve",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 104,
+          "question": "If a topic is 'not on the syllabus,' it means it will not be...",
+          "options": ["taught in the class", "included in the examination", "discussed in groups", "written on the board"],
+          "correct_answer": "included in the examination",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 105,
+          "question": "The pedagogical approach of 'learning by doing' is also known as:",
+          "options": ["Rote learning", "Experiential learning", "Passive learning", "Didactic learning"],
+          "correct_answer": "Experiential learning",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 106,
+          "question": "What does it mean to 'play devil's advocate' in a classroom debate?",
+          "options": ["To argue for an opinion you don't really believe, to stimulate discussion", "To argue against the teacher", "To get angry and shout", "To agree with everyone"],
+          "correct_answer": "To argue for an opinion you don't really believe, to stimulate discussion",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 107,
+          "question": "A teacher might say 'That's a moot point' if the point is:",
+          "options": ["very important", "irrelevant or no longer worth discussing", "the main idea of the lesson", "a point everyone agrees on"],
+          "correct_answer": "irrelevant or no longer worth discussing",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 108,
+          "question": "What is a 'prerequisite' for a course?",
+          "options": ["The final exam for the course", "A course that you must complete before taking another course", "The textbook for the course", "The teacher of the course"],
+          "correct_answer": "A course that you must complete before taking another course",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 109,
+          "question": "If a teacher asks you to 'substantiate' your claim, you need to:",
+          "options": ["Repeat your claim loudly", "Change your claim", "Provide evidence or proof for your claim", "Ask someone else's opinion"],
+          "correct_answer": "Provide evidence or proof for your claim",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 110,
+          "question": "The term 'truancy' refers to:",
+          "options": ["Being late for school", "Failing an exam", "Staying away from school without permission", "Cheating in a test"],
+          "correct_answer": "Staying away from school without permission",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 111,
+          "question": "What does it mean if a topic is 'extemporaneous' in a speech class?",
+          "options": ["It is written down and read aloud", "It is memorized word for word", "It is spoken without any preparation", "It is spoken with some preparation but not memorized"],
+          "correct_answer": "It is spoken with some preparation but not memorized",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 112,
+          "question": "The phrase 'to learn by heart' means to:",
+          "options": ["Understand something deeply", "Enjoy learning something", "Memorize something perfectly", "Learn with the help of a friend"],
+          "correct_answer": "Memorize something perfectly",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 113,
+          "question": "What is 'critical thinking'?",
+          "options": ["Criticizing the teacher", "Finding faults in everything", "Analyzing information objectively to form a judgement", "Memorizing facts without questioning"],
+          "correct_answer": "Analyzing information objectively to form a judgement",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 114,
+          "question": "A 'dissertation' or 'thesis' is a long piece of writing required for ____.",
+          "options": ["primary school", "high school", "a university degree", "all levels of education"],
+          "correct_answer": "a university degree",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 115,
+          "question": "If a teacher says 'Let's not get sidetracked,' they want the class to:",
+          "options": ["Stop working", "Focus on the main topic", "Talk about a different topic", "Take a different route"],
+          "correct_answer": "Focus on the main topic",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 116,
+          "question": "What is an 'invigilator'?",
+          "options": ["A person who writes the exam paper", "A person who grades the exam", "A person who supervises students during an exam", "A person who creates the syllabus"],
+          "correct_answer": "A person who supervises students during an exam",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 117,
+          "question": "The phrase 'on a learning curve' means you are:",
+          "options": ["In the process of learning something new", "Finding the subject very easy", "Drawing a curve in your notebook", "Struggling to understand anything"],
+          "correct_answer": "In the process of learning something new",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 118,
+          "question": "To 'expel' a student means to:",
+          "options": ["Give them a prize", "Promote them to the next class", "Officially make them leave the school permanently", "Give them a failing grade"],
+          "correct_answer": "Officially make them leave the school permanently",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 119,
+          "question": "What is a 'mnemonic device'?",
+          "options": ["A type of calculator", "A learning technique to help remember information", "A scientific instrument", "A rule of grammar"],
+          "correct_answer": "A learning technique to help remember information",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 120,
+          "question": "A student's 'transcript' is an official record of their ____.",
+          "options": ["attendance", "grades", "hobbies", "address"],
+          "correct_answer": "grades",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 121,
+          "question": "When a teacher says 'Think outside the box', they are encouraging ____.",
+          "options": ["creative and unconventional thinking", "looking outside the classroom window", "following the instructions exactly", "thinking about boxes"],
+          "correct_answer": "creative and unconventional thinking",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 122,
+          "question": "An 'alumnus' (plural: alumni) is a ____.",
+          "options": ["current student", "new student", "former student of a school", "teacher's assistant"],
+          "correct_answer": "former student of a school",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 123,
+          "question": "What does 'pedagogy' refer to?",
+          "options": ["The study of feet", "The school's annual budget", "The method and practice of teaching", "The student council"],
+          "correct_answer": "The method and practice of teaching",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 124,
+          "question": "If something is 'compulsory' in school, it is ____.",
+          "options": ["optional", "required", "not allowed", "extra"],
+          "correct_answer": "required",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 125,
+          "question": "What is 'auditory learning'?",
+          "options": ["Learning by seeing", "Learning by doing", "Learning by listening", "Learning by reading"],
+          "correct_answer": "Learning by listening",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 126,
+          "question": "A 'sabbatical' is a period of paid leave granted to a teacher or professor for ____.",
+          "options": ["holiday", "study or travel", "disciplinary action", "family functions"],
+          "correct_answer": "study or travel",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 127,
+          "question": "The instruction to 'paraphrase' a text means you should:",
+          "options": ["Memorize it", "Copy it exactly", "Express its meaning in your own words", "Correct its grammar"],
+          "correct_answer": "Express its meaning in your own words",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 128,
+          "question": "A 'protégé' is a person who is guided and supported by an older, more experienced person, called a ____.",
+          "options": ["mentor", "boss", "colleague", "dean"],
+          "correct_answer": "mentor",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 129,
+          "question": "What is 'kinesthetic learning'?",
+          "options": ["Learning through physical activity", "Learning through seeing", "Learning through listening", "Learning through reading"],
+          "correct_answer": "Learning through physical activity",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 130,
+          "question": "If a teacher says a student's work is 'exemplary', it means the work is ____.",
+          "options": ["average", "unacceptable", "serving as a perfect example", "incomplete"],
+          "correct_answer": "serving as a perfect example",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 131,
+          "question": "What is a 'didactic' teaching style?",
+          "options": ["One that is focused on student discussion", "One that aims to teach a moral lesson", "One that is focused on games and activities", "One that is very informal"],
+          "correct_answer": "One that aims to teach a moral lesson",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 132,
+          "question": "The phrase 'bell the cat' in a group project means to:",
+          "options": ["Lead the project", "Do the easiest task", "Take on a difficult or dangerous task", "Quit the project"],
+          "correct_answer": "Take on a difficult or dangerous task",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 133,
+          "question": "What is a 'rubric' in the context of an assignment?",
+          "options": ["The final grade", "A tool that explains the grading criteria", "The deadline for submission", "The title of the assignment"],
+          "correct_answer": "A tool that explains the grading criteria",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 134,
+          "question": "A student who is the 'salutatorian' at graduation is typically the student with the ____.",
+          "options": ["highest grades", "second-highest grades", "best sports record", "best attendance"],
+          "correct_answer": "second-highest grades",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 135,
+          "question": "The instruction 'juxtapose' asks you to:",
+          "options": ["Combine two things", "Place two things side by side to compare or contrast", "Separate two things", "Analyze one thing in detail"],
+          "correct_answer": "Place two things side by side to compare or contrast",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 136,
+          "question": "What is 'interdisciplinary' study?",
+          "options": ["Studying one subject very deeply", "Studying after school hours", "Relating to more than one branch of knowledge", "A type of group project"],
+          "correct_answer": "Relating to more than one branch of knowledge",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 137,
+          "question": "If a teacher says 'Let's table this discussion', they mean:",
+          "options": ["Let's write it on the table", "Let's end the discussion now", "Let's postpone the discussion for later", "Let's have the discussion now"],
+          "correct_answer": "Let's postpone the discussion for later",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 138,
+          "question": "What is a 'verbatim' report?",
+          "options": ["A short summary", "A report in your own words", "A report that uses the exact same words", "A verbal report"],
+          "correct_answer": "A report that uses the exact same words",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 139,
+          "question": "The term 'magna cum laude' is a distinction given at graduation that means ____.",
+          "options": ["'with praise'", "'with great praise'", "'with highest praise'", "'with honors'"],
+          "correct_answer": "'with great praise'",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 140,
+          "question": "What does it mean to 'audit' a class?",
+          "options": ["To teach a class", "To attend a class without getting a grade or credit", "To grade the class papers", "To fail a class"],
+          "correct_answer": "To attend a class without getting a grade or credit",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 141,
+          "question": "A 'syllabus' provides an overview of a course, whereas a 'curriculum' is:",
+          "options": ["The set of courses constituting an area of specialization", "The textbook for the course", "The final exam", "The daily timetable"],
+          "correct_answer": "The set of courses constituting an area of specialization",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 142,
+          "question": "The instruction to 'infer' something from a text means to:",
+          "options": ["Find a direct statement in the text", "Deduce or conclude information from evidence and reasoning", "Summarize the text", "Memorize the text"],
+          "correct_answer": "Deduce or conclude information from evidence and reasoning",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 143,
+          "question": "A 'prodigy' is a young person with ____.",
+          "options": ["bad behaviour", "poor grades", "exceptional abilities", "many friends"],
+          "correct_answer": "exceptional abilities",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 144,
+          "question": "If a teacher says a student's argument is 'tenuous', it is:",
+          "options": ["very strong and convincing", "very weak and slight", "very creative", "very well-researched"],
+          "correct_answer": "very weak and slight",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 145,
+          "question": "What is a 'fresher' or 'freshman'?",
+          "options": ["A final-year student", "A first-year student at a high school or university", "The top-ranking student", "A student who is new to the country"],
+          "correct_answer": "A first-year student at a high school or university",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 146,
+          "question": "The instruction to 'expound' on a topic requires you to:",
+          "options": ["Present and explain it in detail", "Give a brief summary", "State only your opinion", "Argue against it"],
+          "correct_answer": "Present and explain it in detail",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 147,
+          "question": "What is an 'eponymous' work in a literature class?",
+          "options": ["A work with a happy ending", "A work named after its main character", "A very long work", "A work with no clear author"],
+          "correct_answer": "A work named after its main character",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 148,
+          "question": "A 'dissenter' in a group discussion is someone who:",
+          "options": ["agrees with the majority", "leads the discussion", "does not participate", "disagrees with the majority"],
+          "correct_answer": "disagrees with the majority",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 149,
+          "question": "If a teacher says 'Let's circle back to this later', it means:",
+          "options": ["The topic is not important", "We will discuss this again later", "We will draw a circle around this topic", "The discussion on this topic is over"],
+          "correct_answer": "We will discuss this again later",
+          "grammar_type": "In the Classroom"
+        },
+        {
+          "id": 150,
+          "question": "The term 'summa cum laude' is a graduation honour that means ____.",
+          "options": ["'with praise'", "'with great praise'", "'with highest praise'", "'with distinction'"],
+          "correct_answer": "'with highest praise'",
+          "grammar_type": "In the Classroom"
         }
       ]
     }
   ]
 }
+

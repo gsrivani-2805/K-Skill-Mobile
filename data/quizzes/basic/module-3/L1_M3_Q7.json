@@ -1,0 +1,1071 @@
+
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which of the following is a compound word?",
+          "options": ["running", "happy", "sunflower", "beautiful"],
+          "correct_answer": "sunflower",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 2,
+          "question": "Which two words make the compound word 'football'?",
+          "options": ["foo + ball", "foot + tball", "foot + ball", "foots + ball"],
+          "correct_answer": "foot + ball",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 3,
+          "question": "What compound word do you get when you combine 'rain' and 'bow'?",
+          "options": ["rainybow", "rainbow", "bowrain", "rainsbow"],
+          "correct_answer": "rainbow",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 4,
+          "question": "Identify the compound word in the sentence: 'I use a toothbrush to clean my teeth.'",
+          "options": ["clean", "teeth", "toothbrush", "use"],
+          "correct_answer": "toothbrush",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 5,
+          "question": "Which word is NOT a compound word?",
+          "options": ["butterfly", "cat", "doghouse", "blackboard"],
+          "correct_answer": "cat",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 6,
+          "question": "Complete the compound word: 'pan' + 'cake' = ?",
+          "options": ["pancakes", "cakepan", "pancake", "pan of cake"],
+          "correct_answer": "pancake",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 7,
+          "question": "Which word is a compound word?",
+          "options": ["table", "chair", "bookshelf", "reading"],
+          "correct_answer": "bookshelf",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 8,
+          "question": "What are the two words in 'starfish'?",
+          "options": ["start + fish", "star + fish", "stare + fish", "star + finish"],
+          "correct_answer": "star + fish",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 9,
+          "question": "The words 'mail' and 'box' combine to make which compound word?",
+          "options": ["boxmail", "mailbox", "mailboxing", "mailingbox"],
+          "correct_answer": "mailbox",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 10,
+          "question": "Find the compound word: 'He lives in the lighthouse by the sea.'",
+          "options": ["lives", "lighthouse", "sea", "by"],
+          "correct_answer": "lighthouse",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 11,
+          "question": "Which of these is a compound word?",
+          "options": ["flower", "garden", "sunlight", "playing"],
+          "correct_answer": "sunlight",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 12,
+          "question": "Complete the compound word: 'basket' + 'ball' = ?",
+          "options": ["ballbasket", "basket-ball", "basketball", "basket of ball"],
+          "correct_answer": "basketball",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 13,
+          "question": "The word 'cupcake' is made from which two words?",
+          "options": ["cup + cake", "cup + cakes", "cups + cake", "cuppy + cake"],
+          "correct_answer": "cup + cake",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 14,
+          "question": "Which of these is NOT a compound word?",
+          "options": ["bedroom", "classroom", "student", "playground"],
+          "correct_answer": "student",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 15,
+          "question": "Identify the compound word.",
+          "options": ["inside", "outside", "beside", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 16,
+          "question": "What two words make 'popcorn'?",
+          "options": ["poppy + corn", "pop + corn", "pops + corn", "popular + corn"],
+          "correct_answer": "pop + corn",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 17,
+          "question": "Which of these is a compound word you eat?",
+          "options": ["hotdog", "doghouse", "watchdog", "dog tired"],
+          "correct_answer": "hotdog",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 18,
+          "question": "Find the compound word in the sentence: 'We saw a ladybug in the garden.'",
+          "options": ["saw", "ladybug", "garden", "in"],
+          "correct_answer": "ladybug",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 19,
+          "question": "What is the compound word for a room where you sleep?",
+          "options": ["living room", "kitchen", "bedroom", "bathroom"],
+          "correct_answer": "bedroom",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 20,
+          "question": "Complete the compound word: 'tooth' + 'brush' = ?",
+          "options": ["brushtooth", "toothbrush", "teethbrush", "brushingtooth"],
+          "correct_answer": "toothbrush",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 21,
+          "question": "Which of these is a compound word?",
+          "options": ["airplane", "flying", "pilot", "cloud"],
+          "correct_answer": "airplane",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 22,
+          "question": "The words 'jelly' and 'fish' combine to make...",
+          "options": ["fishjelly", "jellyfish", "jelly's fish", "fishy jelly"],
+          "correct_answer": "jellyfish",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 23,
+          "question": "What are the two words in 'snowman'?",
+          "options": ["snowy + man", "snow + man", "snows + man", "show + man"],
+          "correct_answer": "snow + man",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 24,
+          "question": "Which word is NOT a compound word?",
+          "options": ["earring", "necklace", "jewellery", "fingernail"],
+          "correct_answer": "jewellery",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 25,
+          "question": "Find the compound word for a place where you play.",
+          "options": ["school", "house", "playground", "park"],
+          "correct_answer": "playground",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 26,
+          "question": "'Butter' and 'fly' make which word?",
+          "options": ["flybutter", "butterflown", "butterfly", "butterflies"],
+          "correct_answer": "butterfly",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 27,
+          "question": "Identify the compound word.",
+          "options": ["newspaper", "reading", "article", "headline"],
+          "correct_answer": "newspaper",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 28,
+          "question": "What two words make 'seashore'?",
+          "options": ["see + shore", "sea + shore", "sea + show", "seeing + shore"],
+          "correct_answer": "sea + shore",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 29,
+          "question": "In 'The firefighter is brave', which word is a compound word?",
+          "options": ["brave", "The", "is", "firefighter"],
+          "correct_answer": "firefighter",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 30,
+          "question": "Which of these is a compound word?",
+          "options": ["friendship", "friend", "friendly", "best friend"],
+          "correct_answer": "friendship",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 31,
+          "question": "'Gold' + 'fish' = ?",
+          "options": ["fishgold", "goldenfish", "goldfish", "gold of fish"],
+          "correct_answer": "goldfish",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 32,
+          "question": "What are the two words in 'doorbell'?",
+          "options": ["door + bell", "doors + bell", "door + bellow", "do + orbell"],
+          "correct_answer": "door + bell",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 33,
+          "question": "Which of these is NOT a compound word?",
+          "options": ["cowboy", "horse", "pigpen", "doghouse"],
+          "correct_answer": "horse",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 34,
+          "question": "Find the compound word: 'I received a postcard from my friend.'",
+          "options": ["received", "postcard", "friend", "from"],
+          "correct_answer": "postcard",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 35,
+          "question": "'Lip' and 'stick' combine to make...",
+          "options": ["sticklip", "lipstick", "lip-stick", "lip and stick"],
+          "correct_answer": "lipstick",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 36,
+          "question": "Identify the compound word.",
+          "options": ["watermelon", "delicious", "fruit", "eating"],
+          "correct_answer": "watermelon",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 37,
+          "question": "'Key' + 'board' = ?",
+          "options": ["boardkey", "key-board", "keyboard", "boardingkey"],
+          "correct_answer": "keyboard",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 38,
+          "question": "What are the two words in 'headache'?",
+          "options": ["head + ache", "head + each", "header + ache", "heads + ache"],
+          "correct_answer": "head + ache",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 39,
+          "question": "Which of these is a compound word?",
+          "options": ["anything", "something", "everything", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 40,
+          "question": "The word 'raincoat' is made from...",
+          "options": ["rain + coat", "raining + coat", "rain + coating", "rains + coat"],
+          "correct_answer": "rain + coat",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 41,
+          "question": "Which word is NOT a compound word?",
+          "options": ["treetop", "treehouse", "green", "tree branch"],
+          "correct_answer": "green",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 42,
+          "question": "Find the compound word: 'My grandmother tells good stories.'",
+          "options": ["grandmother", "stories", "tells", "good"],
+          "correct_answer": "grandmother",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 43,
+          "question": "'Class' + 'room' = ?",
+          "options": ["roomclass", "classyroom", "classroom", "class-room"],
+          "correct_answer": "classroom",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 44,
+          "question": "What two words make 'haircut'?",
+          "options": ["hair + cut", "hairy + cut", "hair + cutting", "hairs + cut"],
+          "correct_answer": "hair + cut",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 45,
+          "question": "Which word is a compound word?",
+          "options": ["water", "bottle", "river", "seafood"],
+          "correct_answer": "seafood",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 46,
+          "question": "'Work' and 'book' combine to make...",
+          "options": ["bookwork", "workbook", "workingbook", "book of work"],
+          "correct_answer": "workbook",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 47,
+          "question": "What are the two words in 'teacup'?",
+          "options": ["tea + cup", "tee + cup", "teas + cup", "tea + cuppy"],
+          "correct_answer": "tea + cup",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 48,
+          "question": "Identify the compound word in 'We use a firefly as a light source.'",
+          "options": ["light source", "firefly", "use", "light"],
+          "correct_answer": "firefly",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 49,
+          "question": "Which of these is NOT a compound word?",
+          "options": ["downstairs", "upstairs", "indoors", "walking"],
+          "correct_answer": "walking",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 50,
+          "question": "'Sun' and 'set' make which word?",
+          "options": ["setsun", "sunny", "sunset", "sun-set"],
+          "correct_answer": "sunset",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 51,
+          "question": "Find the compound word.",
+          "options": ["happy", "outside", "beautiful", "running"],
+          "correct_answer": "outside",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 52,
+          "question": "What two words make 'notebook'?",
+          "options": ["note + book", "not + ebook", "noted + book", "notes + book"],
+          "correct_answer": "note + book",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 53,
+          "question": "'Back' + 'pack' = ?",
+          "options": ["packback", "backpack", "backingpack", "back-pack"],
+          "correct_answer": "backpack",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 54,
+          "question": "Which word is a compound word?",
+          "options": ["car", "park", "driver", "carpark"],
+          "correct_answer": "carpark",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 55,
+          "question": "What are the two words in 'sandcastle'?",
+          "options": ["sand + castle", "sandy + castle", "sand + cast", "sands + castle"],
+          "correct_answer": "sand + castle",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 56,
+          "question": "Identify the compound word in the sentence: 'The police officer caught the thief.'",
+          "options": ["officer", "caught", "thief", "police officer"],
+          "correct_answer": "police officer",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 57,
+          "question": "'Foot' and 'print' combine to make...",
+          "options": ["printfoot", "footprint", "foot-print", "printing foot"],
+          "correct_answer": "footprint",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 58,
+          "question": "Which of these is NOT a compound word?",
+          "options": ["weekend", "weekday", "monthly", "daylight"],
+          "correct_answer": "monthly",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 59,
+          "question": "'Home' + 'work' = ?",
+          "options": ["workhome", "homework", "housework", "working home"],
+          "correct_answer": "homework",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 60,
+          "question": "Find the compound word.",
+          "options": ["motorcycle", "driving", "riding", "vehicle"],
+          "correct_answer": "motorcycle",
+          "grammar_type": "Compound Words"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "The word 'sunflower' is what type of compound word?",
+          "options": ["Open", "Closed", "Hyphenated", "Spaced"],
+          "correct_answer": "Closed",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 62,
+          "question": "The words 'ice cream' form what type of compound word?",
+          "options": ["Open", "Closed", "Hyphenated", "Combined"],
+          "correct_answer": "Open",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 63,
+          "question": "The word 'mother-in-law' is what type of compound word?",
+          "options": ["Open", "Closed", "Hyphenated", "Attached"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 64,
+          "question": "Which of these is a closed compound word?",
+          "options": ["living room", "post office", "bookstore", "high school"],
+          "correct_answer": "bookstore",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 65,
+          "question": "Which of these is an open compound word?",
+          "options": ["bedroom", "bus stop", "classroom", "blackboard"],
+          "correct_answer": "bus stop",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 66,
+          "question": "Which of these is a hyphenated compound word?",
+          "options": ["ice cream", "up to date", "school bus", "classroom"],
+          "correct_answer": "up to date",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 67,
+          "question": "Identify the type of compound word in the sentence: 'We have to check-in at the hotel.'",
+          "options": ["Open", "Closed", "Hyphenated", "It is not a compound word"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 68,
+          "question": "What is the correct form of the compound word? 'My sister is in ____.'",
+          "options": ["high-school", "high school", "highschool", "higher school"],
+          "correct_answer": "high school",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 69,
+          "question": "Which sentence contains an open compound word?",
+          "options": ["I need a new toothbrush.", "The living room is very big.", "My grandmother is kind.", "She found a ladybug."],
+          "correct_answer": "The living room is very big.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 70,
+          "question": "A closed compound word is written as...",
+          "options": ["two separate words", "one single word", "two words with a hyphen", "two words with a comma"],
+          "correct_answer": "one single word",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 71,
+          "question": "The word 'over-the-counter' is an example of a ____ compound word.",
+          "options": ["Open", "Closed", "Hyphenated", "Spaced"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 72,
+          "question": "'Full moon' is an example of a/an ____ compound word.",
+          "options": ["closed", "hyphenated", "open", "adjective"],
+          "correct_answer": "open",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 73,
+          "question": "Which of these is a compound adjective?",
+          "options": ["a red car", "a fast-running cheetah", "a beautiful house", "a big tree"],
+          "correct_answer": "a fast-running cheetah",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 74,
+          "question": "The word 'well-being' is a ____ compound word.",
+          "options": ["Closed", "Open", "Hyphenated", "Verb"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 75,
+          "question": "Find the closed compound word in the sentence: 'He couldn't find his textbook anywhere.'",
+          "options": ["couldn't", "textbook", "anywhere", "Both textbook and anywhere"],
+          "correct_answer": "Both textbook and anywhere",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 76,
+          "question": "Which of these is an open compound noun?",
+          "options": ["swimming pool", "postman", "software", "bedroom"],
+          "correct_answer": "swimming pool",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 77,
+          "question": "Identify the type of compound word: 'merry-go-round'.",
+          "options": ["Open", "Closed", "Hyphenated", "Complex"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 78,
+          "question": "What is the meaning of the compound word 'downfall'?",
+          "options": ["to fall down", "a sudden loss of power or success", "a place to fall", "the act of falling"],
+          "correct_answer": "a sudden loss of power or success",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 79,
+          "question": "Which sentence correctly uses a hyphenated compound word?",
+          "options": ["She is a well known author.", "She is a well-known author.", "She is a well known-author.", "She is a well-known-author."],
+          "correct_answer": "She is a well-known author.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 80,
+          "question": "The compound word 'make-up' can act as a noun. Which is the verb form?",
+          "options": ["makeup", "make up", "making-up", "maked-up"],
+          "correct_answer": "make up",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 81,
+          "question": "Which of the following is an open compound verb?",
+          "options": ["highlight", "overcome", "log in", "babysit"],
+          "correct_answer": "log in",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 82,
+          "question": "'Six-pack' is an example of a ____ compound word.",
+          "options": ["Open", "Closed", "Hyphenated", "Plural"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 83,
+          "question": "Identify the closed compound word.",
+          "options": ["real estate", "dining room", "greenhouse", "bus driver"],
+          "correct_answer": "greenhouse",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 84,
+          "question": "The word 'dry-cleaning' is a ____.",
+          "options": ["closed compound word", "open compound word", "hyphenated compound word", "phrasal verb"],
+          "correct_answer": "hyphenated compound word",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 85,
+          "question": "What type of compound word is 'science fiction'?",
+          "options": ["Open", "Closed", "Hyphenated", "Adjective"],
+          "correct_answer": "Open",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 86,
+          "question": "Which of these is a compound noun?",
+          "options": ["overtake", "hard-working", "rainfall", "stand up"],
+          "correct_answer": "rainfall",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 87,
+          "question": "A word like 'runner-up' is a ____ compound word.",
+          "options": ["Open", "Closed", "Hyphenated", "Plural"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 88,
+          "question": "Find the open compound word in the sentence: 'We have to wait at the bus stop.'",
+          "options": ["wait", "bus stop", "at", "have to"],
+          "correct_answer": "bus stop",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 89,
+          "question": "'Underestimate' is what type of compound word?",
+          "options": ["Open", "Closed", "Hyphenated", "Prepositional"],
+          "correct_answer": "Closed",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 90,
+          "question": "Which sentence uses the compound word correctly?",
+          "options": ["We need to back up our files.", "We need a file backup.", "We need to backup our files.", "Both a and b are correct."],
+          "correct_answer": "Both a and b are correct.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 91,
+          "question": "The word 'high-speed' is often used as a ____.",
+          "options": ["compound noun", "compound verb", "compound adjective", "compound adverb"],
+          "correct_answer": "compound adjective",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 92,
+          "question": "'Editor-in-chief' is an example of a ____ compound noun.",
+          "options": ["Open", "Closed", "Hyphenated", "Plural"],
+          "correct_answer": "Hyphenated",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 93,
+          "question": "Which of these is a closed compound noun?",
+          "options": ["life cycle", "sound wave", "sunrise", "time zone"],
+          "correct_answer": "sunrise",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 94,
+          "question": "What type of compound word is 'living room'?",
+          "options": ["Open", "Closed", "Hyphenated", "Descriptive"],
+          "correct_answer": "Open",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 95,
+          "question": "Identify the compound word meaning 'a disadvantage'.",
+          "options": ["outcome", "drawback", "income", "feedback"],
+          "correct_answer": "drawback",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 96,
+          "question": "Which of these compound words is a verb?",
+          "options": ["uprising", "download", "output", "input"],
+          "correct_answer": "download",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 97,
+          "question": "The word 'state-of-the-art' is a ____.",
+          "options": ["closed compound word", "open compound word", "hyphenated compound word", "prepositional phrase"],
+          "correct_answer": "hyphenated compound word",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 98,
+          "question": "What is the plural of 'passer-by'?",
+          "options": ["passer-bys", "passers-by", "passers-bys", "passer-by's"],
+          "correct_answer": "passers-by",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 99,
+          "question": "Find the compound word in 'We saw the sun set over the mountaintop.'",
+          "options": ["sun set", "mountaintop", "over", "saw"],
+          "correct_answer": "mountaintop",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 100,
+          "question": "The words 'time' and 'out' can form a compound word 'timeout' (noun) or a verb phrase 'time out'. Which sentence uses the noun?",
+          "options": ["Let's time out the process.", "The coach called a timeout.", "We need to time out for a break.", "He wants to time out."],
+          "correct_answer": "The coach called a timeout.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 101,
+          "question": "Which of the following is a closed compound word?",
+          "options": ["credit card", "first aid", "blood pressure", "crossword"],
+          "correct_answer": "crossword",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 102,
+          "question": "Identify the type of compound: 'hard-working'.",
+          "options": ["Compound noun", "Compound adjective", "Compound verb", "Compound adverb"],
+          "correct_answer": "Compound adjective",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 103,
+          "question": "What is the meaning of the compound word 'breakthrough'?",
+          "options": ["to break an object", "an important discovery", "a path through something", "the act of breaking"],
+          "correct_answer": "an important discovery",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 104,
+          "question": "Which of these is a hyphenated compound word?",
+          "options": ["fast food", "well behaved", "twenty one", "up-to-date"],
+          "correct_answer": "up-to-date",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 105,
+          "question": "'Post office' is what type of compound word?",
+          "options": ["Closed", "Hyphenated", "Open", "Adjectival"],
+          "correct_answer": "Open",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 106,
+          "question": "Identify the compound word made from a verb and a noun.",
+          "options": ["blackboard", "sunrise", "washing machine", "software"],
+          "correct_answer": "washing machine",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 107,
+          "question": "Which of these is a compound noun?",
+          "options": ["daydream", "old-fashioned", "stand by", "break down"],
+          "correct_answer": "daydream",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 108,
+          "question": "The word 'fast food' is an example of...",
+          "options": ["a closed compound word", "an open compound word", "a hyphenated compound word", "a compound verb"],
+          "correct_answer": "an open compound word",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 109,
+          "question": "What is the plural of 'mother-in-law'?",
+          "options": ["mother-in-laws", "mothers-in-law", "mothers-in-laws", "mother's-in-law"],
+          "correct_answer": "mothers-in-law",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 110,
+          "question": "The word 'blackboard' is a compound word formed from...",
+          "options": ["Noun + Noun", "Adjective + Noun", "Verb + Noun", "Noun + Verb"],
+          "correct_answer": "Adjective + Noun",
+          "grammar_type": "Compound Words"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "Which of the following is a compound preposition?",
+          "options": ["because of", "inside", "outside", "upon"],
+          "correct_answer": "because of",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 112,
+          "question": "The word 'good-looking' is a compound adjective. When does it usually NOT need a hyphen?",
+          "options": ["When it comes before a noun.", "When it comes after a noun.", "It always needs a hyphen.", "It never needs a hyphen."],
+          "correct_answer": "When it comes after a noun.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 113,
+          "question": "Which sentence is correct? 'The ten-year-old boy...' or 'The boy is ten-years-old.'",
+          "options": ["The ten-year-old boy...", "The boy is ten-years-old.", "Both are correct.", "Neither is correct."],
+          "correct_answer": "The ten-year-old boy...",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 114,
+          "question": "What is the term for a compound word whose meaning is different from its component parts, like 'hotdog'?",
+          "options": ["Exocentric compound", "Endocentric compound", "Copulative compound", "Appositional compound"],
+          "correct_answer": "Exocentric compound",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 115,
+          "question": "Which of these is a compound adverb?",
+          "options": ["sometimes", "quickly", "very", "often"],
+          "correct_answer": "sometimes",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 116,
+          "question": "The compound word 'bittersweet' is formed from what two types of words?",
+          "options": ["Noun + Noun", "Adjective + Adjective", "Verb + Noun", "Adverb + Verb"],
+          "correct_answer": "Adjective + Adjective",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 117,
+          "question": "What is the plural of the compound noun 'attorney-general'?",
+          "options": ["attorney-generals", "attorneys-general", "attorneys-generals", "attorney's-general"],
+          "correct_answer": "attorneys-general",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 118,
+          "question": "Which of these compound words has a different structure?",
+          "options": ["pickpocket", "cutthroat", "daredevil", "blackboard"],
+          "correct_answer": "blackboard",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 119,
+          "question": "The noun is 'a setback'. The phrasal verb is 'to set back'. Which sentence uses the noun?",
+          "options": ["The project was set back by delays.", "The project suffered a major setback.", "Don't let this set back your progress.", "We had to set back the clock."],
+          "correct_answer": "The project suffered a major setback.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 120,
+          "question": "Which of these is an example of a copulative compound, where both parts have equal status?",
+          "options": ["actor-director", "sunrise", "school bus", "well-being"],
+          "correct_answer": "actor-director",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 121,
+          "question": "The word 'whereabouts' is a compound word acting as a...",
+          "options": ["Noun", "Adverb", "Adjective", "Both a Noun and an Adverb"],
+          "correct_answer": "Both a Noun and an Adverb",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 122,
+          "question": "Identify the compound word formed from a Gerund + Noun.",
+          "options": ["swimming pool", "sunrise", "handwriting", "software"],
+          "correct_answer": "swimming pool",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 123,
+          "question": "Which sentence has a correctly formed compound adjective?",
+          "options": ["It was a two-hours movie.", "It was a two hour movie.", "It was a two-hour movie.", "It was a two-hour-movie."],
+          "correct_answer": "It was a two-hour movie.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 124,
+          "question": "The word 'wherewithal' is a compound word meaning...",
+          "options": ["a location", "a question", "the necessary means (especially money)", "a type of journey"],
+          "correct_answer": "the necessary means (especially money)",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 125,
+          "question": "Which of the following is NOT a compound word?",
+          "options": ["become", "because", "before", "behind"],
+          "correct_answer": "because",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 126,
+          "question": "The word 'sleepwalk' is formed from which pattern?",
+          "options": ["Noun + Verb", "Verb + Noun", "Adjective + Verb", "Noun + Noun"],
+          "correct_answer": "Noun + Verb",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 127,
+          "question": "What is the plural form of the open compound 'court martial'?",
+          "options": ["court martials", "courts martials", "courts martial", "court martial's"],
+          "correct_answer": "courts martial",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 128,
+          "question": "'A never-ending story' uses a hyphenated compound adjective. Which sentence correctly uses the same words after a noun?",
+          "options": ["The story was never-ending.", "The story was never ending.", "The story never-ended.", "The story was never-end."],
+          "correct_answer": "The story was never ending.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 129,
+          "question": "Which of these is a compound pronoun?",
+          "options": ["anybody", "someone", "itself", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 130,
+          "question": "The word 'hindsight' means understanding an event after it has happened. This is an example of a/an...",
+          "options": ["Endocentric compound", "Exocentric compound", "Appositional compound", "Copulative compound"],
+          "correct_answer": "Exocentric compound",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 131,
+          "question": "Which is the correct way to write the compound modifier?",
+          "options": ["A world famous singer", "A world-famous singer", "A world-famous-singer", "A worldfamous singer"],
+          "correct_answer": "A world-famous singer",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 132,
+          "question": "The word 'off-white' is a...",
+          "options": ["Hyphenated compound noun", "Hyphenated compound adjective", "Open compound noun", "Closed compound noun"],
+          "correct_answer": "Hyphenated compound adjective",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 133,
+          "question": "Which of these is formed from a preposition and a noun?",
+          "options": ["afterthought", "sunrise", "input", "haircut"],
+          "correct_answer": "afterthought",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 134,
+          "question": "The word 'nevertheless' is a compound...",
+          "options": ["Noun", "Pronoun", "Adverb", "Adjective"],
+          "correct_answer": "Adverb",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 135,
+          "question": "Choose the sentence with the correct hyphenation.",
+          "options": ["We are looking for a dog friendly park.", "We are looking for a dog-friendly park.", "We are looking for a dog-friendly-park.", "The park we found is dog-friendly."],
+          "correct_answer": "We are looking for a dog-friendly park.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 136,
+          "question": "What is the meaning of the compound word 'scapegoat'?",
+          "options": ["a goat that escapes", "a person blamed for the mistakes of others", "a type of goat", "a goat's landscape"],
+          "correct_answer": "a person blamed for the mistakes of others",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 137,
+          "question": "The compound 'singer-songwriter' is what type of compound?",
+          "options": ["Endocentric", "Exocentric", "Appositional", "Copulative"],
+          "correct_answer": "Copulative",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 138,
+          "question": "Which of these is NOT a compound word?",
+          "options": ["therefor", "therefore", "therein", "thereafter"],
+          "correct_answer": "therefor",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 139,
+          "question": "What is the structure of the compound verb 'proofread'?",
+          "options": ["Noun + Verb", "Verb + Noun", "Adjective + Verb", "Verb + Verb"],
+          "correct_answer": "Noun + Verb",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 140,
+          "question": "The compound word 'white-collar' is used as a/an ____.",
+          "options": ["Noun", "Verb", "Adverb", "Adjective"],
+          "correct_answer": "Adjective",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 141,
+          "question": "What is the plural of 'forget-me-not' (the flower)?",
+          "options": ["forgets-me-not", "forget-me-nots", "forgets-me-nots", "forget-me's-not"],
+          "correct_answer": "forget-me-nots",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 142,
+          "question": "The word 'heartbroken' is a compound adjective formed from...",
+          "options": ["Noun + Verb (Past Participle)", "Adjective + Noun", "Noun + Noun", "Verb + Adjective"],
+          "correct_answer": "Noun + Verb (Past Participle)",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 143,
+          "question": "Which of these is a compound conjunction?",
+          "options": ["although", "because", "so that", "and"],
+          "correct_answer": "so that",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 144,
+          "question": "The word 'whirlpool' is an endocentric compound. What does this mean?",
+          "options": ["It is a type of 'pool'.", "Its meaning is not related to 'whirl' or 'pool'.", "Both words are of equal importance.", "It acts as a verb."],
+          "correct_answer": "It is a type of 'pool'.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 145,
+          "question": "Which sentence is correctly written?",
+          "options": ["I have a part time job.", "I have a part-time job.", "My job is only part-time.", "Both b and c are correct."],
+          "correct_answer": "Both b and c are correct.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 146,
+          "question": "The word 'spoon-feed' is a compound verb. What does it mean metaphorically?",
+          "options": ["to feed with a spoon", "to provide too much help, making someone lazy", "to eat quickly", "to prepare food"],
+          "correct_answer": "to provide too much help, making someone lazy",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 147,
+          "question": "Which of these is a compound word derived from French?",
+          "options": ["aide-de-camp", "cul-de-sac", "hors d'oeuvre", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 148,
+          "question": "The word 'feedback' is a compound noun. What is its structure?",
+          "options": ["Noun + Noun", "Verb + Noun", "Adverb + Verb", "Noun + Verb"],
+          "correct_answer": "Adverb + Verb",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 149,
+          "question": "Which sentence needs a hyphen to be clear?",
+          "options": ["He is a man eating shark.", "He is a man-eating shark.", "He saw a man eating shark.", "Both a and c need a hyphen."],
+          "correct_answer": "He is a man-eating shark.",
+          "grammar_type": "Compound Words"
+        },
+        {
+          "id": 150,
+          "question": "The plural of 'go-between' is...",
+          "options": ["go-betweens", "goes-between", "goes-betweens", "go-between's"],
+          "correct_answer": "go-betweens",
+          "grammar_type": "Compound Words"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "They ______ football yesterday.",
+          "options": ["play", "plays", "played", "are playing"],
+          "correct_answer": "played",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 2,
+          "question": "She ______ a letter to her friend last week.",
+          "options": ["writes", "wrote", "is writing", "write"],
+          "correct_answer": "wrote",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 3,
+          "question": "I ______ watching a movie when you called.",
+          "options": ["am", "is", "was", "were"],
+          "correct_answer": "was",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 4,
+          "question": "We ______ to the village a month ago.",
+          "options": ["go", "goes", "went", "will go"],
+          "correct_answer": "went",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 5,
+          "question": "The children ______ in the garden.",
+          "options": ["was playing", "is playing", "were playing", "plays"],
+          "correct_answer": "were playing",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 6,
+          "question": "He ______ his homework last night.",
+          "options": ["do", "does", "did", "is doing"],
+          "correct_answer": "did",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 7,
+          "question": "My father ______ a new car yesterday.",
+          "options": ["buy", "buys", "bought", "is buying"],
+          "correct_answer": "bought",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 8,
+          "question": "The dog ______ at the stranger.",
+          "options": ["bark", "barks", "barked", "is barking"],
+          "correct_answer": "barked",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 9,
+          "question": "She ______ very happy to see us.",
+          "options": ["is", "am", "was", "were"],
+          "correct_answer": "was",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 10,
+          "question": "They ______ tired after the long journey.",
+          "options": ["is", "was", "am", "were"],
+          "correct_answer": "were",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 11,
+          "question": "I ______ an apple from the basket.",
+          "options": ["take", "takes", "took", "am taking"],
+          "correct_answer": "took",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 12,
+          "question": "The teacher ______ us a story.",
+          "options": ["tell", "tells", "told", "is telling"],
+          "correct_answer": "told",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 13,
+          "question": "It ______ heavily last night.",
+          "options": ["rain", "rains", "rained", "was raining"],
+          "correct_answer": "rained",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 14,
+          "question": "He ______ not come to school yesterday.",
+          "options": ["do", "does", "did", "was"],
+          "correct_answer": "did",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 15,
+          "question": "We ______ a movie last Sunday.",
+          "options": ["see", "sees", "saw", "are seeing"],
+          "correct_answer": "saw",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 16,
+          "question": "The baby ______ all night.",
+          "options": ["cry", "cries", "cried", "was crying"],
+          "correct_answer": "cried",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 17,
+          "question": "While they were studying, the lights ______ out.",
+          "options": ["go", "goes", "went", "is going"],
+          "correct_answer": "went",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 18,
+          "question": "My mother ______ a cake for my birthday.",
+          "options": ["make", "makes", "made", "is making"],
+          "correct_answer": "made",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 19,
+          "question": "The bird ______ away from the cage.",
+          "options": ["fly", "flies", "flew", "is flying"],
+          "correct_answer": "flew",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 20,
+          "question": "He ______ his keys in the car.",
+          "options": ["leave", "leaves", "left", "is leaving"],
+          "correct_answer": "left",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 21,
+          "question": "What ______ you doing at 8 PM yesterday?",
+          "options": ["was", "were", "is", "are"],
+          "correct_answer": "were",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 22,
+          "question": "The students ______ attention in the class.",
+          "options": ["pays", "paid", "pay", "is paying"],
+          "correct_answer": "paid",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 23,
+          "question": "I ______ a delicious meal at the restaurant.",
+          "options": ["eat", "eats", "ate", "am eating"],
+          "correct_answer": "ate",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 24,
+          "question": "She ______ at the joke.",
+          "options": ["laugh", "laughs", "laughed", "is laughing"],
+          "correct_answer": "laughed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 25,
+          "question": "The farmer ______ his field.",
+          "options": ["plough", "ploughs", "ploughed", "was ploughing"],
+          "correct_answer": "ploughed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 26,
+          "question": "It ______ very hot last week.",
+          "options": ["is", "am", "was", "were"],
+          "correct_answer": "was",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 27,
+          "question": "The cat ______ all the milk.",
+          "options": ["drink", "drinks", "drank", "is drinking"],
+          "correct_answer": "drank",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 28,
+          "question": "The bus ______ suddenly.",
+          "options": ["stop", "stops", "stopped", "is stopping"],
+          "correct_answer": "stopped",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 29,
+          "question": "He ______ his hand and asked a question.",
+          "options": ["raise", "raises", "raised", "is raising"],
+          "correct_answer": "raised",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 30,
+          "question": "We ______ for the bus for a long time.",
+          "options": ["wait", "waits", "waited", "were waiting"],
+          "correct_answer": "waited",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 31,
+          "question": "The postman ______ the letter this morning.",
+          "options": ["bring", "brings", "brought", "is bringing"],
+          "correct_answer": "brought",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 32,
+          "question": "I ______ very well last night.",
+          "options": ["sleeps", "slept", "sleep", "am sleeping"],
+          "correct_answer": "slept",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 33,
+          "question": "The wind ______ strongly yesterday evening.",
+          "options": ["blows", "blew", "was blowing", "is blowing"],
+          "correct_answer": "was blowing",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 34,
+          "question": "She ______ the window to get some fresh air.",
+          "options": ["open", "opens", "opened", "is opening"],
+          "correct_answer": "opened",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 35,
+          "question": "The lion ______ loudly in the zoo.",
+          "options": ["roar", "roars", "roared", "is roaring"],
+          "correct_answer": "roared",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 36,
+          "question": "They ______ in a small house in the village.",
+          "options": ["live", "lives", "lived", "are living"],
+          "correct_answer": "lived",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 37,
+          "question": "What ______ you do on the weekend?",
+          "options": ["do", "does", "did", "are"],
+          "correct_answer": "did",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 38,
+          "question": "He ______ his friend at the station.",
+          "options": ["meet", "meets", "met", "was meeting"],
+          "correct_answer": "met",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 39,
+          "question": "The team ______ the final match.",
+          "options": ["win", "wins", "won", "is winning"],
+          "correct_answer": "won",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 40,
+          "question": "The phone ______ while she was cooking.",
+          "options": ["rings", "rang", "is ringing", "was ringing"],
+          "correct_answer": "rang",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 41,
+          "question": "I ______ the book on the table.",
+          "options": ["put", "puts", "putted", "am putting"],
+          "correct_answer": "put",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 42,
+          "question": "My grandmother ______ us amazing stories.",
+          "options": ["tell", "tells", "told", "is telling"],
+          "correct_answer": "told",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 43,
+          "question": "The children ______ their holidays at their uncle's house.",
+          "options": ["spend", "spends", "spent", "were spending"],
+          "correct_answer": "spent",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 44,
+          "question": "He ______ a picture of a mountain.",
+          "options": ["draw", "draws", "drew", "is drawing"],
+          "correct_answer": "drew",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 45,
+          "question": "The old man ______ slowly across the road.",
+          "options": ["walks", "walked", "walk", "is walking"],
+          "correct_answer": "walked",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 46,
+          "question": "We ______ our room before the guests arrived.",
+          "options": ["clean", "cleans", "cleaned", "were cleaning"],
+          "correct_answer": "cleaned",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 47,
+          "question": "She ______ because the movie was sad.",
+          "options": ["cries", "cried", "cry", "was crying"],
+          "correct_answer": "cried",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 48,
+          "question": "He ______ his leg while playing.",
+          "options": ["break", "breaks", "broke", "is breaking"],
+          "correct_answer": "broke",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 49,
+          "question": "I ______ a letter from my cousin yesterday.",
+          "options": ["get", "gets", "got", "am getting"],
+          "correct_answer": "got",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 50,
+          "question": "They ______ home late last night.",
+          "options": ["come", "comes", "came", "were coming"],
+          "correct_answer": "came",
+          "grammar_type": "Past Tense"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "The meeting ______ by the time I reached the office.",
+          "options": ["started", "has started", "had started", "was starting"],
+          "correct_answer": "had started",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 52,
+          "question": "He told me that he ______ the movie.",
+          "options": ["has seen", "had seen", "saw", "was seeing"],
+          "correct_answer": "had seen",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 53,
+          "question": "She ______ for two hours when I found her.",
+          "options": ["cried", "was crying", "had been crying", "has been crying"],
+          "correct_answer": "had been crying",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 54,
+          "question": "While my father was reading, my mother ______ dinner.",
+          "options": ["cooked", "was cooking", "had cooked", "has cooked"],
+          "correct_answer": "was cooking",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 55,
+          "question": "If I had known you were in hospital, I ______ you.",
+          "options": ["would visit", "will visit", "would have visited", "visited"],
+          "correct_answer": "would have visited",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 56,
+          "question": "The patient ______ before the doctor arrived.",
+          "options": ["died", "has died", "had died", "was dying"],
+          "correct_answer": "had died",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 57,
+          "question": "They ______ in that house for ten years before they moved to the city.",
+          "options": ["lived", "were living", "had lived", "have lived"],
+          "correct_answer": "had lived",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 58,
+          "question": "I didn't realize that I ______ my phone at home.",
+          "options": ["have left", "had left", "left", "was leaving"],
+          "correct_answer": "had left",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 59,
+          "question": "He asked me what I ______.",
+          "options": ["am doing", "was doing", "did", "have done"],
+          "correct_answer": "was doing",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 60,
+          "question": "The ground was wet because it ______ all night.",
+          "options": ["was raining", "rained", "had been raining", "has been raining"],
+          "correct_answer": "had been raining",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 61,
+          "question": "When we ______ at the station, the train had already left.",
+          "options": ["arrive", "arrived", "had arrived", "were arriving"],
+          "correct_answer": "arrived",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 62,
+          "question": "She ______ tired because she had been working since morning.",
+          "options": ["is", "was", "has been", "had been"],
+          "correct_answer": "was",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 63,
+          "question": "By the time he was 25, he ______ two books.",
+          "options": ["wrote", "has written", "had written", "was writing"],
+          "correct_answer": "had written",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 64,
+          "question": "He ______ a shower when the doorbell rang.",
+          "options": ["had", "was having", "had had", "has had"],
+          "correct_answer": "was having",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 65,
+          "question": "I wish I ______ for the exam.",
+          "options": ["study", "have studied", "had studied", "was studying"],
+          "correct_answer": "had studied",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 66,
+          "question": "The building ______ by the workers last year.",
+          "options": ["is constructed", "was constructed", "had been constructed", "has been constructed"],
+          "correct_answer": "was constructed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 67,
+          "question": "As soon as he ______ the news, he rushed to the hospital.",
+          "options": ["hears", "heard", "had heard", "was hearing"],
+          "correct_answer": "heard",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 68,
+          "question": "The children ______ their dinner by 8 PM.",
+          "options": ["finished", "had finished", "were finishing", "have finished"],
+          "correct_answer": "had finished",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 69,
+          "question": "She said she ______ to the market the previous day.",
+          "options": ["went", "had gone", "has gone", "was going"],
+          "correct_answer": "had gone",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 70,
+          "question": "They ______ for a long time before they finally reached an agreement.",
+          "options": ["argued", "were arguing", "had been arguing", "have been arguing"],
+          "correct_answer": "had been arguing",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 71,
+          "question": "He didn't want to see the film because he ______ it before.",
+          "options": ["saw", "has seen", "had seen", "was seeing"],
+          "correct_answer": "had seen",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 72,
+          "question": "The sun ______ when I woke up this morning.",
+          "options": ["shines", "shone", "was shining", "had shone"],
+          "correct_answer": "was shining",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 73,
+          "question": "I used to ______ in a village when I was a child.",
+          "options": ["live", "living", "lived", "have lived"],
+          "correct_answer": "live",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 74,
+          "question": "If you ______ me, I would have come.",
+          "options": ["called", "call", "had called", "have called"],
+          "correct_answer": "had called",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 75,
+          "question": "The letter ______ a week ago.",
+          "options": ["was posted", "had been posted", "has been posted", "is posted"],
+          "correct_answer": "was posted",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 76,
+          "question": "He ______ as if he knew everything.",
+          "options": ["talks", "talked", "was talking", "had talked"],
+          "correct_answer": "talked",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 77,
+          "question": "The road was blocked because a tree ______ down.",
+          "options": ["fell", "has fallen", "had fallen", "was falling"],
+          "correct_answer": "had fallen",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 78,
+          "question": "It was the first time he ______ a plane.",
+          "options": ["flew", "had flown", "has flown", "was flying"],
+          "correct_answer": "had flown",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 79,
+          "question": "We ______ a new car last month, but we have already sold it.",
+          "options": ["bought", "had bought", "have bought", "were buying"],
+          "correct_answer": "bought",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 80,
+          "question": "She ______ for the bus when it started to rain.",
+          "options": ["waited", "was waiting", "had waited", "has been waiting"],
+          "correct_answer": "was waiting",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 81,
+          "question": "I ______ my watch while I was playing.",
+          "options": ["lose", "lost", "had lost", "was losing"],
+          "correct_answer": "lost",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 82,
+          "question": "The work ______ by the team before the deadline.",
+          "options": ["was completed", "had been completed", "has been completed", "completed"],
+          "correct_answer": "had been completed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 83,
+          "question": "What ______ at this time yesterday?",
+          "options": ["did you do", "were you doing", "had you done", "have you done"],
+          "correct_answer": "were you doing",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 84,
+          "question": "He ______ English for five years before he moved to England.",
+          "options": ["studied", "was studying", "had been studying", "has been studying"],
+          "correct_answer": "had been studying",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 85,
+          "question": "I ______ you would come.",
+          "options": ["think", "thought", "had thought", "was thinking"],
+          "correct_answer": "thought",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 86,
+          "question": "The guests ______ before the host cut the cake.",
+          "options": ["left", "have left", "had left", "were leaving"],
+          "correct_answer": "had left",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 87,
+          "question": "The farmer ______ his crops before the rains came.",
+          "options": ["harvested", "has harvested", "had harvested", "was harvesting"],
+          "correct_answer": "had harvested",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 88,
+          "question": "He looked tired. He ______ all night.",
+          "options": ["drove", "was driving", "had been driving", "has been driving"],
+          "correct_answer": "had been driving",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 89,
+          "question": "If you ______ the instructions, you wouldn't have made a mistake.",
+          "options": ["followed", "had followed", "have followed", "were following"],
+          "correct_answer": "had followed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 90,
+          "question": "By the age of ten, I ______ how to ride a bicycle.",
+          "options": ["learned", "had learned", "was learning", "have learned"],
+          "correct_answer": "had learned",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 91,
+          "question": "As I ______ down the street, I saw an old friend.",
+          "options": ["walked", "had walked", "was walking", "have walked"],
+          "correct_answer": "was walking",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 92,
+          "question": "She explained that she ______ a mistake.",
+          "options": ["made", "has made", "had made", "was making"],
+          "correct_answer": "had made",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 93,
+          "question": "The fire ______ for hours before the fire brigade arrived.",
+          "options": ["was burning", "has been burning", "had been burning", "burned"],
+          "correct_answer": "had been burning",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 94,
+          "question": "The city ______ completely by the time the war ended.",
+          "options": ["was destroyed", "had been destroyed", "has been destroyed", "destroyed"],
+          "correct_answer": "had been destroyed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 95,
+          "question": "I ______ a shower, so I didn't hear the phone.",
+          "options": ["took", "had taken", "was taking", "have taken"],
+          "correct_answer": "was taking",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 96,
+          "question": "After the students ______ the answers, the teacher collected the papers.",
+          "options": ["wrote", "had written", "were writing", "have written"],
+          "correct_answer": "had written",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 97,
+          "question": "She couldn't open the door because she ______ the wrong key.",
+          "options": ["brought", "has brought", "was bringing", "had brought"],
+          "correct_answer": "had brought",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 98,
+          "question": "I wished I ______ more about the topic before the discussion.",
+          "options": ["knew", "had known", "have known", "was knowing"],
+          "correct_answer": "had known",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 99,
+          "question": "The sun had set, and the birds ______ back to their nests.",
+          "options": ["flew", "had flown", "were flying", "have flown"],
+          "correct_answer": "were flying",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 100,
+          "question": "He ______ his promise to help us.",
+          "options": ["didn't keep", "hadn't kept", "wasn't keeping", "hasn't kept"],
+          "correct_answer": "didn't keep",
+          "grammar_type": "Past Tense"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "It was high time the government ______ action on this issue.",
+          "options": ["takes", "took", "had taken", "should take"],
+          "correct_answer": "took",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 102,
+          "question": "If only I ______ your advice, I wouldn't be in this mess now.",
+          "options": ["took", "have taken", "had taken", "would take"],
+          "correct_answer": "had taken",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 103,
+          "question": "He talked about his village as though he ______ there for a long time.",
+          "options": ["lived", "was living", "has lived", "had lived"],
+          "correct_answer": "had lived",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 104,
+          "question": "Had it not been for the rain, we ______ the match.",
+          "options": ["would win", "would have won", "will win", "won"],
+          "correct_answer": "would have won",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 105,
+          "question": "This beautiful temple ______ by the king a long time ago.",
+          "options": ["was being built", "had been built", "was built", "has been built"],
+          "correct_answer": "was built",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 106,
+          "question": "I would rather you ______ him about the surprise party.",
+          "options": ["don't tell", "didn't tell", "hadn't told", "wouldn't tell"],
+          "correct_answer": "didn't tell",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 107,
+          "question": "No sooner ______ the house than the roof collapsed.",
+          "options": ["had I left", "I had left", "did I leave", "I left"],
+          "correct_answer": "had I left",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 108,
+          "question": "I ______ to inform you about the change in plans, but I completely forgot.",
+          "options": ["was going", "had gone", "went", "have gone"],
+          "correct_answer": "was going",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 109,
+          "question": "He was accused of ______ the secret documents.",
+          "options": ["stealing", "having stolen", "stole", "had stolen"],
+          "correct_answer": "having stolen",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 110,
+          "question": "The boy admitted that he ______ the window while playing.",
+          "options": ["broke", "has broken", "had broken", "was breaking"],
+          "correct_answer": "had broken",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 111,
+          "question": "It was the most challenging problem he ______ in his career.",
+          "options": ["ever faced", "had ever faced", "has ever faced", "was ever facing"],
+          "correct_answer": "had ever faced",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 112,
+          "question": "The committee's proposal that the funds ______ was approved.",
+          "options": ["were reallocated", "be reallocated", "had been reallocated", "should be reallocated"],
+          "correct_answer": "be reallocated",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 113,
+          "question": "He ______ on the project for a year before it was cancelled.",
+          "options": ["worked", "was working", "had been working", "has been working"],
+          "correct_answer": "had been working",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 114,
+          "question": "He would have come to the party if he ______ invited.",
+          "options": ["was", "were", "had been", "has been"],
+          "correct_answer": "had been",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 115,
+          "question": "He remembered ______ the door, but he wasn't sure.",
+          "options": ["to lock", "locking", "to have locked", "locked"],
+          "correct_answer": "locking",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 116,
+          "question": "By the time the fire brigade extinguished the fire, it ______ half the building.",
+          "options": ["destroyed", "was destroying", "has destroyed", "had destroyed"],
+          "correct_answer": "had destroyed",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 117,
+          "question": "The speech he ______ the day before was praised by everyone.",
+          "options": ["delivered", "has delivered", "had delivered", "was delivering"],
+          "correct_answer": "had delivered",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 118,
+          "question": "He felt as if the whole world ______ against him.",
+          "options": ["is", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 119,
+          "question": "She ______ to become a doctor, but she changed her mind later.",
+          "options": ["hoped", "was hoping", "had hoped", "has hoped"],
+          "correct_answer": "had hoped",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 120,
+          "question": "The news that he ______ surprised everyone.",
+          "options": ["had resigned", "resigned", "has resigned", "was resigning"],
+          "correct_answer": "had resigned",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 121,
+          "question": "Hardly ______ the station when the train started to move.",
+          "options": ["had he reached", "he had reached", "did he reach", "he reached"],
+          "correct_answer": "had he reached",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 122,
+          "question": "This time last year, I ______ in the mountains of Himachal.",
+          "options": ["trekked", "was trekking", "had trekked", "have trekked"],
+          "correct_answer": "was trekking",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 123,
+          "question": "The teacher asked the student why he ______ his homework.",
+          "options": ["didn't do", "hasn't done", "hadn't done", "wasn't doing"],
+          "correct_answer": "hadn't done",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 124,
+          "question": "I would rather you ______ with me yesterday.",
+          "options": ["came", "come", "had come", "would come"],
+          "correct_answer": "had come",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 125,
+          "question": "He was angry because he ______ for too long.",
+          "options": ["waited", "was waiting", "has been waiting", "had been waiting"],
+          "correct_answer": "had been waiting",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 126,
+          "question": "It ______ for several days, causing massive floods.",
+          "options": ["rained", "was raining", "had been raining", "has been raining"],
+          "correct_answer": "had been raining",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 127,
+          "question": "It was suggested that the plan ______ for a week.",
+          "options": ["is deferred", "was deferred", "be deferred", "had been deferred"],
+          "correct_answer": "be deferred",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 128,
+          "question": "The police confirmed that the suspect ______ the country.",
+          "options": ["left", "has left", "had left", "was leaving"],
+          "correct_answer": "had left",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 129,
+          "question": "If I ______ the principal of this school, I would change many things.",
+          "options": ["am", "was", "were", "had been"],
+          "correct_answer": "were",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 130,
+          "question": "The house ______ in the earthquake last year.",
+          "options": ["was damaged", "had been damaged", "has been damaged", "damaged"],
+          "correct_answer": "was damaged",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 131,
+          "question": "He was out of breath because he ______ to catch the bus.",
+          "options": ["ran", "was running", "has been running", "had been running"],
+          "correct_answer": "had been running",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 132,
+          "question": "They ______ about moving to a new city, but finally decided against it.",
+          "options": ["thought", "were thinking", "had thought", "had been thinking"],
+          "correct_answer": "had been thinking",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 133,
+          "question": "I wish I ______ more attention in class.",
+          "options": ["paid", "have paid", "had paid", "was paying"],
+          "correct_answer": "had paid",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 134,
+          "question": "The ship, along with its crew, ______ lost in the storm.",
+          "options": ["was", "were", "had been", "has been"],
+          "correct_answer": "was",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 135,
+          "question": "The seeds of the revolution ______ long before the war actually started.",
+          "options": ["were sown", "had been sown", "have been sown", "were being sown"],
+          "correct_answer": "had been sown",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 136,
+          "question": "The children ______ their kites when the wind suddenly stopped.",
+          "options": ["flew", "were flying", "had flown", "had been flying"],
+          "correct_answer": "were flying",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 137,
+          "question": "He spoke so fast that I ______ what he was saying.",
+          "options": ["don't understand", "couldn't understand", "haven't understood", "hadn't understood"],
+          "correct_answer": "couldn't understand",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 138,
+          "question": "It's time the children ______ to bed.",
+          "options": ["go", "went", "should go", "are going"],
+          "correct_answer": "went",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 139,
+          "question": "The committee ______ on the matter for hours but couldn't reach a consensus.",
+          "options": ["deliberated", "was deliberating", "had deliberated", "had been deliberating"],
+          "correct_answer": "deliberated",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 140,
+          "question": "If you had watered the plants, they ______.",
+          "options": ["would not die", "would not have died", "will not die", "did not die"],
+          "correct_answer": "would not have died",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 141,
+          "question": "The novel, which ______ in the 19th century, is still popular today.",
+          "options": ["was written", "had been written", "has been written", "was being written"],
+          "correct_answer": "was written",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 142,
+          "question": "He ______ his grandfather only once in his life before he passed away.",
+          "options": ["met", "has met", "was meeting", "had met"],
+          "correct_answer": "had met",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 143,
+          "question": "The city ______ under siege for two months before help arrived.",
+          "options": ["was", "has been", "had been", "was being"],
+          "correct_answer": "had been",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 144,
+          "question": "He told me he ______ his entire childhood in that village.",
+          "options": ["spent", "has spent", "had spent", "was spending"],
+          "correct_answer": "had spent",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 145,
+          "question": "I would have lent you the money if I ______ any.",
+          "options": ["had", "have had", "had had", "was having"],
+          "correct_answer": "had had",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 146,
+          "question": "The ceremony ______ place as planned, despite the rain.",
+          "options": ["took", "had taken", "was taking", "has taken"],
+          "correct_answer": "took",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 147,
+          "question": "By the time the rescuers arrived, the climbers ______ for two days without food.",
+          "options": ["were surviving", "had survived", "survived", "had been surviving"],
+          "correct_answer": "had been surviving",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 148,
+          "question": "The witness claimed that he ______ the suspect near the crime scene.",
+          "options": ["saw", "has seen", "was seeing", "had seen"],
+          "correct_answer": "had seen",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 149,
+          "question": "It ______ to me that I had made a terrible mistake.",
+          "options": ["occurred", "was occurring", "had occurred", "has occurred"],
+          "correct_answer": "occurred",
+          "grammar_type": "Past Tense"
+        },
+        {
+          "id": 150,
+          "question": "If my alarm ______ this morning, I would not have been late for work.",
+          "options": ["went off", "had gone off", "has gone off", "was going off"],
+          "correct_answer": "had gone off",
+          "grammar_type": "Past Tense"
+        }
+      ]
+    }
+  ]
+}
+

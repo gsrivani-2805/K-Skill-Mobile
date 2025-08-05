@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is a debate?",
+          "options": ["A quiet reading session", "A formal discussion on a topic with opposing sides", "A fight between two people", "A group singing competition"],
+          "correct_answer": "A formal discussion on a topic with opposing sides",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 2,
+          "question": "How many main sides are there in a formal debate?",
+          "options": ["One", "Two", "Three", "Four"],
+          "correct_answer": "Two",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 3,
+          "question": "The side that agrees with the debate topic is called...",
+          "options": ["The Opposition", "The Proposition (For the motion)", "The Moderator", "The Audience"],
+          "correct_answer": "The Proposition (For the motion)",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 4,
+          "question": "The side that disagrees with the debate topic is called...",
+          "options": ["The Proposition", "The Opposition (Against the motion)", "The Judge", "The Speaker"],
+          "correct_answer": "The Opposition (Against the motion)",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 5,
+          "question": "What is the most important thing to do when another person is speaking in a debate?",
+          "options": ["Talk to your friend", "Think about what to eat later", "Listen carefully to their points", "Interrupt them if you disagree"],
+          "correct_answer": "Listen carefully to their points",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 6,
+          "question": "The topic of the debate is also called the...",
+          "options": ["Argument", "Motion", "Conclusion", "Rebuttal"],
+          "correct_answer": "Motion",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 7,
+          "question": "Topic: 'Schools should have uniforms.' A person who says, 'Yes, they should' is on which side?",
+          "options": ["For the motion", "Against the motion", "Neither", "Both"],
+          "correct_answer": "For the motion",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 8,
+          "question": "Topic: 'Mobile phones are bad for students.' A person who says, 'No, they can be useful' is on which side?",
+          "options": ["For the motion", "Against the motion", "Neutral", "Confused"],
+          "correct_answer": "Against the motion",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 9,
+          "question": "A reason you give to support your side is called an...",
+          "options": ["Interruption", "Argument", "Insult", "Story"],
+          "correct_answer": "Argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 10,
+          "question": "Which of the following is a bad habit during a debate?",
+          "options": ["Speaking clearly", "Listening to the opponent", "Making personal attacks", "Giving examples"],
+          "correct_answer": "Making personal attacks",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 11,
+          "question": "How should you speak during a debate?",
+          "options": ["Very quietly", "Very fast", "Respectfully and clearly", "Angrily"],
+          "correct_answer": "Respectfully and clearly",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 12,
+          "question": "At the beginning of your speech, you should clearly state your...",
+          "options": ["opponent's name", "position (whether you are for or against)", "favorite color", "conclusion"],
+          "correct_answer": "position (whether you are for or against)",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 13,
+          "question": "What is a polite way to end your speech?",
+          "options": ["By saying 'I am the best.'", "By walking away silently", "By saying 'Thank you.'", "By asking for a prize"],
+          "correct_answer": "By saying 'Thank you.'",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 14,
+          "question": "A debate helps to improve your speaking and ______ skills.",
+          "options": ["drawing", "singing", "listening", "sleeping"],
+          "correct_answer": "listening",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 15,
+          "question": "Is a debate the same as a quarrel or fight?",
+          "options": ["Yes, exactly the same", "No, a debate is a structured discussion with rules", "Yes, but with more people", "No, a fight has rules"],
+          "correct_answer": "No, a debate is a structured discussion with rules",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 16,
+          "question": "The person who keeps the debate orderly and manages time is the...",
+          "options": ["Winner", "Loser", "Audience", "Moderator"],
+          "correct_answer": "Moderator",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 17,
+          "question": "In a debate, you should attack the ______ and not the person.",
+          "options": ["argument", "clothes", "family", "friends"],
+          "correct_answer": "argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 18,
+          "question": "'City life is better than village life.' This sentence is a debate...",
+          "options": ["Conclusion", "Argument", "Topic", "Rule"],
+          "correct_answer": "Topic",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 19,
+          "question": "To be a good debater, it is important to think...",
+          "options": ["emotionally", "illogically", "logically", "slowly"],
+          "correct_answer": "logically",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 20,
+          "question": "Why is it important to listen to your opponent's arguments?",
+          "options": ["So you can agree with everything", "So you can find weaknesses and respond to them", "It is not important to listen", "So you can talk to your friend about them"],
+          "correct_answer": "So you can find weaknesses and respond to them",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 21,
+          "question": "Which of these is a good topic for a school debate?",
+          "options": ["Should homework be banned?", "The history of the moon", "How to bake a cake", "My favorite pet"],
+          "correct_answer": "Should homework be banned?",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 22,
+          "question": "A debate teaches us to look at an issue from...",
+          "options": ["only one side", "at least two different sides", "a very narrow view", "a confusing angle"],
+          "correct_answer": "at least two different sides",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 23,
+          "question": "The team that is 'for' the motion is also called the...",
+          "options": ["Opposition", "Proposition", "Moderator", "Judge"],
+          "correct_answer": "Proposition",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 24,
+          "question": "The team that is 'against' the motion is also called the...",
+          "options": ["Proposition", "Opposition", "Audience", "Speaker"],
+          "correct_answer": "Opposition",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 25,
+          "question": "To make your argument stronger, you should give reasons and...",
+          "options": ["insults", "jokes", "examples", "opinions"],
+          "correct_answer": "examples",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 26,
+          "question": "Your body language, such as standing straight, shows that you are...",
+          "options": ["nervous", "confident", "bored", "angry"],
+          "correct_answer": "confident",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 27,
+          "question": "A debate is a formal way to exchange...",
+          "options": ["gifts", "secrets", "viewpoints", "phone numbers"],
+          "correct_answer": "viewpoints",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 28,
+          "question": "The main goal in a debate is to ______ the audience or judges.",
+          "options": ["confuse", "entertain", "persuade", "bore"],
+          "correct_answer": "persuade",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 29,
+          "question": "Before a debate, it is very important to ______ your points.",
+          "options": ["hide", "forget", "research and prepare", "guess"],
+          "correct_answer": "research and prepare",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 30,
+          "question": "Topic: 'Junk food should be banned in schools.' An argument FOR this could be:",
+          "options": ["It is tasty.", "It is unhealthy for students.", "Students like it.", "It is easy to buy."],
+          "correct_answer": "It is unhealthy for students.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 31,
+          "question": "Topic: 'Junk food should be banned in schools.' An argument AGAINST this could be:",
+          "options": ["It makes students sick.", "It is expensive.", "Students should have the freedom to choose what they eat.", "It is not food."],
+          "correct_answer": "Students should have the freedom to choose what they eat.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 32,
+          "question": "When you speak in a debate, you should look at...",
+          "options": ["the floor", "the ceiling", "the audience and judges", "your shoes"],
+          "correct_answer": "the audience and judges",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 33,
+          "question": "A debate is a ______ way to discuss important issues.",
+          "options": ["silly", "chaotic", "structured and respectful", "secretive"],
+          "correct_answer": "structured and respectful",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 34,
+          "question": "What is the first thing you should do when you are given a debate topic?",
+          "options": ["Start arguing", "Understand the topic clearly", "Write your conclusion", "Decide you have lost"],
+          "correct_answer": "Understand the topic clearly",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 35,
+          "question": "A good debater is always polite, even when they strongly...",
+          "options": ["agree", "disagree", "feel sleepy", "feel happy"],
+          "correct_answer": "disagree",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 36,
+          "question": "Each speaker in a debate is given a limited amount of ______.",
+          "options": ["water", "food", "topics", "time"],
+          "correct_answer": "time",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 37,
+          "question": "The introduction of your speech should be...",
+          "options": ["long and detailed", "boring and slow", "short and attention-grabbing", "the same as the conclusion"],
+          "correct_answer": "short and attention-grabbing",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 38,
+          "question": "The conclusion of your speech should summarize your...",
+          "options": ["opponent's points", "main arguments", "feelings", "favorite movies"],
+          "correct_answer": "main arguments",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 39,
+          "question": "Participating in debates can help you become more...",
+          "options": ["shy", "nervous", "confident", "angry"],
+          "correct_answer": "confident",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 40,
+          "question": "What is the most important rule in a school debate?",
+          "options": ["To speak the loudest", "To win at all costs", "To be respectful to everyone", "To finish first"],
+          "correct_answer": "To be respectful to everyone",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 41,
+          "question": "Which of these is NOT a part of a debate?",
+          "options": ["Opening statements", "Rebuttals", "A singing performance", "Closing statements"],
+          "correct_answer": "A singing performance",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 42,
+          "question": "The final speaker for a team usually...",
+          "options": ["introduces new points", "summarizes their team's case", "asks the audience a question", "tells a joke"],
+          "correct_answer": "summarizes their team's case",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 43,
+          "question": "A debate topic is usually a statement that can be...",
+          "options": ["agreed or disagreed with", "only agreed with", "only disagreed with", "proven as a fact"],
+          "correct_answer": "agreed or disagreed with",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 44,
+          "question": "What is a 'team' in a debate?",
+          "options": ["A group of people arguing against each other", "A group of speakers working together on the same side", "The audience", "The judges"],
+          "correct_answer": "A group of speakers working together on the same side",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 45,
+          "question": "Making eye contact with the audience helps to...",
+          "options": ["make them nervous", "connect with them", "show you are not prepared", "make them leave"],
+          "correct_answer": "connect with them",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 46,
+          "question": "If you are on the 'For' side, you are ______ the motion.",
+          "options": ["supporting", "opposing", "ignoring", "changing"],
+          "correct_answer": "supporting",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 47,
+          "question": "If you are on the 'Against' side, you are ______ the motion.",
+          "options": ["supporting", "opposing", "agreeing with", "promoting"],
+          "correct_answer": "opposing",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 48,
+          "question": "The introduction should tell the audience what you are going to...",
+          "options": ["do after the debate", "say in your speech", "eat for lunch", "wear tomorrow"],
+          "correct_answer": "say in your speech",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 49,
+          "question": "Which statement is true about debates?",
+          "options": ["Only one person's opinion matters.", "They are a good way to explore different views on a topic.", "The loudest person always wins.", "Facts are not important."],
+          "correct_answer": "They are a good way to explore different views on a topic.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 50,
+          "question": "The conclusion is your final chance to ______ the audience.",
+          "options": ["confuse", "bore", "persuade", "ignore"],
+          "correct_answer": "persuade",
+          "grammar_type": "Debate on Common Issues"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is a 'rebuttal' in a debate?",
+          "options": ["The opening statement", "An argument that responds to and refutes an opponent's point", "The final summary", "A personal story"],
+          "correct_answer": "An argument that responds to and refutes an opponent's point",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 52,
+          "question": "Why is 'evidence' crucial for a strong argument in a debate?",
+          "options": ["It makes the speech longer.", "It supports your claims with facts, statistics, or expert opinions.", "It is a good way to share your personal feelings.", "It is not crucial at all."],
+          "correct_answer": "It supports your claims with facts, statistics, or expert opinions.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 53,
+          "question": "A good argument consists of a claim, reasoning, and ______.",
+          "options": ["a personal attack", "a loud voice", "evidence", "a long pause"],
+          "correct_answer": "evidence",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 54,
+          "question": "Motion: 'Online classes are better than traditional classes.' Which is the strongest evidence FOR this motion?",
+          "options": ["'My cousin likes online classes.'", "'I think online classes are more fun.'", "'A recent study showed that students in online classes scored 10% higher on average.'", "'Traditional classes are old-fashioned.'"],
+          "correct_answer": "'A recent study showed that students in online classes scored 10% higher on average.'",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 55,
+          "question": "What is the 'burden of proof' for the proposition (for) team?",
+          "options": ["To prove the opposition is wrong", "To provide sufficient arguments and evidence to convince the audience that the motion is true", "To speak for the longest time", "To agree with the opposition"],
+          "correct_answer": "To provide sufficient arguments and evidence to convince the audience that the motion is true",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 56,
+          "question": "What is a 'fallacy' in an argument?",
+          "options": ["A strong piece of evidence", "A mistake in logical reasoning that weakens the argument", "A polite disagreement", "The conclusion of the debate"],
+          "correct_answer": "A mistake in logical reasoning that weakens the argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 57,
+          "question": "The 'status quo' in a debate refers to...",
+          "options": ["the proposed change", "the current state of affairs", "the final decision", "the speaker's opinion"],
+          "correct_answer": "the current state of affairs",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 58,
+          "question": "A good debater anticipates their opponent's arguments in order to...",
+          "options": ["agree with them", "prepare rebuttals in advance", "ignore them", "use them as their own"],
+          "correct_answer": "prepare rebuttals in advance",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 59,
+          "question": "The closing speaker of a debate should avoid...",
+          "options": ["summarizing their team's case", "rebutting the opponent's main points", "introducing completely new arguments", "ending with a strong statement"],
+          "correct_answer": "introducing completely new arguments",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 60,
+          "question": "What is the primary difference between a debate and a group discussion?",
+          "options": ["A debate is longer.", "A debate is competitive with formal opposing sides, while a group discussion is typically collaborative.", "A group discussion has a winner.", "A debate does not have a topic."],
+          "correct_answer": "A debate is competitive with formal opposing sides, while a group discussion is typically collaborative.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 61,
+          "question": "Why is it important to define the key terms of the motion in the opening speech?",
+          "options": ["To make the speech longer", "To ensure both teams are arguing about the same concept", "To confuse the opposition", "It is not important"],
+          "correct_answer": "To ensure both teams are arguing about the same concept",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 62,
+          "question": "The 'clash' in a debate refers to the...",
+          "options": ["agreement between the two teams", "direct points of conflict between the proposition's and opposition's arguments", "the moderator's speech", "the audience's applause"],
+          "correct_answer": "direct points of conflict between the proposition's and opposition's arguments",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 63,
+          "question": "An argument based on a personal story is an appeal to emotion, also known as...",
+          "options": ["Logos", "Ethos", "Pathos", "Mythos"],
+          "correct_answer": "Pathos",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 64,
+          "question": "An argument based on statistics and facts is an appeal to logic, also known as...",
+          "options": ["Logos", "Ethos", "Pathos", "Kairos"],
+          "correct_answer": "Logos",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 65,
+          "question": "A successful rebuttal should first briefly state the opponent's argument and then...",
+          "options": ["agree with it", "explain why it is flawed or incorrect", "ignore it", "repeat it word for word"],
+          "correct_answer": "explain why it is flawed or incorrect",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 66,
+          "question": "What is a 'straw man' argument?",
+          "options": ["A very strong argument", "An argument made of straw", "Misrepresenting an opponent's argument to make it easier to defeat", "An argument that supports your own case"],
+          "correct_answer": "Misrepresenting an opponent's argument to make it easier to defeat",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 67,
+          "question": "In team debating, what is crucial for success?",
+          "options": ["Each speaker having a different main argument", "Consistency and teamwork between the speakers", "Each speaker interrupting the others", "Only one person preparing for the debate"],
+          "correct_answer": "Consistency and teamwork between the speakers",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 68,
+          "question": "If an opponent makes a good point, a skilled debater might...",
+          "options": ["ignore it and hope the judges didn't notice", "get angry and shout", "acknowledge the point and then show why it is less significant than their own arguments", "stop debating"],
+          "correct_answer": "acknowledge the point and then show why it is less significant than their own arguments",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 69,
+          "question": "A rhetorical question is asked in a speech to...",
+          "options": ["get a direct answer from the audience", "make the audience think and create a persuasive effect", "show that the speaker is confused", "fill time"],
+          "correct_answer": "make the audience think and create a persuasive effect",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 70,
+          "question": "The 'whip' speaker in some debate formats is primarily responsible for...",
+          "options": ["introducing new arguments", "summarizing the debate and identifying the key points of clash", "defining the motion", "asking questions"],
+          "correct_answer": "summarizing the debate and identifying the key points of clash",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 71,
+          "question": "A speaker's credibility, or 'ethos', is built by...",
+          "options": ["sounding confident, knowledgeable, and trustworthy", "wearing expensive clothes", "speaking very loudly", "using a lot of jokes"],
+          "correct_answer": "sounding confident, knowledgeable, and trustworthy",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 72,
+          "question": "Motion: 'Social media does more harm than good.' A good argument for the opposition could be:",
+          "options": ["It wastes a lot of time.", "It can cause cyberbullying.", "It is a powerful tool for social awareness and connecting people.", "My parents don't like it."],
+          "correct_answer": "It is a powerful tool for social awareness and connecting people.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 73,
+          "question": "Varying your vocal tone, pace, and volume is known as...",
+          "options": ["body language", "voice modulation", "eye contact", "articulation"],
+          "correct_answer": "voice modulation",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 74,
+          "question": "When preparing for a debate, it is important to research...",
+          "options": ["only your side of the argument", "only your opponent's side of the argument", "both sides of the argument", "a completely different topic"],
+          "correct_answer": "both sides of the argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 75,
+          "question": "A debate on an 'ethical' issue is about...",
+          "options": ["money and economics", "what is morally right and wrong", "historical facts", "scientific laws"],
+          "correct_answer": "what is morally right and wrong",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 76,
+          "question": "What is the function of a 'Point of Information' (POI) in a debate?",
+          "options": ["To give a long speech", "To offer a brief question or statement to the current speaker", "To ask the moderator to stop the debate", "To agree with the speaker"],
+          "correct_answer": "To offer a brief question or statement to the current speaker",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 77,
+          "question": "A speaker should respond to a POI by...",
+          "options": ["ignoring it", "accepting it and giving a brief answer", "getting angry", "ending their speech"],
+          "correct_answer": "accepting it and giving a brief answer",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 78,
+          "question": "A 'causal' argument links a cause with an...",
+          "options": ["opinion", "effect", "example", "emotion"],
+          "correct_answer": "effect",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 79,
+          "question": "The clarity of your speech is also known as...",
+          "options": ["volume", "pace", "articulation", "pitch"],
+          "correct_answer": "articulation",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 80,
+          "question": "A strong conclusion should leave a ______ impression on the audience.",
+          "options": ["confusing", "weak", "lasting", "negative"],
+          "correct_answer": "lasting",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 81,
+          "question": "Why is it important to have a clear structure in your speech?",
+          "options": ["It is not important.", "It helps the audience to follow your arguments easily.", "It makes the speech longer.", "It confuses the opponent."],
+          "correct_answer": "It helps the audience to follow your arguments easily.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 82,
+          "question": "The 'problem-solution' structure is most common in debates about...",
+          "options": ["abstract concepts", "historical events", "policies and actions", "literature"],
+          "correct_answer": "policies and actions",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 83,
+          "question": "What is the key to winning a debate?",
+          "options": ["Speaking the loudest", "Having the most logical and well-supported arguments", "Interrupting the most", "Speaking last"],
+          "correct_answer": "Having the most logical and well-supported arguments",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 84,
+          "question": "What does 'eloquence' mean in the context of debating?",
+          "options": ["Speaking in a hesitant way", "Speaking fluently, persuasively, and with style", "Speaking very quickly", "Speaking with a lot of errors"],
+          "correct_answer": "Speaking fluently, persuasively, and with style",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 85,
+          "question": "A rebuttal is ineffective if it...",
+          "options": ["is polite", "uses evidence", "does not directly address the opponent's argument", "is too short"],
+          "correct_answer": "does not directly address the opponent's argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 86,
+          "question": "A 'principled' argument is one based on...",
+          "options": ["practicality", "a moral or ethical value", "statistics", "a personal story"],
+          "correct_answer": "a moral or ethical value",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 87,
+          "question": "A 'pragmatic' argument is one based on...",
+          "options": ["emotions", "moral values", "practical consequences", "historical precedent"],
+          "correct_answer": "practical consequences",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 88,
+          "question": "If the motion is 'This House would ban all forms of advertising,' a key task for the proposition is to...",
+          "options": ["define what 'advertising' means in this context", "argue that advertising is good", "talk about the history of advertising", "summarize the debate"],
+          "correct_answer": "define what 'advertising' means in this context",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 89,
+          "question": "Using humor in a debate can be effective, but it should not...",
+          "options": ["be relevant to the topic", "be used to mock the opponent personally", "make the audience laugh", "be used in the introduction"],
+          "correct_answer": "be used to mock the opponent personally",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 90,
+          "question": "What is the main purpose of a 'substantive' speech in a debate?",
+          "options": ["To summarize the debate", "To present the main, constructive arguments of a team", "To rebut the other team", "To ask questions"],
+          "correct_answer": "To present the main, constructive arguments of a team",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 91,
+          "question": "What does it mean to 'signpost' your speech?",
+          "options": ["To use a lot of hand gestures", "To clearly indicate the structure of your speech (e.g., 'My first point is...')", "To speak very loudly", "To end your speech with a sign"],
+          "correct_answer": "To clearly indicate the structure of your speech (e.g., 'My first point is...')",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 92,
+          "question": "A strong debater can think...",
+          "options": ["only about their own points", "slowly and carefully", "critically and on their feet", "emotionally"],
+          "correct_answer": "critically and on their feet",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 93,
+          "question": "The 'onus of proof' is another term for...",
+          "options": ["the rebuttal", "the burden of proof", "the conclusion", "the motion"],
+          "correct_answer": "the burden of proof",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 94,
+          "question": "A good debate team shows strong 'team splits', which means...",
+          "options": ["the team members argue with each other", "the arguments are divided logically between the speakers", "the team members speak for different amounts of time", "the team has a weak case"],
+          "correct_answer": "the arguments are divided logically between the speakers",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 95,
+          "question": "A good debater avoids making generalizations without...",
+          "options": ["thinking", "speaking loudly", "providing supporting evidence", "a conclusion"],
+          "correct_answer": "providing supporting evidence",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 96,
+          "question": "An 'analogy' is a useful tool in debate. It is a...",
+          "options": ["type of statistic", "comparison between two things to explain or clarify a point", "personal attack", "conclusion"],
+          "correct_answer": "comparison between two things to explain or clarify a point",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 97,
+          "question": "What is the best way to seem confident, even if you are nervous?",
+          "options": ["Avoid eye contact", "Speak very quietly", "Maintain good posture and speak clearly", "Fidget with your hands"],
+          "correct_answer": "Maintain good posture and speak clearly",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 98,
+          "question": "The final rebuttal speaker has a crucial role to...",
+          "options": ["introduce a brand new argument", "identify the key areas of disagreement and explain why their side has won them", "agree with the opposition", "speak for a very long time"],
+          "correct_answer": "identify the key areas of disagreement and explain why their side has won them",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 99,
+          "question": "To be persuasive, it is often effective to link your arguments to the audience's...",
+          "options": ["fears", "values and concerns", "favorite foods", "clothing"],
+          "correct_answer": "values and concerns",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 100,
+          "question": "Ultimately, a debate is an exercise in...",
+          "options": ["reading", "memorization", "reasoned persuasion", "arguing"],
+          "correct_answer": "reasoned persuasion",
+          "grammar_type": "Debate on Common Issues"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The logical fallacy of attacking a person's character rather than their argument is called...",
+          "options": ["Straw Man", "Red Herring", "Ad Hominem", "Slippery Slope"],
+          "correct_answer": "Ad Hominem",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 102,
+          "question": "In classical rhetoric, the appeal to logic and reason is known as...",
+          "options": ["Pathos", "Ethos", "Logos", "Kairos"],
+          "correct_answer": "Logos",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 103,
+          "question": "In classical rhetoric, the appeal to the speaker's character and credibility is known as...",
+          "options": ["Pathos", "Ethos", "Logos", "Mythos"],
+          "correct_answer": "Ethos",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 104,
+          "question": "In classical rhetoric, the appeal to the audience's emotions is known as...",
+          "options": ["Pathos", "Ethos", "Logos", "Telos"],
+          "correct_answer": "Pathos",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 105,
+          "question": "A 'false dichotomy' is a logical fallacy that...",
+          "options": ["uses an analogy that is not relevant", "presents only two choices when in fact more options exist", "attacks the speaker instead of the argument", "uses an emotional story as proof"],
+          "correct_answer": "presents only two choices when in fact more options exist",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 106,
+          "question": "The 'slippery slope' fallacy argues that a relatively small first step will...",
+          "options": ["lead to a positive outcome", "have no effect", "lead to a chain of related events culminating in a significant negative effect", "be the only step needed"],
+          "correct_answer": "lead to a chain of related events culminating in a significant negative effect",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 107,
+          "question": "The concept of 'Kairos' in rhetoric refers to the importance of ______ in an argument.",
+          "options": ["logic", "emotion", "timeliness and appropriateness", "credibility"],
+          "correct_answer": "timeliness and appropriateness",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 108,
+          "question": "An argument from 'analogy' is weak if the two things being compared are...",
+          "options": ["very similar in relevant ways", "identical", "dissimilar in relevant ways", "from the same category"],
+          "correct_answer": "dissimilar in relevant ways",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 109,
+          "question": "What is the 'burden of rejoinder' in a debate?",
+          "options": ["The duty of the proposition to introduce an argument.", "The duty of a team to respond to an argument made by their opponent.", "The duty of the moderator to keep time.", "The duty of the final speaker to summarize."],
+          "correct_answer": "The duty of a team to respond to an argument made by their opponent.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 110,
+          "question": "The 'Post hoc ergo propter hoc' fallacy is a mistake in reasoning about...",
+          "options": ["causation", "definitions", "principles", "emotions"],
+          "correct_answer": "causation",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 111,
+          "question": "A 'hasty generalization' is a conclusion based on...",
+          "options": ["a large and representative sample", "strong expert testimony", "insufficient or anecdotal evidence", "logical deduction"],
+          "correct_answer": "insufficient or anecdotal evidence",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 112,
+          "question": "A 'preemptive' argument is one that...",
+          "options": ["responds to an opponent's point", "summarizes the debate", "anticipates and addresses an opponent's argument before they make it", "introduces a new topic"],
+          "correct_answer": "anticipates and addresses an opponent's argument before they make it",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 113,
+          "question": "What does 'crystallization' mean in the context of a whip speech?",
+          "options": ["Introducing new, complex arguments", "Clarifying the key points of clash and summarizing the debate in your team's favor", "Challenging the definition of the motion", "Making a personal attack"],
+          "correct_answer": "Clarifying the key points of clash and summarizing the debate in your team's favor",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 114,
+          "question": "A 'red herring' fallacy is an attempt to mislead or distract from the relevant issue by...",
+          "options": ["providing strong evidence", "introducing an irrelevant topic", "attacking the opponent", "using a logical argument"],
+          "correct_answer": "introducing an irrelevant topic",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 115,
+          "question": "A 'non-sequitur' is a conclusion or statement that...",
+          "options": ["logically follows from the previous argument", "is supported by strong evidence", "does not logically follow from the previous argument or statement", "is a summary of the debate"],
+          "correct_answer": "does not logically follow from the previous argument or statement",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 116,
+          "question": "In a policy debate, 'fiat' is a convention that allows the proposition team to...",
+          "options": ["argue that their plan is too expensive", "assume their plan is enacted without having to argue how it would pass politically", "change the topic of the debate", "speak for a longer time"],
+          "correct_answer": "assume their plan is enacted without having to argue how it would pass politically",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 117,
+          "question": "The 'appeal to tradition' fallacy argues that an idea is correct because...",
+          "options": ["it is new", "it is popular", "it has been accepted for a long time", "it is supported by facts"],
+          "correct_answer": "it has been accepted for a long time",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 118,
+          "question": "A 'utilitarian' framework for judging a debate would prioritize the argument that...",
+          "options": ["follows a moral rule", "is the most traditional", "creates the greatest good for the greatest number of people", "is the most emotionally appealing"],
+          "correct_answer": "creates the greatest good for the greatest number of people",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 119,
+          "question": "A 'deontological' framework in a debate focuses on...",
+          "options": ["the practical consequences of an action", "the moral duties and rules, regardless of the consequences", "the emotional impact of an action", "the popularity of an action"],
+          "correct_answer": "the moral duties and rules, regardless of the consequences",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 120,
+          "question": "What does it mean to 'contextualize' an argument?",
+          "options": ["To remove it from its background", "To place it within its broader historical, social, or political background", "To make a personal attack", "To use a logical fallacy"],
+          "correct_answer": "To place it within its broader historical, social, or political background",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 121,
+          "question": "A 'prima facie' case is one that...",
+          "options": ["is obviously false", "is so convincing that it is accepted as correct until proven otherwise", "is based only on emotion", "has no evidence"],
+          "correct_answer": "is so convincing that it is accepted as correct until proven otherwise",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 122,
+          "question": "The 'no true Scotsman' fallacy is an attempt to protect a generalization by...",
+          "options": ["providing strong evidence", "redefining it to exclude a counterexample", "attacking the person giving the counterexample", "accepting the counterexample"],
+          "correct_answer": "redefining it to exclude a counterexample",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 123,
+          "question": "A 'tautology' or 'circular argument' is a statement that is...",
+          "options": ["logically complex", "factually incorrect", "true by its own definition, providing no new information", "a valid form of proof"],
+          "correct_answer": "true by its own definition, providing no new information",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 124,
+          "question": "A successful debater must synthesize logical rigor, rhetorical skill, and...",
+          "options": ["a loud voice", "personal attacks", "a deep understanding of the topic and its nuances", "the ability to speak quickly"],
+          "correct_answer": "a deep understanding of the topic and its nuances",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 125,
+          "question": "An 'equivocation' fallacy is the misleading use of a term with...",
+          "options": ["only one clear meaning", "multiple meanings or ambiguity", "no meaning at all", "a very simple definition"],
+          "correct_answer": "multiple meanings or ambiguity",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 126,
+          "question": "What is the primary risk of relying solely on pathos (emotional appeals)?",
+          "options": ["The audience will be persuaded.", "The argument may lack logical substance and be easily rebutted.", "It builds strong ethos.", "It is the best way to win a debate."],
+          "correct_answer": "The argument may lack logical substance and be easily rebutted.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 127,
+          "question": "A 'loaded question' is a fallacy because it...",
+          "options": ["is too easy to answer", "contains a controversial or unjustified assumption", "is not relevant to the topic", "is a yes/no question"],
+          "correct_answer": "contains a controversial or unjustified assumption",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 128,
+          "question": "In a policy debate, 'solvency' refers to the part of the argument that explains...",
+          "options": ["the harms of the status quo", "how the proposed plan will solve the problem", "the definition of the terms", "the cost of the plan"],
+          "correct_answer": "how the proposed plan will solve the problem",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 129,
+          "question": "The 'genetic fallacy' is rejecting an argument based on its...",
+          "options": ["logical structure", "evidence", "origin or history", "conclusion"],
+          "correct_answer": "origin or history",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 130,
+          "question": "A 'dichotomy' is a division into two parts. A 'false dichotomy' is a fallacy because...",
+          "options": ["it presents the parts as the only two options", "it presents the parts as having a middle ground", "it is a valid form of argument", "it is too complex"],
+          "correct_answer": "it presents the parts as the only two options",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 131,
+          "question": "What is the role of 'weighing' in a debate summary?",
+          "options": ["To weigh the speakers", "To explain why your arguments are more important or impactful than your opponent's", "To introduce a new argument", "To repeat all the points made"],
+          "correct_answer": "To explain why your arguments are more important or impactful than your opponent's",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 132,
+          "question": "A 'thought experiment' in a debate is a useful way to explore the implications of a...",
+          "options": ["factual claim", "historical event", "principled argument", "statistical error"],
+          "correct_answer": "principled argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 133,
+          "question": "In a debate, 'deductive reasoning' starts with a general principle and...",
+          "options": ["moves to a general conclusion", "moves to a specific conclusion", "moves to a specific example and back to a general principle", "is a form of fallacy"],
+          "correct_answer": "moves to a specific conclusion",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 134,
+          "question": "In a debate, 'inductive reasoning' uses specific examples to...",
+          "options": ["reach a specific conclusion", "reach a general conclusion", "attack the opponent", "define the terms"],
+          "correct_answer": "reach a general conclusion",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 135,
+          "question": "The 'Texas sharpshooter' fallacy is when someone...",
+          "options": ["is a good shooter", "ignores differences and emphasizes similarities in data to make it look significant", "uses an expert from Texas", "attacks a person from Texas"],
+          "correct_answer": "ignores differences and emphasizes similarities in data to make it look significant",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 136,
+          "question": "What is the purpose of a 'definitional challenge'?",
+          "options": ["To show that the proposition's definition is unreasonable and makes for a poor debate.", "To agree with the definition.", "To change the topic of the debate.", "To end the debate."],
+          "correct_answer": "To show that the proposition's definition is unreasonable and makes for a poor debate.",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 137,
+          "question": "A 'nuanced' rebuttal is one that...",
+          "options": ["completely dismisses the opponent's argument", "concedes a minor point of the opponent's argument before refuting the main claim", "is very aggressive", "is off-topic"],
+          "correct_answer": "concedes a minor point of the opponent's argument before refuting the main claim",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 138,
+          "question": "The 'appeal to emotion' fallacy is when an argument...",
+          "options": ["is based on logic", "manipulates emotions in place of a valid logical argument", "is presented by a credible speaker", "has a strong conclusion"],
+          "correct_answer": "manipulates emotions in place of a valid logical argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 139,
+          "question": "A 'moral hazard' argument in a policy debate suggests that the proposed policy will...",
+          "options": ["be very effective", "be morally correct", "encourage irresponsible or risky behavior", "be too expensive"],
+          "correct_answer": "encourage irresponsible or risky behavior",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 140,
+          "question": "The 'middle ground' fallacy is the assumption that...",
+          "options": ["the most extreme position is always correct", "a compromise between two extremes is always the correct position", "there is no correct position", "one side is always completely right"],
+          "correct_answer": "a compromise between two extremes is always the correct position",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 141,
+          "question": "What is meant by 'framing' the debate?",
+          "options": ["Building a physical frame for the motion", "Defining the context and perspective through which the debate should be viewed", "Summarizing the debate", "Declaring the winner"],
+          "correct_answer": "Defining the context and perspective through which the debate should be viewed",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 142,
+          "question": "The 'anecdotal evidence' fallacy relies on...",
+          "options": ["large-scale studies", "expert testimony", "personal stories instead of robust evidence", "logical deduction"],
+          "correct_answer": "personal stories instead of robust evidence",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 143,
+          "question": "A 'paradigm' in the context of a debate is a...",
+          "options": ["type of rebuttal", "model or framework of understanding", "logical fallacy", "conclusion"],
+          "correct_answer": "a model or framework of understanding",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 144,
+          "question": "A 'concession' speech is typically given by the person who has...",
+          "options": ["won the debate", "lost the debate or election", "moderated the debate", "judged the debate"],
+          "correct_answer": "lost the debate or election",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 145,
+          "question": "The 'tu quoque' fallacy is an attempt to discredit an opponent's argument by...",
+          "options": ["providing strong evidence against it", "attacking their character", "pointing out their own hypocrisy regarding the argument", "misrepresenting their argument"],
+          "correct_answer": "pointing out their own hypocrisy regarding the argument",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 146,
+          "question": "What is the primary skill demonstrated by a good 'whip' speaker?",
+          "options": ["Introducing new arguments", "Creative storytelling", "Analysis and synthesis", "Asking questions"],
+          "correct_answer": "Analysis and synthesis",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 147,
+          "question": "A sophisticated debater understands that the goal is not just to win, but to promote...",
+          "options": ["conflict", "a deeper understanding of complex issues", "their own popularity", "confusion"],
+          "correct_answer": "a deeper understanding of complex issues",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 148,
+          "question": "What is meant by the 'net benefits' in a policy debate?",
+          "options": ["The total advantages of a plan", "The total disadvantages of a plan", "The advantages of a plan minus its disadvantages", "The cost of the plan"],
+          "correct_answer": "The advantages of a plan minus its disadvantages",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 149,
+          "question": "A 'counter-intuitive' argument is one that...",
+          "options": ["is obvious to everyone", "goes against common sense but may be true", "is based on emotion", "is a logical fallacy"],
+          "correct_answer": "goes against common sense but may be true",
+          "grammar_type": "Debate on Common Issues"
+        },
+        {
+          "id": 150,
+          "question": "The highest level of debating involves not just refuting arguments, but also refuting the ______ of those arguments.",
+          "options": ["speaker", "evidence", "underlying assumptions or framework", "length"],
+          "correct_answer": "underlying assumptions or framework",
+          "grammar_type": "Debate on Common Issues"
+        }
+      ]
+    }
+  ]
+}
+

@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Who is the brother of your father?",
+          "options": ["Grandfather", "Uncle", "Cousin", "Nephew"],
+          "correct_answer": "Uncle",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 2,
+          "question": "A person who grows crops in the fields is called a ____.",
+          "options": ["Teacher", "Doctor", "Farmer", "Shopkeeper"],
+          "correct_answer": "Farmer",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 3,
+          "question": "Your mother's daughter is your ____.",
+          "options": ["Aunt", "Niece", "Cousin", "Sister"],
+          "correct_answer": "Sister",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 4,
+          "question": "Who teaches students in a school?",
+          "options": ["Farmer", "Teacher", "Postman", "Carpenter"],
+          "correct_answer": "Teacher",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 5,
+          "question": "Your father's father is your ____.",
+          "options": ["Uncle", "Grandfather", "Son", "Brother"],
+          "correct_answer": "Grandfather",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 6,
+          "question": "A person who treats sick people is a ____.",
+          "options": ["Doctor", "Nurse", "Chemist", "Patient"],
+          "correct_answer": "Doctor",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 7,
+          "question": "Your mother's son is your ____.",
+          "options": ["Father", "Uncle", "Brother", "Cousin"],
+          "correct_answer": "Brother",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 8,
+          "question": "Who sells things in a shop?",
+          "options": ["Customer", "Shopkeeper", "Helper", "Manager"],
+          "correct_answer": "Shopkeeper",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 9,
+          "question": "Your father's wife is your ____.",
+          "options": ["Grandmother", "Aunt", "Mother", "Sister"],
+          "correct_answer": "Mother",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 10,
+          "question": "A person who brings letters to your home is a ____.",
+          "options": ["Driver", "Postman", "Milkman", "Watchman"],
+          "correct_answer": "Postman",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 11,
+          "question": "Your mother's mother is your ____.",
+          "options": ["Aunt", "Grandmother", "Sister", "Niece"],
+          "correct_answer": "Grandmother",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 12,
+          "question": "A person who makes things with wood is called a ____.",
+          "options": ["Blacksmith", "Goldsmith", "Carpenter", "Potter"],
+          "correct_answer": "Carpenter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 13,
+          "question": "Your uncle's son or daughter is your ____.",
+          "options": ["Brother", "Sister", "Nephew", "Cousin"],
+          "correct_answer": "Cousin",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 14,
+          "question": "Who helps a doctor take care of patients?",
+          "options": ["Teacher", "Nurse", "Farmer", "Driver"],
+          "correct_answer": "Nurse",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 15,
+          "question": "Your sister's son is your ____.",
+          "options": ["Nephew", "Niece", "Cousin", "Brother"],
+          "correct_answer": "Nephew",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 16,
+          "question": "A person who mends your shoes is a ____.",
+          "options": ["Tailor", "Cobbler", "Barber", "Weaver"],
+          "correct_answer": "Cobbler",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 17,
+          "question": "Your sister's daughter is your ____.",
+          "options": ["Niece", "Nephew", "Cousin", "Sister"],
+          "correct_answer": "Niece",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 18,
+          "question": "A person who cuts your hair is a ____.",
+          "options": ["Doctor", "Barber", "Butcher", "Baker"],
+          "correct_answer": "Barber",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 19,
+          "question": "The head of your family is usually the ____ member.",
+          "options": ["youngest", "newest", "eldest", "richest"],
+          "correct_answer": "eldest",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 20,
+          "question": "A person who stitches clothes is a ____.",
+          "options": ["Weaver", "Tailor", "Cobbler", "Potter"],
+          "correct_answer": "Tailor",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 21,
+          "question": "Your father's brother's wife is your ____.",
+          "options": ["Mother", "Grandmother", "Aunt", "Sister"],
+          "correct_answer": "Aunt",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 22,
+          "question": "Who drives a bus or a car?",
+          "options": ["Pilot", "Captain", "Driver", "Conductor"],
+          "correct_answer": "Driver",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 23,
+          "question": "All the people living in the same house make a ____.",
+          "options": ["Village", "Class", "Family", "Team"],
+          "correct_answer": "Family",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 24,
+          "question": "A person who makes pots with clay is a ____.",
+          "options": ["Potter", "Painter", "Plumber", "Mason"],
+          "correct_answer": "Potter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 25,
+          "question": "Your mother's husband is your ____.",
+          "options": ["Grandfather", "Uncle", "Father", "Brother"],
+          "correct_answer": "Father",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 26,
+          "question": "Who sells vegetables in the market?",
+          "options": ["Florist", "Grocer", "Greengrocer", "Butcher"],
+          "correct_answer": "Greengrocer",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 27,
+          "question": "The people who live next to your house are your ____.",
+          "options": ["Relatives", "Family", "Friends", "Neighbours"],
+          "correct_answer": "Neighbours",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 28,
+          "question": "A person who brings milk to your home is a ____.",
+          "options": ["Postman", "Milkman", "Newsman", "Watchman"],
+          "correct_answer": "Milkman",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 29,
+          "question": "Your father, mother, brothers and sisters are your ____ family.",
+          "options": ["distant", "joint", "immediate", "far"],
+          "correct_answer": "immediate",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 30,
+          "question": "Who protects the village or town?",
+          "options": ["Teacher", "Policeman", "Doctor", "Postman"],
+          "correct_answer": "Policeman",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 31,
+          "question": "What do you call your father's sister?",
+          "options": ["Mother", "Aunt", "Grandmother", "Cousin"],
+          "correct_answer": "Aunt",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 32,
+          "question": "A person who makes furniture is a ____.",
+          "options": ["Carpenter", "Cobbler", "Blacksmith", "Mason"],
+          "correct_answer": "Carpenter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 33,
+          "question": "The children of your uncle and aunt are your ____.",
+          "options": ["Siblings", "Nephews", "Cousins", "Nieces"],
+          "correct_answer": "Cousins",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 34,
+          "question": "Who works in a library?",
+          "options": ["Bookkeeper", "Librarian", "Author", "Publisher"],
+          "correct_answer": "Librarian",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 35,
+          "question": "Your parents and children are members of your ____.",
+          "options": ["village", "school", "family", "office"],
+          "correct_answer": "family",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 36,
+          "question": "A person who catches fish is a ____.",
+          "options": ["Fisherman", "Butcher", "Hunter", "Farmer"],
+          "correct_answer": "Fisherman",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 37,
+          "question": "The female ruler of a kingdom is a ____.",
+          "options": ["Princess", "Queen", "Empress", "Lady"],
+          "correct_answer": "Queen",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 38,
+          "question": "A person who cleans our streets is a ____.",
+          "options": ["Plumber", "Electrician", "Sweeper", "Gardener"],
+          "correct_answer": "Sweeper",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 39,
+          "question": "A male child is a ____.",
+          "options": ["girl", "son", "daughter", "baby"],
+          "correct_answer": "son",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 40,
+          "question": "Who puts out fires?",
+          "options": ["Policeman", "Firefighter", "Soldier", "Guard"],
+          "correct_answer": "Firefighter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 41,
+          "question": "A female child is a ____.",
+          "options": ["boy", "son", "daughter", "father"],
+          "correct_answer": "daughter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 42,
+          "question": "A person who looks after a garden is a ____.",
+          "options": ["Farmer", "Florist", "Gardener", "Greengrocer"],
+          "correct_answer": "Gardener",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 43,
+          "question": "The son of your son is your ____.",
+          "options": ["Grandson", "Nephew", "Son-in-law", "Cousin"],
+          "correct_answer": "Grandson",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 44,
+          "question": "A person who sells meat is a ____.",
+          "options": ["Baker", "Butcher", "Grocer", "Cobbler"],
+          "correct_answer": "Butcher",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 45,
+          "question": "The daughter of your daughter is your ____.",
+          "options": ["Granddaughter", "Niece", "Daughter-in-law", "Cousin"],
+          "correct_answer": "Granddaughter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 46,
+          "question": "A person who sells flowers is a ____.",
+          "options": ["Gardener", "Farmer", "Florist", "Greengrocer"],
+          "correct_answer": "Florist",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 47,
+          "question": "A male ruler of a kingdom is a ____.",
+          "options": ["Prince", "King", "Emperor", "Lord"],
+          "correct_answer": "King",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 48,
+          "question": "Who builds walls with bricks and cement?",
+          "options": ["Plumber", "Mason", "Carpenter", "Painter"],
+          "correct_answer": "Mason",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 49,
+          "question": "Your mother's brother is your ____.",
+          "options": ["Father", "Grandfather", "Uncle", "Nephew"],
+          "correct_answer": "Uncle",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 50,
+          "question": "A person who bakes bread and cakes is a ____.",
+          "options": ["Chef", "Cook", "Baker", "Butcher"],
+          "correct_answer": "Baker",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 51,
+          "question": "Your father's parents are your ____.",
+          "options": ["Grandparents", "Uncles and Aunts", "Parents", "Cousins"],
+          "correct_answer": "Grandparents",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 52,
+          "question": "A person who sells general household items is a ____.",
+          "options": ["Greengrocer", "Grocer", "Chemist", "Butcher"],
+          "correct_answer": "Grocer",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 53,
+          "question": "Your husband or wife's mother is your ____.",
+          "options": ["Mother", "Mother-in-law", "Grandmother", "Aunt"],
+          "correct_answer": "Mother-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 54,
+          "question": "A person who fits and repairs pipes for water is a ____.",
+          "options": ["Electrician", "Plumber", "Mechanic", "Mason"],
+          "correct_answer": "Plumber",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 55,
+          "question": "Your husband or wife's father is your ____.",
+          "options": ["Father", "Father-in-law", "Grandfather", "Uncle"],
+          "correct_answer": "Father-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 56,
+          "question": "A person who works with iron and steel is a ____.",
+          "options": ["Blacksmith", "Goldsmith", "Carpenter", "Cobbler"],
+          "correct_answer": "Blacksmith",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 57,
+          "question": "A person who lives in a village is a ____.",
+          "options": ["Citizen", "Townsman", "Villager", "Foreigner"],
+          "correct_answer": "Villager",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 58,
+          "question": "Who repairs cars and other vehicles?",
+          "options": ["Driver", "Mechanic", "Plumber", "Engineer"],
+          "correct_answer": "Mechanic",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 59,
+          "question": "A group of houses in the countryside is a ____.",
+          "options": ["City", "Town", "Village", "Country"],
+          "correct_answer": "Village",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 60,
+          "question": "A person who makes cloth by weaving threads is a ____.",
+          "options": ["Tailor", "Weaver", "Spinner", "Dyer"],
+          "correct_answer": "Weaver",
+          "grammar_type": "People at home and village"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "The head of a village council or 'Panchayat' is often called the ____.",
+          "options": ["Mayor", "Chief", "Sarpanch", "Manager"],
+          "correct_answer": "Sarpanch",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 62,
+          "question": "Your son's wife is your ____.",
+          "options": ["Sister-in-law", "Daughter-in-law", "Niece", "Aunt"],
+          "correct_answer": "Daughter-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 63,
+          "question": "A person who works with electricity and wiring is an ____.",
+          "options": ["Engineer", "Mechanic", "Electrician", "Plumber"],
+          "correct_answer": "Electrician",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 64,
+          "question": "The people who came before you in your family are your ____.",
+          "options": ["Descendants", "Ancestors", "Relatives", "Offspring"],
+          "correct_answer": "Ancestors",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 65,
+          "question": "A person who makes and sells medicines is a ____.",
+          "options": ["Doctor", "Nurse", "Chemist", "Surgeon"],
+          "correct_answer": "Chemist",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 66,
+          "question": "Your daughter's husband is your ____.",
+          "options": ["Brother-in-law", "Son-in-law", "Nephew", "Uncle"],
+          "correct_answer": "Son-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 67,
+          "question": "The owner of the land you rent is your ____.",
+          "options": ["Landlord", "Tenant", "Owner", "Master"],
+          "correct_answer": "Landlord",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 68,
+          "question": "A brother and sister are known as ____.",
+          "options": ["Twins", "Cousins", "Siblings", "Partners"],
+          "correct_answer": "Siblings",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 69,
+          "question": "A skilled worker who makes things by hand is an ____.",
+          "options": ["Artist", "Artisan", "Engineer", "Labourer"],
+          "correct_answer": "Artisan",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 70,
+          "question": "Your wife's brother is your ____.",
+          "options": ["Cousin", "Brother-in-law", "Nephew", "Step-brother"],
+          "correct_answer": "Brother-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 71,
+          "question": "A person who buys goods from a shop is a ____.",
+          "options": ["Shopkeeper", "Vendor", "Customer", "Trader"],
+          "correct_answer": "Customer",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 72,
+          "question": "Your husband's sister is your ____.",
+          "options": ["Sister-in-law", "Cousin", "Aunt", "Step-sister"],
+          "correct_answer": "Sister-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 73,
+          "question": "A person who keeps accounts for a business is an ____.",
+          "options": ["Accountant", "Manager", "Cashier", "Auditor"],
+          "correct_answer": "Accountant",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 74,
+          "question": "A child who has lost both parents is an ____.",
+          "options": ["Infant", "Orphan", "Toddler", "Sibling"],
+          "correct_answer": "Orphan",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 75,
+          "question": "A person who owns and manages a farm is a ____.",
+          "options": ["Farmer", "Landlord", "Cultivator", "Peasant"],
+          "correct_answer": "Farmer",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 76,
+          "question": "The people you are related to by blood or marriage are your ____.",
+          "options": ["Friends", "Neighbours", "Colleagues", "Relatives"],
+          "correct_answer": "Relatives",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 77,
+          "question": "Who is the head of a school?",
+          "options": ["Teacher", "Librarian", "Principal", "Monitor"],
+          "correct_answer": "Principal",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 78,
+          "question": "A family that includes grandparents, uncles, aunts, and cousins living together is a ____ family.",
+          "options": ["Nuclear", "Small", "Joint", "Immediate"],
+          "correct_answer": "Joint",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 79,
+          "question": "A person who rents a house from a landlord is a ____.",
+          "options": ["Tenant", "Owner", "Resident", "Occupant"],
+          "correct_answer": "Tenant",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 80,
+          "question": "Your father's brother is your paternal uncle. What is your mother's brother called?",
+          "options": ["Maternal uncle", "Paternal uncle", "Great uncle", "Grand uncle"],
+          "correct_answer": "Maternal uncle",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 81,
+          "question": "Someone who watches over a place, especially at night, is a ____.",
+          "options": ["Guard", "Watchman", "Caretaker", "Both Guard and Watchman"],
+          "correct_answer": "Both Guard and Watchman",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 82,
+          "question": "A woman whose husband has died is a ____.",
+          "options": ["Spinster", "Widow", "Divorcee", "Bachelorette"],
+          "correct_answer": "Widow",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 83,
+          "question": "A person who travels from place to place selling goods is a ____.",
+          "options": ["Shopkeeper", "Vendor", "Merchant", "Hawker"],
+          "correct_answer": "Hawker",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 84,
+          "question": "A man whose wife has died is a ____.",
+          "options": ["Bachelor", "Widower", "Divorcee", "Spinster"],
+          "correct_answer": "Widower",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 85,
+          "question": "The respected older people in a village are called village ____.",
+          "options": ["Leaders", "Heads", "Elders", "Seniors"],
+          "correct_answer": "Elders",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 86,
+          "question": "Your mother's new husband, who is not your biological father, is your ____.",
+          "options": ["Step-father", "Father-in-law", "Uncle", "Godfather"],
+          "correct_answer": "Step-father",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 87,
+          "question": "A person who sells goods in a street market is a ____.",
+          "options": ["Shopkeeper", "Vendor", "Grocer", "Merchant"],
+          "correct_answer": "Vendor",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 88,
+          "question": "A person who is not your parent but agrees to help raise you is your ____.",
+          "options": ["Guardian", "Mentor", "Tutor", "Sponsor"],
+          "correct_answer": "Guardian",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 89,
+          "question": "A person who makes things from gold is a ____.",
+          "options": ["Goldsmith", "Blacksmith", "Jeweller", "Artisan"],
+          "correct_answer": "Goldsmith",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 90,
+          "question": "The people living in a particular area form a ____.",
+          "options": ["Crowd", "Group", "Community", "Tribe"],
+          "correct_answer": "Community",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 91,
+          "question": "A person who designs buildings is an ____.",
+          "options": ["Engineer", "Architect", "Builder", "Mason"],
+          "correct_answer": "Architect",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 92,
+          "question": "A family consisting of only parents and their children is a ____ family.",
+          "options": ["Joint", "Nuclear", "Extended", "Single"],
+          "correct_answer": "Nuclear",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 93,
+          "question": "The person in charge of a post office is the ____.",
+          "options": ["Postman", "Postmaster", "Clerk", "Manager"],
+          "correct_answer": "Postmaster",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 94,
+          "question": "Your brother's wife is your ____.",
+          "options": ["Sister-in-law", "Cousin", "Niece", "Aunt"],
+          "correct_answer": "Sister-in-law",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 95,
+          "question": "A person who works in a mine is a ____.",
+          "options": ["Digger", "Miner", "Labourer", "Excavator"],
+          "correct_answer": "Miner",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 96,
+          "question": "The children who will come after you in your family are your ____.",
+          "options": ["Ancestors", "Predecessors", "Descendants", "Relatives"],
+          "correct_answer": "Descendants",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 97,
+          "question": "A person who lends money as a business is a ____.",
+          "options": ["Banker", "Moneylender", "Treasurer", "Accountant"],
+          "correct_answer": "Moneylender",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 98,
+          "question": "What is another word for your brothers and sisters?",
+          "options": ["Offspring", "Siblings", "Descendants", "Kin"],
+          "correct_answer": "Siblings",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 99,
+          "question": "A person who paints houses and buildings is a ____.",
+          "options": ["Artist", "Painter", "Decorator", "Mason"],
+          "correct_answer": "Painter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 100,
+          "question": "The child of your step-parent is your ____.",
+          "options": ["Step-sibling", "Cousin", "Half-sibling", "Sibling-in-law"],
+          "correct_answer": "Step-sibling",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 101,
+          "question": "Someone who helps people in the community is a ____.",
+          "options": ["Social activist", "Social worker", "Community leader", "Volunteer"],
+          "correct_answer": "Social worker",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 102,
+          "question": "Your great-grandfather is the ____ of your father.",
+          "options": ["Father", "Uncle", "Grandfather", "Great-uncle"],
+          "correct_answer": "Grandfather",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 103,
+          "question": "The person who controls the flow of water for farms is often the ____.",
+          "options": ["Waterman", "Canal operator", "Irrigator", "Plumber"],
+          "correct_answer": "Canal operator",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 104,
+          "question": "A man who has never been married is a ____.",
+          "options": ["Widower", "Divorcee", "Bachelor", "Groom"],
+          "correct_answer": "Bachelor",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 105,
+          "question": "A person who checks and verifies business accounts is an ____.",
+          "options": ["Accountant", "Cashier", "Auditor", "Treasurer"],
+          "correct_answer": "Auditor",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 106,
+          "question": "A woman who has never been married is a ____.",
+          "options": ["Widow", "Divorcee", "Spinster", "Bride"],
+          "correct_answer": "Spinster",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 107,
+          "question": "The person who officially represents their government in a foreign country is an ____.",
+          "options": ["Ambassador", "Delegate", "Representative", "Minister"],
+          "correct_answer": "Ambassador",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 108,
+          "question": "The children you and your siblings have are all ____.",
+          "options": ["the same age", "from the same family", "part of the same generation", "from the same village"],
+          "correct_answer": "part of the same generation",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 109,
+          "question": "A person who welcomes guests at a hotel or office is a ____.",
+          "options": ["Manager", "Receptionist", "Attendant", "Concierge"],
+          "correct_answer": "Receptionist",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 110,
+          "question": "A person who is still learning a trade from a skilled employer is an ____.",
+          "options": ["Intern", "Student", "Apprentice", "Assistant"],
+          "correct_answer": "Apprentice",
+          "grammar_type": "People at home and village"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "A group of people related by blood or marriage, forming a unit, is called a ____.",
+          "options": ["Clan", "Tribe", "Kinship", "Household"],
+          "correct_answer": "Kinship",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 112,
+          "question": "A person who works the land for a landlord in exchange for a share of the crops is a ____.",
+          "options": ["Farmer", "Sharecropper", "Labourer", "Cultivator"],
+          "correct_answer": "Sharecropper",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 113,
+          "question": "The customs and beliefs of a particular group of people in a village are part of their ____.",
+          "options": ["Law", "Rules", "Culture", "System"],
+          "correct_answer": "Culture",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 114,
+          "question": "A person who offers traditional or herbal remedies in a village is often a ____.",
+          "options": ["Doctor", "Healer", "Chemist", "Therapist"],
+          "correct_answer": "Healer",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 115,
+          "question": "A child with one or more parents who are not their biological parents is an ____ child.",
+          "options": ["Adopted", "Foster", "Step", "Orphaned"],
+          "correct_answer": "Adopted",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 116,
+          "question": "A person who works with stone, especially in building, is a ____.",
+          "options": ["Mason", "Stoneworker", "Sculptor", "Stonemason"],
+          "correct_answer": "Stonemason",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 117,
+          "question": "The line of descent traced from an ancestor is called ____.",
+          "options": ["Lineage", "Heritage", "Succession", "Generation"],
+          "correct_answer": "Lineage",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 118,
+          "question": "A woman who helps other women during childbirth, traditionally in a village, is a ____.",
+          "options": ["Nurse", "Midwife", "Nanny", "Healer"],
+          "correct_answer": "Midwife",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 119,
+          "question": "Someone who lives in a place temporarily is a ____.",
+          "options": ["Resident", "Sojourner", "Inhabitant", "Dweller"],
+          "correct_answer": "Sojourner",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 120,
+          "question": "A public official who acts as a lesser judge in a local court is a ____.",
+          "options": ["Lawyer", "Magistrate", "Clerk", "Bailiff"],
+          "correct_answer": "Magistrate",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 121,
+          "question": "Your father's brother's son is your ____.",
+          "options": ["First cousin", "Second cousin", "Cousin-brother", "Nephew"],
+          "correct_answer": "First cousin",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 122,
+          "question": "A person who makes and repairs barrels and casks is a ____.",
+          "options": ["Carpenter", "Cooper", "Tinsmith", "Joiner"],
+          "correct_answer": "Cooper",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 123,
+          "question": "A person living in solitude for religious reasons, sometimes near a village, is a ____.",
+          "options": ["Monk", "Priest", "Hermit", "Sage"],
+          "correct_answer": "Hermit",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 124,
+          "question": "The person who looks after a building or land in the owner's absence is the ____.",
+          "options": ["Watchman", "Caretaker", "Manager", "Supervisor"],
+          "correct_answer": "Caretaker",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 125,
+          "question": "A woman who is the head of a family or tribe is a ____.",
+          "options": ["Patriarch", "Matriarch", "Monarch", "Chief"],
+          "correct_answer": "Matriarch",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 126,
+          "question": "A person who buys and sells goods for profit is a ____.",
+          "options": ["Trader", "Merchant", "Vendor", "Broker"],
+          "correct_answer": "Merchant",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 127,
+          "question": "A man who is the head of a family or tribe is a ____.",
+          "options": ["Patriarch", "Matriarch", "Monarch", "Chief"],
+          "correct_answer": "Patriarch",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 128,
+          "question": "A person who looks after sheep is a ____.",
+          "options": ["Cattleman", "Shepherd", "Herder", "Grazier"],
+          "correct_answer": "Shepherd",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 129,
+          "question": "A person who has the same parents as you is your ____.",
+          "options": ["Sibling", "Cousin", "Twin", "Relative"],
+          "correct_answer": "Sibling",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 130,
+          "question": "A person who tells stories, especially in a traditional village setting, is a ____.",
+          "options": ["Author", "Writer", "Storyteller", "Narrator"],
+          "correct_answer": "Storyteller",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 131,
+          "question": "The relationship between your parents is ____.",
+          "options": ["Spousal", "Parental", "Marital", "Conjugal"],
+          "correct_answer": "Marital",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 132,
+          "question": "Someone who moves from one region to another to find work, often in farming, is a ____ worker.",
+          "options": ["Migrant", "Temporary", "Seasonal", "Travelling"],
+          "correct_answer": "Migrant",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 133,
+          "question": "The legal process of becoming a parent to a child who is not biologically yours is called ____.",
+          "options": ["Guardianship", "Adoption", "Fostering", "Sponsorship"],
+          "correct_answer": "Adoption",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 134,
+          "question": "An official who keeps records in a village office is a ____.",
+          "options": ["Secretary", "Clerk", "Accountant", "Registrar"],
+          "correct_answer": "Clerk",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 135,
+          "question": "A child who has one parent in common with you is your ____.",
+          "options": ["Step-sibling", "Half-sibling", "Cousin", "Adopted sibling"],
+          "correct_answer": "Half-sibling",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 136,
+          "question": "A person who operates a mill to grind grain is a ____.",
+          "options": ["Miller", "Grinder", "Baker", "Farmer"],
+          "correct_answer": "Miller",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 137,
+          "question": "All the people born and living at about the same time are a ____.",
+          "options": ["Generation", "Population", "Community", "Society"],
+          "correct_answer": "Generation",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 138,
+          "question": "A person who is skilled in making wheels is a ____.",
+          "options": ["Carpenter", "Cartwright", "Wheelwright", "Joiner"],
+          "correct_answer": "Wheelwright",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 139,
+          "question": "The parents of your grandparents are your ____.",
+          "options": ["Ancestors", "Great-grandparents", "Elders", "Forefathers"],
+          "correct_answer": "Great-grandparents",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 140,
+          "question": "A person who studies and writes about the past is a ____.",
+          "options": ["Historian", "Archaeologist", "Chronicler", "Antiquarian"],
+          "correct_answer": "Historian",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 141,
+          "question": "A family system where the father or eldest male is head of the family is called ____.",
+          "options": ["Matriarchy", "Patriarchy", "Monarchy", "Hierarchy"],
+          "correct_answer": "Patriarchy",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 142,
+          "question": "An expert who gives advice, like on farming techniques, is a ____.",
+          "options": ["Consultant", "Specialist", "Advisor", "Expert"],
+          "correct_answer": "Consultant",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 143,
+          "question": "Your family and relatives collectively are your ____.",
+          "options": ["Kinfolk", "Household", "Lineage", "Community"],
+          "correct_answer": "Kinfolk",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 144,
+          "question": "A person who travels to a holy place is a ____.",
+          "options": ["Tourist", "Traveller", "Pilgrim", "Worshipper"],
+          "correct_answer": "Pilgrim",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 145,
+          "question": "A person, especially in a village, who is known for their wisdom is a ____.",
+          "options": ["Sage", "Elder", "Thinker", "Philosopher"],
+          "correct_answer": "Sage",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 146,
+          "question": "A person who is paid to work for another person at their home is a ____.",
+          "options": ["Servant", "Employee", "Helper", "Assistant"],
+          "correct_answer": "Servant",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 147,
+          "question": "The local people of a place are its ____.",
+          "options": ["Citizens", "Population", "Inhabitants", "Residents"],
+          "correct_answer": "Inhabitants",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 148,
+          "question": "A person who takes care of a child when the parents are away is a ____.",
+          "options": ["Nanny", "Babysitter", "Guardian", "Caretaker"],
+          "correct_answer": "Babysitter",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 149,
+          "question": "An unmarried man who has sworn to remain so, often for religious reasons, is a ____.",
+          "options": ["Bachelor", "Celibate", "Monk", "Priest"],
+          "correct_answer": "Celibate",
+          "grammar_type": "People at home and village"
+        },
+        {
+          "id": 150,
+          "question": "A meeting of the villagers, often called by the village head, is a ____.",
+          "options": ["Gathering", "Function", "Assembly", "Council"],
+          "correct_answer": "Assembly",
+          "grammar_type": "People at home and village"
+        }
+      ]
+    }
+  ]
+}
+

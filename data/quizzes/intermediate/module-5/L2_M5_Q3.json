@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A person who treats you when you are sick is a ____.",
+          "options": ["Teacher", "Doctor", "Farmer", "Shopkeeper"],
+          "correct_answer": "Doctor",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 2,
+          "question": "If your body is very hot, you might have a ____.",
+          "options": ["Cold", "Cough", "Fever", "Pain"],
+          "correct_answer": "Fever",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 3,
+          "question": "What does a doctor give you to make you feel better?",
+          "options": ["Food", "Toys", "Medicine", "Homework"],
+          "correct_answer": "Medicine",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 4,
+          "question": "A doctor's office is also called a ____.",
+          "options": ["School", "Market", "Clinic", "Park"],
+          "correct_answer": "Clinic",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 5,
+          "question": "A person who helps the doctor is a ____.",
+          "options": ["Patient", "Nurse", "Teacher", "Friend"],
+          "correct_answer": "Nurse",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 6,
+          "question": "If you have a pain in your head, you have a ____.",
+          "options": ["Stomach ache", "Backache", "Headache", "Fever"],
+          "correct_answer": "Headache",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 7,
+          "question": "When you are sick, you are the doctor's ____.",
+          "options": ["Student", "Customer", "Patient", "Friend"],
+          "correct_answer": "Patient",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 8,
+          "question": "A large building with many doctors and nurses is a ____.",
+          "options": ["School", "Hotel", "Hospital", "Mall"],
+          "correct_answer": "Hospital",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 9,
+          "question": "What is it called when you make a sound from your throat like 'ahem'?",
+          "options": ["Sneeze", "Cough", "Yawn", "Hiccup"],
+          "correct_answer": "Cough",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 10,
+          "question": "If you have a pain in your stomach, you have a ____.",
+          "options": ["Headache", "Toothache", "Stomach ache", "Earache"],
+          "correct_answer": "Stomach ache",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 11,
+          "question": "What is the first thing a doctor might ask you?",
+          "options": ["'What is your name?'", "'What is wrong?'", "'How old are you?'", "'Where do you live?'"],
+          "correct_answer": "'What is wrong?'",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 12,
+          "question": "The doctor uses a ____ to listen to your heartbeat.",
+          "options": ["Telescope", "Microscope", "Stethoscope", "Thermometer"],
+          "correct_answer": "Stethoscope",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 13,
+          "question": "You should ____ the medicine the doctor gives you.",
+          "options": ["eat", "play with", "take", "throw"],
+          "correct_answer": "take",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 14,
+          "question": "If your nose is running, you probably have a ____.",
+          "options": ["Fever", "Cold", "Headache", "Cut"],
+          "correct_answer": "Cold",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 15,
+          "question": "The doctor tells you to get plenty of ____ when you are sick.",
+          "options": ["work", "exercise", "rest", "noise"],
+          "correct_answer": "rest",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 16,
+          "question": "A ____ is where you can buy medicines.",
+          "options": ["Clinic", "Hospital", "Pharmacy", "School"],
+          "correct_answer": "Pharmacy",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 17,
+          "question": "If something hurts, you are in ____.",
+          "options": ["pain", "trouble", "a hurry", "bed"],
+          "correct_answer": "pain",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 18,
+          "question": "A doctor who does operations is a ____.",
+          "options": ["Nurse", "Dentist", "Surgeon", "Chemist"],
+          "correct_answer": "Surgeon",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 19,
+          "question": "When you suddenly force air out of your nose and mouth, it is a ____.",
+          "options": ["Cough", "Sneeze", "Yawn", "Burp"],
+          "correct_answer": "Sneeze",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 20,
+          "question": "A doctor for teeth is called a ____.",
+          "options": ["Doctor", "Surgeon", "Dentist", "Specialist"],
+          "correct_answer": "Dentist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 21,
+          "question": "The doctor will check your ____ to see if you have a fever.",
+          "options": ["Height", "Weight", "Temperature", "Pulse"],
+          "correct_answer": "Temperature",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 22,
+          "question": "To tell the doctor where it hurts, you can ____ to the spot.",
+          "options": ["point", "look", "touch", "show"],
+          "correct_answer": "point",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 23,
+          "question": "To get better from being sick is to ____.",
+          "options": ["recover", "fall", "hurt", "break"],
+          "correct_answer": "recover",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 24,
+          "question": "You should drink plenty of ____ when you are sick.",
+          "options": ["soda", "juice", "water", "milk"],
+          "correct_answer": "water",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 25,
+          "question": "If you cut your finger, you might need a ____.",
+          "options": ["Pill", "Syrup", "Bandage", "Tablet"],
+          "correct_answer": "Bandage",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 26,
+          "question": "A pain in your tooth is called a ____.",
+          "options": ["Headache", "Toothache", "Stomach ache", "Backache"],
+          "correct_answer": "Toothache",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 27,
+          "question": "The doctor writes the names of medicines on a ____.",
+          "options": ["Book", "Note", "Prescription", "Letter"],
+          "correct_answer": "Prescription",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 28,
+          "question": "To wish someone a quick recovery, you say 'Get ____ soon!'",
+          "options": ["better", "well", "good", "fine"],
+          "correct_answer": "well",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 29,
+          "question": "If your throat hurts when you swallow, you have a ____ throat.",
+          "options": ["bad", "sore", "painful", "sick"],
+          "correct_answer": "sore",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 30,
+          "question": "The feeling that you need to vomit is called ____.",
+          "options": ["Dizzy", "Nausea", "Pain", "Fever"],
+          "correct_answer": "Nausea",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 31,
+          "question": "A liquid medicine is often called a ____.",
+          "options": ["Tablet", "Pill", "Capsule", "Syrup"],
+          "correct_answer": "Syrup",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 32,
+          "question": "A small, solid piece of medicine you swallow is a ____.",
+          "options": ["Syrup", "Liquid", "Pill", "Cream"],
+          "correct_answer": "Pill",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 33,
+          "question": "An ____ is when a nurse uses a needle to give you medicine.",
+          "options": ["Operation", "Injection", "X-ray", "Scan"],
+          "correct_answer": "Injection",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 34,
+          "question": "What is the room where you wait for the doctor called?",
+          "options": ["Doctor's room", "Waiting room", "Patient room", "Clinic hall"],
+          "correct_answer": "Waiting room",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 35,
+          "question": "If you feel like everything is spinning, you feel ____.",
+          "options": ["Tired", "Dizzy", "Sick", "Weak"],
+          "correct_answer": "Dizzy",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 36,
+          "question": "The doctor will ____ you to see what is wrong.",
+          "options": ["look", "examine", "talk", "ask"],
+          "correct_answer": "examine",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 37,
+          "question": "To make an ____ means to book a time to see the doctor.",
+          "options": ["appointment", "excuse", "application", "order"],
+          "correct_answer": "appointment",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 38,
+          "question": "A pain in your back is called a ____.",
+          "options": ["Headache", "Backache", "Leg ache", "Arm ache"],
+          "correct_answer": "Backache",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 39,
+          "question": "If you fall and hurt yourself, you have an ____.",
+          "options": ["illness", "injury", "ache", "infection"],
+          "correct_answer": "injury",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 40,
+          "question": "The common cold is a type of ____.",
+          "options": ["Injury", "Illness", "Accident", "Operation"],
+          "correct_answer": "Illness",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 41,
+          "question": "If you feel unwell, you feel ____.",
+          "options": ["happy", "strong", "sick", "good"],
+          "correct_answer": "sick",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 42,
+          "question": "A doctor who specializes in children's health is a ____.",
+          "options": ["Surgeon", "Dentist", "Pediatrician", "General doctor"],
+          "correct_answer": "Pediatrician",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 43,
+          "question": "You should tell the doctor about all your ____.",
+          "options": ["hobbies", "friends", "symptoms", "toys"],
+          "correct_answer": "symptoms",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 44,
+          "question": "A broken bone is called a ____.",
+          "options": ["Sprain", "Cut", "Fracture", "Bruise"],
+          "correct_answer": "Fracture",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 45,
+          "question": "The paper with the doctor's instructions for medicine is a ____.",
+          "options": ["prescription", "receipt", "bill", "note"],
+          "correct_answer": "prescription",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 46,
+          "question": "To stop an illness from spreading, you should ____ your mouth when you cough.",
+          "options": ["open", "cover", "touch", "hold"],
+          "correct_answer": "cover",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 47,
+          "question": "A problem with your health is a health ____.",
+          "options": ["issue", "game", "story", "joke"],
+          "correct_answer": "issue",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 48,
+          "question": "An ____ is a doctor who checks your eyes.",
+          "options": ["ENT", "Optician", "Oculist", "Surgeon"],
+          "correct_answer": "Oculist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 49,
+          "question": "The doctor gives you ____ on how to stay healthy.",
+          "options": ["money", "food", "advice", "problems"],
+          "correct_answer": "advice",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 50,
+          "question": "When you visit a doctor for a regular health check, it's called a ____.",
+          "options": ["check-in", "check-out", "check-up", "check-on"],
+          "correct_answer": "check-up",
+          "grammar_type": "Visiting a Doctor"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is the medical term for the signs or feelings of an illness?",
+          "options": ["Problems", "Issues", "Symptoms", "Reasons"],
+          "correct_answer": "Symptoms",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 52,
+          "question": "A doctor's identification of an illness is called a ____.",
+          "options": ["Symptom", "Treatment", "Diagnosis", "Prescription"],
+          "correct_answer": "Diagnosis",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 53,
+          "question": "A skin problem that makes your skin red and itchy is often a ____.",
+          "options": ["Fever", "Rash", "Cough", "Fracture"],
+          "correct_answer": "Rash",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 54,
+          "question": "A reaction your body has to something harmless, like pollen or dust, is an ____.",
+          "options": ["Injury", "Infection", "Allergy", "Illness"],
+          "correct_answer": "Allergy",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 55,
+          "question": "What does a 'GP' (General Practitioner) do?",
+          "options": ["Performs complex surgeries", "Treats a wide range of common health problems", "Specializes in one part of the body", "Only treats children"],
+          "correct_answer": "Treats a wide range of common health problems",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 56,
+          "question": "An injury to a joint caused by twisting it violently is a ____.",
+          "options": ["Fracture", "Sprain", "Cut", "Burn"],
+          "correct_answer": "Sprain",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 57,
+          "question": "A doctor might tell you to take a medicine 'twice a day'. This means every ____ hours.",
+          "options": ["6", "8", "12", "24"],
+          "correct_answer": "12",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 58,
+          "question": "The doctor's advice on how to manage an illness is the ____.",
+          "options": ["Symptom", "Diagnosis", "Treatment", "Test"],
+          "correct_answer": "Treatment",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 59,
+          "question": "What is an 'X-ray' used for?",
+          "options": ["To check your temperature", "To see inside your body, especially your bones", "To listen to your heart", "To check your blood pressure"],
+          "correct_answer": "To see inside your body, especially your bones",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 60,
+          "question": "The feeling of being tired and having no energy is called ____.",
+          "options": ["Pain", "Fatigue", "Nausea", "Dizziness"],
+          "correct_answer": "Fatigue",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 61,
+          "question": "A doctor who specializes in skin problems is a ____.",
+          "options": ["Cardiologist", "Dermatologist", "Pediatrician", "Orthopedist"],
+          "correct_answer": "Dermatologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 62,
+          "question": "If a wound becomes red and swollen, it might have an ____.",
+          "options": ["Allergy", "Infection", "Sprain", "Fracture"],
+          "correct_answer": "Infection",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 63,
+          "question": "What does it mean to take medicine 'on an empty stomach'?",
+          "options": ["To take it after eating a big meal", "To take it before eating", "To take it with food", "To mix it with food"],
+          "correct_answer": "To take it before eating",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 64,
+          "question": "What is the instrument used to measure body temperature?",
+          "options": ["Stethoscope", "Thermometer", "Barometer", "Manometer"],
+          "correct_answer": "Thermometer",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 65,
+          "question": "A doctor who specializes in heart problems is a ____.",
+          "options": ["Dermatologist", "Neurologist", "Cardiologist", "Gastroenterologist"],
+          "correct_answer": "Cardiologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 66,
+          "question": "If your symptoms get worse, you should ____ the doctor again.",
+          "options": ["ignore", "consult", "forget", "avoid"],
+          "correct_answer": "consult",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 67,
+          "question": "A small, itchy swelling on the skin from an insect bite is a ____.",
+          "options": ["Rash", "Welt", "Bruise", "Pimple"],
+          "correct_answer": "Welt",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 68,
+          "question": "The slip of paper the doctor gives you to buy medicine is a ____.",
+          "options": ["Receipt", "Prescription", "Note", "Bill"],
+          "correct_answer": "Prescription",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 69,
+          "question": "To prevent illness, a doctor might give you a ____.",
+          "options": ["Vaccination", "Medication", "Operation", "Consultation"],
+          "correct_answer": "Vaccination",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 70,
+          "question": "A doctor who specializes in bones and joints is an ____.",
+          "options": ["Orthopedist", "Cardiologist", "Neurologist", "Pediatrician"],
+          "correct_answer": "Orthopedist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 71,
+          "question": "What is a 'check-up'?",
+          "options": ["A visit for a serious illness", "A routine medical examination to check your health", "A visit after an operation", "An emergency visit"],
+          "correct_answer": "A routine medical examination to check your health",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 72,
+          "question": "A blue or purple mark on the skin from an injury is a ____.",
+          "options": ["Cut", "Scrape", "Burn", "Bruise"],
+          "correct_answer": "Bruise",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 73,
+          "question": "The course of medical treatment for an illness is the ____.",
+          "options": ["therapy", "remedy", "cure", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 74,
+          "question": "If you are told to 'keep a wound clean', you should prevent ____ from getting into it.",
+          "options": ["water", "air", "dirt", "light"],
+          "correct_answer": "dirt",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 75,
+          "question": "A doctor might ____ you to a specialist if your problem is serious.",
+          "options": ["send", "refer", "push", "ask"],
+          "correct_answer": "refer",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 76,
+          "question": "What does a 'pharmacist' or 'chemist' do?",
+          "options": ["Diagnoses illnesses", "Performs surgery", "Dispenses medicines", "Conducts medical tests"],
+          "correct_answer": "Dispenses medicines",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 77,
+          "question": "A pain that is continuous and steady is described as ____.",
+          "options": ["sharp", "dull", "throbbing", "constant"],
+          "correct_answer": "constant",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 78,
+          "question": "When you have the flu, you may have a fever, cough, and body ____.",
+          "options": ["pains", "aches", "hurts", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 79,
+          "question": "What does it mean to have a 'follow-up' appointment?",
+          "options": ["Your first visit to the doctor", "An appointment to check your progress after treatment", "An emergency appointment", "An appointment for a new problem"],
+          "correct_answer": "An appointment to check your progress after treatment",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 80,
+          "question": "A medicine that reduces pain is a ____.",
+          "options": ["Painkiller", "Vitamin", "Antibiotic", "Antiseptic"],
+          "correct_answer": "Painkiller",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 81,
+          "question": "A doctor who specializes in the nervous system is a ____.",
+          "options": ["Cardiologist", "Neurologist", "Dermatologist", "Urologist"],
+          "correct_answer": "Neurologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 82,
+          "question": "What is an 'allergen'?",
+          "options": ["A substance that causes an allergic reaction", "A type of medicine for allergies", "A doctor who treats allergies", "A test for allergies"],
+          "correct_answer": "A substance that causes an allergic reaction",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 83,
+          "question": "If you lose consciousness for a short time, you ____.",
+          "options": ["faint", "fall", "sleep", "rest"],
+          "correct_answer": "faint",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 84,
+          "question": "A medicine applied to the skin is called a/an ____.",
+          "options": ["Syrup", "Tablet", "Ointment", "Pill"],
+          "correct_answer": "Ointment",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 85,
+          "question": "The medical history of your family is important because some illnesses can be ____.",
+          "options": ["contagious", "hereditary", "temporary", "acute"],
+          "correct_answer": "hereditary",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 86,
+          "question": "A pain that feels like a repeated beating is a ____ pain.",
+          "options": ["sharp", "dull", "throbbing", "burning"],
+          "correct_answer": "throbbing",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 87,
+          "question": "An illness that can spread from one person to another is ____.",
+          "options": ["chronic", "acute", "contagious", "hereditary"],
+          "correct_answer": "contagious",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 88,
+          "question": "The doctor might check your blood ____ to see how hard your heart is pumping.",
+          "options": ["sugar", "group", "count", "pressure"],
+          "correct_answer": "pressure",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 89,
+          "question": "A medicine that fights bacteria is an ____.",
+          "options": ["Antiseptic", "Antibiotic", "Painkiller", "Antacid"],
+          "correct_answer": "Antibiotic",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 90,
+          "question": "To give a 'sample' at a clinic means to provide a small amount of ____ for testing.",
+          "options": ["blood or urine", "medicine", "money", "food"],
+          "correct_answer": "blood or urine",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 91,
+          "question": "What is a 'side effect' of a medicine?",
+          "options": ["The main intended effect", "An unwanted secondary effect", "The price of the medicine", "The brand name of the medicine"],
+          "correct_answer": "An unwanted secondary effect",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 92,
+          "question": "The room in a hospital for very serious cases is the ICU, which stands for ____.",
+          "options": ["Intensive Care Unit", "Internal Care Unit", "Important Care Unit", "Immediate Care Unit"],
+          "correct_answer": "Intensive Care Unit",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 93,
+          "question": "A sudden, brief illness is described as ____.",
+          "options": ["Chronic", "Acute", "Serious", "Mild"],
+          "correct_answer": "Acute",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 94,
+          "question": "A doctor might advise you on your ____, which is the kind of food you eat.",
+          "options": ["routine", "lifestyle", "diet", "hobby"],
+          "correct_answer": "diet",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 95,
+          "question": "A problem like asthma that lasts for a long time is called a ____ condition.",
+          "options": ["acute", "temporary", "chronic", "contagious"],
+          "correct_answer": "chronic",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 96,
+          "question": "To 'monitor' your condition means to ____.",
+          "options": ["ignore it", "keep a close watch on it", "cure it immediately", "forget about it"],
+          "correct_answer": "keep a close watch on it",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 97,
+          "question": "A doctor who deals with the problems of old age is a ____.",
+          "options": ["Pediatrician", "Geriatrician", "Cardiologist", "Psychiatrist"],
+          "correct_answer": "Geriatrician",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 98,
+          "question": "What is 'first aid'?",
+          "options": ["The final treatment at a hospital", "Help given to a sick or injured person until full medical treatment is available", "A doctor's first diagnosis", "The first medicine you take"],
+          "correct_answer": "Help given to a sick or injured person until full medical treatment is available",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 99,
+          "question": "The swelling and redness of a body part is called ____.",
+          "options": ["Infection", "Inflammation", "Injury", "Illness"],
+          "correct_answer": "Inflammation",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 100,
+          "question": "If you are 'under the weather', you are ____.",
+          "options": ["feeling slightly unwell", "standing in the rain", "feeling very happy", "very busy"],
+          "correct_answer": "feeling slightly unwell",
+          "grammar_type": "Visiting a Doctor"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "A doctor's likely prediction of the course of a disease is a ____.",
+          "options": ["Diagnosis", "Prognosis", "Synopsis", "Analysis"],
+          "correct_answer": "Prognosis",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 102,
+          "question": "A 'placebo' is a substance with no therapeutic effect, used as a ____ in a test.",
+          "options": ["control", "cure", "painkiller", "vaccine"],
+          "correct_answer": "control",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 103,
+          "question": "What is the difference between a 'symptom' and a 'sign'?",
+          "options": ["A symptom is felt by the patient; a sign is observed by the doctor.", "A sign is felt by the patient; a symptom is observed by the doctor.", "They mean the same thing.", "A symptom is for illness; a sign is for injury."],
+          "correct_answer": "A symptom is felt by the patient; a sign is observed by the doctor.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 104,
+          "question": "A doctor who specializes in disorders of the stomach and intestines is a ____.",
+          "options": ["Gastroenterologist", "Hepatologist", "Urologist", "Nephrologist"],
+          "correct_answer": "Gastroenterologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 105,
+          "question": "The term for when an illness is becoming less severe is ____.",
+          "options": ["Aggravating", "Deteriorating", "Subsidng", "Worsening"],
+          "correct_answer": "Subsidng",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 106,
+          "question": "The period of time a patient stays in a hospital is their ____.",
+          "options": ["admission", "discharge", "stay", "confinement"],
+          "correct_answer": "stay",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 107,
+          "question": "An illness that has no known cure and focuses on managing symptoms is ____.",
+          "options": ["terminal", "acute", "treatable", "incurable"],
+          "correct_answer": "incurable",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 108,
+          "question": "A 'biopsy' is a procedure where a small sample of ____ is taken for testing.",
+          "options": ["blood", "urine", "tissue", "saliva"],
+          "correct_answer": "tissue",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 109,
+          "question": "If a medicine is available 'over-the-counter' (OTC), you do not need a ____.",
+          "options": ["prescription", "payment", "bag", "pharmacist"],
+          "correct_answer": "prescription",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 110,
+          "question": "What is the study of the causes and effects of diseases called?",
+          "options": ["Physiology", "Anatomy", "Pathology", "Pharmacology"],
+          "correct_answer": "Pathology",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 111,
+          "question": "A 'relapse' is when a patient suffers a ____ after a period of improvement.",
+          "options": ["full recovery", "deterioration", "side effect", "new illness"],
+          "correct_answer": "deterioration",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 112,
+          "question": "The term 'outpatient' refers to a patient who...",
+          "options": ["is admitted to the hospital overnight.", "receives treatment without being admitted to the hospital.", "is being treated at home.", "has been discharged from the hospital."],
+          "correct_answer": "receives treatment without being admitted to the hospital.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 113,
+          "question": "What is 'triage' in an emergency room?",
+          "options": ["The process of discharging patients.", "A system of sorting patients based on the urgency of their need for care.", "The registration process for new patients.", "A type of surgery."],
+          "correct_answer": "A system of sorting patients based on the urgency of their need for care.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 114,
+          "question": "An 'iatrogenic' illness is one that is caused by ____.",
+          "options": ["a virus", "bacteria", "a genetic condition", "medical examination or treatment"],
+          "correct_answer": "medical examination or treatment",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 115,
+          "question": "The period of recovery after an illness or operation is called ____.",
+          "options": ["Convalescence", "Relapse", "Prognosis", "Diagnosis"],
+          "correct_answer": "Convalescence",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 116,
+          "question": "What is a 'nosocomial' infection?",
+          "options": ["An infection spread by insects", "An infection originating in a hospital", "A hereditary infection", "An infection that affects the nose"],
+          "correct_answer": "An infection originating in a hospital",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 117,
+          "question": "A doctor who specializes in the kidneys is a ____.",
+          "options": ["Hepatologist", "Nephrologist", "Pulmonologist", "Endocrinologist"],
+          "correct_answer": "Nephrologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 118,
+          "question": "The idiom 'a clean bill of health' means:",
+          "options": ["The hospital bill is paid.", "A declaration that a person is healthy.", "A very expensive medical test.", "The doctor's prescription is easy to read."],
+          "correct_answer": "A declaration that a person is healthy.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 119,
+          "question": "A 'palliative' treatment is one that...",
+          "options": ["cures the disease completely.", "relieves symptoms without dealing with the cause of the condition.", "is experimental.", "is given before a surgery."],
+          "correct_answer": "relieves symptoms without dealing with the cause of the condition.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 120,
+          "question": "What does it mean if an illness is 'asymptomatic'?",
+          "options": ["It is very painful.", "It produces no symptoms.", "It is highly contagious.", "It is incurable."],
+          "correct_answer": "It produces no symptoms.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 121,
+          "question": "The study of drugs and their effects is called ____.",
+          "options": ["Physiology", "Pathology", "Pharmacology", "Biology"],
+          "correct_answer": "Pharmacology",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 122,
+          "question": "What is a 'stat' order in a hospital?",
+          "options": ["A routine check-up", "A discharge order", "An order that needs to be carried out immediately", "A request for a second opinion"],
+          "correct_answer": "An order that needs to be carried out immediately",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 123,
+          "question": "A doctor who specializes in the lungs is a ____.",
+          "options": ["Pulmonologist", "Oncologist", "Rheumatologist", "Endocrinologist"],
+          "correct_answer": "Pulmonologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 124,
+          "question": "An 'idiopathic' disease is one whose ____ is unknown.",
+          "options": ["cure", "symptoms", "cause", "treatment"],
+          "correct_answer": "cause",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 125,
+          "question": "The term 'somatic' relates to the ____, as distinct from the mind.",
+          "options": ["illness", "body", "treatment", "symptoms"],
+          "correct_answer": "body",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 126,
+          "question": "The idiom 'to be on the mend' means to be ____.",
+          "options": ["getting sicker", "in the hospital", "recovering from an illness", "visiting a doctor"],
+          "correct_answer": "recovering from an illness",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 127,
+          "question": "A 'prophylactic' is a medicine or course of action used to ____ disease.",
+          "options": ["diagnose", "treat", "prevent", "worsen"],
+          "correct_answer": "prevent",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 128,
+          "question": "A doctor who specializes in cancer is an ____.",
+          "options": ["Oncologist", "Immunologist", "Hematologist", "Radiologist"],
+          "correct_answer": "Oncologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 129,
+          "question": "A 'contraindication' is a condition which makes a particular treatment ____.",
+          "options": ["necessary", "advisable", "inadvisable", "urgent"],
+          "correct_answer": "inadvisable",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 130,
+          "question": "The process of stopping a prescribed medication by gradually reducing the dose is called ____.",
+          "options": ["Abstinence", "Tapering", "Relapse", "Withdrawal"],
+          "correct_answer": "Tapering",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 131,
+          "question": "What is a 'differential diagnosis'?",
+          "options": ["The final, confirmed diagnosis.", "A diagnosis of a very different illness.", "The process of differentiating between two or more conditions which share similar signs.", "A diagnosis made by two different doctors."],
+          "correct_answer": "The process of differentiating between two or more conditions which share similar signs.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 132,
+          "question": "The term 'morbidity' refers to ____.",
+          "options": ["the state of being healthy", "the state of having a disease", "the death rate", "the rate of recovery"],
+          "correct_answer": "the state of having a disease",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 133,
+          "question": "A 'holistic' approach to medicine treats the ____.",
+          "options": ["symptom only", "specific body part only", "whole person, including mind and body", "disease only"],
+          "correct_answer": "whole person, including mind and body",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 134,
+          "question": "A medicine taken to counteract a particular poison is an ____.",
+          "options": ["Antibiotic", "Antidote", "Antiseptic", "Antacid"],
+          "correct_answer": "Antidote",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 135,
+          "question": "An 'exacerbation' of a chronic illness is when it ____.",
+          "options": ["gets better", "becomes more severe", "is cured", "disappears"],
+          "correct_answer": "becomes more severe",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 136,
+          "question": "What does it mean to 'resuscitate' a patient?",
+          "options": ["To give them medicine", "To perform surgery", "To revive them from unconsciousness or apparent death", "To discharge them from the hospital"],
+          "correct_answer": "To revive them from unconsciousness or apparent death",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 137,
+          "question": "A doctor who specializes in hormones and glands is an ____.",
+          "options": ["Immunologist", "Endocrinologist", "Rheumatologist", "Hematologist"],
+          "correct_answer": "Endocrinologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 138,
+          "question": "The term 'congenital' means a condition is present ____.",
+          "options": ["from birth", "in old age", "after an accident", "due to infection"],
+          "correct_answer": "from birth",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 139,
+          "question": "A 'syndrome' is a group of ____ that consistently occur together.",
+          "options": ["diseases", "medicines", "doctors", "symptoms"],
+          "correct_answer": "symptoms",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 140,
+          "question": "What is 'informed consent' in a medical context?",
+          "options": ["Permission given by a patient after understanding the facts and risks of a procedure.", "Permission given by a doctor to a patient.", "A doctor's final diagnosis.", "The list of side effects of a medicine."],
+          "correct_answer": "Permission given by a patient after understanding the facts and risks of a procedure.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 141,
+          "question": "A disease that is widespread over a whole country or the world is a ____.",
+          "options": ["outbreak", "epidemic", "pandemic", "local infection"],
+          "correct_answer": "pandemic",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 142,
+          "question": "A 'benign' tumor is one that is ____.",
+          "options": ["cancerous", "not cancerous", "growing very fast", "very painful"],
+          "correct_answer": "not cancerous",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 143,
+          "question": "The Hippocratic Oath is an oath of ____ historically taken by physicians.",
+          "options": ["secrecy", "ethics", "payment", "power"],
+          "correct_answer": "ethics",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 144,
+          "question": "A 'pathogen' is a microorganism that can ____.",
+          "options": ["cause disease", "cure disease", "prevent disease", "diagnose disease"],
+          "correct_answer": "cause disease",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 145,
+          "question": "The term 'remission' in a chronic illness means:",
+          "options": ["The illness is getting worse.", "A temporary recovery where symptoms disappear.", "The illness has been permanently cured.", "The illness is spreading."],
+          "correct_answer": "A temporary recovery where symptoms disappear.",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 146,
+          "question": "What is 'malpractice' in a medical context?",
+          "options": ["A successful surgery", "A routine check-up", "Improper or negligent treatment by a doctor", "A correct diagnosis"],
+          "correct_answer": "Improper or negligent treatment by a doctor",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 147,
+          "question": "A 'psychosomatic' illness is one where physical symptoms are caused or worsened by ____.",
+          "options": ["an infection", "an injury", "mental factors like stress", "a poor diet"],
+          "correct_answer": "mental factors like stress",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 148,
+          "question": "A 'placebo effect' is a beneficial effect produced by a patient's ____ in a treatment.",
+          "options": ["disbelief", "belief", "fear", "knowledge"],
+          "correct_answer": "belief",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 149,
+          "question": "A doctor who specializes in joints, muscles, and bones is a ____.",
+          "options": ["Dermatologist", "Rheumatologist", "Neurologist", "Cardiologist"],
+          "correct_answer": "Rheumatologist",
+          "grammar_type": "Visiting a Doctor"
+        },
+        {
+          "id": 150,
+          "question": "The term 'etiology' refers to the ____ of a disease.",
+          "options": ["symptoms", "treatment", "cause or origin", "prognosis"],
+          "correct_answer": "cause or origin",
+          "grammar_type": "Visiting a Doctor"
+        }
+      ]
+    }
+  ]
+}
+

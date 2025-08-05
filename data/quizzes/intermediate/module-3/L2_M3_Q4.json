@@ -1,0 +1,1071 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main purpose of a news headline?",
+          "options": ["To tell the full story", "To confuse the reader", "To give a short summary of the news", "To show a big picture"],
+          "correct_answer": "To give a short summary of the news",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 2,
+          "question": "Headline: 'Local School Wins Football Championship.' What is this headline about?",
+          "options": ["A new school being built", "A school winning a sports event", "A school closing down", "A school festival"],
+          "correct_answer": "A school winning a sports event",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 3,
+          "question": "Where do you usually find a headline?",
+          "options": ["At the end of a news story", "In the middle of a news story", "At the very top of a news story", "On the last page of the newspaper"],
+          "correct_answer": "At the very top of a news story",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 4,
+          "question": "A good headline should be...",
+          "options": ["Long and difficult", "Short and catchy", "Vague and unclear", "Full of small details"],
+          "correct_answer": "Short and catchy",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 5,
+          "question": "Headline: 'Heavy Rain Causes Floods in Village.' What caused the floods?",
+          "options": ["A storm", "An earthquake", "Heavy rain", "A broken dam"],
+          "correct_answer": "Heavy rain",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 6,
+          "question": "In headlines, what does 'PM' usually stand for?",
+          "options": ["Post Master", "Primary Member", "Prime Minister", "Police Man"],
+          "correct_answer": "Prime Minister",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 7,
+          "question": "Headline: 'Temperatures to Rise Next Week.' This headline is a...",
+          "options": ["Weather forecast", "Sports news", "Movie review", "Political report"],
+          "correct_answer": "Weather forecast",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 8,
+          "question": "What does the word 'wins' in a headline like 'India Wins Cricket Match' mean?",
+          "options": ["Lost", "Was victorious", "Drew the match", "Did not play"],
+          "correct_answer": "Was victorious",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 9,
+          "question": "Headline: 'New Bridge Opens for Public.' What does this mean?",
+          "options": ["A new bridge is being planned.", "A new bridge has been built and people can now use it.", "An old bridge is broken.", "A bridge is closed for repairs."],
+          "correct_answer": "A new bridge has been built and people can now use it.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 10,
+          "question": "Why do headlines often use simple and present tense verbs?",
+          "options": ["To make the news seem more immediate and exciting.", "To make the news sound old.", "Because it's a strict grammar rule.", "To confuse the reader."],
+          "correct_answer": "To make the news seem more immediate and exciting.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 11,
+          "question": "Headline: 'Thief Caught by Police.' Who caught the thief?",
+          "options": ["The villagers", "A superhero", "The police", "Nobody"],
+          "correct_answer": "The police",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 12,
+          "question": "What does 'fire' in a headline usually refer to?",
+          "options": ["A person getting fired from a job", "An uncontrolled burning that destroys something", "Firing a gun", "A camp fire"],
+          "correct_answer": "An uncontrolled burning that destroys something",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 13,
+          "question": "Headline: 'Exams Postponed Due to Heatwave.' Why were the exams postponed?",
+          "options": ["Because of rain", "Because of very hot weather", "Because of a holiday", "Because the school was closed"],
+          "correct_answer": "Because of very hot weather",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 14,
+          "question": "A headline's main job is to grab the reader's...",
+          "options": ["Money", "Food", "Time", "Attention"],
+          "correct_answer": "Attention",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 15,
+          "question": "Headline: 'Village Celebrates Annual Festival.' What is the mood of this headline?",
+          "options": ["Sad", "Angry", "Happy", "Scary"],
+          "correct_answer": "Happy",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 16,
+          "question": "In headlines, small words like 'a', 'an', 'the' are often...",
+          "options": ["Written in bold", "Left out to save space", "The most important part", "Repeated many times"],
+          "correct_answer": "Left out to save space",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 17,
+          "question": "Headline: 'Famous Actor Visits City.' Who visited the city?",
+          "options": ["A politician", "A well-known actor", "A doctor", "A teacher"],
+          "correct_answer": "A well-known actor",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 18,
+          "question": "What does 'Govt' in a headline usually mean?",
+          "options": ["Governing", "Governor", "Government", "Good"],
+          "correct_answer": "Government",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 19,
+          "question": "Headline: 'Prices of Vegetables Go Up.' What does this headline tell us?",
+          "options": ["Vegetables are now cheaper.", "Vegetables are now more expensive.", "Vegetables are not available.", "Vegetables are fresher."],
+          "correct_answer": "Vegetables are now more expensive.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 20,
+          "question": "The text size of a headline is usually ___ than the rest of the news story.",
+          "options": ["Smaller", "The same size", "Lighter", "Larger and bolder"],
+          "correct_answer": "Larger and bolder",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 21,
+          "question": "Headline: 'New Hospital to Help Thousands.' This headline is about...",
+          "options": ["A new school", "A new medical facility", "A new market", "A new park"],
+          "correct_answer": "A new medical facility",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 22,
+          "question": "The word 'clash' in a headline like 'Two Groups Clash' means they had a...",
+          "options": ["Party", "Meeting", "Fight or conflict", "Competition"],
+          "correct_answer": "Fight or conflict",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 23,
+          "question": "Headline: 'Scientists Discover New Planet.' This news is related to...",
+          "options": ["Sports", "Politics", "Science and space", "Movies"],
+          "correct_answer": "Science and space",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 24,
+          "question": "A headline should be based on...",
+          "options": ["Rumors", "Imagination", "Facts", "Jokes"],
+          "correct_answer": "Facts",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 25,
+          "question": "Headline: 'Road Closed for Repairs.' What does this mean for travelers?",
+          "options": ["They can use the road.", "They need to find another way.", "The road is open for everyone.", "The road has been repaired."],
+          "correct_answer": "They need to find another way.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 26,
+          "question": "What does a question mark in a headline like 'Is the new policy effective?' suggest?",
+          "options": ["The news is a definite fact.", "The news is a command.", "The news article will explore a question or uncertainty.", "The headline has a mistake."],
+          "correct_answer": "The news article will explore a question or uncertainty.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 27,
+          "question": "Headline: 'Lion Escapes From Zoo.' This headline is a...",
+          "options": ["Celebration", "Warning", "Sports report", "Weather forecast"],
+          "correct_answer": "Warning",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 28,
+          "question": "The word 'launch' in a headline 'ISRO to Launch New Satellite' means...",
+          "options": ["To cancel", "To study", "To send into space", "To repair"],
+          "correct_answer": "To send into space",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 29,
+          "question": "What is the '5 Ws' that a good news story (and often the headline) tries to answer?",
+          "options": ["Why, When, Where, What, Will", "Who, What, When, Where, Why", "Which, Who, What, Where, Will", "When, What, Who, Wish, Why"],
+          "correct_answer": "Who, What, When, Where, Why",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 30,
+          "question": "Headline: 'Power Cut in City Today.' This news affects people's...",
+          "options": ["Water supply", "Gas supply", "Electricity supply", "Food supply"],
+          "correct_answer": "Electricity supply",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 31,
+          "question": "The word 'protest' in a headline means citizens are...",
+          "options": ["Celebrating something", "Showing strong disagreement with something", "Having a party", "Watching a movie"],
+          "correct_answer": "Showing strong disagreement with something",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 32,
+          "question": "Headline: 'New Train Service Connects Two Towns.' This news is about...",
+          "options": ["Aviation", "Shipping", "Transportation", "Farming"],
+          "correct_answer": "Transportation",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 33,
+          "question": "A headline should be objective. What does 'objective' mean?",
+          "options": ["Based on personal feelings", "Based on facts, without bias", "Based on jokes", "Based on one person's opinion"],
+          "correct_answer": "Based on facts, without bias",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 34,
+          "question": "Headline: 'Farmers Expect Good Harvest.' This means the farmers think they will have...",
+          "options": ["Very few crops", "A large and healthy crop yield", "Damaged crops", "No crops at all"],
+          "correct_answer": "A large and healthy crop yield",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 35,
+          "question": "What is the purpose of using strong verbs in headlines?",
+          "options": ["To make the headline weak", "To create a vivid picture and make it more interesting", "To confuse the reader", "To make the headline longer"],
+          "correct_answer": "To create a vivid picture and make it more interesting",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 36,
+          "question": "Headline: 'Pollution Levels Rise in City.' This is a concern for...",
+          "options": ["The economy", "Sports", "Public health and the environment", "Entertainment"],
+          "correct_answer": "Public health and the environment",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 37,
+          "question": "The word 'quake' is often used in headlines as a short word for...",
+          "options": ["A question", "An earthquake", "A quick snack", "A type of bird"],
+          "correct_answer": "An earthquake",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 38,
+          "question": "Headline: 'Local Artist Wins National Award.' This news is meant to make the local community feel...",
+          "options": ["Sad", "Angry", "Proud", "Jealous"],
+          "correct_answer": "Proud",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 39,
+          "question": "Why are numbers often written as digits (e.g., '5') instead of words ('five') in headlines?",
+          "options": ["To make it harder to read", "Because digits are prettier", "To save space and catch the eye", "Because words are not allowed"],
+          "correct_answer": "To save space and catch the eye",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 40,
+          "question": "Headline: 'New Water Purification Plant to Open.' This facility will help to...",
+          "options": ["Make water dirty", "Clean the drinking water", "Generate electricity", "Store garbage"],
+          "correct_answer": "Clean the drinking water",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 41,
+          "question": "The word 'meet' in a headline like 'PM to Meet World Leaders' means...",
+          "options": ["To fight with", "To have a formal discussion with", "To ignore", "To send a letter to"],
+          "correct_answer": "To have a formal discussion with",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 42,
+          "question": "Headline: 'Record Number of Tourists Visit Taj Mahal.' What does 'record number' mean?",
+          "options": ["A small number", "The same number as last year", "The highest number ever recorded", "No tourists visited"],
+          "correct_answer": "The highest number ever recorded",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 43,
+          "question": "Which of these headlines is about a positive economic event?",
+          "options": ["'Inflation Rises Sharply'", "'Unemployment Figures Grow'", "'Local Company Announces 500 New Jobs'", "'Stock Market Crashes'"],
+          "correct_answer": "'Local Company Announces 500 New Jobs'",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 44,
+          "question": "The main idea of a headline is also called the...",
+          "options": ["Gist", "Jest", "List", "Mist"],
+          "correct_answer": "Gist",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 45,
+          "question": "Headline: 'Police Warn of New Online Scam.' What are the police doing?",
+          "options": ["Promoting the scam", "Alerting people about a new type of online fraud", "Ignoring the scam", "Creating the scam"],
+          "correct_answer": "Alerting people about a new type of online fraud",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 46,
+          "question": "The word 'aid' in a headline like 'India Sends Aid to Nepal' means...",
+          "options": ["Problems", "Tourists", "Help or assistance", "Soldiers"],
+          "correct_answer": "Help or assistance",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 47,
+          "question": "A headline should make you want to...",
+          "options": ["Close the newspaper", "Read the rest of the story", "Forget the news", "Sleep"],
+          "correct_answer": "Read the rest of the story",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 48,
+          "question": "Headline: 'Old Village Temple to be Restored.' What will happen to the temple?",
+          "options": ["It will be demolished.", "It will be repaired and brought back to its original condition.", "It will be sold.", "It will be closed forever."],
+          "correct_answer": "It will be repaired and brought back to its original condition.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 49,
+          "question": "What is the primary information you get from the headline 'Two Dead in Car Accident'?",
+          "options": ["The color of the car", "The brand of the car", "The unfortunate outcome of the accident", "The time of the accident"],
+          "correct_answer": "The unfortunate outcome of the accident",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 50,
+          "question": "The information in a news headline should be...",
+          "options": ["Outdated", "Current and relevant", "Fictional", "Personal"],
+          "correct_answer": "Current and relevant",
+          "grammar_type": "News Headlines"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Headline: 'Govt to Probe Land Deal.' What does the word 'probe' mean in this context?",
+          "options": ["To buy", "To sell", "To investigate", "To ignore"],
+          "correct_answer": "To investigate",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 52,
+          "question": "Headline: 'Petrol Prices Hiked for Third Time.' The word 'hiked' means the prices have...",
+          "options": ["Decreased", "Increased", "Stayed the same", "Become zero"],
+          "correct_answer": "Increased",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 53,
+          "question": "Headline: 'Opposition Slams New Policy.' The word 'slams' indicates...",
+          "options": ["Strong approval", "Strong criticism", "A quiet discussion", "Indifference"],
+          "correct_answer": "Strong criticism",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 54,
+          "question": "What is the purpose of using a colon (:) in a headline like 'Cyclone Warning: Coastal Villages on High Alert'?",
+          "options": ["To end the sentence", "To introduce a quote or an explanation", "To show a question", "It is a mistake"],
+          "correct_answer": "To introduce a quote or an explanation",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 55,
+          "question": "Headline: 'Talks Between Nations Fail.' What is the likely outcome?",
+          "options": ["An agreement was reached.", "A problem between the nations remains unsolved.", "The nations will meet again tomorrow.", "The nations have become best friends."],
+          "correct_answer": "A problem between the nations remains unsolved.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 6,
+          "question": "The word 'bid' in a headline like 'Company Makes Bid for Rival' means...",
+          "options": ["An attack", "A journey", "An offer to buy", "A promise"],
+          "correct_answer": "An offer to buy",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 57,
+          "question": "Headline: 'Water Scarcity Hits Rural Areas.' What does 'scarcity' mean?",
+          "options": ["An abundance or surplus", "A shortage or lack of something", "A high price", "A cleaning process"],
+          "correct_answer": "A shortage or lack of something",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 58,
+          "question": "Why do headlines sometimes use abbreviations like 'Maha' for Maharashtra or 'UP' for Uttar Pradesh?",
+          "options": ["To make it harder for people from other states to read", "To confuse the reader", "To save space", "Because the full names are banned"],
+          "correct_answer": "To save space",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 59,
+          "question": "Headline: 'New Law to Curb Pollution.' The word 'curb' means to...",
+          "options": ["Increase", "Measure", "Control or limit", "Ignore"],
+          "correct_answer": "Control or limit",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 60,
+          "question": "What kind of tone does the headline 'City Gripped by Fear After Robberies' suggest?",
+          "options": ["Joyful", "Humorous", "Anxious and tense", "Calm"],
+          "correct_answer": "Anxious and tense",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 61,
+          "question": "Headline: 'Scientists on Brink of Major Breakthrough.' The phrase 'on the brink of' means...",
+          "options": ["Far away from", "Very close to achieving", "They have already failed", "They have given up"],
+          "correct_answer": "Very close to achieving",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 62,
+          "question": "What does 'veto' mean in a headline like 'President to Veto Bill'?",
+          "options": ["To approve", "To reject", "To rewrite", "To study"],
+          "correct_answer": "To reject",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 63,
+          "question": "Headline: 'Peace Talks in Jeopardy.' The word 'jeopardy' means...",
+          "options": ["Success", "Progress", "Danger or risk", "A safe place"],
+          "correct_answer": "Danger or risk",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 64,
+          "question": "The use of a quote in a headline, like '\"We Will Not Back Down,\" Say Protesters', aims to...",
+          "options": ["Make the story less believable", "Add a direct, human voice and show a strong stance", "Hide the main point of the story", "Show that the reporter is biased"],
+          "correct_answer": "Add a direct, human voice and show a strong stance",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 65,
+          "question": "Headline: 'Economic Slowdown Looms.' The word 'looms' suggests that the slowdown is...",
+          "options": ["A welcome event", "An approaching and threatening event", "A past event", "A minor event"],
+          "correct_answer": "An approaching and threatening event",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 66,
+          "question": "The word 'axe' in '500 Jobs Axed at Factory' is a more dramatic way of saying the jobs were...",
+          "options": ["Created", "Saved", "Cut or eliminated", "Changed"],
+          "correct_answer": "Cut or eliminated",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 67,
+          "question": "Headline: 'Key Witness in Case Goes Missing.' Why is this significant?",
+          "options": ["It is not significant.", "It could weaken the case and affect the outcome of a trial.", "It means the case is solved.", "It means the witness is on holiday."],
+          "correct_answer": "It could weaken the case and affect the outcome of a trial.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 68,
+          "question": "A 'bailout' in a financial headline refers to...",
+          "options": ["A company going to jail", "A company giving money to the government", "Financial assistance given to a failing company to save it", "A company shutting down"],
+          "correct_answer": "Financial assistance given to a failing company to save it",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 69,
+          "question": "Headline: 'Minister Rules Out Tax Hike.' What does 'rules out' mean?",
+          "options": ["To introduce", "To promise", "To exclude or say something will not happen", "To consider"],
+          "correct_answer": "To exclude or say something will not happen",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 70,
+          "question": "What is the difference between 'Cold Wave Grips North India' and 'It is cold in North India'?",
+          "options": ["There is no difference.", "The headline uses more vivid and dramatic language.", "The second sentence is more dramatic.", "The headline is less clear."],
+          "correct_answer": "The headline uses more vivid and dramatic language.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 71,
+          "question": "Headline: 'India, China to Hold Talks Amid Border Tension.' The phrase 'amid border tension' provides what?",
+          "options": ["A solution", "The names of the leaders", "The context or background for the talks", "The weather report"],
+          "correct_answer": "The context or background for the talks",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 72,
+          "question": "The word 'toll' in 'Death Toll Rises to 50' refers to...",
+          "options": ["A road tax", "A type of bell", "The total number of deaths", "The number of people injured"],
+          "correct_answer": "The total number of deaths",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 73,
+          "question": "Headline: 'Experts Urge Caution Over New Virus.' The word 'urge' means they are...",
+          "options": ["Strongly advising", "Ignoring", "Forbidding", "Celebrating"],
+          "correct_answer": "Strongly advising",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 74,
+          "question": "What can you infer from the headline 'City's Green Cover Shrinks'?",
+          "options": ["The city is becoming more colorful.", "The area of parks and trees in the city is decreasing.", "The city is getting more parks.", "The city is painting buildings green."],
+          "correct_answer": "The area of parks and trees in the city is decreasing.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 75,
+          "question": "Headline: 'Deadlock Continues in Parliament.' A 'deadlock' is a situation where...",
+          "options": ["A new law is passed easily.", "No progress can be made because of disagreement.", "Everyone agrees.", "The parliament is on holiday."],
+          "correct_answer": "No progress can be made because of disagreement.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 76,
+          "question": "What does 'ink a deal' mean in a headline?",
+          "options": ["To spill ink on a document", "To formally sign an agreement", "To cancel a deal", "To think about a deal"],
+          "correct_answer": "To formally sign an agreement",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 77,
+          "question": "Headline: 'Farmers' Protest Enters 10th Day.' What does this headline emphasize?",
+          "options": ["The reason for the protest", "The location of the protest", "The duration and ongoing nature of the protest", "The end of the protest"],
+          "correct_answer": "The duration and ongoing nature of the protest",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 78,
+          "question": "The word 'boost' in 'New Policy to Boost Tourism' means to...",
+          "options": ["Discourage", "Help improve or increase", "Stop", "Tax"],
+          "correct_answer": "Help improve or increase",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 79,
+          "question": "Headline: 'Police Foil Robbery Attempt.' To 'foil' a plan means to...",
+          "options": ["Help it succeed", "Prevent it from succeeding", "Plan it carefully", "Announce it"],
+          "correct_answer": "Prevent it from succeeding",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 80,
+          "question": "What is the implied meaning of 'facing flak' in 'Minister Facing Flak over Comments'?",
+          "options": ["Receiving praise", "Receiving strong criticism", "Receiving an award", "Receiving support"],
+          "correct_answer": "Receiving strong criticism",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 81,
+          "question": "Headline: 'Landmark Ruling by Supreme Court.' A 'landmark ruling' is one that is...",
+          "options": ["Unimportant", "Secret", "Very important and sets a new precedent", "Temporary"],
+          "correct_answer": "Very important and sets a new precedent",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 82,
+          "question": "The word 'vow' in 'PM Vows to End Poverty' is a more formal word for...",
+          "options": ["A wish", "A suggestion", "A serious promise", "A guess"],
+          "correct_answer": "A serious promise",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 83,
+          "question": "Headline: 'Refugee Crisis Worsens.' What does this indicate about the situation?",
+          "options": ["It is improving.", "It is becoming more difficult and serious.", "It is stable.", "It has been solved."],
+          "correct_answer": "It is becoming more difficult and serious.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 84,
+          "question": "Why might a headline use a word like 'may' as in 'New Metro Line May Open Next Month'?",
+          "options": ["To show the opening is 100% certain.", "To indicate there is a possibility but it is not yet confirmed.", "To show the line is already open.", "To confuse the public."],
+          "correct_answer": "To indicate there is a possibility but it is not yet confirmed.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 85,
+          "question": "Headline: 'Veteran Actor Passes Away.' 'Passes away' is a softer, more respectful way of saying someone has...",
+          "options": ["Retired", "Gone on a holiday", "Died", "Won an award"],
+          "correct_answer": "Died",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 86,
+          "question": "What does 'on the cards' mean in 'Tax Cut on the Cards'?",
+          "options": ["It is impossible.", "It has been rejected.", "It is likely or possible to happen.", "It is a secret."],
+          "correct_answer": "It is likely or possible to happen.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 87,
+          "question": "Headline: 'Militants Held in Army Operation.' The word 'held' here is a synonym for...",
+          "options": ["Released", "Praised", "Captured", "Helped"],
+          "correct_answer": "Captured",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 88,
+          "question": "What is the primary difference between the headline 'Man Bites Dog' and 'Dog Bites Man'?",
+          "options": ["There is no difference.", "'Man Bites Dog' is more newsworthy because it is unusual.", "'Dog Bites Man' is more newsworthy.", "Both are equally boring."],
+          "correct_answer": "'Man Bites Dog' is more newsworthy because it is unusual.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 89,
+          "question": "Headline: 'City Reels Under Water Crisis.' The word 'reels' suggests the city is...",
+          "options": ["Enjoying the crisis", "Ignoring the crisis", "Struggling to cope and is in a state of shock or confusion", "Solving the crisis easily"],
+          "correct_answer": "Struggling to cope and is in a state of shock or confusion",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 90,
+          "question": "The term 'backlash' in a headline refers to...",
+          "options": ["A positive reaction", "A strong negative reaction from a large number of people", "A quiet response", "No reaction at all"],
+          "correct_answer": "A strong negative reaction from a large number of people",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 91,
+          "question": "Headline: 'Scientists Debunk Common Myth.' To 'debunk' a myth means to...",
+          "options": ["Prove it is true", "Expose it as false", "Promote it", "Create a new myth"],
+          "correct_answer": "Expose it as false",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 92,
+          "question": "What does a 'split' in a political party headline suggest?",
+          "options": ["The party is more united than ever.", "The party has divided into two or more groups due to disagreement.", "The party is having a celebration.", "The party has won an election."],
+          "correct_answer": "The party has divided into two or more groups due to disagreement.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 93,
+          "question": "Headline: 'New Vaccine Shows Promising Results.' What does 'promising' imply?",
+          "options": ["The results are bad.", "The early results are good and suggest future success.", "The vaccine is ready for public use.", "The vaccine has failed."],
+          "correct_answer": "The early results are good and suggest future success.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 94,
+          "question": "What does 'to eye' mean in 'India Eyes Gold at Olympics'?",
+          "options": ["To look at", "To ignore", "To aim for or desire to win", "To sell"],
+          "correct_answer": "To aim for or desire to win",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 95,
+          "question": "Headline: 'Breakthrough in Cancer Research Offers Hope.' A 'breakthrough' is...",
+          "options": ["A minor setback", "An important new discovery", "A common event", "A failure"],
+          "correct_answer": "An important new discovery",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 96,
+          "question": "The phrase 'under scanner' means a person or institution is being...",
+          "options": ["Praised", "Photographed", "Ignored", "Closely examined or investigated"],
+          "correct_answer": "Closely examined or investigated",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 97,
+          "question": "What does the word 'nods' mean in 'Panel Nods to New Highway Project'?",
+          "options": ["Falls asleep", "Rejects", "Gives approval", "Shakes its head"],
+          "correct_answer": "Gives approval",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 98,
+          "question": "Headline: 'Tensions Flare Up at Border.' 'Flare up' suggests that tensions have...",
+          "options": ["Calmed down", "Suddenly become worse or more violent", "Disappeared", "Been resolved"],
+          "correct_answer": "Suddenly become worse or more violent",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 99,
+          "question": "What does 'mull' mean in 'Govt Mulls New Law'?",
+          "options": ["To reject immediately", "To pass quickly", "To think about deeply; to consider", "To announce"],
+          "correct_answer": "To think about deeply; to consider",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 100,
+          "question": "Headline: 'Relief Efforts Hampered by Bad Weather.' 'Hampered' means the efforts were...",
+          "options": ["Helped", "Started", "Hindered or made difficult", "Completed"],
+          "correct_answer": "Hindered or made difficult",
+          "grammar_type": "News Headlines"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "A headline reads: 'Opposition Cries Foul over Election Results.' What does 'cries foul' imply?",
+          "options": ["The opposition is happy with the results.", "The opposition is crying literally.", "The opposition is claiming that something unfair or dishonest has happened.", "The opposition is celebrating the winner."],
+          "correct_answer": "The opposition is claiming that something unfair or dishonest has happened.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 102,
+          "question": "What is 'loaded language' in a headline?",
+          "options": ["Language that is objective and factual.", "Words chosen to evoke a strong emotional response (positive or negative).", "Language that is difficult to understand.", "Language with no verbs."],
+          "correct_answer": "Words chosen to evoke a strong emotional response (positive or negative).",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 103,
+          "question": "Headline: 'Stock Market on a Rollercoaster Ride.' This headline uses a metaphor to suggest the market is...",
+          "options": ["Stable and predictable", "Experiencing rapid and dramatic ups and downs", "Closed for a holiday", "Only going up"],
+          "correct_answer": "Experiencing rapid and dramatic ups and downs",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 104,
+          "question": "What is the difference in connotation between 'Terrorist Killed' and 'Militant Neutralized'?",
+          "options": ["There is no difference.", "'Neutralized' is a more clinical, military term, while 'killed' is more direct; the choice can reflect the publication's stance.", "'Killed' is a softer term.", "'Neutralized' implies the person was not a threat."],
+          "correct_answer": "'Neutralized' is a more clinical, military term, while 'killed' is more direct; the choice can reflect the publication's stance.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 105,
+          "question": "Headline: 'Government's Ambitious Plan Hits a Roadblock.' The word 'roadblock' is a metaphor for...",
+          "options": ["A successful outcome", "A physical wall on a road", "A major problem or obstacle that stops progress", "A new plan"],
+          "correct_answer": "A major problem or obstacle that stops progress",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 106,
+          "question": "What is 'bias' in a news headline?",
+          "options": ["Presenting information in a fair and balanced way", "Presenting information in a way that unfairly favors one side", "Using correct grammar", "Making the headline short"],
+          "correct_answer": "Presenting information in a way that unfairly favors one side",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 107,
+          "question": "Headline: 'A Bitter Pill for Taxpayers as Rates Increase.' The phrase 'a bitter pill' suggests the tax increase is...",
+          "options": ["Something pleasant and easy to accept", "Something that will make people healthier", "Something unpleasant that must be accepted", "A type of medicine"],
+          "correct_answer": "Something unpleasant that must be accepted",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 108,
+          "question": "Why might a newspaper choose the headline 'Inquiry Launched' over 'Police Start Investigation'?",
+          "options": ["'Inquiry Launched' sounds more formal and can be used for investigations by bodies other than the police.", "'Police Start Investigation' is more formal.", "They mean the same thing and the choice is random.", "'Inquiry Launched' is less clear."],
+          "correct_answer": "'Inquiry Launched' sounds more formal and can be used for investigations by bodies other than the police.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 109,
+          "question": "Headline: 'Political Heavyweights Trade Barbs.' The phrase 'trade barbs' means they are...",
+          "options": ["Exchanging gifts", "Having a polite conversation", "Exchanging sharp, critical remarks", "Making a business deal"],
+          "correct_answer": "Exchanging sharp, critical remarks",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 110,
+          "question": "The use of a pun in a headline like 'Supermarket Checkout a Great Success' is primarily to...",
+          "options": ["Be serious and formal", "Grab attention through clever wordplay", "Provide factual details", "Confuse the reader"],
+          "correct_answer": "Grab attention through clever wordplay",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 111,
+          "question": "Headline: 'New Policy Gets Green Light.' What does 'green light' symbolize?",
+          "options": ["A delay", "A traffic signal", "Approval or permission to proceed", "A rejection"],
+          "correct_answer": "Approval or permission to proceed",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 112,
+          "question": "What is a 'dog-whistle' in a political headline?",
+          "options": ["A whistle to call a dog.", "A coded message that is understood by a particular group of people but not by the general population.", "A very loud and clear message for everyone.", "A type of musical instrument."],
+          "correct_answer": "A coded message that is understood by a particular group of people but not by the general population.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 113,
+          "question": "Headline: 'Uproar in Parliament over Minister's Remarks.' The word 'uproar' indicates...",
+          "options": ["A quiet session", "A state of calm agreement", "A loud and angry protest or disturbance", "A unanimous vote"],
+          "correct_answer": "A loud and angry protest or disturbance",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 114,
+          "question": "How can the omission of context in a headline create a misleading impression?",
+          "options": ["It cannot create a misleading impression.", "By presenting a quote or fact without the surrounding details that might change its meaning.", "By making the headline too long.", "By providing all the necessary background."],
+          "correct_answer": "By presenting a quote or fact without the surrounding details that might change its meaning.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 115,
+          "question": "Headline: 'Company's Fortunes Take a Nosedive.' The word 'nosedive' is a strong metaphor for...",
+          "options": ["A gradual improvement", "A sudden and rapid decline", "A period of stability", "A small change"],
+          "correct_answer": "A sudden and rapid decline",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 116,
+          "question": "What is the function of alliteration (repetition of initial sounds) in a headline like 'Storm Slams State'?",
+          "options": ["To make it harder to say", "To make it more memorable and phonetically appealing", "To make it less impactful", "It has no function"],
+          "correct_answer": "To make it more memorable and phonetically appealing",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 117,
+          "question": "Headline: 'Election Down to the Wire.' This idiom suggests the election is...",
+          "options": ["Already decided", "Not important", "Very close and the result is uncertain until the very end", "Going to be cancelled"],
+          "correct_answer": "Very close and the result is uncertain until the very end",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 118,
+          "question": "A headline stating 'Alleged Thief Arrested' uses the word 'alleged' because...",
+          "options": ["The person is definitely guilty.", "The person is a friend of the reporter.", "The person has been accused but not yet proven guilty in a court of law.", "The reporter is unsure of the person's name."],
+          "correct_answer": "The person has been accused but not yet proven guilty in a court of law.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 119,
+          "question": "What is a 'sensationalist' headline?",
+          "options": ["A headline that is calm and objective.", "A headline designed to be shocking and provoke intense curiosity, often at the expense of accuracy.", "A headline that is boring and uninteresting.", "A headline with no verbs."],
+          "correct_answer": "A headline designed to be shocking and provoke intense curiosity, often at the expense of accuracy.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 120,
+          "question": "Headline: 'The Two Faces of the New Policy.' What does this headline imply?",
+          "options": ["The policy is perfect.", "The policy has both positive and negative aspects.", "The policy is about faces.", "The policy was written by two people."],
+          "correct_answer": "The policy has both positive and negative aspects.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 121,
+          "question": "How does the choice between 'Refugees Enter Country' and 'Migrants Flood Country' reveal bias?",
+          "options": ["There is no bias.", "'Flood' has a negative connotation of being an overwhelming and uncontrolled invasion, while 'enter' is more neutral.", "'Enter' is a more negative word.", "'Flood' is a more positive word."],
+          "correct_answer": "'Flood' has a negative connotation of being an overwhelming and uncontrolled invasion, while 'enter' is more neutral.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 122,
+          "question": "Headline: 'Peace Process on a Knife Edge.' This metaphor suggests the process is...",
+          "options": ["Very secure and stable", "In a very precarious and uncertain state", "Moving forward smoothly", "Finished"],
+          "correct_answer": "In a very precarious and uncertain state",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 123,
+          "question": "What does 'rubber-stamp' mean in 'Committee Expected to Rubber-Stamp Decision'?",
+          "options": ["To reject a decision after careful thought", "To approve a decision automatically without much consideration", "To delay a decision", "To use a real rubber stamp"],
+          "correct_answer": "To approve a decision automatically without much consideration",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 124,
+          "question": "A headline that focuses on a single emotional story from a large disaster is using what technique?",
+          "options": ["Providing statistical analysis", "Humanizing the story to make it more relatable and impactful", "Objective reporting", "Ignoring the disaster"],
+          "correct_answer": "Humanizing the story to make it more relatable and impactful",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 125,
+          "question": "Headline: 'Minister's Career Hangs in the Balance.' This idiom means the minister's career...",
+          "options": ["Is very successful", "Has just started", "Is at a critical point where it could be lost or saved", "Is not important"],
+          "correct_answer": "Is at a critical point where it could be lost or saved",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 126,
+          "question": "What is the difference between 'denies' and 'refutes' in a headline?",
+          "options": ["They are identical.", "'Denies' means to state something isn't true, while 'refutes' implies proving something is false with evidence.", "'Denies' is a stronger word.", "'Refutes' is a weaker word."],
+          "correct_answer": "'Denies' means to state something isn't true, while 'refutes' implies proving something is false with evidence.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 127,
+          "question": "Headline: 'A Watershed Moment for the Nation.' A 'watershed moment' is...",
+          "options": ["A time of flooding", "An unimportant event", "A turning point or an event that changes the course of history", "A moment of drought"],
+          "correct_answer": "A turning point or an event that changes the course of history",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 128,
+          "question": "How can a headline be factually correct but still misleading?",
+          "options": ["It is impossible.", "By cherry-picking facts or presenting them out of context to support a particular narrative.", "By having a spelling mistake.", "By being too long."],
+          "correct_answer": "By cherry-picking facts or presenting them out of context to support a particular narrative.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 129,
+          "question": "Headline: 'Protests Erupt Across Country.' The verb 'erupt' is used metaphorically to suggest the protests are...",
+          "options": ["Small and organized", "Happening slowly and calmly", "Sudden, widespread, and violent like a volcano", "Planned for next year"],
+          "correct_answer": "Sudden, widespread, and violent like a volcano",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 130,
+          "question": "What does 'U-turn' mean in a political headline?",
+          "options": ["A type of road turn", "A complete reversal of a previous policy or promise", "Sticking firmly to a policy", "A minor change in policy"],
+          "correct_answer": "A complete reversal of a previous policy or promise",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 131,
+          "question": "Headline: 'The Elephant in the Room: Unemployment Not Addressed in Budget.' This idiom refers to...",
+          "options": ["A real elephant.", "A minor issue that was discussed.", "An obvious, major problem that no one is discussing.", "A secret success."],
+          "correct_answer": "An obvious, major problem that no one is discussing.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 132,
+          "question": "What is the persuasive effect of using a rhetorical question in a headline, like 'Can We Afford to Ignore Climate Change?'",
+          "options": ["It seeks a simple 'yes' or 'no' answer.", "It is meant to make the reader think and implies the answer is obvious.", "It shows the writer is confused.", "It is a factual statement."],
+          "correct_answer": "It is meant to make the reader think and implies the answer is obvious.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 133,
+          "question": "Headline: 'CEO Gets Golden Parachute Amid Company Losses.' A 'golden parachute' is...",
+          "options": ["A type of safety equipment", "A large payment or benefits package given to a top executive if they are forced to leave their job", "A punishment for poor performance", "A bonus given for good performance"],
+          "correct_answer": "A large payment or benefits package given to a top executive if they are forced to leave their job",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 134,
+          "question": "How does the structure of this headline show bias? 'Hardworking Taxpayers to Fund Controversial Art Project.'",
+          "options": ["It is completely objective.", "By using positive language for one group ('Hardworking Taxpayers') and negative for the other ('Controversial Art Project').", "It uses neutral words for both groups.", "It supports the art project."],
+          "correct_answer": "By using positive language for one group ('Hardworking Taxpayers') and negative for the other ('Controversial Art Project').",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 135,
+        
+          "question": "Headline: 'Deal with Devil: Critics Slam New Alliance.' This headline uses a strong metaphor to suggest the alliance is...",
+          "options": ["A very good and moral partnership", "An alliance with a literal devil", "A morally compromising and dangerous partnership", "A weak and unimportant alliance"],
+          "correct_answer": "A morally compromising and dangerous partnership",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 136,
+          "question": "What is the effect of using a number in a headline like '10 Reasons Why the New Plan Will Fail'?",
+          "options": ["It makes the article seem unstructured.", "It promises a clear, organized, and easy-to-read listicle format.", "It guarantees the plan will succeed.", "It is a random number."],
+          "correct_answer": "It promises a clear, organized, and easy-to-read listicle format.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 137,
+          "question": "Headline: 'A Pyrrhic Victory for the Ruling Party.' A 'Pyrrhic victory' is one that...",
+          "options": ["Is very easy and quick", "Comes at such a high cost that it is almost a defeat", "Is a major and celebrated success", "Is achieved without any effort"],
+          "correct_answer": "Comes at such a high cost that it is almost a defeat",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 138,
+          "question": "What is 'framing' in a news headline?",
+          "options": ["Putting a picture frame around the headline", "The way a story is presented, which influences how readers understand and interpret it", "Writing the headline in a box", "Making sure the headline is factually correct"],
+          "correct_answer": "The way a story is presented, which influences how readers understand and interpret it",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 139,
+          "question": "Headline: 'Opposition Left in the Lurch After Leader's Defection.' To be 'left in the lurch' means to be...",
+          "options": ["Put in a powerful position", "Abandoned in a difficult situation", "Given a great opportunity", "Celebrated"],
+          "correct_answer": "Abandoned in a difficult situation",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 140,
+          "question": "How does the headline 'Bureaucratic Red Tape Stalls Project' assign blame without naming an individual?",
+          "options": ["It doesn't assign blame.", "It blames the project manager.", "It uses the abstract concept of 'red tape' (excessive rules and procedures) to criticize the system.", "It blames the construction workers."],
+          "correct_answer": "It uses the abstract concept of 'red tape' (excessive rules and procedures) to criticize the system.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 141,
+          "question": "Headline: 'A Sea Change in Foreign Policy.' The term 'sea change' indicates a...",
+          "options": ["Minor adjustment", "Policy about the ocean", "A profound or notable transformation", "A temporary change"],
+          "correct_answer": "A profound or notable transformation",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 142,
+          "question": "Why would a headline use passive voice, such as 'Mistakes Were Made'?",
+          "options": ["To be more direct and clear.", "To deliberately obscure who is responsible for the mistakes.", "To praise the person who made the mistakes.", "It is a grammatical error."],
+          "correct_answer": "To deliberately obscure who is responsible for the mistakes.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 143,
+          "question": "Headline: 'Trojan Horse: New App Raises Privacy Concerns.' This headline uses a classical allusion to suggest the app...",
+          "options": ["Is a gift with no strings attached", "Appears harmless but contains a hidden danger", "Is related to ancient Greece", "Is very secure"],
+          "correct_answer": "Appears harmless but contains a hidden danger",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 144,
+          "question": "Analyzing a newspaper's headlines over time is a good way to determine its...",
+          "options": ["Number of pages", "Price", "Editorial stance and potential biases", "Printing press location"],
+          "correct_answer": "Editorial stance and potential biases",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 145,
+          "question": "Headline: 'Economy at a Crossroads.' This metaphor implies...",
+          "options": ["The economy is on a long, straight path.", "A time of decision, where the direction the economy takes will have significant consequences.", "The economy is stable and unchanging.", "The economy is doing very well."],
+          "correct_answer": "A time of decision, where the direction the economy takes will have significant consequences.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 146,
+          "question": "What is the effect of using a label like 'Freedom Fighters' versus 'Rebels' in a headline?",
+          "options": ["It has no effect.", "The choice of label frames the group positively or negatively and shows the publication's bias.", "'Rebels' is a more positive term.", "'Freedom Fighters' is a more negative term."],
+          "correct_answer": "The choice of label frames the group positively or negatively and shows the publication's bias.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 147,
+          "question": "Headline: 'Pandora's Box Opened by New Gene-Editing Tech.' The allusion to Pandora's Box suggests the new technology could...",
+          "options": ["Solve all the world's problems", "Be very safe and predictable", "Unleash many unforeseen and widespread problems", "Be easily controlled"],
+          "correct_answer": "Unleash many unforeseen and widespread problems",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 148,
+          "question": "A headline like 'Market Jitters Ahead of Central Bank Meeting' uses personification ('jitters') to...",
+          "options": ["Describe the market as a calm and rational entity", "Convey a sense of nervousness and uncertainty in the market", "Suggest the market is physically shaking", "Report a factual rise in prices"],
+          "correct_answer": "Convey a sense of nervousness and uncertainty in the market",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 149,
+          "question": "What is the primary goal of 'clickbait' headlines?",
+          "options": ["To provide a complete and accurate summary of the article.", "To generate advertising revenue by enticing users to click, often using sensational or misleading language.", "To present news in a calm and objective manner.", "To discourage readers from clicking."],
+          "correct_answer": "To generate advertising revenue by enticing users to click, often using sensational or misleading language.",
+          "grammar_type": "News Headlines"
+        },
+        {
+          "id": 150,
+          "question": "Headline: 'A Litmus Test for the New Government.' A 'litmus test' is a metaphor for...",
+          "options": ["An easy first task", "A final, concluding action", "An event or issue that serves as a decisive test of something, like a policy or a person's character", "A scientific experiment involving paper"],
+          "correct_answer": "An event or issue that serves as a decisive test of something, like a policy or a person's character",
+          "grammar_type": "News Headlines"
+        }
+      ]
+    }
+  ]
+}
+

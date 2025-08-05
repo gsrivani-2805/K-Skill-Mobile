@@ -1,0 +1,1071 @@
+
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "A pronoun is a word that replaces a ____.",
+          "options": ["verb", "noun", "adjective", "preposition"],
+          "correct_answer": "noun",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 2,
+          "question": "Which word is a pronoun in the sentence: 'She is a good student.'?",
+          "options": ["good", "student", "is", "She"],
+          "correct_answer": "She",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 3,
+          "question": "Choose the correct pronoun: ____ am going to school.",
+          "options": ["He", "She", "I", "It"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 4,
+          "question": "Ravi is a good boy. ____ respects his elders.",
+          "options": ["She", "He", "They", "We"],
+          "correct_answer": "He",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 5,
+          "question": "The teacher gave the book to ____.",
+          "options": ["I", "he", "me", "she"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 6,
+          "question": "Which pronoun would you use for 'the students'?",
+          "options": ["He", "She", "It", "They"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 7,
+          "question": "The dog is sleeping. ____ is tired.",
+          "options": ["It", "She", "He", "They"],
+          "correct_answer": "It",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 8,
+          "question": "My friends and I are playing. ____ are having fun.",
+          "options": ["You", "They", "We", "He"],
+          "correct_answer": "We",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 9,
+          "question": "Please give the pen to ____.",
+          "options": ["he", "she", "him", "they"],
+          "correct_answer": "him",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 10,
+          "question": "Sita is my sister. I love ____ very much.",
+          "options": ["her", "she", "him", "he"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 11,
+          "question": "Identify the pronoun: 'We saw them at the park.'",
+          "options": ["saw", "park", "We", "at"],
+          "correct_answer": "We",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 12,
+          "question": "Choose the correct pronoun: ____ are my best friend.",
+          "options": ["He", "She", "They", "You"],
+          "correct_answer": "You",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 13,
+          "question": "The children are playing outside. The teacher is watching ____.",
+          "options": ["they", "them", "we", "us"],
+          "correct_answer": "them",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 14,
+          "question": "My father is a doctor. ____ works in a hospital.",
+          "options": ["He", "Him", "She", "Her"],
+          "correct_answer": "He",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 15,
+          "question": "This is a new car. ____ is red.",
+          "options": ["She", "He", "It", "They"],
+          "correct_answer": "It",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 16,
+          "question": "My family and I live here. This is our house. ____ live here.",
+          "options": ["They", "You", "We", "It"],
+          "correct_answer": "We",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 17,
+          "question": "The cat drank the milk. ____ was thirsty.",
+          "options": ["He", "She", "They", "It"],
+          "correct_answer": "It",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 18,
+          "question": "My mother is cooking. ____ is in the kitchen.",
+          "options": ["He", "She", "It", "They"],
+          "correct_answer": "She",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 19,
+          "question": "The boys are shouting. Can you ask ____ to be quiet?",
+          "options": ["they", "them", "he", "him"],
+          "correct_answer": "them",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 20,
+          "question": "I have a brother. ____ is older than me.",
+          "options": ["He", "Him", "She", "Her"],
+          "correct_answer": "He",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 21,
+          "question": "This is for ____. Please take it.",
+          "options": ["I", "we", "you", "he"],
+          "correct_answer": "you",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 22,
+          "question": "I can see you. Can you see ____?",
+          "options": ["I", "me", "my", "mine"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 23,
+          "question": "Which word is a pronoun?",
+          "options": ["run", "sad", "they", "and"],
+          "correct_answer": "they",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 24,
+          "question": "Replace the underlined noun with a pronoun: <u>The flowers</u> are beautiful.",
+          "options": ["He", "She", "It", "They"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 25,
+          "question": "We are a team. The victory is for ____.",
+          "options": ["we", "our", "ours", "us"],
+          "correct_answer": "us",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 26,
+          "question": "My name is Priya. ____ am a student.",
+          "options": ["You", "She", "I", "He"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 27,
+          "question": "My parents are not home. ____ went to the market.",
+          "options": ["He", "She", "They", "We"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 28,
+          "question": "This is my book. Give ____ to me.",
+          "options": ["it", "he", "she", "they"],
+          "correct_answer": "it",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 29,
+          "question": "I told ____ a secret.",
+          "options": ["she", "her", "he", "they"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 30,
+          "question": "Which of these is a pronoun?",
+          "options": ["John", "walks", "him", "happy"],
+          "correct_answer": "him",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 31,
+          "question": "____ is a rainy day.",
+          "options": ["He", "She", "It", "They"],
+          "correct_answer": "It",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 32,
+          "question": "Raju and I are brothers. ____ play cricket together.",
+          "options": ["They", "He", "You", "We"],
+          "correct_answer": "We",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 33,
+          "question": "The girl is crying. What happened to ____?",
+          "options": ["she", "her", "he", "him"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 34,
+          "question": "I have two pencils. ____ are new.",
+          "options": ["It", "Them", "They", "This"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 35,
+          "question": "My father bought a gift for ____.",
+          "options": ["I", "me", "my", "mine"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 36,
+          "question": "____ are listening to music.",
+          "options": ["Them", "They", "Him", "Her"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 37,
+          "question": "I have a pet cat. ____ is very playful.",
+          "options": ["He", "She", "It", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 38,
+          "question": "The teacher praised ____ for our hard work.",
+          "options": ["we", "our", "us", "ours"],
+          "correct_answer": "us",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 39,
+          "question": "He fell down, so I helped ____.",
+          "options": ["he", "his", "him", "I"],
+          "correct_answer": "him",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 40,
+          "question": "What is the pronoun in: 'You are very kind.'?",
+          "options": ["are", "very", "kind", "You"],
+          "correct_answer": "You",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 41,
+          "question": "Replace the underlined noun: 'Can you see <u>Ram</u>?'",
+          "options": ["he", "him", "his", "she"],
+          "correct_answer": "him",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 42,
+          "question": "____ is my grandmother.",
+          "options": ["He", "She", "They", "We"],
+          "correct_answer": "She",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 43,
+          "question": "Our teacher told ____ a story.",
+          "options": ["we", "us", "our", "ours"],
+          "correct_answer": "us",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 44,
+          "question": "The birds are flying. Look at ____.",
+          "options": ["they", "them", "it", "us"],
+          "correct_answer": "them",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 45,
+          "question": "My name is Aman and your name is Rohit. ____ are friends.",
+          "options": ["They", "You", "We", "He"],
+          "correct_answer": "We",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 46,
+          "question": "Which of these is a subject pronoun?",
+          "options": ["me", "him", "us", "I"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 47,
+          "question": "Which of these is an object pronoun?",
+          "options": ["he", "she", "they", "her"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 48,
+          "question": "____ are from the same village.",
+          "options": ["Them", "They", "Us", "Him"],
+          "correct_answer": "They",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 49,
+          "question": "She invited ____ to her party.",
+          "options": ["I", "we", "he", "us"],
+          "correct_answer": "us",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 50,
+          "question": "The chair is broken. ____ needs to be fixed.",
+          "options": ["He", "She", "It", "They"],
+          "correct_answer": "It",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 51,
+          "question": "____ like to play football.",
+          "options": ["Him", "Her", "Me", "He"],
+          "correct_answer": "He",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 52,
+          "question": "Can ____ help me?",
+          "options": ["you", "your", "yours", "I"],
+          "correct_answer": "you",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 53,
+          "question": "Riya is not well. I will visit ____ today.",
+          "options": ["she", "her", "hers", "he"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 54,
+          "question": "My friends are waiting for ____.",
+          "options": ["I", "me", "my", "mine"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 55,
+          "question": "The sun gives ____ light and heat.",
+          "options": ["we", "our", "ours", "us"],
+          "correct_answer": "us",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 56,
+          "question": "The puppy is lost. Can you find ____?",
+          "options": ["he", "she", "they", "it"],
+          "correct_answer": "it",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 57,
+          "question": "____ want to be a scientist.",
+          "options": ["Me", "My", "I", "Mine"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 58,
+          "question": "I saw Anil and Sunil. I spoke to ____.",
+          "options": ["they", "them", "their", "theirs"],
+          "correct_answer": "them",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 59,
+          "question": "Is that your mother? Yes, that is ____.",
+          "options": ["her", "she", "hers", "he"],
+          "correct_answer": "she",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 60,
+          "question": "The story was very interesting. ____ read it twice.",
+          "options": ["Me", "I", "My", "Mine"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "This book is not yours, it is ____.",
+          "options": ["my", "me", "I", "mine"],
+          "correct_answer": "mine",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 62,
+          "question": "The boy hurt ____ while playing.",
+          "options": ["him", "he", "himself", "his"],
+          "correct_answer": "himself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 63,
+          "question": "____ is the captain of the team?",
+          "options": ["What", "Which", "Who", "Whom"],
+          "correct_answer": "Who",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 64,
+          "question": "____ is that building over there?",
+          "options": ["This", "That", "These", "Those"],
+          "correct_answer": "That",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 65,
+          "question": "We decorated the house all by ____.",
+          "options": ["us", "our", "ours", "ourselves"],
+          "correct_answer": "ourselves",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 66,
+          "question": "I have a blue pen and a red pen. ____ one do you want?",
+          "options": ["Which", "Who", "What", "Whose"],
+          "correct_answer": "Which",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 67,
+          "question": "The house is ____. They bought it last year.",
+          "options": ["their", "them", "theirs", "they"],
+          "correct_answer": "theirs",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 68,
+          "question": "The students must complete the homework ____.",
+          "options": ["themselves", "themself", "them", "their"],
+          "correct_answer": "themselves",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 69,
+          "question": "____ are the keys I was looking for.",
+          "options": ["This", "That", "These", "Those"],
+          "correct_answer": "These",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 70,
+          "question": "To ____ did you give the letter?",
+          "options": ["who", "whom", "whose", "what"],
+          "correct_answer": "whom",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 71,
+          "question": "The cat is washing ____.",
+          "options": ["it", "its", "itself", "it's"],
+          "correct_answer": "itself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 72,
+          "question": "That scooter is not his, it is ____.",
+          "options": ["she", "her", "hers", "herself"],
+          "correct_answer": "hers",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 73,
+          "question": "Priya, you should do your work ____.",
+          "options": ["you", "your", "yours", "yourself"],
+          "correct_answer": "yourself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 74,
+          "question": "____ book is this on the table?",
+          "options": ["Who", "Whom", "Whose", "Which"],
+          "correct_answer": "Whose",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 75,
+          "question": "He told my sister and ____ to wait.",
+          "options": ["I", "me", "myself", "mine"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 76,
+          "question": "The credit for this success is all ____.",
+          "options": ["your", "you", "yours", "yourself"],
+          "correct_answer": "yours",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 77,
+          "question": "I made this cake ____.",
+          "options": ["me", "my", "mine", "myself"],
+          "correct_answer": "myself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 78,
+          "question": "____ of these colours do you like the most?",
+          "options": ["Who", "What", "Which", "Whom"],
+          "correct_answer": "Which",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 79,
+          "question": "____ was the best movie you have ever seen?",
+          "options": ["Who", "What", "Which", "Whose"],
+          "correct_answer": "What",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 80,
+          "question": "She looked at ____ in the mirror.",
+          "options": ["her", "she", "hers", "herself"],
+          "correct_answer": "herself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 81,
+          "question": "Is this your bag or ____?",
+          "options": ["him", "he", "his", "himself"],
+          "correct_answer": "his",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 82,
+          "question": "____ are the mountains I climbed last year.",
+          "options": ["This", "That", "These", "Those"],
+          "correct_answer": "Those",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 83,
+          "question": "The students cleaned the classroom ____.",
+          "options": ["themself", "themselves", "theirselves", "them"],
+          "correct_answer": "themselves",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 84,
+          "question": "The decision is ____, not mine.",
+          "options": ["their", "them", "they", "theirs"],
+          "correct_answer": "theirs",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 85,
+          "question": "He ____ said that he was wrong.",
+          "options": ["him", "himself", "he", "his"],
+          "correct_answer": "himself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 86,
+          "question": "This is our car. The car is ____.",
+          "options": ["we", "us", "our", "ours"],
+          "correct_answer": "ours",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 87,
+          "question": "____ is responsible for this project?",
+          "options": ["Who", "Whom", "Whose", "What"],
+          "correct_answer": "Who",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 88,
+          "question": "She bought a gift for ____.",
+          "options": ["hisself", "himself", "him", "he"],
+          "correct_answer": "himself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 89,
+          "question": "All the books on this shelf are ____.",
+          "options": ["my", "me", "I", "mine"],
+          "correct_answer": "mine",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 90,
+          "question": "My little sister can dress ____ now.",
+          "options": ["her", "herself", "she", "hers"],
+          "correct_answer": "herself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 91,
+          "question": "____ is the matter?",
+          "options": ["Who", "Which", "Whose", "What"],
+          "correct_answer": "What",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 92,
+          "question": "Which sentence is correct?",
+          "options": ["She gave the book to I.", "She gave the book to me.", "She gave the book to myself.", "She gave the book to mine."],
+          "correct_answer": "She gave the book to me.",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 93,
+          "question": "The victory is ____.",
+          "options": ["our", "ours", "us", "we"],
+          "correct_answer": "ours",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 94,
+          "question": "He saw a reflection of ____ in the water.",
+          "options": ["him", "he", "himself", "his"],
+          "correct_answer": "himself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 95,
+          "question": "The prize will be given to ____ finishes first.",
+          "options": ["whoever", "whomever", "whichever", "whatever"],
+          "correct_answer": "whoever",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 96,
+          "question": "____ of the two roads should we take?",
+          "options": ["What", "Which", "Who", "Whose"],
+          "correct_answer": "Which",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 97,
+          "question": "He has his opinion and I have ____.",
+          "options": ["me", "my", "I", "mine"],
+          "correct_answer": "mine",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 98,
+          "question": "The team members congratulated one ____ after the win.",
+          "options": ["another", "other", "others", "themselves"],
+          "correct_answer": "another",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 99,
+          "question": "The boy, ____ parents work abroad, lives with his grandmother.",
+          "options": ["who", "whom", "which", "whose"],
+          "correct_answer": "whose",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 100,
+          "question": "We must not deceive ____.",
+          "options": ["ourself", "us", "ourselves", "we"],
+          "correct_answer": "ourselves",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 101,
+          "question": "____ do you think will win the match?",
+          "options": ["Who", "Whom", "Which", "What"],
+          "correct_answer": "Who",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 102,
+          "question": "The fault is ____, not mine.",
+          "options": ["your", "yours", "you", "yourself"],
+          "correct_answer": "yours",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 103,
+          "question": "Please don't hurt ____.",
+          "options": ["yourselves", "yourself", "yours", "you"],
+          "correct_answer": "yourself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 104,
+          "question": "He is the artist ____ painting won the first prize.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "whose",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 105,
+          "question": "The players blamed ____ for the loss.",
+          "options": ["themself", "themselves", "them", "their"],
+          "correct_answer": "themselves",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 106,
+          "question": "This is a great idea of ____.",
+          "options": ["her", "she", "herself", "hers"],
+          "correct_answer": "hers",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 107,
+          "question": "____ is my favourite colour.",
+          "options": ["This", "These", "That", "Those"],
+          "correct_answer": "This",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 108,
+          "question": "She taught ____ how to speak French.",
+          "options": ["my", "me", "myself", "mine"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 109,
+          "question": "Between you and ____, I think she is right.",
+          "options": ["I", "me", "myself", "my"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 110,
+          "question": "The choice is ____.",
+          "options": ["your", "yours", "you", "yourselves"],
+          "correct_answer": "yours",
+          "grammar_type": "Pronouns"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "This is the man ____ I met yesterday.",
+          "options": ["who", "whom", "which", "whose"],
+          "correct_answer": "whom",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 112,
+          "question": "Everybody should do ____ best.",
+          "options": ["his", "her", "their", "his or her"],
+          "correct_answer": "his or her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 113,
+          "question": "He is taller than ____.",
+          "options": ["me", "I am", "I", "myself"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 114,
+          "question": "The company, ____ is located in Mumbai, is very successful.",
+          "options": ["that", "which", "who", "whom"],
+          "correct_answer": "which",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 115,
+          "question": "One must not boast of ____ own success.",
+          "options": ["his", "her", "one's", "their"],
+          "correct_answer": "one's",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 116,
+          "question": "I don't appreciate ____ leaving without saying goodbye.",
+          "options": ["you", "your", "yours", "yourself"],
+          "correct_answer": "your",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 117,
+          "question": "Neither of the boys has submitted ____ project.",
+          "options": ["their", "his", "her", "theirs"],
+          "correct_answer": "his",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 118,
+          "question": "She is one of the students ____ always scores well.",
+          "options": ["who", "whom", "which", "that"],
+          "correct_answer": "who",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 119,
+          "question": "Let you and ____ solve this problem.",
+          "options": ["I", "me", "myself", "my"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 120,
+          "question": "Each of the girls was given a prize for ____ performance.",
+          "options": ["her", "their", "hers", "theirs"],
+          "correct_answer": "her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 121,
+          "question": "He gave the prize to ____ he thought was the best.",
+          "options": ["whoever", "whomever", "who", "whom"],
+          "correct_answer": "whoever",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 122,
+          "question": "The two brothers love ____ very much.",
+          "options": ["one another", "each other", "themselves", "each"],
+          "correct_answer": "each other",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 123,
+          "question": "My views are different from ____.",
+          "options": ["your", "yours", "you", "yourself"],
+          "correct_answer": "yours",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 124,
+          "question": "Everyone must bring ____ own lunch.",
+          "options": ["their", "his or her", "our", "one's"],
+          "correct_answer": "his or her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 125,
+          "question": "I would like to speak to ____ is in charge.",
+          "options": ["whoever", "whomever", "who", "whom"],
+          "correct_answer": "whoever",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 126,
+          "question": "The manager, as well as the players, did ____ best.",
+          "options": ["his", "their", "his or her", "our"],
+          "correct_answer": "his",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 127,
+          "question": "Is this the person ____ you were talking about?",
+          "options": ["who", "whom", "that", "which"],
+          "correct_answer": "whom",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 128,
+          "question": "Such was not ____ intention.",
+          "options": ["my", "mine", "me", "I"],
+          "correct_answer": "my",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 129,
+          "question": "There is no doubt about ____ winning the race.",
+          "options": ["him", "his", "he", "himself"],
+          "correct_answer": "his",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 130,
+          "question": "The committee could not agree on ____ final decision.",
+          "options": ["its", "their", "it's", "theirs"],
+          "correct_answer": "its",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 131,
+          "question": "Many of the students have not done ____ homework.",
+          "options": ["his", "her", "his or her", "their"],
+          "correct_answer": "their",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 132,
+          "question": "This is the best movie ____ I have ever seen.",
+          "options": ["who", "which", "that", "whom"],
+          "correct_answer": "that",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 133,
+          "question": "The teacher gave the books to Ram and ____.",
+          "options": ["I", "me", "myself", "my"],
+          "correct_answer": "me",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 134,
+          "question": "A person should know how to behave ____ in public.",
+          "options": ["oneself", "himself", "themselves", "himself or herself"],
+          "correct_answer": "oneself",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 135,
+          "question": "You are as smart as ____.",
+          "options": ["him", "he is", "he", "himself"],
+          "correct_answer": "he",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 136,
+          "question": "None of the students knew the answer, did ____?",
+          "options": ["he", "she", "they", "it"],
+          "correct_answer": "they",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 137,
+          "question": "All the members of the family help ____.",
+          "options": ["each other", "one another", "themselves", "themself"],
+          "correct_answer": "one another",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 138,
+          "question": "I will give the responsibility to ____ you recommend.",
+          "options": ["who", "whoever", "whomever", "whichever"],
+          "correct_answer": "whomever",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 139,
+          "question": "The dog wagged ____ tail happily.",
+          "options": ["it's", "its", "it", "its'"],
+          "correct_answer": "its",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 140,
+          "question": "The jury were divided in ____ opinions.",
+          "options": ["its", "it's", "their", "theirs"],
+          "correct_answer": "their",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 141,
+          "question": "Every boy and every girl has to bring ____ own water bottle.",
+          "options": ["their", "his or her", "his", "her"],
+          "correct_answer": "his or her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 142,
+          "question": "This is the only one of his books ____ is worth reading.",
+          "options": ["that", "which", "who", "whom"],
+          "correct_answer": "that",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 143,
+          "question": "What is the reason for ____ being so late?",
+          "options": ["him", "his", "he", "himself"],
+          "correct_answer": "his",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 144,
+          "question": "The man ____ you were speaking to is my uncle.",
+          "options": ["who", "whom", "whose", "which"],
+          "correct_answer": "whom",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 145,
+          "question": "Nobody but ____ was present.",
+          "options": ["he", "him", "himself", "his"],
+          "correct_answer": "him",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 146,
+          "question": "It was ____ who started the argument.",
+          "options": ["me", "I", "myself", "my"],
+          "correct_answer": "I",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 147,
+          "question": "A student must be respectful to ____ teachers.",
+          "options": ["their", "his or her", "one's", "our"],
+          "correct_answer": "his or her",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 148,
+          "question": "We are not as rich as ____.",
+          "options": ["them", "they are", "they", "themselves"],
+          "correct_answer": "they",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 149,
+          "question": "Everything depends on ____ passing the examination.",
+          "options": ["him", "his", "he", "he's"],
+          "correct_answer": "his",
+          "grammar_type": "Pronouns"
+        },
+        {
+          "id": 150,
+          "question": "The dog which bit my son has been caught. I saw ____ myself.",
+          "options": ["it", "him", "her", "which"],
+          "correct_answer": "it",
+          "grammar_type": "Pronouns"
+        }
+      ]
+    }
+  ]
+}
+

@@ -149,62 +149,64 @@ class _ProfileScreenState extends State<ProfileScreen>
   }
 
   Future<void> _logout() async {
-    // SharedPreferences prefs = await SharedPreferences.getInstance();
-    // Navigator.of(context).pushNamedAndRemoveUntil('/login', (route) => false);
-
-    // In your logout function
     final prefs = await SharedPreferences.getInstance();
     await prefs.remove('lastRoute');
     await prefs.remove('userId');
     await prefs.setBool('isLoggedIn', false);
+
+    // Navigate to login page and remove all previous screens from stack
+    Navigator.of(context).pushNamedAndRemoveUntil('/login', (route) => false);
   }
 
   @override
   Widget build(BuildContext context) {
-    return SafeArea(
-      child: Scaffold(
-        backgroundColor: lightBackground,
+    return Scaffold(
+      backgroundColor: lightBackground,
 
-        // appBar: AppBar(
-        //   title: Text('Your Profile', style: TextStyle(color: Colors.white)),
-        //   backgroundColor: Colors.orangeAccent,
-        //   elevation: 0,
-        //   actions: [
-        //     IconButton(
-        //       icon: Icon(Icons.logout, color: Colors.red),
-        //       tooltip: 'Logout',
-        //       onPressed: _logout,
-        //     ),
-        //   ],
-        //   leading: IconButton(
-        //     icon: const Icon(Icons.arrow_back, color: Colors.white),
-        //     onPressed: () {
-        //       Navigator.pushNamedAndRemoveUntil(
-        //         context,
-        //         '/dashboard', // or '/home' - whatever your home route is
-        //         (route) => false, // Remove all previous routes
-        //       );
-        //     },
-        //   ),
-        // ),
-        appBar: AppBar(
-          title: const Text('Your Profile'),
-          backgroundColor: Colors.orangeAccent,
-          foregroundColor: Colors.white,
-          elevation: 0,
-          leading: IconButton(
-            icon: const Icon(Icons.arrow_back),
-            onPressed: () {
-              Navigator.pushNamedAndRemoveUntil(
-                context,
-                '/dashboard',
-                (route) => false,
-              );
-            },
-          ),
+      appBar: AppBar(
+        title: const Text(
+          'Your Profile',
+          style: TextStyle(color: Colors.white),
         ),
+        backgroundColor: Colors.orangeAccent,
+        elevation: 0,
+        actions: [
+          IconButton(
+            icon: const Icon(Icons.logout, color: Colors.red),
+            tooltip: 'Logout',
+            onPressed: _logout,
+          ),
+        ],
+        leading: IconButton(
+          icon: const Icon(Icons.arrow_back, color: Colors.white),
+          onPressed: () {
+            Navigator.pushNamedAndRemoveUntil(
+              context,
+              '/dashboard',
+              (route) => false,
+            );
+          },
+        ),
+      ),
 
-        body: FutureBuilder<List<dynamic>>(
+      // appBar: AppBar(
+      //   title: const Text('Your Profile'),
+      //   backgroundColor: Colors.orangeAccent,
+      //   foregroundColor: Colors.white,
+      //   elevation: 0,
+      //   leading: IconButton(
+      //     icon: const Icon(Icons.arrow_back),
+      //     onPressed: () {
+      //       Navigator.pushNamedAndRemoveUntil(
+      //         context,
+      //         '/dashboard',
+      //         (route) => false,
+      //       );
+      //     },
+      //   ),
+      // ),
+      body: SafeArea(
+        child: FutureBuilder<List<dynamic>>(
           future: profileFuture,
           builder: (context, snapshot) {
             if (!snapshot.hasData) {

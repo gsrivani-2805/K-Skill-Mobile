@@ -1,0 +1,1120 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the first thing you should write in a diary entry?",
+          "options": ["Your name", "The date and day", "The time", "Dear Diary"],
+          "correct_answer": "The date and day",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 2,
+          "question": "What is a common salutation used in a diary entry?",
+          "options": ["Respected Sir", "Hello everyone", "Dear Diary", "My dearest friend"],
+          "correct_answer": "Dear Diary",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 3,
+          "question": "In which person is a diary entry usually written?",
+          "options": ["First person (I, we)", "Second person (you)", "Third person (he, she, it)", "It can be any person"],
+          "correct_answer": "First person (I, we)",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 4,
+          "question": "What kind of language is generally used in a diary entry?",
+          "options": ["Formal and official", "Informal and personal", "Poetic and rhyming", "Scientific and technical"],
+          "correct_answer": "Informal and personal",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 5,
+          "question": "What is the main purpose of writing a diary?",
+          "options": ["To submit it to a teacher", "To publish it in a newspaper", "To record personal thoughts and feelings", "To write a story for others"],
+          "correct_answer": "To record personal thoughts and feelings",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 6,
+          "question": "What should be at the end of a diary entry?",
+          "options": ["The teacher's signature", "Your signature or name", "The date", "A formal closing"],
+          "correct_answer": "Your signature or name",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 7,
+          "question": "A diary entry is a record of...",
+          "options": ["Only happy events", "Only sad events", "Significant events and feelings", "Imaginary stories"],
+          "correct_answer": "Significant events and feelings",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 8,
+          "question": "Which of these is a good topic for a diary entry?",
+          "options": ["A summary of a history chapter", "Your feelings about your first day at a new school", "A recipe for a cake", "The rules of cricket"],
+          "correct_answer": "Your feelings about your first day at a new school",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 9,
+          "question": "The tone of a diary entry should be...",
+          "options": ["Angry and aggressive", "Honest and reflective", "Humorous and funny all the time", "Strict and commanding"],
+          "correct_answer": "Honest and reflective",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 10,
+          "question": "When do people usually write in their diary?",
+          "options": ["During a class lecture", "At the end of the day", "Early in the morning before school", "While travelling in a bus"],
+          "correct_answer": "At the end of the day",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 11,
+          "question": "Which of the following should you include at the top left corner of your diary entry?",
+          "options": [
+            "Your name",
+            "Date, Day, and Time",
+            "The title of the entry",
+            "A drawing"
+          ],
+          "correct_answer": "Date, Day, and Time",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 12,
+          "question": "Is it necessary to add a signature at the end of a diary entry?",
+          "options": [
+            "Yes, it is compulsory.",
+            "No, it is optional but adds a personal touch.",
+            "Only if the teacher asks for it.",
+            "Yes, along with your full address."
+          ],
+          "correct_answer": "No, it is optional but adds a personal touch.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 13,
+          "question": "What is the content of a diary entry mainly about?",
+          "options": [
+            "General knowledge facts",
+            "News headlines",
+            "Personal experiences and emotions",
+            "Homework assignments"
+          ],
+          "correct_answer": "Personal experiences and emotions",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 14,
+          "question": "Which of these is NOT a feature of a diary entry?",
+          "options": [
+            "First-person narration",
+            "Informal tone",
+            "Objective reporting of facts",
+            "Expression of feelings"
+          ],
+          "correct_answer": "Objective reporting of facts",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 15,
+          "question": "A diary is a private document. What does this mean?",
+          "options": [
+            "You should share it with everyone.",
+            "It is meant for your eyes only.",
+            "You should post it on social media.",
+            "It is an official school record."
+          ],
+          "correct_answer": "It is meant for your eyes only.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 16,
+          "question": "What kind of events are usually recorded in a diary?",
+          "options": [
+            "Only daily routines",
+            "Only significant and memorable events",
+            "Only things you hear from others",
+            "Only fictional stories"
+          ],
+          "correct_answer": "Only significant and memorable events",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 17,
+          "question": "Which of the following is a suitable opening for a diary entry about a happy day?",
+          "options": [
+            "I am very sad today.",
+            "Today was the best day ever!",
+            "I am feeling bored.",
+            "Nothing special happened today."
+          ],
+          "correct_answer": "Today was the best day ever!",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 18,
+          "question": "Should you be honest with your feelings in a diary?",
+          "options": [
+            "No, you should always pretend to be happy.",
+            "Yes, a diary is a place for honest expression.",
+            "Only if you think someone will read it.",
+            "No, it's better to hide your true feelings."
+          ],
+          "correct_answer": "Yes, a diary is a place for honest expression.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 19,
+          "question": "What can you write about in a diary entry?",
+          "options": [
+            "Your dreams and aspirations",
+            "Your fears and worries",
+            "A special event you attended",
+            "All of the above"
+          ],
+          "correct_answer": "All of the above",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 20,
+          "question": "Which of the following is an appropriate closing for a diary entry?",
+          "options": [
+            "Yours sincerely,",
+            "With regards,",
+            "Good night, Diary!",
+            "Thank you."
+          ],
+          "correct_answer": "Good night, Diary!",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 21,
+          "question": "A diary entry is written in which tense?",
+          "options": ["Present Tense", "Past Tense", "Future Tense", "Any tense"],
+          "correct_answer": "Past Tense",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 22,
+          "question": "What is the salutation in a diary entry?",
+          "options": ["The main body of the text", "The greeting to the diary", "The closing remark", "The date"],
+          "correct_answer": "The greeting to the diary",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 23,
+          "question": "Which of the following is NOT a good reason to keep a diary?",
+          "options": ["To improve writing skills", "To show off to your friends", "To express your emotions", "To remember important life events"],
+          "correct_answer": "To show off to your friends",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 24,
+          "question": "What is the format of writing the date in a diary entry?",
+          "options": ["DD/MM/YYYY", "Month Day, Year", "Day, Month Date, Year", "Any of the above is acceptable"],
+          "correct_answer": "Any of the above is acceptable",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 25,
+          "question": "Why is it important to write down your feelings in a diary?",
+          "options": ["It helps to understand yourself better.", "It is a rule of diary writing.", "It makes the entry longer.", "It is not important at all."],
+          "correct_answer": "It helps to understand yourself better.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 26,
+          "question": "What is a diary entry primarily about?",
+          "options": ["The weather", "The writer's personal life", "Political news", "Movie reviews"],
+          "correct_answer": "The writer's personal life",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 27,
+          "question": "What kind of details should you include in a diary entry about a trip?",
+          "options": ["Only the names of the places you visited", "The cost of the trip", "Your experiences, feelings, and what you saw", "The history of the places"],
+          "correct_answer": "Your experiences, feelings, and what you saw",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 28,
+          "question": "Is it okay to use short forms and slang in a personal diary?",
+          "options": ["No, you must use formal language.", "Yes, as it is a personal document.", "Only if your teacher allows it.", "No, it is considered bad manners."],
+          "correct_answer": "Yes, as it is a personal document.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 29,
+          "question": "What is the difference between a diary and a journal?",
+          "options": ["A diary is for personal use, a journal is for school.", "A journal is more formal than a diary.", "There is no major difference; the terms are often used interchangeably.", "A diary has a lock, a journal does not."],
+          "correct_answer": "There is no major difference; the terms are often used interchangeably.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 30,
+          "question": "How should you start the main body of your diary entry?",
+          "options": ["By directly stating your main feeling or event.", "With a famous quote.", "By asking a question to the diary.", "By writing about the weather."],
+          "correct_answer": "By directly stating your main feeling or event.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 31,
+            "question": "What is the most important element of a diary entry?",
+            "options": ["Correct grammar", "Handwriting", "Honesty of expression", "Length of the entry"],
+            "correct_answer": "Honesty of expression",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 32,
+            "question": "If you are writing about a sad event, what kind of tone should you use?",
+            "options": ["Humorous", "Joyful", "Reflective and somber", "Formal and detached"],
+            "correct_answer": "Reflective and somber",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 33,
+            "question": "Which of these is a good way to describe your feelings in a diary?",
+            "options": ["Using descriptive words and explaining why you feel that way.", "Just naming the feeling, like 'sad' or 'happy'.", "Copying feelings from a book.", "Asking someone else how you should feel."],
+            "correct_answer": "Using descriptive words and explaining why you feel that way.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 34,
+            "question": "Can you draw or add pictures to your diary entry?",
+            "options": ["No, it's only for writing.", "Yes, it's a personal space to be creative.", "Only if it is for an art class.", "No, that would make it a scrapbook."],
+            "correct_answer": "Yes, it's a personal space to be creative.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 35,
+            "question": "What is a good way to end a diary entry for the day?",
+            "options": ["With a question about the next day.", "A summary of what you wrote.", "A hope or a plan for the future.", "All of the above."],
+            "correct_answer": "All of the above.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 36,
+            "question": "What should you do if you miss writing in your diary for a few days?",
+            "options": ["Stop writing completely.", "Tear out the missed pages.", "Start again from the current date.", "Write about all the missed days in one entry."],
+            "correct_answer": "Start again from the current date.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 37,
+            "question": "A diary can help you to...",
+            "options": ["See how you have changed over time.", "Remember your childhood memories.", "Understand your patterns of thinking and feeling.", "All of the above."],
+            "correct_answer": "All of the above.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 38,
+            "question": "What is the purpose of writing 'Dear Diary'?",
+            "options": ["It is a strict rule.", "It personifies the diary, making it easier to share feelings.", "It is a formal way to start.", "It is done to increase the word count."],
+            "correct_answer": "It personifies the diary, making it easier to share feelings.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 39,
+            "question": "When writing about an argument with a friend, you should...",
+            "options": ["Only write your side of the story.", "Try to see their perspective as well.", "Write down what you think is right.", "Avoid writing about such negative events."],
+            "correct_answer": "Try to see their perspective as well.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 40,
+            "question": "What is the main difference between writing a diary entry and a letter to a friend?",
+            "options": ["A diary is more private and personal.", "A letter is always formal.", "A diary does not need a date.", "A letter is always handwritten."],
+            "correct_answer": "A diary is more private and personal.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 41,
+            "question": "Is it important to use correct spelling and grammar in a personal diary?",
+            "options": ["Yes, always.", "No, it's a personal space for free expression.", "It's good practice, but not essential.", "Only if you plan to show it to someone."],
+            "correct_answer": "It's good practice, but not essential.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 42,
+            "question": "What kind of tone should a diary entry have?",
+            "options": ["Conversational and natural", "Academic and scholarly", "Dramatic and exaggerated", "Formal and polite"],
+            "correct_answer": "Conversational and natural",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 43,
+            "question": "What is the role of a heading or title in a diary entry?",
+            "options": ["It is compulsory.", "It is optional and can give a hint about the entry's content.", "It should be very long and descriptive.", "It is written at the end of the entry."],
+            "correct_answer": "It is optional and can give a hint about the entry's content.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 44,
+            "question": "How can keeping a diary help with stress?",
+            "options": ["By providing a healthy outlet for emotions.", "By making you more stressed.", "It has no effect on stress.", "By taking up your free time."],
+            "correct_answer": "By providing a healthy outlet for emotions.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 45,
+            "question": "Which of these is a good practice for diary writing?",
+            "options": ["Writing at the same time every day to build a habit.", "Forcing yourself to write even when you don't want to.", "Comparing your diary with others'.", "Writing only about happy things."],
+            "correct_answer": "Writing at the same time every day to build a habit.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 46,
+            "question": "What does it mean to be 'reflective' in a diary entry?",
+            "options": ["To think deeply about your experiences and what you learned.", "To write only about what you see in a mirror.", "To copy someone else's thoughts.", "To write in a very complicated way."],
+            "correct_answer": "To think deeply about your experiences and what you learned.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 47,
+            "question": "When you describe an event in your diary, what details should you include?",
+            "options": ["Who was there, what happened, where it happened, and how you felt.", "Only what happened.", "Only how you felt.", "Only who was there."],
+            "correct_answer": "Who was there, what happened, where it happened, and how you felt.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 48,
+            "question": "Can you write about your future hopes and dreams in a diary?",
+            "options": ["No, a diary is only for past events.", "Yes, it's a great place to explore your aspirations.", "Only if they are realistic.", "No, that is called a planner."],
+            "correct_answer": "Yes, it's a great place to explore your aspirations.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 49,
+            "question": "What should be the main focus of a diary entry about a movie you watched?",
+            "options": ["The names of all the actors.", "The full story of the movie.", "Your personal opinion and feelings about the movie.", "The director's biography."],
+            "correct_answer": "Your personal opinion and feelings about the movie.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 50,
+            "question": "What is the key to making diary writing a meaningful habit?",
+            "options": ["Writing long entries every day.", "Being consistent and honest.", "Having a beautiful diary.", "Showing your diary to your friends."],
+            "correct_answer": "Being consistent and honest.",
+            "grammar_type": "Diary Entry Writing"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "How can you make a diary entry more engaging for yourself to read later?",
+          "options": ["By using formal language", "By including sensory details (sight, sound, smell, etc.)", "By writing in the third person", "By keeping it very short and to the point"],
+          "correct_answer": "By including sensory details (sight, sound, smell, etc.)",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 52,
+          "question": "When writing about a personal achievement, how can you express your feelings effectively?",
+          "options": ["By simply stating 'I am happy.'", "By describing your journey, the challenges you faced, and how the success makes you feel.", "By comparing your achievement with others'.", "By downplaying your success to sound humble."],
+          "correct_answer": "By describing your journey, the challenges you faced, and how the success makes you feel.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 53,
+          "question": "What is the role of reflection in a diary entry?",
+          "options": ["It is not important.", "It helps to learn from experiences and gain insights.", "It is only for sad entries.", "It means to write about what you see in the mirror."],
+          "correct_answer": "It helps to learn from experiences and gain insights.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 54,
+          "question": "How can you use a diary to track personal growth?",
+          "options": ["By never re-reading your old entries.", "By setting goals and writing about your progress.", "By only writing about your successes.", "By asking your friends to read your diary and give feedback."],
+          "correct_answer": "By setting goals and writing about your progress.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 55,
+          "question": "When writing about a difficult situation, what is a good approach?",
+          "options": ["To blame others for the problem.", "To explore your feelings and consider possible solutions.", "To ignore the problem and write about something else.", "To exaggerate the problem to make it sound more dramatic."],
+          "correct_answer": "To explore your feelings and consider possible solutions.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 56,
+          "question": "Why is it useful to re-read old diary entries?",
+          "options": ["To see how much your handwriting has improved.", "To remind yourself of past mistakes.", "To see how you've grown and to gain perspective on current challenges.", "There is no use in re-reading old entries."],
+          "correct_answer": "To see how you've grown and to gain perspective on current challenges.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 57,
+          "question": "How can you maintain a consistent tone in your diary writing?",
+          "options": ["By always being happy.", "By writing as if you are talking to a close friend.", "By using a formal and academic style.", "By copying the writing style of your favorite author."],
+          "correct_answer": "By writing as if you are talking to a close friend.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 58,
+          "question": "What is the purpose of including specific details and examples in a diary entry?",
+          "options": ["To make the entry longer.", "To make the memories more vivid and real when you read them later.", "To prove that the event actually happened.", "It has no specific purpose."],
+          "correct_answer": "To make the memories more vivid and real when you read them later.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 59,
+          "question": "Can a diary be used for creative writing practice?",
+          "options": ["No, a diary is only for facts.", "Yes, you can write poems, short stories, or just experiment with words.", "Only if it is a special 'creative writing diary'.", "No, that would be a waste of time."],
+          "correct_answer": "Yes, you can write poems, short stories, or just experiment with words.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 60,
+          "question": "How can you express complex emotions like 'bittersweet' in a diary entry?",
+          "options": ["By explaining the mixed feelings of happiness and sadness with an example.", "By just writing the word 'bittersweet'.", "By avoiding such complex emotions.", "By asking someone else to describe it for you."],
+          "correct_answer": "By explaining the mixed feelings of happiness and sadness with an example.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 61,
+            "question": "What is the value of writing about your dreams in a diary?",
+            "options": ["It is meaningless as dreams are not real.", "It can help in understanding your subconscious thoughts and feelings.", "It is a good way to practice story writing.", "Both b and c."],
+            "correct_answer": "Both b and c.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 62,
+            "question": "How can you use your diary to solve a problem?",
+            "options": ["By writing about the problem from different perspectives.", "By listing the pros and cons of different solutions.", "By exploring your feelings about the problem.", "All of the above."],
+            "correct_answer": "All of the above.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 63,
+            "question": "When writing about a person in your diary, what is a good way to describe them?",
+            "options": ["Only their physical appearance.", "Their actions, words, and how they make you feel.", "Just their name and relationship to you.", "By comparing them to a celebrity."],
+            "correct_answer": "Their actions, words, and how they make you feel.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 64,
+            "question": "What is 'introspective writing' in the context of a diary?",
+            "options": ["Writing about outer space.", "Examining your own thoughts and feelings.", "Writing about other people's lives.", "Writing a historical account."],
+            "correct_answer": "Examining your own thoughts and feelings.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 65,
+            "question": "How can a diary help you to appreciate the small things in life?",
+            "options": ["By making a daily list of things you are grateful for.", "By only writing about big, important events.", "By complaining about everything.", "A diary cannot help with this."],
+            "correct_answer": "By making a daily list of things you are grateful for.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 66,
+            "question": "What is the effect of using rhetorical questions in a diary entry?",
+            "options": ["It makes the writing more engaging and thought-provoking.", "It is a grammatical error.", "It shows that you are confused.", "It is only used in formal writing."],
+            "correct_answer": "It makes the writing more engaging and thought-provoking.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 67,
+            "question": "How can you write about a personal failure in a constructive way?",
+            "options": ["By focusing on what you learned from the experience.", "By blaming yourself entirely.", "By pretending it never happened.", "By making excuses for the failure."],
+            "correct_answer": "By focusing on what you learned from the experience.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 68,
+            "question": "What is the benefit of writing a 'stream of consciousness' entry in your diary?",
+            "options": ["It helps to clear your mind by writing down thoughts as they come.", "It is a very structured and organized way of writing.", "It is not a valid form of diary writing.", "It is only for professional writers."],
+            "correct_answer": "It helps to clear your mind by writing down thoughts as they come.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 69,
+            "question": "When writing a diary entry from the perspective of a fictional character, what is most important?",
+            "options": ["To capture the character's voice, personality, and feelings accurately.", "To use very simple language.", "To make the character similar to yourself.", "To only describe the plot of the story."],
+            "correct_answer": "To capture the character's voice, personality, and feelings accurately.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 70,
+            "question": "How can a diary help in improving your memory?",
+            "options": ["By regularly recalling and recording events of the day.", "It cannot improve memory.", "By writing down things you want to forget.", "By keeping the diary locked."],
+            "correct_answer": "By regularly recalling and recording events of the day.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 71,
+            "question": "What is the difference between a descriptive and a reflective diary entry?",
+            "options": ["Descriptive entry details 'what happened', while reflective entry explores 'what it means'.", "There is no difference.", "Descriptive is long, reflective is short.", "Descriptive is for happy events, reflective is for sad ones."],
+            "correct_answer": "Descriptive entry details 'what happened', while reflective entry explores 'what it means'.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 72,
+            "question": "How can you use your diary to explore your identity?",
+            "options": ["By writing about your values, beliefs, and what makes you unique.", "By copying someone else's identity.", "By not writing about yourself.", "A diary is not for exploring identity."],
+            "correct_answer": "By writing about your values, beliefs, and what makes you unique.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 73,
+            "question": "What does 'catharsis' in diary writing mean?",
+            "options": ["The process of releasing strong or repressed emotions.", "A type of diary binding.", "A formal writing style.", "Writing with a catheter pen."],
+            "correct_answer": "The process of releasing strong or repressed emotions.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 74,
+            "question": "If you are writing a diary for a specific purpose (e.g., a travel diary), how should you focus your entries?",
+            "options": ["On topics related to that purpose, like your travel experiences.", "On any random topic.", "On your daily routine at home.", "On your school homework."],
+            "correct_answer": "On topics related to that purpose, like your travel experiences.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 75,
+            "question": "How can you make your diary entries more visually appealing?",
+            "options": ["By using different colored pens, doodling, and adding stickers.", "By writing in a single, monotonous block of text.", "By using only black ink.", "Visual appeal is not important for a diary."],
+            "correct_answer": "By using different colored pens, doodling, and adding stickers.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 76,
+            "question": "What is the role of honesty in a diary entry, even when writing about your own flaws?",
+            "options": ["It is crucial for self-awareness and personal growth.", "It is better to portray yourself as perfect.", "You should only be honest about your good qualities.", "Honesty is not important in a diary."],
+            "correct_answer": "It is crucial for self-awareness and personal growth.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 77,
+            "question": "How can you use your diary to practice gratitude?",
+            "options": ["By regularly writing down things you are thankful for.", "By complaining about your life.", "By comparing yourself with others.", "By focusing only on your problems."],
+            "correct_answer": "By regularly writing down things you are thankful for.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 78,
+            "question": "When writing about a conflict, what is the value of trying to understand the other person's viewpoint in your diary?",
+            "options": ["It can help you to find a resolution and feel less angry.", "It is a waste of time.", "It means you are admitting that you are wrong.", "You should only focus on your own feelings."],
+            "correct_answer": "It can help you to find a resolution and feel less angry.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 79,
+            "question": "What are 'prompts' in the context of diary writing?",
+            "options": ["Questions or ideas that inspire you to write.", "The rules of diary writing.", "The covers of a diary.", "The type of paper used in a diary."],
+            "correct_answer": "Questions or ideas that inspire you to write.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 80,
+            "question": "How can a diary be a tool for mindfulness?",
+            "options": ["By helping you to be present and aware of your thoughts and feelings without judgment.", "By distracting you from the present moment.", "By making you worry about the future.", "A diary is not related to mindfulness."],
+            "correct_answer": "By helping you to be present and aware of your thoughts and feelings without judgment.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 81,
+            "question": "What does it mean to use 'figurative language' (similes, metaphors) in a diary entry?",
+            "options": ["Using comparisons to make descriptions more vivid and emotional.", "Using only literal and direct language.", "Using foreign words.", "Using incorrect grammar."],
+            "correct_answer": "Using comparisons to make descriptions more vivid and emotional.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 82,
+            "question": "How can you create a sense of 'voice' in your diary writing?",
+            "options": ["By letting your unique personality and way of thinking show in your writing.", "By copying the voice of a famous writer.", "By using a very formal and impersonal tone.", "By writing in a different language."],
+            "correct_answer": "By letting your unique personality and way of thinking show in your writing.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 83,
+            "question": "When writing about a happy memory, what details can make it more powerful?",
+            "options": ["The sensory details, the people involved, and why it was so special to you.", "Just the date and time.", "A brief, one-sentence summary.", "The cost of the event."],
+            "correct_answer": "The sensory details, the people involved, and why it was so special to you.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 84,
+            "question": "Is it a good idea to write a letter to your future self in your diary?",
+            "options": ["Yes, it can be a powerful way to reflect on your current self and future goals.", "No, that is not what a diary is for.", "Only if you plan to mail it.", "No, it is a childish activity."],
+            "correct_answer": "Yes, it can be a powerful way to reflect on your current self and future goals.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 85,
+            "question": "What is the importance of 'chronological order' in a diary entry describing a day's events?",
+            "options": ["It helps the narrative to be clear and easy to follow.", "It is not important at all.", "You should always write about the most important event first.", "You should write in a random order to be more creative."],
+            "correct_answer": "It helps the narrative to be clear and easy to follow.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 86,
+            "question": "How can you balance writing about facts and feelings in a diary entry?",
+            "options": ["By describing what happened and then exploring how it made you feel.", "By only writing about facts.", "By only writing about feelings.", "It is not possible to balance both."],
+            "correct_answer": "By describing what happened and then exploring how it made you feel.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 87,
+            "question": "Can writing in a diary improve your communication skills?",
+            "options": ["Yes, by helping you to articulate your thoughts and feelings more clearly.", "No, it is a solitary activity.", "Only if you read your diary out loud.", "No, it can make your communication skills worse."],
+            "correct_answer": "Yes, by helping you to articulate your thoughts and feelings more clearly.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 88,
+            "question": "What is the purpose of a 'gratitude jar' section in a diary?",
+            "options": ["To write down things you are thankful for each day.", "To store small items.", "To complain about things.", "To draw pictures of jars."],
+            "correct_answer": "To write down things you are thankful for each day.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 89,
+            "question": "How can you make a diary entry about a boring day interesting?",
+            "options": ["By focusing on a small, unusual detail or your internal thoughts and feelings.", "It is impossible to make a boring day interesting.", "By making up a dramatic event.", "By not writing at all on that day."],
+            "correct_answer": "By focusing on a small, unusual detail or your internal thoughts and feelings.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 90,
+            "question": "What is a 'mood tracker' in a diary?",
+            "options": ["A way to log your emotions each day, often using colors or symbols.", "A device that tracks your mood.", "A type of pen.", "A fictional story about moods."],
+            "correct_answer": "A way to log your emotions each day, often using colors or symbols.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 91,
+            "question": "How can writing a diary help in making important life decisions?",
+            "options": ["By providing a space to weigh options and explore your true feelings.", "It cannot help in decision making.", "By telling you what to do.", "By confusing you with too many thoughts."],
+            "correct_answer": "By providing a space to weigh options and explore your true feelings.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 92,
+            "question": "What is the benefit of writing a diary entry by hand versus typing it?",
+            "options": ["The physical act of writing can be more personal and therapeutic for some.", "Typing is always better and faster.", "There is no difference.", "Handwriting is outdated and should be avoided."],
+            "correct_answer": "The physical act of writing can be more personal and therapeutic for some.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 93,
+            "question": "Can you use dialogue in a diary entry?",
+            "options": ["Yes, to recall a specific conversation and make the entry more lively.", "No, a diary is only for your own thoughts.", "Only if the dialogue is very short.", "No, that would make it a script for a play."],
+            "correct_answer": "Yes, to recall a specific conversation and make the entry more lively.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 94,
+            "question": "What is the purpose of using 'time connectives' (e.g., 'later', 'after that', 'in the morning') in a diary entry?",
+            "options": ["To show the sequence of events clearly.", "To make the entry more confusing.", "They have no purpose.", "To make the writing more formal."],
+            "correct_answer": "To show the sequence of events clearly.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 95,
+            "question": "How can you use a diary to overcome a creative block?",
+            "options": ["By writing freely without any rules or expectations.", "By not writing until you feel creative.", "By copying other people's work.", "A diary cannot help with creative block."],
+            "correct_answer": "By writing freely without any rules or expectations.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 96,
+            "question": "What is the value of writing about your cultural experiences in a diary?",
+            "options": ["It helps to preserve memories of traditions and explore your cultural identity.", "It is not an appropriate topic for a diary.", "Only if you are from a foreign country.", "It is boring to write about culture."],
+            "correct_answer": "It helps to preserve memories of traditions and explore your cultural identity.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 97,
+            "question": "When describing a place in your diary, what kind of details are most effective?",
+            "options": ["Sensory details that appeal to sight, sound, smell, touch, and taste.", "Only the geographical location.", "The history of the place from a textbook.", "Just the name of the place."],
+            "correct_answer": "Sensory details that appeal to sight, sound, smell, touch, and taste.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 98,
+            "question": "How can you ensure your diary remains a safe space for your thoughts?",
+            "options": ["By keeping it private and not sharing it with others unless you want to.", "By showing it to everyone to prove you have nothing to hide.", "By writing only positive things.", "By not writing anything too personal."],
+            "correct_answer": "By keeping it private and not sharing it with others unless you want to.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 99,
+            "question": "What is a 'themed diary'?",
+            "options": ["A diary focused on a specific topic, like travel, food, or dreams.", "A diary with a decorative cover.", "A diary written in a specific theme, like a fantasy world.", "A diary with a lock and key."],
+            "correct_answer": "A diary focused on a specific topic, like travel, food, or dreams.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 100,
+            "question": "How can you end a diary entry in a reflective way?",
+            "options": ["By summarizing what you learned or how the day's events might affect your future.", "By just writing 'The End'.", "By ending abruptly without any conclusion.", "By asking a random question."],
+            "correct_answer": "By summarizing what you learned or how the day's events might affect your future.",
+            "grammar_type": "Diary Entry Writing"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "How does the concept of 'unreliable narrator' apply to one's own diary entries when read years later?",
+          "options": ["The past self might have had a biased or incomplete understanding of events.", "A diary is always a completely accurate and objective record.", "The concept is not applicable to diary writing.", "It means the diary was written by someone else."],
+          "correct_answer": "The past self might have had a biased or incomplete understanding of events.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 102,
+          "question": "Analyze the difference in purpose and style between a personal diary entry and a blog post on the same topic.",
+          "options": ["A diary is private and introspective, while a blog is public and aims to engage an audience.", "There is no difference in purpose or style.", "A blog post is always more formal than a diary entry.", "A diary entry is longer than a blog post."],
+          "correct_answer": "A diary is private and introspective, while a blog is public and aims to engage an audience.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 103,
+          "question": "How can the practice of 'meta-cognition' (thinking about your own thinking) be incorporated into diary writing?",
+          "options": ["By reflecting on why you have certain thought patterns and biases.", "By avoiding deep thoughts.", "By writing down only your first, unedited thoughts.", "Meta-cognition is a scientific process not applicable to diaries."],
+          "correct_answer": "By reflecting on why you have certain thought patterns and biases.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 104,
+          "question": "Discuss the ethical considerations of reading someone else's diary without permission.",
+          "options": ["It is a violation of their privacy and a breach of trust.", "It is acceptable if you are a close friend or family member.", "It is a good way to get to know someone better.", "There are no ethical issues involved."],
+          "correct_answer": "It is a violation of their privacy and a breach of trust.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 105,
+          "question": "How can writing a diary from the perspective of an antagonist (villain) from a story enhance your understanding of the character?",
+          "options": ["It helps to explore their motivations and see the story from a different viewpoint.", "It is not useful as villains are always purely evil.", "It would be too difficult to write.", "It is better to write from the hero's perspective."],
+          "correct_answer": "It helps to explore their motivations and see the story from a different viewpoint.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 106,
+          "question": "What is the psychological impact of externalizing thoughts and feelings through diary writing?",
+          "options": ["It can reduce mental clutter and help in processing emotions objectively.", "It has no psychological impact.", "It can increase stress and anxiety.", "It is a form of escapism from reality."],
+          "correct_answer": "It can reduce mental clutter and help in processing emotions objectively.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 107,
+          "question": "How does the narrative structure of a diary entry differ from that of a traditional short story?",
+          "options": ["A diary entry is often more fragmented and less plot-driven than a short story.", "There is no difference in structure.", "A diary entry has a clear beginning, middle, and end, just like a short story.", "A short story is always written in the first person."],
+          "correct_answer": "A diary entry is often more fragmented and less plot-driven than a short story.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 108,
+          "question": "Explore the concept of 'performative writing' in the context of a diary that is intended to be read by others.",
+          "options": ["The writer may alter their true feelings to create a certain impression on the reader.", "It means performing a play based on the diary.", "All diary writing is performative.", "It refers to the quality of the handwriting."],
+          "correct_answer": "The writer may alter their true feelings to create a certain impression on the reader.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 109,
+          "question": "How can a diary serve as a primary source for historical research?",
+          "options": ["It can provide a personal perspective on historical events and daily life of a particular era.", "A diary is not considered a reliable historical source.", "Only if it is written by a famous historian.", "It is only useful for family history, not for major historical events."],
+          "correct_answer": "It can provide a personal perspective on historical events and daily life of a particular era.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 110,
+          "question": "Discuss the potential therapeutic benefits of keeping a 'dream journal' section in a diary.",
+          "options": ["It can help in identifying recurring themes and symbols in dreams, offering insights into the subconscious.", "Dream journaling has no therapeutic value.", "It can be dangerous as it may bring up repressed memories.", "It is only for people who have nightmares."],
+          "correct_answer": "It can help in identifying recurring themes and symbols in dreams, offering insights into the subconscious.",
+          "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 111,
+            "question": "Critique the idea that a diary is a completely 'truthful' account of one's life.",
+            "options": ["Memory is subjective and can be influenced by emotions, making a diary a personal truth, not an objective one.", "A diary is always 100% truthful.", "The truthfulness of a diary depends on the quality of the pen used.", "If a diary contains lies, it is not a real diary."],
+            "correct_answer": "Memory is subjective and can be influenced by emotions, making a diary a personal truth, not an objective one.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 112,
+            "question": "How can the act of naming one's diary (e.g., Anne Frank's 'Kitty') affect the writing process?",
+            "options": ["It can create a stronger sense of intimacy and make it easier to confide feelings.", "It is a childish practice that should be avoided.", "It has no effect on the writing process.", "It is only done in fictional diaries."],
+            "correct_answer": "It can create a stronger sense of intimacy and make it easier to confide feelings.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 113,
+            "question": "Analyze the role of a diary in identity formation during adolescence.",
+            "options": ["It provides a private space to experiment with different identities and reflect on self-concept.", "It can hinder identity formation by isolating the individual.", "A diary has no role in identity formation.", "Identity is formed only through social interaction, not through writing."],
+            "correct_answer": "It provides a private space to experiment with different identities and reflect on self-concept.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 114,
+            "question": "Compare and contrast the diary as a literary device in fiction versus its function in real life.",
+            "options": ["In fiction, it's often a tool for exposition and character development, while in real life, its primary function is personal reflection.", "There is no difference.", "The diary as a literary device is always unreliable.", "Real-life diaries are more interesting than fictional ones."],
+            "correct_answer": "In fiction, it's often a tool for exposition and character development, while in real life, its primary function is personal reflection.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 115,
+            "question": "How can keeping a diary help in developing empathy?",
+            "options": ["By writing about conflicts from another person's perspective.", "By focusing only on one's own feelings.", "Empathy cannot be developed through writing.", "By reading other people's diaries."],
+            "correct_answer": "By writing about conflicts from another person's perspective.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 116,
+            "question": "Discuss the challenges of maintaining a long-term diary and strategies to overcome them.",
+            "options": ["Challenges include lack of time and motivation; strategies include setting a routine and using prompts.", "There are no challenges to keeping a diary.", "If it is challenging, one should stop writing.", "The only challenge is finding a good diary."],
+            "correct_answer": "Challenges include lack of time and motivation; strategies include setting a routine and using prompts.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 117,
+            "question": "How can the tone of a diary entry subtly reveal the writer's hidden emotions, even if they are not explicitly stated?",
+            "options": ["Through word choice, sentence structure, and what is left unsaid.", "The tone of a diary is always explicit and direct.", "Hidden emotions cannot be revealed in writing.", "Only a psychologist can analyze the tone of a diary."],
+            "correct_answer": "Through word choice, sentence structure, and what is left unsaid.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 118,
+            "question": "Explore the concept of 'legacy' in the context of a diary. Why might someone want their diary to be read after they are gone?",
+            "options": ["To share their life experiences and wisdom with future generations.", "This is a morbid thought and should be avoided.", "For fame and recognition.", "A diary is always meant to be destroyed after the writer's death."],
+            "correct_answer": "To share their life experiences and wisdom with future generations.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 119,
+            "question": "Analyze the impact of digital diaries and journaling apps on the practice of diary writing.",
+            "options": ["They offer convenience and multimedia features but may lack the personal touch of a handwritten diary.", "Digital diaries are in every way superior to handwritten ones.", "Handwritten diaries are obsolete in the digital age.", "There is no significant impact."],
+            "correct_answer": "They offer convenience and multimedia features but may lack the personal touch of a handwritten diary.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 120,
+            "question": "How can a diary be used as a tool for 'Socratic questioning' to challenge one's own beliefs and assumptions?",
+            "options": ["By asking probing questions to yourself about why you believe certain things.", "Socratic questioning is only for philosophical debates.", "This is too complex for a diary.", "By accepting all your beliefs without question."],
+            "correct_answer": "By asking probing questions to yourself about why you believe certain things.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 121,
+            "question": "Discuss the privacy implications of cloud-based digital diaries.",
+            "options": ["There is a potential risk of data breaches and unauthorized access.", "They are completely secure and private.", "Privacy is not a concern for digital diaries.", "Cloud-based diaries are illegal."],
+            "correct_answer": "There is a potential risk of data breaches and unauthorized access.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 122,
+            "question": "How can the structure of a diary entry be manipulated for artistic effect in creative writing?",
+            "options": ["By using non-linear timelines, fragmented sentences, or stream of consciousness.", "The structure of a diary entry is fixed and cannot be changed.", "Artistic effects are not suitable for diary writing.", "Only professional writers can manipulate the structure."],
+            "correct_answer": "By using non-linear timelines, fragmented sentences, or stream of consciousness.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 123,
+            "question": "Examine the role of memory censorship in diary writing, where a writer might unconsciously omit or alter certain memories.",
+            "options": ["It's a psychological defense mechanism to protect oneself from traumatic experiences.", "Writers always remember everything with perfect clarity.", "Memory censorship is a deliberate act of lying.", "This concept is not relevant to diary writing."],
+            "correct_answer": "It's a psychological defense mechanism to protect oneself from traumatic experiences.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 124,
+            "question": "How can a diary be used to combat confirmation bias?",
+            "options": ["By actively seeking and recording evidence that contradicts your own beliefs.", "By only recording information that confirms your beliefs.", "A diary cannot be used for this purpose.", "Confirmation bias is not a real thing."],
+            "correct_answer": "By actively seeking and recording evidence that contradicts your own beliefs.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 125,
+            "question": "Analyze the use of 'subtext' in a diary entry, where the unwritten meaning is more significant than the words themselves.",
+            "options": ["It is a powerful literary tool to convey deep emotions and complex situations.", "A diary entry should always be direct and have no subtext.", "Subtext is too difficult for a student to use.", "Only a teacher can understand the subtext."],
+            "correct_answer": "It is a powerful literary tool to convey deep emotions and complex situations.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 126,
+            "question": "Discuss the cultural variations in the practice and perception of diary writing.",
+            "options": ["In some cultures, it is a common practice, while in others, it might be seen as overly individualistic.", "Diary writing is a universal practice with no cultural variations.", "Only Western cultures have a tradition of diary writing.", "The perception of diary writing is the same everywhere."],
+            "correct_answer": "In some cultures, it is a common practice, while in others, it might be seen as overly individualistic.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 127,
+            "question": "How can a 'dialogue journal' between two people (e.g., a student and a teacher) be a tool for communication and learning?",
+            "options": ["It creates a safe space for written conversation and feedback.", "It is not a real form of journaling.", "It is a waste of the teacher's time.", "Dialogue journals should be private and not shared."],
+            "correct_answer": "It creates a safe space for written conversation and feedback.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 128,
+            "question": "Explore the connection between journaling and the development of a 'growth mindset'.",
+            "options": ["By focusing on learning from challenges and seeing effort as a path to mastery.", "Journaling promotes a 'fixed mindset'.", "There is no connection between the two.", "A growth mindset is something you are born with."],
+            "correct_answer": "By focusing on learning from challenges and seeing effort as a path to mastery.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 129,
+            "question": "Critically evaluate the claim that 'a diary is a conversation with oneself'.",
+            "options": ["It is a useful metaphor, but the 'conversation' is one-sided and shaped by the writer's self-perception.", "It is a literal conversation with a book.", "The claim is completely false.", "This metaphor is too simple to be meaningful."],
+            "correct_answer": "It is a useful metaphor, but the 'conversation' is one-sided and shaped by the writer's self-perception.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 130,
+            "question": "How can the practice of writing 'morning pages' (a stream-of-consciousness writing exercise) benefit a diarist?",
+            "options": ["It can clear the mind of clutter and unlock creativity for more focused diary entries later.", "It is a waste of paper.", "It is too time-consuming.", "Morning pages are not related to diary writing."],
+            "correct_answer": "It can clear the mind of clutter and unlock creativity for more focused diary entries later.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 131,
+            "question": "Analyze the diary as a form of self-creation, where the act of writing helps to shape and define the self.",
+            "options": ["The self is not just recorded but actively constructed through the narrative choices made in the diary.", "The self is a fixed entity that is merely described in a diary.", "This is a philosophical concept not relevant to students.", "Self-creation is an illusion."],
+            "correct_answer": "The self is not just recorded but actively constructed through the narrative choices made in the diary.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 132,
+            "question": "How can a diary be used to trace the evolution of one's worldview over time?",
+            "options": ["By re-reading entries from different life stages and observing changes in beliefs and opinions.", "A person's worldview does not change.", "It is impossible to trace this evolution.", "A diary is not suitable for this purpose."],
+            "correct_answer": "By re-reading entries from different life stages and observing changes in beliefs and opinions.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 133,
+            "question": "Discuss the limitations of a diary as a tool for self-understanding.",
+            "options": ["It can sometimes lead to rumination on negative thoughts and is limited by the writer's own self-awareness.", "A diary is a perfect tool with no limitations.", "The only limitation is the number of pages.", "Self-understanding cannot be achieved through a diary."],
+            "correct_answer": "It can sometimes lead to rumination on negative thoughts and is limited by the writer's own self-awareness.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 134,
+            "question": "Explore the use of symbolism in a personal diary. How can everyday objects or events take on a deeper meaning?",
+            "options": ["Through personal association and reflection, a writer can imbue things with symbolic significance.", "Symbolism is only for poetry and fiction.", "A diary should be literal and avoid symbolism.", "Only professional writers can use symbolism."],
+            "correct_answer": "Through personal association and reflection, a writer can imbue things with symbolic significance.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 135,
+            "question": "How can the study of famous diaries (e.g., The Diary of a Young Girl) inform one's own diary writing practice?",
+            "options": ["It can provide inspiration and show the power of a diary to capture the human experience.", "It can be intimidating and discourage one's own writing.", "Famous diaries are not relevant to personal diary writing.", "One should not read other people's diaries."],
+            "correct_answer": "It can provide inspiration and show the power of a diary to capture the human experience.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 136,
+            "question": "Critique the practice of 'bullet journaling'. How does its structured format differ from traditional, long-form diary writing?",
+            "options": ["It prioritizes organization and productivity over free-flowing emotional expression.", "It is the same as traditional diary writing.", "Bullet journaling is not a valid form of journaling.", "It is more creative than traditional diary writing."],
+            "correct_answer": "It prioritizes organization and productivity over free-flowing emotional expression.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 137,
+            "question": "Analyze the relationship between memory and narrative in a diary. How does the act of writing shape our memories?",
+            "options": ["Writing a memory down can solidify it and shape it into a coherent story, sometimes altering the original experience.", "Memory is a perfect recording of the past.", "Writing has no effect on memory.", "Narrative is only important in fiction."],
+            "correct_answer": "Writing a memory down can solidify it and shape it into a coherent story, sometimes altering the original experience.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 138,
+            "question": "Discuss the role of audience, even a hypothetical one, in shaping a diary entry.",
+            "options": ["Even an imagined reader can influence the writer's tone and what they choose to include or omit.", "A diary has no audience, so it is not a factor.", "The audience is only important for public writing.", "Only a real audience can shape a diary entry."],
+            "correct_answer": "Even an imagined reader can influence the writer's tone and what they choose to include or omit.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 139,
+            "question": "How can 'unsent letters' written in a diary be a tool for emotional release and clarification of feelings?",
+            "options": ["They allow you to express things you might not say in person, providing closure or understanding.", "It is a pointless exercise as the letters are never sent.", "It can make you more angry and confused.", "Unsent letters are not part of diary writing."],
+            "correct_answer": "They allow you to express things you might not say in person, providing closure or understanding.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 140,
+            "question": "Examine the diary as a space of resistance, where individuals can express thoughts that challenge societal norms.",
+            "options": ["It can be a safe place to explore and document dissenting ideas and personal truths.", "A diary should always conform to societal norms.", "This is a dangerous use of a diary.", "A diary is not a political tool."],
+            "correct_answer": "It can be a safe place to explore and document dissenting ideas and personal truths.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 141,
+            "question": "How does the selection of what to write about in a diary contribute to the construction of one's life story?",
+            "options": ["The events we choose to record become the defining moments of our personal narrative.", "We should write about everything that happens every day.", "The selection process is random and has no meaning.", "Our life story is fixed and not constructed."],
+            "correct_answer": "The events we choose to record become the defining moments of our personal narrative.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 142,
+            "question": "Discuss the potential for self-deception in a diary. How can a writer be dishonest with themselves?",
+            "options": ["By rationalizing poor behavior or avoiding uncomfortable truths.", "A writer is always honest in their diary.", "Self-deception is not possible in a private document.", "Only other people can deceive us."],
+            "correct_answer": "By rationalizing poor behavior or avoiding uncomfortable truths.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 143,
+            "question": "Analyze the aesthetics of a diary. How can the physical object itself (cover, paper, etc.) be an expression of the owner's identity?",
+            "options": ["The choice of diary can reflect the owner's personality and values.", "The physical appearance of a diary is unimportant.", "All diaries look the same.", "It is shallow to judge a diary by its cover."],
+            "correct_answer": "The choice of diary can reflect the owner's personality and values.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 144,
+            "question": "How can the practice of diary writing foster a sense of agency and control over one's life?",
+            "options": ["By turning passive experiences into active narratives and allowing for reflection and planning.", "It can make one feel more helpless and out of control.", "Agency comes from action, not from writing.", "A diary is just a record of events, it cannot give control."],
+            "correct_answer": "By turning passive experiences into active narratives and allowing for reflection and planning.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 145,
+            "question": "Explore the ethical dilemma of a biographer using a subject's private diary. What are the competing interests?",
+            "options": ["The public's right to know versus the individual's right to privacy.", "There is no ethical dilemma.", "The biographer has every right to use the diary.", "The diary should always be published."],
+            "correct_answer": "The public's right to know versus the individual's right to privacy.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 146,
+            "question": "How can collaborative journaling (e.g., a family or a group of friends writing in the same book) build relationships?",
+            "options": ["It can create a shared history and foster open communication.", "It can lead to arguments and misunderstandings.", "Journaling is a solitary activity and should not be collaborative.", "It is a violation of privacy."],
+            "correct_answer": "It can create a shared history and foster open communication.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 147,
+            "question": "Analyze the concept of 'closure' in a diary entry. How can writing help in moving on from a past event?",
+            "options": ["By allowing for a full expression of emotions and a final reflection on the experience.", "Writing about a past event can prevent one from moving on.", "Closure can only be achieved by talking to someone.", "A diary entry cannot provide closure."],
+            "correct_answer": "By allowing for a full expression of emotions and a final reflection on the experience.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 148,
+            "question": "Discuss the influence of social media on modern diary writing, particularly the pressure to present a 'curated' life.",
+            "options": ["It may lead some to treat their private diary as another platform for performance, affecting authenticity.", "Social media has no influence on private diary writing.", "It has made diary writing more honest and authentic.", "The influence is only positive."],
+            "correct_answer": "It may lead some to treat their private diary as another platform for performance, affecting authenticity.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+            "id": 149,
+            "question": "How can the practice of writing a 'legacy letter' in a diary serve as a culminating life reflection?",
+            "options": ["It allows a person to summarize their life's lessons, values, and hopes for their loved ones.", "It is a morbid and unnecessary exercise.", "A legacy letter is a legal document, not a diary entry.", "It is better to keep such thoughts to oneself."],
+            "correct_answer": "It allows a person to summarize their life's lessons, values, and hopes for their loved ones.",
+            "grammar_type": "Diary Entry Writing"
+        },
+        {
+          "id": 150,
+          "question": "Evaluate the effectiveness of using a diary as the sole method for managing significant mental health challenges.",
+          "options": ["While beneficial for processing emotions, it should not replace professional help when needed.", "It is the most effective method for all mental health issues.", "It has no effect on mental health.", "It can worsen mental health challenges by encouraging isolation."],
+          "correct_answer": "While beneficial for processing emotions, it should not replace professional help when needed.",
+          "grammar_type": "Diary Entry Writing"
+        }
+      ]
+    }
+  ]
+}
+

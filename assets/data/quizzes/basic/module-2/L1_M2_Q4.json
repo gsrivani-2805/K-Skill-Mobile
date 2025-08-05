@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which of these is a fruit?",
+          "options": ["Carrot", "Potato", "Apple", "Cabbage"],
+          "correct_answer": "Apple",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 2,
+          "question": "Which animal says 'moo'?",
+          "options": ["Dog", "Cat", "Cow", "Lion"],
+          "correct_answer": "Cow",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 3,
+          "question": "What do you wear on your feet?",
+          "options": ["Hat", "Shirt", "Socks", "Gloves"],
+          "correct_answer": "Socks",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 4,
+          "question": "What do we drink that comes from a cow?",
+          "options": ["Juice", "Water", "Milk", "Tea"],
+          "correct_answer": "Milk",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 5,
+          "question": "A baby dog is called a ____.",
+          "options": ["Kitten", "Puppy", "Cub", "Calf"],
+          "correct_answer": "Puppy",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 6,
+          "question": "You wear this on your head to protect you from the sun.",
+          "options": ["Scarf", "Belt", "Hat", "Shoes"],
+          "correct_answer": "Hat",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 7,
+          "question": "Which of these is a vegetable that grows under the ground?",
+          "options": ["Tomato", "Spinach", "Potato", "Broccoli"],
+          "correct_answer": "Potato",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 8,
+          "question": "Which animal is known as the 'king of the jungle'?",
+          "options": ["Tiger", "Elephant", "Lion", "Bear"],
+          "correct_answer": "Lion",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 9,
+          "question": "What piece of clothing do you wear on your legs?",
+          "options": ["Shirt", "Jacket", "Pants", "Gloves"],
+          "correct_answer": "Pants",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 10,
+          "question": "The meal you eat in the morning is called ____.",
+          "options": ["Lunch", "Dinner", "Snack", "Breakfast"],
+          "correct_answer": "Breakfast",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 11,
+          "question": "What does a sheep give us?",
+          "options": ["Cotton", "Silk", "Wool", "Leather"],
+          "correct_answer": "Wool",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 12,
+          "question": "A ____ is a warm piece of clothing for winter.",
+          "options": ["T-shirt", "Sweater", "Shorts", "Frock"],
+          "correct_answer": "Sweater",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 13,
+          "question": "Which food is made from flour and water and is often round?",
+          "options": ["Rice", "Chapati", "Dal", "Salad"],
+          "correct_answer": "Chapati",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 14,
+          "question": "A baby cat is called a ____.",
+          "options": ["Puppy", "Cub", "Kitten", "Joey"],
+          "correct_answer": "Kitten",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 15,
+          "question": "You wear ____ on your hands when it is cold.",
+          "options": ["Socks", "Shoes", "Gloves", "Hat"],
+          "correct_answer": "Gloves",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 16,
+          "question": "Which of these is a sweet food?",
+          "options": ["Lemon", "Salt", "Sugar", "Chilli"],
+          "correct_answer": "Sugar",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 17,
+          "question": "Which animal has a long trunk?",
+          "options": ["Giraffe", "Monkey", "Elephant", "Zebra"],
+          "correct_answer": "Elephant",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 18,
+          "question": "What do you wear to go swimming?",
+          "options": ["Sweater", "Jeans", "Swimsuit", "Jacket"],
+          "correct_answer": "Swimsuit",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 19,
+          "question": "What is the main food for rabbits?",
+          "options": ["Meat", "Carrots", "Milk", "Fish"],
+          "correct_answer": "Carrots",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 20,
+          "question": "Which animal gives us eggs?",
+          "options": ["Cow", "Goat", "Hen", "Pig"],
+          "correct_answer": "Hen",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 21,
+          "question": "A dress worn by girls is often called a ____.",
+          "options": ["Shirt", "Trousers", "Frock", "Coat"],
+          "correct_answer": "Frock",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 22,
+          "question": "The meal you eat at night is called ____.",
+          "options": ["Breakfast", "Lunch", "Dinner", "Brunch"],
+          "correct_answer": "Dinner",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 23,
+          "question": "Which animal has black and white stripes?",
+          "options": ["Tiger", "Leopard", "Zebra", "Lion"],
+          "correct_answer": "Zebra",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 24,
+          "question": "You wear these on your feet with shoes.",
+          "options": ["Gloves", "Socks", "Hats", "Scarves"],
+          "correct_answer": "Socks",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 25,
+          "question": "Which of these is a green vegetable?",
+          "options": ["Tomato", "Potato", "Spinach", "Onion"],
+          "correct_answer": "Spinach",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 26,
+          "question": "Which animal lives in water?",
+          "options": ["Bird", "Fish", "Monkey", "Cow"],
+          "correct_answer": "Fish",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 27,
+          "question": "What is the piece of clothing that covers the top part of your body?",
+          "options": ["Pants", "Skirt", "Shirt", "Shoes"],
+          "correct_answer": "Shirt",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 28,
+          "question": "A banana is a ____.",
+          "options": ["Vegetable", "Fruit", "Drink", "Grain"],
+          "correct_answer": "Fruit",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 29,
+          "question": "Which animal can fly?",
+          "options": ["Dog", "Fish", "Bird", "Snake"],
+          "correct_answer": "Bird",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 30,
+          "question": "A piece of clothing for a woman or girl that hangs from the waist is a ____.",
+          "options": ["Shirt", "Jacket", "Skirt", "Trousers"],
+          "correct_answer": "Skirt",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 31,
+          "question": "The meal you eat in the afternoon is ____.",
+          "options": ["Breakfast", "Lunch", "Dinner", "Snack"],
+          "correct_answer": "Lunch",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 32,
+          "question": "A baby lion is called a ____.",
+          "options": ["Calf", "Fawn", "Cub", "Lamb"],
+          "correct_answer": "Cub",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 33,
+          "question": "You wear a ____ around your neck in winter.",
+          "options": ["Belt", "Hat", "Scarf", "Tie"],
+          "correct_answer": "Scarf",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 34,
+          "question": "Which of these is a drink?",
+          "options": ["Bread", "Rice", "Juice", "Salad"],
+          "correct_answer": "Juice",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 35,
+          "question": "An animal that is kept at home is a ____.",
+          "options": ["Wild animal", "Farm animal", "Pet", "Zoo animal"],
+          "correct_answer": "Pet",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 36,
+          "question": "What is a common piece of clothing for school?",
+          "options": ["Party dress", "Swimsuit", "Uniform", "Nightgown"],
+          "correct_answer": "Uniform",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 37,
+          "question": "An orange is a type of ____.",
+          "options": ["Vegetable", "Fruit", "Meat", "Dairy"],
+          "correct_answer": "Fruit",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 38,
+          "question": "Which animal has a very long neck?",
+          "options": ["Elephant", "Giraffe", "Hippo", "Rhino"],
+          "correct_answer": "Giraffe",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 39,
+          "question": "You wear a ____ to protect your clothes while cooking.",
+          "options": ["Coat", "Jacket", "Apron", "Sweater"],
+          "correct_answer": "Apron",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 40,
+          "question": "What is the main food in many parts of South India, often eaten steamed?",
+          "options": ["Bread", "Noodles", "Rice", "Pasta"],
+          "correct_answer": "Rice",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 41,
+          "question": "Which animal lives on a farm and gives us milk?",
+          "options": ["Sheep", "Goat", "Cow", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 42,
+          "question": "What do you wear to sleep?",
+          "options": ["Uniform", "Suit", "Pyjamas", "Jeans"],
+          "correct_answer": "Pyjamas",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 43,
+          "question": "A tomato is technically a ____, but we use it as a vegetable.",
+          "options": ["Fruit", "Seed", "Flower", "Root"],
+          "correct_answer": "Fruit",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 44,
+          "question": "What is a baby sheep called?",
+          "options": ["Kid", "Calf", "Lamb", "Piglet"],
+          "correct_answer": "Lamb",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 45,
+          "question": "A ____ is a formal piece of neckwear for men.",
+          "options": ["Scarf", "Muffler", "Tie", "Bow"],
+          "correct_answer": "Tie",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 46,
+          "question": "Which of these is a type of bread?",
+          "options": ["Pasta", "Noodle", "Bun", "Cake"],
+          "correct_answer": "Bun",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 47,
+          "question": "Which animal is a popular pet and says 'meow'?",
+          "options": ["Dog", "Bird", "Cat", "Rabbit"],
+          "correct_answer": "Cat",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 48,
+          "question": "What do you wear on your wrist to tell the time?",
+          "options": ["Bracelet", "Bangle", "Watch", "Ring"],
+          "correct_answer": "Watch",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 49,
+          "question": "Dal is a dish made from ____.",
+          "options": ["Rice", "Wheat", "Lentils", "Vegetables"],
+          "correct_answer": "Lentils",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 50,
+          "question": "Which of these is a large, wild cat with stripes?",
+          "options": ["Lion", "Cheetah", "Tiger", "Leopard"],
+          "correct_answer": "Tiger",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 51,
+          "question": "What do you wear when it is raining?",
+          "options": ["Sun hat", "Raincoat", "Sweater", "T-shirt"],
+          "correct_answer": "Raincoat",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 52,
+          "question": "Which of these do we get from plants?",
+          "options": ["Eggs", "Milk", "Vegetables", "Meat"],
+          "correct_answer": "Vegetables",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 53,
+          "question": "Which animal can live both on land and in water?",
+          "options": ["Fish", "Frog", "Lizard", "Bird"],
+          "correct_answer": "Frog",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 54,
+          "question": "A jacket and matching trousers are called a ____.",
+          "options": ["Suit", "Uniform", "Costume", "Outfit"],
+          "correct_answer": "Suit",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 55,
+          "question": "Which of these is a dairy product?",
+          "options": ["Bread", "Apple", "Cheese", "Potato"],
+          "correct_answer": "Cheese",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 56,
+          "question": "A snake is a type of ____.",
+          "options": ["Mammal", "Insect", "Reptile", "Bird"],
+          "correct_answer": "Reptile",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 57,
+          "question": "A T-shirt is usually made of ____.",
+          "options": ["Wool", "Silk", "Cotton", "Leather"],
+          "correct_answer": "Cotton",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 58,
+          "question": "What is the tool you use to eat soup?",
+          "options": ["Fork", "Knife", "Spoon", "Chopsticks"],
+          "correct_answer": "Spoon",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 59,
+          "question": "An animal that eats only plants is called a ____.",
+          "options": ["Carnivore", "Herbivore", "Omnivore", "Predator"],
+          "correct_answer": "Herbivore",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 60,
+          "question": "You use a ____ to hold up your pants.",
+          "options": ["Tie", "Scarf", "Belt", "Rope"],
+          "correct_answer": "Belt",
+          "grammar_type": "Food, Animals, and Clothes"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 61,
+          "question": "Which food item is a staple grain in many cultures?",
+          "options": ["Lentils", "Beans", "Wheat", "Potato"],
+          "correct_answer": "Wheat",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 62,
+          "question": "Which of these is a mammal that can fly?",
+          "options": ["Ostrich", "Penguin", "Bat", "Flying squirrel"],
+          "correct_answer": "Bat",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 63,
+          "question": "What is the material for jeans called?",
+          "options": ["Cotton", "Linen", "Denim", "Polyester"],
+          "correct_answer": "Denim",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 64,
+          "question": "The process of cooking food in hot oil is called ____.",
+          "options": ["Boiling", "Baking", "Frying", "Steaming"],
+          "correct_answer": "Frying",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 65,
+          "question": "A group of fish is called a ____.",
+          "options": ["Herd", "Flock", "Pack", "School"],
+          "correct_answer": "School",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 66,
+          "question": "What do you call a shoe that is open at the back?",
+          "options": ["Boot", "Sandal", "Sneaker", "Loafer"],
+          "correct_answer": "Sandal",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 67,
+          "question": "Yoghurt (curd) is what type of food?",
+          "options": ["Grain", "Dairy", "Vegetable", "Meat"],
+          "correct_answer": "Dairy",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 68,
+          "question": "An animal that eats both plants and meat is an ____.",
+          "options": ["Omnivore", "Herbivore", "Carnivore", "Insectivore"],
+          "correct_answer": "Omnivore",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 69,
+          "question": "Which of these is an accessory?",
+          "options": ["Trousers", "Shirt", "Jacket", "Bracelet"],
+          "correct_answer": "Bracelet",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 70,
+          "question": "A food that is grown without chemicals is called ____.",
+          "options": ["Natural", "Fresh", "Organic", "Pure"],
+          "correct_answer": "Organic",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 71,
+          "question": "What is the natural home of an animal called?",
+          "options": ["House", "Zoo", "Habitat", "Environment"],
+          "correct_answer": "Habitat",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 72,
+          "question": "A warm, soft fabric made from the fleece of sheep is ____.",
+          "options": ["Cotton", "Silk", "Wool", "Linen"],
+          "correct_answer": "Wool",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 73,
+          "question": "What do you call food that is preserved in vinegar, like mangoes or chillies?",
+          "options": ["Jam", "Sauce", "Pickle", "Chutney"],
+          "correct_answer": "Pickle",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 74,
+          "question": "Which of these animals is a primate?",
+          "options": ["Dog", "Cat", "Monkey", "Horse"],
+          "correct_answer": "Monkey",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 75,
+          "question": "The part of a shirt that goes around your wrist is a ____.",
+          "options": ["Collar", "Sleeve", "Cuff", "Button"],
+          "correct_answer": "Cuff",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 76,
+          "question": "What is the sweet substance made by bees?",
+          "options": ["Sugar", "Nectar", "Honey", "Syrup"],
+          "correct_answer": "Honey",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 77,
+          "question": "A group of wolves is called a ____.",
+          "options": ["Pack", "Herd", "Pride", "Flock"],
+          "correct_answer": "Pack",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 78,
+          "question": "What is a 'blouse'?",
+          "options": ["A type of skirt", "A shirt for women or girls", "A type of trousers", "A man's formal shirt"],
+          "correct_answer": "A shirt for women or girls",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 79,
+          "question": "Which of these is a type of seafood?",
+          "options": ["Chicken", "Mutton", "Prawn", "Beef"],
+          "correct_answer": "Prawn",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 80,
+          "question": "An animal that is active at night is called ____.",
+          "options": ["Nocturnal", "Diurnal", "Crepuscular", "Hibernal"],
+          "correct_answer": "Nocturnal",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 81,
+          "question": "A piece of clothing without sleeves is called ____.",
+          "options": ["Sleeveless", "Full-sleeved", "Half-sleeved", "Short-sleeved"],
+          "correct_answer": "Sleeveless",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 82,
+          "question": "What is the process of making food safe to eat and last longer called?",
+          "options": ["Cooking", "Preservation", "Fermentation", "Curing"],
+          "correct_answer": "Preservation",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 83,
+          "question": "A baby kangaroo is called a ____.",
+          "options": ["Cub", "Joey", "Fawn", "Kid"],
+          "correct_answer": "Joey",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 84,
+          "question": "What is a 'cardigan'?",
+          "options": ["A type of T-shirt", "A knitted sweater that opens in the front", "A formal jacket", "A type of hat"],
+          "correct_answer": "A knitted sweater that opens in the front",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 85,
+          "question": "Which of these is a root vegetable?",
+          "options": ["Cabbage", "Cauliflower", "Radish", "Peas"],
+          "correct_answer": "Radish",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 86,
+          "question": "A group of lions is called a ____.",
+          "options": ["Herd", "Pride", "Pack", "Colony"],
+          "correct_answer": "Pride",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 87,
+          "question": "Which of these is a traditional Indian garment for women?",
+          "options": ["Sari", "Kimono", "Kilt", "Toga"],
+          "correct_answer": "Sari",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 88,
+          "question": "The edible seeds of plants like wheat, rice, and corn are called ____.",
+          "options": ["Pulses", "Grains", "Nuts", "Herbs"],
+          "correct_answer": "Grains",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 89,
+          "question": "Which animal is known for its ability to change colour?",
+          "options": ["Lizard", "Frog", "Chameleon", "Snake"],
+          "correct_answer": "Chameleon",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 90,
+          "question": "What is the part of a shirt that fits around the neck?",
+          "options": ["Cuff", "Sleeve", "Collar", "Lapel"],
+          "correct_answer": "Collar",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 91,
+          "question": "What is the process of heating milk to kill harmful bacteria?",
+          "options": ["Boiling", "Sterilization", "Pasteurization", "Homogenization"],
+          "correct_answer": "Pasteurization",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 92,
+          "question": "A young deer is called a ____.",
+          "options": ["Fawn", "Colt", "Calf", "Kid"],
+          "correct_answer": "Fawn",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 93,
+          "question": "A loose, one-piece garment that covers the whole body, worn for work, is called ____.",
+          "options": ["Dungarees", "Overalls", "Jumpsuit", "Boilersuit"],
+          "correct_answer": "Overalls",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 94,
+          "question": "Food eaten between main meals is called a ____.",
+          "options": ["Dessert", "Appetizer", "Snack", "Brunch"],
+          "correct_answer": "Snack",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 95,
+          "question": "What is the hard outer covering of a turtle called?",
+          "options": ["Skin", "Shell", "Carapace", "Hide"],
+          "correct_answer": "Carapace",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 96,
+          "question": "What is the fine, soft fabric produced by silkworms?",
+          "options": ["Cotton", "Linen", "Silk", "Satin"],
+          "correct_answer": "Silk",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 97,
+          "question": "Which cooking method uses dry heat in an oven?",
+          "options": ["Frying", "Boiling", "Baking", "Grilling"],
+          "correct_answer": "Baking",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 98,
+          "question": "A group of birds is called a ____.",
+          "options": ["Herd", "Pack", "Swarm", "Flock"],
+          "correct_answer": "Flock",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 99,
+          "question": "A long, loose piece of clothing worn by judges or scholars is a ____.",
+          "options": ["Coat", "Robe", "Gown", "Cape"],
+          "correct_answer": "Robe",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 100,
+          "question": "The meat from a pig is called ____.",
+          "options": ["Beef", "Mutton", "Pork", "Venison"],
+          "correct_answer": "Pork",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 101,
+          "question": "Which of these animals hibernates in winter?",
+          "options": ["Lion", "Deer", "Bear", "Fox"],
+          "correct_answer": "Bear",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 102,
+          "question": "A protective covering for the head worn by a motorcyclist is a ____.",
+          "options": ["Cap", "Hat", "Helmet", "Hood"],
+          "correct_answer": "Helmet",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 103,
+          "question": "Which of these is a type of nut?",
+          "options": ["Pea", "Bean", "Almond", "Lentil"],
+          "correct_answer": "Almond",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 104,
+          "question": "Which animal is the largest land animal?",
+          "options": ["Rhinoceros", "Hippopotamus", "Elephant", "Giraffe"],
+          "correct_answer": "Elephant",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 105,
+          "question": "The part of a jacket or coat that folds back at the front is the ____.",
+          "options": ["Collar", "Lapel", "Cuff", "Hem"],
+          "correct_answer": "Lapel",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 106,
+          "question": "A dish made of raw vegetables is called a ____.",
+          "options": ["Curry", "Stew", "Soup", "Salad"],
+          "correct_answer": "Salad",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 107,
+          "question": "A group of cattle or elephants is called a ____.",
+          "options": ["Flock", "Herd", "Pack", "Swarm"],
+          "correct_answer": "Herd",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 108,
+          "question": "A short coat is called a ____.",
+          "options": ["Blazer", "Jacket", "Vest", "Trench coat"],
+          "correct_answer": "Jacket",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 109,
+          "question": "What is the meat from a sheep called?",
+          "options": ["Beef", "Pork", "Venison", "Mutton"],
+          "correct_answer": "Mutton",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 110,
+          "question": "The process of an animal shedding its old skin is called ____.",
+          "options": ["Moulting", "Hibernation", "Metamorphosis", "Migration"],
+          "correct_answer": "Moulting",
+          "grammar_type": "Food, Animals, and Clothes"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 111,
+          "question": "The art of preparing and serving fine food is called ____.",
+          "options": ["Cuisine", "Gastronomy", "Cooking", "Culinary arts"],
+          "correct_answer": "Gastronomy",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 112,
+          "question": "An animal that hunts other animals for food is a ____.",
+          "options": ["Prey", "Predator", "Scavenger", "Forager"],
+          "correct_answer": "Predator",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 113,
+          "question": "A fabric made from the flax plant, known for being cool in hot weather, is ____.",
+          "options": ["Cotton", "Linen", "Silk", "Rayon"],
+          "correct_answer": "Linen",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 114,
+          "question": "Which of these is a legume?",
+          "options": ["Wheat", "Rice", "Chickpea", "Corn"],
+          "correct_answer": "Chickpea",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 115,
+          "question": "An animal that lives by eating dead animals is a ____.",
+          "options": ["Predator", "Scavenger", "Decomposer", "Parasite"],
+          "correct_answer": "Scavenger",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 116,
+          "question": "What is a 'tuxedo'?",
+          "options": ["A type of casual suit", "A man's formal suit for evening wear", "A type of overcoat", "A military uniform"],
+          "correct_answer": "A man's formal suit for evening wear",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 117,
+          "question": "The process of soaking food in a seasoned liquid before cooking is called ____.",
+          "options": ["Marinating", "Simmering", "Poaching", "Braising"],
+          "correct_answer": "Marinating",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 118,
+          "question": "The seasonal movement of animals from one region to another is ____.",
+          "options": ["Hibernation", "Migration", "Estivation", "Navigation"],
+          "correct_answer": "Migration",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 119,
+          "question": "A long, flowing dress for a very formal occasion is called a ____.",
+          "options": ["Frock", "Gown", "Tunic", "Kaftan"],
+          "correct_answer": "Gown",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 120,
+          "question": "What is 'poultry'?",
+          "options": ["Meat from pigs", "Domesticated birds like chicken and turkey", "Meat from cattle", "All types of seafood"],
+          "correct_answer": "Domesticated birds like chicken and turkey",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 121,
+          "question": "Which of these is a marsupial?",
+          "options": ["Bear", "Kangaroo", "Monkey", "Bat"],
+          "correct_answer": "Kangaroo",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 122,
+          "question": "What is the lower edge of a dress or skirt called?",
+          "options": ["Seam", "Hem", "Cuff", "Waistband"],
+          "correct_answer": "Hem",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 123,
+          "question": "A dish cooked slowly in a closed pot is a ____.",
+          "options": ["Roast", "Fry", "Casserole", "Grill"],
+          "correct_answer": "Casserole",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 124,
+          "question": "The process of a caterpillar turning into a butterfly is called ____.",
+          "options": ["Evolution", "Growth", "Metamorphosis", "Moulting"],
+          "correct_answer": "Metamorphosis",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 125,
+          "question": "A sleeveless garment worn over a shirt is a ____.",
+          "options": ["Cardigan", "Blazer", "Jacket", "Vest"],
+          "correct_answer": "Vest",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 126,
+          "question": "What does 'al dente' mean in cooking pasta?",
+          "options": ["Very soft", "Slightly undercooked", "Cooked until firm to the bite", "Overcooked"],
+          "correct_answer": "Cooked until firm to the bite",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 127,
+          "question": "An animal with a backbone is called a ____.",
+          "options": ["Invertebrate", "Vertebrate", "Mammal", "Reptile"],
+          "correct_answer": "Vertebrate",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 128,
+          "question": "What is 'haute couture'?",
+          "options": ["Ready-to-wear clothing", "Expensive, fashionable clothes made by leading designers", "Vintage clothing", "Sportswear"],
+          "correct_answer": "Expensive, fashionable clothes made by leading designers",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 129,
+          "question": "A person who does not eat any animal products, including dairy and eggs, is a ____.",
+          "options": ["Vegetarian", "Vegan", "Omnivore", "Pescetarian"],
+          "correct_answer": "Vegan",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 130,
+          "question": "The scientific study of animals is called ____.",
+          "options": ["Botany", "Zoology", "Biology", "Ecology"],
+          "correct_answer": "Zoology",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 131,
+          "question": "A small, decorative pin worn on clothing is a ____.",
+          "options": ["Brooch", "Medal", "Badge", "Button"],
+          "correct_answer": "Brooch",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 132,
+          "question": "What is 'venison'?",
+          "options": ["Meat from a sheep", "Meat from a deer", "Meat from a cow", "Meat from a pig"],
+          "correct_answer": "Meat from a deer",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 133,
+          "question": "An animal that is hunted and killed by another for food is ____.",
+          "options": ["Predator", "Prey", "Scavenger", "Forager"],
+          "correct_answer": "Prey",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 134,
+          "question": "What is 'haberdashery'?",
+          "options": ["A shop selling hats", "A shop selling men's clothing", "Items used in sewing, like buttons and zips", "A type of formal wear"],
+          "correct_answer": "Items used in sewing, like buttons and zips",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 135,
+          "question": "What is 'fermentation' in food?",
+          "options": ["A process of preserving with salt", "A chemical breakdown of a substance by microorganisms", "A method of cooking with steam", "A way to add flavour with herbs"],
+          "correct_answer": "A chemical breakdown of a substance by microorganisms",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 136,
+          "question": "What are animals that are born from eggs called?",
+          "options": ["Viviparous", "Mammalian", "Oviparous", "Marsupial"],
+          "correct_answer": "Oviparous",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 137,
+          "question": "A type of shoe with a very high, thin heel is called a ____.",
+          "options": ["Wedge", "Flat", "Stiletto", "Platform"],
+          "correct_answer": "Stiletto",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 138,
+          "question": "A substance, such as a vitamin or mineral, that is essential for health and growth is a ____.",
+          "options": ["Calorie", "Nutrient", "Fat", "Carbohydrate"],
+          "correct_answer": "Nutrient",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 139,
+          "question": "An animal that has been tamed and kept by humans is ____.",
+          "options": ["Wild", "Feral", "Domesticated", "Savage"],
+          "correct_answer": "Domesticated",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 140,
+          "question": "What is a 'sombrero'?",
+          "options": ["A type of shoe", "A type of scarf", "A wide-brimmed hat from Mexico", "A traditional Spanish dress"],
+          "correct_answer": "A wide-brimmed hat from Mexico",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 141,
+          "question": "The meat from cattle is called ____.",
+          "options": ["Beef", "Veal", "Pork", "Mutton"],
+          "correct_answer": "Beef",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 142,
+          "question": "An animal that chews the cud and has a four-chambered stomach is a ____.",
+          "options": ["Rodent", "Primate", "Ruminant", "Canine"],
+          "correct_answer": "Ruminant",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 143,
+          "question": "The art of dressing fashionably is known as ____.",
+          "options": ["Elegance", "Style", "Vogue", "Panache"],
+          "correct_answer": "Elegance",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 144,
+          "question": "What are 'crustaceans'?",
+          "options": ["A type of bread", "Animals like crabs and lobsters", "A type of vegetable", "Insects with a hard shell"],
+          "correct_answer": "Animals like crabs and lobsters",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 145,
+          "question": "Which of these animals is an amphibian?",
+          "options": ["Turtle", "Crocodile", "Salamander", "Lizard"],
+          "correct_answer": "Salamander",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 146,
+          "question": "A small, ornamental case for holding jewels or cosmetics, attached to a waistband, is a ____.",
+          "options": ["Pouch", "Chatelaine", "Vanity case", "Clutch"],
+          "correct_answer": "Chatelaine",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 147,
+          "question": "A person who eats fish but not other meat is a ____.",
+          "options": ["Vegan", "Vegetarian", "Pescetarian", "Flexitarian"],
+          "correct_answer": "Pescetarian",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 148,
+          "question": "What is a 'dromedary'?",
+          "options": ["A two-humped camel", "A one-humped camel", "A type of lizard", "A large bird"],
+          "correct_answer": "A one-humped camel",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 149,
+          "question": "The process of preparing and dressing leather is called ____.",
+          "options": ["Tanning", "Weaving", "Spinning", "Tailoring"],
+          "correct_answer": "Tanning",
+          "grammar_type": "Food, Animals, and Clothes"
+        },
+        {
+          "id": 150,
+          "question": "The edible internal organs of an animal, like the liver and kidneys, are called ____.",
+          "options": ["Meat", "Offal", "Guts", "Innards"],
+          "correct_answer": "Offal",
+          "grammar_type": "Food, Animals, and Clothes"
+        }
+      ]
+    }
+  ]
+}
+

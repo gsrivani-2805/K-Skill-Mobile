@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the main purpose of a speech?",
+          "options": ["To read a book out loud", "To give information or persuade an audience", "To have a private conversation", "To write a letter"],
+          "correct_answer": "To give information or persuade an audience",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 2,
+          "question": "What are the three main parts of a speech?",
+          "options": ["The Title, The Middle, The End", "The Greeting, The Story, The Thanks", "Introduction, Body, Conclusion", "First Part, Second Part, Third Part"],
+          "correct_answer": "Introduction, Body, Conclusion",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 3,
+          "question": "Which part of the speech comes first and grabs the audience's attention?",
+          "options": ["Body", "Conclusion", "Introduction", "Middle"],
+          "correct_answer": "Introduction",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 4,
+          "question": "What should you do at the very beginning of your speech to address the audience?",
+          "options": ["Start telling the story", "Ask a question", "Greet them (e.g., 'Good morning')", "Say 'thank you'"],
+          "correct_answer": "Greet them (e.g., 'Good morning')",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 5,
+          "question": "To make sure everyone understands you, you should speak...",
+          "options": ["very quickly", "very quietly", "clearly and loudly", "in a whisper"],
+          "correct_answer": "clearly and loudly",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 6,
+          "question": "Looking at the people you are talking to is called...",
+          "options": ["hand gestures", "body language", "eye contact", "loud voice"],
+          "correct_answer": "eye contact",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 7,
+          "question": "The longest part of the speech, which contains all the main points, is the...",
+          "options": ["Introduction", "Conclusion", "Body", "Greeting"],
+          "correct_answer": "Body",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 8,
+          "question": "How should you end your speech?",
+          "options": ["By just walking away", "By summarizing your points and saying 'Thank you'", "By starting a new topic", "By asking for a gift"],
+          "correct_answer": "By summarizing your points and saying 'Thank you'",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 9,
+          "question": "What is the most important thing to do before you give a speech?",
+          "options": ["Wear new clothes", "Eat a large meal", "Prepare and practice", "Sleep for a long time"],
+          "correct_answer": "Prepare and practice",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 10,
+          "question": "A speech that gives information about a topic is called an ______ speech.",
+          "options": ["funny", "angry", "informative", "sad"],
+          "correct_answer": "informative",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 11,
+          "question": "A speech that tries to convince you to do something is called a ______ speech.",
+          "options": ["persuasive", "boring", "long", "informative"],
+          "correct_answer": "persuasive",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 12,
+          "question": "If you speak too fast, your audience might...",
+          "options": ["understand you perfectly", "not understand what you are saying", "fall asleep", "clap loudly"],
+          "correct_answer": "not understand what you are saying",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 13,
+          "question": "The subject you are talking about in your speech is called the...",
+          "options": ["conclusion", "introduction", "greeting", "topic"],
+          "correct_answer": "topic",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 14,
+          "question": "It is good practice to stand ______ while giving a speech.",
+          "options": ["slouched", "straight and confident", "with your back to the audience", "with your hands in your pockets"],
+          "correct_answer": "straight and confident",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 15,
+          "question": "What is the conclusion of a speech for?",
+          "options": ["To introduce new points", "To summarize the main points", "To ask the audience for money", "To tell a long story"],
+          "correct_answer": "To summarize the main points",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 16,
+          "question": "What is the first step in preparing for a speech?",
+          "options": ["Writing the conclusion", "Choosing a topic", "Practicing in front of a mirror", "Memorizing the lines"],
+          "correct_answer": "Choosing a topic",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 17,
+          "question": "Using small cards with points written on them can help you ______ your speech.",
+          "options": ["forget", "remember", "lengthen", "ruin"],
+          "correct_answer": "remember",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 18,
+          "question": "The introduction should be...",
+          "options": ["long and boring", "short and interesting", "the last part you write", "full of difficult words"],
+          "correct_answer": "short and interesting",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 19,
+          "question": "The body of a speech is usually divided into several...",
+          "options": ["introductions", "conclusions", "main points or paragraphs", "greetings"],
+          "correct_answer": "main points or paragraphs",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 20,
+          "question": "A speech given to welcome guests is called a...",
+          "options": ["farewell speech", "thank you speech", "welcome speech", "persuasive speech"],
+          "correct_answer": "welcome speech",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 21,
+          "question": "What should your facial expression be if you are giving a happy speech?",
+          "options": ["Sad", "Angry", "Smiling", "Scared"],
+          "correct_answer": "Smiling",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 22,
+          "question": "If you feel nervous before a speech, it is helpful to...",
+          "options": ["run away", "shout loudly", "take a few deep breaths", "think of something sad"],
+          "correct_answer": "take a few deep breaths",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 23,
+          "question": "Using your hands while speaking is called using...",
+          "options": ["posture", "gestures", "eye contact", "volume"],
+          "correct_answer": "gestures",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 24,
+          "question": "The speed at which you talk is your...",
+          "options": ["volume", "pitch", "pace", "tone"],
+          "correct_answer": "pace",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 25,
+          "question": "A speech is a form of ______ speaking.",
+          "options": ["private", "secret", "public", "telephone"],
+          "correct_answer": "public",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 26,
+          "question": "It is important that your speech is ______ for the audience to follow.",
+          "options": ["disorganized", "well-organized", "very long", "very quiet"],
+          "correct_answer": "well-organized",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 27,
+          "question": "To make a point stronger, you can use a short...",
+          "options": ["dance", "song", "story or example", "nap"],
+          "correct_answer": "story or example",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 28,
+          "question": "A good speaker is also a good...",
+          "options": ["singer", "dancer", "listener", "artist"],
+          "correct_answer": "listener",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 29,
+          "question": "When you practice, you should try to...",
+          "options": ["read from the paper", "speak without looking at your notes", "speak as fast as possible", "sit down"],
+          "correct_answer": "speak without looking at your notes",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 30,
+          "question": "Your voice should be loud enough for people at the ______ of the room to hear.",
+          "options": ["front", "side", "back", "top"],
+          "correct_answer": "back",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 31,
+          "question": "Which of these is a good way to start a speech on 'Saving Water'?",
+          "options": ["By talking about the weather", "By saying, 'Water is a precious resource that we must not waste.'", "By talking about your favorite food", "By ending the speech"],
+          "correct_answer": "By saying, 'Water is a precious resource that we must not waste.'",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 32,
+          "question": "Writing down your main ideas before you write the full speech is called...",
+          "options": ["concluding", "greeting", "outlining", "performing"],
+          "correct_answer": "outlining",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 33,
+          "question": "The main idea of your whole speech should be stated in the...",
+          "options": ["body", "conclusion", "introduction", "greeting"],
+          "correct_answer": "introduction",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 34,
+          "question": "A speech to say goodbye to a retiring teacher is a ______ speech.",
+          "options": ["welcome", "farewell", "persuasive", "informative"],
+          "correct_answer": "farewell",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 35,
+          "question": "Why is it important to stand still and not move around too much?",
+          "options": ["It is not important.", "Too much movement can be distracting.", "It makes you look tired.", "It makes the speech shorter."],
+          "correct_answer": "Too much movement can be distracting.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 36,
+          "question": "The words you choose for your speech should be appropriate for the...",
+          "options": ["speaker", "audience", "time of day", "weather"],
+          "correct_answer": "audience",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 37,
+          "question": "If you speak clearly, you are easy to...",
+          "options": ["ignore", "forget", "understand", "see"],
+          "correct_answer": "understand",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 38,
+          "question": "The purpose of a speech on 'Road Safety' is to...",
+          "options": ["entertain the audience", "inform people about how to be safe on the road", "sell cars", "describe a road"],
+          "correct_answer": "inform people about how to be safe on the road",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 39,
+          "question": "A good conclusion leaves the audience with a ______ thought.",
+          "options": ["confusing", "clear and final", "new", "sad"],
+          "correct_answer": "clear and final",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 40,
+          "question": "When you have finished one main point, you should move on to the...",
+          "options": ["conclusion", "introduction", "next main point", "greeting"],
+          "correct_answer": "next main point",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 41,
+          "question": "Using a chart to show data in your speech is a type of...",
+          "options": ["greeting", "conclusion", "visual aid", "body language"],
+          "correct_answer": "visual aid",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 42,
+          "question": "Before you write, you should ______ your ideas.",
+          "options": ["hide", "forget", "brainstorm", "ignore"],
+          "correct_answer": "brainstorm",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 43,
+          "question": "What is the key to a good delivery?",
+          "options": ["Speaking very quietly", "Reading from a paper", "Confidence and clarity", "Standing still like a statue"],
+          "correct_answer": "Confidence and clarity",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 44,
+          "question": "A good speech topic for school students could be...",
+          "options": ["The Importance of Reading", "Complex Economic Theories", "The History of Ancient Rome", "Advanced Rocket Science"],
+          "correct_answer": "The Importance of Reading",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 45,
+          "question": "The way your voice sounds (e.g., happy, sad, serious) is your...",
+          "options": ["volume", "pace", "tone", "gesture"],
+          "correct_answer": "tone",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 46,
+          "question": "It is important to ______ your audience throughout your speech.",
+          "options": ["ignore", "engage", "confuse", "bore"],
+          "correct_answer": "engage",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 47,
+          "question": "A speech has a beginning, a middle, and an...",
+          "options": ["end", "extra part", "introduction", "idea"],
+          "correct_answer": "end",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 48,
+          "question": "What should you not do with your hands?",
+          "options": ["Use them for gestures", "Fidget or put them in your pockets", "Keep them by your side", "Use them to hold notes"],
+          "correct_answer": "Fidget or put them in your pockets",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 49,
+          "question": "The main message of your speech should be...",
+          "options": ["hidden", "clear", "confusing", "long"],
+          "correct_answer": "clear",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 50,
+          "question": "A good way to become a better speaker is to...",
+          "options": ["avoid speaking", "watch and learn from good speakers", "only read books about speaking", "interrupt other speakers"],
+          "correct_answer": "watch and learn from good speakers",
+          "grammar_type": "Prepare & Deliver a Speech"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is the purpose of a 'hook' in the introduction of a speech?",
+          "options": ["To summarize the main points", "To grab the audience's interest from the very beginning", "To thank the audience", "To state your name"],
+          "correct_answer": "To grab the audience's interest from the very beginning",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 52,
+          "question": "Varying your pitch, pace, and volume to make your speech more interesting is called...",
+          "options": ["body language", "voice modulation", "eye contact", "articulation"],
+          "correct_answer": "voice modulation",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 53,
+          "question": "What does 'audience analysis' involve?",
+          "options": ["Counting the number of people in the audience", "Understanding the audience's age, interests, and knowledge level", "Asking the audience for their names", "Ignoring the audience completely"],
+          "correct_answer": "Understanding the audience's age, interests, and knowledge level",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 54,
+          "question": "A speech delivered without any prior preparation is known as an ______ speech.",
+          "options": ["extemporaneous", "manuscript", "memorized", "impromptu"],
+          "correct_answer": "impromptu",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 55,
+          "question": "A short, personal story used to illustrate a point in a speech is called an...",
+          "options": ["anecdote", "statistic", "quote", "fact"],
+          "correct_answer": "anecdote",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 56,
+          "question": "What is the primary goal of a persuasive speech?",
+          "options": ["To explain a process", "To describe an object", "To influence the audience's attitudes, beliefs, or actions", "To tell a funny story"],
+          "correct_answer": "To influence the audience's attitudes, beliefs, or actions",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 57,
+          "question": "The use of visual aids like slides should...",
+          "options": ["contain the entire speech text", "be very colorful and distracting", "support and clarify your main points", "be ignored by the speaker"],
+          "correct_answer": "support and clarify your main points",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 58,
+          "question": "A 'rhetorical question' is a question that...",
+          "options": ["needs a detailed answer from the audience", "is asked to make a point, not to get an answer", "is very difficult to understand", "the speaker does not know the answer to"],
+          "correct_answer": "is asked to make a point, not to get an answer",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 59,
+          "question": "A strong conclusion should restate the main thesis and provide a sense of...",
+          "options": ["confusion", "beginning", "closure", "suspense"],
+          "correct_answer": "closure",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 60,
+          "question": "The way you pronounce words is called...",
+          "options": ["articulation", "modulation", "pace", "pronunciation"],
+          "correct_answer": "pronunciation",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 61,
+          "question": "A 'call to action' at the end of a persuasive speech tells the audience...",
+          "options": ["what they should do next", "a summary of the speech", "a funny joke", "to ask questions"],
+          "correct_answer": "what they should do next",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 62,
+          "question": "Practicing your speech with a timer is important to manage your...",
+          "options": ["voice", "gestures", "time limit", "eye contact"],
+          "correct_answer": "time limit",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 63,
+          "question": "The clarity with which you speak your words is known as...",
+          "options": ["pace", "pitch", "articulation", "volume"],
+          "correct_answer": "articulation",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 64,
+          "question": "Why is it important to 'know your audience' before preparing a speech?",
+          "options": ["To make the content relevant and understandable for them", "To know their names", "To ask them for help", "It is not important"],
+          "correct_answer": "To make the content relevant and understandable for them",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 65,
+          "question": "A speech that is written out completely and read to the audience is a ______ speech.",
+          "options": ["impromptu", "extemporaneous", "memorized", "manuscript"],
+          "correct_answer": "manuscript",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 66,
+          "question": "The main points of your speech should have a logical...",
+          "options": ["color", "flow", "ending", "sound"],
+          "correct_answer": "flow",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 67,
+          "question": "The use of pauses in a speech can be effective for...",
+          "options": ["confusing the audience", "making the speech longer", "creating emphasis or allowing a point to sink in", "showing that you forgot your lines"],
+          "correct_answer": "creating emphasis or allowing a point to sink in",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 68,
+          "question": "A speaker's 'credibility' refers to how much the audience...",
+          "options": ["likes their clothes", "trusts and believes them", "knows their name", "enjoys their jokes"],
+          "correct_answer": "trusts and believes them",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 69,
+          "question": "Which organizational pattern arranges ideas in a time sequence?",
+          "options": ["Topical", "Spatial", "Chronological", "Problem-solution"],
+          "correct_answer": "Chronological",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 70,
+          "question": "A 'thesis statement' in a speech is...",
+          "options": ["the final sentence", "a detailed story", "a single sentence that states the central idea", "the greeting"],
+          "correct_answer": "a single sentence that states the central idea",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 71,
+          "question": "What is the best way to handle 'filler words' like 'um' and 'ah'?",
+          "options": ["Use them as much as possible", "Try to be aware of them and replace them with a pause", "Speak faster so no one notices", "They are a sign of a good speaker"],
+          "correct_answer": "Try to be aware of them and replace them with a pause",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 72,
+          "question": "A speech to celebrate an achievement or a person is a ______ speech.",
+          "options": ["persuasive", "informative", "ceremonial or special occasion", "impromptu"],
+          "correct_answer": "ceremonial or special occasion",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 73,
+          "question": "A speaker's 'body language' includes posture, gestures, and...",
+          "options": ["voice volume", "facial expressions", "speech speed", "word choice"],
+          "correct_answer": "facial expressions",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 74,
+          "question": "Using a powerful quote from a famous person can make your speech more...",
+          "options": ["boring", "confusing", "memorable and authoritative", "difficult to understand"],
+          "correct_answer": "memorable and authoritative",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 75,
+          "question": "A speech delivered using a brief set of notes, but not memorized, is called...",
+          "options": ["impromptu", "extemporaneous", "manuscript", "oratorical"],
+          "correct_answer": "extemporaneous",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 76,
+          "question": "What is the purpose of a 'preview statement' in the introduction?",
+          "options": ["To tell a joke", "To outline the main points that will be covered in the speech", "To conclude the speech", "To ask a rhetorical question"],
+          "correct_answer": "To outline the main points that will be covered in the speech",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 77,
+          "question": "A persuasive speech might use facts and statistics to appeal to the audience's...",
+          "options": ["emotions", "logic", "fear", "humor"],
+          "correct_answer": "logic",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 78,
+          "question": "The highness or lowness of your voice is its...",
+          "options": ["pace", "volume", "pitch", "tone"],
+          "correct_answer": "pitch",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 79,
+          "question": "A 'problem-solution' speech structure first explains a problem and then...",
+          "options": ["explains another problem", "proposes a solution", "tells a story", "ends the speech"],
+          "correct_answer": "proposes a solution",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 80,
+          "question": "What is the best way to handle a question from the audience that you don't know the answer to?",
+          "options": ["Make up an answer", "Ignore the question", "Admit you don't know and offer to find out later", "Argue with the person"],
+          "correct_answer": "Admit you don't know and offer to find out later",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 81,
+          "question": "Why should you avoid reading your entire speech from your slides?",
+          "options": ["It shows you are very prepared.", "It breaks the connection with the audience.", "It makes the speech more interesting.", "It helps the audience read along."],
+          "correct_answer": "It breaks the connection with the audience.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 82,
+          "question": "The 'Rule of Three' in public speaking suggests that...",
+          "options": ["a speech should have only three words", "listing things in groups of three is memorable and effective", "you should practice three times", "a speech should only be three minutes long"],
+          "correct_answer": "listing things in groups of three is memorable and effective",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 83,
+          "question": "A 'topical' organizational pattern arranges the speech by...",
+          "options": ["time", "location", "different sub-topics of the main subject", "cause and effect"],
+          "correct_answer": "different sub-topics of the main subject",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 84,
+          "question": "A speaker's passion for a topic often makes the speech more...",
+          "options": ["boring", "engaging", "inaccurate", "quiet"],
+          "correct_answer": "engaging",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 85,
+          "question": "The process of getting feedback on your speech from others is called...",
+          "options": ["rehearsal", "peer review", "outlining", "brainstorming"],
+          "correct_answer": "peer review",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 86,
+          "question": "A good way to build rapport with the audience is to...",
+          "options": ["use difficult words", "speak in a monotone voice", "share a relatable experience", "avoid eye contact"],
+          "correct_answer": "share a relatable experience",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 87,
+          "question": "Using a metaphor or a simile in a speech can make a complex idea...",
+          "options": ["harder to understand", "easier to understand and more memorable", "factually incorrect", "boring"],
+          "correct_answer": "easier to understand and more memorable",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 88,
+          "question": "The main disadvantage of a fully memorized speech is that...",
+          "options": ["it is very easy to prepare", "it can sound unnatural and you might forget your lines", "it is very engaging", "it allows for flexibility"],
+          "correct_answer": "it can sound unnatural and you might forget your lines",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 89,
+          "question": "A 'vote of thanks' is a speech designed to...",
+          "options": ["ask for votes in an election", "express gratitude to organizers, speakers, and attendees", "persuade people to vote", "explain the voting process"],
+          "correct_answer": "express gratitude to organizers, speakers, and attendees",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 90,
+          "question": "A good speaker adapts their speech based on the audience's...",
+          "options": ["clothing", "reactions and feedback", "height", "names"],
+          "correct_answer": "reactions and feedback",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 91,
+          "question": "Which of these is a good strategy for dealing with nervousness?",
+          "options": ["Focus on how scared you are", "Avoid practicing the speech", "Turn your nervous energy into enthusiasm", "Speak as quickly as possible to finish early"],
+          "correct_answer": "Turn your nervous energy into enthusiasm",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 92,
+          "question": "The 'tone' of your voice should match the ______ of your message.",
+          "options": ["length", "content", "volume", "pace"],
+          "correct_answer": "content",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 93,
+          "question": "The final sentence of your introduction should be your...",
+          "options": ["hook", "greeting", "thesis statement", "main point"],
+          "correct_answer": "thesis statement",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 94,
+          "question": "A spatial organizational pattern would be best for a speech about...",
+          "options": ["the history of India", "the steps to bake a cake", "the different parts of a school building", "the reasons to recycle"],
+          "correct_answer": "the different parts of a school building",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 95,
+          "question": "Repeating a key phrase throughout your speech is a technique called...",
+          "options": ["alliteration", "repetition", "metaphor", "simile"],
+          "correct_answer": "repetition",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 96,
+          "question": "The goal of an informative speech is clarity. The goal of a persuasive speech is...",
+          "options": ["confusion", "agreement or action", "entertainment", "description"],
+          "correct_answer": "agreement or action",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 97,
+          "question": "Why is it important to dress appropriately for a speech?",
+          "options": ["It is not important.", "It contributes to your credibility and shows respect for the occasion.", "It makes your speech sound better.", "It helps you remember your lines."],
+          "correct_answer": "It contributes to your credibility and shows respect for the occasion.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 98,
+          "question": "If your speech is about a complex topic, it is important to...",
+          "options": ["use a lot of jargon", "speak very quickly", "define key terms and use simple explanations", "skip the introduction"],
+          "correct_answer": "define key terms and use simple explanations",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 99,
+          "question": "A good speaker is aware of their non-verbal cues. What are non-verbal cues?",
+          "options": ["The words used in the speech", "The volume of the speech", "Communication without words, like body language", "The length of the speech"],
+          "correct_answer": "Communication without words, like body language",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 100,
+          "question": "The success of a speech is ultimately measured by how well the ______ understands and receives the message.",
+          "options": ["speaker", "organizer", "audience", "technician"],
+          "correct_answer": "audience",
+          "grammar_type": "Prepare & Deliver a Speech"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "The three classical appeals in rhetoric, as defined by Aristotle, are Ethos, Pathos, and ______.",
+          "options": ["Mythos", "Chronos", "Logos", "Telos"],
+          "correct_answer": "Logos",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 102,
+          "question": "When a speaker establishes their credibility and character, they are making an appeal to...",
+          "options": ["Pathos", "Logos", "Ethos", "Kairos"],
+          "correct_answer": "Ethos",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 103,
+          "question": "Using a moving story to evoke an emotional response from the audience is an appeal to...",
+          "options": ["Logos", "Ethos", "Pathos", "Chronos"],
+          "correct_answer": "Pathos",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 104,
+          "question": "A logical argument supported by facts and statistics is an appeal to...",
+          "options": ["Pathos", "Ethos", "Kairos", "Logos"],
+          "correct_answer": "Logos",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 105,
+          "question": "A speech delivered with significant preparation and practice but using only a brief outline or notes is known as a/an ______ speech.",
+          "options": ["Impromptu", "Manuscript", "Memorized", "Extemporaneous"],
+          "correct_answer": "Extemporaneous",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 106,
+          "question": "Repeating the same word or phrase at the beginning of successive clauses, like in Martin Luther King Jr.'s 'I have a dream...' speech, is a rhetorical device called...",
+          "options": ["Epistrophe", "Anaphora", "Antithesis", "Alliteration"],
+          "correct_answer": "Anaphora",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 107,
+          "question": "A statement that seems contradictory but may contain a hidden truth, such as 'The child is the father of the man,' is a...",
+          "options": ["Paradox", "Oxymoron", "Simile", "Metaphor"],
+          "correct_answer": "Paradox",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 108,
+          "question": "'Ask not what your country can do for you – ask what you can do for your country' is a famous example of which rhetorical device?",
+          "options": ["Anaphora", "Paradox", "Antithesis", "Hyperbole"],
+          "correct_answer": "Antithesis",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 109,
+          "question": "What is the primary danger of a fully memorized speech?",
+          "options": ["It can sound robotic and lacks flexibility to adapt to the audience.", "It is the easiest to prepare.", "It is always the most engaging.", "It does not require practice."],
+          "correct_answer": "It can sound robotic and lacks flexibility to adapt to the audience.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 110,
+          "question": "A speaker's 'proxemics', or use of space, can communicate...",
+          "options": ["their level of preparation", "their relationship with the audience (e.g., closeness or distance)", "the length of their speech", "the main topic"],
+          "correct_answer": "their relationship with the audience (e.g., closeness or distance)",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 111,
+          "question": "A 'red herring' is a logical fallacy that...",
+          "options": ["attacks the person making the argument", "introduces an irrelevant topic to distract from the main issue", "assumes the conclusion is true in the premise", "exaggerates the opponent's argument"],
+          "correct_answer": "introduces an irrelevant topic to distract from the main issue",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 112,
+          "question": "The 'primacy-recency effect' in psychology suggests that audiences are most likely to remember...",
+          "options": ["only the middle part of a speech", "the first and last things they hear", "only the points supported by statistics", "only the emotional stories"],
+          "correct_answer": "the first and last things they hear",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 113,
+          "question": "A 'causal' organizational pattern in a speech aims to...",
+          "options": ["describe a physical space", "narrate a story in time order", "explain a cause-and-effect relationship", "compare two different things"],
+          "correct_answer": "explain a cause-and-effect relationship",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 114,
+          "question": "A 'signpost' (e.g., 'My first point is...') helps the audience by...",
+          "options": ["making the speech more emotional", "improving the speaker's vocal variety", "clarifying the speech's structure and organization", "building the speaker's credibility"],
+          "correct_answer": "clarifying the speech's structure and organization",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 115,
+          "question": "The difference between 'articulation' and 'pronunciation' is that articulation refers to clarity, while pronunciation refers to...",
+          "options": ["speed", "volume", "correctness", "pitch"],
+          "correct_answer": "correctness",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 116,
+          "question": "An 'ad hominem' fallacy is a flaw in reasoning where the speaker...",
+          "options": ["attacks the opponent's character instead of their argument", "uses a false analogy", "makes a hasty generalization", "appeals to popular opinion"],
+          "correct_answer": "attacks the opponent's character instead of their argument",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 117,
+          "question": "A 'straw man' argument is a fallacy that involves...",
+          "options": ["using a real-life example", "misrepresenting or exaggerating an opponent's argument to make it easier to attack", "appealing to the authority of a respected figure", "using a logical and well-reasoned counter-argument"],
+          "correct_answer": "misrepresenting or exaggerating an opponent's argument to make it easier to attack",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 118,
+          "question": "Repeating a word or phrase at the end of successive clauses is a rhetorical device called...",
+          "options": ["Anaphora", "Epistrophe", "Antithesis", "Alliteration"],
+          "correct_answer": "Epistrophe",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 119,
+          "question": "A speech manuscript is most appropriate when...",
+          "options": ["the speech is informal and brief", "the exact wording is crucial and must be precise", "the speaker wants to be flexible", "the speaker has no time to prepare"],
+          "correct_answer": "the exact wording is crucial and must be precise",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 120,
+          "question": "The 'slippery slope' fallacy argues that...",
+          "options": ["an idea is correct because it is traditional", "one small initial action will lead to a chain of catastrophic events", "an expert's opinion is always correct", "an idea is correct because it is popular"],
+          "correct_answer": "one small initial action will lead to a chain of catastrophic events",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 121,
+          "question": "The 'credibility statement' in an introduction serves to build...",
+          "options": ["pathos", "logos", "kairos", "ethos"],
+          "correct_answer": "ethos",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 122,
+          "question": "The term 'kairos' in rhetoric refers to...",
+          "options": ["the logical structure of an argument", "the emotional appeal of a speech", "the timeliness and appropriateness of a speech for a specific moment", "the credibility of the speaker"],
+          "correct_answer": "the timeliness and appropriateness of a speech for a specific moment",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 123,
+          "question": "A 'syllogism' (e.g., 'All men are mortal. Socrates is a man. Therefore, Socrates is mortal.') is a form of...",
+          "options": ["inductive reasoning", "deductive reasoning", "emotional appeal", "rhetorical question"],
+          "correct_answer": "deductive reasoning",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 124,
+          "question": "The 'either/or' fallacy, also known as a false dilemma, does what?",
+          "options": ["It presents a complex issue as having only two possible options.", "It uses an expert's opinion as evidence.", "It attacks the character of the opponent.", "It uses a story to appeal to emotions."],
+          "correct_answer": "It presents a complex issue as having only two possible options.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 125,
+          "question": "The primary advantage of an extemporaneous speech is that it...",
+          "options": ["requires no preparation", "sounds very formal and polished", "balances structure with spontaneity and conversational tone", "is the shortest type of speech"],
+          "correct_answer": "balances structure with spontaneity and conversational tone",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 126,
+          "question": "A 'hasty generalization' is a logical fallacy based on...",
+          "options": ["strong, credible evidence", "expert testimony", "insufficient or unrepresentative evidence", "emotional appeal"],
+          "correct_answer": "insufficient or unrepresentative evidence",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 127,
+          "question": "When handling a hostile audience, a speaker should...",
+          "options": ["become defensive and argue back", "ignore their concerns completely", "find common ground and maintain a respectful tone", "end the speech immediately"],
+          "correct_answer": "find common ground and maintain a respectful tone",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 128,
+          "question": "The 'bandwagon appeal' is a fallacy that suggests you should do something because...",
+          "options": ["it is logical", "an expert recommends it", "everyone else is doing it", "it is a traditional practice"],
+          "correct_answer": "everyone else is doing it",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 129,
+          "question": "An 'internal preview' in a speech is a statement that...",
+          "options": ["summarizes what has just been said", "introduces the main points of the entire speech", "outlines what will be discussed next within a main point", "concludes the speech"],
+          "correct_answer": "outlines what will be discussed next within a main point",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 130,
+          "question": "A 'concession' in a persuasive speech involves...",
+          "options": ["acknowledging a valid point from the opposing side", "attacking the opponent's character", "using only emotional appeals", "ignoring all counter-arguments"],
+          "correct_answer": "acknowledging a valid point from the opposing side",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 131,
+          "question": "A speech's 'diction' refers to the...",
+          "options": ["speaker's choice of words", "speaker's body language", "speech's organization", "speech's volume"],
+          "correct_answer": "speaker's choice of words",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 132,
+          "question": "A 'post hoc ergo propter hoc' fallacy assumes that because one event followed another, the first event...",
+          "options": ["is unrelated to the second", "happened at the same time as the second", "caused the second", "was less important than the second"],
+          "correct_answer": "caused the second",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 133,
+          "question": "The use of parallel grammatical structures for items in a list is called...",
+          "options": ["parallelism", "anaphora", "antithesis", "alliteration"],
+          "correct_answer": "parallelism",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 134,
+          "question": "When delivering a speech, 'scanning' refers to...",
+          "options": ["reading a manuscript word-for-word", "looking at one person in the audience only", "moving your eye contact across the entire audience", "looking only at your notes"],
+          "correct_answer": "moving your eye contact across the entire audience",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 135,
+          "question": "An 'appeal to tradition' is a fallacy that argues something is good or correct because...",
+          "options": ["it is new and innovative", "it is popular", "it is supported by evidence", "it has been done that way for a long time"],
+          "correct_answer": "it has been done that way for a long time",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 136,
+          "question": "A 'dissolve ending' is a type of conclusion that...",
+          "options": ["ends abruptly with a call to action", "fades out with a final, emotional appeal or story", "ends with a summary of the main points", "ends with a question"],
+          "correct_answer": "fades out with a final, emotional appeal or story",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 137,
+          "question": "The study of 'psychographics' in audience analysis focuses on the audience's...",
+          "options": ["age and gender", "values, beliefs, and attitudes", "group memberships", "physical location"],
+          "correct_answer": "values, beliefs, and attitudes",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 138,
+          "question": "What is the primary risk of using too much jargon in a speech to a general audience?",
+          "options": ["It makes the speaker sound intelligent.", "It can alienate and confuse the audience.", "It makes the speech more engaging.", "It is the best way to build ethos."],
+          "correct_answer": "It can alienate and confuse the audience.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 139,
+          "question": "Using a 'leitmotif', a recurring theme or idea, throughout a speech helps to create...",
+          "options": ["confusion", "unity and reinforce the central message", "a logical fallacy", "a boring speech"],
+          "correct_answer": "unity and reinforce the central message",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 140,
+          "question": "A speech of 'eulogy' is delivered to...",
+          "options": ["celebrate a wedding", "praise and commemorate someone who has died", "introduce a main speaker", "accept an award"],
+          "correct_answer": "praise and commemorate someone who has died",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 141,
+          "question": "A 'circular argument' is a fallacy where...",
+          "options": ["the argument is presented in a circle", "the conclusion is simply a restatement of the premise", "the argument is supported by strong evidence", "the argument attacks the opponent"],
+          "correct_answer": "the conclusion is simply a restatement of the premise",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 142,
+          "question": "What is the primary function of a 'clincher' in a conclusion?",
+          "options": ["To summarize the main points", "To provide a powerful, memorable final statement", "To introduce a new argument", "To thank the audience"],
+          "correct_answer": "To provide a powerful, memorable final statement",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 143,
+          "question": "The concept of 'cognitive dissonance' can be used in a persuasive speech to...",
+          "options": ["make the audience feel comfortable with their current beliefs", "create mental discomfort in the audience to motivate a change in attitude or behavior", "present only logical facts", "tell an entertaining story"],
+          "correct_answer": "create mental discomfort in the audience to motivate a change in attitude or behavior",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 144,
+          "question": "When a speaker says, 'We can either invest in education or face a future of ignorance,' they are using which fallacy?",
+          "options": ["Red Herring", "Ad Hominem", "Straw Man", "False Dilemma"],
+          "correct_answer": "False Dilemma",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 145,
+          "question": "The 'appeal to authority' is only a valid form of evidence if the authority is...",
+          "options": ["famous", "a qualified expert in the relevant field", "a friend of the speaker", "very old"],
+          "correct_answer": "a qualified expert in the relevant field",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 146,
+          "question": "The 'syntax' of a speech refers to...",
+          "options": ["the choice of words", "the emotional tone", "the arrangement of words into sentences", "the volume of the speaker's voice"],
+          "correct_answer": "the arrangement of words into sentences",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 147,
+          "question": "What is the main challenge of an impromptu speech?",
+          "options": ["It is too long.", "Organizing thoughts quickly with no preparation time.", "The audience is always hostile.", "It requires a manuscript."],
+          "correct_answer": "Organizing thoughts quickly with no preparation time.",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 148,
+          "question": "A 'euphemism' is the use of a mild or indirect word in place of one that may be harsh or blunt. This is often a consideration in...",
+          "options": ["statistical analysis", "diction or word choice", "speech organization", "body language"],
+          "correct_answer": "diction or word choice",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 149,
+          "question": "The use of 'inductive reasoning' in a speech involves...",
+          "options": ["starting with a general principle and applying it to a specific case", "moving from specific examples to a general conclusion", "attacking the opponent's character", "using only emotional stories"],
+          "correct_answer": "moving from specific examples to a general conclusion",
+          "grammar_type": "Prepare & Deliver a Speech"
+        },
+        {
+          "id": 150,
+          "question": "A truly effective speech achieves a synergy between content, structure, and...",
+          "options": ["length", "delivery", "the speaker's clothes", "the time of day"],
+          "correct_answer": "delivery",
+          "grammar_type": "Prepare & Deliver a Speech"
+        }
+      ]
+    }
+  ]
+}
+

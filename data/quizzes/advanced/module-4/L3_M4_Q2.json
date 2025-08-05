@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What is the primary goal of a 'Neighborhood cleanliness drive'?",
+          "options": ["To have a party", "To clean up the local area", "To sell cleaning products", "To watch a movie about cleaning"],
+          "correct_answer": "To clean up the local area",
+          "grammar_type": "Neighborhood cleanliness drive"
+        },
+        {
+          "id": 2,
+          "question": "The main purpose of setting a 'goal' for an event is to...",
+          "options": ["know what you want to achieve", "confuse the team", "make the event longer", "have no clear direction"],
+          "correct_answer": "know what you want to achieve",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 3,
+          "question": "In 'Team Building and Task Assignment', what is the first step?",
+          "options": ["Doing all the work yourself", "Forming a team of volunteers", "Cancelling the event", "Starting the event immediately"],
+          "correct_answer": "Forming a team of volunteers",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 4,
+          "question": "What is a 'timeline' for an event?",
+          "options": ["A list of guests", "A schedule of when tasks should be done", "The final budget", "The location of the event"],
+          "correct_answer": "A schedule of when tasks should be done",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 5,
+          "question": "Putting up posters around the village is a form of...",
+          "options": ["budgeting", "registration", "communication and promotion", "team building"],
+          "correct_answer": "communication and promotion",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 6,
+          "question": "What does RSVP stand for in 'Managing Registrations and RSVPs'?",
+          "options": ["A type of food", "A secret code", "Please respond", "A list of activities"],
+          "correct_answer": "Please respond",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 7,
+          "question": "A 'Community health camp' primarily offers...",
+          "options": ["music and dance", "sports activities", "free medical check-ups and advice", "cooking classes"],
+          "correct_answer": "free medical check-ups and advice",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 8,
+          "question": "The money paid to rent a community hall for an event is a...",
+          "options": ["venue cost", "activity cost", "promotion cost", "food cost"],
+          "correct_answer": "venue cost",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 9,
+          "question": "The money spent on buying prizes for a 'School Annual Day celebration' is an...",
+          "options": ["activity cost", "venue cost", "registration cost", "staff cost"],
+          "correct_answer": "activity cost",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 10,
+          "question": "Assigning one person to be in charge of decorations is an example of...",
+          "options": ["setting a goal", "task assignment", "managing RSVPs", "promotion"],
+          "correct_answer": "task assignment",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 11,
+          "question": "What is the main purpose of a 'Senior citizen gathering'?",
+          "options": ["A sports competition for youth", "A social event for elderly people to meet", "A workshop for job skills", "A school function"],
+          "correct_answer": "A social event for elderly people to meet",
+          "grammar_type": "Senior citizen gathering"
+        },
+        {
+          "id": 12,
+          "question": "An 'Environmental awareness campaign' aims to...",
+          "options": ["teach people about protecting nature", "organize a big party", "build a new factory", "cut down more trees"],
+          "correct_answer": "teach people about protecting nature",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 13,
+          "question": "Setting a 'deadline' helps in...",
+          "options": ["Timeline and Schedule Management", "Budgeting", "Team Building", "Registration"],
+          "correct_answer": "Timeline and Schedule Management",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 14,
+          "question": "What is the main activity in a 'School Annual Day celebration'?",
+          "options": ["A science fair", "A sports competition", "Student performances like dance and drama", "A parent-teacher meeting"],
+          "correct_answer": "Student performances like dance and drama",
+          "grammar_type": "School Annual Day celebration"
+        },
+        {
+          "id": 15,
+          "question": "What tool would you need most for a 'Neighborhood cleanliness drive'?",
+          "options": ["Microphones", "Gloves and garbage bags", "Laptops", "Musical instruments"],
+          "correct_answer": "Gloves and garbage bags",
+          "grammar_type": "Neighborhood cleanliness drive"
+        },
+        {
+          "id": 16,
+          "question": "A 'social goal' of an event focuses on...",
+          "options": ["making a lot of money", "bringing the community together", "being the biggest event", "finishing quickly"],
+          "correct_answer": "bringing the community together",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 17,
+          "question": "Making an announcement on a loudspeaker is a form of...",
+          "options": ["Team Building", "Communication and Promotion", "Budgeting", "Venue Selection"],
+          "correct_answer": "Communication and Promotion",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 18,
+          "question": "A 'Youth skill development workshop' is primarily for...",
+          "options": ["senior citizens", "young people", "small children", "all age groups"],
+          "correct_answer": "young people",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 19,
+          "question": "Asking people to sign up before an event is part of...",
+          "options": ["Managing Registrations and RSVPs", "Activity costs", "Venue costs", "Team Building"],
+          "correct_answer": "Managing Registrations and RSVPs",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 20,
+          "question": "The celebration of Diwali or Holi in a community is a...",
+          "options": ["community health camp", "local festival celebration", "cleanliness drive", "skill development workshop"],
+          "correct_answer": "local festival celebration",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 21,
+          "question": "What is an 'objective'?",
+          "options": ["The main feeling of the event", "A specific, measurable step to achieve a goal", "The final party", "A problem during the event"],
+          "correct_answer": "A specific, measurable step to achieve a goal",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 22,
+          "question": "Dividing a big task into smaller jobs is important for...",
+          "options": ["Promotion", "Team Building and Task Assignment", "Registration", "Budgeting"],
+          "correct_answer": "Team Building and Task Assignment",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 23,
+          "question": "Checking the availability of a ground before booking is related to...",
+          "options": ["Venue costs", "Activity costs", "Timeline Management", "Promotion"],
+          "correct_answer": "Venue costs",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 24,
+          "question": "The cost of buying refreshments for a 'Senior citizen gathering' is an...",
+          "options": ["Activity cost", "Venue cost", "Registration fee", "Promotion cost"],
+          "correct_answer": "Activity cost",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 25,
+          "question": "Creating a poster is a key task in...",
+          "options": ["Timeline and Schedule Management", "Communication and Promotion", "Team Building", "Setting Goals"],
+          "correct_answer": "Communication and Promotion",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 26,
+          "question": "What is the main goal of a 'Youth skill development workshop'?",
+          "options": ["To entertain young people", "To teach young people new, useful skills", "To organize a sports match", "To provide a meal"],
+          "correct_answer": "To teach young people new, useful skills",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 27,
+          "question": "A key requirement for a 'Community health camp' is having...",
+          "options": ["musicians", "dancers", "doctors and nurses", "actors"],
+          "correct_answer": "doctors and nurses",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 28,
+          "question": "Setting the date for an event is part of...",
+          "options": ["Team Building", "Timeline and Schedule Management", "Budgeting", "Registration"],
+          "correct_answer": "Timeline and Schedule Management",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 29,
+          "question": "Knowing how many people are coming helps you plan the amount of food and chairs. This is why you need...",
+          "options": ["a good venue", "a strong team", "Managing Registrations and RSVPs", "a big budget"],
+          "correct_answer": "Managing Registrations and RSVPs",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 30,
+          "question": "The goal 'To make our village beautiful' can be achieved through a...",
+          "options": ["Community health camp", "Neighborhood cleanliness drive", "Youth skill workshop", "Senior citizen gathering"],
+          "correct_answer": "Neighborhood cleanliness drive",
+          "grammar_type": "Neighborhood cleanliness drive"
+        },
+        {
+          "id": 31,
+          "question": "A 'team leader' is responsible for...",
+          "options": ["doing nothing", "guiding the team", "creating problems", "working alone"],
+          "correct_answer": "guiding the team",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 32,
+          "question": "A 'Local festival celebration' helps to preserve...",
+          "options": ["garbage", "illness", "culture and traditions", "boredom"],
+          "correct_answer": "culture and traditions",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 33,
+          "question": "What does a 'deadline' mean in a timeline?",
+          "options": ["The time a task must be finished by", "The time a task starts", "The name of the task", "The person doing the task"],
+          "correct_answer": "The time a task must be finished by",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 34,
+          "question": "The cost of hiring a sound system for a 'School Annual Day celebration' is an...",
+          "options": ["Activity cost", "Venue cost", "Promotion cost", "Registration cost"],
+          "correct_answer": "Activity cost",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 35,
+          "question": "The objective 'To plant 50 trees' is part of an...",
+          "options": ["Environmental awareness campaign", "Community health camp", "Senior citizen gathering", "Youth skill workshop"],
+          "correct_answer": "Environmental awareness campaign",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 36,
+          "question": "The main goal of an event should be...",
+          "options": ["unclear and confusing", "clear and simple", "a secret", "very long"],
+          "correct_answer": "clear and simple",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 37,
+          "question": "To get more people to attend, you must have good...",
+          "options": ["Team Building", "Communication and Promotion", "Budgeting", "Task Assignment"],
+          "correct_answer": "Communication and Promotion",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 38,
+          "question": "A list of people who have confirmed they will attend is a result of...",
+          "options": ["Setting Goals", "Timeline Management", "Managing Registrations and RSVPs", "Venue costs"],
+          "correct_answer": "Managing Registrations and RSVPs",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 39,
+          "question": "A team works best when members...",
+          "options": ["fight with each other", "don't talk to each other", "cooperate and communicate", "work alone"],
+          "correct_answer": "cooperate and communicate",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 40,
+          "question": "Booking a place for an event is called securing a...",
+          "options": ["venue", "task", "goal", "budget"],
+          "correct_answer": "venue",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 41,
+          "question": "The 'social goal' for a 'Senior citizen gathering' could be to...",
+          "options": ["reduce loneliness among the elderly", "teach them computer skills", "conduct a health check-up", "clean the neighborhood"],
+          "correct_answer": "reduce loneliness among the elderly",
+          "grammar_type": "Senior citizen gathering"
+        },
+        {
+          "id": 42,
+          "question": "What is the most important part of a 'Local festival celebration'?",
+          "options": ["The planning team", "The community participation", "The budget", "The venue"],
+          "correct_answer": "The community participation",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 43,
+          "question": "A 'workshop' implies that participants will be...",
+          "options": ["watching a performance", "actively learning and doing something", "listening to a long lecture", "having a party"],
+          "correct_answer": "actively learning and doing something",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 44,
+          "question": "The cost of printing invitation cards is a ______ cost.",
+          "options": ["venue", "activity", "promotion", "registration"],
+          "correct_answer": "promotion",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 45,
+          "question": "Checking a task off a to-do list is part of...",
+          "options": ["Setting Goals", "Team Building", "Timeline and Schedule Management", "Managing RSVPs"],
+          "correct_answer": "Timeline and Schedule Management",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 46,
+          "question": "Which of these is a 'social goal'?",
+          "options": ["To make a profit of Rs. 5000", "To sell 100 tickets", "To improve community spirit", "To finish the event by 5 PM"],
+          "correct_answer": "To improve community spirit",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 47,
+          "question": "For a 'Community health camp', what information is most important to promote?",
+          "options": ["The names of the organizers", "The date, time, location, and services offered", "The cost of the venue", "The number of volunteers"],
+          "correct_answer": "The date, time, location, and services offered",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 48,
+          "question": "A team where everyone knows their job is a result of good...",
+          "options": ["Budgeting", "Task Assignment", "Promotion", "Registration"],
+          "correct_answer": "Task Assignment",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 49,
+          "question": "The cost of a doctor's time (if they are paid) for a health camp is an...",
+          "options": ["Activity cost", "Venue cost", "Promotion cost", "Social cost"],
+          "correct_answer": "Activity cost",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 50,
+          "question": "What is the final part of any event plan?",
+          "options": ["The event itself", "The clean-up", "The promotion", "The registration"],
+          "correct_answer": "The event itself",
+          "grammar_type": "Timeline and Schedule Management"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is the difference between a goal and an objective for a community event?",
+          "options": ["They are the same thing.", "A goal is a broad outcome; an objective is a specific, measurable step to reach that goal.", "A goal is about money; an objective is about people.", "An objective is broader than a goal."],
+          "correct_answer": "A goal is a broad outcome; an objective is a specific, measurable step to reach that goal.",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 52,
+          "question": "When assigning tasks, what is the most important factor to consider about your team members?",
+          "options": ["Their age", "Their skills and interests", "Their favorite color", "Where they live"],
+          "correct_answer": "Their skills and interests",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 53,
+          "question": "A 'contingency plan' in your timeline is for...",
+          "options": ["planning for the main event", "planning for unexpected delays or problems", "planning the budget", "planning the promotion"],
+          "correct_answer": "planning for unexpected delays or problems",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 54,
+          "question": "Comparing social media promotion with posters for an 'Environmental awareness campaign' targeting youth, which is likely more effective?",
+          "options": ["Posters, because they are traditional.", "Social media, because it is more likely to reach a younger audience.", "Both are equally ineffective.", "Neither is needed."],
+          "correct_answer": "Social media, because it is more likely to reach a younger audience.",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 55,
+          "question": "Why is managing RSVPs crucial for planning the budget of a 'Senior citizen gathering'?",
+          "options": ["It helps to calculate the exact cost of food and seating.", "It is not related to the budget.", "It tells you the age of the attendees.", "It helps in promoting the event."],
+          "correct_answer": "It helps to calculate the exact cost of food and seating.",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 56,
+          "question": "What is a potential 'hidden cost' when booking a venue?",
+          "options": ["The rent for the hall", "The cost of food", "Charges for electricity or cleaning", "The cost of tickets"],
+          "correct_answer": "Charges for electricity or cleaning",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 57,
+          "question": "How can you reduce 'Activity costs' for a 'Neighborhood cleanliness drive'?",
+          "options": ["By buying expensive equipment", "By asking volunteers to bring their own brooms and gloves", "By cancelling the event", "By not cleaning the area"],
+          "correct_answer": "By asking volunteers to bring their own brooms and gloves",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 58,
+          "question": "What is a key challenge when organizing a 'Community health camp' in a rural area?",
+          "options": ["Getting enough sick people", "Ensuring doctors and equipment can reach the location", "Making the event too long", "Having too many volunteers"],
+          "correct_answer": "Ensuring doctors and equipment can reach the location",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 59,
+          "question": "A 'SMART' objective is Specific, Measurable, Achievable, Relevant, and...",
+          "options": ["Tiring", "Time-bound", "Technical", "Traditional"],
+          "correct_answer": "Time-bound",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 60,
+          "question": "A good team leader should not just assign tasks, but also...",
+          "options": ["do all the work themself", "motivate the team and resolve conflicts", "criticize the team members", "ignore the team"],
+          "correct_answer": "motivate the team and resolve conflicts",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 61,
+          "question": "What is a 'milestone' in a project timeline?",
+          "options": ["A major task or achievement that marks progress", "A small, daily task", "A problem in the schedule", "The final deadline"],
+          "correct_answer": "A major task or achievement that marks progress",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 62,
+          "question": "Which communication channel is best for sending a reminder a day before a 'Youth skill development workshop'?",
+          "options": ["Newspaper advertisement", "Posters", "SMS or WhatsApp message", "A radio announcement"],
+          "correct_answer": "SMS or WhatsApp message",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 63,
+          "question": "What is the difference between registration and RSVP?",
+          "options": ["They are the same.", "Registration often involves collecting more details, while an RSVP is a simple yes/no response.", "An RSVP is more formal.", "Registration is only for paid events."],
+          "correct_answer": "Registration often involves collecting more details, while an RSVP is a simple yes/no response.",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 64,
+          "question": "For a 'School Annual Day celebration', who are the primary 'stakeholders'?",
+          "options": ["Only the principal", "Only the teachers", "Students, parents, teachers, and school management", "The local government"],
+          "correct_answer": "Students, parents, teachers, and school management",
+          "grammar_type": "School Annual Day celebration"
+        },
+        {
+          "id": 65,
+          "question": "What is a 'social goal' for a 'Local festival celebration'?",
+          "options": ["To increase cultural understanding and community bonding", "To make a large profit", "To have the loudest music", "To compete with a neighboring village"],
+          "correct_answer": "To increase cultural understanding and community bonding",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 66,
+          "question": "Which of these is a measurable objective for a cleanliness drive? 'To reduce litter in the main market area by 50%.'",
+          "options": ["Yes, it is measurable.", "No, it is not measurable.", "It is a goal, not an objective.", "It is a task."],
+          "correct_answer": "Yes, it is measurable.",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 67,
+          "question": "What is a 'Gantt chart' used for?",
+          "options": ["Budgeting", "Team Building", "Timeline and Schedule Management", "Promotion"],
+          "correct_answer": "Timeline and Schedule Management",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 68,
+          "question": "How can you make a 'Senior citizen gathering' more accessible?",
+          "options": ["By choosing a venue with many stairs", "By choosing a ground-floor venue with ramp access", "By organizing it late at night", "By having loud music"],
+          "correct_answer": "By choosing a ground-floor venue with ramp access",
+          "grammar_type": "Senior citizen gathering"
+        },
+        {
+          "id": 69,
+          "question": "The cost of medicines for a 'Community health camp' is a significant...",
+          "options": ["Venue cost", "Promotion cost", "Activity cost", "Social cost"],
+          "correct_answer": "Activity cost",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 70,
+          "question": "What does it mean to have a 'target audience' for your promotion?",
+          "options": ["To promote to everyone in the world", "To focus your communication efforts on the specific group of people you want to attend", "To use a target for archery", "To have no specific audience"],
+          "correct_answer": "To focus your communication efforts on the specific group of people you want to attend",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 71,
+          "question": "What is a 'waitlist' used for in managing registrations?",
+          "options": ["A list of people who are not invited", "A list to manage people if the event is full", "A list of volunteers", "A list of VIP guests"],
+          "correct_answer": "A list to manage people if the event is full",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 72,
+          "question": "When assigning tasks, what does 'accountability' mean?",
+          "options": ["Each person is responsible for completing their assigned task.", "One person is responsible for everything.", "No one is responsible.", "The team leader does all the work."],
+          "correct_answer": "Each person is responsible for completing their assigned task.",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 73,
+          "question": "A 'post-event survey' is a good way to...",
+          "options": ["promote the event", "get feedback and measure the success of your objectives", "register attendees", "plan the budget"],
+          "correct_answer": "get feedback and measure the success of your objectives",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 74,
+          "question": "If your goal is to raise awareness about plastic pollution, which activity is most suitable?",
+          "options": ["A free movie screening", "A workshop on making things from plastic waste", "A community health camp", "A senior citizen gathering"],
+          "correct_answer": "A workshop on making things from plastic waste",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 75,
+          "question": "Which of these is a key task in organizing a 'Youth skill development workshop'?",
+          "options": ["Finding expert trainers for the skills", "Arranging a music system", "Organizing a sports match", "Booking a large open ground"],
+          "correct_answer": "Finding expert trainers for the skills",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 76,
+          "question": "Why is it important to have a 'Permissions' team for a large local festival?",
+          "options": ["To get necessary approvals from local authorities like the police and municipality.", "To permit guests to enter.", "To assign tasks to other teams.", "It is not important."],
+          "correct_answer": "To get necessary approvals from local authorities like the police and municipality.",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 77,
+          "question": "Checking the weather forecast is a crucial part of ______ for an outdoor event.",
+          "options": ["budgeting", "timeline and schedule management", "team building", "registration"],
+          "correct_answer": "timeline and schedule management",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 78,
+          "question": "A 'press release' is a tool for...",
+          "options": ["internal team communication", "communicating with the media to promote an event", "managing the budget", "registering guests"],
+          "correct_answer": "communicating with the media to promote an event",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 79,
+          "question": "What is a 'logistics' team responsible for?",
+          "options": ["Welcoming guests", "Managing money", "Handling equipment, supplies, and transportation", "Designing posters"],
+          "correct_answer": "Handling equipment, supplies, and transportation",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 80,
+          "question": "What is a key difference between a 'social goal' and a 'financial goal'?",
+          "options": ["A social goal is about community benefit; a financial goal is about money.", "There is no difference.", "A social goal is always easy; a financial goal is always hard.", "A financial goal is not measurable."],
+          "correct_answer": "A social goal is about community benefit; a financial goal is about money.",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 81,
+          "question": "What is a potential risk of a 'Neighborhood cleanliness drive'?",
+          "options": ["The area becomes too clean.", "Not having a proper plan for garbage disposal.", "Too many volunteers showing up.", "Finishing the work early."],
+          "correct_answer": "Not having a proper plan for garbage disposal.",
+          "grammar_type": "Neighborhood cleanliness drive"
+        },
+        {
+          "id": 82,
+          "question": "Why is a 'debrief meeting' important after an event?",
+          "options": ["To celebrate the success", "To discuss what went well and what could be improved for next time", "To have a party", "It is not important"],
+          "correct_answer": "To discuss what went well and what could be improved for next time",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 83,
+          "question": "The cost of security guards at a large 'Local festival celebration' is a part of...",
+          "options": ["Venue costs", "Activity costs", "Overall event management costs", "Promotion costs"],
+          "correct_answer": "Overall event management costs",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 84,
+          "question": "If your venue is free, does that mean you have zero 'Venue costs'?",
+          "options": ["Yes, always.", "Not necessarily, there might be costs for electricity, water, or a cleaning deposit.", "Yes, it means all costs are zero.", "It means the activity costs will be higher."],
+          "correct_answer": "Not necessarily, there might be costs for electricity, water, or a cleaning deposit.",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 85,
+          "question": "Why is it important to track RSVPs for a 'Youth skill development workshop'?",
+          "options": ["To know how many certificates and material kits to prepare.", "To know the age of the trainers.", "To book a large hall.", "It is not important."],
+          "correct_answer": "To know how many certificates and material kits to prepare.",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 86,
+          "question": "A good objective should be 'Achievable'. What does this mean?",
+          "options": ["It should be very easy.", "It should be realistic and possible to accomplish.", "It should be impossible.", "It should be very difficult."],
+          "correct_answer": "It should be realistic and possible to accomplish.",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 87,
+          "question": "A 'run-of-show' is a detailed schedule for...",
+          "options": ["the planning phase", "the day of the event", "the promotion period", "the budget planning"],
+          "correct_answer": "the day of the event",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 88,
+          "question": "What is the 'target audience' for a 'School Annual Day celebration'?",
+          "options": ["Only the students", "Only the teachers", "Students, parents, and community members", "The general public of the entire city"],
+          "correct_answer": "Students, parents, and community members",
+          "grammar_type": "School Annual Day celebration"
+        },
+        {
+          "id": 89,
+          "question": "The role of the 'stage management' team is crucial for which event?",
+          "options": ["Neighborhood cleanliness drive", "School Annual Day celebration", "Community health camp", "Environmental awareness campaign"],
+          "correct_answer": "School Annual Day celebration",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 90,
+          "question": "What is a 'volunteer briefing'?",
+          "options": ["A party for volunteers after the event.", "A meeting before the event to explain tasks and responsibilities to volunteers.", "A list of volunteer names.", "The registration form for volunteers."],
+          "correct_answer": "A meeting before the event to explain tasks and responsibilities to volunteers.",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 91,
+          "question": "A 'feedback form' is used to...",
+          "options": ["collect opinions from attendees after an event", "promote an event", "register for an event", "plan an event's schedule"],
+          "correct_answer": "collect opinions from attendees after an event",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 92,
+          "question": "How do you measure the success of an 'Environmental awareness campaign'?",
+          "options": ["By the number of people who attended.", "By observing a change in people's behavior (e.g., less littering).", "By how much money was spent.", "By how loud the event was."],
+          "correct_answer": "By observing a change in people's behavior (e.g., less littering).",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 93,
+          "question": "What is a 'sponsorship' for an event?",
+          "options": ["The total cost of the event.", "Money or support given by a company in return for advertising.", "A ticket to the event.", "A loan from a bank."],
+          "correct_answer": "Money or support given by a company in return for advertising.",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 94,
+          "question": "A good promotion strategy uses ______ communication channels.",
+          "options": ["only one", "multiple", "zero", "only expensive"],
+          "correct_answer": "multiple",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 95,
+          "question": "The 'venue' for a 'Community health camp' must have...",
+          "options": ["a stage and sound system", "private spaces for consultations", "a large open field", "a swimming pool"],
+          "correct_answer": "private spaces for consultations",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 96,
+          "question": "If a task on your timeline is 'dependent' on another, it means...",
+          "options": ["it can be done at any time", "it must be done at the same time as the other task", "it cannot be started until the other task is finished", "it is not important"],
+          "correct_answer": "it cannot be started until the other task is finished",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 97,
+          "question": "A clear 'social goal' can help to attract ______ for your event.",
+          "options": ["problems", "volunteers and sponsors", "criticism", "expenses"],
+          "correct_answer": "volunteers and sponsors",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 98,
+          "question": "What is the key to managing a large team effectively?",
+          "options": ["Micromanaging every task", "Clear communication and defined roles", "Having no team leader", "Letting everyone do what they want"],
+          "correct_answer": "Clear communication and defined roles",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 99,
+          "question": "An online registration form is a good way of...",
+          "options": ["promoting the event to elderly people", "making registration difficult", "efficiently managing registrations and RSVPs", "increasing the budget"],
+          "correct_answer": "efficiently managing registrations and RSVPs",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 100,
+          "question": "A key objective for a 'Youth skill development workshop' could be: 'At the end of the workshop, 80% of participants will be able to...'",
+          "options": ["'...feel happy.'", "'...create a basic website.'", "'...understand the workshop.'", "'...come again next year.'"],
+          "correct_answer": "'...create a basic website.'",
+          "grammar_type": "Youth skill development workshop"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "When setting goals, what is the difference between an 'outcome' goal and an 'output' goal?",
+          "options": ["They are the same.", "An outcome is the impact of the event (e.g., increased awareness), while an output is the tangible product (e.g., number of brochures distributed).", "An outcome is measurable, but an output is not.", "An output is the final goal."],
+          "correct_answer": "An outcome is the impact of the event (e.g., increased awareness), while an output is the tangible product (e.g., number of brochures distributed).",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 102,
+          "question": "What is a 'contingency budget'?",
+          "options": ["The main budget for the event", "Extra funds set aside for unexpected costs or emergencies", "The budget for promotion only", "The money left over after the event"],
+          "correct_answer": "Extra funds set aside for unexpected costs or emergencies",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 103,
+          "question": "What is the 'critical path' in a project timeline?",
+          "options": ["The shortest sequence of tasks", "The sequence of essential tasks that determines the project's minimum duration", "A list of unimportant tasks", "The schedule for the event day only"],
+          "correct_answer": "The sequence of essential tasks that determines the project's minimum duration",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 104,
+          "question": "How can you ensure the long-term impact of a 'Neighborhood cleanliness drive'?",
+          "options": ["By cleaning only once", "By combining the clean-up with an awareness campaign on waste management", "By blaming the local government", "By making the event very short"],
+          "correct_answer": "By combining the clean-up with an awareness campaign on waste management",
+          "grammar_type": "Neighborhood cleanliness drive"
+        },
+        {
+          "id": 105,
+          "question": "In a 'Panel interview' style event, what is the role of a 'moderator'?",
+          "options": ["To be one of the expert speakers", "To facilitate the discussion and manage time", "To ask all the questions", "To sit in the audience"],
+          "correct_answer": "To facilitate the discussion and manage time",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 106,
+          "question": "A key challenge in a 'Local festival celebration' is managing...",
+          "options": ["a small number of guests", "crowd control and safety", "a lack of interest", "a very small budget"],
+          "correct_answer": "crowd control and safety",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 107,
+          "question": "How can you handle a conflict between two volunteers in your team?",
+          "options": ["Ignore it and hope it goes away", "Take one person's side", "Mediate a discussion to find a professional solution", "Remove both from the team"],
+          "correct_answer": "Mediate a discussion to find a professional solution",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 108,
+          "question": "What is 'in-kind' sponsorship?",
+          "options": ["A direct cash donation", "A company providing goods or services (e.g., free printing) instead of money", "A loan from a sponsor", "A very small sponsorship"],
+          "correct_answer": "A company providing goods or services (e.g., free printing) instead of money",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 109,
+          "question": "A 'post-mortem' analysis after an event is crucial for...",
+          "options": ["celebrating success only", "blaming team members for failures", "identifying successes and failures to improve future events", "forgetting about the event"],
+          "correct_answer": "identifying successes and failures to improve future events",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 110,
+          "question": "When creating a communication strategy, what is the difference between 'reach' and 'engagement'?",
+          "options": ["Reach is how many people see your message; engagement is how many people interact with it.", "They are the same thing.", "Reach is about social media; engagement is about posters.", "Engagement is how many people see your message."],
+          "correct_answer": "Reach is how many people see your message; engagement is how many people interact with it.",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 111,
+          "question": "For a 'Community health camp', why is a follow-up plan important?",
+          "options": ["To ensure patients with serious issues get further medical help.", "It is not important.", "To sell more medicines.", "To organize another camp immediately."],
+          "correct_answer": "To ensure patients with serious issues get further medical help.",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 112,
+          "question": "How can you use registration data to improve future 'Youth skill development workshops'?",
+          "options": ["By analyzing the demographics to understand who is interested", "The data is useless after the event.", "By selling the data to other companies.", "By deleting the data immediately."],
+          "correct_answer": "By analyzing the demographics to understand who is interested",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 113,
+          "question": "A 'risk assessment' for a 'School Annual Day celebration' would include planning for...",
+          "options": ["a sunny day", "too many guests", "a power failure or a medical emergency", "the event being too successful"],
+          "correct_answer": "a power failure or a medical emergency",
+          "grammar_type": "School Annual Day celebration"
+        },
+        {
+          "id": 114,
+          "question": "Which of these is a qualitative measure of success for a 'Senior citizen gathering'?",
+          "options": ["The number of attendees", "Testimonials from attendees about how much they enjoyed it", "The total cost of the event", "The duration of the event"],
+          "correct_answer": "Testimonials from attendees about how much they enjoyed it",
+          "grammar_type": "Senior citizen gathering"
+        },
+        {
+          "id": 115,
+          "question": "A successful 'Environmental awareness campaign' should not just inform, but also...",
+          "options": ["frighten people", "empower people with actionable steps", "blame individuals", "be very expensive"],
+          "correct_answer": "empower people with actionable steps",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 116,
+          "question": "What is the 'break-even point' in event budgeting?",
+          "options": ["The point where you start losing money", "The point where your income equals your expenses", "The total profit from the event", "The total cost of the event"],
+          "correct_answer": "The point where your income equals your expenses",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 117,
+          "question": "What is the 'Tuckman's stages of group development' model for team building?",
+          "options": ["A model for budgeting", "Forming, Storming, Norming, Performing", "A timeline management tool", "A communication strategy"],
+          "correct_answer": "Forming, Storming, Norming, Performing",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 118,
+          "question": "Why would you create a 'tiered' registration system (e.g., early bird, regular)?",
+          "options": ["To make registration confusing", "To encourage early registrations and manage cash flow", "To have fewer attendees", "To make the event more expensive"],
+          "correct_answer": "To encourage early registrations and manage cash flow",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 119,
+          "question": "How can a 'social goal' like 'improving community relations' be measured?",
+          "options": ["It cannot be measured.", "Through post-event surveys asking about community connection and observing interactions.", "By counting the number of attendees.", "By the financial profit."],
+          "correct_answer": "Through post-event surveys asking about community connection and observing interactions.",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 120,
+          "question": "A 'force majeure' clause in a venue contract is important because it covers...",
+          "options": ["the cost of food", "unforeseeable circumstances that prevent the event from happening (e.g., natural disasters)", "the rules for decoration", "the payment schedule"],
+          "correct_answer": "unforeseeable circumstances that prevent the event from happening (e.g., natural disasters)",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 121,
+          "question": "Which of these is a key 'logistical' challenge for a 'Neighborhood cleanliness drive'?",
+          "options": ["Designing a beautiful poster", "Coordinating with the local municipality for garbage collection and disposal", "Choosing a catchy slogan", "Selecting a team leader"],
+          "correct_answer": "Coordinating with the local municipality for garbage collection and disposal",
+          "grammar_type": "Neighborhood cleanliness drive"
+        },
+        {
+          "id": 122,
+          "question": "A successful 'Youth skill development workshop' requires a curriculum that is...",
+          "options": ["very theoretical and lecture-based", "interactive, practical, and relevant to job market needs", "easy for the trainers", "the same for all age groups"],
+          "correct_answer": "interactive, practical, and relevant to job market needs",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 123,
+          "question": "How do you manage 'stakeholder expectations' for a 'Local festival celebration'?",
+          "options": ["By ignoring them", "By having regular communication and clear roles for all stakeholders (e.g., sponsors, community leaders, vendors)", "By making promises you can't keep", "By having a very small team"],
+          "correct_answer": "By having regular communication and clear roles for all stakeholders (e.g., sponsors, community leaders, vendors)",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 124,
+          "question": "What is a 'SWOT analysis' used for in event planning?",
+          "options": ["To analyze Strengths, Weaknesses, Opportunities, and Threats", "To create a schedule", "To assign team tasks", "To manage the budget"],
+          "correct_answer": "To analyze Strengths, Weaknesses, Opportunities, and Threats",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 125,
+          "question": "For a 'Community health camp', getting 'informed consent' from patients is a crucial ______ consideration.",
+          "options": ["financial", "promotional", "ethical", "logistical"],
+          "correct_answer": "ethical",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 126,
+          "question": "A 'work breakdown structure' (WBS) is a tool used in...",
+          "options": ["Communication and Promotion", "Timeline and Schedule Management", "Managing RSVPs", "Setting Goals"],
+          "correct_answer": "Timeline and Schedule Management",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 127,
+          "question": "The 'delegation' of tasks in a team should be based on trust and...",
+          "options": ["random choice", "the person's availability only", "the person's capability to do the job", "the team leader's personal preference"],
+          "correct_answer": "the person's capability to do the job",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 128,
+          "question": "How can you create a 'buzz' for a 'School Annual Day celebration' before the event?",
+          "options": ["By keeping it a complete secret", "By releasing teaser videos or pictures on social media", "By sending a single notice one day before", "By not promoting it at all"],
+          "correct_answer": "By releasing teaser videos or pictures on social media",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 129,
+          "question": "A 'no-show' rate is a key metric in...",
+          "options": ["Budgeting", "Managing Registrations and RSVPs", "Team Building", "Venue Selection"],
+          "correct_answer": "Managing Registrations and RSVPs",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 130,
+          "question": "The 'ROI' (Return on Investment) for a sponsor of an 'Environmental awareness campaign' might be measured in...",
+          "options": ["the number of trees planted", "positive brand image and media mentions", "the total cost of the campaign", "the number of volunteers"],
+          "correct_answer": "positive brand image and media mentions",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 131,
+          "question": "What is a 'variable cost' in event budgeting?",
+          "options": ["A cost that does not change, like venue rent.", "A cost that changes based on the number of attendees, like food.", "The total profit.", "The cost of promotion."],
+          "correct_answer": "A cost that changes based on the number of attendees, like food.",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 132,
+          "question": "What is a 'fixed cost' in event budgeting?",
+          "options": ["A cost that changes based on the number of attendees.", "A cost that remains the same regardless of the number of attendees, like venue rent.", "The cost per person.", "The cost of transportation."],
+          "correct_answer": "A cost that remains the same regardless of the number of attendees, like venue rent.",
+          "grammar_type": "Venue costs"
+        },
+        {
+          "id": 133,
+          "question": "The 'storming' stage of team development is often characterized by...",
+          "options": ["high productivity and cooperation", "politeness and getting to know each other", "conflict and disagreement as ideas are challenged", "a sense of achievement and closure"],
+          "correct_answer": "conflict and disagreement as ideas are challenged",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 134,
+          "question": "A 'post-event report' is important for...",
+          "options": ["planning the event", "promoting the event", "showing accountability to sponsors and for future planning", "registering attendees"],
+          "correct_answer": "showing accountability to sponsors and for future planning",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 135,
+          "question": "A/B testing in 'Communication and Promotion' would involve...",
+          "options": ["sending the same poster to everyone", "sending two different versions of an email to see which gets a better response", "not sending any emails", "sending a very long email"],
+          "correct_answer": "sending two different versions of an email to see which gets a better response",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 136,
+          "question": "What is the most complex aspect of organizing a 'Community health camp'?",
+          "options": ["Choosing a date", "Ensuring patient privacy and managing medical data ethically", "Promoting the event", "Arranging for food"],
+          "correct_answer": "Ensuring patient privacy and managing medical data ethically",
+          "grammar_type": "Community health camp"
+        },
+        {
+          "id": 137,
+          "question": "A 'needs assessment' survey before a 'Youth skill development workshop' helps to...",
+          "options": ["choose topics that the youth are actually interested in and need", "register participants for the workshop", "create the final budget", "book a venue"],
+          "correct_answer": "choose topics that the youth are actually interested in and need",
+          "grammar_type": "Youth skill development workshop"
+        },
+        {
+          "id": 138,
+          "question": "For a large 'Local festival celebration', creating a 'site map' is crucial for...",
+          "options": ["budgeting", "planning the layout of stalls, stages, and emergency exits", "assigning tasks to teams", "promoting the festival"],
+          "correct_answer": "planning the layout of stalls, stages, and emergency exits",
+          "grammar_type": "Local festival celebration"
+        },
+        {
+          "id": 139,
+          "question": "What is 'gamification' in the context of an 'Environmental awareness campaign'?",
+          "options": ["Ignoring the campaign", "Making the campaign into a game or competition to increase engagement", "A type of environmental pollution", "A planning tool for the campaign"],
+          "correct_answer": "Making the campaign into a game or competition to increase engagement",
+          "grammar_type": "Environmental awareness campaign"
+        },
+        {
+          "id": 140,
+          "question": "A key 'social goal' of an inclusive 'School Annual Day celebration' is to...",
+          "options": ["showcase the talent of only the best performers", "provide a platform for every child to participate and feel valued", "make a large profit from ticket sales", "finish the event as quickly as possible"],
+          "correct_answer": "provide a platform for every child to participate and feel valued",
+          "grammar_type": "School Annual Day celebration"
+        },
+        {
+          "id": 141,
+          "question": "Why is it important to have a dedicated 'finance team' for a large event?",
+          "options": ["To handle all aspects of budgeting, tracking expenses, and managing cash flow.", "To decide the event's theme.", "To promote the event on social media.", "To manage the volunteers."],
+          "correct_answer": "To handle all aspects of budgeting, tracking expenses, and managing cash flow.",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 142,
+          "question": "An 'open-loop' task in a timeline is one that...",
+          "options": ["has a clear end date", "depends on another task", "is not clearly defined and lacks a specific deadline", "is part of the critical path"],
+          "correct_answer": "is not clearly defined and lacks a specific deadline",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 143,
+          "question": "How can you use a 'tiered ticket' system for event registration?",
+          "options": ["Offer different price levels with different benefits (e.g., VIP access)", "Offer only one type of ticket", "Make the event free for everyone", "Have no registration system"],
+          "correct_answer": "Offer different price levels with different benefits (e.g., VIP access)",
+          "grammar_type": "Managing Registrations and RSVPs"
+        },
+        {
+          "id": 144,
+          "question": "The 'performing' stage of a team is when the group...",
+          "options": ["is just forming", "is in a state of conflict", "is working together efficiently and achieving its goals", "is finishing its work"],
+          "correct_answer": "is working together efficiently and achieving its goals",
+          "grammar_type": "Team Building and Task Assignment"
+        },
+        {
+          "id": 145,
+          "question": "What does a 'KPI' (Key Performance Indicator) do for an event?",
+          "options": ["It is the name of the event.", "It is a measurable value that demonstrates how effectively an event is achieving its key objectives.", "It is the total budget.", "It is the list of attendees."],
+          "correct_answer": "It is a measurable value that demonstrates how effectively an event is achieving its key objectives.",
+          "grammar_type": "Setting Goals and Objectives "
+        },
+        {
+          "id": 146,
+          "question": "A 'memorandum of understanding' (MOU) is important when dealing with...",
+          "options": ["small activity costs", "large sponsors or partners", "individual volunteers", "attendees"],
+          "correct_answer": "large sponsors or partners",
+          "grammar_type": "Activity costs"
+        },
+        {
+          "id": 147,
+          "question": "For a 'Senior citizen gathering', what is a key logistical consideration?",
+          "options": ["Loud rock music", "Difficult physical activities", "Transportation for attendees who may have mobility issues", "A late-night schedule"],
+          "correct_answer": "Transportation for attendees who may have mobility issues",
+          "grammar_type": "Senior citizen gathering"
+        },
+        {
+          "id": 148,
+          "question": "A 'multi-channel' communication strategy for an event means...",
+          "options": ["using only one method, like posters", "using a mix of methods, like posters, social media, and local announcements", "not communicating at all", "communicating only with the team"],
+          "correct_answer": "using a mix of methods, like posters, social media, and local announcements",
+          "grammar_type": "Communication and Promotion"
+        },
+        {
+          "id": 149,
+          "question": "What is the primary risk of not having a clear timeline?",
+          "options": ["The event might be too organized.", "Tasks may be forgotten, leading to a last-minute rush and potential failure.", "The budget will be too small.", "The team will be too happy."],
+          "correct_answer": "Tasks may be forgotten, leading to a last-minute rush and potential failure.",
+          "grammar_type": "Timeline and Schedule Management"
+        },
+        {
+          "id": 150,
+          "question": "The ultimate success of any community event is measured by its positive ______ on the community.",
+          "options": ["cost", "impact", "time", "team"],
+          "correct_answer": "impact",
+          "grammar_type": "Setting Goals and Objectives "
+        }
+      ]
+    }
+  ]
+}
+

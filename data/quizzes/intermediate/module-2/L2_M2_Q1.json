@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "Which word is an adverb in the sentence: 'The dog ran quickly.'?",
+          "options": ["The", "dog", "ran", "quickly"],
+          "correct_answer": "quickly",
+          "grammar_type": "Adverbs and Types of Adverbs"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "An adverb is a word that describes a...",
+          "options": ["noun", "verb, adjective, or another adverb", "pronoun", "conjunction"],
+          "correct_answer": "verb, adjective, or another adverb",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 3,
+          "question": "Choose the adverb: 'She sang a very beautiful song.'",
+          "options": ["sang", "very", "beautiful", "song"],
+          "correct_answer": "very",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 4,
+          "question": "Find the adverb: 'The old man walked slowly.'",
+          "options": ["old", "man", "walked", "slowly"],
+          "correct_answer": "slowly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 5,
+          "question": "The adverb in 'He is waiting there' is...",
+          "options": ["is", "waiting", "there", "he"],
+          "correct_answer": "there",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 6,
+          "question": "Which word in 'We will go to the market tomorrow' is an adverb of time?",
+          "options": ["go", "market", "will", "tomorrow"],
+          "correct_answer": "tomorrow",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 7,
+          "question": "An adverb of manner tells us ___ an action happens.",
+          "options": ["how", "when", "where", "why"],
+          "correct_answer": "how",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 8,
+          "question": "'Happily' is an adverb of...",
+          "options": ["Time", "Place", "Manner", "Frequency"],
+          "correct_answer": "Manner",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 9,
+          "question": "An adverb of place tells us ___ an action happens.",
+          "options": ["how", "when", "where", "why"],
+          "correct_answer": "where",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 10,
+          "question": "'Outside' is an adverb of...",
+          "options": ["Time", "Place", "Manner", "Degree"],
+          "correct_answer": "Place",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 11,
+          "question": "An adverb of time tells us ___ an action happens.",
+          "options": ["how", "when", "where", "why"],
+          "correct_answer": "when",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 12,
+          "question": "'Yesterday' is an adverb of...",
+          "options": ["Time", "Place", "Manner", "Frequency"],
+          "correct_answer": "Time",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 13,
+          "question": "Fill in the blank: 'The children played ______ in the garden.'",
+          "options": ["happy", "happily", "happiness", "unhappy"],
+          "correct_answer": "happily",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 14,
+          "question": "Which is an adverb of place? 'Let's go ______.'",
+          "options": ["soon", "quietly", "inside", "often"],
+          "correct_answer": "inside",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 15,
+          "question": "Which adverb answers the question 'How?'? 'He drives his car ______.'",
+          "options": ["yesterday", "there", "carefully", "always"],
+          "correct_answer": "carefully",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 16,
+          "question": "Which adverb answers the question 'When?'? 'I will call you ______.'",
+          "options": ["loudly", "later", "everywhere", "quite"],
+          "correct_answer": "later",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 17,
+          "question": "Which adverb answers the question 'Where?'? 'The birds are flying ______.'",
+          "options": ["beautifully", "now", "above", "never"],
+          "correct_answer": "above",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 18,
+          "question": "Find the adverb of manner: 'The baby is sleeping peacefully.'",
+          "options": ["baby", "sleeping", "is", "peacefully"],
+          "correct_answer": "peacefully",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 19,
+          "question": "Find the adverb of place: 'Please put the box here.'",
+          "options": ["please", "put", "box", "here"],
+          "correct_answer": "here",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 20,
+          "question": "Find the adverb of time: 'I saw him recently.'",
+          "options": ["saw", "him", "I", "recently"],
+          "correct_answer": "recently",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 21,
+          "question": "Choose the correct adverb: 'She speaks English ______.'",
+          "options": ["fluent", "fluently", "fluency", "more fluent"],
+          "correct_answer": "fluently",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 22,
+          "question": "The adverb 'gently' describes...",
+          "options": ["when", "where", "how", "how often"],
+          "correct_answer": "how",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 23,
+          "question": "The adverb 'upstairs' describes...",
+          "options": ["when", "where", "how", "how much"],
+          "correct_answer": "where",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 24,
+          "question": "The adverb 'soon' describes...",
+          "options": ["when", "where", "how", "why"],
+          "correct_answer": "when",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 25,
+          "question": "Identify the adverb: 'The teacher explained the lesson clearly.'",
+          "options": ["teacher", "lesson", "explained", "clearly"],
+          "correct_answer": "clearly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 26,
+          "question": "What does the adverb 'loudly' modify in 'The boy shouted loudly'?",
+          "options": ["boy", "shouted", "The", "loudly"],
+          "correct_answer": "shouted",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 27,
+          "question": "Which sentence has an adverb of manner?",
+          "options": ["I will go there.", "She writes neatly.", "He came yesterday.", "The dog is very cute."],
+          "correct_answer": "She writes neatly.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 28,
+          "question": "Which sentence has an adverb of place?",
+          "options": ["The children are playing outside.", "He answered correctly.", "We will leave now.", "She sings well."],
+          "correct_answer": "The children are playing outside.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 29,
+          "question": "Which sentence has an adverb of time?",
+          "options": ["The bus stopped suddenly.", "My house is nearby.", "They will arrive soon.", "He spoke politely."],
+          "correct_answer": "They will arrive soon.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 30,
+          "question": "Fill in the blank: 'The sun is shining ______.'",
+          "options": ["bright", "brightness", "brightly", "more bright"],
+          "correct_answer": "brightly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 31,
+          "question": "Identify the adverb in the sentence: 'He ate the chocolate cake greedily.'",
+          "options": ["chocolate", "cake", "ate", "greedily"],
+          "correct_answer": "greedily",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 32,
+          "question": "The adverb in 'My friend lives nearby' is an adverb of...",
+          "options": ["Place", "Time", "Manner", "Frequency"],
+          "correct_answer": "Place",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 33,
+          "question": "The adverb in 'I have to leave now' is an adverb of...",
+          "options": ["Place", "Time", "Manner", "Degree"],
+          "correct_answer": "Time",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 34,
+          "question": "How do we often form an adverb of manner from an adjective?",
+          "options": ["By adding '-ing'", "By adding '-er'", "By adding '-ly'", "By adding '-ness'"],
+          "correct_answer": "By adding '-ly'",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 35,
+          "question": "Which of these is an adverb? 'She is a ______ dancer.'",
+          "options": ["good", "well", "best", "better"],
+          "correct_answer": "well",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 36,
+          "question": "Identify the adverb: 'The story was quite interesting.'",
+          "options": ["story", "was", "quite", "interesting"],
+          "correct_answer": "quite",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 37,
+          "question": "'Everywhere' is an adverb of...",
+          "options": ["Place", "Time", "Manner", "Frequency"],
+          "correct_answer": "Place",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 38,
+          "question": "Choose the adverb of manner: 'He fixed the car ______.'",
+          "options": ["today", "easily", "there", "often"],
+          "correct_answer": "easily",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 39,
+          "question": "Find the adverb: 'Please come in.'",
+          "options": ["Please", "come", "in", "None of the above"],
+          "correct_answer": "in",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 40,
+          "question": "The adverb 'angrily' is formed from which adjective?",
+          "options": ["Anger", "Angry", "Angered", "Angering"],
+          "correct_answer": "Angry",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 41,
+          "question": "'The tortoise walked steadily.' The adverb 'steadily' modifies the verb...",
+          "options": ["tortoise", "walked", "The", "steadily"],
+          "correct_answer": "walked",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 42,
+          "question": "Choose the adverb of time: 'I will do my homework ______.'",
+          "options": ["neatly", "downstairs", "tonight", "carefully"],
+          "correct_answer": "tonight",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 43,
+          "question": "Find the adverb of place: 'He looked up.'",
+          "options": ["He", "looked", "up", "None of the above"],
+          "correct_answer": "up",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 44,
+          "question": "Which sentence contains an adverb?",
+          "options": ["He is a fast runner.", "He runs fast.", "The car is fast.", "It was a fast game."],
+          "correct_answer": "He runs fast.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 45,
+          "question": "The adverb in 'She almost missed the bus' is...",
+          "options": ["she", "almost", "missed", "bus"],
+          "correct_answer": "almost",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 46,
+          "question": "An adverb can describe an adjective. Choose the adverb in 'The movie was really exciting.'",
+          "options": ["movie", "was", "really", "exciting"],
+          "correct_answer": "really",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 47,
+          "question": "'The children are playing ______.' Which of these is an adverb of place?",
+          "options": ["loudly", "happily", "downstairs", "now"],
+          "correct_answer": "downstairs",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 48,
+          "question": "What is the adverb in 'I completely forgot about the meeting'?",
+          "options": ["forgot", "meeting", "about", "completely"],
+          "correct_answer": "completely",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 49,
+          "question": "'Please speak quietly in the library.' The adverb 'quietly' is an adverb of...",
+          "options": ["Manner", "Time", "Place", "Frequency"],
+          "correct_answer": "Manner",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 50,
+          "question": "Which of these is NOT an adverb?",
+          "options": ["softly", "soft", "quickly", "loudly"],
+          "correct_answer": "soft",
+          "grammar_type": "Adverbs and Types of Adverbs"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "Which type of adverb answers the question 'How often?'?",
+          "options": ["Adverb of Manner", "Adverb of Degree", "Adverb of Frequency", "Adverb of Place"],
+          "correct_answer": "Adverb of Frequency",
+          "grammar_type": "Adverbs and Types of Adverbs"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "Identify the adverb of frequency: 'I always brush my teeth before bed.'",
+          "options": ["brush", "always", "before", "bed"],
+          "correct_answer": "always",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 53,
+          "question": "Which type of adverb answers the question 'To what extent?'?",
+          "options": ["Adverb of Manner", "Adverb of Time", "Adverb of Place", "Adverb of Degree"],
+          "correct_answer": "Adverb of Degree",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 54,
+          "question": "Identify the adverb of degree: 'The water is too cold to swim.'",
+          "options": ["water", "is", "too", "cold"],
+          "correct_answer": "too",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 55,
+          "question": "'When', 'where', 'why', and 'how' are examples of what type of adverb when they are used to ask questions?",
+          "options": ["Adverbs of Manner", "Conjunctive Adverbs", "Interrogative Adverbs", "Adverbs of Frequency"],
+          "correct_answer": "Interrogative Adverbs",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 56,
+          "question": "Which word is an irregular adverb? 'He did ______ on the test.'",
+          "options": ["good", "goodly", "well", "best"],
+          "correct_answer": "well",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 57,
+          "question": "Which is the correct adverbial form of the adjective 'happy'?",
+          "options": ["happyly", "happily", "happful", "happyfuly"],
+          "correct_answer": "happily",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 58,
+          "question": "Which sentence has the correct adverb placement? 'She ______ late for school.'",
+          "options": ["is never", "never is", "is late never", "late is never"],
+          "correct_answer": "is never",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 59,
+          "question": "He runs ______ than his brother. Choose the correct comparative adverb.",
+          "options": ["fast", "faster", "fastly", "more fast"],
+          "correct_answer": "faster",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 60,
+          "question": "Of all the students, she performed the ______.",
+          "options": ["good", "well", "better", "best"],
+          "correct_answer": "best",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 61,
+          "question": "Identify the adverb of frequency: 'We sometimes go to the cinema.'",
+          "options": ["we", "go", "sometimes", "cinema"],
+          "correct_answer": "sometimes",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 62,
+          "question": "'I have almost finished my homework.' The adverb 'almost' is an adverb of...",
+          "options": ["Time", "Manner", "Degree", "Frequency"],
+          "correct_answer": "Degree",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 63,
+          "question": "'Why are you late?' In this sentence, 'Why' is a/an...",
+          "options": ["Adverb of Manner", "Interrogative Adverb", "Conjunction", "Adjective"],
+          "correct_answer": "Interrogative Adverb",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 64,
+          "question": "Choose the sentence with the correct adverb: 'The music was ______ loud.'",
+          "options": ["terrible", "terribly", "more terrible", "terribleness"],
+          "correct_answer": "terribly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 65,
+          "question": "Which sentence uses 'hard' as an adverb?",
+          "options": ["This is a hard question.", "She works very hard.", "The wood is hard.", "Life can be hard."],
+          "correct_answer": "She works very hard.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 66,
+          "question": "She spoke ______ of all the participants. Choose the correct superlative adverb.",
+          "options": ["more clear", "clearlier", "most clearly", "clear"],
+          "correct_answer": "most clearly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 67,
+          "question": "Where should the adverb of frequency 'often' be placed in this sentence? 'He ______ listens to the radio.'",
+          "options": ["often listens", "listens often", "listens to often", "often to listens"],
+          "correct_answer": "often listens",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 68,
+          "question": "What is the adverbial form of 'terrible'?",
+          "options": ["terriblely", "terriblily", "terrily", "terribly"],
+          "correct_answer": "terribly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 69,
+          "question": "Identify the adverb of degree: 'I am not very happy about this.'",
+          "options": ["not", "very", "happy", "about"],
+          "correct_answer": "very",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 70,
+          "question": "'How did you solve the problem?' The word 'How' is what kind of adverb?",
+          "options": ["Adverb of Manner", "Adverb of Degree", "Interrogative Adverb", "Adverb of Place"],
+          "correct_answer": "Interrogative Adverb",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 71,
+          "question": "The adverb 'daily' is an adverb of...",
+          "options": ["Manner", "Degree", "Time", "Frequency"],
+          "correct_answer": "Frequency",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 72,
+          "question": "'The exam was quite difficult.' The word 'quite' is an adverb of...",
+          "options": ["Manner", "Degree", "Time", "Frequency"],
+          "correct_answer": "Degree",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 73,
+          "question": "Which sentence is correct?",
+          "options": ["He drives too fastly.", "He drives very faster.", "He drives too fast.", "He drives fastly."],
+          "correct_answer": "He drives too fast.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 74,
+          "question": "I ______ see my cousins; they live in another country.",
+          "options": ["often", "always", "rarely", "usually"],
+          "correct_answer": "rarely",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 75,
+          "question": "What does the adverb 'fully' modify in 'I fully understand the situation'?",
+          "options": ["I", "fully", "understand", "situation"],
+          "correct_answer": "understand",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 76,
+          "question": "Which of these is NOT an adverb of frequency?",
+          "options": ["never", "seldom", "yearly", "ago"],
+          "correct_answer": "ago",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 77,
+          "question": "The word 'enough' can be used as an adverb of degree. Choose the correct sentence.",
+          "options": ["Is the tea enough hot?", "Is the tea hot enough?", "Is the enough tea hot?", "Is the tea hot enoughly?"],
+          "correct_answer": "Is the tea hot enough?",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 78,
+          "question": "He has ______ finished the book. He only has one page left.",
+          "options": ["nearly", "never", "seldom", "hardly"],
+          "correct_answer": "nearly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 79,
+          "question": "Which sentence correctly places the adverb 'abroad'?",
+          "options": ["She abroad wants to study.", "She wants abroad to study.", "She wants to abroad study.", "She wants to study abroad."],
+          "correct_answer": "She wants to study abroad.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 80,
+          "question": "The adverb for the adjective 'public' is...",
+          "options": ["publicly", "publically", "publicaly", "publicy"],
+          "correct_answer": "publicly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 81,
+          "question": "'Where have you been?' The adverb 'where' asks about...",
+          "options": ["Time", "Manner", "Place", "Reason"],
+          "correct_answer": "Place",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 82,
+          "question": "This train goes ______ to Mumbai. It does not stop anywhere.",
+          "options": ["directly", "direct", "directed", "direction"],
+          "correct_answer": "directly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 83,
+          "question": "She arrived ______ than anyone else.",
+          "options": ["early", "earlier", "earliest", "more early"],
+          "correct_answer": "earlier",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 84,
+          "question": "Which of these words can be both an adjective and an adverb?",
+          "options": ["quick", "slow", "late", "sad"],
+          "correct_answer": "late",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 85,
+          "question": "The adverb 'entirely' is an adverb of...",
+          "options": ["Degree", "Manner", "Frequency", "Time"],
+          "correct_answer": "Degree",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 86,
+          "question": "The adverb of frequency 'usually' is best placed in which position: 'She (1) helps (2) her mother (3) in the kitchen (4).'",
+          "options": ["Position 1", "Position 2", "Position 3", "Position 4"],
+          "correct_answer": "Position 1",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 87,
+          "question": "What is the adverb form of 'gentle'?",
+          "options": ["gentlely", "gently", "gentlily", "gentelly"],
+          "correct_answer": "gently",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 88,
+          "question": "Identify the interrogative adverb in the sentence: 'When does the show start?'",
+          "options": ["show", "does", "start", "When"],
+          "correct_answer": "When",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 89,
+          "question": "'He is ______ strong to lift the box.'",
+          "options": ["enough", "so", "too", "very"],
+          "correct_answer": "strong enough",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 90,
+          "question": "He has to wake up ______ because his school is far away.",
+          "options": ["early", "earlily", "earlier", "earliest"],
+          "correct_answer": "early",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 91,
+          "question": "'I am absolutely sure.' The adverb 'absolutely' modifies...",
+          "options": ["I", "am", "sure", "absolutely"],
+          "correct_answer": "sure",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 92,
+          "question": "What is the superlative form of the adverb 'well'?",
+          "options": ["good", "better", "best", "weller"],
+          "correct_answer": "best",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 93,
+          "question": "Which of these adverbs of frequency indicates 0% frequency?",
+          "options": ["always", "sometimes", "never", "often"],
+          "correct_answer": "never",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 94,
+          "question": "'The room was ______ dark for me to see anything.'",
+          "options": ["so", "too", "enough", "very"],
+          "correct_answer": "too",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 95,
+          "question": "Which sentence is grammatically correct?",
+          "options": ["She visits often her grandmother.", "She often visits her grandmother.", "She visits her grandmother often.", "Both B and C are correct."],
+          "correct_answer": "Both B and C are correct.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 96,
+          "question": "He works ______ than me.",
+          "options": ["harder", "more hard", "hard", "hardly"],
+          "correct_answer": "harder",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 97,
+          "question": "What is the adverbial form of 'automatic'?",
+          "options": ["automaticly", "automaticaly", "automatically", "autoly"],
+          "correct_answer": "automatically",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 98,
+          "question": "'How often do you exercise?' The phrase 'How often' is...",
+          "options": ["An adverb of manner", "An interrogative adverb phrase", "An adverb of degree", "A prepositional phrase"],
+          "correct_answer": "An interrogative adverb phrase",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 99,
+          "question": "This is ______ the worst movie I have ever seen.",
+          "options": ["by far", "by much", "by long", "by so"],
+          "correct_answer": "by far",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 100,
+          "question": "He ______ passed the exam; he got only the minimum marks.",
+          "options": ["justly", "fairly", "barely", "nearly"],
+          "correct_answer": "barely",
+          "grammar_type": "Adverbs and Types of Adverbs"
         }
       ]
     },
@@ -42,25 +714,357 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "Which word is a conjunctive adverb in the sentence: 'I was tired; however, I finished the work.'?",
+          "options": ["tired", "however", "finished", "work"],
+          "correct_answer": "however",
+          "grammar_type": "Adverbs and Types of Adverbs"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "What is the function of an adverbial clause?",
+          "options": ["To act as the subject of the sentence.", "To act like an adverb, modifying a verb, adjective, or another adverb.", "To connect two nouns.", "To act as a direct object."],
+          "correct_answer": "To act like an adverb, modifying a verb, adjective, or another adverb.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 103,
+          "question": "Identify the adverbial phrase in: 'He ran with great speed.'",
+          "options": ["He ran", "with great speed", "great speed", "ran with"],
+          "correct_answer": "with great speed",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 104,
+          "question": "Identify the adverbial clause: 'We will go to the park when the rain stops.'",
+          "options": ["We will go", "to the park", "when the rain stops", "the rain stops"],
+          "correct_answer": "when the rain stops",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 105,
+          "question": "What is the difference in meaning between 'He works hard' and 'He hardly works'?",
+          "options": ["There is no difference.", "'Hard' means with a lot of effort; 'hardly' means almost not at all.", "'Hardly' means with a lot of effort; 'hard' means almost not at all.", "'Hardly' is the correct adverb form of 'hard'."],
+          "correct_answer": "'Hard' means with a lot of effort; 'hardly' means almost not at all.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 106,
+          "question": "Which word is an adverb of certainty? 'She will ______ win the prize.'",
+          "options": ["happily", "quickly", "certainly", "there"],
+          "correct_answer": "certainly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 107,
+          "question": "What is a 'split infinitive'?",
+          "options": ["Using two adverbs together", "Placing an adverb between 'to' and the verb (e.g., 'to boldly go')", "Ending a sentence with an adverb", "Using an adverb as a noun"],
+          "correct_answer": "Placing an adverb between 'to' and the verb (e.g., 'to boldly go')",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 108,
+          "question": "The adverb 'consequently' is a conjunctive adverb that shows...",
+          "options": ["Contrast", "A result or effect", "An example", "Time"],
+          "correct_answer": "A result or effect",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 109,
+          "question": "What is the meaning of 'lately' in 'Have you seen him lately?'?",
+          "options": ["Not on time", "Recently", "In the future", "Late at night"],
+          "correct_answer": "Recently",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 110,
+          "question": "'Frankly, I don't agree with you.' The adverb 'Frankly' is an adverb of...",
+          "options": ["Manner", "Degree", "Comment or Viewpoint", "Certainty"],
+          "correct_answer": "Comment or Viewpoint",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 111,
+          "question": "Identify the adverbial phrase of time: 'We will meet in the afternoon.'",
+          "options": ["We will meet", "will meet", "in the afternoon", "the afternoon"],
+          "correct_answer": "in the afternoon",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 112,
+          "question": "The adverbial clause 'because she was ill' expresses a...",
+          "options": ["Time", "Place", "Reason", "Condition"],
+          "correct_answer": "Reason",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 113,
+          "question": "He failed the test; ______, he will have to take it again.",
+          "options": ["however", "therefore", "otherwise", "similarly"],
+          "correct_answer": "therefore",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 114,
+          "question": "Which sentence contains an error in adverb usage?",
+          "options": ["He speaks loudly.", "She runs very fast.", "The flower smells sweetly.", "They arrived safely."],
+          "correct_answer": "The flower smells sweetly.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 115,
+          "question": "'I have ______ seen a more beautiful sunset.'",
+          "options": ["never", "ever", "hardly", "seldom"],
+          "correct_answer": "never",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 116,
+          "question": "The word 'ago' is an adverb of time that is always used with which tense?",
+          "options": ["Present Perfect", "Future", "Simple Past", "Present Continuous"],
+          "correct_answer": "Simple Past",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 117,
+          "question": "Which of these is a conjunctive adverb showing contrast?",
+          "options": ["Moreover", "Nevertheless", "Hence", "Thus"],
+          "correct_answer": "Nevertheless",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 118,
+          "question": "The adverbial clause 'although it was raining' shows...",
+          "options": ["Concession or contrast", "Reason", "Purpose", "Time"],
+          "correct_answer": "Concession or contrast",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 119,
+          "question": "'The situation is ______ worse than we thought.'",
+          "options": ["considerably", "considerable", "consideration", "considered"],
+          "correct_answer": "considerably",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 120,
+          "question": "The adverb 'hence' means...",
+          "options": ["In addition", "For this reason", "In contrast", "At that time"],
+          "correct_answer": "For this reason",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 121,
+          "question": "Identify the adverbial phrase of reason: 'The match was cancelled due to heavy rain.'",
+          "options": ["The match", "was cancelled", "due to heavy rain", "heavy rain"],
+          "correct_answer": "due to heavy rain",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 122,
+          "question": "Which of these is an adverb? 'It was a ______ mistake.'",
+          "options": ["clear", "clearly", "clearness", "cleared"],
+          "correct_answer": "clearly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 123,
+          "question": "The adverbial clause of condition is found in which sentence?",
+          "options": ["I will leave when you arrive.", "I will leave if you arrive.", "I will leave because you arrive.", "I will leave where you arrive."],
+          "correct_answer": "I will leave if you arrive.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 124,
+          "question": "What does 'seldom' mean?",
+          "options": ["Often", "Always", "Not often; rarely", "Never"],
+          "correct_answer": "Not often; rarely",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 125,
+          "question": "'Apparently, he is not coming to the party.' 'Apparently' is an adverb of...",
+          "options": ["Manner", "Viewpoint/Comment", "Time", "Place"],
+          "correct_answer": "Viewpoint/Comment",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 126,
+          "question": "Which punctuation is usually used after a conjunctive adverb at the beginning of a clause?",
+          "options": ["A comma", "A full stop", "A question mark", "No punctuation"],
+          "correct_answer": "A comma",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 127,
+          "question": "The adverb in 'He is old enough to vote' modifies...",
+          "options": ["He", "is", "old", "vote"],
+          "correct_answer": "old",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 128,
+          "question": "Choose the correct word: 'I haven't seen you much ______.'",
+          "options": ["late", "lately", "later", "latest"],
+          "correct_answer": "lately",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 129,
+          "question": "An adverbial phrase of purpose answers which question?",
+          "options": ["When?", "Where?", "How?", "Why?"],
+          "correct_answer": "Why?",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 130,
+          "question": "He drives ______ carefully to be a race car driver.",
+          "options": ["too", "so", "enough", "very"],
+          "correct_answer": "too",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 131,
+          "question": "'There is ______ any sugar left.'",
+          "options": ["hard", "harder", "hardly", "hardship"],
+          "correct_answer": "hardly",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 132,
+          "question": "The word 'henceforth' is an adverb of...",
+          "options": ["Place", "Time", "Manner", "Degree"],
+          "correct_answer": "Time",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 133,
+          "question": "'The more you study, the better you will perform.' In this structure, 'the better' is functioning as a/an...",
+          "options": ["Adjective", "Conjunction", "Adverb", "Noun"],
+          "correct_answer": "Adverb",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 134,
+          "question": "Which of these is a conjunctive adverb used to add a similar idea?",
+          "options": ["However", "Consequently", "Moreover", "Otherwise"],
+          "correct_answer": "Moreover",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 135,
+          "question": "The adverbial clause 'so that he could pass the exam' shows...",
+          "options": ["Result", "Purpose", "Time", "Place"],
+          "correct_answer": "Purpose",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 136,
+          "question": "The position of the adverb 'only' can change the meaning of a sentence. Which sentence means 'I talked to him and no one else'?",
+          "options": ["I only talked to him.", "I talked only to him.", "I talked to him only.", "Only I talked to him."],
+          "correct_answer": "I talked only to him.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 137,
+          "question": "Which sentence has an adverbial phrase of manner?",
+          "options": ["He will come in a few minutes.", "She spoke with great confidence.", "They are waiting at the bus stop.", "He worked until midnight."],
+          "correct_answer": "She spoke with great confidence.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 138,
+          "question": "The adverb 'yet' is often used with which verb tense?",
+          "options": ["Simple Past", "Present Perfect (usually in negative sentences and questions)", "Simple Present", "Future Continuous"],
+          "correct_answer": "Present Perfect (usually in negative sentences and questions)",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 139,
+          "question": "What is wrong with this sentence? 'I don't have no money.'",
+          "options": ["It is a double negative.", "The adverb is in the wrong place.", "The verb tense is incorrect.", "There is nothing wrong with it."],
+          "correct_answer": "It is a double negative.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 140,
+          "question": "'Undoubtedly' is an adverb of...",
+          "options": ["Time", "Place", "Manner", "Certainty/Probability"],
+          "correct_answer": "Certainty/Probability",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 141,
+          "question": "In the sentence 'I saw him leaving', 'leaving' is a participle. Can it be modified by an adverb?",
+          "options": ["No, never", "Yes, for example, 'I saw him leaving hurriedly.'", "Only if it is at the beginning of the sentence", "Only if it is a negative sentence"],
+          "correct_answer": "Yes, for example, 'I saw him leaving hurriedly.'",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 142,
+          "question": "Which of these is NOT a conjunctive adverb?",
+          "options": ["indeed", "but", "furthermore", "instead"],
+          "correct_answer": "but",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 143,
+          "question": "The word 'whereby' is a formal adverb meaning...",
+          "options": ["because", "after which", "by which", "before which"],
+          "correct_answer": "by which",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 144,
+          "question": "Spot the error: 'The team played good and won the match.'",
+          "options": ["played", "good", "won", "match"],
+          "correct_answer": "good",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 145,
+          "question": "The adverb 'outright' in 'He rejected the offer outright' means...",
+          "options": ["Secretly", "Politely", "Completely and immediately", "After some thought"],
+          "correct_answer": "Completely and immediately",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 146,
+          "question": "An adverbial clause of concession often starts with...",
+          "options": ["because", "if", "although", "when"],
+          "correct_answer": "although",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 147,
+          "question": "Which sentence uses a flat adverb (an adverb with the same form as the adjective)?",
+          "options": ["Drive safe.", "She sang beautifully.", "He answered quickly.", "It was an easily solved problem."],
+          "correct_answer": "Drive safe.",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 148,
+          "question": "What is a 'disjunct'?",
+          "options": ["A type of adverbial clause", "An adverb that expresses the speaker's attitude towards the content of the sentence (e.g., 'Fortunately, ...')", "A verb that has no object", "A type of conjunction"],
+          "correct_answer": "An adverb that expresses the speaker's attitude towards the content of the sentence (e.g., 'Fortunately, ...')",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 149,
+          "question": "The adverb 'therein' is a formal word meaning...",
+          "options": ["In that place or document", "From that place", "Towards that place", "Near that place"],
+          "correct_answer": "In that place or document",
+          "grammar_type": "Adverbs and Types of Adverbs"
+        },
+        {
+          "id": 150,
+          "question": "The adverbial phrase 'in order to succeed' expresses...",
+          "options": ["Time", "Place", "Manner", "Purpose"],
+          "correct_answer": "Purpose",
+          "grammar_type": "Adverbs and Types of Adverbs"
         }
       ]
     }
   ]
 }
+

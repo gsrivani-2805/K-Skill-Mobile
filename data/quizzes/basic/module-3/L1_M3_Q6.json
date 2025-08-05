@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Which of these is a complete sentence?",
+          "options": ["Runs fast.", "The dog runs fast.", "The fast dog.", "Running in the park."],
+          "correct_answer": "The dog runs fast.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 2,
+          "question": "A complete sentence must have a subject and a ______.",
+          "options": ["question mark", "verb", "comma", "adjective"],
+          "correct_answer": "verb",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 3,
+          "question": "What is the subject of the sentence: 'The cat is sleeping.'?",
+          "options": ["is", "sleeping", "The cat", "is sleeping"],
+          "correct_answer": "The cat",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 4,
+          "question": "What is the verb of the sentence: 'She reads a book.'?",
+          "options": ["She", "reads", "a book", "book"],
+          "correct_answer": "reads",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 5,
+          "question": "Rearrange the words to make a proper sentence: 'likes / he / to play / football'",
+          "options": ["To play he likes football.", "Football likes he to play.", "He likes to play football.", "Likes he to play football."],
+          "correct_answer": "He likes to play football.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 6,
+          "question": "A sentence that makes a statement should end with a...",
+          "options": ["question mark (?)", "full stop (.)", "comma (,)", "colon (:)"],
+          "correct_answer": "full stop (.)",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 7,
+          "question": "Which of these is a complete thought?",
+          "options": ["Because I was late.", "When the sun sets.", "I missed the bus.", "The girl with the red dress."],
+          "correct_answer": "I missed the bus.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 8,
+          "question": "A sentence must begin with a...",
+          "options": ["small letter", "number", "capital letter", "comma"],
+          "correct_answer": "capital letter",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 9,
+          "question": "Find the complete sentence.",
+          "options": ["The big blue ball.", "Is on the table.", "The ball is on the table.", "On the table."],
+          "correct_answer": "The ball is on the table.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 10,
+          "question": "Rearrange the words: 'is / my / this / pen'",
+          "options": ["My pen is this.", "Is this my pen.", "This is my pen.", "Pen is this my."],
+          "correct_answer": "This is my pen.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 11,
+          "question": "The subject of a sentence is who or what the sentence is...",
+          "options": ["ending with", "about", "describing", "asking"],
+          "correct_answer": "about",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 12,
+          "question": "The verb in a sentence shows the...",
+          "options": ["person", "place", "thing", "action or state of being"],
+          "correct_answer": "action or state of being",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 13,
+          "question": "Which sentence is correct?",
+          "options": ["Eats the boy an apple.", "The boy eats an apple.", "An apple the boy eats.", "The boy an apple eats."],
+          "correct_answer": "The boy eats an apple.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 14,
+          "question": "A question sentence should end with a...",
+          "options": ["full stop (.)", "question mark (?)", "comma (,)", "exclamation mark (!)"],
+          "correct_answer": "question mark (?)",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 15,
+          "question": "Which of these is a command?",
+          "options": ["The door is open.", "Is the door open?", "Open the door.", "I opened the door."],
+          "correct_answer": "Open the door.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 16,
+          "question": "What is the subject? 'Birds fly high.'",
+          "options": ["fly", "high", "Birds", "fly high"],
+          "correct_answer": "Birds",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 17,
+          "question": "What is the verb? 'The baby is crying.'",
+          "options": ["The baby", "is", "crying", "is crying"],
+          "correct_answer": "is crying",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 18,
+          "question": "Rearrange the words: 'school / go / to / I'",
+          "options": ["Go to school I.", "I go to school.", "School I go to.", "To school I go."],
+          "correct_answer": "I go to school.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 19,
+          "question": "Which one is an incomplete sentence?",
+          "options": ["The children are playing.", "The cat sat.", "In the garden near the tree.", "He is a good boy."],
+          "correct_answer": "In the garden near the tree.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 20,
+          "question": "The basic structure of a simple English sentence is...",
+          "options": ["Verb-Subject-Object", "Subject-Object-Verb", "Subject-Verb-Object", "Object-Verb-Subject"],
+          "correct_answer": "Subject-Verb-Object",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 21,
+          "question": "Find the complete sentence.",
+          "options": ["My name is.", "Is Rohan.", "My name is Rohan.", "Rohan my name."],
+          "correct_answer": "My name is Rohan.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 22,
+          "question": "The subject in the command 'Close the door' is...",
+          "options": ["door", "the", "Close", "you (understood)"],
+          "correct_answer": "you (understood)",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 23,
+          "question": "Rearrange the words: 'is / sky / blue / the'",
+          "options": ["Blue is the sky.", "Sky is the blue.", "The sky is blue.", "Is the sky blue."],
+          "correct_answer": "The sky is blue.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 24,
+          "question": "Which sentence is correctly structured?",
+          "options": ["Likes she ice cream.", "She ice cream likes.", "She likes ice cream.", "Ice cream she likes."],
+          "correct_answer": "She likes ice cream.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 25,
+          "question": "A group of words that makes complete sense is called a...",
+          "options": ["phrase", "clause", "sentence", "letter"],
+          "correct_answer": "sentence",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 26,
+          "question": "What is the verb in 'The car is red'?",
+          "options": ["The car", "is", "red", "There is no verb"],
+          "correct_answer": "is",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 27,
+          "question": "Identify the subject: 'My mother cooks delicious food.'",
+          "options": ["My mother", "cooks", "delicious food", "food"],
+          "correct_answer": "My mother",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 28,
+          "question": "Which of these is a sentence fragment (incomplete sentence)?",
+          "options": ["The man walked down the street.", "The sun is shining.", "Because it was raining.", "I love to read."],
+          "correct_answer": "Because it was raining.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 29,
+          "question": "Rearrange into a question: 'your / is / what / name'",
+          "options": ["What is your name?", "What your name is?", "Your name is what?", "Is what your name?"],
+          "correct_answer": "What is your name?",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 30,
+          "question": "Which sentence is NOT a proper sentence?",
+          "options": ["the dog is brown.", "The dog is brown.", "Is the dog brown?", "The brown dog."],
+          "correct_answer": "the dog is brown.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 31,
+          "question": "The predicate of a sentence is the part that contains the...",
+          "options": ["subject", "verb and tells what the subject does", "first word", "last word"],
+          "correct_answer": "verb and tells what the subject does",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 32,
+          "question": "In 'The children play', what is the predicate?",
+          "options": ["The", "children", "play", "The children"],
+          "correct_answer": "play",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 33,
+          "question": "Which sentence is in the correct order?",
+          "options": ["In the garden are playing the children.", "The children in the garden are playing.", "Are playing the children in the garden.", "The children are playing in the garden."],
+          "correct_answer": "The children are playing in the garden.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 34,
+          "question": "A statement is also known as a ______ sentence.",
+          "options": ["declarative", "interrogative", "imperative", "exclamatory"],
+          "correct_answer": "declarative",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 35,
+          "question": "A question is also known as an ______ sentence.",
+          "options": ["declarative", "interrogative", "imperative", "exclamatory"],
+          "correct_answer": "interrogative",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 36,
+          "question": "A command is also known as an ______ sentence.",
+          "options": ["declarative", "interrogative", "imperative", "exclamatory"],
+          "correct_answer": "imperative",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 37,
+          "question": "Which of the following is a complete sentence?",
+          "options": ["The girl in the red frock.", "Sings a sweet song.", "The girl in the red frock sings a sweet song.", "A sweet song."],
+          "correct_answer": "The girl in the red frock sings a sweet song.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 38,
+          "question": "Rearrange to make a sentence: 'is / a / it / beautiful / day'",
+          "options": ["A beautiful day it is.", "It is a beautiful day.", "Is it a beautiful day.", "Day is a beautiful it."],
+          "correct_answer": "It is a beautiful day.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 39,
+          "question": "What is the subject in the sentence: 'On the table lies a book.'?",
+          "options": ["On the table", "lies", "a book", "table"],
+          "correct_answer": "a book",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 40,
+          "question": "Which sentence makes sense?",
+          "options": ["Green the grass is.", "The grass is green.", "Is the grass green.", "Grass green the is."],
+          "correct_answer": "The grass is green.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 41,
+          "question": "Identify the verb: 'He is a smart boy.'",
+          "options": ["He", "is", "smart", "boy"],
+          "correct_answer": "is",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 42,
+          "question": "Identify the subject: 'We are learning English.'",
+          "options": ["We", "are learning", "English", "learning"],
+          "correct_answer": "We",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 43,
+          "question": "Which one is a complete sentence?",
+          "options": ["Go there.", "Going there.", "To go there.", "There to go."],
+          "correct_answer": "Go there.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 44,
+          "question": "Rearrange the words: 'is / what / time / the'",
+          "options": ["What the time is?", "What is the time?", "Is what the time?", "The time is what?"],
+          "correct_answer": "What is the time?",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 45,
+          "question": "A simple sentence has one subject and one ______.",
+          "options": ["object", "adjective", "predicate", "question"],
+          "correct_answer": "predicate",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 46,
+          "question": "Which sentence has the correct word order?",
+          "options": ["I my homework did.", "My homework I did.", "I did my homework.", "Did I my homework."],
+          "correct_answer": "I did my homework.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 47,
+          "question": "A sentence fragment is a piece of a sentence that is missing a subject or a...",
+          "options": ["verb", "capital letter", "full stop", "adjective"],
+          "correct_answer": "verb",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 48,
+          "question": "Find the complete sentence.",
+          "options": ["The tall man with the hat.", "Walking down the street.", "The man is walking.", "Down the street."],
+          "correct_answer": "The man is walking.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 49,
+          "question": "Rearrange the words: 'are / you / where / from'",
+          "options": ["Where you are from?", "Where are you from?", "From where are you?", "Are you from where?"],
+          "correct_answer": "Where are you from?",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 50,
+          "question": "Which sentence is a question?",
+          "options": ["She is my sister.", "Tell me about your sister.", "Is she your sister?", "My sister is tall."],
+          "correct_answer": "Is she your sister?",
+          "grammar_type": "Sentence Structure"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "A sentence with one independent clause is a ______ sentence.",
+          "options": ["simple", "compound", "complex", "compound-complex"],
+          "correct_answer": "simple",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 52,
+          "question": "A sentence with two or more independent clauses joined by a conjunction is a ______ sentence.",
+          "options": ["simple", "compound", "complex", "fragment"],
+          "correct_answer": "compound",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 53,
+          "question": "A sentence with one independent clause and at least one dependent clause is a ______ sentence.",
+          "options": ["simple", "compound", "complex", "question"],
+          "correct_answer": "complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 54,
+          "question": "Identify the type of sentence: 'I like tea, and my brother likes coffee.'",
+          "options": ["Simple", "Compound", "Complex", "Fragment"],
+          "correct_answer": "Compound",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 55,
+          "question": "Identify the type of sentence: 'I went to the market after I finished my homework.'",
+          "options": ["Simple", "Compound", "Complex", "Fragment"],
+          "correct_answer": "Complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 56,
+          "question": "A dependent clause is a group of words that...",
+          "options": ["can stand alone as a sentence", "cannot stand alone as a sentence", "is always a question", "is always a command"],
+          "correct_answer": "cannot stand alone as a sentence",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 57,
+          "question": "What is the dependent clause in 'He was happy because he won the prize'?",
+          "options": ["He was happy", "because he won the prize", "he won", "won the prize"],
+          "correct_answer": "because he won the prize",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 58,
+          "question": "Which coordinating conjunction (FANBOYS) fits best? 'He is poor, ______ he is honest.'",
+          "options": ["for", "and", "nor", "but"],
+          "correct_answer": "but",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 59,
+          "question": "Which subordinating conjunction fits best? '______ it was raining, we played inside.'",
+          "options": ["Although", "Because", "Unless", "If"],
+          "correct_answer": "Because",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 60,
+          "question": "Identify the sentence type: 'The cat and the dog are sleeping peacefully.'",
+          "options": ["Simple", "Compound", "Complex", "Fragment"],
+          "correct_answer": "Simple",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 61,
+          "question": "What is a 'run-on sentence'?",
+          "options": ["A very long sentence", "A sentence with no verb", "Two or more independent clauses joined without proper punctuation or conjunction", "A sentence that is a question"],
+          "correct_answer": "Two or more independent clauses joined without proper punctuation or conjunction",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 62,
+          "question": "How can you fix this run-on sentence? 'I am tired I want to sleep.'",
+          "options": ["I am tired, I want to sleep.", "I am tired, so I want to sleep.", "I am tired I want, to sleep.", "I am tired. I want to sleep."],
+          "correct_answer": "I am tired, so I want to sleep.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 63,
+          "question": "Identify the independent clause: 'When the bell rings, the students leave.'",
+          "options": ["When the bell rings", "the students leave", "the bell rings", "the students"],
+          "correct_answer": "the students leave",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 64,
+          "question": "A phrase is a group of words that does not have a...",
+          "options": ["noun and a verb", "subject and a verb pair", "capital letter", "full stop"],
+          "correct_answer": "subject and a verb pair",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 65,
+          "question": "Which of these is a prepositional phrase?",
+          "options": ["The cat sat", "On the mat", "It was black", "Sleeping soundly"],
+          "correct_answer": "On the mat",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 66,
+          "question": "Identify the type of sentence: 'I will call you if I have time.'",
+          "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+          "correct_answer": "Complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 67,
+          "question": "What is the subject of the sentence 'Down the road lived an old man.'?",
+          "options": ["Down the road", "lived", "an old man", "road"],
+          "correct_answer": "an old man",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 68,
+          "question": "A sentence with two independent clauses and one or more dependent clauses is a ______ sentence.",
+          "options": ["simple", "compound", "complex", "compound-complex"],
+          "correct_answer": "compound-complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 69,
+          "question": "Identify the type of sentence: 'When I grow up, I want to be a doctor, but my brother wants to be an engineer.'",
+          "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+          "correct_answer": "Compound-Complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 70,
+          "question": "What punctuation mark is used to join two independent clauses without a conjunction?",
+          "options": ["Comma (,)", "Semicolon (;)", "Question Mark (?)", "Full Stop (.)"],
+          "correct_answer": "Semicolon (;)",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 71,
+          "question": "Which sentence is correctly punctuated?",
+          "options": ["He is intelligent; he is also hardworking.", "He is intelligent, he is also hardworking.", "He is intelligent he is also hardworking.", "He is intelligent and, he is also hardworking."],
+          "correct_answer": "He is intelligent; he is also hardworking.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 72,
+          "question": "An 'appositive phrase' is a noun phrase that renames another noun right beside it. Which sentence has an appositive?",
+          "options": ["My brother, who is a doctor, lives in Delhi.", "My brother, a doctor, lives in Delhi.", "My brother is a doctor and lives in Delhi.", "My brother is a doctor."],
+          "correct_answer": "My brother, a doctor, lives in Delhi.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 73,
+          "question": "What is the dependent clause in 'The book that you gave me is very interesting.'?",
+          "options": ["The book is very interesting", "that you gave me", "you gave me", "is very interesting"],
+          "correct_answer": "that you gave me",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 74,
+          "question": "The sentence 'I came, I saw, I conquered' is a series of three ______.",
+          "options": ["dependent clauses", "simple sentences or independent clauses", "phrases", "questions"],
+          "correct_answer": "simple sentences or independent clauses",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 75,
+          "question": "A 'gerund phrase' starts with a gerund (-ing word) and functions as a...",
+          "options": ["verb", "adjective", "noun", "adverb"],
+          "correct_answer": "noun",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 76,
+          "question": "Identify the gerund phrase: 'Swimming in the ocean is his favorite activity.'",
+          "options": ["in the ocean", "is his favorite activity", "Swimming in the ocean", "his favorite activity"],
+          "correct_answer": "Swimming in the ocean",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 77,
+          "question": "A 'participial phrase' starts with a participle (-ing or -ed) and functions as a/an...",
+          "options": ["noun", "verb", "adverb", "adjective"],
+          "correct_answer": "adjective",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 78,
+          "question": "Identify the participial phrase: 'The boy, wearing a blue shirt, is my brother.'",
+          "options": ["The boy", "is my brother", "wearing a blue shirt", "a blue shirt"],
+          "correct_answer": "wearing a blue shirt",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 79,
+          "question": "An 'infinitive phrase' starts with 'to' followed by a verb. Find the infinitive phrase: 'He likes to read books.'",
+          "options": ["He likes", "to read", "books", "to read books"],
+          "correct_answer": "to read books",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 80,
+          "question": "Which sentence structure is inverted (verb before subject)?",
+          "options": ["He is here.", "Is he here?", "Here he is.", "Here is he."],
+          "correct_answer": "Is he here?",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 81,
+          "question": "A 'declarative' sentence makes a statement. An 'interrogative' sentence ______.",
+          "options": ["gives a command", "expresses strong emotion", "asks a question", "makes a statement"],
+          "correct_answer": "asks a question",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 82,
+          "question": "An 'imperative' sentence gives a command. An 'exclamatory' sentence ______.",
+          "options": ["asks a question", "gives a command", "makes a statement", "expresses strong emotion"],
+          "correct_answer": "expresses strong emotion",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 83,
+          "question": "Identify the type of sentence: 'The house is on fire!'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Exclamatory",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 84,
+          "question": "A correctly structured sentence must have 'parallel structure'. Which sentence is parallel?",
+          "options": ["He likes to run, swimming, and to play.", "He likes running, swimming, and playing.", "He likes to run, to swim, and playing.", "He likes running, to swim, and to play."],
+          "correct_answer": "He likes running, swimming, and playing.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 85,
+          "question": "A sentence that gives both a reason and a result is likely a ______ sentence.",
+          "options": ["simple", "compound", "complex", "fragment"],
+          "correct_answer": "complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 86,
+          "question": "Which subordinating conjunction introduces a clause of contrast?",
+          "options": ["Because", "If", "Although", "When"],
+          "correct_answer": "Although",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 87,
+          "question": "Fix this comma splice: 'The rain fell, the wind blew.'",
+          "options": ["The rain fell the wind blew.", "The rain fell, and the wind blew.", "The rain fell; and the wind blew.", "The rain fell, the wind, blew."],
+          "correct_answer": "The rain fell, and the wind blew.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 88,
+          "question": "The part of the sentence that contains the subject is called the...",
+          "options": ["complete predicate", "simple predicate", "complete subject", "simple subject"],
+          "correct_answer": "complete subject",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 89,
+          "question": "The main noun or pronoun in the complete subject is the...",
+          "options": ["complete predicate", "simple predicate", "complete subject", "simple subject"],
+          "correct_answer": "simple subject",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 90,
+          "question": "What is the simple subject in 'The tall boy with the red hat is my brother'?",
+          "options": ["The tall boy", "boy", "The tall boy with the red hat", "hat"],
+          "correct_answer": "boy",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 91,
+          "question": "What is the simple predicate (the main verb) in 'She has been studying for three hours'?",
+          "options": ["has been studying", "studying", "has been", "has"],
+          "correct_answer": "has been studying",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 92,
+          "question": "An 'adjective clause' is a dependent clause that modifies a...",
+          "options": ["verb", "adverb", "noun or pronoun", "conjunction"],
+          "correct_answer": "noun or pronoun",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 93,
+          "question": "An 'adverb clause' is a dependent clause that modifies a...",
+          "options": ["noun", "pronoun", "verb, adjective, or adverb", "preposition"],
+          "correct_answer": "verb, adjective, or adverb",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 94,
+          "question": "A 'noun clause' is a dependent clause that functions as a...",
+          "options": ["verb", "adjective", "adverb", "noun"],
+          "correct_answer": "noun",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 95,
+          "question": "Identify the noun clause: 'I know what he said.'",
+          "options": ["I know", "what he said", "he said", "what"],
+          "correct_answer": "what he said",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 96,
+          "question": "What is a 'misplaced modifier'?",
+          "options": ["A word or phrase that is placed correctly in a sentence.", "A word or phrase that incorrectly modifies the wrong word because it is placed too far away.", "A type of adjective.", "A type of verb."],
+          "correct_answer": "A word or phrase that incorrectly modifies the wrong word because it is placed too far away.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 97,
+          "question": "Which sentence has a misplaced modifier? 'The boy ate the sandwich with a happy smile.'",
+          "options": ["No, it is correct.", "Yes, 'with a happy smile' modifies sandwich.", "Yes, 'the boy' modifies ate.", "The sentence is a fragment."],
+          "correct_answer": "No, it is correct.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 98,
+          "question": "A 'dangling modifier' is a phrase that modifies...",
+          "options": ["the subject correctly", "the verb correctly", "nothing in the sentence", "the object correctly"],
+          "correct_answer": "nothing in the sentence",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 99,
+          "question": "Fix the dangling modifier: 'Walking to school, the bus splashed me.'",
+          "options": ["The bus splashed me walking to school.", "While I was walking to school, the bus splashed me.", "The bus, walking to school, splashed me.", "The bus splashed walking to school me."],
+          "correct_answer": "While I was walking to school, the bus splashed me.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 100,
+          "question": "Which sentence is structured correctly?",
+          "options": ["I only ate the apple.", "I ate only the apple.", "Only I ate the apple.", "All are correct depending on meaning."],
+          "correct_answer": "All are correct depending on meaning.",
+          "grammar_type": "Sentence Structure"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Identify the type of sentence: 'The journey was long, the road was rough, and the team was tired.'",
+          "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+          "correct_answer": "Compound",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 102,
+          "question": "A sentence that makes a statement but is structured as a question to be polite is a/an... 'Could you please pass the salt?'",
+          "options": ["Declarative", "Interrogative", "Imperative", "Exclamatory"],
+          "correct_answer": "Interrogative",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 103,
+          "question": "What is an 'anastrophe' or 'inversion'?",
+          "options": ["A typical sentence structure (Subject-Verb-Object)", "An inversion of the typical word order for rhetorical effect", "A sentence fragment", "A run-on sentence"],
+          "correct_answer": "An inversion of the typical word order for rhetorical effect",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 104,
+          "question": "Which sentence uses anastrophe? 'Never have I seen such a sight.'",
+          "options": ["Yes, it uses anastrophe.", "No, it is a normal sentence.", "It is a question.", "It is a fragment."],
+          "correct_answer": "Yes, it uses anastrophe.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 105,
+          "question": "A 'loose' or 'cumulative' sentence is one where the main idea is...",
+          "options": ["at the end of the sentence", "at the beginning of the sentence, followed by modifying phrases", "not present in the sentence", "split into two parts"],
+          "correct_answer": "at the beginning of the sentence, followed by modifying phrases",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 106,
+          "question": "A 'periodic' sentence is one where the main idea is...",
+          "options": ["at the beginning of the sentence", "not present in the sentence", "held until the end of the sentence, creating suspense", "always very short"],
+          "correct_answer": "held until the end of the sentence, creating suspense",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 107,
+          "question": "Identify the periodic sentence: 'Despite the bad weather and the long delay, the team finally won the match.'",
+          "options": ["This is a periodic sentence.", "This is a loose sentence.", "This is a simple sentence.", "This is a compound sentence."],
+          "correct_answer": "This is a periodic sentence.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 108,
+          "question": "What is an 'absolute phrase'?",
+          "options": ["A complete sentence", "A phrase that modifies the entire sentence, not a single word, often with a noun and a participle", "A type of verb phrase", "A type of noun phrase"],
+          "correct_answer": "A phrase that modifies the entire sentence, not a single word, often with a noun and a participle",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 109,
+          "question": "Identify the absolute phrase: 'Her heart pounding, she opened the letter.'",
+          "options": ["she opened the letter", "the letter", "Her heart pounding", "opened the letter"],
+          "correct_answer": "Her heart pounding",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 110,
+          "question": "The grammatical structure of 'I think, therefore I am' is...",
+          "options": ["a simple sentence", "two independent clauses joined by a semicolon (implied)", "a complex sentence", "a compound-complex sentence"],
+          "correct_answer": "two independent clauses joined by a semicolon (implied)",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 111,
+          "question": "A 'balanced sentence' is a type of parallel structure where...",
+          "options": ["two or more parts of the sentence have a similar form to emphasize a contrast or comparison", "the sentence is very long", "the sentence has no subject", "the sentence has no verb"],
+          "correct_answer": "two or more parts of the sentence have a similar form to emphasize a contrast or comparison",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 112,
+          "question": "Which is a balanced sentence? 'Ask not what your country can do for you; ask what you can do for your country.'",
+          "options": ["Yes, it is a balanced sentence.", "No, it is a simple sentence.", "No, it is a complex sentence.", "No, it is a run-on sentence."],
+          "correct_answer": "Yes, it is a balanced sentence.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 113,
+          "question": "A 'chiasmus' is a rhetorical device where grammatical structures are...",
+          "options": ["repeated in the same order", "inverted or reversed for effect", "used to ask a question", "used to give a command"],
+          "correct_answer": "inverted or reversed for effect",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 114,
+          "question": "Identify the chiasmus: 'Never let a fool kiss you or a kiss fool you.'",
+          "options": ["This is a chiasmus.", "This is a simple sentence.", "This is a paradox.", "This is a loose sentence."],
+          "correct_answer": "This is a chiasmus.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 115,
+          "question": "The use of 'ellipsis' (...) in a sentence indicates...",
+          "options": ["a mistake has been made", "the sentence is a question", "words have been intentionally omitted", "the sentence is a command"],
+          "correct_answer": "words have been intentionally omitted",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 116,
+          "question": "A sentence that begins with a dependent clause should have a ______ before the independent clause.",
+          "options": ["semicolon", "colon", "comma", "full stop"],
+          "correct_answer": "comma",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 117,
+          "question": "Which sentence is punctuated correctly? 'Because it was raining we stayed inside.'",
+          "options": ["Because it was raining we stayed inside.", "Because it was raining, we stayed inside.", "Because it was raining; we stayed inside.", "Because, it was raining we stayed inside."],
+          "correct_answer": "Because it was raining, we stayed inside.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 118,
+          "question": "What is a 'non-restrictive clause'?",
+          "options": ["A clause that is essential to the meaning of the sentence.", "A clause that provides extra information and is set off by commas.", "A type of independent clause.", "A clause that starts with 'because'."],
+          "correct_answer": "A clause that provides extra information and is set off by commas.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 119,
+          "question": "Which sentence has a non-restrictive clause? 'My brother, who lives in Delhi, is a doctor.'",
+          "options": ["Yes, it has a non-restrictive clause.", "No, it has a restrictive clause.", "No, it is a simple sentence.", "No, it is a compound sentence."],
+          "correct_answer": "Yes, it has a non-restrictive clause.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 120,
+          "question": "A 'restrictive clause' is one that is...",
+          "options": ["not essential to the meaning and uses commas", "essential to the meaning and does not use commas", "always at the beginning of a sentence", "always at the end of a sentence"],
+          "correct_answer": "essential to the meaning and does not use commas",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 121,
+          "question": "Which sentence has a restrictive clause? 'The boy who won the race is my friend.'",
+          "options": ["Yes, it has a restrictive clause.", "No, it has a non-restrictive clause.", "No, it is a simple sentence.", "No, it is a compound sentence."],
+          "correct_answer": "Yes, it has a restrictive clause.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 122,
+          "question": "A sentence fragment used for stylistic effect is called a/an...",
+          "options": ["error", "run-on sentence", "rhetorical fragment", "complex sentence"],
+          "correct_answer": "rhetorical fragment",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 123,
+          "question": "Identify the rhetorical fragment: 'A cold day. A grey sky. A long road ahead.'",
+          "options": ["This contains rhetorical fragments.", "This is a single compound sentence.", "This is a run-on sentence.", "This contains no fragments."],
+          "correct_answer": "This contains rhetorical fragments.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 124,
+          "question": "The use of short, simple sentences (staccato style) can create a sense of...",
+          "options": ["calmness and flow", "tension and urgency", "complexity and depth", "confusion"],
+          "correct_answer": "tension and urgency",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 125,
+          "question": "The use of long, complex sentences can be effective for...",
+          "options": ["creating a sense of urgency", "expressing detailed and elaborate thoughts", "making the text easy to read", "giving simple commands"],
+          "correct_answer": "expressing detailed and elaborate thoughts",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 126,
+          "question": "What is the function of the noun clause in 'That he is honest is known to all'?",
+          "options": ["It is the object.", "It is the subject.", "It is an adjective.", "It is an adverb."],
+          "correct_answer": "It is the subject.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 127,
+          "question": "The sentence 'To err is human, to forgive divine' is an example of...",
+          "options": ["a complex sentence", "a balanced sentence with parallel structure", "a simple sentence", "a run-on sentence"],
+          "correct_answer": "a balanced sentence with parallel structure",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 128,
+          "question": "What is the function of the infinitive phrase in 'To succeed in life is his only ambition'?",
+          "options": ["It is the object.", "It is a modifier.", "It is the subject.", "It is the verb."],
+          "correct_answer": "It is the subject.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 129,
+          "question": "A sentence that is grammatically correct but logically absurd is a...",
+          "options": ["run-on sentence", "fragment", "paradoxical sentence", "simple sentence"],
+          "correct_answer": "paradoxical sentence",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 130,
+          "question": "Identify the sentence type: 'While I cooked, he set the table, and the children played outside.'",
+          "options": ["Simple", "Compound", "Complex", "Compound-Complex"],
+          "correct_answer": "Compound-Complex",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 131,
+          "question": "An 'embedded question' is a question that is...",
+          "options": ["asked directly", "part of a declarative sentence or another question", "always at the beginning of a sentence", "a type of command"],
+          "correct_answer": "part of a declarative sentence or another question",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 132,
+          "question": "Which sentence contains an embedded question? 'I don't know where he is.'",
+          "options": ["Yes, it contains an embedded question.", "No, it is a direct question.", "No, it is a simple sentence.", "No, it is a command."],
+          "correct_answer": "Yes, it contains an embedded question.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 133,
+          "question": "The style of using many conjunctions in a sentence (e.g., 'He ran and jumped and shouted') is called...",
+          "options": ["asyndeton", "polysyndeton", "anaphora", "epistrophe"],
+          "correct_answer": "polysyndeton",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 134,
+          "question": "The style of omitting conjunctions between clauses (e.g., 'He came, he saw, he conquered') is called...",
+          "options": ["asyndeton", "polysyndeton", "anaphora", "epistrophe"],
+          "correct_answer": "asyndeton",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 135,
+          "question": "The sentence 'He, a man of great integrity, would never lie' contains a/an...",
+          "options": ["adverb clause", "appositive phrase", "prepositional phrase", "gerund phrase"],
+          "correct_answer": "appositive phrase",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 136,
+          "question": "What is the function of the gerund phrase in 'His constant complaining is very annoying'?",
+          "options": ["It is the object.", "It is the subject.", "It is a modifier.", "It is the verb."],
+          "correct_answer": "It is the subject.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 137,
+          "question": "Which of these sentences is structurally ambiguous?",
+          "options": ["The boy saw the man with the telescope.", "The dog chased the cat.", "She is a teacher.", "He runs fast."],
+          "correct_answer": "The boy saw the man with the telescope.",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 138,
+          "question": "The sentence 'The car that is parked outside is mine' contains a/an...",
+          "options": ["adjective clause", "adverb clause", "noun clause", "prepositional phrase"],
+          "correct_answer": "adjective clause",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 139,
+          "question": "The sentence 'He left because he was tired' contains a/an...",
+          "options": ["adjective clause", "adverb clause", "noun clause", "prepositional phrase"],
+          "correct_answer": "adverb clause",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 140,
+          "question": "The function of a sentence is its purpose. The structure is its...",
+          "options": ["meaning", "grammatical arrangement", "length", "topic"],
+          "correct_answer": "grammatical arrangement",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 141,
+          "question": "A sentence that is made up of a series of short, choppy clauses is often a sign of...",
+          "options": ["a sophisticated writing style", "an immature or simple writing style", "a periodic sentence", "a balanced sentence"],
+          "correct_answer": "an immature or simple writing style",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 142,
+          "question": "'Having finished his work, he went out to play.' The phrase 'Having finished his work' is a...",
+          "options": ["prepositional phrase", "infinitive phrase", "gerund phrase", "participial phrase"],
+          "correct_answer": "participial phrase",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 143,
+          "question": "The sentence 'The manager wants to see you' has what kind of object for the verb 'wants'?",
+          "options": ["A noun", "A prepositional phrase", "An infinitive phrase", "A gerund phrase"],
+          "correct_answer": "An infinitive phrase",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 144,
+          "question": "What is the key to creating complex sentences?",
+          "options": ["Using only one clause", "Using a variety of clauses and phrases", "Using only simple words", "Using no conjunctions"],
+          "correct_answer": "Using a variety of clauses and phrases",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 145,
+          "question": "A 'kernel sentence' is a...",
+          "options": ["long, complex sentence", "simple, active, declarative sentence", "question", "command"],
+          "correct_answer": "simple, active, declarative sentence",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 146,
+          "question": "Combining 'The boy was tall. The boy was wearing a red shirt. The boy won the race.' into one sentence would result in a...",
+          "options": ["simple sentence", "complex sentence", "compound sentence", "All of the above are possible"],
+          "correct_answer": "All of the above are possible",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 147,
+          "question": "The sentence 'Angry and disappointed, the coach left the field' starts with a/an...",
+          "options": ["adverb clause", "prepositional phrase", "adjective phrase", "noun clause"],
+          "correct_answer": "adjective phrase",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 148,
+          "question": "Understanding sentence structure is essential for writing that is...",
+          "options": ["clear, varied, and sophisticated", "short and simple only", "long and confusing", "full of fragments"],
+          "correct_answer": "clear, varied, and sophisticated",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 149,
+          "question": "A sentence that starts with 'There is' or 'There are' is using an 'expletive' construction. What is the true subject of 'There are three books on the table'?",
+          "options": ["There", "are", "three books", "table"],
+          "correct_answer": "three books",
+          "grammar_type": "Sentence Structure"
+        },
+        {
+          "id": 150,
+          "question": "The sentence 'It is important to study hard' uses an 'expletive' construction. What is the true subject?",
+          "options": ["It", "is", "to study hard", "important"],
+          "correct_answer": "to study hard",
+          "grammar_type": "Sentence Structure"
+        }
+      ]
+    }
+  ]
+}
+

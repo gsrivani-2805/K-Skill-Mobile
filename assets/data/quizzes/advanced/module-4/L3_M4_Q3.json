@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "To open a new bank account, where should you go?",
+          "options": ["A police station", "A hospital", "A bank", "A post office"],
+          "correct_answer": "A bank",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 2,
+          "question": "What is the main reason to visit a travel agency?",
+          "options": ["To buy groceries", "To book a holiday or tickets", "To see a doctor", "To open an account"],
+          "correct_answer": "To book a holiday or tickets",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 3,
+          "question": "When you arrive at a hotel to stay, you first go to the...",
+          "options": ["kitchen", "swimming pool", "reception desk", "car park"],
+          "correct_answer": "reception desk",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 4,
+          "question": "If you are lost at an airport, who can you ask for help?",
+          "options": ["A pilot", "A passenger", "Airport assistance staff", "A shopkeeper"],
+          "correct_answer": "Airport assistance staff",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 5,
+          "question": "What do you do at a currency exchange counter?",
+          "options": ["Change one country's money for another's", "Buy clothes", "Book a train ticket", "Deposit money"],
+          "correct_answer": "Change one country's money for another's",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 6,
+          "question": "To book a train ticket, you go to the...",
+          "options": ["airport", "bus stop", "railway station", "hotel"],
+          "correct_answer": "railway station",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 7,
+          "question": "A tourist information center provides...",
+          "options": ["money", "food", "maps and information about local places", "train tickets"],
+          "correct_answer": "maps and information about local places",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 8,
+          "question": "What is the purpose of visiting a car rental agency?",
+          "options": ["To buy a car", "To repair a car", "To hire a car for a short time", "To sell a car"],
+          "correct_answer": "To hire a car for a short time",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 9,
+          "question": "When opening a bank account, you need to provide a document for...",
+          "options": ["proof of travel", "proof of identity", "a hotel booking", "a train ticket"],
+          "correct_answer": "proof of identity",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 10,
+          "question": "Customer: 'I would like to book a flight to Mumbai.' This is a conversation at a...",
+          "options": ["Bank", "Hotel", "Travel agency", "Hospital"],
+          "correct_answer": "Travel agency",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 11,
+          "question": "Guest: 'I have a reservation under the name Kumar.' This person is at a...",
+          "options": ["Hotel", "Airport", "Bank", "Train station"],
+          "correct_answer": "Hotel",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 12,
+          "question": "Passenger: 'Can you tell me where Gate 5 is?' This is a question for...",
+          "options": ["a bank teller", "airport assistance", "a hotel receptionist", "a car rental agent"],
+          "correct_answer": "airport assistance",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 13,
+          "question": "What is the first thing you need to fill out to open a bank account?",
+          "options": ["A withdrawal slip", "An application form", "A cheque", "A deposit slip"],
+          "correct_answer": "An application form",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 14,
+          "question": "Customer: 'I want to exchange 100 US dollars for Indian Rupees.' Where is this customer?",
+          "options": ["At a hotel", "At an airport", "At a currency exchange counter", "At a train station"],
+          "correct_answer": "At a currency exchange counter",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 15,
+          "question": "Passenger: 'One ticket to Agra, please.' This is likely said at a...",
+          "options": ["train ticket booking counter", "car rental agency", "hotel", "bank"],
+          "correct_answer": "train ticket booking counter",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 16,
+          "question": "Tourist: 'What are the famous places to visit in this city?' Who should they ask?",
+          "options": ["A bank manager", "A tourist information officer", "A doctor", "A policeman"],
+          "correct_answer": "A tourist information officer",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 17,
+          "question": "To rent a car, what is the most important document you need?",
+          "options": ["Your birth certificate", "Your school ID", "A valid driving license", "A passport photo"],
+          "correct_answer": "A valid driving license",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 18,
+          "question": "What do you receive from the bank after opening an account?",
+          "options": ["A train ticket", "A hotel key", "A passbook and a debit card", "A map"],
+          "correct_answer": "A passbook and a debit card",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 19,
+          "question": "Travel Agent: 'Would you prefer a window seat or an aisle seat?' This is about a...",
+          "options": ["train booking", "hotel booking", "flight booking", "car booking"],
+          "correct_answer": "flight booking",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 20,
+          "question": "Hotel Receptionist: 'Check-out time is 11 AM.' What does this mean?",
+          "options": ["You must arrive by 11 AM.", "You must leave the room by 11 AM.", "You can get breakfast at 11 AM.", "The hotel closes at 11 AM."],
+          "correct_answer": "You must leave the room by 11 AM.",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 21,
+          "question": "If your flight is delayed, who should you contact at the airport?",
+          "options": ["The security guard", "The airline's assistance desk", "The shopkeeper", "A taxi driver"],
+          "correct_answer": "The airline's assistance desk",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 22,
+          "question": "A bank visit might be to deposit or ______ money.",
+          "options": ["lose", "withdraw", "make", "hide"],
+          "correct_answer": "withdraw",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 23,
+          "question": "The 'exchange rate' tells you...",
+          "options": ["how much one currency is worth in another currency", "the time of your train", "the price of a hotel room", "the speed of your car"],
+          "correct_answer": "how much one currency is worth in another currency",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 24,
+          "question": "What is a 'PNR number' related to?",
+          "options": ["A bank account", "A hotel room", "A train or flight ticket", "A car rental"],
+          "correct_answer": "A train or flight ticket",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 25,
+          "question": "A brochure from a tourist information center usually contains...",
+          "options": ["bank account details", "pictures and details of tourist spots", "a driving license", "a passport"],
+          "correct_answer": "pictures and details of tourist spots",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 26,
+          "question": "Customer: 'I'd like to rent a small car for two days.' Where is this conversation happening?",
+          "options": ["At a bank", "At a hotel", "At a travel agency", "At a car rental agency"],
+          "correct_answer": "At a car rental agency",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 27,
+          "question": "A 'savings account' is a type of bank account used for...",
+          "options": ["paying bills only", "saving money", "booking tickets", "renting cars"],
+          "correct_answer": "saving money",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 28,
+          "question": "Travel Agent: 'Do you need travel insurance?' This is an offer for...",
+          "options": ["a cheaper ticket", "protection against travel problems", "a better seat", "a free meal"],
+          "correct_answer": "protection against travel problems",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 29,
+          "question": "To make a hotel reservation, you need to provide your name and...",
+          "options": ["your favorite color", "the dates of your stay", "your school's name", "your friend's name"],
+          "correct_answer": "the dates of your stay",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 30,
+          "question": "The big screen at the airport that shows flight times is called the...",
+          "options": ["ticket counter", "security check", "departure board", "baggage claim"],
+          "correct_answer": "departure board",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 31,
+          "question": "You usually need your ______ to exchange a large amount of currency.",
+          "options": ["library card", "school ID", "passport", "birth certificate"],
+          "correct_answer": "passport",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 32,
+          "question": "Which class would you book on a train for a comfortable overnight journey?",
+          "options": ["General class", "Sleeper class", "First class", "Second class seating"],
+          "correct_answer": "Sleeper class",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 33,
+          "question": "A tourist information officer might suggest a local ______ to try.",
+          "options": ["bank", "hospital", "restaurant", "school"],
+          "correct_answer": "restaurant",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 34,
+          "question": "What is a 'deposit' in a car rental?",
+          "options": ["A free gift", "A security payment you get back if the car is returned safely", "The final payment", "A discount"],
+          "correct_answer": "A security payment you get back if the car is returned safely",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 35,
+          "question": "The form you fill to put money into your account is a ______ slip.",
+          "options": ["withdrawal", "deposit", "application", "complaint"],
+          "correct_answer": "deposit",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 36,
+          "question": "A 'round trip' ticket means you are booking a ticket to go and...",
+          "options": ["stay there forever", "come back", "visit another city", "not use the ticket"],
+          "correct_answer": "come back",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 37,
+          "question": "What is 'check-in' at a hotel?",
+          "options": ["The process of leaving the hotel", "The process of arriving and registering at the hotel", "Ordering food", "Booking the room"],
+          "correct_answer": "The process of arriving and registering at the hotel",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 38,
+          "question": "A 'boarding pass' is a document you need to...",
+          "options": ["enter the airport", "get on the airplane", "buy things at the airport", "leave the airport"],
+          "correct_answer": "get on the airplane",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 39,
+          "question": "The person who helps you at the bank is called a...",
+          "options": ["doctor", "teller or clerk", "pilot", "teacher"],
+          "correct_answer": "teller or clerk",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 40,
+          "question": "The 'destination' of your train ticket is the place where you will...",
+          "options": ["start your journey", "end your journey", "buy the ticket", "have lunch"],
+          "correct_answer": "end your journey",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 41,
+          "question": "A tourist might ask for a map to help them...",
+          "options": ["make a phone call", "find their way around the city", "buy a souvenir", "exchange currency"],
+          "correct_answer": "find their way around the city",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 42,
+          "question": "The price of a car rental often depends on the type of car and the...",
+          "options": ["color of the car", "number of days you rent it for", "brand of the tires", "time of day"],
+          "correct_answer": "number of days you rent it for",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 43,
+          "question": "What is an 'initial deposit'?",
+          "options": ["The first amount of money you put in when opening a new account", "The money you take out", "The interest you earn", "A fee for closing the account"],
+          "correct_answer": "The first amount of money you put in when opening a new account",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 44,
+          "question": "A 'package tour' from a travel agency usually includes flights and...",
+          "options": ["a new car", "a new house", "hotel accommodation", "a bank account"],
+          "correct_answer": "hotel accommodation",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 45,
+          "question": "What does 'fully booked' mean for a hotel?",
+          "options": ["The hotel is closed.", "The hotel has no rooms available.", "The hotel has many empty rooms.", "The hotel is under construction."],
+          "correct_answer": "The hotel has no rooms available.",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 46,
+          "question": "Where do you collect your checked-in luggage after a flight?",
+          "options": ["At the security check", "At the boarding gate", "At the baggage claim area", "At the duty-free shop"],
+          "correct_answer": "At the baggage claim area",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 47,
+          "question": "Is the exchange rate for buying and selling a currency usually the same?",
+          "options": ["Yes, always", "No, they are different", "Yes, in most countries", "Only on weekends"],
+          "correct_answer": "No, they are different",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 48,
+          "question": "The 'platform number' on a train ticket tells you...",
+          "options": ["your seat number", "your coach number", "which track the train will arrive at", "the price of the ticket"],
+          "correct_answer": "which track the train will arrive at",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 49,
+          "question": "A tourist information center can often help you book tickets for...",
+          "options": ["flights", "trains", "local attractions and tours", "international travel"],
+          "correct_answer": "local attractions and tours",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 50,
+          "question": "Before you return a rental car, you usually need to...",
+          "options": ["wash it", "paint it a new color", "fill the fuel tank", "sell it"],
+          "correct_answer": "fill the fuel tank",
+          "grammar_type": "Car rental role-play"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "When opening a bank account, what is a 'nominee'?",
+          "options": ["The person who opens the account", "The person who will receive the money in case of the account holder's death", "The bank manager", "A witness"],
+          "correct_answer": "The person who will receive the money in case of the account holder's death",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 52,
+          "question": "A travel agent asks, 'Are your travel dates flexible?' Why do they ask this?",
+          "options": ["To check your memory", "Because they don't want to book your ticket", "Because changing dates might help find cheaper flights", "To make the process longer"],
+          "correct_answer": "Because changing dates might help find cheaper flights",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 53,
+          "question": "A hotel receptionist says, 'We need to pre-authorize your credit card.' What does this mean?",
+          "options": ["They will charge the full amount immediately.", "They are checking if your card is valid and can cover potential costs.", "They are giving you a discount.", "They are taking a photo of your card."],
+          "correct_answer": "They are checking if your card is valid and can cover potential costs.",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 54,
+          "question": "If a passenger misses their connecting flight, what is the first thing airport assistance should do?",
+          "options": ["Tell them to go home", "Help them find accommodation for the night", "Check for the next available flight to their destination", "Ask them to buy a new ticket"],
+          "correct_answer": "Check for the next available flight to their destination",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 55,
+          "question": "What is 'commission' in a currency exchange?",
+          "options": ["The final amount of money you get", "A fee charged for the exchange service", "The name of the currency", "The passport number"],
+          "correct_answer": "A fee charged for the exchange service",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 56,
+          "question": "What does 'RAC' status on a train ticket mean?",
+          "options": ["The ticket is fully confirmed.", "The ticket is on the waiting list.", "Reservation Against Cancellation; you get a seat but may have to share it.", "The train has been cancelled."],
+          "correct_answer": "Reservation Against Cancellation; you get a seat but may have to share it.",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 57,
+          "question": "A tourist asks, 'Can you recommend a place off the beaten path?' What are they looking for?",
+          "options": ["A very popular and crowded tourist spot", "A place that is less common and not visited by many tourists", "The main shopping street", "The most expensive restaurant"],
+          "correct_answer": "A place that is less common and not visited by many tourists",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 58,
+          "question": "What does 'Collision Damage Waiver' (CDW) mean in car rental?",
+          "options": ["It is a type of fuel.", "It is a type of insurance that covers damage to the rental car.", "It is a discount for safe driving.", "It is a fee for damaging the car."],
+          "correct_answer": "It is a type of insurance that covers damage to the rental car.",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 59,
+          "question": "What is the difference between a savings account and a current account?",
+          "options": ["There is no difference.", "A savings account is for saving, while a current account is for frequent transactions, often by businesses.", "A current account earns more interest.", "You can only withdraw money from a savings account."],
+          "correct_answer": "A savings account is for saving, while a current account is for frequent transactions, often by businesses.",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 60,
+          "question": "A travel agent might suggest a 'layover' to...",
+          "options": ["make the flight longer", "get a cheaper flight ticket", "make the journey non-stop", "visit two cities for the price of one"],
+          "correct_answer": "get a cheaper flight ticket",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 61,
+          "question": "What are 'amenities' at a hotel?",
+          "options": ["The price of the room", "The number of beds", "Features like a swimming pool, gym, or free Wi-Fi", "The check-in time"],
+          "correct_answer": "Features like a swimming pool, gym, or free Wi-Fi",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 62,
+          "question": "What does 'unaccompanied minor' assistance at an airport mean?",
+          "options": ["Help for elderly passengers", "Help for passengers with disabilities", "A service where airline staff supervise a child traveling alone", "Help for passengers who have lost their luggage"],
+          "correct_answer": "A service where airline staff supervise a child traveling alone",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 63,
+          "question": "When you exchange currency, you should always ask for a ______.",
+          "options": ["discount", "receipt", "free gift", "souvenir"],
+          "correct_answer": "receipt",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 64,
+          "question": "A 'Tatkal' ticket is a system for booking train tickets...",
+          "options": ["many months in advance", "for travel at short notice", "at a discounted price", "only for senior citizens"],
+          "correct_answer": "for travel at short notice",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 65,
+          "question": "A good tourist information officer should be knowledgeable and ______.",
+          "options": ["impatient", "unfriendly", "approachable", "quiet"],
+          "correct_answer": "approachable",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 66,
+          "question": "What does 'unlimited mileage' mean for a car rental?",
+          "options": ["You can only drive a certain number of kilometers.", "You can drive as many kilometers as you want without extra charge.", "The car has a very high speed.", "The car uses a lot of fuel."],
+          "correct_answer": "You can drive as many kilometers as you want without extra charge.",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 67,
+          "question": "To get a loan from a bank, you first need to have an...",
+          "options": ["interview", "account", "argument", "office"],
+          "correct_answer": "account",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 68,
+          "question": "What is a 'boarding pass'?",
+          "options": ["A ticket for a boat", "A pass to get on a plane", "A pass for a bus", "A hotel room key"],
+          "correct_answer": "A pass to get on a plane",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 69,
+          "question": "A guest asks for a 'wake-up call'. What does the hotel receptionist need to do?",
+          "options": ["Call the guest's room at a specified time to wake them up.", "Go to the guest's room and wake them up.", "Send a written note.", "Tell them to use their phone alarm."],
+          "correct_answer": "Call the guest's room at a specified time to wake them up.",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 70,
+          "question": "What is the 'security check' at an airport for?",
+          "options": ["To check your ticket", "To ensure passengers are not carrying prohibited items", "To weigh your luggage", "To sell food and drinks"],
+          "correct_answer": "To ensure passengers are not carrying prohibited items",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 71,
+          "question": "Why is it better to exchange currency at a bank or authorized dealer than with a random person on the street?",
+          "options": ["It is more expensive.", "To get a fair exchange rate and avoid fake notes.", "It is slower.", "There is no difference."],
+          "correct_answer": "To get a fair exchange rate and avoid fake notes.",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 72,
+          "question": "What information do you need to book a train ticket for another person?",
+          "options": ["Their favorite color", "Their name, age, and gender", "Their school's name", "Their home address"],
+          "correct_answer": "Their name, age, and gender",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 73,
+          "question": "A tourist might ask a tourist officer, 'What are the local customs I should be aware of?' to show...",
+          "options": ["disrespect", "respect for the local culture", "they are lost", "they have a lot of money"],
+          "correct_answer": "respect for the local culture",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 74,
+          "question": "If you return a rental car late, you will likely have to pay...",
+          "options": ["a bonus", "nothing extra", "an extra fee", "less money"],
+          "correct_answer": "an extra fee",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 75,
+          "question": "What is KYC (Know Your Customer) in banking?",
+          "options": ["A type of loan", "The process of verifying a customer's identity and address", "The interest rate", "A bank holiday"],
+          "correct_answer": "The process of verifying a customer's identity and address",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 76,
+          "question": "A travel agent says, 'This is a non-refundable ticket.' What does this mean?",
+          "options": ["You can get all your money back if you cancel.", "You can change the dates for free.", "You will not get your money back if you cancel.", "The ticket is free."],
+          "correct_answer": "You will not get your money back if you cancel.",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 77,
+          "question": "A 'concierge' at a hotel can help you with...",
+          "options": ["cleaning your room", "booking tours or restaurant reservations", "checking in", "carrying your bags"],
+          "correct_answer": "booking tours or restaurant reservations",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 78,
+          "question": "If your luggage is lost, what information do you need to provide to airport assistance?",
+          "options": ["Your home address", "Your flight number and a description of the bag", "Your passport number only", "Your favorite food"],
+          "correct_answer": "Your flight number and a description of the bag",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 79,
+          "question": "A bank 'statement' is a document that shows...",
+          "options": ["the bank's address", "a list of transactions in your account", "the bank manager's name", "the rules of the bank"],
+          "correct_answer": "a list of transactions in your account",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 80,
+          "question": "What is the difference between a 'direct flight' and a 'non-stop flight'?",
+          "options": ["There is no difference.", "A direct flight may stop but you don't change planes; a non-stop flight does not stop at all.", "A non-stop flight is always cheaper.", "A direct flight is always faster."],
+          "correct_answer": "A direct flight may stop but you don't change planes; a non-stop flight does not stop at all.",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 81,
+          "question": "When checking out of a hotel, what should you do?",
+          "options": ["Just leave the room", "Settle any outstanding bills and return the key card", "Ask for a room upgrade", "Book another night"],
+          "correct_answer": "Settle any outstanding bills and return the key card",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 82,
+          "question": "'I would like to report a lost passport.' This person should be directed to...",
+          "options": ["the food court", "the airline check-in counter", "the airport police or information desk", "the baggage claim"],
+          "correct_answer": "the airport police or information desk",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 83,
+          "question": "Why do exchange rates 'fluctuate'?",
+          "options": ["They never change.", "They change based on economic factors.", "They change only on weekends.", "They change based on the weather."],
+          "correct_answer": "They change based on economic factors.",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 84,
+          "question": "The 'coach number' (e.g., S5) and 'seat number' (e.g., 32) on a train ticket help you find your...",
+          "options": ["train", "platform", "specific seat", "destination"],
+          "correct_answer": "specific seat",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 85,
+          "question": "A tourist information officer needs to have excellent ______ skills.",
+          "options": ["driving", "cooking", "interpersonal and communication", "medical"],
+          "correct_answer": "interpersonal and communication",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 86,
+          "question": "When renting a car, you should inspect it for any existing ______ before you drive away.",
+          "options": ["fuel", "music", "scratches or damage", "maps"],
+          "correct_answer": "scratches or damage",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 87,
+          "question": "What is a 'joint account' at a bank?",
+          "options": ["An account with no money", "An account owned by one person", "An account owned by two or more people", "An account for a business"],
+          "correct_answer": "An account owned by two or more people",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 88,
+          "question": "A 'red-eye' flight is a flight that...",
+          "options": ["is very short", "is very expensive", "departs late at night and arrives early in the morning", "is often delayed"],
+          "correct_answer": "departs late at night and arrives early in the morning",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 89,
+          "question": "A 'complimentary breakfast' at a hotel means the breakfast is...",
+          "options": ["very expensive", "included in the room price (free)", "not very good", "served all day"],
+          "correct_answer": "included in the room price (free)",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 90,
+          "question": "A passenger asks for 'wheelchair assistance'. What should the airport staff do?",
+          "options": ["Tell them to walk", "Provide a wheelchair and assist them to their gate", "Ask them for money", "Ignore the request"],
+          "correct_answer": "Provide a wheelchair and assist them to their gate",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 91,
+          "question": "What is a 'withdrawal slip' used for at a bank?",
+          "options": ["To open an account", "To put money into an account", "To take money out of an account", "To complain"],
+          "correct_answer": "To take money out of an account",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 92,
+          "question": "If a train ticket is on the 'waiting list' (WL), it means...",
+          "options": ["you have a confirmed seat", "you will only get a seat if another passenger cancels", "the train is empty", "you can sit anywhere"],
+          "correct_answer": "you will only get a seat if another passenger cancels",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 93,
+          "question": "A tourist information officer should be able to provide information on public ______.",
+          "options": ["banks", "hospitals", "transportation", "schools"],
+          "correct_answer": "transportation",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 94,
+          "question": "What is a 'one-way' rental for a car?",
+          "options": ["Renting a car that only goes in one direction.", "Picking up a car in one city and dropping it off in another.", "Renting a car for only one day.", "A type of car insurance."],
+          "correct_answer": "Picking up a car in one city and dropping it off in another.",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 95,
+          "question": "What is 'interest' on a savings account?",
+          "options": ["A fee you pay to the bank", "The extra money the bank pays you for keeping your money with them", "The minimum balance required", "A type of loan"],
+          "correct_answer": "The extra money the bank pays you for keeping your money with them",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 96,
+          "question": "What is a travel 'itinerary'?",
+          "options": ["A type of passport", "A detailed plan of a journey", "A travel insurance policy", "A souvenir"],
+          "correct_answer": "A detailed plan of a journey",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 97,
+          "question": "A 'suite' in a hotel is...",
+          "options": ["a very small room", "a standard room", "a set of connected rooms, often with a living area", "a sweet dish served in the restaurant"],
+          "correct_answer": "a set of connected rooms, often with a living area",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 98,
+          "question": "What is the 'final boarding call' at an airport?",
+          "options": ["The first announcement to go to the gate", "The last warning for passengers to get on the plane", "An announcement that the flight is cancelled", "A phone call from the pilot"],
+          "correct_answer": "The last warning for passengers to get on the plane",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 99,
+          "question": "If you are exchanging a large sum of money, it is wise to ______ it before leaving the counter.",
+          "options": ["hide", "count", "lose", "give away"],
+          "correct_answer": "count",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 100,
+          "question": "What is a 'concession' on a train ticket?",
+          "options": ["A fine for not having a ticket", "A type of food sold on the train", "A discounted fare for certain categories like students or senior citizens", "A confirmed seat"],
+          "correct_answer": "A discounted fare for certain categories like students or senior citizens",
+          "grammar_type": "Train ticket booking role-play"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "A customer wants to open an account but does not have standard address proof. What alternative could the bank officer suggest?",
+          "options": ["Refuse to open the account", "Suggest a letter from a recognized public authority or a utility bill", "Ask them to come back next year", "Tell them to open an account online only"],
+          "correct_answer": "Suggest a letter from a recognized public authority or a utility bill",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 102,
+          "question": "A customer's desired flight is too expensive. What is the best alternative a travel agent can offer?",
+          "options": ["Tell them to cancel their trip.", "Suggest flexible dates, different airlines, or flights with a layover.", "Offer them a train ticket instead.", "Tell them the price is fixed."],
+          "correct_answer": "Suggest flexible dates, different airlines, or flights with a layover.",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 103,
+          "question": "A guest is complaining loudly at the reception about their room. What is the first step the hotel staff should take?",
+          "options": ["Argue with the guest loudly", "Ignore the guest completely", "Politely ask the guest to step aside to discuss the issue privately and listen to their complaint", "Immediately call security"],
+          "correct_answer": "Politely ask the guest to step aside to discuss the issue privately and listen to their complaint",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 104,
+          "question": "A passenger's baggage has been damaged. What is the airport assistance staff's primary responsibility?",
+          "options": ["To tell the passenger it's not their fault", "To help the passenger file a Property Irregularity Report (PIR)", "To offer to buy them a new bag", "To tell them to go home"],
+          "correct_answer": "To help the passenger file a Property Irregularity Report (PIR)",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 105,
+          "question": "What is the difference between the 'interbank rate' and the 'tourist rate' for currency exchange?",
+          "options": ["They are the same.", "The interbank rate is the wholesale rate banks use; the tourist rate includes a profit margin and is less favorable.", "The tourist rate is better than the interbank rate.", "The interbank rate is for tourists."],
+          "correct_answer": "The interbank rate is the wholesale rate banks use; the tourist rate includes a profit margin and is less favorable.",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 106,
+          "question": "A passenger's waitlisted (WL) train ticket does not get confirmed. What are their options?",
+          "options": ["They can still travel and will be given a seat.", "They cannot board the train.", "They can only travel in the general compartment.", "They get a full refund if they don't travel."],
+          "correct_answer": "They cannot board the train.",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 107,
+          "question": "A foreign tourist asks for a recommendation for an 'authentic cultural experience'. What is the best suggestion?",
+          "options": ["A popular fast-food restaurant", "A local heritage walk, a traditional dance performance, or a home-cooked meal experience", "The biggest shopping mall", "A modern cinema hall"],
+          "correct_answer": "A local heritage walk, a traditional dance performance, or a home-cooked meal experience",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 108,
+          "question": "A customer returns a rental car with a new scratch. They did not purchase the Collision Damage Waiver (CDW). What is the likely outcome?",
+          "options": ["There is no charge.", "The customer will be liable for the repair costs up to a certain amount.", "The rental agency will pay for the repairs.", "The customer gets a discount."],
+          "correct_answer": "The customer will be liable for the repair costs up to a certain amount.",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 109,
+          "question": "What is the purpose of a 'MICR' code on a cheque?",
+          "options": ["It is the bank's address.", "It is a security feature to prevent fraud.", "It is a code used for faster electronic clearing of cheques.", "It is the account holder's phone number."],
+          "correct_answer": "It is a code used for faster electronic clearing of cheques.",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 110,
+          "question": "A customer wants to book a multi-city trip. What is the most efficient way for a travel agent to plan this?",
+          "options": ["Book each flight as a separate one-way ticket", "Use a global distribution system (GDS) to find the best route and fare combinations", "Tell the customer to book it themself", "Book tickets only on one airline"],
+          "correct_answer": "Use a global distribution system (GDS) to find the best route and fare combinations",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 111,
+          "question": "A hotel has 'overbooked' and has no room for a guest with a confirmed reservation. What is the hotel's professional responsibility?",
+          "options": ["To cancel the guest's reservation without any help.", "To arrange and pay for a similar or better room at a nearby hotel ('walk' the guest).", "To ask the guest to sleep in the lobby.", "To tell the guest it's their own fault."],
+          "correct_answer": "To arrange and pay for a similar or better room at a nearby hotel ('walk' the guest).",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 112,
+          "question": "A passenger arrives at the airport but their name is not on the flight manifest. Airport assistance should first check...",
+          "options": ["the passenger's home address", "if the passenger booked on a different date or with a different airline", "the passenger's luggage weight", "the weather"],
+          "correct_answer": "if the passenger booked on a different date or with a different airline",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 113,
+          "question": "What is a 'wire transfer' service at a bank?",
+          "options": ["A way to deposit cash", "An electronic transfer of funds from one bank to another", "A type of loan", "A service for exchanging currency"],
+          "correct_answer": "An electronic transfer of funds from one bank to another",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 114,
+          "question": "What does a 'credit score' represent when you apply for a loan?",
+          "options": ["Your educational qualifications", "A number representing your creditworthiness and risk to the lender", "Your age and gender", "The number of bank accounts you have"],
+          "correct_answer": "A number representing your creditworthiness and risk to the lender",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 115,
+          "question": "The 'terms and conditions' of a train ticket are important because they explain...",
+          "options": ["the history of the railway", "the rules regarding cancellation, refunds, and travel", "the train driver's name", "the food menu"],
+          "correct_answer": "the rules regarding cancellation, refunds, and travel",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 116,
+          "question": "A tourist asks about 'sustainable tourism'. What does this mean?",
+          "options": ["Tourism that is very cheap.", "Tourism that is very luxurious.", "Tourism that respects local culture and minimizes environmental impact.", "Tourism that involves a lot of travel."],
+          "correct_answer": "Tourism that respects local culture and minimizes environmental impact.",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 117,
+          "question": "A car rental agent asks, 'Would you like to upgrade to a full-size sedan?' This is an example of...",
+          "options": ["a mandatory fee", "a discount", "upselling", "a complaint"],
+          "correct_answer": "upselling",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 118,
+          "question": "What is 'net banking'?",
+          "options": ["A type of fishing net", "A service that allows you to manage your bank account online", "A bank that is located near the sea", "A special type of loan"],
+          "correct_answer": "A service that allows you to manage your bank account online",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 119,
+          "question": "A travel agent might advise against a 'red-eye' flight for a family with small children because it can be...",
+          "options": ["too expensive", "too short", "very tiring", "always cancelled"],
+          "correct_answer": "very tiring",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 120,
+          "question": "A guest reports a 'maintenance issue' in their room (e.g., a leaking tap). The hotel receptionist should...",
+          "options": ["tell the guest to fix it themselves", "ignore the complaint", "apologize and immediately contact the maintenance department", "offer the guest a discount on their next stay"],
+          "correct_answer": "apologize and immediately contact the maintenance department",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 121,
+          "question": "What is 'duty-free' shopping at an airport?",
+          "options": ["Shopping where everything is free", "Shopping for goods on which import taxes are not charged", "A type of security check", "A special lounge for passengers"],
+          "correct_answer": "Shopping for goods on which import taxes are not charged",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 122,
+          "question": "The difference between the 'buy' rate and 'sell' rate of a currency is called the...",
+          "options": ["commission", "tax", "spread", "interest"],
+          "correct_answer": "spread",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 123,
+          "question": "If a train is 'rescheduled', what should the booking clerk inform the passenger?",
+          "options": ["The train is on time.", "The new departure time and the reason for the delay, if known.", "The train has been cancelled.", "The ticket is no longer valid."],
+          "correct_answer": "The new departure time and the reason for the delay, if known.",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 124,
+          "question": "How can a tourist information officer best handle a tourist who has been a victim of a minor crime like pickpocketing?",
+          "options": ["Tell them it's their own fault.", "Show empathy and assist them in contacting the local police.", "Offer them money.", "Ignore them."],
+          "correct_answer": "Show empathy and assist them in contacting the local police.",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 125,
+          "question": "What is the primary difference between renting a car with a manual vs. an automatic transmission?",
+          "options": ["The color of the car", "The way the driver changes gears", "The number of seats", "The type of fuel"],
+          "correct_answer": "The way the driver changes gears",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 126,
+          "question": "What is a 'recurring deposit' (RD) account?",
+          "options": ["An account for daily transactions.", "A savings account where you deposit a fixed amount every month for a fixed period.", "An account that gives you a loan.", "An account with no interest."],
+          "correct_answer": "A savings account where you deposit a fixed amount every month for a fixed period.",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 127,
+          "question": "A customer needs to cancel a trip due to a medical emergency. What should a good travel agent check for first?",
+          "options": ["If they can sell the ticket to someone else.", "The cancellation policy of the airline and if the customer has travel insurance.", "The price of a new ticket.", "The weather at the destination."],
+          "correct_answer": "The cancellation policy of the airline and if the customer has travel insurance.",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 128,
+          "question": "A hotel offers an 'all-inclusive' plan. This typically includes the room, all meals, and...",
+          "options": ["flights", "car rental", "drinks and some activities", "shopping vouchers"],
+          "correct_answer": "drinks and some activities",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 129,
+          "question": "What is the purpose of the 'immigration' counter at an international airport?",
+          "options": ["To check your luggage", "To check your passport, visa, and legal entry into the country", "To sell you souvenirs", "To exchange currency"],
+          "correct_answer": "To check your passport, visa, and legal entry into the country",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 130,
+          "question": "A customer wants to send money abroad. The bank officer would explain the difference between a wire transfer and a...",
+          "options": ["cash deposit", "cheque", "foreign currency demand draft", "recurring deposit"],
+          "correct_answer": "foreign currency demand draft",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 131,
+          "question": "What is 'dynamic pricing' in the context of train or flight tickets?",
+          "options": ["The price is always fixed.", "The price changes based on demand and time of booking.", "The price is the same for all seats.", "The price depends on the passenger's age."],
+          "correct_answer": "The price changes based on demand and time of booking.",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 132,
+          "question": "A tourist with a disability asks for information on accessible attractions. What should the officer provide?",
+          "options": ["A standard tourist map.", "Information on places with ramps, elevators, and accessible restrooms.", "A list of the most crowded places.", "A list of adventure sports."],
+          "correct_answer": "Information on places with ramps, elevators, and accessible restrooms.",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 133,
+          "question": "What is a key question a car rental agent should ask to determine the right vehicle for a family?",
+          "options": ["'What is your favorite color?'", "'How many people are traveling and how much luggage do you have?'", "'Do you like driving fast?'", "'What is your final destination?'"],
+          "correct_answer": "'How many people are traveling and how much luggage do you have?'",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 134,
+          "question": "Explaining the concept of 'compound interest' is a key part of which role-play?",
+          "options": ["Hotel reservation", "Opening a Bank Account", "Travel agency", "Car rental"],
+          "correct_answer": "Opening a Bank Account",
+          "grammar_type": "Opening a Bank Account"
+        },
+        {
+          "id": 135,
+          "question": "A travel agent needs to inform a client about visa requirements. This means telling them about...",
+          "options": ["the food in the destination country", "the official permission needed to enter a foreign country", "the type of currency used", "the best hotels"],
+          "correct_answer": "the official permission needed to enter a foreign country",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 136,
+          "question": "A hotel might offer a 'corporate rate' to someone who is...",
+          "options": ["traveling for a holiday", "a student", "traveling for business on behalf of a company", "a senior citizen"],
+          "correct_answer": "traveling for business on behalf of a company",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 137,
+          "question": "What is the role of 'customs' at an airport?",
+          "options": ["To assist with boarding", "To check goods that are being brought into a country", "To provide information", "To handle lost luggage"],
+          "correct_answer": "To check goods that are being brought into a country",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 138,
+          "question": "Why is it important to check the 'expiry date' on a traveler's cheque before accepting it for currency exchange?",
+          "options": ["To know the traveler's age", "To ensure it is still valid and can be cashed", "It is not important", "To check the spelling of the name"],
+          "correct_answer": "To ensure it is still valid and can be cashed",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 139,
+          "question": "A passenger wants to cancel a train ticket. The clerk needs to explain the ______ policy.",
+          "options": ["booking", "luggage", "refund", "food"],
+          "correct_answer": "refund",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 140,
+          "question": "A tourist officer needs to be 'multilingual'. What does this mean?",
+          "options": ["They speak only one language.", "They can speak several languages.", "They speak very loudly.", "They speak very quickly."],
+          "correct_answer": "They can speak several languages.",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 141,
+          "question": "A 'GPS' or navigation system is a crucial feature to offer in a rental car for a tourist who...",
+          "options": ["is familiar with the city", "is unfamiliar with the local roads", "is not going to drive", "has a good map"],
+          "correct_answer": "is unfamiliar with the local roads",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 142,
+          "question": "What is a 'dormant' bank account?",
+          "options": ["An account that is used every day", "A new account", "An account that has not been used for a long period of time", "A joint account"],
+          "correct_answer": "An account that has not been used for a long period of time",
+          "grammar_type": "Bank visit"
+        },
+        {
+          "id": 143,
+          "question": "A 'budget airline' is an airline that...",
+          "options": ["is very luxurious", "offers lower fares by cutting down on non-essential services", "only flies to one destination", "is owned by the government"],
+          "correct_answer": "offers lower fares by cutting down on non-essential services",
+          "grammar_type": "Travel agency role-play"
+        },
+        {
+          "id": 144,
+          "question": "A hotel's 'occupancy rate' is a measure of...",
+          "options": ["how many guests are in the hotel", "the percentage of occupied rooms at a given time", "how large the rooms are", "the price of the rooms"],
+          "correct_answer": "the percentage of occupied rooms at a given time",
+          "grammar_type": "Hotel reservation role-play"
+        },
+        {
+          "id": 145,
+          "question": "A passenger is at the wrong 'terminal'. Airport assistance must help them...",
+          "options": ["get on the wrong flight", "get to the correct terminal building quickly", "cancel their flight", "find their luggage"],
+          "correct_answer": "get to the correct terminal building quickly",
+          "grammar_type": "Airport assistance role-play"
+        },
+        {
+          "id": 146,
+          "question": "A 'counterfeit' note is a...",
+          "options": ["new and clean note", "fake or forged bank note", "note of a very high value", "note from a different country"],
+          "correct_answer": "fake or forged bank note",
+          "grammar_type": "Currency exchange role-play"
+        },
+        {
+          "id": 147,
+          "question": "The 'berth' on a train ticket refers to the...",
+          "options": ["passenger's date of birth", "sleeping bunk or seat", "type of coach", "train number"],
+          "correct_answer": "sleeping bunk or seat",
+          "grammar_type": "Train ticket booking role-play"
+        },
+        {
+          "id": 148,
+          "question": "A tourist asks for advice on 'etiquette' for visiting a temple. The officer should explain...",
+          "options": ["the history of the temple", "the rules of polite behavior, like removing shoes and dressing modestly", "the price of entry", "the best time to take photos"],
+          "correct_answer": "the rules of polite behavior, like removing shoes and dressing modestly",
+          "grammar_type": "Tourist information role-play"
+        },
+        {
+          "id": 149,
+          "question": "A car rental agreement is a legally binding...",
+          "options": ["suggestion", "conversation", "contract", "map"],
+          "correct_answer": "contract",
+          "grammar_type": "Car rental role-play"
+        },
+        {
+          "id": 150,
+          "question": "A bank officer explaining a 'phishing' scam would warn a customer not to share their...",
+          "options": ["name", "account number", "online banking password or OTP", "address"],
+          "correct_answer": "online banking password or OTP",
+          "grammar_type": "Bank visit"
+        }
+      ]
+    }
+  ]
+}
+

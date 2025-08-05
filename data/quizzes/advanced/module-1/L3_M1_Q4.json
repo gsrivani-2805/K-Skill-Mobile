@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "Choose the advanced word for 'happy'.",
+          "options": ["sad", "angry", "joyful", "tired"],
+          "correct_answer": "joyful",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 2,
+          "question": "Which word is a more advanced word for 'big'?",
+          "options": ["small", "tiny", "large", "short"],
+          "correct_answer": "large",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 3,
+          "question": "Select a more sophisticated word for 'sad'.",
+          "options": ["happy", "gleeful", "sorrowful", "excited"],
+          "correct_answer": "sorrowful",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 4,
+          "question": "Find the advanced synonym for 'fast'.",
+          "options": ["slow", "rapid", "still", "calm"],
+          "correct_answer": "rapid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 5,
+          "question": "Choose the advanced word for 'good'.",
+          "options": ["bad", "awful", "excellent", "poor"],
+          "correct_answer": "excellent",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 6,
+          "question": "Which word is a more advanced word for 'small'?",
+          "options": ["huge", "massive", "tiny", "wide"],
+          "correct_answer": "tiny",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 7,
+          "question": "Select a more sophisticated word for 'smart'.",
+          "options": ["foolish", "intelligent", "silly", "dull"],
+          "correct_answer": "intelligent",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 8,
+          "question": "Find the advanced synonym for 'brave'.",
+          "options": ["afraid", "fearful", "courageous", "timid"],
+          "correct_answer": "courageous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 9,
+          "question": "Choose the advanced word for 'scared'.",
+          "options": ["bold", "afraid", "calm", "confident"],
+          "correct_answer": "afraid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 10,
+          "question": "Which word is a more advanced word for 'funny'?",
+          "options": ["serious", "humorous", "sad", "boring"],
+          "correct_answer": "humorous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 11,
+          "question": "Select a more sophisticated word for 'ask'.",
+          "options": ["tell", "answer", "request", "shout"],
+          "correct_answer": "request",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 12,
+          "question": "Find the advanced synonym for 'tell'.",
+          "options": ["hide", "listen", "inform", "ask"],
+          "correct_answer": "inform",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 13,
+          "question": "Choose the advanced word for 'get'.",
+          "options": ["give", "lose", "receive", "throw"],
+          "correct_answer": "receive",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 14,
+          "question": "Which word is a more advanced word for 'use'?",
+          "options": ["waste", "ignore", "utilize", "break"],
+          "correct_answer": "utilize",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 15,
+          "question": "Select a more sophisticated word for 'help'.",
+          "options": ["hinder", "harm", "assist", "stop"],
+          "correct_answer": "assist",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 16,
+          "question": "Find the advanced synonym for 'old'.",
+          "options": ["young", "new", "ancient", "fresh"],
+          "correct_answer": "ancient",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 17,
+          "question": "Choose the advanced word for 'new'.",
+          "options": ["old", "modern", "used", "broken"],
+          "correct_answer": "modern",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 18,
+          "question": "Which word is a more advanced word for 'pretty'?",
+          "options": ["ugly", "plain", "beautiful", "dull"],
+          "correct_answer": "beautiful",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 19,
+          "question": "Select a more sophisticated word for 'rich'.",
+          "options": ["poor", "needy", "wealthy", "broke"],
+          "correct_answer": "wealthy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 20,
+          "question": "Find the advanced synonym for 'poor'.",
+          "options": ["rich", "wealthy", "needy", "fortunate"],
+          "correct_answer": "needy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 21,
+          "question": "Choose the advanced word for 'easy'.",
+          "options": ["hard", "difficult", "simple", "complex"],
+          "correct_answer": "simple",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 22,
+          "question": "Which word is a more advanced word for 'hard'?",
+          "options": ["easy", "soft", "difficult", "simple"],
+          "correct_answer": "difficult",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 23,
+          "question": "Select a more sophisticated word for 'right'.",
+          "options": ["wrong", "incorrect", "correct", "false"],
+          "correct_answer": "correct",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 24,
+          "question": "Find the advanced synonym for 'wrong'.",
+          "options": ["right", "correct", "incorrect", "true"],
+          "correct_answer": "incorrect",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 25,
+          "question": "Choose the advanced word for 'start'.",
+          "options": ["end", "finish", "begin", "stop"],
+          "correct_answer": "begin",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 26,
+          "question": "Which word is a more advanced word for 'end'?",
+          "options": ["start", "begin", "finish", "middle"],
+          "correct_answer": "finish",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 27,
+          "question": "Select a more sophisticated word for 'hot'.",
+          "options": ["cold", "chilly", "warm", "freezing"],
+          "correct_answer": "warm",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 28,
+          "question": "Find the advanced synonym for 'cold'.",
+          "options": ["hot", "warm", "chilly", "burning"],
+          "correct_answer": "chilly",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 29,
+          "question": "Choose the advanced word for 'clean'.",
+          "options": ["dirty", "messy", "tidy", "filthy"],
+          "correct_answer": "tidy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 30,
+          "question": "Which word is a more advanced word for 'dirty'?",
+          "options": ["clean", "tidy", "filthy", "neat"],
+          "correct_answer": "filthy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 31,
+          "question": "Select a more sophisticated word for 'quiet'.",
+          "options": ["loud", "noisy", "silent", "shouting"],
+          "correct_answer": "silent",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 32,
+          "question": "Find the advanced synonym for 'loud'.",
+          "options": ["quiet", "silent", "noisy", "calm"],
+          "correct_answer": "noisy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 33,
+          "question": "Choose the advanced word for 'strong'.",
+          "options": ["weak", "feeble", "powerful", "delicate"],
+          "correct_answer": "powerful",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 34,
+          "question": "Which word is a more advanced word for 'weak'?",
+          "options": ["strong", "powerful", "feeble", "sturdy"],
+          "correct_answer": "feeble",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 35,
+          "question": "Select a more sophisticated word for 'bright'.",
+          "options": ["dark", "dim", "luminous", "dull"],
+          "correct_answer": "luminous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 36,
+          "question": "Find the advanced synonym for 'dark'.",
+          "options": ["bright", "luminous", "dim", "shining"],
+          "correct_answer": "dim",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 37,
+          "question": "Choose the advanced word for 'true'.",
+          "options": ["false", "lie", "factual", "untrue"],
+          "correct_answer": "factual",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 38,
+          "question": "Which word is a more advanced word for 'kind'?",
+          "options": ["mean", "cruel", "compassionate", "unkind"],
+          "correct_answer": "compassionate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 39,
+          "question": "Select a more sophisticated word for 'angry'.",
+          "options": ["calm", "happy", "furious", "peaceful"],
+          "correct_answer": "furious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 40,
+          "question": "Find the advanced synonym for 'tired'.",
+          "options": ["energetic", "active", "weary", "fresh"],
+          "correct_answer": "weary",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 41,
+          "question": "Choose the advanced word for 'hungry'.",
+          "options": ["full", "satisfied", "starving", "content"],
+          "correct_answer": "starving",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 42,
+          "question": "Which word is a more advanced word for 'thin'?",
+          "options": ["fat", "plump", "slender", "wide"],
+          "correct_answer": "slender",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 43,
+          "question": "Select a more sophisticated word for 'fat'.",
+          "options": ["thin", "slim", "overweight", "slender"],
+          "correct_answer": "overweight",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 44,
+          "question": "Find the advanced synonym for 'see'.",
+          "options": ["ignore", "observe", "miss", "overlook"],
+          "correct_answer": "observe",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 45,
+          "question": "Choose the advanced word for 'nice'.",
+          "options": ["unpleasant", "awful", "pleasant", "horrible"],
+          "correct_answer": "pleasant",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 46,
+          "question": "Which word is a more advanced word for 'bad'?",
+          "options": ["good", "excellent", "terrible", "great"],
+          "correct_answer": "terrible",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 47,
+          "question": "Select a more sophisticated word for 'slow'.",
+          "options": ["fast", "rapid", "sluggish", "quick"],
+          "correct_answer": "sluggish",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 48,
+          "question": "Find the advanced synonym for 'ugly'.",
+          "options": ["beautiful", "pretty", "unattractive", "lovely"],
+          "correct_answer": "unattractive",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 49,
+          "question": "Choose the advanced word for 'mean'.",
+          "options": ["kind", "generous", "cruel", "compassionate"],
+          "correct_answer": "cruel",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 50,
+          "question": "Which word is a more advanced word for 'false'?",
+          "options": ["true", "correct", "untrue", "right"],
+          "correct_answer": "untrue",
+          "grammar_type": "Basic words and Advanced words"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "Choose the advanced word for 'show'.",
+          "options": ["hide", "conceal", "demonstrate", "watch"],
+          "correct_answer": "demonstrate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 52,
+          "question": "Which word is a more advanced word for 'need'?",
+          "options": ["want", "desire", "require", "wish"],
+          "correct_answer": "require",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 53,
+          "question": "Select a more sophisticated word for 'think'.",
+          "options": ["ignore", "forget", "ponder", "feel"],
+          "correct_answer": "ponder",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 54,
+          "question": "Find the advanced synonym for 'make'.",
+          "options": ["destroy", "break", "create", "ruin"],
+          "correct_answer": "create",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 55,
+          "question": "Choose the advanced word for 'break'.",
+          "options": ["mend", "fix", "fracture", "join"],
+          "correct_answer": "fracture",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 56,
+          "question": "Which word is a more advanced word for 'keep'?",
+          "options": ["discard", "lose", "retain", "give"],
+          "correct_answer": "retain",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 57,
+          "question": "Select a more sophisticated word for 'let'.",
+          "options": ["prohibit", "ban", "permit", "stop"],
+          "correct_answer": "permit",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 58,
+          "question": "Find the advanced synonym for 'change'.",
+          "options": ["remain", "stay", "alter", "keep"],
+          "correct_answer": "alter",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 59,
+          "question": "Choose the advanced word for 'explain'.",
+          "options": ["confuse", "muddle", "clarify", "hide"],
+          "correct_answer": "clarify",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 60,
+          "question": "Which word is a more advanced word for 'important'?",
+          "options": ["trivial", "minor", "significant", "small"],
+          "correct_answer": "significant",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 61,
+          "question": "Select a more sophisticated word for 'empty'.",
+          "options": ["full", "occupied", "vacant", "crammed"],
+          "correct_answer": "vacant",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 62,
+          "question": "Find the advanced synonym for 'full'.",
+          "options": ["empty", "scarce", "abundant", "vacant"],
+          "correct_answer": "abundant",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 63,
+          "question": "Choose the advanced word for 'different'.",
+          "options": ["same", "similar", "diverse", "alike"],
+          "correct_answer": "diverse",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 64,
+          "question": "Which word is a more advanced word for 'same'?",
+          "options": ["different", "varied", "identical", "opposite"],
+          "correct_answer": "identical",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 65,
+          "question": "Select a more sophisticated word for 'famous'.",
+          "options": ["unknown", "obscure", "renowned", "hidden"],
+          "correct_answer": "renowned",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 66,
+          "question": "Find the advanced synonym for 'honest'.",
+          "options": ["deceitful", "dishonest", "virtuous", "corrupt"],
+          "correct_answer": "virtuous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 67,
+          "question": "Choose the advanced word for 'lie' (to not tell the truth).",
+          "options": ["truth", "fact", "fabricate", "confirm"],
+          "correct_answer": "fabricate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 68,
+          "question": "Which word is a more advanced word for 'love'?",
+          "options": ["hate", "dislike", "adore", "ignore"],
+          "correct_answer": "adore",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 69,
+          "question": "Select a more sophisticated word for 'hate'.",
+          "options": ["love", "adore", "despise", "like"],
+          "correct_answer": "despise",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 70,
+          "question": "Find the advanced synonym for 'answer'.",
+          "options": ["question", "ask", "respond", "ignore"],
+          "correct_answer": "respond",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 71,
+          "question": "Choose the advanced word for 'idea'.",
+          "options": ["fact", "reality", "notion", "truth"],
+          "correct_answer": "notion",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 72,
+          "question": "Which word is a more advanced word for 'problem'?",
+          "options": ["solution", "answer", "issue", "success"],
+          "correct_answer": "issue",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 73,
+          "question": "Select a more sophisticated word for 'enough'.",
+          "options": ["lacking", "insufficient", "sufficient", "scarce"],
+          "correct_answer": "sufficient",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 74,
+          "question": "Find the advanced synonym for 'main'.",
+          "options": ["minor", "secondary", "principal", "extra"],
+          "correct_answer": "principal",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 75,
+          "question": "Choose the advanced word for 'careful'.",
+          "options": ["careless", "reckless", "cautious", "rash"],
+          "correct_answer": "cautious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 76,
+          "question": "Which word is a more advanced word for 'boring'?",
+          "options": ["exciting", "interesting", "tedious", "fun"],
+          "correct_answer": "tedious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 77,
+          "question": "Select a more sophisticated word for 'interesting'.",
+          "options": ["boring", "dull", "fascinating", "plain"],
+          "correct_answer": "fascinating",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 78,
+          "question": "Find the advanced synonym for 'calm'.",
+          "options": ["agitated", "worried", "serene", "chaotic"],
+          "correct_answer": "serene",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 79,
+          "question": "Choose the advanced word for 'worried'.",
+          "options": ["calm", "peaceful", "anxious", "relaxed"],
+          "correct_answer": "anxious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 80,
+          "question": "Which word is a more advanced word for 'surprise'?",
+          "options": ["bore", "expect", "astonish", "calm"],
+          "correct_answer": "astonish",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 81,
+          "question": "Select a more sophisticated word for 'choose'.",
+          "options": ["reject", "discard", "select", "refuse"],
+          "correct_answer": "select",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 82,
+          "question": "Find the advanced synonym for 'friend'.",
+          "options": ["enemy", "foe", "companion", "rival"],
+          "correct_answer": "companion",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 83,
+          "question": "Choose the advanced word for 'enemy'.",
+          "options": ["friend", "ally", "adversary", "partner"],
+          "correct_answer": "adversary",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 84,
+          "question": "Which word is a more advanced word for 'part'?",
+          "options": ["whole", "entirety", "component", "total"],
+          "correct_answer": "component",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 85,
+          "question": "Select a more sophisticated word for 'shy'.",
+          "options": ["confident", "bold", "timid", "outgoing"],
+          "correct_answer": "timid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 86,
+          "question": "Find the advanced synonym for 'outgoing'.",
+          "options": ["shy", "introverted", "extroverted", "reserved"],
+          "correct_answer": "extroverted",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 87,
+          "question": "Choose the advanced word for 'rule'.",
+          "options": ["chaos", "disorder", "principle", "mess"],
+          "correct_answer": "principle",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 88,
+          "question": "Which word is a more advanced word for 'walk'?",
+          "options": ["run", "stand", "stroll", "jump"],
+          "correct_answer": "stroll",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 89,
+          "question": "Select a more sophisticated word for 'shout'.",
+          "options": ["whisper", "murmur", "exclaim", "mumble"],
+          "correct_answer": "exclaim",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 90,
+          "question": "Find the advanced synonym for 'work'.",
+          "options": ["rest", "leisure", "labor", "play"],
+          "correct_answer": "labor",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 91,
+          "question": "Choose the advanced word for 'home'.",
+          "options": ["office", "building", "residence", "street"],
+          "correct_answer": "residence",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 92,
+          "question": "Which word is a more advanced word for 'job'?",
+          "options": ["hobby", "pastime", "occupation", "unemployment"],
+          "correct_answer": "occupation",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 93,
+          "question": "Select a more sophisticated word for 'plan'.",
+          "options": ["guess", "chance", "strategy", "impulse"],
+          "correct_answer": "strategy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 94,
+          "question": "Find the advanced synonym for 'test'.",
+          "options": ["ignore", "assume", "evaluate", "guess"],
+          "correct_answer": "evaluate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 95,
+          "question": "Choose the advanced word for 'pay'.",
+          "options": ["take", "receive", "compensate", "charge"],
+          "correct_answer": "compensate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 96,
+          "question": "Which word is a more advanced word for 'praise'?",
+          "options": ["criticize", "blame", "commend", "scold"],
+          "correct_answer": "commend",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 97,
+          "question": "Select a more sophisticated word for 'careless'.",
+          "options": ["careful", "cautious", "negligent", "meticulous"],
+          "correct_answer": "negligent",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 8,
+          "question": "Find the advanced synonym for 'whole'.",
+          "options": ["part", "piece", "entire", "fraction"],
+          "correct_answer": "entire",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 99,
+          "question": "Choose the advanced word for 'look'.",
+          "options": ["ignore", "overlook", "glance", "hide"],
+          "correct_answer": "glance",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 100,
+          "question": "Which word is a more advanced word for 'ask'?",
+          "options": ["reply", "demand", "inquire", "state"],
+          "correct_answer": "inquire",
+          "grammar_type": "Basic words and Advanced words"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "Choose the advanced word for 'secret'.",
+          "options": ["overt", "obvious", "clandestine", "public"],
+          "correct_answer": "clandestine",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 102,
+          "question": "Which word is a more sophisticated synonym for 'lazy'?",
+          "options": ["diligent", "energetic", "indolent", "active"],
+          "correct_answer": "indolent",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 103,
+          "question": "Select a more sophisticated word for 'talkative'.",
+          "options": ["quiet", "silent", "loquacious", "taciturn"],
+          "correct_answer": "loquacious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 104,
+          "question": "Find the advanced synonym for 'quiet'.",
+          "options": ["noisy", "talkative", "taciturn", "loquacious"],
+          "correct_answer": "taciturn",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 105,
+          "question": "Choose the advanced word for 'friendly'.",
+          "options": ["hostile", "unfriendly", "amicable", "angry"],
+          "correct_answer": "amicable",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 106,
+          "question": "Which word is a more sophisticated synonym for 'stubborn'?",
+          "options": ["flexible", "compliant", "obstinate", "agreeable"],
+          "correct_answer": "obstinate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 107,
+          "question": "Select a more sophisticated word for 'clear'.",
+          "options": ["murky", "vague", "lucid", "confusing"],
+          "correct_answer": "lucid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 108,
+          "question": "Find the advanced synonym for 'confusing'.",
+          "options": ["simple", "clear", "convoluted", "lucid"],
+          "correct_answer": "convoluted",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 109,
+          "question": "Choose the advanced word for 'short-lived'.",
+          "options": ["permanent", "eternal", "ephemeral", "lasting"],
+          "correct_answer": "ephemeral",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 110,
+          "question": "Which word is a more sophisticated synonym for 'harmful'?",
+          "options": ["beneficial", "harmless", "deleterious", "helpful"],
+          "correct_answer": "deleterious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 111,
+          "question": "Select a more sophisticated word for 'praise'.",
+          "options": ["criticize", "condemn", "laud", "censure"],
+          "correct_answer": "laud",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 112,
+          "question": "Find the advanced synonym for 'scold'.",
+          "options": ["praise", "commend", "chastise", "applaud"],
+          "correct_answer": "chastise",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 113,
+          "question": "Choose the advanced word for 'brave'.",
+          "options": ["cowardly", "timid", "intrepid", "fearful"],
+          "correct_answer": "intrepid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 114,
+          "question": "Which word is a more sophisticated synonym for 'cowardly'?",
+          "options": ["brave", "courageous", "pusillanimous", "valiant"],
+          "correct_answer": "pusillanimous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 115,
+          "question": "Select a more sophisticated word for 'truthful'.",
+          "options": ["deceitful", "false", "veracious", "dishonest"],
+          "correct_answer": "veracious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 116,
+          "question": "Find the advanced synonym for 'greedy'.",
+          "options": ["generous", "charitable", "avaricious", "giving"],
+          "correct_answer": "avaricious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 117,
+          "question": "Choose the advanced word for 'generous'.",
+          "options": ["greedy", "stingy", "magnanimous", "selfish"],
+          "correct_answer": "magnanimous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 118,
+          "question": "Which word is a more sophisticated synonym for 'sad'?",
+          "options": ["joyful", "happy", "melancholy", "cheerful"],
+          "correct_answer": "melancholy",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 119,
+          "question": "Select a more sophisticated word for 'happy'.",
+          "options": ["sad", "miserable", "ecstatic", "depressed"],
+          "correct_answer": "ecstatic",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 120,
+          "question": "Find the advanced synonym for 'angry'.",
+          "options": ["pleased", "calm", "irate", "content"],
+          "correct_answer": "irate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 121,
+          "question": "Choose the advanced word for 'enough'.",
+          "options": ["inadequate", "lacking", "adequate", "scarce"],
+          "correct_answer": "adequate",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 122,
+          "question": "Which word is a more sophisticated synonym for 'lack'?",
+          "options": ["abundance", "surplus", "dearth", "plenty"],
+          "correct_answer": "dearth",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 123,
+          "question": "Select a more sophisticated word for 'beginner'.",
+          "options": ["expert", "master", "novice", "veteran"],
+          "correct_answer": "novice",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 124,
+          "question": "Find the advanced synonym for 'expert'.",
+          "options": ["beginner", "amateur", "virtuoso", "novice"],
+          "correct_answer": "virtuoso",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 125,
+          "question": "Choose the advanced word for 'calm'.",
+          "options": ["agitated", "turbulent", "placid", "frenzied"],
+          "correct_answer": "placid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 126,
+          "question": "Which word is a more sophisticated synonym for 'upset'?",
+          "options": ["calm", "serene", "perturbed", "tranquil"],
+          "correct_answer": "perturbed",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 127,
+          "question": "Select a more sophisticated word for 'brave'.",
+          "options": ["timorous", "fearful", "audacious", "cowardly"],
+          "correct_answer": "audacious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 128,
+          "question": "Find the advanced synonym for 'careful'.",
+          "options": ["careless", "sloppy", "meticulous", "negligent"],
+          "correct_answer": "meticulous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 129,
+          "question": "Choose the advanced word for 'hardworking'.",
+          "options": ["lazy", "idle", "diligent", "indolent"],
+          "correct_answer": "diligent",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 130,
+          "question": "Which word is a more sophisticated synonym for 'old-fashioned'?",
+          "options": ["modern", "new", "archaic", "contemporary"],
+          "correct_answer": "archaic",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 131,
+          "question": "Select a more sophisticated word for 'indirect'.",
+          "options": ["direct", "straight", "circuitous", "forthright"],
+          "correct_answer": "circuitous",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 132,
+          "question": "Find the advanced synonym for 'clumsy'.",
+          "options": ["graceful", "agile", "gauche", "adroit"],
+          "correct_answer": "gauche",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 133,
+          "question": "Choose the advanced word for 'skilled'.",
+          "options": ["incompetent", "unskilled", "adept", "inept"],
+          "correct_answer": "adept",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 134,
+          "question": "Which word is a more sophisticated synonym for 'honest'?",
+          "options": ["deceptive", "untruthful", "candid", "secretive"],
+          "correct_answer": "candid",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 135,
+          "question": "Select a more sophisticated word for 'shy'.",
+          "options": ["confident", "assertive", "diffident", "bold"],
+          "correct_answer": "diffident",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 136,
+          "question": "Find the advanced synonym for 'bold'.",
+          "options": ["timid", "meek", "audacious", "shy"],
+          "correct_answer": "audacious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 137,
+          "question": "Choose the advanced word for 'sad song'.",
+          "options": ["anthem", "ballad", "dirge", "hymn"],
+          "correct_answer": "dirge",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 138,
+          "question": "Which word is a more sophisticated synonym for 'long journey'?",
+          "options": ["stroll", "trip", "odyssey", "excursion"],
+          "correct_answer": "odyssey",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 139,
+          "question": "Select a more sophisticated word for 'harmful'.",
+          "options": ["beneficial", "salutary", "noxious", "harmless"],
+          "correct_answer": "noxious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 140,
+          "question": "Find the advanced synonym for 'friendly'.",
+          "options": ["hostile", "aloof", "gregarious", "unfriendly"],
+          "correct_answer": "gregarious",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 141,
+          "question": "Choose the advanced word for 'perfect example'.",
+          "options": ["anomaly", "aberration", "epitome", "flaw"],
+          "correct_answer": "epitome",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 142,
+          "question": "Which word is a more sophisticated synonym for 'summary'?",
+          "options": ["expansion", "elaboration", "synopsis", "detail"],
+          "correct_answer": "synopsis",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 143,
+          "question": "Select a more sophisticated word for 'beginner'.",
+          "options": ["veteran", "expert", "neophyte", "master"],
+          "correct_answer": "neophyte",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 144,
+          "question": "Find the advanced synonym for 'stubborn'.",
+          "options": ["pliable", "flexible", "intractable", "yielding"],
+          "correct_answer": "intractable",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 145,
+          "question": "Choose the advanced word for 'secret agreement'.",
+          "options": ["dispute", "conflict", "collusion", "debate"],
+          "correct_answer": "collusion",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 146,
+          "question": "Which word is a more sophisticated synonym for 'calm'?",
+          "options": ["agitated", "flustered", "unflappable", "anxious"],
+          "correct_answer": "unflappable",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 147,
+          "question": "Select a more sophisticated word for 'very detailed'.",
+          "options": ["superficial", "cursory", "painstaking", "careless"],
+          "correct_answer": "painstaking",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 148,
+          "question": "Find the advanced synonym for 'very angry'.",
+          "options": ["pleased", "content", "incensed", "calm"],
+          "correct_answer": "incensed",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 149,
+          "question": "Choose the advanced word for 'brave warrior'.",
+          "options": ["coward", "deserter", "stalwart", "weakling"],
+          "correct_answer": "stalwart",
+          "grammar_type": "Basic words and Advanced words"
+        },
+        {
+          "id": 150,
+          "question": "Which word is a more sophisticated synonym for 'changing'?",
+          "options": ["stable", "static", "fluctuating", "constant"],
+          "correct_answer": "fluctuating",
+          "grammar_type": "Basic words and Advanced words"
+        }
+      ]
+    }
+  ]
+}
+

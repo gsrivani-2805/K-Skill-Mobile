@@ -1,3 +1,4 @@
+
 {
   "grammar_quiz": [
     {
@@ -5,17 +6,423 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "What do you use to write that can be erased?",
+          "options": ["Pen", "Pencil", "Marker", "Crayon"],
+          "correct_answer": "Pencil",
+          "grammar_type": "School and Classroom Objects"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "What do you sit on in a classroom?",
+          "options": ["Desk", "Chair", "Table", "Bench"],
+          "correct_answer": "Chair",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 3,
+          "question": "What do you use to correct a mistake made with a pencil?",
+          "options": ["Sharpener", "Ruler", "Eraser", "Glue"],
+          "correct_answer": "Eraser",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 4,
+          "question": "The teacher writes on a large ____ at the front of the class.",
+          "options": ["Paper", "Notebook", "Board", "Wall"],
+          "correct_answer": "Board",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 5,
+          "question": "What do you carry your books in to go to school?",
+          "options": ["Box", "Bag", "Pocket", "Folder"],
+          "correct_answer": "Bag",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 6,
+          "question": "What do you read stories and information from?",
+          "options": ["Book", "Pen", "Desk", "Chair"],
+          "correct_answer": "Book",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 7,
+          "question": "What do you use to draw straight lines?",
+          "options": ["Scissor", "Ruler", "Compass", "Protractor"],
+          "correct_answer": "Ruler",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 8,
+          "question": "What do you write on with a pen or pencil?",
+          "options": ["Desk", "Paper", "Board", "Chair"],
+          "correct_answer": "Paper",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 9,
+          "question": "A book where you write your notes is called a ____.",
+          "options": ["Textbook", "Library", "Notebook", "Storybook"],
+          "correct_answer": "Notebook",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 10,
+          "question": "What do you use to stick paper together?",
+          "options": ["Tape", "Stapler", "Glue", "Pin"],
+          "correct_answer": "Glue",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 11,
+          "question": "What tool do you use to cut paper?",
+          "options": ["Knife", "Scissors", "Blade", "Ruler"],
+          "correct_answer": "Scissors",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 12,
+          "question": "What do you use for coloring pictures?",
+          "options": ["Pens", "Pencils", "Crayons", "Erasers"],
+          "correct_answer": "Crayons",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 13,
+          "question": "The piece of furniture you write on is called a ____.",
+          "options": ["Chair", "Stool", "Desk", "Shelf"],
+          "correct_answer": "Desk",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 14,
+          "question": "The person who teaches you is a ____.",
+          "options": ["Student", "Principal", "Teacher", "Librarian"],
+          "correct_answer": "Teacher",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 15,
+          "question": "A person who learns at school is a ____.",
+          "options": ["Student", "Teacher", "Doctor", "Farmer"],
+          "correct_answer": "Student",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 16,
+          "question": "What do you use to make a pencil point sharp?",
+          "options": ["Eraser", "Cutter", "Sharpener", "Knife"],
+          "correct_answer": "Sharpener",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 17,
+          "question": "This object shows all the countries of the world.",
+          "options": ["Map", "Globe", "Atlas", "Chart"],
+          "correct_answer": "Globe",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 18,
+          "question": "You find many books to read and borrow in the school ____.",
+          "options": ["Classroom", "Playground", "Library", "Office"],
+          "correct_answer": "Library",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 19,
+          "question": "What is the big board at the front of the classroom usually called?",
+          "options": ["Whiteboard", "Blackboard", "Greenboard", "Any of the above"],
+          "correct_answer": "Any of the above",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 20,
+          "question": "You can find your classroom's location on the school ____.",
+          "options": ["Calendar", "Timetable", "Map", "Notice board"],
+          "correct_answer": "Map",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 21,
+          "question": "What is the object that tells time, found on the classroom wall?",
+          "options": ["Calendar", "Clock", "Watch", "Timer"],
+          "correct_answer": "Clock",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 22,
+          "question": "You can hang your drawings on the classroom ____.",
+          "options": ["Wall", "Window", "Door", "Bulletin board"],
+          "correct_answer": "Bulletin board",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 23,
+          "question": "What do you use to write on a whiteboard?",
+          "options": ["Chalk", "Pencil", "Marker", "Crayon"],
+          "correct_answer": "Marker",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 24,
+          "question": "What do you use to write on a blackboard?",
+          "options": ["Chalk", "Pen", "Marker", "Paint"],
+          "correct_answer": "Chalk",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 25,
+          "question": "What is the main book for a subject called?",
+          "options": ["Notebook", "Workbook", "Textbook", "Library book"],
+          "correct_answer": "Textbook",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 26,
+          "question": "A device that helps you do math calculations quickly is a ____.",
+          "options": ["Computer", "Abacus", "Calculator", "Clock"],
+          "correct_answer": "Calculator",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 27,
+          "question": "The bell rings at the end of a ____.",
+          "options": ["Lesson", "Period", "Class", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 28,
+          "question": "Where do students play during their break?",
+          "options": ["Library", "Classroom", "Playground", "Staffroom"],
+          "correct_answer": "Playground",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 29,
+          "question": "A model of the Earth is a ____.",
+          "options": ["Map", "Chart", "Globe", "Picture"],
+          "correct_answer": "Globe",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 30,
+          "question": "You keep your pens and pencils in a ____.",
+          "options": ["Box", "Bag", "Pencil case", "Pocket"],
+          "correct_answer": "Pencil case",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 31,
+          "question": "The head of the school is the ____.",
+          "options": ["Teacher", "Manager", "Principal", "Librarian"],
+          "correct_answer": "Principal",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 32,
+          "question": "Which of these do you NOT usually find in a pencil case?",
+          "options": ["Pen", "Eraser", "Sharpener", "Book"],
+          "correct_answer": "Book",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 33,
+          "question": "You use this to paint pictures.",
+          "options": ["Paintbrush", "Pencil", "Pen", "Comb"],
+          "correct_answer": "Paintbrush",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 34,
+          "question": "What shows the dates of the year?",
+          "options": ["Clock", "Timetable", "Calendar", "Map"],
+          "correct_answer": "Calendar",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 35,
+          "question": "The list of classes and their times is a ____.",
+          "options": ["Menu", "List", "Timetable", "Calendar"],
+          "correct_answer": "Timetable",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 36,
+          "question": "You do experiments in the science ____.",
+          "options": ["Room", "Library", "Laboratory", "Playground"],
+          "correct_answer": "Laboratory",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 37,
+          "question": "You throw waste paper in the ____.",
+          "options": ["Bag", "Desk", "Dustbin", "Cupboard"],
+          "correct_answer": "Dustbin",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 38,
+          "question": "A flat drawing of a country or the world is a ____.",
+          "options": ["Globe", "Picture", "Map", "Poster"],
+          "correct_answer": "Map",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 39,
+          "question": "You can keep your papers organised in a ____.",
+          "options": ["Book", "Folder", "Box", "Bag"],
+          "correct_answer": "Folder",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 40,
+          "question": "What is the room where teachers rest or work?",
+          "options": ["Principal's office", "Classroom", "Staffroom", "Library"],
+          "correct_answer": "Staffroom",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 41,
+          "question": "This object makes sounds in music class.",
+          "options": ["Instrument", "Calculator", "Microscope", "Tool"],
+          "correct_answer": "Instrument",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 42,
+          "question": "A book with blank pages for drawing is a ____.",
+          "options": ["Notebook", "Textbook", "Sketchbook", "Workbook"],
+          "correct_answer": "Sketchbook",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 43,
+          "question": "What do you wear to school every day?",
+          "options": ["Costume", "Uniform", "Party dress", "Casuals"],
+          "correct_answer": "Uniform",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 44,
+          "question": "The furniture where books are kept is a ____.",
+          "options": ["Desk", "Table", "Bookshelf", "Cupboard"],
+          "correct_answer": "Bookshelf",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 45,
+          "question": "You use a ____ to see very small things in science class.",
+          "options": ["Telescope", "Magnifying glass", "Microscope", "Binoculars"],
+          "correct_answer": "Microscope",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 46,
+          "question": "What do you open to enter the classroom?",
+          "options": ["Window", "Door", "Gate", "Book"],
+          "correct_answer": "Door",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 47,
+          "question": "This gives light in the classroom.",
+          "options": ["Fan", "Window", "Bulb", "Tube light"],
+          "correct_answer": "Tube light",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 48,
+          "question": "A book full of maps is an ____.",
+          "options": ["Atlas", "Globe", "Encyclopedia", "Dictionary"],
+          "correct_answer": "Atlas",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 49,
+          "question": "What is the floor of the playground often covered with?",
+          "options": ["Tiles", "Carpet", "Grass", "Wood"],
+          "correct_answer": "Grass",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 50,
+          "question": "You drink water from a water ____.",
+          "options": ["Glass", "Mug", "Bottle", "Jug"],
+          "correct_answer": "Bottle",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 51,
+          "question": "What do you eat your lunch from?",
+          "options": ["Lunchbox", "School bag", "Pencil case", "Book"],
+          "correct_answer": "Lunchbox",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 52,
+          "question": "A book for practising exercises is a ____.",
+          "options": ["Textbook", "Workbook", "Notebook", "Diary"],
+          "correct_answer": "Workbook",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 53,
+          "question": "A chart with pictures and information is a ____.",
+          "options": ["Poster", "Map", "Notice", "Book"],
+          "correct_answer": "Poster",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 54,
+          "question": "The person who helps you find books in the library is the ____.",
+          "options": ["Teacher", "Principal", "Librarian", "Clerk"],
+          "correct_answer": "Librarian",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 55,
+          "question": "Which of these helps you learn about computers?",
+          "options": ["Computer lab", "Science lab", "Library", "Art room"],
+          "correct_answer": "Computer lab",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 56,
+          "question": "What is a single piece of paper called?",
+          "options": ["Notebook", "Page", "Sheet", "File"],
+          "correct_answer": "Sheet",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 57,
+          "question": "This is used to measure angles in geometry.",
+          "options": ["Ruler", "Compass", "Protractor", "Scale"],
+          "correct_answer": "Protractor",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 58,
+          "question": "This is used to draw circles.",
+          "options": ["Ruler", "Compass", "Protractor", "Divider"],
+          "correct_answer": "Compass",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 59,
+          "question": "The large open area for school events and prayers is the ____.",
+          "options": ["Hall", "Auditorium", "Assembly ground", "Playground"],
+          "correct_answer": "Assembly ground",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 60,
+          "question": "A pen used to mark important parts of a text is a ____.",
+          "options": ["Marker", "Highlighter", "Glitter pen", "Sketch pen"],
+          "correct_answer": "Highlighter",
+          "grammar_type": "School and Classroom Objects"
         }
       ]
     },
@@ -23,18 +430,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 61,
+          "question": "Which of these is a type of stationery?",
+          "options": ["Desk", "Chair", "Stapler", "Board"],
+          "correct_answer": "Stapler",
+          "grammar_type": "School and Classroom Objects"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 62,
+          "question": "A three-ring ____ is used to hold loose papers.",
+          "options": ["Folder", "Binder", "File", "Envelope"],
+          "correct_answer": "Binder",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 63,
+          "question": "What is the difference between a globe and a map?",
+          "options": ["A globe is flat, a map is round.", "A globe is a sphere, a map is flat.", "A globe shows cities, a map shows countries.", "There is no difference."],
+          "correct_answer": "A globe is a sphere, a map is flat.",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 64,
+          "question": "A ____ is used to attach papers together with a small metal wire.",
+          "options": ["Glue stick", "Paper clip", "Stapler", "Pin"],
+          "correct_answer": "Stapler",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 65,
+          "question": "Which of these would you find in a science laboratory?",
+          "options": ["Easel", "Beaker", "Abacus", "Globe"],
+          "correct_answer": "Beaker",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 66,
+          "question": "The list of topics to be studied in a subject for the whole year is the ____.",
+          "options": ["Syllabus", "Curriculum", "Timetable", "Index"],
+          "correct_answer": "Curriculum",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 67,
+          "question": "Which tool is used for viewing distant objects like stars?",
+          "options": ["Microscope", "Telescope", "Binoculars", "Magnifying glass"],
+          "correct_answer": "Telescope",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 68,
+          "question": "What is a podium used for in a school hall?",
+          "options": ["For sitting", "For placing books", "For a speaker to stand behind", "For decoration"],
+          "correct_answer": "For a speaker to stand behind",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 69,
+          "question": "A book that gives definitions of words is a ____.",
+          "options": ["Thesaurus", "Encyclopedia", "Atlas", "Dictionary"],
+          "correct_answer": "Dictionary",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 70,
+          "question": "What is the frame used by an artist to hold a canvas?",
+          "options": ["Podium", "Easel", "Tripod", "Stand"],
+          "correct_answer": "Easel",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 71,
+          "question": "Which of these is NOT a writing instrument?",
+          "options": ["Quill", "Chalk", "Compass", "Stylus"],
+          "correct_answer": "Compass",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 72,
+          "question": "What are the marks you get in an exam called?",
+          "options": ["Report", "Certificate", "Grades", "Remarks"],
+          "correct_answer": "Grades",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 73,
+          "question": "A clear plastic sheet used to show images on a wall is a ____.",
+          "options": ["Slide", "Film", "Transparency", "Laminate"],
+          "correct_answer": "Transparency",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 74,
+          "question": "The paper that shows your results at the end of the year is a ____ card.",
+          "options": ["Report", "Identity", "Library", "Credit"],
+          "correct_answer": "Report",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 75,
+          "question": "What do you call the break in the middle of the school day for lunch?",
+          "options": ["Period", "Recess", "Holiday", "Assembly"],
+          "correct_answer": "Recess",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 76,
+          "question": "A student who is in charge of the class is the class ____.",
+          "options": ["Captain", "President", "Monitor", "Leader"],
+          "correct_answer": "Monitor",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 77,
+          "question": "What is a Bunsen burner used for?",
+          "options": ["Measuring liquids", "Heating substances", "Observing cells", "Mixing chemicals"],
+          "correct_answer": "Heating substances",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 78,
+          "question": "A book of synonyms and antonyms is a ____.",
+          "options": ["Dictionary", "Thesaurus", "Atlas", "Glossary"],
+          "correct_answer": "Thesaurus",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 79,
+          "question": "The small cupboard for a student to store their belongings is a ____.",
+          "options": ["Desk", "Cabinet", "Locker", "Shelf"],
+          "correct_answer": "Locker",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 80,
+          "question": "Which of these is a piece of safety equipment in a science lab?",
+          "options": ["Beaker", "Test tube", "Goggles", "Microscope"],
+          "correct_answer": "Goggles",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 81,
+          "question": "A machine that shows images from a computer onto a screen is a ____.",
+          "options": ["Television", "Camera", "Projector", "Scanner"],
+          "correct_answer": "Projector",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 82,
+          "question": "What is the difference between a textbook and a workbook?",
+          "options": ["A textbook has information; a workbook has exercises.", "A workbook has information; a textbook has exercises.", "They are the same thing.", "A textbook is bigger than a workbook."],
+          "correct_answer": "A textbook has information; a workbook has exercises.",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 83,
+          "question": "A set of papers fastened together is a ____.",
+          "options": ["Document", "Scroll", "Leaflet", "Pamphlet"],
+          "correct_answer": "Document",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 84,
+          "question": "The list of topics to be covered for a particular exam is the ____.",
+          "options": ["Curriculum", "Syllabus", "Index", "Contents"],
+          "correct_answer": "Syllabus",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 85,
+          "question": "An old tool with beads for counting and calculating is an ____.",
+          "options": ["Calculator", "Computer", "Abacus", "Slide rule"],
+          "correct_answer": "Abacus",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 86,
+          "question": "Which of these is used to hold a small amount of liquid for experiments?",
+          "options": ["Beaker", "Flask", "Test tube", "Jar"],
+          "correct_answer": "Test tube",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 87,
+          "question": "What is a 'staff' in a school context?",
+          "options": ["A long stick", "All the students", "All the teachers and employees", "The school rules"],
+          "correct_answer": "All the teachers and employees",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 88,
+          "question": "Which of these is a type of school?",
+          "options": ["Boarding school", "Day school", "Primary school", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 89,
+          "question": "A large room for school assemblies or events is an ____.",
+          "options": ["Auditorium", "Gymnasium", "Cafeteria", "Laboratory"],
+          "correct_answer": "Auditorium",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 90,
+          "question": "What do you call the homework or tasks given by a teacher?",
+          "options": ["Project", "Assignment", "Duty", "Chore"],
+          "correct_answer": "Assignment",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 91,
+          "question": "Which item is used to organize index cards?",
+          "options": ["Cardboard box", "File cabinet", "Card catalog", "Envelope"],
+          "correct_answer": "Card catalog",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 92,
+          "question": "What is a 'tutor'?",
+          "options": ["A head teacher", "A student leader", "A private teacher", "A school guard"],
+          "correct_answer": "A private teacher",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 93,
+          "question": "A ____ is a flat-bottomed glass container used for mixing liquids in a lab.",
+          "options": ["Test tube", "Beaker", "Funnel", "Pipette"],
+          "correct_answer": "Beaker",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 94,
+          "question": "What is the general term for items like pens, pencils, and erasers?",
+          "options": ["Tools", "Equipment", "Supplies", "Stationery"],
+          "correct_answer": "Stationery",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 95,
+          "question": "A place where students eat lunch at school is the ____.",
+          "options": ["Kitchen", "Restaurant", "Cafeteria", "Staffroom"],
+          "correct_answer": "Cafeteria",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 96,
+          "question": "Which of these is a learning aid?",
+          "options": ["Flashcard", "Textbook", "Chart", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 97,
+          "question": "The final test at the end of a school year is called an ____.",
+          "options": ["Examination", "Assignment", "Quiz", "Exercise"],
+          "correct_answer": "Examination",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 98,
+          "question": "A large book containing information on many subjects is an ____.",
+          "options": ["Atlas", "Dictionary", "Encyclopedia", "Novel"],
+          "correct_answer": "Encyclopedia",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 99,
+          "question": "What is the stick of graphite inside a pencil called?",
+          "options": ["Wood", "Lead", "Ink", "Charcoal"],
+          "correct_answer": "Lead",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 100,
+          "question": "A place for indoor sports at school is a ____.",
+          "options": ["Playground", "Stadium", "Gymnasium", "Auditorium"],
+          "correct_answer": "Gymnasium",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 101,
+          "question": "What is a 'roster' in a classroom?",
+          "options": ["A list of rules", "A list of student names", "A cleaning schedule", "A seating chart"],
+          "correct_answer": "A list of student names",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 102,
+          "question": "A machine that makes copies of paper is a ____.",
+          "options": ["Printer", "Scanner", "Photocopier", "Laminator"],
+          "correct_answer": "Photocopier",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 103,
+          "question": "A book that you write your personal thoughts in is a ____.",
+          "options": ["Diary", "Notebook", "Logbook", "Scrapbook"],
+          "correct_answer": "Diary",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 104,
+          "question": "Which of these is NOT a part of a book?",
+          "options": ["Cover", "Page", "Index", "Desk"],
+          "correct_answer": "Desk",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 105,
+          "question": "What is a 'faculty'?",
+          "options": ["The school building", "The group of students", "The teaching staff", "The school subjects"],
+          "correct_answer": "The teaching staff",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 106,
+          "question": "A flat, circular object used to store computer data is a ____.",
+          "options": ["Diskette", "CD-ROM", "Hard drive", "USB drive"],
+          "correct_answer": "CD-ROM",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 107,
+          "question": "The official document you receive after completing school is a ____.",
+          "options": ["Report card", "Certificate", "Diploma", "Both B and C"],
+          "correct_answer": "Both B and C",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 108,
+          "question": "What are the people you study with called?",
+          "options": ["Friends", "Colleagues", "Classmates", "Roommates"],
+          "correct_answer": "Classmates",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 109,
+          "question": "A small, thin glass plate for viewing samples under a microscope is a ____.",
+          "options": ["Slide", "Beaker", "Petri dish", "Lens"],
+          "correct_answer": "Slide",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 110,
+          "question": "The time when students are on holiday is called ____.",
+          "options": ["Recess", "Break", "Vacation", "Weekend"],
+          "correct_answer": "Vacation",
+          "grammar_type": "School and Classroom Objects"
         }
       ]
     },
@@ -42,25 +785,287 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 111,
+          "question": "What is the difference between curriculum and syllabus?",
+          "options": ["Syllabus is the overall content; curriculum is for one subject.", "Curriculum is the overall content; syllabus is for one subject.", "They are exactly the same.", "Curriculum is for students; syllabus is for teachers."],
+          "correct_answer": "Curriculum is the overall content; syllabus is for one subject.",
+          "grammar_type": "School and Classroom Objects"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 112,
+          "question": "A machine that covers a document in plastic is a ____.",
+          "options": ["Photocopier", "Binder", "Scanner", "Laminator"],
+          "correct_answer": "Laminator",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 113,
+          "question": "A shallow dish used to culture cells in a lab is a ____.",
+          "options": ["Beaker", "Flask", "Petri dish", "Test tube"],
+          "correct_answer": "Petri dish",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 114,
+          "question": "What does an 'abacus' help you learn?",
+          "options": ["Reading", "Writing", "Arithmetic", "History"],
+          "correct_answer": "Arithmetic",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 115,
+          "question": "What is a 'lectern'?",
+          "options": ["A type of book", "A stand for holding a speaker's notes", "A student's desk", "A laboratory instrument"],
+          "correct_answer": "A stand for holding a speaker's notes",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 116,
+          "question": "Which of these is NOT typically considered 'stationery'?",
+          "options": ["Envelope", "Letterhead", "Fountain pen", "Textbook"],
+          "correct_answer": "Textbook",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 117,
+          "question": "If you need to find the location of a specific river in Asia, which would be most helpful?",
+          "options": ["A globe", "An encyclopedia", "An atlas", "A thesaurus"],
+          "correct_answer": "An atlas",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 118,
+          "question": "The tool used to measure the mass of an object in a lab is a ____.",
+          "options": ["Scale", "Balance", "Ruler", "Caliper"],
+          "correct_answer": "Balance",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 119,
+          "question": "What is the purpose of a 'glossary' in a textbook?",
+          "options": ["To list the chapters", "To provide an alphabetical list of topics", "To define key terms used in the book", "To acknowledge sources"],
+          "correct_answer": "To define key terms used in the book",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 120,
+          "question": "A 'set square' is a tool used in which subject?",
+          "options": ["Art", "History", "Technical Drawing", "Biology"],
+          "correct_answer": "Technical Drawing",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 121,
+          "question": "What is the main difference between a beaker and a graduated cylinder?",
+          "options": ["A beaker is for heating, a cylinder is for mixing.", "A beaker is less accurate for measuring volume.", "A cylinder is made of plastic, a beaker is glass.", "A cylinder holds more liquid."],
+          "correct_answer": "A beaker is less accurate for measuring volume.",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 122,
+          "question": "A student who has completed a university degree is called a ____.",
+          "options": ["Pupil", "Scholar", "Graduate", "Undergraduate"],
+          "correct_answer": "Graduate",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 123,
+          "question": "A school that provides accommodation for its students is a ____ school.",
+          "options": ["Private", "Public", "Day", "Boarding"],
+          "correct_answer": "Boarding",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 124,
+          "question": "What is a 'thesis' or 'dissertation'?",
+          "options": ["A short classroom essay", "A daily homework assignment", "A long research paper for a higher degree", "A final exam"],
+          "correct_answer": "A long research paper for a higher degree",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 125,
+          "question": "The liquid used in a fountain pen is ____.",
+          "options": ["Lead", "Paint", "Ink", "Graphite"],
+          "correct_answer": "Ink",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 126,
+          "question": "A 'periodical' in a library refers to...",
+          "options": ["A type of old book", "A magazine or journal published at regular intervals", "A section for quiet reading", "A book checkout card"],
+          "correct_answer": "A magazine or journal published at regular intervals",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 127,
+          "question": "A 't-square' is primarily used for drawing what?",
+          "options": ["Circles", "Angles", "Horizontal lines", "Freehand sketches"],
+          "correct_answer": "Horizontal lines",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 128,
+          "question": "What is an 'alumnus'?",
+          "options": ["A current student", "A new student", "A former student of a school", "A top-ranking student"],
+          "correct_answer": "A former student of a school",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 129,
+          "question": "In a lab, a ____ is used to transfer a specific volume of liquid.",
+          "options": ["Beaker", "Flask", "Pipette", "Funnel"],
+          "correct_answer": "Pipette",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 130,
+          "question": "The 'dean' is an administrator at which level of education?",
+          "options": ["Primary School", "High School", "Kindergarten", "University or College"],
+          "correct_answer": "University or College",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 131,
+          "question": "A 'carrel' is a small individual study space found in a ____.",
+          "options": ["Classroom", "Laboratory", "Library", "Playground"],
+          "correct_answer": "Library",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 132,
+          "question": "What is a 'proctor' or 'invigilator'?",
+          "options": ["Someone who grades exams", "Someone who writes exams", "Someone who supervises students during an exam", "Someone who hands out diplomas"],
+          "correct_answer": "Someone who supervises students during an exam",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 133,
+          "question": "A list of books and articles that a writer has used for a project is called a ____.",
+          "options": ["Index", "Glossary", "Bibliography", "Syllabus"],
+          "correct_answer": "Bibliography",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 134,
+          "question": "A school for young children, usually aged 3-5, is called ____.",
+          "options": ["Primary school", "High school", "Kindergarten", "College"],
+          "correct_answer": "Kindergarten",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 135,
+          "question": "A 'vernier caliper' is a tool used for precise measurement of ____.",
+          "options": ["Time", "Temperature", "Length/Diameter", "Mass"],
+          "correct_answer": "Length/Diameter",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 136,
+          "question": "A large, thin case used for carrying drawings or artwork is a ____.",
+          "options": ["Briefcase", "Portfolio", "Binder", "Folder"],
+          "correct_answer": "Portfolio",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 137,
+          "question": "What is an 'extracurricular' activity?",
+          "options": ["A subject studied in class", "An activity pursued outside the normal course of study", "A homework assignment", "A final exam"],
+          "correct_answer": "An activity pursued outside the normal course of study",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 138,
+          "question": "The stand used to hold a test tube is called a ____.",
+          "options": ["Test tube holder", "Test tube rack", "Beaker", "Tripod stand"],
+          "correct_answer": "Test tube rack",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 139,
+          "question": "A 'valedictorian' is a student who...",
+          "options": ["has the best attendance", "delivers the farewell speech at graduation", "is the class monitor", "fails the exams"],
+          "correct_answer": "delivers the farewell speech at graduation",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 140,
+          "question": "What is a 'dissertation'?",
+          "options": ["A short essay", "A class presentation", "A long piece of writing on a particular subject for a university degree", "A teacher's lecture notes"],
+          "correct_answer": "A long piece of writing on a particular subject for a university degree",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 141,
+          "question": "A 'plumb line' is a tool used in physics or construction to establish a ____.",
+          "options": ["Horizontal line", "Vertical reference", "Circular path", "Specific angle"],
+          "correct_answer": "Vertical reference",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 142,
+          "question": "An 'internship' is a period of work experience offered by an organization, often to ____.",
+          "options": ["Teachers", "Principals", "Students or graduates", "Parents"],
+          "correct_answer": "Students or graduates",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 143,
+          "question": "What is the primary function of a 'fume hood' in a chemistry lab?",
+          "options": ["To store chemicals", "To limit exposure to hazardous fumes", "To heat substances safely", "To provide good lighting"],
+          "correct_answer": "To limit exposure to hazardous fumes",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 144,
+          "question": "A 'thesis statement' is found in which type of school work?",
+          "options": ["A math problem", "An essay or research paper", "A science experiment log", "An art project"],
+          "correct_answer": "An essay or research paper",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 145,
+          "question": "A 'topographical map' is different from a political map because it shows ____.",
+          "options": ["Only countries and cities", "Only roads and highways", "Physical features like mountains and valleys", "Only oceans and rivers"],
+          "correct_answer": "Physical features like mountains and valleys",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 146,
+          "question": "A 'scholarship' is a grant of financial aid awarded to a student to...",
+          "options": ["buy textbooks", "help them pay for their education", "reward them for good grades", "participate in sports"],
+          "correct_answer": "help them pay for their education",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 147,
+          "question": "What is the purpose of 'blotting paper' in a biology or chemistry lab?",
+          "options": ["To write notes on", "To absorb excess liquid", "To filter solutions", "To clean glassware"],
+          "correct_answer": "To absorb excess liquid",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 148,
+          "question": "The term 'pedagogy' refers to the...",
+          "options": ["study of school architecture", "method and practice of teaching", "history of education", "management of school finances"],
+          "correct_answer": "method and practice of teaching",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 149,
+          "question": "A 'terrarium' in a classroom is used to...",
+          "options": ["store books", "house and observe small land animals and plants", "mix chemicals", "display student art"],
+          "correct_answer": "house and observe small land animals and plants",
+          "grammar_type": "School and Classroom Objects"
+        },
+        {
+          "id": 150,
+          "question": "A 'bursar' is a school official in charge of ____.",
+          "options": ["The library", "Student discipline", "Financial matters", "Sports activities"],
+          "correct_answer": "Financial matters",
+          "grammar_type": "School and Classroom Objects"
         }
       ]
     }
   ]
 }
+

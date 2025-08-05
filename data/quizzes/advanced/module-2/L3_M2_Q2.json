@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What are the three main parts of an essay?",
+          "options": ["Beginning, Middle, End", "Title, Story, Moral", "Introduction, Body, Conclusion", "First, Second, Third"],
+          "correct_answer": "Introduction, Body, Conclusion",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 2,
+          "question": "Which part of the essay introduces the main topic?",
+          "options": ["The Body", "The Conclusion", "The Introduction", "The Title"],
+          "correct_answer": "The Introduction",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 3,
+          "question": "Which part of the essay contains the main arguments and details?",
+          "options": ["The Introduction", "The Body", "The Conclusion", "The Title"],
+          "correct_answer": "The Body",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 4,
+          "question": "Which part of the essay summarizes the main points and gives a final thought?",
+          "options": ["The Introduction", "The Body", "The Conclusion", "The Topic Sentence"],
+          "correct_answer": "The Conclusion",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 5,
+          "question": "A group of sentences about a single topic is called a...",
+          "options": ["Word", "Letter", "Paragraph", "Title"],
+          "correct_answer": "Paragraph",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 6,
+          "question": "The main idea or point of the entire essay is called the...",
+          "options": ["Topic Sentence", "Supporting Detail", "Thesis Statement", "Conclusion"],
+          "correct_answer": "Thesis Statement",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 7,
+          "question": "The first sentence of a body paragraph, which states its main idea, is called the...",
+          "options": ["Thesis Statement", "Hook", "Conclusion", "Topic Sentence"],
+          "correct_answer": "Topic Sentence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 8,
+          "question": "What should you do before you start writing an essay?",
+          "options": ["Write the conclusion", "Check for spelling mistakes", "Plan or brainstorm your ideas", "Write the title"],
+          "correct_answer": "Plan or brainstorm your ideas",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 9,
+          "question": "An essay should be focused on...",
+          "options": ["many different topics", "at least ten topics", "one single main topic", "no topic at all"],
+          "correct_answer": "one single main topic",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 10,
+          "question": "What is the purpose of the introduction?",
+          "options": ["To summarize everything", "To give all the details", "To grab the reader's attention and introduce the topic", "To finish the essay"],
+          "correct_answer": "To grab the reader's attention and introduce the topic",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 11,
+          "question": "What should the conclusion of an essay do?",
+          "options": ["Introduce a completely new idea", "Ask a lot of questions", "Summarize the main points", "Provide new evidence"],
+          "correct_answer": "Summarize the main points",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 12,
+          "question": "Sentences in a paragraph should be...",
+          "options": ["about different topics", "related to one main idea", "in a random order", "very short"],
+          "correct_answer": "related to one main idea",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 13,
+          "question": "Which of these is a good transition word to start a second body paragraph?",
+          "options": ["In conclusion", "Firstly", "Secondly", "I believe"],
+          "correct_answer": "Secondly",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 14,
+          "question": "An essay that tells a personal story is a ______ essay.",
+          "options": ["Descriptive", "Persuasive", "Narrative", "Expository"],
+          "correct_answer": "Narrative",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 15,
+          "question": "An essay that describes a person, place, or thing is a ______ essay.",
+          "options": ["Descriptive", "Persuasive", "Narrative", "Expository"],
+          "correct_answer": "Descriptive",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 16,
+          "question": "A statement sentence in an essay should end with a...",
+          "options": ["Question Mark (?)", "Full Stop (.)", "Comma (,)", "Exclamation Mark (!)"],
+          "correct_answer": "Full Stop (.)",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 17,
+          "question": "The body paragraphs are located between the introduction and the...",
+          "options": ["Title", "Conclusion", "Thesis", "Topic Sentence"],
+          "correct_answer": "Conclusion",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 18,
+          "question": "What is the purpose of giving examples in a body paragraph?",
+          "options": ["To make the paragraph shorter", "To support the topic sentence", "To confuse the reader", "To change the topic"],
+          "correct_answer": "To support the topic sentence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 19,
+          "question": "Which of these is a good brainstorming technique?",
+          "options": ["Writing the essay immediately", "Making a list of ideas", "Waiting for ideas to come", "Copying from a book"],
+          "correct_answer": "Making a list of ideas",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 20,
+          "question": "What is the very first paragraph of an essay called?",
+          "options": ["Body Paragraph", "Conclusion", "Introduction", "Supporting Paragraph"],
+          "correct_answer": "Introduction",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 21,
+          "question": "The thesis statement is usually one...",
+          "options": ["long paragraph", "word", "sentence", "book"],
+          "correct_answer": "sentence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 22,
+          "question": "An essay should be organized...",
+          "options": ["randomly", "logically", "with no paragraphs", "backwards"],
+          "correct_answer": "logically",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 23,
+          "question": "Which is the correct order?",
+          "options": ["Body, Conclusion, Introduction", "Introduction, Conclusion, Body", "Conclusion, Introduction, Body", "Introduction, Body, Conclusion"],
+          "correct_answer": "Introduction, Body, Conclusion",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 24,
+          "question": "An essay that tries to convince you of something is called a ______ essay.",
+          "options": ["Narrative", "Descriptive", "Persuasive", "Story"],
+          "correct_answer": "Persuasive",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 25,
+          "question": "An essay that explains or informs about a topic is a ______ essay.",
+          "options": ["Narrative", "Descriptive", "Persuasive", "Expository"],
+          "correct_answer": "Expository",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 26,
+          "question": "The final step after writing an essay is to...",
+          "options": ["throw it away", "plan it", "proofread it for mistakes", "write the introduction"],
+          "correct_answer": "proofread it for mistakes",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 27,
+          "question": "What is the purpose of an outline?",
+          "options": ["To make the essay longer", "To structure and organize your ideas", "To check for spelling", "To write the final copy"],
+          "correct_answer": "To structure and organize your ideas",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 28,
+          "question": "Each body paragraph should focus on ______ main idea.",
+          "options": ["one", "two", "three", "many"],
+          "correct_answer": "one",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 29,
+          "question": "What does a descriptive essay do?",
+          "options": ["Tells a story", "Argues a point", "Explains a process", "Paints a picture with words"],
+          "correct_answer": "Paints a picture with words",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 30,
+          "question": "The details in a body paragraph should be ______ to the topic sentence.",
+          "options": ["unrelated", "opposite", "relevant", "confusing"],
+          "correct_answer": "relevant",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 31,
+          "question": "What is the purpose of a title?",
+          "options": ["To hide the topic", "To give a hint about the essay's topic", "To write the conclusion", "To list the main points"],
+          "correct_answer": "To give a hint about the essay's topic",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 32,
+          "question": "Which of these is a good topic for a narrative essay?",
+          "options": ["The benefits of exercise", "My most memorable school trip", "How to make a kite", "Why we should recycle"],
+          "correct_answer": "My most memorable school trip",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 33,
+          "question": "Which of these is a good topic for a persuasive essay?",
+          "options": ["A description of my village", "My first day at school", "Why students should wear uniforms", "How a car engine works"],
+          "correct_answer": "Why students should wear uniforms",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 34,
+          "question": "The conclusion should ______ the thesis statement.",
+          "options": ["contradict", "ignore", "restate in a new way", "introduce for the first time"],
+          "correct_answer": "restate in a new way",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 35,
+          "question": "What is the most important sentence in the whole essay?",
+          "options": ["The first sentence of the body", "The thesis statement", "The last sentence of the conclusion", "The title"],
+          "correct_answer": "The thesis statement",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 36,
+          "question": "What is 'plagiarism'?",
+          "options": ["Using your own ideas", "Copying someone else's work without giving credit", "Brainstorming for an essay", "Proofreading an essay"],
+          "correct_answer": "Copying someone else's work without giving credit",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 37,
+          "question": "A standard school essay usually has how many paragraphs?",
+          "options": ["One", "Two", "Five (Intro, 3 Body, Conclusion)", "Ten"],
+          "correct_answer": "Five (Intro, 3 Body, Conclusion)",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 38,
+          "question": "A 'hook' is a sentence used to...",
+          "options": ["summarize the essay", "end the essay", "catch the reader's attention", "state the main idea"],
+          "correct_answer": "catch the reader's attention",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 39,
+          "question": "Supporting sentences in a body paragraph should provide...",
+          "options": ["new topics", "a conclusion", "details, examples, or explanations", "a hook"],
+          "correct_answer": "details, examples, or explanations",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 40,
+          "question": "What should be the tone of a formal essay?",
+          "options": ["Silly and funny", "Casual and friendly", "Objective and respectful", "Angry and rude"],
+          "correct_answer": "Objective and respectful",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 41,
+          "question": "What is the main goal of an expository essay?",
+          "options": ["To tell a story", "To describe something", "To explain or inform", "To argue a point"],
+          "correct_answer": "To explain or inform",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 42,
+          "question": "What does it mean to 'stay on topic'?",
+          "options": ["To write about many different things", "To make sure all your points relate to the main idea", "To change the subject in every paragraph", "To write a good conclusion"],
+          "correct_answer": "To make sure all your points relate to the main idea",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 43,
+          "question": "The word 'essay' comes from a French word meaning...",
+          "options": ["to write", "to try or attempt", "a story", "an argument"],
+          "correct_answer": "to try or attempt",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 44,
+          "question": "Where should the title of the essay be placed?",
+          "options": ["At the end", "In the middle of the first paragraph", "At the top, centered", "On the last page"],
+          "correct_answer": "At the top, centered",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 45,
+          "question": "Using your five senses (sight, sound, smell, taste, touch) is most important in which type of essay?",
+          "options": ["Narrative", "Descriptive", "Persuasive", "Expository"],
+          "correct_answer": "Descriptive",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 46,
+          "question": "What is the purpose of the body of an essay?",
+          "options": ["To introduce the topic", "To conclude the essay", "To develop and support the main idea", "To ask a question"],
+          "correct_answer": "To develop and support the main idea",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 47,
+          "question": "Before submitting your essay, you should check for...",
+          "options": ["spelling and grammar mistakes", "the number of words", "the font size", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 48,
+          "question": "A strong essay needs a strong...",
+          "options": ["Title", "Introduction", "Conclusion", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 49,
+          "question": "What is the very last step of the writing process?",
+          "options": ["Writing a draft", "Brainstorming", "Outlining", "Publishing or submitting"],
+          "correct_answer": "Publishing or submitting",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 50,
+          "question": "Transition words help to...",
+          "options": ["make the essay confusing", "connect ideas smoothly", "end the essay quickly", "introduce spelling mistakes"],
+          "correct_answer": "connect ideas smoothly",
+          "grammar_type": "Essay Writing"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "A strong thesis statement should be...",
+          "options": ["a question", "a simple fact", "a vague idea", "a specific and arguable claim"],
+          "correct_answer": "a specific and arguable claim",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 52,
+          "question": "What is the main difference between a narrative and a descriptive essay?",
+          "options": ["A narrative explains, while a descriptive tells a story.", "A narrative tells a story with a plot, while a descriptive paints a picture with sensory details.", "There is no difference.", "A narrative argues a point, while a descriptive explains."],
+          "correct_answer": "A narrative tells a story with a plot, while a descriptive paints a picture with sensory details.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 53,
+          "question": "What is the purpose of providing evidence in a persuasive essay?",
+          "options": ["To make the essay longer", "To support your claims and make them more convincing", "To show your personal opinion", "To entertain the reader"],
+          "correct_answer": "To support your claims and make them more convincing",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 54,
+          "question": "Which of these is the best example of a 'hook' for an essay about pollution?",
+          "options": ["This essay is about pollution.", "Pollution is a big problem in the world.", "Every day, thousands of tons of plastic are dumped into our oceans, creating a deadly trap for marine life.", "I will now tell you about pollution."],
+          "correct_answer": "Every day, thousands of tons of plastic are dumped into our oceans, creating a deadly trap for marine life.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 55,
+          "question": "What does it mean to 'paraphrase' a source?",
+          "options": ["To copy it word for word", "To use only a small part of it", "To restate the main idea in your own words", "To ignore the source completely"],
+          "correct_answer": "To restate the main idea in your own words",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 56,
+          "question": "The structure of a typical body paragraph is: Topic Sentence, ______, and Concluding Sentence.",
+          "options": ["Thesis Statement", "Supporting Sentences", "Introduction", "Hook"],
+          "correct_answer": "Supporting Sentences",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 57,
+          "question": "In a compare and contrast essay, what is the main goal?",
+          "options": ["To describe one subject in detail", "To tell a story about two subjects", "To show the similarities and differences between two subjects", "To argue that one subject is better than the other"],
+          "correct_answer": "To show the similarities and differences between two subjects",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 58,
+          "question": "What is a 'prompt' in essay writing?",
+          "options": ["The final copy of the essay", "The question or statement you have to write about", "The introduction paragraph", "The conclusion paragraph"],
+          "correct_answer": "The question or statement you have to write about",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 59,
+          "question": "The term 'coherence' in an essay means that...",
+          "options": ["the ideas are logically connected and easy to follow", "the essay has no mistakes", "the essay is very long", "the essay has a good title"],
+          "correct_answer": "the ideas are logically connected and easy to follow",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 60,
+          "question": "A 'first draft' of an essay is...",
+          "options": ["the final, perfect version", "the first attempt at writing the essay, which will be revised later", "the planning stage", "the brainstorming list"],
+          "correct_answer": "the first attempt at writing the essay, which will be revised later",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 61,
+          "question": "Which type of essay would be most likely to use chronological order (time order)?",
+          "options": ["Persuasive", "Descriptive", "Narrative", "Expository"],
+          "correct_answer": "Narrative",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 62,
+          "question": "What is the difference between revising and proofreading?",
+          "options": ["They are the same thing.", "Revising is about big picture issues like ideas and organization, while proofreading is about smaller errors like spelling.", "Revising is checking spelling, while proofreading is about ideas.", "Revising is the first step, and proofreading is the second step."],
+          "correct_answer": "Revising is about big picture issues like ideas and organization, while proofreading is about smaller errors like spelling.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 63,
+          "question": "Which of the following is NOT a strong thesis statement?",
+          "options": ["School uniforms should be mandatory to promote equality.", "This essay will discuss the pros and cons of school uniforms.", "Banning junk food in schools is essential for student health.", "Social media has a negative impact on the mental health of teenagers."],
+          "correct_answer": "This essay will discuss the pros and cons of school uniforms.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 64,
+          "question": "A concluding paragraph should not just summarize, but also provide...",
+          "options": ["new evidence", "a new thesis statement", "a sense of closure or a final thought", "a hook for the next essay"],
+          "correct_answer": "a sense of closure or a final thought",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 65,
+          "question": "What is the purpose of a 'topic sentence'?",
+          "options": ["To conclude the entire essay", "To introduce the main idea of a specific body paragraph", "To hook the reader at the beginning", "To list all the sources used"],
+          "correct_answer": "To introduce the main idea of a specific body paragraph",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 66,
+          "question": "What is 'audience' in the context of writing?",
+          "options": ["The person writing the essay", "The person who will be reading the essay", "The main character in the essay", "The length of the essay"],
+          "correct_answer": "The person who will be reading the essay",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 67,
+          "question": "A mind map is a tool used for...",
+          "options": ["proofreading", "writing the final draft", "brainstorming and organizing ideas", "checking grammar"],
+          "correct_answer": "brainstorming and organizing ideas",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 68,
+          "question": "In a persuasive essay, your 'claim' is your...",
+          "options": ["evidence", "conclusion", "main argument or position", "hook"],
+          "correct_answer": "main argument or position",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 69,
+          "question": "Using statistics or quotes from experts is a way to provide ______ for your arguments.",
+          "options": ["opinions", "hooks", "evidence", "conclusions"],
+          "correct_answer": "evidence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 70,
+          "question": "An expository essay that explains how to do something is called a ______ essay.",
+          "options": ["narrative", "descriptive", "process", "compare and contrast"],
+          "correct_answer": "process",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 71,
+          "question": "Why is it important to understand the essay prompt before you start writing?",
+          "options": ["So you can ignore it", "To make sure you answer the question that is being asked", "To choose your own topic", "It is not important"],
+          "correct_answer": "To make sure you answer the question that is being asked",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 72,
+          "question": "Which of these helps to improve the flow between paragraphs?",
+          "options": ["Using a new topic for each paragraph", "Using transition sentences", "Ending each paragraph with a question", "Having no conclusion"],
+          "correct_answer": "Using transition sentences",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 73,
+          "question": "What is the difference between a fact and an opinion?",
+          "options": ["A fact can be proven, while an opinion is a personal belief.", "A fact is a personal belief, while an opinion can be proven.", "There is no difference.", "A fact is always long, and an opinion is always short."],
+          "correct_answer": "A fact can be proven, while an opinion is a personal belief.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 74,
+          "question": "A persuasive essay should appeal to the reader's logic and...",
+          "options": ["confusion", "emotions", "boredom", "anger"],
+          "correct_answer": "emotions",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 75,
+          "question": "The 'tone' of an essay refers to the...",
+          "options": ["author's attitude toward the subject", "length of the essay", "number of paragraphs", "spelling and grammar"],
+          "correct_answer": "author's attitude toward the subject",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 76,
+          "question": "Which of these would be a good supporting detail for the topic sentence 'Dogs are loyal pets'?",
+          "options": ["Cats are also popular pets.", "Many stories exist of dogs who have saved their owners' lives.", "Dogs need to be walked every day.", "Some dogs can be very big."],
+          "correct_answer": "Many stories exist of dogs who have saved their owners' lives.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 77,
+          "question": "In the five-paragraph essay model, how many main points are typically developed in the body?",
+          "options": ["One", "Two", "Three", "Five"],
+          "correct_answer": "Three",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 78,
+          "question": "What does it mean to 'cite' a source?",
+          "options": ["To copy a source", "To ignore a source", "To give credit to the original author of the information you used", "To summarize a source"],
+          "correct_answer": "To give credit to the original author of the information you used",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 79,
+          "question": "A chronological order in an essay arranges information according to...",
+          "options": ["importance", "time sequence", "location", "alphabetical order"],
+          "correct_answer": "time sequence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 80,
+          "question": "A 'thesis map' is part of a thesis statement that...",
+          "options": ["gives a map of a place", "lists the main points that will be covered in the body paragraphs", "summarizes the conclusion", "hooks the reader"],
+          "correct_answer": "lists the main points that will be covered in the body paragraphs",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 81,
+          "question": "An expository essay that examines the causes and effects of an event is called a ______ essay.",
+          "options": ["Narrative", "Process", "Cause and Effect", "Descriptive"],
+          "correct_answer": "Cause and Effect",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 82,
+          "question": "What is the purpose of a concluding sentence in a body paragraph?",
+          "options": ["To introduce a new idea", "To summarize the paragraph and transition to the next", "To state the thesis", "To provide a hook"],
+          "correct_answer": "To summarize the paragraph and transition to the next",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 83,
+          "question": "When you revise your essay, you should check for...",
+          "options": ["clarity, organization, and development of ideas", "only spelling mistakes", "only punctuation errors", "only the word count"],
+          "correct_answer": "clarity, organization, and development of ideas",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 84,
+          "question": "Using a direct quote from an expert is a good way to provide...",
+          "options": ["a hook", "a topic sentence", "a conclusion", "evidence"],
+          "correct_answer": "evidence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 85,
+          "question": "What does it mean if an essay lacks 'unity'?",
+          "options": ["It has a good flow.", "All its parts work together to support the thesis.", "It contains irrelevant ideas that do not support the thesis.", "It is well-organized."],
+          "correct_answer": "It contains irrelevant ideas that do not support the thesis.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 86,
+          "question": "The introduction paragraph should move from...",
+          "options": ["specific details to a general idea", "general ideas to a specific thesis statement", "the conclusion to the body", "the body to the conclusion"],
+          "correct_answer": "general ideas to a specific thesis statement",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 87,
+          "question": "A cause and effect essay explains...",
+          "options": ["the similarities and differences", "a personal story", "the reasons for an event and its results", "how to do something"],
+          "correct_answer": "the reasons for an event and its results",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 88,
+          "question": "Why is it important to use your own words when writing an essay?",
+          "options": ["To avoid plagiarism and show your understanding", "It is not important", "To make the essay shorter", "To make the essay harder to read"],
+          "correct_answer": "To avoid plagiarism and show your understanding",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 89,
+          "question": "A good essay writer always considers their ______ before writing.",
+          "options": ["favorite color", "lunch", "purpose and audience", "favorite TV show"],
+          "correct_answer": "purpose and audience",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 90,
+          "question": "A 'working thesis' is...",
+          "options": ["the final thesis statement", "an initial idea for a thesis that you can revise as you write", "a thesis that is wrong", "the conclusion of the essay"],
+          "correct_answer": "an initial idea for a thesis that you can revise as you write",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 91,
+          "question": "An argumentative essay is another name for a/an ______ essay.",
+          "options": ["narrative", "descriptive", "persuasive", "expository"],
+          "correct_answer": "persuasive",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 92,
+          "question": "What is wrong with a thesis statement like 'Pollution is bad'?",
+          "options": ["It is too long.", "It is a fact, not an arguable claim.", "It is too specific.", "Nothing is wrong with it."],
+          "correct_answer": "It is a fact, not an arguable claim.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 93,
+          "question": "The conclusion paragraph should move from...",
+          "options": ["general ideas to a specific point", "a specific summary to a broader final thought", "the introduction to the body", "the body to the introduction"],
+          "correct_answer": "a specific summary to a broader final thought",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 94,
+          "question": "What does it mean for an essay to have a 'logical flow'?",
+          "options": ["The ideas are presented in a random order.", "The ideas are connected and progress in a way that makes sense.", "The essay has no paragraphs.", "The essay has many spelling mistakes."],
+          "correct_answer": "The ideas are connected and progress in a way that makes sense.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 95,
+          "question": "In a persuasive essay, what is 'evidence'?",
+          "options": ["Your personal feelings", "Facts, statistics, and examples that support your claim", "The conclusion", "The introduction"],
+          "correct_answer": "Facts, statistics, and examples that support your claim",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 96,
+          "question": "Which of these is a good transition phrase to show contrast?",
+          "options": ["In addition", "For example", "Therefore", "On the other hand"],
+          "correct_answer": "On the other hand",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 97,
+          "question": "Which of these is a good transition phrase to show a result?",
+          "options": ["Similarly", "Next", "As a result", "However"],
+          "correct_answer": "As a result",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 98,
+          "question": "An 'anecdote' is a...",
+          "options": ["statistical fact", "quote from an expert", "short, personal story", "scientific definition"],
+          "correct_answer": "short, personal story",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 99,
+          "question": "An essay with a 'block method' structure is likely a ______ essay.",
+          "options": ["narrative", "descriptive", "compare and contrast", "process"],
+          "correct_answer": "compare and contrast",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 100,
+          "question": "The final sentence of the conclusion should...",
+          "options": ["introduce a new point", "be a question", "leave the reader with a strong final impression", "be the thesis statement"],
+          "correct_answer": "leave the reader with a strong final impression",
+          "grammar_type": "Essay Writing"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the primary function of a counter-argument in a persuasive essay?",
+          "options": ["To weaken your own argument", "To show that you have considered opposing viewpoints and can refute them", "To introduce a new topic", "To fill up space in the essay"],
+          "correct_answer": "To show that you have considered opposing viewpoints and can refute them",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 102,
+          "question": "The term 'diction' in essay writing refers to the...",
+          "options": ["sentence structure", "overall organization", "author's choice of words", "grammatical correctness"],
+          "correct_answer": "author's choice of words",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 103,
+          "question": "The arrangement of words and phrases to create well-formed sentences is known as...",
+          "options": ["Diction", "Syntax", "Tone", "Coherence"],
+          "correct_answer": "Syntax",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 104,
+          "question": "A logical fallacy is a/an...",
+          "options": ["strong piece of evidence", "flaw in reasoning that weakens an argument", "type of essay structure", "good way to persuade the reader"],
+          "correct_answer": "flaw in reasoning that weakens an argument",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 105,
+          "question": "The 'Ad Hominem' fallacy is an error where the writer...",
+          "options": ["attacks the person making the argument instead of the argument itself", "assumes that because one event followed another, the first event caused the second", "uses an emotional appeal instead of a logical one", "exaggerates the opponent's position"],
+          "correct_answer": "attacks the person making the argument instead of the argument itself",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 106,
+          "question": "What is a 'rebuttal' in an argumentative essay?",
+          "options": ["The main claim of the essay", "A piece of evidence", "The response that disproves an opposing argument", "The introduction"],
+          "correct_answer": "The response that disproves an opposing argument",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 107,
+          "question": "What is the primary purpose of a 'call to action' in the conclusion of a persuasive essay?",
+          "options": ["To summarize the main points", "To ask the reader a question", "To urge the reader to do something in response to the argument", "To state the thesis for the first time"],
+          "correct_answer": "To urge the reader to do something in response to the argument",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 108,
+          "question": "A thesis statement that is too broad will result in an essay that is...",
+          "options": ["focused and detailed", "short and concise", "unfocused and superficial", "persuasive and strong"],
+          "correct_answer": "unfocused and superficial",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 109,
+          "question": "The 'Straw Man' fallacy occurs when a writer...",
+          "options": ["misrepresents an opponent's argument to make it easier to attack", "uses a personal story as evidence", "cites a false expert", "repeats their claim over and over"],
+          "correct_answer": "misrepresents an opponent's argument to make it easier to attack",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 110,
+          "question": "Using varied sentence structures in an essay helps to...",
+          "options": ["make the writing more engaging and sophisticated", "make the writing more confusing", "ensure all sentences are the same length", "hide grammatical errors"],
+          "correct_answer": "make the writing more engaging and sophisticated",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 111,
+          "question": "An 'analytical' essay aims to...",
+          "options": ["tell a personal story", "describe a place in detail", "break down a text or an issue into its parts and examine them", "persuade the reader to take action"],
+          "correct_answer": "break down a text or an issue into its parts and examine them",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 112,
+          "question": "What is the key difference between a summary and a paraphrase?",
+          "options": ["A summary is longer than the original; a paraphrase is shorter.", "A summary captures the main points concisely; a paraphrase restates the content in detail but in your own words.", "There is no difference.", "A summary uses quotes; a paraphrase does not."],
+          "correct_answer": "A summary captures the main points concisely; a paraphrase restates the content in detail but in your own words.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 113,
+          "question": "A 'rhetorical question' used as a hook is effective because it...",
+          "options": ["gives the reader the answer immediately", "engages the reader and makes them think about the topic", "is a requirement for all essays", "is a statement of fact"],
+          "correct_answer": "engages the reader and makes them think about the topic",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 114,
+          "question": "The 'point-by-point' method is a structure used in which type of essay?",
+          "options": ["Narrative", "Descriptive", "Compare and Contrast", "Process"],
+          "correct_answer": "Compare and Contrast",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 115,
+          "question": "A thesis-driven essay means that...",
+          "options": ["the thesis is only mentioned in the conclusion", "the entire essay is structured to support and prove the thesis statement", "the essay has no main point", "the essay tells a personal story"],
+          "correct_answer": "the entire essay is structured to support and prove the thesis statement",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 116,
+          "question": "What is the problem with a 'circular reasoning' fallacy?",
+          "options": ["The argument attacks the person.", "The argument assumes the claim is true without providing any real evidence.", "The argument uses an emotional appeal.", "The argument is too logical."],
+          "correct_answer": "The argument assumes the claim is true without providing any real evidence.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 117,
+          "question": "The use of formal academic language is known as...",
+          "options": ["Colloquialism", "Slang", "Jargon", "Academic register"],
+          "correct_answer": "Academic register",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 118,
+          "question": "The concluding paragraph can effectively end by...",
+          "options": ["offering a solution or suggesting future possibilities", "introducing a new argument", "restating the introduction word for word", "ending with a weak statement"],
+          "correct_answer": "offering a solution or suggesting future possibilities",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 119,
+          "question": "A 'concession' in an argumentative essay is when you...",
+          "options": ["ignore the opposing view", "aggressively attack the opposing view", "acknowledge a valid point from the opposing view", "agree completely with the opposing view"],
+          "correct_answer": "acknowledge a valid point from the opposing view",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 120,
+          "question": "What is the primary function of a transition sentence between two body paragraphs?",
+          "options": ["To end the first paragraph", "To start the second paragraph", "To link the idea of the first paragraph to the idea of the second", "To state the thesis statement"],
+          "correct_answer": "To link the idea of the first paragraph to the idea of the second",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 121,
+          "question": "The fallacy of 'False Dichotomy' or 'Either/Or' occurs when...",
+          "options": ["an argument presents only two options when more exist", "an argument is based on emotion", "an argument is too complex", "an argument uses expert opinion"],
+          "correct_answer": "an argument presents only two options when more exist",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 122,
+          "question": "In academic writing, using the first-person ('I believe...') is often discouraged in favor of a more...",
+          "options": ["personal and emotional tone", "objective and impersonal tone", "confusing and vague tone", "story-like tone"],
+          "correct_answer": "objective and impersonal tone",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 123,
+          "question": "What is the purpose of analyzing the essay prompt for keywords?",
+          "options": ["To identify words you don't know", "To understand the specific task and constraints of the assignment", "To find words to use in your essay", "It has no purpose"],
+          "correct_answer": "To understand the specific task and constraints of the assignment",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 124,
+          "question": "A 'synthesis' essay requires the writer to...",
+          "options": ["summarize one source in detail", "combine information from multiple sources to create a new, coherent argument", "only use their personal opinion", "write a personal story"],
+          "correct_answer": "combine information from multiple sources to create a new, coherent argument",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 125,
+          "question": "What is the effect of using sophisticated diction in an essay?",
+          "options": ["It always makes the essay better.", "It can enhance the essay's tone and precision if used correctly.", "It makes the essay harder to read and is always a bad idea.", "It is a form of plagiarism."],
+          "correct_answer": "It can enhance the essay's tone and precision if used correctly.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 126,
+          "question": "The 'Slippery Slope' fallacy argues that...",
+          "options": ["one small action will inevitably lead to a chain of negative events", "an argument is circular", "an expert's opinion is always right", "an idea is good because it is popular"],
+          "correct_answer": "one small action will inevitably lead to a chain of negative events",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 127,
+          "question": "Why is it important to have a clear organizational structure in an essay?",
+          "options": ["It is not important.", "It helps the reader follow the argument logically.", "It allows you to add irrelevant information.", "It makes the essay look visually appealing."],
+          "correct_answer": "It helps the reader follow the argument logically.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 128,
+          "question": "A 'critical' essay does not simply summarize a text, but...",
+          "options": ["agrees with everything in the text", "evaluates and analyzes the text's strengths and weaknesses", "rewrites the text in a better way", "only criticizes the text negatively"],
+          "correct_answer": "evaluates and analyzes the text's strengths and weaknesses",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 129,
+          "question": "Using a 'block quote' is appropriate when...",
+          "options": ["the quote is very short", "you want to paraphrase an idea", "the quote is long (usually more than four lines) and you want it to stand out", "you don't know how to cite"],
+          "correct_answer": "the quote is long (usually more than four lines) and you want it to stand out",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 130,
+          "question": "The 'Bandwagon Appeal' fallacy tries to persuade the reader by arguing that...",
+          "options": ["an idea is true because an expert said so", "an idea is true because it is popular", "an idea is wrong because it is old", "an idea is wrong because it is unpopular"],
+          "correct_answer": "an idea is true because it is popular",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 131,
+          "question": "What is the purpose of a 'literature review' section in a research essay?",
+          "options": ["To review a fictional novel", "To summarize and synthesize existing research on a topic", "To state your own opinion without evidence", "To provide a hook"],
+          "correct_answer": "To summarize and synthesize existing research on a topic",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 132,
+          "question": "Varying the syntax in your writing means you should...",
+          "options": ["use only short, simple sentences", "use only long, complex sentences", "use a mix of different sentence lengths and structures", "never use compound sentences"],
+          "correct_answer": "use a mix of different sentence lengths and structures",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 133,
+          "question": "What does it mean for evidence to be 'credible'?",
+          "options": ["It is from a personal blog.", "It is from a trustworthy and authoritative source.", "It is very old.", "It is based on opinion."],
+          "correct_answer": "It is from a trustworthy and authoritative source.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 134,
+          "question": "The 'Hasty Generalization' fallacy is when a conclusion is drawn from...",
+          "options": ["too much evidence", "a large and representative sample", "insufficient or biased evidence", "expert opinion"],
+          "correct_answer": "insufficient or biased evidence",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 135,
+          "question": "An 'explication' is a type of analytical essay that involves...",
+          "options": ["a broad summary of a long work", "a close reading and detailed analysis of a short passage or poem", "a personal story related to the work", "a comparison of two different works"],
+          "correct_answer": "a close reading and detailed analysis of a short passage or poem",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 136,
+          "question": "A strong concluding sentence of a body paragraph should not just summarize, but also...",
+          "options": ["introduce a new topic", "link back to the thesis statement", "be a question", "contradict the topic sentence"],
+          "correct_answer": "link back to the thesis statement",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 137,
+          "question": "What is the purpose of using an 'analogy' in an essay?",
+          "options": ["To make a simple concept more complex", "To explain a complex or unfamiliar idea by comparing it to a simpler, more familiar one", "To state a proven fact", "To introduce a counter-argument"],
+          "correct_answer": "To explain a complex or unfamiliar idea by comparing it to a simpler, more familiar one",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 138,
+          "question": "What is the primary danger of using abstract language (e.g., 'freedom', 'love') without providing concrete examples?",
+          "options": ["It makes the essay too short.", "The meaning can become vague and unclear to the reader.", "It makes the essay too emotional.", "There is no danger."],
+          "correct_answer": "The meaning can become vague and unclear to the reader.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 139,
+          "question": "The 'Red Herring' fallacy is an attempt to...",
+          "options": ["support an argument with strong evidence", "attack the opponent's character", "distract the audience by introducing an irrelevant topic", "summarize the argument effectively"],
+          "correct_answer": "distract the audience by introducing an irrelevant topic",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 140,
+          "question": "A 'nuanced' argument in an essay is one that...",
+          "options": ["is very simple and one-sided", "recognizes the complexity of an issue and avoids oversimplification", "is full of errors", "is very short"],
+          "correct_answer": "recognizes the complexity of an issue and avoids oversimplification",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 141,
+          "question": "In academic writing, what is the role of the 'abstract'?",
+          "options": ["It is the main body of the essay.", "It is a short summary of the entire paper, including its purpose, methods, results, and conclusion.", "It is the list of sources.", "It is the introduction paragraph."],
+          "correct_answer": "It is a short summary of the entire paper, including its purpose, methods, results, and conclusion.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 142,
+          "question": "What is the 'Appeal to Authority' fallacy?",
+          "options": ["Using a credible and relevant expert to support a claim.", "Claiming something is true because an unqualified or biased person said it is.", "Attacking an authority figure.", "Using logic to support a claim."],
+          "correct_answer": "Claiming something is true because an unqualified or biased person said it is.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 143,
+          "question": "What is the function of a 'topic proposal' in the writing process?",
+          "options": ["It is the final draft of the essay.", "It is a preliminary plan outlining the topic, thesis, and potential sources for an essay.", "It is the works cited page.", "It is a summary of a completed essay."],
+          "correct_answer": "It is a preliminary plan outlining the topic, thesis, and potential sources for an essay.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 144,
+          "question": "The 'Post Hoc Ergo Propter Hoc' fallacy is the error of assuming that...",
+          "options": ["if two things are popular, they must be good", "because one event followed another, the first event caused the second", "an argument is wrong because the person saying it is bad", "an argument is right because many people believe it"],
+          "correct_answer": "because one event followed another, the first event caused the second",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 145,
+          "question": "What does it mean for an essay to have 'voice'?",
+          "options": ["The essay is written in a robotic, impersonal style.", "The essay reflects the writer's unique personality and style.", "The essay is read out loud.", "The essay has many spelling mistakes."],
+          "correct_answer": "The essay reflects the writer's unique personality and style.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 146,
+          "question": "What is the primary purpose of a 'definition' essay?",
+          "options": ["To tell a story", "To provide a detailed and nuanced explanation of a term or concept", "To describe a person", "To argue a point"],
+          "correct_answer": "To provide a detailed and nuanced explanation of a term or concept",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 147,
+          "question": "What is 'parallel structure' in a sentence?",
+          "options": ["Using the same grammatical form for items in a list or series.", "Using only simple sentences.", "Using very long, complex sentences.", "Using incorrect grammar for effect."],
+          "correct_answer": "Using the same grammatical form for items in a list or series.",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 148,
+          "question": "An effective essay conclusion might end with a provocative question, a warning, or...",
+          "options": ["a new thesis statement", "a new piece of evidence", "a look to the future", "an apology for the essay's weaknesses"],
+          "correct_answer": "a look to the future",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 149,
+          "question": "What is the 'pathos' appeal in a persuasive essay?",
+          "options": ["An appeal to logic (logos)", "An appeal to the writer's credibility (ethos)", "An appeal to the reader's emotions", "An appeal to authority"],
+          "correct_answer": "An appeal to the reader's emotions",
+          "grammar_type": "Essay Writing"
+        },
+        {
+          "id": 150,
+          "question": "A 'holistic' approach to revising an essay means...",
+          "options": ["only checking for spelling errors", "looking at the essay as a whole to see if all parts work together effectively", "revising only the conclusion", "revising only the introduction"],
+          "correct_answer": "looking at the essay as a whole to see if all parts work together effectively",
+          "grammar_type": "Essay Writing"
+        }
+      ]
+    }
+  ]
+}
+

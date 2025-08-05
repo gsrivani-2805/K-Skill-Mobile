@@ -5,17 +5,353 @@
       "questions": [
         {
           "id": 1,
-          "question": "Which word is a noun?",
-          "options": ["Run", "Happy", "Book", "Slowly"],
-          "correct_answer": "Book",
-          "grammar_type": "Nouns"
+          "question": "A person who sells vegetables is called a ____.",
+          "options": ["Doctor", "Farmer", "Greengrocer", "Teacher"],
+          "correct_answer": "Greengrocer",
+          "grammar_type": "Buying Vegetables"
         },
         {
           "id": 2,
-          "question": "Choose the correct article: I saw ___ eagle in the sky.",
-          "options": ["A", "An", "The", "No article"],
-          "correct_answer": "An",
-          "grammar_type": "Articles"
+          "question": "Which of these is a green, leafy vegetable?",
+          "options": ["Potato", "Spinach", "Carrot", "Onion"],
+          "correct_answer": "Spinach",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 3,
+          "question": "What do you use to carry vegetables home from the market?",
+          "options": ["A box", "A pocket", "A bag", "A bottle"],
+          "correct_answer": "A bag",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 4,
+          "question": "What colour is a ripe tomato?",
+          "options": ["Green", "Yellow", "Red", "Blue"],
+          "correct_answer": "Red",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 5,
+          "question": "A person who buys vegetables is a ____.",
+          "options": ["Seller", "Customer", "Shop", "Market"],
+          "correct_answer": "Customer",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 6,
+          "question": "To ask for the price, you say: 'How ____ is this?'",
+          "options": ["many", "much", "big", "heavy"],
+          "correct_answer": "much",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 7,
+          "question": "A carrot is an ____ coloured vegetable.",
+          "options": ["Orange", "Purple", "White", "Green"],
+          "correct_answer": "Orange",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 8,
+          "question": "Before eating raw vegetables, you must ____ them.",
+          "options": ["cook", "fry", "wash", "cut"],
+          "correct_answer": "wash",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 9,
+          "question": "A potato is a vegetable that grows ____ the ground.",
+          "options": ["on", "above", "under", "in"],
+          "correct_answer": "under",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 10,
+          "question": "A place with many stalls selling vegetables is a ____.",
+          "options": ["school", "hospital", "market", "park"],
+          "correct_answer": "market",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 11,
+          "question": "Which of these vegetables is white?",
+          "options": ["Brinjal", "Cauliflower", "Cucumber", "Peas"],
+          "correct_answer": "Cauliflower",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 12,
+          "question": "What do you give the seller in exchange for vegetables?",
+          "options": ["More vegetables", "A bag", "Money", "A thank you"],
+          "correct_answer": "Money",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 13,
+          "question": "A 'kilo' is a short word for ____.",
+          "options": ["Kilometre", "Kilogram", "Kilolitre", "A thousand"],
+          "correct_answer": "Kilogram",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 14,
+          "question": "A small, open shop in a market is called a ____.",
+          "options": ["Room", "House", "Stall", "Supermarket"],
+          "correct_answer": "Stall",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 15,
+          "question": "Which of these vegetables is long and green?",
+          "options": ["Radish", "Beetroot", "Cucumber", "Turnip"],
+          "correct_answer": "Cucumber",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 16,
+          "question": "The action of giving money for goods is called ____.",
+          "options": ["selling", "buying", "paying", "taking"],
+          "correct_answer": "paying",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 17,
+          "question": "A ____ is a root vegetable that is usually white.",
+          "options": ["Radish", "Carrot", "Potato", "Onion"],
+          "correct_answer": "Radish",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 18,
+          "question": "What do sellers use to measure the weight of vegetables?",
+          "options": ["A ruler", "A clock", "A weighing scale", "A bag"],
+          "correct_answer": "A weighing scale",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 19,
+          "question": "Which of these vegetables has 'leaves'?",
+          "options": ["Cabbage", "Spinach", "Lettuce", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 20,
+          "question": "What do you call a vegetable that is not old?",
+          "options": ["New", "Fresh", "Good", "Young"],
+          "correct_answer": "Fresh",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 21,
+          "question": "An onion is a vegetable used to add ____ to food.",
+          "options": ["colour", "flavour", "water", "sweetness"],
+          "correct_answer": "flavour",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 22,
+          "question": "A chili pepper is known for its ____ taste.",
+          "options": ["sweet", "sour", "bitter", "spicy"],
+          "correct_answer": "spicy",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 23,
+          "question": "A large, round, orange vegetable often seen during Halloween is a ____.",
+          "options": ["Pumpkin", "Watermelon", "Cabbage", "Melon"],
+          "correct_answer": "Pumpkin",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 24,
+          "question": "What is the list of items you plan to buy called?",
+          "options": ["A price list", "A shopping list", "A menu", "A receipt"],
+          "correct_answer": "A shopping list",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 25,
+          "question": "A lemon has a ____ taste.",
+          "options": ["sweet", "salty", "sour", "bitter"],
+          "correct_answer": "sour",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 26,
+          "question": "The person selling things is the ____.",
+          "options": ["buyer", "customer", "seller", "shopper"],
+          "correct_answer": "seller",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 27,
+          "question": "We use a knife to ____ vegetables.",
+          "options": ["wash", "boil", "cut", "buy"],
+          "correct_answer": "cut",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 28,
+          "question": "Garlic is a small vegetable with a strong ____.",
+          "options": ["colour", "smell", "shape", "taste"],
+          "correct_answer": "smell",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 29,
+          "question": "Where are the vegetables kept at a market stall?",
+          "options": ["In bags", "On display", "In boxes", "Under the table"],
+          "correct_answer": "On display",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 30,
+          "question": "A brinjal is also known as an ____.",
+          "options": ["eggplant", "potato", "cucumber", "onion"],
+          "correct_answer": "eggplant",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 31,
+          "question": "What colour is a brinjal?",
+          "options": ["Red", "Yellow", "Green", "Purple"],
+          "correct_answer": "Purple",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 32,
+          "question": "A ____ of coriander is a small quantity tied together.",
+          "options": ["kilo", "bunch", "piece", "dozen"],
+          "correct_answer": "bunch",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 33,
+          "question": "A small, round, green vegetable that grows in a pod is a ____.",
+          "options": ["Bean", "Pea", "Lentil", "Corn"],
+          "correct_answer": "Pea",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 34,
+          "question": "When you go to the market, you go ____.",
+          "options": ["shopping", "selling", "working", "playing"],
+          "correct_answer": "shopping",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 35,
+          "question": "If something costs 10 rupees, 10 rupees is its ____.",
+          "options": ["weight", "price", "size", "colour"],
+          "correct_answer": "price",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 36,
+          "question": "You can boil, fry, or bake a ____.",
+          "options": ["potato", "tomato", "cucumber", "lettuce"],
+          "correct_answer": "potato",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 37,
+          "question": "A 'lady's finger' is another name for which vegetable?",
+          "options": ["Bean", "Okra", "Gourd", "Cucumber"],
+          "correct_answer": "Okra",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 38,
+          "question": "The money used in India is called ____.",
+          "options": ["Dollars", "Pounds", "Yen", "Rupees"],
+          "correct_answer": "Rupees",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 39,
+          "question": "A ____ is made by mixing many different raw vegetables.",
+          "options": ["curry", "stew", "soup", "salad"],
+          "correct_answer": "salad",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 40,
+          "question": "What is another name for a seller?",
+          "options": ["Vendor", "Customer", "Buyer", "Client"],
+          "correct_answer": "Vendor",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 41,
+          "question": "Ginger is a ____ that you can buy at a vegetable stall.",
+          "options": ["fruit", "leaf", "root", "flower"],
+          "correct_answer": "root",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 42,
+          "question": "The total amount you have to pay is the ____.",
+          "options": ["bill", "list", "change", "note"],
+          "correct_answer": "bill",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 43,
+          "question": "If you pay with a 50 rupee note for a 30 rupee item, you get 20 rupees back as ____.",
+          "options": ["tax", "discount", "change", "profit"],
+          "correct_answer": "change",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 44,
+          "question": "A ____ is a place where you can buy many different things, including vegetables.",
+          "options": ["supermarket", "bakery", "butcher", "clinic"],
+          "correct_answer": "supermarket",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 45,
+          "question": "To choose the best vegetables, you ____ them.",
+          "options": ["ignore", "inspect", "throw", "hide"],
+          "correct_answer": "inspect",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 46,
+          "question": "A small green chili is often very ____.",
+          "options": ["sweet", "hot", "sour", "salty"],
+          "correct_answer": "hot",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 47,
+          "question": "Beetroot is a vegetable with a deep ____ colour.",
+          "options": ["yellow", "green", "red", "orange"],
+          "correct_answer": "red",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 48,
+          "question": "A cabbage has many ____.",
+          "options": ["seeds", "roots", "layers", "thorns"],
+          "correct_answer": "layers",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 49,
+          "question": "You can make juice from ____.",
+          "options": ["potatoes", "onions", "carrots", "cabbage"],
+          "correct_answer": "carrots",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 50,
+          "question": "The goods sold in a market are called ____.",
+          "options": ["produce", "items", "products", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Buying Vegetables"
         }
       ]
     },
@@ -23,18 +359,354 @@
       "level": "Medium",
       "questions": [
         {
-          "id": 1,
-          "question": "She ___ to the market yesterday.",
-          "options": ["go", "goes", "gone", "went"],
-          "correct_answer": "went",
-          "grammar_type": "Tenses (Simple Past)"
+          "id": 51,
+          "question": "What is the process of discussing the price to get a lower one called?",
+          "options": ["Paying", "Demanding", "Bargaining", "Requesting"],
+          "correct_answer": "Bargaining",
+          "grammar_type": "Buying Vegetables"
         },
         {
-          "id": 2,
-          "question": "If you study hard, you ___ pass the exam.",
-          "options": ["would", "will", "can", "may"],
-          "correct_answer": "will",
-          "grammar_type": "Conditional Sentences (Type 1)"
+          "id": 52,
+          "question": "If vegetables are sold by weight, the price is usually per ____.",
+          "options": ["piece", "dozen", "kilo", "bunch"],
+          "correct_answer": "kilo",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 53,
+          "question": "A 'head' of cabbage or lettuce refers to:",
+          "options": ["The top part", "A single leaf", "One whole, complete unit", "A slice"],
+          "correct_answer": "One whole, complete unit",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 54,
+          "question": "What does 'seasonal' vegetables mean?",
+          "options": ["They are available all year", "They only grow and are available at a certain time of the year", "They are imported from other seasons", "They are very expensive"],
+          "correct_answer": "They only grow and are available at a certain time of the year",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 55,
+          "question": "The general term for fresh fruits and vegetables is ____.",
+          "options": ["Groceries", "Produce", "Goods", "Stock"],
+          "correct_answer": "Produce",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 56,
+          "question": "If a vegetable is 'ripe', it is:",
+          "options": ["Not ready to eat", "Rotten", "Ready and perfect to eat", "Too old"],
+          "correct_answer": "Ready and perfect to eat",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 57,
+          "question": "A 'discount' is a ____ in the usual price.",
+          "options": ["reduction", "increase", "tax", "stop"],
+          "correct_answer": "reduction",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 58,
+          "question": "Which of these is a type of 'gourd'?",
+          "options": ["Pumpkin", "Bottle gourd (lauki)", "Bitter gourd (karela)", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 59,
+          "question": "The action of checking the quality of vegetables before buying is called ____.",
+          "options": ["choosing", "selecting", "inspecting", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 60,
+          "question": "If a shop has a 'fixed price', it means you cannot ____.",
+          "options": ["bargain", "pay by card", "buy more than one", "get a bag"],
+          "correct_answer": "bargain",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 61,
+          "question": "A person who sells goods on a cart in the street is a ____.",
+          "options": ["Shopkeeper", "Wholesaler", "Retailer", "Hawker"],
+          "correct_answer": "Hawker",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 62,
+          "question": "'Organic' vegetables are grown without the use of artificial ____.",
+          "options": ["water", "sunlight", "pesticides and chemicals", "soil"],
+          "correct_answer": "pesticides and chemicals",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 63,
+          "question": "A 'clove' of garlic refers to:",
+          "options": ["The whole bulb", "A single segment of the bulb", "The green shoot", "The root"],
+          "correct_answer": "A single segment of the bulb",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 64,
+          "question": "What is a 'wholesaler'?",
+          "options": ["A seller who sells directly to customers", "A seller who sells goods in large quantities to shops", "A customer who buys a lot", "A farmer"],
+          "correct_answer": "A seller who sells goods in large quantities to shops",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 65,
+          "question": "A 'bill' or 'receipt' is proof of ____.",
+          "options": ["bargaining", "purchase", "quality", "freshness"],
+          "correct_answer": "purchase",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 66,
+          "question": "Which of these is considered an 'herb' you might buy at a vegetable stall?",
+          "options": ["Potato", "Tomato", "Mint", "Onion"],
+          "correct_answer": "Mint",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 67,
+          "question": "If a potato has started to sprout, it is ____.",
+          "options": ["very fresh", "getting old", "not a potato", "perfect to eat"],
+          "correct_answer": "getting old",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 68,
+          "question": "A 'retail' market is where goods are sold to ____.",
+          "options": ["other shops", "the final consumer", "farmers", "factories"],
+          "correct_answer": "the final consumer",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 69,
+          "question": "A 'crisp' lettuce or cabbage is ____.",
+          "options": ["soft and wilted", "firm and fresh", "old and yellow", "cooked"],
+          "correct_answer": "firm and fresh",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 70,
+          "question": "The 'produce' section in a supermarket contains ____.",
+          "options": ["milk and cheese", "bread and cakes", "fresh fruits and vegetables", "canned food"],
+          "correct_answer": "fresh fruits and vegetables",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 71,
+          "question": "What is another name for coriander leaves?",
+          "options": ["Mint", "Parsley", "Cilantro", "Basil"],
+          "correct_answer": "Cilantro",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 72,
+          "question": "If a vegetable is 'tender', it is ____.",
+          "options": ["hard and difficult to cut", "soft and easy to chew", "bitter in taste", "not ripe yet"],
+          "correct_answer": "soft and easy to chew",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 73,
+          "question": "The Hindi word for a large wholesale market is ____.",
+          "options": ["Bazaar", "Dukaan", "Mela", "Mandi"],
+          "correct_answer": "Mandi",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 74,
+          "question": "To 'sort' vegetables means to:",
+          "options": ["wash them.", "cut them.", "arrange them into groups.", "weigh them."],
+          "correct_answer": "arrange them into groups.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 75,
+          "question": "What is a 'tuber'?",
+          "options": ["A type of leafy green", "A thick, underground part of a stem, like a potato", "A type of fruit used as a vegetable", "A seed pod"],
+          "correct_answer": "A thick, underground part of a stem, like a potato",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 76,
+          "question": "The phrase 'farm-fresh' implies the vegetables are ____.",
+          "options": ["old", "processed", "very fresh and recently harvested", "expensive"],
+          "correct_answer": "very fresh and recently harvested",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 77,
+          "question": "A 'stallholder' is a person who ____.",
+          "options": ["buys from a stall", "owns or rents a stall", "builds a stall", "cleans a stall"],
+          "correct_answer": "owns or rents a stall",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 78,
+          "question": "Which of these is a 'root' vegetable?",
+          "options": ["Broccoli", "Cauliflower", "Turnip", "Cabbage"],
+          "correct_answer": "Turnip",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 79,
+          "question": "If you are 'short of cash', it means you:",
+          "options": ["have a lot of money", "do not have enough money", "only have coins", "only have big notes"],
+          "correct_answer": "do not have enough money",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 80,
+          "question": "What does a 'bar code' on a product contain?",
+          "options": ["The seller's name", "Information about the product and its price", "The expiry date", "Cooking instructions"],
+          "correct_answer": "Information about the product and its price",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 81,
+          "question": "A 'pod' is a case that holds a vegetable's ____.",
+          "options": ["roots", "leaves", "flowers", "seeds"],
+          "correct_answer": "seeds",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 82,
+          "question": "To ask for a specific quantity, you can say 'Can I have ____ of tomatoes?'",
+          "options": ["a kilo", "two kilos", "half a kilo", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 83,
+          "question": "The money a seller makes after subtracting costs is the ____.",
+          "options": ["Price", "Profit", "Loss", "Change"],
+          "correct_answer": "Profit",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 84,
+          "question": "Which of these is a variety of onion?",
+          "options": ["Spring onion", "Red onion", "White onion", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 85,
+          "question": "The phrase 'freshly picked' means:",
+          "options": ["The vegetables were chosen carefully", "The vegetables were harvested very recently", "The vegetables are clean", "The vegetables are expensive"],
+          "correct_answer": "The vegetables were harvested very recently",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 86,
+          "question": "What does it mean if a vegetable is 'in season'?",
+          "options": ["It is not available", "It is expensive and rare", "It is abundant, fresh, and at its best price", "It has been stored for a long time"],
+          "correct_answer": "It is abundant, fresh, and at its best price",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 87,
+          "question": "A 'cruciferous' vegetable is from the cabbage family. Which of these is one?",
+          "options": ["Potato", "Carrot", "Broccoli", "Tomato"],
+          "correct_answer": "Broccoli",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 88,
+          "question": "To 'haggle' is another word for ____.",
+          "options": ["buying", "selling", "bargaining", "paying"],
+          "correct_answer": "bargaining",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 89,
+          "question": "The stalk of a plant like celery is edible. What about rhubarb?",
+          "options": ["The leaves are eaten", "The stalk is eaten", "The root is eaten", "The flower is eaten"],
+          "correct_answer": "The stalk is eaten",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 90,
+          "question": "A 'baker's dozen' is a special number. How many is it?",
+          "options": ["10", "12", "13", "15"],
+          "correct_answer": "13",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 91,
+          "question": "A 'dented' can of vegetables should be avoided because:",
+          "options": ["It looks ugly", "It might contain harmful bacteria", "It is more expensive", "It is difficult to open"],
+          "correct_answer": "It might contain harmful bacteria",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 92,
+          "question": "If you are a 'regular' at a shop, you are a ____.",
+          "options": ["new customer", "frequent and loyal customer", "shop assistant", "owner"],
+          "correct_answer": "frequent and loyal customer",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 93,
+          "question": "A 'scallion' is another name for a ____.",
+          "options": ["Red onion", "White onion", "Garlic clove", "Spring onion"],
+          "correct_answer": "Spring onion",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 94,
+          "question": "If a shop is 'well-stocked', it means it has ____.",
+          "options": ["very low prices", "a large variety and quantity of goods", "only a few items", "friendly staff"],
+          "correct_answer": "a large variety and quantity of goods",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 95,
+          "question": "What is a 'transaction'?",
+          "options": ["A conversation with the seller", "An instance of buying or selling something", "The act of carrying bags", "The list of items to buy"],
+          "correct_answer": "An instance of buying or selling something",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 96,
+          "question": "'Wilted' lettuce is not fresh because it has lost its ____.",
+          "options": ["colour", "flavour", "crispness", "smell"],
+          "correct_answer": "crispness",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 97,
+          "question": "A 'perennial' vegetable is one that...",
+          "options": ["lives for only one year.", "lives for two years.", "lives for more than two years.", "grows only in winter."],
+          "correct_answer": "lives for more than two years.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 98,
+          "question": "The 'shelf life' of a vegetable is the length of time it...",
+          "options": ["takes to grow.", "can be stored before it becomes unfit for sale.", "is on display in the shop.", "takes to cook."],
+          "correct_answer": "can be stored before it becomes unfit for sale.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 99,
+          "question": "To 'blanch' vegetables means to:",
+          "options": ["fry them quickly in oil.", "boil them for a very long time.", "scald them in boiling water briefly, then plunge into cold water.", "roast them in an oven."],
+          "correct_answer": "scald them in boiling water briefly, then plunge into cold water.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 100,
+          "question": "A 'flea market' is a type of street market that sells ____.",
+          "options": ["only fresh vegetables", "only new, branded goods", "second-hand goods and antiques", "only pets"],
+          "correct_answer": "second-hand goods and antiques",
+          "grammar_type": "Buying Vegetables"
         }
       ]
     },
@@ -42,23 +714,284 @@
       "level": "Hard",
       "questions": [
         {
-          "id": 1,
-          "question": "The letter was written by the clerk. Change the voice.",
-          "options": [
-            "The clerk was writing the letter.",
-            "The clerk writes the letter.",
-            "The clerk wrote the letter.",
-            "The clerk has written the letter."
-          ],
-          "correct_answer": "The clerk wrote the letter.",
-          "grammar_type": "Active/Passive Voice"
+          "id": 101,
+          "question": "The idiom 'to be in a pickle' means to be in a ____.",
+          "options": ["vegetable shop", "difficult situation", "jar of pickles", "happy mood"],
+          "correct_answer": "difficult situation",
+          "grammar_type": "Buying Vegetables"
         },
         {
-          "id": 2,
-          "question": "Identify the error: The committee were divided in its opinion.",
-          "options": ["The committee", "were divided", "in", "its opinion"],
-          "correct_answer": "its opinion",
-          "grammar_type": "Error Spotting (Pronoun Agreement)"
+          "id": 102,
+          "question": "What is the difference between 'wholesale' and 'retail'?",
+          "options": ["Wholesale is selling in small quantities; retail is selling in large quantities.", "Wholesale is selling to other businesses; retail is selling to the public.", "Wholesale is more expensive per item than retail.", "There is no difference."],
+          "correct_answer": "Wholesale is selling to other businesses; retail is selling to the public.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 103,
+          "question": "If a vegetable is 'blemished', it has ____.",
+          "options": ["a perfect appearance", "a sweet taste", "marks or flaws on its surface", "been washed"],
+          "correct_answer": "marks or flaws on its surface",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 104,
+          "question": "A 'barter' system in a market involves exchanging goods for ____.",
+          "options": ["money", "credit", "other goods", "a promise"],
+          "correct_answer": "other goods",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 105,
+          "question": "The term 'heirloom' vegetable refers to a variety that is...",
+          "options": ["genetically modified.", "very new and modern.", "old and has been passed down through generations.", "grown in a greenhouse."],
+          "correct_answer": "old and has been passed down through generations.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 106,
+          "question": "A 'glut' of tomatoes in the market means there is ____.",
+          "options": ["a shortage of tomatoes", "an excessive supply of tomatoes", "a new type of tomato", "very expensive tomatoes"],
+          "correct_answer": "an excessive supply of tomatoes",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 107,
+          "question": "To be sold 'under the counter' means something is sold ____.",
+          "options": ["at a discount", "in a legal and open way", "secretly and often illegally", "on the bottom shelf"],
+          "correct_answer": "secretly and often illegally",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 108,
+          "question": "The 'provenance' of a vegetable refers to its ____.",
+          "options": ["price", "weight", "place of origin", "nutritional value"],
+          "correct_answer": "place of origin",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 109,
+          "question": "If a shopkeeper gives you 'short shrift', they treat you...",
+          "options": ["with great respect.", "with abrupt and unsympathetic dismissal.", "very kindly and patiently.", "like a regular customer."],
+          "correct_answer": "with abrupt and unsympathetic dismissal.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 110,
+          "question": "An 'artichoke heart' is the ____ part of the vegetable.",
+          "options": ["leafy outer part", "thorny top", "tender, edible inner portion", "stem"],
+          "correct_answer": "tender, edible inner portion",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 111,
+          "question": "The idiom 'to compare apples and oranges' means to:",
+          "options": ["compare two very similar things.", "compare two things that are fundamentally different.", "buy two types of fruit.", "make a fruit salad."],
+          "correct_answer": "compare two things that are fundamentally different.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 112,
+          "question": "A 'consortium' of farmers is a/an ____.",
+          "options": ["type of farm", "single family of farmers", "association of several farmers for a combined venture", "market run by one farmer"],
+          "correct_answer": "association of several farmers for a combined venture.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 113,
+          "question": "What is a 'CSA' (Community Supported Agriculture) program?",
+          "options": ["A government-run vegetable shop.", "A system where consumers buy 'shares' in a farm's produce.", "A type of organic fertilizer.", "A global market for vegetables."],
+          "correct_answer": "A system where consumers buy 'shares' in a farm's produce.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 114,
+          "question": "If a vegetable is 'blanched', it has been...",
+          "options": ["fully cooked.", "scalded in boiling water for a short time.", "roasted in an oven.", "marinated in spices."],
+          "correct_answer": "scalded in boiling water for a short time.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 115,
+          "question": "The 'nightshade' family of vegetables includes:",
+          "options": ["Carrots, Radishes, and Beets", "Lettuce, Spinach, and Cabbage", "Tomatoes, Potatoes, and Brinjals", "Peas, Beans, and Lentils"],
+          "correct_answer": "Tomatoes, Potatoes, and Brinjals",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 116,
+          "question": "What does the idiom 'to upset the apple cart' mean?",
+          "options": ["To buy a lot of apples", "To spoil a careful plan", "To sell apples at a market", "To drop a cart full of apples"],
+          "correct_answer": "To spoil a careful plan",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 117,
+          "question": "A 'fungible' commodity is one whose individual units are ____.",
+          "options": ["unique and different", "essentially interchangeable", "very expensive", "perishable"],
+          "correct_answer": "essentially interchangeable",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 118,
+          "question": "A 'mercantile' system is related to ____.",
+          "options": ["farming", "trade and commerce", "cooking", "transport"],
+          "correct_answer": "trade and commerce",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 119,
+          "question": "What are 'staple' foods?",
+          "options": ["Foods that are eaten rarely on special occasions.", "Foods that are eaten routinely and form the main part of a diet.", "Foods that are very spicy.", "Foods that are imported."],
+          "correct_answer": "Foods that are eaten routinely and form the main part of a diet.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 120,
+          "question": "The term 'post-harvest' refers to the stage of crop production immediately following ____.",
+          "options": ["planting", "watering", "growing", "harvesting"],
+          "correct_answer": "harvesting",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 121,
+          "question": "If a price is 'nominal', it is ____.",
+          "options": ["very high", "very low or existing in name only", "negotiable", "fixed"],
+          "correct_answer": "very low or existing in name only",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 122,
+          "question": "A 'cornucopia' is a symbol of plenty, consisting of a goat's horn overflowing with ____.",
+          "options": ["money", "flowers, fruit, and vegetables", "water", "books"],
+          "correct_answer": "flowers, fruit, and vegetables",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 123,
+          "question": "To 'corner the market' means to:",
+          "options": ["open a shop at a street corner.", "get enough control of a product to be able to fix its price.", "sell goods only in one corner of the market.", "fail in a business."],
+          "correct_answer": "get enough control of a product to be able to fix its price.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 124,
+          "question": "The word 'cull' in farming means to:",
+          "options": ["plant seeds.", "water the crops.", "selectively remove inferior plants or produce.", "harvest the entire crop."],
+          "correct_answer": "selectively remove inferior plants or produce.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 125,
+          "question": "An 'itinerant' vendor is one who ____.",
+          "options": ["has a permanent shop", "sells only one product", "travels from place to place", "is very famous"],
+          "correct_answer": "travels from place to place",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 126,
+          "question": "If a vegetable has a 'pungent' smell, it is ____.",
+          "options": ["sweet", "mild", "having a sharply strong taste or smell", "rotten"],
+          "correct_answer": "having a sharply strong taste or smell",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 127,
+          "question": "'Hydroponics' is a method of growing plants without ____.",
+          "options": ["sunlight", "water", "soil", "air"],
+          "correct_answer": "soil",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 128,
+          "question": "What is 'zoning' in the context of a city market?",
+          "options": ["Setting the prices for different zones", "Laws that divide a city into areas for different types of use", "A way to weigh vegetables", "A type of discount"],
+          "correct_answer": "Laws that divide a city into areas for different types of use",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 129,
+          "question": "A 'cartel' of sellers is a group that agrees to...",
+          "options": ["lower prices to help customers.", "work together to control prices and limit competition.", "sell different products in the same shop.", "provide the best quality goods."],
+          "correct_answer": "work together to control prices and limit competition.",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 130,
+          "question": "The 'bulb' of a plant like an onion or garlic is its ____.",
+          "options": ["flower", "underground storage organ", "seed pod", "leafy top"],
+          "correct_answer": "underground storage organ",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 131,
+          "question": "A 'cooper' is a person who makes or repairs ____.",
+          "options": ["vegetable carts", "shopping bags", "wooden barrels and casks", "weighing scales"],
+          "correct_answer": "wooden barrels and casks",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 132,
+          "question": "What does 'subsistence farming' mean?",
+          "options": ["Farming for huge profits", "Farming where crops are grown mainly to feed the farmer's family", "Farming using modern technology", "Farming only one type of crop"],
+          "correct_answer": "Farming where crops are grown mainly to feed the farmer's family",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 133,
+          "question": "The term 'cash crop' refers to a crop grown for ____.",
+          "options": ["feeding the family", "sale to return a profit", "its beauty", "scientific research"],
+          "correct_answer": "sale to return a profit",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 134,
+          "question": "If a vegetable is 'turgid', it is ____.",
+          "options": ["wilted and soft", "swollen and firm with water", "rotten and smelly", "very small"],
+          "correct_answer": "swollen and firm with water",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 135,
+          "question": "What is 'monoculture' in farming?",
+          "options": ["Growing many different crops together", "Growing only a single crop in an area", "A type of organic farming", "A community of farmers"],
+          "correct_answer": "Growing only a single crop in an area",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 136,
+          "question": "An 'emissary' sent to a market might be there to ____.",
+          "options": ["buy groceries for their family", "sell their own produce", "act as a representative for a larger buyer", "inspect the market for cleanliness"],
+          "correct_answer": "act as a representative for a larger buyer",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 137,
+          "question": "The 'rhizome' of a plant like ginger or turmeric is its ____.",
+          "options": ["flower", "leaf", "fruit", "underground plant stem"],
+          "correct_answer": "underground plant stem",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 138,
+          "question": "A 'regatta' is a sporting event consisting of boat races. What is a 'gymkhana' in a village context?",
+          "options": ["A place for gymnastics", "A public place where skills competitions are held", "A type of market", "A farmers' meeting"],
+          "correct_answer": "A public place where skills competitions are held",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 139,
+          "question": "If a market has a 'dearth' of a certain vegetable, there is a ____.",
+          "options": ["large surplus", "fixed price", "scarcity or lack", "high quality"],
+          "correct_answer": "scarcity or lack",
+          "grammar_type": "Buying Vegetables"
+        },
+        {
+          "id": 140,
+          "question": "To 'garnish' a dish means to ____.",
+          "options": ["overcook it", "eat it quickly", "decorate it, often with herbs", "serve it cold"],
+          "correct_answer": "decorate it, often with herbs",
+          "grammar_type": "Buying Vegetables"
         }
       ]
     }

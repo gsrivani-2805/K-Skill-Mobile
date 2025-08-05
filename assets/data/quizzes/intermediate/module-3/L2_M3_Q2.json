@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "What does a weather report primarily tell us about?",
+          "options": ["The price of vegetables", "The daily weather conditions", "The school timings", "The future of the country"],
+          "correct_answer": "The daily weather conditions",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 2,
+          "question": "If the weather report says 'sunny', what will you see in the sky?",
+          "options": ["The Moon", "The Sun", "Heavy clouds", "Rainbow"],
+          "correct_answer": "The Sun",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 3,
+          "question": "What instrument is used to measure how hot or cold it is?",
+          "options": ["Thermometer", "Speedometer", "Telescope", "Barometer"],
+          "correct_answer": "Thermometer",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 4,
+          "question": "A picture of a cloud with raindrops in a forecast means there will be...",
+          "options": ["Sun", "Wind", "Rain", "Fog"],
+          "correct_answer": "Rain",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 5,
+          "question": "What should you take with you if the weather report predicts rain?",
+          "options": ["An umbrella", "Sunglasses", "A kite", "A cap"],
+          "correct_answer": "An umbrella",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 6,
+          "question": "A 'windy' day means...",
+          "options": ["The air is still", "The air is moving fast", "It is very hot", "It is snowing"],
+          "correct_answer": "The air is moving fast",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 7,
+          "question": "Temperature tells us how ___ or ___ the air is.",
+          "options": ["hot or cold", "wet or dry", "high or low", "dark or light"],
+          "correct_answer": "hot or cold",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 8,
+          "question": "What does a cloud symbol mean in a weather report?",
+          "options": ["It will be sunny.", "It will be cloudy.", "It will be very windy.", "There will be a storm."],
+          "correct_answer": "It will be cloudy.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 9,
+          "question": "What kind of clothes do you wear on a very cold day?",
+          "options": ["Cotton clothes", "Raincoat", "Woolen clothes", "Shorts"],
+          "correct_answer": "Woolen clothes",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 10,
+          "question": "A picture of a lightning bolt in a forecast is a warning for a...",
+          "options": ["Sunny day", "Calm day", "Thunderstorm", "Foggy day"],
+          "correct_answer": "Thunderstorm",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 11,
+          "question": "What is the main source of heat and light for the Earth?",
+          "options": ["The Moon", "The Stars", "The Sun", "The Clouds"],
+          "correct_answer": "The Sun",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 12,
+          "question": "If the weather report says 'hot and sunny', what is a good activity?",
+          "options": ["Playing in the snow", "Drinking hot soup", "Going for a swim", "Wearing a sweater"],
+          "correct_answer": "Going for a swim",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 13,
+          "question": "What are clouds made of?",
+          "options": ["Smoke", "Tiny water droplets or ice crystals", "Cotton", "Dust"],
+          "correct_answer": "Tiny water droplets or ice crystals",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 14,
+          "question": "A 'forecast' is a prediction of...",
+          "options": ["Past events", "Future weather", "The news", "Cricket scores"],
+          "correct_answer": "Future weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 15,
+          "question": "In India, the rainy season is called the...",
+          "options": ["Summer", "Winter", "Monsoon", "Autumn"],
+          "correct_answer": "Monsoon",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 16,
+          "question": "What falls from the clouds during winter in very cold places like the Himalayas?",
+          "options": ["Rain", "Sunlight", "Snow", "Sand"],
+          "correct_answer": "Snow",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 17,
+          "question": "What is the term for the condition of the atmosphere at a particular time and place?",
+          "options": ["Climate", "Weather", "Season", "Temperature"],
+          "correct_answer": "Weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 18,
+          "question": "If the temperature is 40°C, the weather is considered...",
+          "options": ["Very cold", "Cool", "Very hot", "Freezing"],
+          "correct_answer": "Very hot",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 19,
+          "question": "A strong and violent wind is called a...",
+          "options": ["Breeze", "Storm", "Cloud", "Sunbeam"],
+          "correct_answer": "Storm",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 20,
+          "question": "A 'partly cloudy' day means there will be...",
+          "options": ["Sun and clouds", "Heavy rain", "Only sun", "Only clouds"],
+          "correct_answer": "Sun and clouds",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 21,
+          "question": "Who studies the weather and makes forecasts?",
+          "options": ["A doctor", "A teacher", "A meteorologist", "A pilot"],
+          "correct_answer": "A meteorologist",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 22,
+          "question": "What do we call a gentle wind?",
+          "options": ["A storm", "A hurricane", "A breeze", "A cyclone"],
+          "correct_answer": "A breeze",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 23,
+          "question": "If the weather is 'clear', it means there are no...",
+          "options": ["People", "Houses", "Clouds", "Trees"],
+          "correct_answer": "Clouds",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 24,
+          "question": "What should you wear to protect your eyes on a very sunny day?",
+          "options": ["A scarf", "Sunglasses", "Gloves", "A raincoat"],
+          "correct_answer": "Sunglasses",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 25,
+          "question": "Where can you find the daily weather report?",
+          "options": ["In a storybook", "In a newspaper or on a news channel", "In a history book", "In a comic book"],
+          "correct_answer": "In a newspaper or on a news channel",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 26,
+          "question": "If the temperature is 5°C, it is a ___ day.",
+          "options": ["Hot", "Warm", "Cold", "Sunny"],
+          "correct_answer": "Cold",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 27,
+          "question": "What is a 'heatwave'?",
+          "options": ["A period of very cold weather", "A period of unusually hot weather", "A period of heavy rain", "A period of strong winds"],
+          "correct_answer": "A period of unusually hot weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 28,
+          "question": "What do you see in the sky after it rains and the sun comes out?",
+          "options": ["A lightning bolt", "A rainbow", "The moon", "A tornado"],
+          "correct_answer": "A rainbow",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 29,
+          "question": "A 'weather map' shows...",
+          "options": ["Roads and rivers", "Weather conditions over a large area", "The location of schools", "The population of a city"],
+          "correct_answer": "Weather conditions over a large area",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 30,
+          "question": "What sound do you hear during a thunderstorm?",
+          "options": ["Chirping of birds", "Thunder", "Soft music", "Whispering"],
+          "correct_answer": "Thunder",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 31,
+          "question": "When the ground is covered in a thick white layer of ice crystals on a cold morning, it is called...",
+          "options": ["Rain", "Frost", "Mud", "Sand"],
+          "correct_answer": "Frost",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 32,
+          "question": "What happens to water in ponds when it gets very hot?",
+          "options": ["It freezes", "It evaporates", "It turns to mud", "Nothing happens"],
+          "correct_answer": "It evaporates",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 33,
+          "question": "Which season in India is known for cool and pleasant weather?",
+          "options": ["Summer", "Monsoon", "Autumn (Sharad)", "Pre-winter"],
+          "correct_answer": "Autumn (Sharad)",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 34,
+          "question": "What kind of weather is best for flying a kite?",
+          "options": ["A calm day", "A rainy day", "A breezy or windy day", "A stormy day"],
+          "correct_answer": "A breezy or windy day",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 35,
+          "question": "The weather report says 'Max Temp: 32°C, Min Temp: 24°C'. What is the maximum temperature?",
+          "options": ["24°C", "32°C", "8°C", "56°C"],
+          "correct_answer": "32°C",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 36,
+          "question": "Foggy weather makes it difficult to...",
+          "options": ["Hear", "Smell", "Breathe", "See"],
+          "correct_answer": "See",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 37,
+          "question": "In which season do trees often shed their leaves?",
+          "options": ["Spring", "Summer", "Monsoon", "Autumn"],
+          "correct_answer": "Autumn",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 38,
+          "question": "Why is it important to know the weather forecast?",
+          "options": ["It is not important.", "To help us plan our day and dress appropriately.", "To decide what to eat.", "To choose a movie to watch."],
+          "correct_answer": "To help us plan our day and dress appropriately.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 39,
+          "question": "The air feels sticky and wet on a ___ day.",
+          "options": ["Dry", "Humid", "Cold", "Windy"],
+          "correct_answer": "Humid",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 40,
+          "question": "What do you call small balls of ice that fall from the sky?",
+          "options": ["Raindrops", "Snowflakes", "Hailstones", "Pebbles"],
+          "correct_answer": "Hailstones",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 41,
+          "question": "Which of these is a natural source of water?",
+          "options": ["A tap", "A water bottle", "Rain", "A water tank"],
+          "correct_answer": "Rain",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 42,
+          "question": "Which of these is NOT a type of weather?",
+          "options": ["Sunny", "Rainy", "Happy", "Cloudy"],
+          "correct_answer": "Happy",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 43,
+          "question": "A 'weather warning' is issued for...",
+          "options": ["Pleasant weather", "Normal weather", "Dangerous or extreme weather", "All types of weather"],
+          "correct_answer": "Dangerous or extreme weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 44,
+          "question": "A dry day has very little...",
+          "options": ["Sun", "Wind", "Moisture or humidity", "Heat"],
+          "correct_answer": "Moisture or humidity",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 45,
+          "question": "What happens to the temperature when the sun sets?",
+          "options": ["It increases", "It stays the same", "It decreases", "It becomes zero"],
+          "correct_answer": "It decreases",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 46,
+          "question": "A weather report helps farmers to...",
+          "options": ["Decide when to water their crops", "Choose what songs to sing", "Decide the color of their house", "Plan a vacation"],
+          "correct_answer": "Decide when to water their crops",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 47,
+          "question": "What is a 'drought'?",
+          "options": ["A period of heavy rain", "A long period with little or no rain", "A type of storm", "A cold winter day"],
+          "correct_answer": "A long period with little or no rain",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 48,
+          "question": "What is the opposite of a 'hot' day?",
+          "options": ["A 'warm' day", "A 'sunny' day", "A 'cold' day", "A 'bright' day"],
+          "correct_answer": "A 'cold' day",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 49,
+          "question": "Which symbol represents a windy day?",
+          "options": ["A sun", "A raindrop", "A curved line with a circle", "A snowflake"],
+          "correct_answer": "A curved line with a circle",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 50,
+          "question": "What is a 'flood'?",
+          "options": ["When there is no water", "When there is an overflow of a large amount of water", "When it is very windy", "When it is very hot"],
+          "correct_answer": "When there is an overflow of a large amount of water",
+          "grammar_type": "Weather Reports"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "What is 'precipitation' in a weather report?",
+          "options": ["The speed of the wind", "Any form of water like rain, snow, or hail that falls from the clouds", "The amount of sunshine", "The air pressure"],
+          "correct_answer": "Any form of water like rain, snow, or hail that falls from the clouds",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 52,
+          "question": "What does 'humidity' measure?",
+          "options": ["How fast the wind is blowing", "The amount of water vapor or moisture in the air", "The temperature of the air", "How much it has rained"],
+          "correct_answer": "The amount of water vapor or moisture in the air",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 53,
+          "question": "If a forecast says there is a '70% chance of rain', what does it mean?",
+          "options": ["It will definitely rain.", "It will definitely not rain.", "There is a high probability that it will rain.", "It will rain for 70% of the day."],
+          "correct_answer": "There is a high probability that it will rain.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 54,
+          "question": "What instrument is used to measure wind speed?",
+          "options": ["Thermometer", "Barometer", "Anemometer", "Hygrometer"],
+          "correct_answer": "Anemometer",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 55,
+          "question": "What is the difference between 'fog' and 'mist'?",
+          "options": ["There is no difference.", "Fog is much thicker and reduces visibility more than mist.", "Mist is thicker than fog.", "Fog happens at night, mist during the day."],
+          "correct_answer": "Fog is much thicker and reduces visibility more than mist.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 56,
+          "question": "Wind speed is often measured in which units?",
+          "options": ["Degrees Celsius (°C)", "Millimeters (mm)", "Kilometers per hour (km/h)", "Percentage (%)"],
+          "correct_answer": "Kilometers per hour (km/h)",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 57,
+          "question": "A 'gale' is a very strong...",
+          "options": ["Rainfall", "Sunshine", "Wind", "Snowfall"],
+          "correct_answer": "Wind",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 58,
+          "question": "The symbol 'L' on a weather map usually indicates an area of...",
+          "options": ["Low temperature", "Light rain", "Low atmospheric pressure", "Low humidity"],
+          "correct_answer": "Low atmospheric pressure",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 59,
+          "question": "A 'heavy rainfall warning' advises people to do what?",
+          "options": ["Go for a picnic", "Stay alert and avoid waterlogged areas", "Fly kites", "Wash their cars"],
+          "correct_answer": "Stay alert and avoid waterlogged areas",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 60,
+          "question": "What is light, continuous rain called?",
+          "options": ["A downpour", "A drizzle", "A hailstorm", "A thunderstorm"],
+          "correct_answer": "A drizzle",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 61,
+          "question": "What causes wind?",
+          "options": ["Trees moving", "The Earth's rotation only", "Differences in air pressure", "The sound of airplanes"],
+          "correct_answer": "Differences in air pressure",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 62,
+          "question": "What does 'visibility' in a weather report mean?",
+          "options": ["How popular a place is", "How clearly you can hear", "The distance you can see ahead", "The brightness of the sun"],
+          "correct_answer": "The distance you can see ahead",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 63,
+          "question": "The 'monsoon' winds in India typically blow from which direction?",
+          "options": ["From the land to the sea", "From the sea to the land", "They do not blow", "From north to south only"],
+          "correct_answer": "From the sea to the land",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 64,
+          "question": "What is an 'overcast' sky?",
+          "options": ["A sky with no clouds", "A sky completely covered with a layer of clouds", "A sky with a few white clouds", "A sky at night"],
+          "correct_answer": "A sky completely covered with a layer of clouds",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 65,
+          "question": "Why is it dangerous to stand under a tree during a thunderstorm?",
+          "options": ["The tree might fall on you.", "Lightning is more likely to strike tall objects like trees.", "The tree will block the rain.", "It is not dangerous at all."],
+          "correct_answer": "Lightning is more likely to strike tall objects like trees.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 66,
+          "question": "What is measured in millimeters (mm) in a weather report?",
+          "options": ["Temperature", "Wind speed", "Amount of rainfall", "Air pressure"],
+          "correct_answer": "Amount of rainfall",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 67,
+          "question": "A weather report stating 'northerly winds' means the wind is coming from the...",
+          "options": ["South", "East", "West", "North"],
+          "correct_answer": "North",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 68,
+          "question": "What does a 'cyclone warning' indicate?",
+          "options": ["A period of calm weather", "The arrival of a powerful, rotating storm with strong winds and heavy rain", "A minor shower", "The start of winter"],
+          "correct_answer": "The arrival of a powerful, rotating storm with strong winds and heavy rain",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 69,
+          "question": "The 'dew point' is the temperature at which...",
+          "options": ["Water boils", "Air becomes saturated with water vapor and dew forms", "It starts snowing", "The sun is at its highest point"],
+          "correct_answer": "Air becomes saturated with water vapor and dew forms",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 70,
+          "question": "Weather satellites are used to...",
+          "options": ["Control the weather", "Monitor clouds and storm systems from space", "Measure temperature on the ground", "Measure wind speed underground"],
+          "correct_answer": "Monitor clouds and storm systems from space",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 71,
+          "question": "What is a 'cold wave'?",
+          "options": ["A period of unusually hot weather", "A period of unusually cold weather", "A type of sea wave", "A popular song"],
+          "correct_answer": "A period of unusually cold weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 72,
+          "question": "How do weather reports help fishermen?",
+          "options": ["They help them decide what fish to catch.", "They warn them about storms and rough seas.", "They do not help fishermen.", "They tell them the price of fish."],
+          "correct_answer": "They warn them about storms and rough seas.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 73,
+          "question": "A 'gust of wind' is a...",
+          "options": ["Continuous, gentle breeze", "Sudden, strong rush of wind", "Warm wind", "Wind that blows all day"],
+          "correct_answer": "Sudden, strong rush of wind",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 74,
+          "question": "What is the 'UV Index'?",
+          "options": ["A measure of the strength of the sun's ultraviolet rays", "A measure of rainfall", "A measure of humidity", "A measure of wind speed"],
+          "correct_answer": "A measure of the strength of the sun's ultraviolet rays",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 75,
+          "question": "If the weather is 'muggy', it means it is...",
+          "options": ["Cold and dry", "Pleasantly cool", "Warm and very humid", "Windy and cold"],
+          "correct_answer": "Warm and very humid",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 76,
+          "question": "What is atmospheric pressure?",
+          "options": ["The pressure to do well in exams", "The weight of the atmosphere pressing down on the Earth", "The temperature of the air", "The amount of rain"],
+          "correct_answer": "The weight of the atmosphere pressing down on the Earth",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 77,
+          "question": "A 'squall' is a sudden, localized storm with strong winds and often...",
+          "options": ["Bright sunshine", "Heavy rain or snow", "Calm weather", "High temperatures"],
+          "correct_answer": "Heavy rain or snow",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 78,
+          "question": "What is a 'rain gauge' used to measure?",
+          "options": ["The speed of rain", "The temperature of rain", "The amount of rainfall", "The color of rain"],
+          "correct_answer": "The amount of rainfall",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 79,
+          "question": "The term 'fair weather' generally means...",
+          "options": ["Stormy and rainy", "Pleasant, with not much cloud or rain", "Very hot", "Very cold and windy"],
+          "correct_answer": "Pleasant, with not much cloud or rain",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 80,
+          "question": "'Scattered thunderstorms' means that storms will...",
+          "options": ["Occur everywhere at the same time", "Be widespread and continuous", "Occur in some areas but not others", "Not happen at all"],
+          "correct_answer": "Occur in some areas but not others",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 81,
+          "question": "Why does it feel cooler after a spell of rain on a hot day?",
+          "options": ["Because the rain is black.", "Because the sun gets angry.", "Because of evaporation of rainwater, which has a cooling effect.", "Because the rain washes the heat away."],
+          "correct_answer": "Because of evaporation of rainwater, which has a cooling effect.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 82,
+          "question": "What is the difference between a 'weather warning' and a 'weather watch'?",
+          "options": ["They are the same.", "A 'watch' means conditions are favorable for a storm; a 'warning' means a storm is happening or will happen soon.", "A 'warning' is for good weather.", "A 'watch' means a storm is happening now."],
+          "correct_answer": "A 'watch' means conditions are favorable for a storm; a 'warning' means a storm is happening or will happen soon.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 83,
+          "question": "The term 'wind chill' refers to...",
+          "options": ["The actual air temperature", "How cold it feels because of the wind", "The warmth of the wind", "The direction of the wind"],
+          "correct_answer": "How cold it feels because of the wind",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 84,
+          "question": "In which layer of the atmosphere does most weather occur?",
+          "options": ["Stratosphere", "Mesosphere", "Thermosphere", "Troposphere"],
+          "correct_answer": "Troposphere",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 85,
+          "question": "What are 'isobars' on a weather map?",
+          "options": ["Lines connecting points of equal temperature", "Lines connecting points of equal rainfall", "Lines connecting points of equal atmospheric pressure", "Lines showing wind direction"],
+          "correct_answer": "Lines connecting points of equal atmospheric pressure",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 86,
+          "question": "What is 'acid rain'?",
+          "options": ["Rain that tastes sweet", "Rain that is more acidic than normal due to pollution", "Rain that is good for crops", "Rain that occurs at night"],
+          "correct_answer": "Rain that is more acidic than normal due to pollution",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 87,
+          "question": "What does it mean if the 'pollen count' is high?",
+          "options": ["It will rain heavily.", "It is good for people with allergies.", "There is a lot of pollen in the air, which can cause allergies.", "The weather will be very cold."],
+          "correct_answer": "There is a lot of pollen in the air, which can cause allergies.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 88,
+          "question": "What is a 'land breeze'?",
+          "options": ["A wind that blows from the sea to the land", "A wind that blows from the land to the sea, often at night", "A very strong storm", "There is no such thing."],
+          "correct_answer": "A wind that blows from the land to the sea, often at night",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 89,
+          "question": "If the forecast is for 'freezing rain', the rain will...",
+          "options": ["Be warm", "Evaporate before it hits the ground", "Freeze upon contact with cold surfaces", "Be very colorful"],
+          "correct_answer": "Freeze upon contact with cold surfaces",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 90,
+          "question": "High-pressure systems are generally associated with what kind of weather?",
+          "options": ["Stormy and rainy", "Clear skies and calm conditions", "Heavy snowfall", "Very windy conditions"],
+          "correct_answer": "Clear skies and calm conditions",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 91,
+          "question": "A 'blizzard' is a severe storm with...",
+          "options": ["Heavy rain and warm winds", "Low visibility, strong winds, and a lot of falling or blowing snow", "Thunder and lightning", "Hail and sunshine"],
+          "correct_answer": "Low visibility, strong winds, and a lot of falling or blowing snow",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 92,
+          "question": "What is a 'Doppler radar' used for in weather forecasting?",
+          "options": ["Measuring temperature", "Tracking the location and intensity of precipitation and wind", "Measuring air pressure", "Taking pictures of clouds"],
+          "correct_answer": "Tracking the location and intensity of precipitation and wind",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 93,
+          "question": "The 'equinox' is a time when...",
+          "options": ["Day and night are of approximately equal length", "The day is longest", "The night is longest", "The weather is always stormy"],
+          "correct_answer": "Day and night are of approximately equal length",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 94,
+          "question": "Why is it important for pilots to check weather reports before flying?",
+          "options": ["It is not important.", "To avoid storms, turbulence, and other hazardous weather.", "To decide what color plane to fly.", "To know the temperature inside the plane."],
+          "correct_answer": "To avoid storms, turbulence, and other hazardous weather.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 95,
+          "question": "What is a 'temperature inversion'?",
+          "options": ["A normal condition where air gets colder with height", "An unusual condition where air gets warmer with height, which can trap pollution", "When the temperature is zero", "When the temperature changes very quickly"],
+          "correct_answer": "An unusual condition where air gets warmer with height, which can trap pollution",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 96,
+          "question": "The term 'barometric pressure is falling' often indicates...",
+          "options": ["Improving weather and clear skies", "Approaching bad weather, like a storm", "No change in the weather", "Hotter weather"],
+          "correct_answer": "Approaching bad weather, like a storm",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 97,
+          "question": "What is a 'flash flood'?",
+          "options": ["A flood that happens very slowly", "A rapid flooding of low-lying areas, often caused by heavy rain", "A flood of light", "A flood that happens in a photo"],
+          "correct_answer": "A rapid flooding of low-lying areas, often caused by heavy rain",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 98,
+          "question": "The 'Coriolis effect' influences...",
+          "options": ["The color of the sky", "The direction of rotation of large storm systems", "The temperature of the ocean", "The amount of rainfall"],
+          "correct_answer": "The direction of rotation of large storm systems",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 99,
+          "question": "What is a 'microclimate'?",
+          "options": ["The climate of a very large area", "The climate of a very small, specific area, like a valley or a city park", "The climate of the entire world", "A type of weather report"],
+          "correct_answer": "The climate of a very small, specific area, like a valley or a city park",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 100,
+          "question": "What does it mean if visibility is 'poor'?",
+          "options": ["You can see for many kilometers.", "You can only see for a short distance.", "The weather is very good.", "The sun is shining brightly."],
+          "correct_answer": "You can only see for a short distance.",
+          "grammar_type": "Weather Reports"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the primary difference between 'weather' and 'climate'?",
+          "options": ["There is no difference.", "Weather is the atmospheric condition over a long period, while climate is for a short period.", "Weather is the day-to-day atmospheric condition, while climate is the long-term average of weather.", "Weather is measured by a thermometer, climate by a barometer."],
+          "correct_answer": "Weather is the day-to-day atmospheric condition, while climate is the long-term average of weather.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 102,
+          "question": "What does a barometer measure?",
+          "options": ["Wind speed", "Humidity", "Atmospheric pressure", "Rainfall"],
+          "correct_answer": "Atmospheric pressure",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 103,
+          "question": "A high UV Index in a weather report is a warning that...",
+          "options": ["A storm is coming", "The risk of sunburn from solar radiation is high", "The temperature will drop significantly", "It is safe to be in the sun all day"],
+          "correct_answer": "The risk of sunburn from solar radiation is high",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 104,
+          "question": "What is the key role of a weather front?",
+          "options": ["It is a type of cloud.", "It is the boundary between two different air masses, often causing a change in weather.", "It is a line on a map showing temperature.", "It is the center of a storm."],
+          "correct_answer": "It is the boundary between two different air masses, often causing a change in weather.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 105,
+          "question": "What is the difference between a hurricane, a typhoon, and a cyclone?",
+          "options": ["They are completely different types of storms.", "They are the same type of storm, just called by different names in different parts of the world.", "A hurricane is stronger than a cyclone.", "A typhoon is a winter storm."],
+          "correct_answer": "They are the same type of storm, just called by different names in different parts of the world.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 106,
+          "question": "Why are weather forecasts for 10 days in the future less reliable than for tomorrow?",
+          "options": ["Because forecasters get tired.", "The atmosphere is a chaotic system, and small errors in initial data grow larger over time.", "Because computers are slow.", "Because 10-day forecasts are not important."],
+          "correct_answer": "The atmosphere is a chaotic system, and small errors in initial data grow larger over time.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 107,
+          "question": "What does a 'cold front' moving into an area typically signify?",
+          "options": ["A long period of hot, dry weather.", "A potential for rapid cloud development, thunderstorms, and a drop in temperature.", "A gradual warming trend.", "Calm and stable weather for many days."],
+          "correct_answer": "A potential for rapid cloud development, thunderstorms, and a drop in temperature.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 108,
+          "question": "What does a hygrometer measure?",
+          "options": ["Air pressure", "Wind direction", "Humidity", "Visibility"],
+          "correct_answer": "Humidity",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 109,
+          "question": "The 'feels like' or 'apparent temperature' is a measure combining air temperature with...",
+          "options": ["Air pressure and UV index", "Wind chill and humidity", "The time of day and cloud cover", "Altitude and longitude"],
+          "correct_answer": "Wind chill and humidity",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 110,
+          "question": "Low-pressure systems are often associated with which weather conditions?",
+          "options": ["Clear, sunny skies", "Calm winds and dry air", "Cloudy skies, wind, and precipitation", "Stable and unchanging weather"],
+          "correct_answer": "Cloudy skies, wind, and precipitation",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 111,
+          "question": "What are 'jet streams'?",
+          "options": ["Streams of water from a jet engine", "Slow, low-altitude winds", "Fast-flowing, narrow air currents in the upper atmosphere that influence weather patterns", "A type of local sea breeze"],
+          "correct_answer": "Fast-flowing, narrow air currents in the upper atmosphere that influence weather patterns",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 112,
+          "question": "What does it mean if a weather report states 'visibility is 500 meters'?",
+          "options": ["You can see the stars clearly.", "It is very foggy or hazy, and driving could be dangerous.", "The weather is perfect for flying.", "You can see for 500 kilometers."],
+          "correct_answer": "It is very foggy or hazy, and driving could be dangerous.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 113,
+          "question": "What is an 'occluded front'?",
+          "options": ["A front that brings warm weather", "A complex weather front where a cold front overtakes a warm front", "The boundary between land and sea", "A stationary front that does not move"],
+          "correct_answer": "A complex weather front where a cold front overtakes a warm front",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 114,
+          "question": "How do weather reports specifically aid in aviation (flying planes)?",
+          "options": ["They help choose the in-flight movie.", "They provide crucial data on winds, turbulence, and thunderstorms to ensure flight safety and efficiency.", "They only provide the temperature at the destination.", "They have no real use in aviation."],
+          "correct_answer": "They provide crucial data on winds, turbulence, and thunderstorms to ensure flight safety and efficiency.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 115,
+          "question": "A sudden, sharp drop in barometric pressure usually indicates...",
+          "options": ["The arrival of a high-pressure system and fair weather", "The rapid approach of a storm or low-pressure system", "That the barometer is broken", "That the temperature will rise"],
+          "correct_answer": "The rapid approach of a storm or low-pressure system",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 116,
+          "question": "What is 'El Niño'?",
+          "options": ["A type of local wind in the Himalayas", "A weather phenomenon in the Pacific Ocean that involves unusual warming of surface waters and affects global weather patterns", "A seasonal rain in Europe", "The Spanish word for 'weather'"],
+          "correct_answer": "A weather phenomenon in the Pacific Ocean that involves unusual warming of surface waters and affects global weather patterns",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 117,
+          "question": "What is the primary role of condensation nuclei in cloud formation?",
+          "options": ["They prevent clouds from forming.", "They are tiny particles (like dust or pollen) on which water vapor condenses to form cloud droplets.", "They are the source of lightning.", "They are large ice crystals."],
+          "correct_answer": "They are tiny particles (like dust or pollen) on which water vapor condenses to form cloud droplets.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 118,
+          "question": "'Numerical Weather Prediction' involves using...",
+          "options": ["Astrology and star charts", "Simple observation of the clouds", "Complex computer models and mathematical equations to forecast the weather", "Guesswork and luck"],
+          "correct_answer": "Complex computer models and mathematical equations to forecast the weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 119,
+          "question": "What does a 'stationary front' mean on a weather map?",
+          "options": ["A front that is moving very quickly", "A boundary between air masses that is not moving", "A front that brings severe storms", "A front that exists only at night"],
+          "correct_answer": "A boundary between air masses that is not moving",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 120,
+          "question": "How can large-scale deforestation impact local weather patterns?",
+          "options": ["It has no impact.", "It can lead to decreased rainfall and increased temperatures.", "It causes more snowfall.", "It makes the weather more stable."],
+          "correct_answer": "It can lead to decreased rainfall and increased temperatures.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 121,
+          "question": "The term 'convective thunderstorms' refers to storms formed by...",
+          "options": ["The meeting of two cold fronts", "The strong upward movement of warm, moist air", "Winds coming from the ocean", "The cooling of the ground at night"],
+          "correct_answer": "The strong upward movement of warm, moist air",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 122,
+          "question": "What is the significance of the 'tropopause'?",
+          "options": ["It is the warmest part of the atmosphere.", "It is the boundary between the troposphere and the stratosphere, acting as a lid on most weather.", "It is where all weather is formed.", "It is the layer with the highest pressure."],
+          "correct_answer": "It is the boundary between the troposphere and the stratosphere, acting as a lid on most weather.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 123,
+          "question": "A 'ridge' on a weather map is an elongated area of...",
+          "options": ["Low pressure, associated with poor weather", "High pressure, associated with fair weather", "High winds", "Heavy rainfall"],
+          "correct_answer": "High pressure, associated with fair weather",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 124,
+          "question": "What does 'wind shear' mean in an aviation weather report?",
+          "options": ["A constant, steady wind", "A sudden change in wind speed or direction over a short distance, which can be dangerous for aircraft", "A tool for measuring wind", "A very light breeze"],
+          "correct_answer": "A sudden change in wind speed or direction over a short distance, which can be dangerous for aircraft",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 125,
+          "question": "How do urban areas (cities) affect local weather?",
+          "options": ["They make the weather colder.", "They can create an 'urban heat island' effect, making the city warmer than surrounding rural areas.", "They have no effect on weather.", "They cause more snow."],
+          "correct_answer": "They can create an 'urban heat island' effect, making the city warmer than surrounding rural areas.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 126,
+          "question": "Why is 'relative humidity' expressed as a percentage?",
+          "options": ["It represents the amount of water vapor in the air compared to the maximum amount the air could hold at that temperature.", "It is a random number.", "It is easier to write a percentage.", "It represents the chance of rain."],
+          "correct_answer": "It represents the amount of water vapor in the air compared to the maximum amount the air could hold at that temperature.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 127,
+          "question": "What is a 'supercell' thunderstorm?",
+          "options": ["A very weak, brief thunderstorm", "A long-lasting, rotating thunderstorm that can produce tornadoes and large hail", "A thunderstorm with no rain", "A thunderstorm that happens only over the ocean"],
+          "correct_answer": "A long-lasting, rotating thunderstorm that can produce tornadoes and large hail",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 128,
+          "question": "The 'lapse rate' refers to the rate at which...",
+          "options": ["Air pressure increases with altitude", "Atmospheric temperature decreases with an increase in altitude", "The day gets shorter in winter", "The wind speed changes"],
+          "correct_answer": "Atmospheric temperature decreases with an increase in altitude",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 129,
+          "question": "A 'trough' on a weather map is an elongated area of...",
+          "options": ["High pressure, associated with good weather", "Low pressure, often associated with clouds and precipitation", "High temperature", "Calm winds"],
+          "correct_answer": "Low pressure, often associated with clouds and precipitation",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 130,
+          "question": "What is 'orographic lift'?",
+          "options": ["The lifting of air when it flows over a mountain range, often causing rain on one side and a 'rain shadow' on the other.", "The lifting of air due to heating from the sun.", "The downward movement of air.", "A type of weather instrument."],
+          "correct_answer": "The lifting of air when it flows over a mountain range, often causing rain on one side and a 'rain shadow' on the other.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 131,
+          "question": "In a weather context, 'advection' refers to the...",
+          "options": ["Upward movement of air", "Downward movement of air", "Horizontal transport of something (like heat or moisture) by the wind", "Formation of clouds"],
+          "correct_answer": "Horizontal transport of something (like heat or moisture) by the wind",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 132,
+          "question": "Why are polar regions colder than equatorial regions?",
+          "options": ["Because they are farther from the moon.", "Because sunlight strikes the poles at a lower angle, so the energy is more spread out.", "Because there is more wind at the poles.", "Because there are no clouds at the poles."],
+          "correct_answer": "Because sunlight strikes the poles at a lower angle, so the energy is more spread out.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 133,
+          "question": "What is a 'weather balloon' or 'radiosonde' used for?",
+          "options": ["To take pictures of the ground", "To measure atmospheric conditions like temperature, pressure, and humidity at different altitudes", "To act as a decoration", "To control the weather"],
+          "correct_answer": "To measure atmospheric conditions like temperature, pressure, and humidity at different altitudes",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 134,
+          "question": "How can volcanic eruptions impact global weather?",
+          "options": ["They have no impact.", "Large eruptions can inject ash and sulfur dioxide into the stratosphere, which can cause short-term global cooling.", "They cause immediate global warming.", "They only affect the area right next to the volcano."],
+          "correct_answer": "Large eruptions can inject ash and sulfur dioxide into the stratosphere, which can cause short-term global cooling.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 135,
+          "question": "What is the 'albedo effect'?",
+          "options": ["The warming of the planet", "The ability of a surface to reflect sunlight; light surfaces like snow have high albedo.", "The effect of wind on temperature", "The formation of acid rain"],
+          "correct_answer": "The ability of a surface to reflect sunlight; light surfaces like snow have high albedo.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 136,
+          "question": "The 'Greenhouse Effect' is a process where...",
+          "options": ["Gases in the atmosphere trap heat, keeping the planet warm", "Plants in a greenhouse grow faster", "The atmosphere cools the planet", "The sun's rays are completely blocked"],
+          "correct_answer": "Gases in the atmosphere trap heat, keeping the planet warm",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 137,
+          "question": "What does a 'storm surge' refer to during a cyclone?",
+          "options": ["A surge in wind speed", "An abnormal rise of sea level caused by the storm's winds, which can cause major coastal flooding", "A surge of lightning", "A surge in rainfall"],
+          "correct_answer": "An abnormal rise of sea level caused by the storm's winds, which can cause major coastal flooding",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 138,
+          "question": "An 'isotherm' on a weather map is a line connecting points of equal...",
+          "options": ["Pressure", "Wind speed", "Rainfall", "Temperature"],
+          "correct_answer": "Temperature",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 139,
+          "question": "What is the primary cause of seasons on Earth?",
+          "options": ["The Earth's changing distance from the Sun", "The tilt of the Earth's axis of rotation", "The changing amount of cloud cover", "The phase of the moon"],
+          "correct_answer": "The tilt of the Earth's axis of rotation",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 140,
+          "question": "What does the 'Saffir-Simpson Scale' classify?",
+          "options": ["The intensity of tornadoes", "The intensity of hurricanes", "The amount of rainfall", "The level of humidity"],
+          "correct_answer": "The intensity of hurricanes",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 141,
+          "question": "How does climate change affect weather events?",
+          "options": ["It makes the weather less extreme.", "It can lead to more frequent and intense extreme weather events like heatwaves, heavy rainfall, and droughts.", "It has no effect on weather.", "It only makes winters warmer."],
+          "correct_answer": "It can lead to more frequent and intense extreme weather events like heatwaves, heavy rainfall, and droughts.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 142,
+          "question": "What is the 'Intertropical Convergence Zone' (ITCZ)?",
+          "options": ["An area near the poles with very cold weather.", "A belt of low pressure near the equator where trade winds converge, known for thunderstorms.", "A high-pressure zone with no clouds.", "A line on a map showing temperature."],
+          "correct_answer": "A belt of low pressure near the equator where trade winds converge, known for thunderstorms.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 143,
+          "question": "What is 'virga'?",
+          "options": ["A very heavy downpour", "Rain or snow that evaporates before it reaches the ground", "A type of cloud", "A weather satellite"],
+          "correct_answer": "Rain or snow that evaporates before it reaches the ground",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 144,
+          "question": "Why is it often windy near coastlines?",
+          "options": ["Because of the sound of the ocean.", "Due to the differential heating of land and sea, creating land and sea breezes.", "Because there are no trees.", "Because of tall buildings."],
+          "correct_answer": "Due to the differential heating of land and sea, creating land and sea breezes.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 145,
+          "question": "A 'derecho' is a widespread, long-lived, straight-line...",
+          "options": ["Rain shower", "Snow flurry", "Wind storm", "Heatwave"],
+          "correct_answer": "Wind storm",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 146,
+          "question": "How does a 'rain shadow' form?",
+          "options": ["When a large cloud blocks the sun.", "On the leeward (downwind) side of a mountain range, which receives very little rain because the air has lost its moisture on the other side.", "During a solar eclipse.", "It is another term for a flood."],
+          "correct_answer": "On the leeward (downwind) side of a mountain range, which receives very little rain because the air has lost its moisture on the other side.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 147,
+          "question": "What kind of clouds are tall, dense, and associated with thunderstorms?",
+          "options": ["Cirrus", "Stratus", "Cumulonimbus", "Nimbostratus"],
+          "correct_answer": "Cumulonimbus",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 148,
+          "question": "What is the purpose of the World Meteorological Organization (WMO)?",
+          "options": ["To control the world's weather.", "To facilitate worldwide cooperation in meteorology, climatology, and hydrology.", "To name storms alphabetically.", "To launch weather satellites for one country."],
+          "correct_answer": "To facilitate worldwide cooperation in meteorology, climatology, and hydrology.",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 149,
+          "question": "The 'Fujita Scale' is used to rate the intensity of what weather phenomenon?",
+          "options": ["Hurricanes", "Tornadoes", "Earthquakes", "Heatwaves"],
+          "correct_answer": "Tornadoes",
+          "grammar_type": "Weather Reports"
+        },
+        {
+          "id": 150,
+          "question": "What is 'latent heat release' in the context of weather?",
+          "options": ["The process of cooling.", "The release of energy when water vapor condenses into liquid water, which powers storms.", "The heat from the sun.", "The heat from the Earth's core."],
+          "correct_answer": "The release of energy when water vapor condenses into liquid water, which powers storms.",
+          "grammar_type": "Weather Reports"
+        }
+      ]
+    }
+  ]
+}
+

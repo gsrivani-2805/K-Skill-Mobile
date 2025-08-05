@@ -1,0 +1,1070 @@
+{
+  "grammar_quiz": [
+    {
+      "level": "Easy",
+      "questions": [
+        {
+          "id": 1,
+          "question": "When you work with other students, you are in a ____.",
+          "options": ["line", "group", "queue", "crowd"],
+          "correct_answer": "group",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 2,
+          "question": "In a role-play, you ____ to be someone else.",
+          "options": ["pretend", "read", "write", "listen"],
+          "correct_answer": "pretend",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 3,
+          "question": "If you work with one other person, that person is your ____.",
+          "options": ["teacher", "enemy", "partner", "leader"],
+          "correct_answer": "partner",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 4,
+          "question": "What is the most important rule in a group task?",
+          "options": ["To work alone", "To work together", "To be the fastest", "To be the loudest"],
+          "correct_answer": "To work together",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 5,
+          "question": "In a role-play, the character you play is your ____.",
+          "options": ["name", "role", "hobby", "job"],
+          "correct_answer": "role",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 6,
+          "question": "When your partner is speaking, you should ____.",
+          "options": ["interrupt", "play", "listen", "shout"],
+          "correct_answer": "listen",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 7,
+          "question": "A 'task' is a piece of ____ you have to do.",
+          "options": ["food", "clothing", "work", "music"],
+          "correct_answer": "work",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 8,
+          "question": "In a group, it is important to ____ your ideas with others.",
+          "options": ["hide", "share", "forget", "sell"],
+          "correct_answer": "share",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 9,
+          "question": "A role-play between a doctor and a patient helps you practice ____.",
+          "options": ["buying vegetables", "visiting a doctor", "planning a party", "asking for directions"],
+          "correct_answer": "visiting a doctor",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 10,
+          "question": "What does 'work together' mean?",
+          "options": ["To cooperate", "To compete", "To argue", "To ignore"],
+          "correct_answer": "To cooperate",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 11,
+          "question": "When you finish your part of the task, you should ____.",
+          "options": ["go home", "see if your group needs help", "start a new task alone", "play a game"],
+          "correct_answer": "see if your group needs help",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 12,
+          "question": "Role-playing helps improve your ____ skills.",
+          "options": ["sleeping", "eating", "speaking", "running"],
+          "correct_answer": "speaking",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 13,
+          "question": "The people in your group are your team ____.",
+          "options": ["mates", "enemies", "teachers", "leaders"],
+          "correct_answer": "mates",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 14,
+          "question": "In a role-play about a market, one person can be the shopkeeper and the other can be the ____.",
+          "options": ["doctor", "teacher", "customer", "policeman"],
+          "correct_answer": "customer",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 15,
+          "question": "What is the first step in a group task?",
+          "options": ["Start writing", "Understand the instructions", "Talk about movies", "Decide who is the best"],
+          "correct_answer": "Understand the instructions",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 16,
+          "question": "If you have an idea, you should ____.",
+          "options": ["keep it to yourself", "tell your group", "write it down and hide it", "only tell the teacher"],
+          "correct_answer": "tell your group",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 17,
+          "question": "A situation given for a role-play is called a ____.",
+          "options": ["story", "problem", "scenario", "game"],
+          "correct_answer": "scenario",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 18,
+          "question": "What does it mean to 'take turns'?",
+          "options": ["To do something at the same time", "To let one person do everything", "To do something one after another", "To turn around"],
+          "correct_answer": "To do something one after another",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 19,
+          "question": "A good group member is ____ to others.",
+          "options": ["rude", "helpful", "lazy", "quiet"],
+          "correct_answer": "helpful",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 20,
+          "question": "The goal of a group task is to ____ it together.",
+          "options": ["fail", "ignore", "complete", "forget"],
+          "correct_answer": "complete",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 21,
+          "question": "In a role-play, you should speak ____.",
+          "options": ["very softly", "in your mother tongue", "clearly", "very fast"],
+          "correct_answer": "clearly",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 22,
+          "question": "The words and lines you say in a role-play are your ____.",
+          "options": ["script", "notes", "book", "homework"],
+          "correct_answer": "script",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 23,
+          "question": "If you agree with your partner's idea, you can say:",
+          "options": ["'No, that's wrong.'", "'That's a good idea.'", "'I don't care.'", "'Be quiet.'"],
+          "correct_answer": "'That's a good idea.'",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 24,
+          "question": "The teacher gives ____ to explain the task.",
+          "options": ["problems", "instructions", "stories", "food"],
+          "correct_answer": "instructions",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 25,
+          "question": "A group discussion is when you ____ about a topic.",
+          "options": ["fight", "talk", "write", "draw"],
+          "correct_answer": "talk",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 26,
+          "question": "What is the main aim of role-playing?",
+          "options": ["To have fun and practice real-life situations", "To get the highest marks", "To show you are the best actor", "To finish quickly"],
+          "correct_answer": "To have fun and practice real-life situations",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 27,
+          "question": "At the end of a group task, you might have to ____ your work to the class.",
+          "options": ["hide", "present", "sell", "give"],
+          "correct_answer": "present",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 28,
+          "question": "It is important to be ____ to your group members.",
+          "options": ["polite", "rude", "angry", "sad"],
+          "correct_answer": "polite",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 29,
+          "question": "If you don't have an idea, you can ____ to your group members.",
+          "options": ["lie", "shout", "listen", "run away"],
+          "correct_answer": "listen",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 30,
+          "question": "What is the opposite of 'working together'?",
+          "options": ["Working alone", "Working against each other", "Helping each other", "Both A and B"],
+          "correct_answer": "Both A and B",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 31,
+          "question": "A role-play needs at least ____ people.",
+          "options": ["one", "two", "ten", "five"],
+          "correct_answer": "two",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 32,
+          "question": "The final result of your group's work is the ____.",
+          "options": ["problem", "discussion", "outcome", "idea"],
+          "correct_answer": "outcome",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 33,
+          "question": "If you are playing the role of a shopkeeper, you ____ items.",
+          "options": ["buy", "sell", "make", "break"],
+          "correct_answer": "sell",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 34,
+          "question": "Group work helps you learn ____ skills.",
+          "options": ["teamwork", "fighting", "sleeping", "running"],
+          "correct_answer": "teamwork",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 35,
+          "question": "Before starting a role-play, you should read your ____ carefully.",
+          "options": ["role-card", "report card", "library card", "ID card"],
+          "correct_answer": "role-card",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 36,
+          "question": "Everyone's idea is ____ in a group discussion.",
+          "options": ["bad", "wrong", "important", "silly"],
+          "correct_answer": "important",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 37,
+          "question": "A role-play has a beginning, a middle, and an ____.",
+          "options": ["end", "idea", "answer", "argument"],
+          "correct_answer": "end",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 38,
+          "question": "What is the goal of a task?",
+          "options": ["The problem", "The objective", "The group members", "The time limit"],
+          "correct_answer": "The objective",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 39,
+          "question": "If you don't agree with someone, you should ____.",
+          "options": ["shout at them", "explain your idea politely", "stop working", "complain to the teacher"],
+          "correct_answer": "explain your idea politely",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 40,
+          "question": "Role-playing asking for directions helps you in a ____ situation.",
+          "options": ["real-life", "fantasy", "dream", "story"],
+          "correct_answer": "real-life",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 41,
+          "question": "The first step of planning a group task is to ____ the work.",
+          "options": ["finish", "divide", "hide", "ignore"],
+          "correct_answer": "divide",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 42,
+          "question": "You should use ____ language during a role-play.",
+          "options": ["body", "sign", "rude", "sleepy"],
+          "correct_answer": "body",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 43,
+          "question": "A group task is successful when ____ contributes.",
+          "options": ["only one person", "only the leader", "no one", "everyone"],
+          "correct_answer": "everyone",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 44,
+          "question": "The conversation between two or more people in a role-play is called ____.",
+          "options": ["a monologue", "a speech", "a dialogue", "a presentation"],
+          "correct_answer": "a dialogue",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 45,
+          "question": "If the teacher gives a time limit, you must finish the task ____ that time.",
+          "options": ["after", "within", "without", "over"],
+          "correct_answer": "within",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 46,
+          "question": "What is a 'brainstorm' session?",
+          "options": ["A time to rest your brain", "A session to generate many ideas quickly", "A test of your brain", "A type of headache"],
+          "correct_answer": "A session to generate many ideas quickly",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 47,
+          "question": "It is good to ____ your group members for their ideas.",
+          "options": ["criticize", "laugh at", "praise", "ignore"],
+          "correct_answer": "praise",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 48,
+          "question": "The things you use in a role-play, like a toy phone or a menu, are called ____.",
+          "options": ["props", "junk", "things", "stuff"],
+          "correct_answer": "props",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 49,
+          "question": "When presenting your work, you should speak ____ the class.",
+          "options": ["away from", "behind", "in front of", "under"],
+          "correct_answer": "in front of",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 50,
+          "question": "To perform well in a group, you must be a good ____ player.",
+          "options": ["game", "team", "sport", "solo"],
+          "correct_answer": "team",
+          "grammar_type": "Role-Play and Group Tasks"
+        }
+      ]
+    },
+    {
+      "level": "Medium",
+      "questions": [
+        {
+          "id": 51,
+          "question": "The process of working together with others to achieve a common goal is called ____.",
+          "options": ["Competition", "Collaboration", "Conflict", "Coordination"],
+          "correct_answer": "Collaboration",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 52,
+          "question": "What is the role of a 'scribe' or 'recorder' in a group?",
+          "options": ["To lead the discussion", "To write down the group's ideas and decisions", "To make sure everyone stays on time", "To present the final work"],
+          "correct_answer": "To write down the group's ideas and decisions",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 53,
+          "question": "Giving helpful comments and suggestions to your group members is called giving ____.",
+          "options": ["orders", "problems", "feedback", "excuses"],
+          "correct_answer": "feedback",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 54,
+          "question": "What is the 'objective' of a task?",
+          "options": ["The materials needed for the task", "The main goal or purpose of the task", "The problems faced during the task", "The time limit for the task"],
+          "correct_answer": "The main goal or purpose of the task",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 55,
+          "question": "A role-play that is not scripted and where you make up the lines as you go is called ____.",
+          "options": ["a presentation", "an improvisation", "a monologue", "a rehearsal"],
+          "correct_answer": "an improvisation",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 56,
+          "question": "A good group leader should ____.",
+          "options": ["do all the work alone", "encourage everyone to participate", "only give orders", "not listen to others"],
+          "correct_answer": "encourage everyone to participate",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 57,
+          "question": "When you 'brainstorm', you should...",
+          "options": ["only think of one good idea.", "criticize every idea immediately.", "generate as many ideas as possible without judgement.", "only write down your own ideas."],
+          "correct_answer": "generate as many ideas as possible without judgement.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 58,
+          "question": "What is a 'consensus' in a group decision?",
+          "options": ["A decision made by the leader only", "A decision made by voting", "A general agreement that everyone accepts", "A decision that nobody likes"],
+          "correct_answer": "A general agreement that everyone accepts",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 59,
+          "question": "To act out a situation is to ____ it.",
+          "options": ["summarize", "analyze", "evaluate", "simulate"],
+          "correct_answer": "simulate",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 60,
+          "question": "The person who keeps track of time in a group task is the ____.",
+          "options": ["Timekeeper", "Leader", "Scribe", "Presenter"],
+          "correct_answer": "Timekeeper",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 61,
+          "question": "What is the benefit of assigning roles in a group?",
+          "options": ["It makes the task more confusing.", "It ensures that all necessary tasks are done.", "It allows some people to do nothing.", "It is a waste of time."],
+          "correct_answer": "It ensures that all necessary tasks are done.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 62,
+          "question": "Role-playing helps to develop ____, the ability to understand others' feelings.",
+          "options": ["empathy", "apathy", "sympathy", "confidence"],
+          "correct_answer": "empathy",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 63,
+          "question": "To 'delegate' tasks means to:",
+          "options": ["Complete all tasks yourself", "Assign responsibility for tasks to different people", "Ignore the tasks", "Create new tasks"],
+          "correct_answer": "Assign responsibility for tasks to different people",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 64,
+          "question": "The final report or performance given to the class is the ____.",
+          "options": ["brainstorm", "discussion", "presentation", "feedback"],
+          "correct_answer": "presentation",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 65,
+          "question": "What should you do if you have a disagreement in your group?",
+          "options": ["Start shouting", "Stop working", "Discuss the different viewpoints and find a compromise", "Complain to the teacher immediately"],
+          "correct_answer": "Discuss the different viewpoints and find a compromise",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 66,
+          "question": "The information on a role-card usually includes your role, the situation, and your ____.",
+          "options": ["final grade", "goal or objective", "partner's name", "time limit"],
+          "correct_answer": "goal or objective",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 67,
+          "question": "'Constructive criticism' is feedback that is ____.",
+          "options": ["negative and meant to hurt", "only positive and full of praise", "helpful and intended to help someone improve", "vague and unclear"],
+          "correct_answer": "helpful and intended to help someone improve",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 68,
+          "question": "The person who makes sure the discussion stays on topic is the ____.",
+          "options": ["facilitator", "moderator", "leader", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 69,
+          "question": "To 'summarize' the group's discussion means to:",
+          "options": ["Write down every single word", "Give a brief statement of the main points", "Give your own opinion only", "Start a new discussion"],
+          "correct_answer": "Give a brief statement of the main points",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 70,
+          "question": "Which of these is a 'soft skill' developed through group work?",
+          "options": ["Math calculation", "Handwriting", "Communication", "Scientific knowledge"],
+          "correct_answer": "Communication",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 71,
+          "question": "To 'clarify' a point means to:",
+          "options": ["make it more confusing.", "make it easier to understand.", "ignore the point.", "agree with the point."],
+          "correct_answer": "make it easier to understand.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 72,
+          "question": "In a presentation, visual aids like ____ can be helpful.",
+          "options": ["charts and pictures", "loud music", "complex data", "long paragraphs"],
+          "correct_answer": "charts and pictures",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 73,
+          "question": "What is the benefit of a 'debriefing' session after a role-play?",
+          "options": ["To decide the winner", "To discuss what was learned and how it felt", "To get marks from the teacher", "To plan the next role-play"],
+          "correct_answer": "To discuss what was learned and how it felt",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 74,
+          "question": "If a group member is 'passive', they are not ____.",
+          "options": ["listening", "present", "cooperative", "participating actively"],
+          "correct_answer": "participating actively",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 75,
+          "question": "The phrase 'Let's put our heads together' means:",
+          "options": ["Let's argue", "Let's work together to solve a problem", "Let's take a break", "Let's start a fight"],
+          "correct_answer": "Let's work together to solve a problem",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 76,
+          "question": "What is 'body language' in a role-play?",
+          "options": ["The script you read", "The volume of your voice", "Non-verbal communication through gestures and posture", "The costume you wear"],
+          "correct_answer": "Non-verbal communication through gestures and posture",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 77,
+          "question": "The person who presents the group's findings to the class is the ____.",
+          "options": ["scribe", "leader", "timekeeper", "presenter"],
+          "correct_answer": "presenter",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 78,
+          "question": "A 'compromise' is a settlement of a disagreement where each side ____.",
+          "options": ["gets everything it wants", "gets nothing it wants", "gives up something to reach an agreement", "wins the argument"],
+          "correct_answer": "gives up something to reach an agreement",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 79,
+          "question": "The ability to work well with others is a key part of ____.",
+          "options": ["collaboration", "competition", "independence", "examination"],
+          "correct_answer": "collaboration",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 80,
+          "question": "To 'paraphrase' another student's idea means to:",
+          "options": ["copy it exactly.", "say it in your own words.", "say it is a bad idea.", "ignore it completely."],
+          "correct_answer": "say it in your own words.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 81,
+          "question": "If you are playing the role of someone who is angry, your tone of voice should be ____.",
+          "options": ["soft and calm", "loud and sharp", "happy and cheerful", "sad and quiet"],
+          "correct_answer": "loud and sharp",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 82,
+          "question": "The 'ground rules' for a group task are:",
+          "options": ["The final answers", "The guidelines for how the group should work", "The names of the group members", "The topic of the task"],
+          "correct_answer": "The guidelines for how the group should work",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 83,
+          "question": "Which of these is a good way to start a presentation?",
+          "options": ["'So, we did this task.'", "'Good morning, everyone. Our group is here to present on...'", "'Listen up, this is important.'", "'I don't know if this is right, but...'"],
+          "correct_answer": "'Good morning, everyone. Our group is here to present on...'",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 84,
+          "question": "A 'deadline' for a group project is the ____.",
+          "options": ["time it starts", "final time by which it must be completed", "time for a break", "time for the presentation"],
+          "correct_answer": "final time by which it must be completed",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 85,
+          "question": "To 'build on' someone's idea means to:",
+          "options": ["reject their idea.", "repeat their idea.", "add to their idea to make it better.", "criticize their idea."],
+          "correct_answer": "add to their idea to make it better.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 86,
+          "question": "In a role-play, 'staying in character' means:",
+          "options": ["Forgetting your role", "Acting like yourself", "Consistently acting according to the role you are playing", "Changing your role halfway through"],
+          "correct_answer": "Consistently acting according to the role you are playing",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 87,
+          "question": "When you evaluate your group's performance, you ____.",
+          "options": ["blame others for mistakes", "only praise your own work", "assess how well the group worked together", "give everyone the same mark"],
+          "correct_answer": "assess how well the group worked together",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 88,
+          "question": "What is 'active participation'?",
+          "options": ["Sitting silently", "Doing all the work alone", "Engaging in the task by speaking, listening, and doing", "Disturbing the group"],
+          "correct_answer": "Engaging in the task by speaking, listening, and doing",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 89,
+          "question": "A group task plan should include the task, roles, and a ____.",
+          "options": ["list of problems", "timeline", "list of arguments", "plan for a party"],
+          "correct_answer": "timeline",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 90,
+          "question": "A 'dialogue' in a role-play is the ____ between the characters.",
+          "options": ["fight", "conversation", "silence", "friendship"],
+          "correct_answer": "conversation",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 91,
+          "question": "The role of a 'facilitator' is to:",
+          "options": ["Do all the talking", "Make the group process easier", "Give the final answer", "Grade the group"],
+          "correct_answer": "Make the group process easier",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 92,
+          "question": "A good group should have ____ communication.",
+          "options": ["one-way", "open and respectful", "closed and secret", "very little"],
+          "correct_answer": "open and respectful",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 93,
+          "question": "To 'negotiate' in a group means to:",
+          "options": ["hold a formal discussion to reach an agreement.", "give orders to everyone.", "work separately.", "agree on the first idea."],
+          "correct_answer": "hold a formal discussion to reach an agreement.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 94,
+          "question": "To 'take the lead' in a project means to:",
+          "options": ["Do nothing", "Accept the role of leader", "Follow others", "Leave the group"],
+          "correct_answer": "Accept the role of leader",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 95,
+          "question": "What is a 'think-pair-share' activity?",
+          "options": ["A long group project", "An individual test", "An activity where you think alone, discuss with a partner, and then share with the class", "A role-playing game"],
+          "correct_answer": "An activity where you think alone, discuss with a partner, and then share with the class",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 96,
+          "question": "Being 'accountable' in a group means:",
+          "options": ["blaming others for your mistakes.", "taking responsibility for your assigned part.", "not doing your work.", "leading the group."],
+          "correct_answer": "taking responsibility for your assigned part.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 97,
+          "question": "The 'minutes' of a group meeting are a ____.",
+          "options": ["time limit", "written record of the discussion", "list of problems", "final presentation"],
+          "correct_answer": "written record of the discussion",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 98,
+          "question": "A 'Jigsaw' activity is where each group member...",
+          "options": ["works on the entire project alone.", "becomes an 'expert' on one part and teaches it to the others.", "puts together a puzzle.", "presents the final work."],
+          "correct_answer": "becomes an 'expert' on one part and teaches it to the others.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 99,
+          "question": "To show you are listening, you should make eye ____ with the speaker.",
+          "options": ["contact", "lines", "see", "look"],
+          "correct_answer": "contact",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 100,
+          "question": "A 'rapport' within a group is a close and ____ relationship.",
+          "options": ["angry", "harmonious", "competitive", "silent"],
+          "correct_answer": "harmonious",
+          "grammar_type": "Role-Play and Group Tasks"
+        }
+      ]
+    },
+    {
+      "level": "Hard",
+      "questions": [
+        {
+          "id": 101,
+          "question": "What is the primary difference between 'cooperation' and 'collaboration'?",
+          "options": ["Cooperation is working together on divided parts; collaboration is working together to create something new.", "Collaboration is working alone; cooperation is working in a group.", "There is no difference.", "Cooperation is for simple tasks; collaboration is for role-plays."],
+          "correct_answer": "Cooperation is working together on divided parts; collaboration is working together to create something new.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 102,
+          "question": "A person who dominates a group discussion is ____.",
+          "options": ["encouraging participation", "hindering collaboration", "facilitating the task", "ensuring equal contribution"],
+          "correct_answer": "hindering collaboration",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 103,
+          "question": "The term 'synergy' in a group context means:",
+          "options": ["The group's output is the same as the sum of individual efforts.", "The group's combined effect is greater than the sum of individual efforts.", "The group members dislike each other.", "The group is very inefficient."],
+          "correct_answer": "The group's combined effect is greater than the sum of individual efforts.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 104,
+          "question": "How should a group handle a member who is not contributing ('social loafing')?",
+          "options": ["Ignore them and do their work for them.", "Complain to the teacher immediately.", "Politely ask about their progress and offer help.", "Remove them from the group."],
+          "correct_answer": "Politely ask about their progress and offer help.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 105,
+          "question": "What is the main challenge of reaching a 'consensus'?",
+          "options": ["It is very fast.", "It can be time-consuming to ensure everyone agrees.", "Only the leader's opinion matters.", "It is a form of voting."],
+          "correct_answer": "It can be time-consuming to ensure everyone agrees.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 106,
+          "question": "In a formal debate, the person arguing for the motion is the ____.",
+          "options": ["Opposition", "Proposition", "Moderator", "Adjudicator"],
+          "correct_answer": "Proposition",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 107,
+          "question": "To 'play devil's advocate' means to:",
+          "options": ["Strongly support the popular opinion.", "Present a counter-argument to test the quality of the original argument.", "Act as the leader of the group.", "Refuse to participate in the discussion."],
+          "correct_answer": "Present a counter-argument to test the quality of the original argument.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 108,
+          "question": "What is 'groupthink'?",
+          "options": ["A creative process of generating ideas.", "A psychological phenomenon where the desire for harmony results in an irrational decision.", "A debate between different groups.", "A presentation by the entire group."],
+          "correct_answer": "A psychological phenomenon where the desire for harmony results in an irrational decision.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 109,
+          "question": "A 'moderator' in a discussion is responsible for:",
+          "options": ["taking one side of the argument.", "ensuring the discussion remains fair, orderly, and on topic.", "writing down all the ideas.", "presenting the final conclusion."],
+          "correct_answer": "ensuring the discussion remains fair, orderly, and on topic.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 110,
+          "question": "How can a group ensure 'accountability' among its members?",
+          "options": ["By not assigning any specific tasks.", "By setting clear roles, tasks, and deadlines for each member.", "By having only one person do all the work.", "By not checking on each other's progress."],
+          "correct_answer": "By setting clear roles, tasks, and deadlines for each member.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 111,
+          "question": "To 'synthesize' information in a group report means to:",
+          "options": ["list all the separate ideas.", "combine different ideas into a new, coherent whole.", "focus on only one person's idea.", "find the mistakes in everyone's ideas."],
+          "correct_answer": "combine different ideas into a new, coherent whole.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 112,
+          "question": "In a role-play, 'subtext' refers to the:",
+          "options": ["written script.", "costumes and props.", "underlying, unspoken meaning or emotion.", "loudness of the dialogue."],
+          "correct_answer": "underlying, unspoken meaning or emotion.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 113,
+          "question": "What is the purpose of a 'fishbowl' discussion?",
+          "options": ["For a small group to discuss a topic while the rest of the class observes.", "For the entire class to talk at once.", "A silent, written discussion.", "A debate with a formal judge."],
+          "correct_answer": "For a small group to discuss a topic while the rest of the class observes.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 114,
+          "question": "A 'stalemate' in a group negotiation is a situation where:",
+          "options": ["an agreement is reached quickly.", "further action seems impossible.", "one person wins the argument.", "everyone is happy."],
+          "correct_answer": "further action seems impossible.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 115,
+          "question": "What is 'constructive conflict' within a group?",
+          "options": ["Personal attacks and arguments.", "Disagreement that leads to new ideas and better solutions.", "A situation where everyone agrees without discussion.", "A conflict that destroys the group's morale."],
+          "correct_answer": "Disagreement that leads to new ideas and better solutions.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 116,
+          "question": "To 'mediate' a conflict in a group means to:",
+          "options": ["take a side and argue for it.", "ignore the conflict.", "intervene to help the parties resolve the conflict.", "make the conflict worse."],
+          "correct_answer": "intervene to help the parties resolve the conflict.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 117,
+          "question": "In a formal presentation, what is the 'Q&A' session?",
+          "options": ["The introduction", "The conclusion", "The part where the audience can ask questions", "The part where the group asks the audience questions"],
+          "correct_answer": "The part where the audience can ask questions",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 118,
+          "question": "A 'post-mortem' analysis after a group project is intended to:",
+          "options": ["blame individuals for failures.", "celebrate the success only.", "analyze the process to learn from successes and failures.", "quickly forget about the project."],
+          "correct_answer": "analyze the process to learn from successes and failures.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 119,
+          "question": "Role-playing can be a tool for 'conflict resolution' which means:",
+          "options": ["starting a conflict.", "avoiding a conflict.", "finding a peaceful solution to a disagreement.", "winning a conflict."],
+          "correct_answer": "finding a peaceful solution to a disagreement.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 120,
+          "question": "The 'Tuckman's stages of group development' are Forming, Storming, Norming, and ____.",
+          "options": ["Performing", "Concluding", "Presenting", "Arguing"],
+          "correct_answer": "Performing",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 121,
+          "question": "A person who provides a contrary opinion to prevent 'groupthink' is playing the role of a ____.",
+          "options": ["leader", "scribe", "devil's advocate", "timekeeper"],
+          "correct_answer": "devil's advocate",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 122,
+          "question": "What are 'interpersonal skills'?",
+          "options": ["Skills related to a specific academic subject.", "Skills used to communicate and interact effectively with others.", "Skills for working alone.", "Skills for taking tests."],
+          "correct_answer": "Skills used to communicate and interact effectively with others.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 123,
+          "question": "To 'table' a motion during a group meeting means to:",
+          "options": ["discuss it immediately.", "vote on it right away.", "postpone its discussion.", "reject it completely."],
+          "correct_answer": "postpone its discussion.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 124,
+          "question": "Which of these is a key aspect of 'active listening'?",
+          "options": ["Interrupting the speaker", "Thinking about your reply while the other person is speaking", "Paraphrasing and asking clarifying questions", "Looking at your phone"],
+          "correct_answer": "Paraphrasing and asking clarifying questions",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 125,
+          "question": "The 'norming' stage of group development is when:",
+          "options": ["the group first meets.", "conflicts and disagreements arise.", "the group establishes rules and starts to work together effectively.", "the group focuses on achieving the goal."],
+          "correct_answer": "the group establishes rules and starts to work together effectively.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 126,
+          "question": "Why is establishing clear 'deliverables' important for a group task?",
+          "options": ["It makes the task more difficult.", "It defines the tangible outcomes the group must produce.", "It is not important at all.", "It helps in avoiding the task."],
+          "correct_answer": "It defines the tangible outcomes the group must produce.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 127,
+          "question": "A 'monologue' is different from a 'dialogue' because it is a long speech by ____.",
+          "options": ["two people", "a group", "one person", "the teacher"],
+          "correct_answer": "one person",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 128,
+          "question": "A 'peer evaluation' involves:",
+          "options": ["the teacher grading the project.", "students assessing the contribution of their group members.", "grading your own work.", "the principal assessing the group."],
+          "correct_answer": "students assessing the contribution of their group members.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 129,
+          "question": "What is the primary challenge of a 'cross-functional' team?",
+          "options": ["Everyone has the same skills.", "Members from different areas of expertise must learn to work together.", "The task is always very easy.", "There is no leader."],
+          "correct_answer": "Members from different areas of expertise must learn to work together.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 130,
+          "question": "In a role-play, 'ad-libbing' means:",
+          "options": ["reading a script.", "speaking improvised lines not in the script.", "staying silent.", "leaving the stage."],
+          "correct_answer": "speaking improvised lines not in the script.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 131,
+          "question": "A 'contingency plan' is created for a group project to:",
+          "options": ["ensure the project fails.", "deal with potential problems or unexpected events.", "make the project more complicated.", "reward the group members."],
+          "correct_answer": "deal with potential problems or unexpected events.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 132,
+          "question": "The 'storming' stage of group development is characterized by:",
+          "options": ["Polite introductions", "Conflict and competition", "Harmony and clear roles", "High performance and efficiency"],
+          "correct_answer": "Conflict and competition",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 133,
+          "question": "Why is 'establishing rapport' important at the beginning of a group task?",
+          "options": ["It wastes time.", "It creates a positive and trusting working relationship.", "It helps to decide the leader immediately.", "It is not important."],
+          "correct_answer": "It creates a positive and trusting working relationship.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 134,
+          "question": "A 'rubric' is often used by teachers to:",
+          "options": ["choose the group members.", "evaluate the performance of a group task based on specific criteria.", "set the time limit for a task.", "give a topic for discussion."],
+          "correct_answer": "evaluate the performance of a group task based on specific criteria.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 135,
+          "question": "What is a 'scrum' or 'huddle' in a group context?",
+          "options": ["A long, formal meeting", "A short, stand-up meeting to align on tasks", "A final presentation", "A written report"],
+          "correct_answer": "A short, stand-up meeting to align on tasks",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 136,
+          "question": "The ability to manage one's own contribution and time in a group task is called ____.",
+          "options": ["self-management", "leadership", "moderation", "scribing"],
+          "correct_answer": "self-management",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 137,
+          "question": "If a group is 'dysfunctional', it is ____.",
+          "options": ["working very well together", "not operating normally or properly", "finished with its task", "very creative"],
+          "correct_answer": "not operating normally or properly",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 138,
+          "question": "What is the main goal of 'icebreaker' activities at the start of a group project?",
+          "options": ["To test academic knowledge", "To help group members get to know each other", "To decide on the final answer", "To assign the most difficult tasks"],
+          "correct_answer": "To help group members get to know each other",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 139,
+          "question": "In a role-play simulation of a job interview, one person is the interviewer and the other is the ____.",
+          "options": ["applicant", "candidate", "interviewee", "All of the above"],
+          "correct_answer": "All of the above",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 140,
+          "question": "A 'milestone' in a group project plan is a/an ____.",
+          "options": ["problem or challenge", "specific point marking progress or completion", "member who is not working", "final deadline"],
+          "correct_answer": "specific point marking progress or completion",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 141,
+          "question": "What does 'non-verbal cues' refer to in communication?",
+          "options": ["The words being spoken", "The written script", "Body language, facial expressions, and tone of voice", "The time limit"],
+          "correct_answer": "Body language, facial expressions, and tone of voice",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 142,
+          "question": "To reach a 'unanimous' decision means that ____ agrees.",
+          "options": ["the leader", "the majority", "at least one person", "everyone"],
+          "correct_answer": "everyone",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 143,
+          "question": "Why is it important to define the 'scope' of a group project?",
+          "options": ["To make the project as big as possible", "To understand the boundaries and limits of the project", "To ensure the project fails", "It is not important"],
+          "correct_answer": "To understand the boundaries and limits of the project",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 144,
+          "question": "The 'forming' stage of group development involves:",
+          "options": ["high performance and efficiency.", "conflict and disagreement.", "polite introductions and setting ground rules.", "the end of the project."],
+          "correct_answer": "polite introductions and setting ground rules.",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 145,
+          "question": "In a group, 'group cohesion' refers to the ____.",
+          "options": ["number of people in the group", "degree to which members are connected and motivated to stay in the group", "final grade of the group", "topic of the task"],
+          "correct_answer": "the degree to which members are connected and motivated to stay in the group",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 146,
+          "question": "A 'forum' or 'panel discussion' involves a group of experts discussing a topic in front of an ____.",
+          "options": ["empty room", "audience", "teacher", "examiner"],
+          "correct_answer": "audience",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 147,
+          "question": "What is a 'task-oriented' group role?",
+          "options": ["A role focused on maintaining group harmony", "A role focused on completing the specific task", "A role that disrupts the group", "A role that does nothing"],
+          "correct_answer": "A role focused on completing the specific task",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 148,
+          "question": "What is a 'socio-emotional' or 'maintenance' role in a group?",
+          "options": ["A role focused on getting the work done", "A role focused on encouraging and maintaining group harmony", "A role that involves writing down notes", "A role that involves leading the group"],
+          "correct_answer": "A role focused on encouraging and maintaining group harmony",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 149,
+          "question": "The term 'think tank' refers to a group of experts providing ____.",
+          "options": ["manual labour", "financial support", "advice and ideas on specific problems", "entertainment"],
+          "correct_answer": "advice and ideas on specific problems",
+          "grammar_type": "Role-Play and Group Tasks"
+        },
+        {
+          "id": 150,
+          "question": "If a group member 'goes off on a tangent', they...",
+          "options": ["start discussing something irrelevant.", "contribute a very useful idea.", "summarize the discussion.", "lead the group to a decision."],
+          "correct_answer": "start discussing something irrelevant.",
+          "grammar_type": "Role-Play and Group Tasks"
+        }
+      ]
+    }
+  ]
+}
+
