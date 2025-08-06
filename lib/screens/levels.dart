@@ -793,6 +793,7 @@ class _LessonsScreenState extends State<LessonsScreen> {
       ),
     );
   }
+  
 }
 
 class LessonDetailScreen extends StatefulWidget {

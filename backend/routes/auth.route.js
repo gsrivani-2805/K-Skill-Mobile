@@ -2,8 +2,51 @@ const express = require("express");
 const router = express.Router();
 const jwt = require("jsonwebtoken");
 const User = require("../models/user.model");
+const nodemailer = require("nodemailer");
+const crypto = require("crypto");
 
 const JWT_SECRET = process.env.JWT_SECRET || "your_jwt_secret";
+const otpStore = new Map(); // Temporary store
+
+function generateOTP() {
+  return crypto.randomInt(100000, 999999).toString();
+}
+
+async function sendOTP(email, otp) {
+  const transporter = nodemailer.createTransport({
+    service: "gmail",
+    auth: {
+      user: "kskill2025@gmail.com",
+      pass: "gaqk urkk ubxo rkvt " // Use Gmail App Password
+    }
+  });
+
+  await transporter.sendMail({
+    from: "kskill2025@gmail.com",
+    to: email,
+    subject: "OTP for K-Skill verification",
+    text: `Your OTP code is ${otp}. It is valid for 5 minutes.`
+  });
+}
+
+router.post("/send-otp", async (req, res) => {
+  const { email } = req.body;
+  const otp = generateOTP();
+  otpStore.set(email, { otp, expires: Date.now() + 5 * 60 * 1000 });
+  await sendOTP(email, otp);
+  res.json({ message: "OTP sent successfully" });
+});
+
+router.post("/verify-otp", (req, res) => {
+  const { email, otp } = req.body;
+  const record = otpStore.get(email);
+  if (!record || Date.now() > record.expires || record.otp !== otp) {
+    return res.status(400).json({ success: false, message: "Invalid or expired OTP" });
+  }
+  otpStore.delete(email);
+  res.json({ success: true, message: "Email verified" });
+});
+
 
 // ✅ Signup Route (no hashing)
 router.post("/signup", async (req, res) => {

@@ -1,3 +1,4 @@
+import 'package:K_Skill/assessment/assessment_screen.dart';
 import 'package:flutter/material.dart';
 import 'package:K_Skill/config/api_config.dart';
 import 'dart:convert';
@@ -480,6 +481,10 @@ class _ProfileScreenState extends State<ProfileScreen>
               ),
               onPressed: () {
                 // Navigate to start assessment screen
+                Navigator.push(
+                  context,
+                  MaterialPageRoute(builder: (_) => const AssessmentScreen()),
+                );
               },
               child: const Text("Take Assessment"),
             ),

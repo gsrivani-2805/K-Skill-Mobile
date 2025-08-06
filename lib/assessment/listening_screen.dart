@@ -25,7 +25,8 @@ class _ListeningScreenState extends State<ListeningScreen> {
   double _finalScore = 0.0;
 
   // 🎨 Color theme from reference image
-  final Color primaryColor = const Color(0xFF004AAD); // Deep Blue
+  final Color primaryColor = Colors.lightGreen; // Green
+  final Color secondaryColor = Colors.green;
   final Color accentColor = const Color(0xFFFFD700); // Bright Yellow
   final Color warningColor = const Color(0xFFEF5B25); // Vivid Orange
   final Color backgroundColor = const Color(0xFFF6F9FF); // Soft Light Blue
@@ -106,7 +107,7 @@ class _ListeningScreenState extends State<ListeningScreen> {
         .trim()
         .toLowerCase();
 
-    // 🔍 Use string similarity instead of word-by-word comparison
+    // Use string similarity instead of word-by-word comparison
     final similarity = StringSimilarity.compareTwoStrings(typed, original);
     final score = similarity * 100; // Scale to percentage
 
@@ -221,7 +222,7 @@ class _ListeningScreenState extends State<ListeningScreen> {
               style: TextStyle(
                 fontSize: 18,
                 fontWeight: FontWeight.w600,
-                color: primaryColor,
+                color: secondaryColor,
               ),
             ),
             const SizedBox(height: 16),

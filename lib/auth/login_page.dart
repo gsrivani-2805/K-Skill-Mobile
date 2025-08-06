@@ -45,6 +45,8 @@ class _LoginPageState extends State<LoginPage> {
         }),
       );
 
+      print("request to login to $baseUrl/api/auth/login");
+
       setState(() => _isLoading = false);
 
       if (response.statusCode == 200) {
