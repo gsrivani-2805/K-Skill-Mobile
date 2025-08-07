@@ -47,6 +47,18 @@ router.post("/verify-otp", (req, res) => {
   res.json({ success: true, message: "Email verified" });
 });
 
+router.post('/reset-password', async (req, res) => {
+  const { email, newPassword } = req.body;
+
+  await User.findOneAndUpdate({ email }, {
+    password: newPassword,
+    otp: null,
+    otpExpires: null
+  });
+
+  res.status(200).json({ message: 'Password updated successfully' });
+});
+
 
 // ✅ Signup Route (no hashing)
 router.post("/signup", async (req, res) => {
