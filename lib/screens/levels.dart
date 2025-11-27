@@ -1191,7 +1191,7 @@ class _LessonsScreenState extends State<LessonsScreen> {
         child: LayoutBuilder(
           builder: (context, constraints) {
             final isTablet = constraints.maxWidth > 600;
-            final isSmallScreen = constraints.maxWidth < 400;
+            final isSmallScreen = constraints.maxWidth < 450;
             final padding = isSmallScreen ? 12.0 : (isTablet ? 24.0 : 16.0);
 
             return ListView.builder(
@@ -2149,12 +2149,11 @@ class _LessonDetailScreenState extends State<LessonDetailScreen> {
           crossAxisAlignment: CrossAxisAlignment.stretch,
           children: [
             Container(
-              constraints: const BoxConstraints(maxHeight: 300),
+              constraints: const BoxConstraints(maxHeight: 500),
               child: Image.asset(
                 imagePath,
                 errorBuilder: (context, error, stackTrace) {
                   return Container(
-                    height: 200,
                     decoration: BoxDecoration(
                       color: Colors.grey[200],
                       borderRadius: BorderRadius.circular(12),

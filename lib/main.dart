@@ -72,7 +72,7 @@ class _MyKSkillAppState extends State<MyKSkillApp> with WidgetsBindingObserver {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'K-Skill App',
+      title: 'K-Skill',
       debugShowCheckedModeBanner: false,
       initialRoute: '/',
       onGenerateRoute: _generateRoute,

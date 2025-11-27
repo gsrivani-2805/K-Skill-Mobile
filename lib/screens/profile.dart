@@ -510,9 +510,6 @@ class _ProfileScreenState extends State<ProfileScreen>
                     ),
                   ],
                 ),
-                SizedBox(height: 12),
-                // Learning suggestion
-                _buildLearningSuggestion(profile.currentLevel),
               ],
             );
           } else {
@@ -618,9 +615,6 @@ class _ProfileScreenState extends State<ProfileScreen>
                     ),
                   ],
                 ),
-                SizedBox(height: 12),
-                // Learning suggestion
-                _buildLearningSuggestion(profile.currentLevel),
               ],
             );
           }
@@ -794,6 +788,9 @@ class _ProfileScreenState extends State<ProfileScreen>
     return ListView(
       padding: EdgeInsets.all(16),
       children: [
+        // Learning suggestion
+        _buildLearningSuggestion(profile.currentLevel),
+        SizedBox(height: 12),
         Row(
           children: [
             _overviewCard(
