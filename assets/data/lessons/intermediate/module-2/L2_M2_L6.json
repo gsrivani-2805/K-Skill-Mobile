@@ -232,7 +232,13 @@
               },
               "table": {
                 "title": "Singular Subjects and Verbs",
-                "headers": ["Subject (Singular)", "Verb (Simple Present)", "Verb ('be')", "Verb ('have')", "Verb ('do')"],
+                "headers": [
+                  "Subject (Singular)",
+                  "Verb (Simple Present)",
+                  "Verb ('be')",
+                  "Verb ('have')",
+                  "Verb ('do')"
+                ],
                 "rows": [
                   ["I", "eat", "am", "have", "do"],
                   ["You", "eat", "are", "have", "do"],
@@ -356,7 +362,13 @@
               },
               "table": {
                 "title": "Plural Subjects and Verbs",
-                "headers": ["Subject (Plural)", "Verb (Simple Present)", "Verb ('be')", "Verb ('have')", "Verb ('do')"],
+                "headers": [
+                  "Subject (Plural)",
+                  "Verb (Simple Present)",
+                  "Verb ('be')",
+                  "Verb ('have')",
+                  "Verb ('do')"
+                ],
                 "rows": [
                   ["We", "eat", "are", "have", "do"],
                   ["You", "eat", "are", "have", "do"],
@@ -556,8 +568,7 @@
                 "Books and pens are on the table.",
                 "Either you or I am responsible."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -659,8 +670,7 @@
                 "Some of the food is wasted.",
                 "Some of the boys are ill."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -754,8 +764,7 @@
                 "The books on the shelf are new.",
                 "The smell of the flowers is strong."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -945,8 +954,7 @@
                 "There are many people at the fair.",
                 "There is a buffalo in the field."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -1045,8 +1053,7 @@
                 "Each of the trees gives fruit.",
                 "Measles is a serious illness."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1168,13 +1175,21 @@
                 "We play kabaddi.",
                 "You teach well."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Subject and Verb in singular and plural nouns",
+      "url": "https://youtu.be/KI6jX40WM3w?si=PkwKywqnFe9Dmgcy"
+    },
+    {
+      "title": "Subject and Verb in singular and plural nouns - Part 2",
+      "url": "https://youtu.be/755TJtj0Y7M?si=rrkotBskN_VDw2Mo"
+    }
   ]
 }
-

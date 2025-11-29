@@ -175,32 +175,12 @@
               },
               "table": {
                 "title": "Regular Verb Past Simple Forms",
-                "headers": [
-                  "Base Form",
-                  "Past Simple Form",
-                  "Example"
-                ],
+                "headers": ["Base Form", "Past Simple Form", "Example"],
                 "rows": [
-                  [
-                    "walk",
-                    "walked",
-                    "I walked to school."
-                  ],
-                  [
-                    "live",
-                    "lived",
-                    "She lived here."
-                  ],
-                  [
-                    "study",
-                    "studied",
-                    "They studied hard."
-                  ],
-                  [
-                    "stop",
-                    "stopped",
-                    "He stopped the car."
-                  ]
+                  ["walk", "walked", "I walked to school."],
+                  ["live", "lived", "She lived here."],
+                  ["study", "studied", "They studied hard."],
+                  ["stop", "stopped", "He stopped the car."]
                 ]
               }
             }
@@ -285,91 +265,30 @@
                 "They learned many new things.",
                 "I bought a new book."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Common Irregular Verb Past Simple Forms",
-                "headers": [
-                  "Base Form (V1)",
-                  "Past Simple (V2)"
-                ],
+                "headers": ["Base Form (V1)", "Past Simple (V2)"],
                 "rows": [
-                  [
-                    "go",
-                    "went"
-                  ],
-                  [
-                    "eat",
-                    "ate"
-                  ],
-                  [
-                    "see",
-                    "saw"
-                  ],
-                  [
-                    "come",
-                    "came"
-                  ],
-                  [
-                    "give",
-                    "gave"
-                  ],
-                  [
-                    "drink",
-                    "drank"
-                  ],
-                  [
-                    "make",
-                    "made"
-                  ],
-                  [
-                    "buy",
-                    "bought"
-                  ],
-                  [
-                    "read",
-                    "read"
-                  ],
-                  [
-                    "write",
-                    "wrote"
-                  ],
-                  [
-                    "sleep",
-                    "slept"
-                  ],
-                  [
-                    "think",
-                    "thought"
-                  ],
-                  [
-                    "find",
-                    "found"
-                  ],
-                  [
-                    "begin",
-                    "began"
-                  ],
-                  [
-                    "stand",
-                    "stood"
-                  ],
-                  [
-                    "speak",
-                    "spoke"
-                  ],
-                  [
-                    "bring",
-                    "brought"
-                  ],
-                  [
-                    "feel",
-                    "felt"
-                  ],
-                  [
-                    "tell",
-                    "told"
-                  ]
+                  ["go", "went"],
+                  ["eat", "ate"],
+                  ["see", "saw"],
+                  ["come", "came"],
+                  ["give", "gave"],
+                  ["drink", "drank"],
+                  ["make", "made"],
+                  ["buy", "bought"],
+                  ["read", "read"],
+                  ["write", "wrote"],
+                  ["sleep", "slept"],
+                  ["think", "thought"],
+                  ["find", "found"],
+                  ["begin", "began"],
+                  ["stand", "stood"],
+                  ["speak", "spoke"],
+                  ["bring", "brought"],
+                  ["feel", "felt"],
+                  ["tell", "told"]
                 ]
               }
             }
@@ -439,8 +358,7 @@
                 "He didn't speak loudly.",
                 "I didn't sleep well last night."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negative Sentence Structure: Simple Past",
                 "headers": [
@@ -449,41 +367,13 @@
                   "Main Verb (Base Form)"
                 ],
                 "rows": [
-                  [
-                    "I",
-                    "didn't",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "didn't",
-                    "eat"
-                  ],
-                  [
-                    "He",
-                    "didn't",
-                    "study"
-                  ],
-                  [
-                    "She",
-                    "didn't",
-                    "play"
-                  ],
-                  [
-                    "It",
-                    "didn't",
-                    "work"
-                  ],
-                  [
-                    "We",
-                    "didn't",
-                    "help"
-                  ],
-                  [
-                    "They",
-                    "didn't",
-                    "live"
-                  ]
+                  ["I", "didn't", "go"],
+                  ["You", "didn't", "eat"],
+                  ["He", "didn't", "study"],
+                  ["She", "didn't", "play"],
+                  ["It", "didn't", "work"],
+                  ["We", "didn't", "help"],
+                  ["They", "didn't", "live"]
                 ]
               }
             }
@@ -553,8 +443,7 @@
                 "Did they find the lost goat?",
                 "Did the shop close early?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Question Sentence Structure: Simple Past",
                 "headers": [
@@ -564,48 +453,13 @@
                   "Rest of Sentence?"
                 ],
                 "rows": [
-                  [
-                    "Did",
-                    "I",
-                    "go",
-                    "to the market?"
-                  ],
-                  [
-                    "Did",
-                    "you",
-                    "eat",
-                    "mangoes?"
-                  ],
-                  [
-                    "Did",
-                    "he",
-                    "study",
-                    "English?"
-                  ],
-                  [
-                    "Did",
-                    "she",
-                    "play",
-                    "cricket?"
-                  ],
-                  [
-                    "Did",
-                    "it",
-                    "rain",
-                    "yesterday?"
-                  ],
-                  [
-                    "Did",
-                    "we",
-                    "learn",
-                    "this?"
-                  ],
-                  [
-                    "Did",
-                    "they",
-                    "sleep",
-                    "well?"
-                  ]
+                  ["Did", "I", "go", "to the market?"],
+                  ["Did", "you", "eat", "mangoes?"],
+                  ["Did", "he", "study", "English?"],
+                  ["Did", "she", "play", "cricket?"],
+                  ["Did", "it", "rain", "yesterday?"],
+                  ["Did", "we", "learn", "this?"],
+                  ["Did", "they", "sleep", "well?"]
                 ]
               }
             }
@@ -675,8 +529,7 @@
                 "I wrote a letter.",
                 "You sang a beautiful song."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -744,8 +597,7 @@
                 "He found his keys, opened the door, and went inside.",
                 "She prayed, ate, and then went to sleep."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -813,8 +665,7 @@
                 "We often sang folk songs.",
                 "He always listened to elders."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -887,8 +738,7 @@
                 "Incorrect: They didn't found. -> Correct: They didn't find.",
                 "Incorrect: Did it worked? -> Correct: Did it work?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -956,8 +806,7 @@
                 "Incorrect: The child beginned to cry. -> Correct: The child began to cry.",
                 "Incorrect: I buyed vegetables. -> Correct: I bought vegetables."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1046,27 +895,14 @@
                 "The cows were grazing in the field.",
                 "He wasn't feeling well yesterday."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Past Continuous Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive (+)",
-                    "Subject + was/were + Verb-ing"
-                  ],
-                  [
-                    "Negative (-)",
-                    "Subject + was/were + not + Verb-ing"
-                  ],
-                  [
-                    "Question (?)",
-                    "Was/Were + Subject + Verb-ing?"
-                  ]
+                  ["Positive (+)", "Subject + was/were + Verb-ing"],
+                  ["Negative (-)", "Subject + was/were + not + Verb-ing"],
+                  ["Question (?)", "Was/Were + Subject + Verb-ing?"]
                 ]
               }
             }
@@ -1194,23 +1030,14 @@
               },
               "table": {
                 "title": "Past Perfect Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive (+)",
-                    "Subject + had + Past Participle (V3)"
-                  ],
+                  ["Positive (+)", "Subject + had + Past Participle (V3)"],
                   [
                     "Negative (-)",
                     "Subject + had + not + Past Participle (V3)"
                   ],
-                  [
-                    "Question (?)",
-                    "Had + Subject + Past Participle (V3)?"
-                  ]
+                  ["Question (?)", "Had + Subject + Past Participle (V3)?"]
                 ]
               }
             }
@@ -1297,23 +1124,11 @@
               },
               "table": {
                 "title": "Past Perfect Continuous Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive (+)",
-                    "Subject + had been + Verb-ing"
-                  ],
-                  [
-                    "Negative (-)",
-                    "Subject + had not been + Verb-ing"
-                  ],
-                  [
-                    "Question (?)",
-                    "Had + Subject + been + Verb-ing?"
-                  ]
+                  ["Positive (+)", "Subject + had been + Verb-ing"],
+                  ["Negative (-)", "Subject + had not been + Verb-ing"],
+                  ["Question (?)", "Had + Subject + been + Verb-ing?"]
                 ]
               }
             }
@@ -1321,6 +1136,39 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Simple Past Tense",
+      "url": "https://www.youtube.com/watch?v=MI3S3kdkofo"
+    },
+    {
+      "title": "Types of Past Tenses",
+      "url": "https://www.youtube.com/watch?v=1HDvZsAFag4&t=28s"
+    },
+    {
+      "title": "Verb Forms",
+      "url": "https://youtu.be/zxdJrecDiZQ?si=HGo7C007MzQoFKcv"
+    },
+    {
+      "title": "Examples in English to Telugu",
+      "url": "https://youtu.be/M0coXqLE49g?si=FLlPVtDSNSV0COZ-"
+    },
+    {
+      "title": "Past Continuous Tense",
+      "url": "https://youtu.be/RlEF3-onNWU?si=eAtmVcHEcihaGAYV"
+    },
+    {
+      "title": "Conversations using Past Tenses",
+      "url": "https://youtu.be/Gov9YglRZzQ?si=zVPTTG3xGT5g16Eb"
+    },
+    {
+      "title": "Past Perfect Continuous Sentence Structure",
+      "url": "https://youtu.be/b58nDmqawPQ?si=CIixjEsCBZOwWpHr"
+    },
+    {
+      "title": "Past perfect Tense",
+      "url": "https://youtu.be/zjnJo09cS3s?si=B8YKTrrSxezL_jhu"
+    }
   ]
 }
-

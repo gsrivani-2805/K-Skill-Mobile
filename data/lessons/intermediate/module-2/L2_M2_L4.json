@@ -1,4 +1,3 @@
-
 {
   "level": "Intermediate",
   "module": "Grammar Expansion",
@@ -301,8 +300,7 @@
                 "The road is rough, but it leads to a beautiful place.",
                 "I like sweets, but I don't eat them often."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -392,8 +390,7 @@
                 "Finish your work, or you will be late.",
                 "Should I wear a shirt or a kurta?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -483,8 +480,7 @@
                 "The movie was boring, so I slept.",
                 "He finished his chores, so he went to play."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -574,8 +570,7 @@
                 "But and so show more meaning.",
                 "Practice helps you use them right."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Coordinating Conjunctions: Comma Rule",
                 "headers": ["Type of Connection", "Comma Needed?", "Example"],
@@ -583,7 +578,11 @@
                   ["Two words", "No", "I like apples and mangoes."],
                   ["Two phrases", "No", "He runs fast or swims well."],
                   ["Two full sentences", "Yes", "She smiled, and he laughed."],
-                  ["List of three or more", "Yes", "I like rice, roti, and curry."]
+                  [
+                    "List of three or more",
+                    "Yes",
+                    "I like rice, roti, and curry."
+                  ]
                 ]
               }
             }
@@ -780,8 +779,7 @@
                 "We went to the river, although the water was cold.",
                 "Although the village is small, it has a good school."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -971,8 +969,7 @@
                 "If he calls, tell him I am busy.",
                 "If you study, you will learn."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1070,14 +1067,21 @@
                 "Practice combining short sentences.",
                 "This makes your writing much better."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Subordinating Conjunctions: Comma Rule",
                 "headers": ["Clause Order", "Comma Needed?", "Example"],
                 "rows": [
-                  ["Subordinate + Main", "Yes", "Because it's hot, I'll drink water."],
-                  ["Main + Subordinate", "No", "I'll drink water because it's hot."]
+                  [
+                    "Subordinate + Main",
+                    "Yes",
+                    "Because it's hot, I'll drink water."
+                  ],
+                  [
+                    "Main + Subordinate",
+                    "No",
+                    "I'll drink water because it's hot."
+                  ]
                 ]
               }
             }
@@ -1085,6 +1089,23 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Conjunctions",
+      "url": "https://youtu.be/3qbfcHiUrcI?si=ySap7ua73pBGHD-x"
+    },
+    {
+      "title": "Coordinating Conjunctions",
+      "url": "https://youtu.be/iva58V9ESvY?si=gFfbB3YwglKpg9ox"
+    },
+    {
+      "title": "Correlative Conjunctions",
+      "url": "https://youtu.be/-8hxRH0PNxc?si=-mazWi-wCeB2QioL"
+    },
+    {
+      "title": "Subordinating Conjunctions",
+      "url": "https://youtu.be/EvTq4hvHDeE?si=Q7TjDELAyTzvdldM"
+    }
   ]
 }
-

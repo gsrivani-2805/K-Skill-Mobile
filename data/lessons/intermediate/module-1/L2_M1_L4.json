@@ -1,4 +1,3 @@
-
 {
   "level": "Intermediate",
   "module": "Sentence Formation & Tenses",
@@ -181,47 +180,15 @@
               },
               "table": {
                 "title": "Positive Sentence Structure with 'Will'",
-                "headers": [
-                  "Subject",
-                  "Will",
-                  "Base Verb"
-                ],
+                "headers": ["Subject", "Will", "Base Verb"],
                 "rows": [
-                  [
-                    "I",
-                    "will",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "will",
-                    "eat"
-                  ],
-                  [
-                    "He",
-                    "will",
-                    "study"
-                  ],
-                  [
-                    "She",
-                    "will",
-                    "play"
-                  ],
-                  [
-                    "It",
-                    "will",
-                    "rain"
-                  ],
-                  [
-                    "We",
-                    "will",
-                    "help"
-                  ],
-                  [
-                    "They",
-                    "will",
-                    "live"
-                  ]
+                  ["I", "will", "go"],
+                  ["You", "will", "eat"],
+                  ["He", "will", "study"],
+                  ["She", "will", "play"],
+                  ["It", "will", "rain"],
+                  ["We", "will", "help"],
+                  ["They", "will", "live"]
                 ]
               }
             }
@@ -298,51 +265,18 @@
                 "The lights won't go out.",
                 "I won't give up."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negative Sentence Structure with 'Will'",
-                "headers": [
-                  "Subject",
-                  "Will not / Won't",
-                  "Base Verb"
-                ],
+                "headers": ["Subject", "Will not / Won't", "Base Verb"],
                 "rows": [
-                  [
-                    "I",
-                    "won't",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "won't",
-                    "eat"
-                  ],
-                  [
-                    "He",
-                    "won't",
-                    "study"
-                  ],
-                  [
-                    "She",
-                    "won't",
-                    "play"
-                  ],
-                  [
-                    "It",
-                    "won't",
-                    "rain"
-                  ],
-                  [
-                    "We",
-                    "won't",
-                    "help"
-                  ],
-                  [
-                    "They",
-                    "won't",
-                    "live"
-                  ]
+                  ["I", "won't", "go"],
+                  ["You", "won't", "eat"],
+                  ["He", "won't", "study"],
+                  ["She", "won't", "play"],
+                  ["It", "won't", "rain"],
+                  ["We", "won't", "help"],
+                  ["They", "won't", "live"]
                 ]
               }
             }
@@ -419,8 +353,7 @@
                 "Will you bring water?",
                 "Will I be able to do it?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Question Sentence Structure with 'Will'",
                 "headers": [
@@ -430,48 +363,13 @@
                   "Rest of Sentence?"
                 ],
                 "rows": [
-                  [
-                    "Will",
-                    "I",
-                    "go",
-                    "there?"
-                  ],
-                  [
-                    "Will",
-                    "you",
-                    "eat",
-                    "lunch?"
-                  ],
-                  [
-                    "Will",
-                    "he",
-                    "study",
-                    "hard?"
-                  ],
-                  [
-                    "Will",
-                    "she",
-                    "play",
-                    "games?"
-                  ],
-                  [
-                    "Will",
-                    "it",
-                    "rain",
-                    "today?"
-                  ],
-                  [
-                    "Will",
-                    "we",
-                    "help",
-                    "them?"
-                  ],
-                  [
-                    "Will",
-                    "they",
-                    "live",
-                    "here?"
-                  ]
+                  ["Will", "I", "go", "there?"],
+                  ["Will", "you", "eat", "lunch?"],
+                  ["Will", "he", "study", "hard?"],
+                  ["Will", "she", "play", "games?"],
+                  ["Will", "it", "rain", "today?"],
+                  ["Will", "we", "help", "them?"],
+                  ["Will", "they", "live", "here?"]
                 ]
               }
             }
@@ -544,15 +442,10 @@
                 "I'll carry your load.",
                 "It will be difficult, but we will try."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Uses of 'Will'",
-                "headers": [
-                  "Use",
-                  "Explanation",
-                  "Example"
-                ],
+                "headers": ["Use", "Explanation", "Example"],
                 "rows": [
                   [
                     "Prediction",
@@ -663,59 +556,18 @@
                 "The well is going to be dry soon.",
                 "I'm going to finish this work."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Positive Sentence Structure with 'Be Going To'",
-                "headers": [
-                  "Subject",
-                  "am/is/are",
-                  "going to",
-                  "Base Verb"
-                ],
+                "headers": ["Subject", "am/is/are", "going to", "Base Verb"],
                 "rows": [
-                  [
-                    "I",
-                    "am",
-                    "going to",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "are",
-                    "going to",
-                    "eat"
-                  ],
-                  [
-                    "He",
-                    "is",
-                    "going to",
-                    "study"
-                  ],
-                  [
-                    "She",
-                    "is",
-                    "going to",
-                    "play"
-                  ],
-                  [
-                    "It",
-                    "is",
-                    "going to",
-                    "rain"
-                  ],
-                  [
-                    "We",
-                    "are",
-                    "going to",
-                    "help"
-                  ],
-                  [
-                    "They",
-                    "are",
-                    "going to",
-                    "live"
-                  ]
+                  ["I", "am", "going to", "go"],
+                  ["You", "are", "going to", "eat"],
+                  ["He", "is", "going to", "study"],
+                  ["She", "is", "going to", "play"],
+                  ["It", "is", "going to", "rain"],
+                  ["We", "are", "going to", "help"],
+                  ["They", "are", "going to", "live"]
                 ]
               }
             }
@@ -788,8 +640,7 @@
                 "The school isn't going to close.",
                 "I'm not going to eat that."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negative Sentence Structure with 'Be Going To'",
                 "headers": [
@@ -799,48 +650,13 @@
                   "Base Verb"
                 ],
                 "rows": [
-                  [
-                    "I",
-                    "am not (I'm not)",
-                    "going to",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "are not (aren't)",
-                    "going to",
-                    "eat"
-                  ],
-                  [
-                    "He",
-                    "is not (isn't)",
-                    "going to",
-                    "study"
-                  ],
-                  [
-                    "She",
-                    "is not (isn't)",
-                    "going to",
-                    "play"
-                  ],
-                  [
-                    "It",
-                    "is not (isn't)",
-                    "going to",
-                    "rain"
-                  ],
-                  [
-                    "We",
-                    "are not (aren't)",
-                    "going to",
-                    "help"
-                  ],
-                  [
-                    "They",
-                    "are not (aren't)",
-                    "going to",
-                    "live"
-                  ]
+                  ["I", "am not (I'm not)", "going to", "go"],
+                  ["You", "are not (aren't)", "going to", "eat"],
+                  ["He", "is not (isn't)", "going to", "study"],
+                  ["She", "is not (isn't)", "going to", "play"],
+                  ["It", "is not (isn't)", "going to", "rain"],
+                  ["We", "are not (aren't)", "going to", "help"],
+                  ["They", "are not (aren't)", "going to", "live"]
                 ]
               }
             }
@@ -913,8 +729,7 @@
                 "Are we going to learn this?",
                 "Is your sister going to visit?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Question Sentence Structure with 'Be Going To'",
                 "headers": [
@@ -925,55 +740,13 @@
                   "Rest of Sentence?"
                 ],
                 "rows": [
-                  [
-                    "Am",
-                    "I",
-                    "going to",
-                    "go",
-                    "there?"
-                  ],
-                  [
-                    "Are",
-                    "you",
-                    "going to",
-                    "eat",
-                    "lunch?"
-                  ],
-                  [
-                    "Is",
-                    "he",
-                    "going to",
-                    "study",
-                    "hard?"
-                  ],
-                  [
-                    "Is",
-                    "she",
-                    "going to",
-                    "play",
-                    "games?"
-                  ],
-                  [
-                    "Is",
-                    "it",
-                    "going to",
-                    "rain",
-                    "today?"
-                  ],
-                  [
-                    "Are",
-                    "we",
-                    "going to",
-                    "help",
-                    "them?"
-                  ],
-                  [
-                    "Are",
-                    "they",
-                    "going to",
-                    "live",
-                    "here?"
-                  ]
+                  ["Am", "I", "going to", "go", "there?"],
+                  ["Are", "you", "going to", "eat", "lunch?"],
+                  ["Is", "he", "going to", "study", "hard?"],
+                  ["Is", "she", "going to", "play", "games?"],
+                  ["Is", "it", "going to", "rain", "today?"],
+                  ["Are", "we", "going to", "help", "them?"],
+                  ["Are", "they", "going to", "live", "here?"]
                 ]
               }
             }
@@ -1030,15 +803,10 @@
                 "My uncle is going to visit us next week.",
                 "We are going to have a big feast."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Uses of 'Be Going To'",
-                "headers": [
-                  "Use",
-                  "Explanation",
-                  "Example"
-                ],
+                "headers": ["Use", "Explanation", "Example"],
                 "rows": [
                   [
                     "Plans/Intentions",
@@ -1119,14 +887,10 @@
                 "The sun will shine brightly.",
                 "They are going to celebrate the harvest."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Will vs. Be Going To",
-                "headers": [
-                  "'Will'",
-                  "'Be Going To'"
-                ],
+                "headers": ["'Will'", "'Be Going To'"],
                 "rows": [
                   [
                     "For predictions (less certainty, general)",
@@ -1184,8 +948,7 @@
                 "They will be harvesting the crops all of next week.",
                 "He won't be playing, he will be studying."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1225,23 +988,11 @@
               },
               "table": {
                 "title": "Future Continuous Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive",
-                    "Subject + will be + Verb-ing"
-                  ],
-                  [
-                    "Negative",
-                    "Subject + won't be + Verb-ing"
-                  ],
-                  [
-                    "Question",
-                    "Will + Subject + be + Verb-ing?"
-                  ]
+                  ["Positive", "Subject + will be + Verb-ing"],
+                  ["Negative", "Subject + won't be + Verb-ing"],
+                  ["Question", "Will + Subject + be + Verb-ing?"]
                 ]
               }
             }
@@ -1328,23 +1079,11 @@
               },
               "table": {
                 "title": "Future Perfect Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive",
-                    "Subject + will have + Past Participle (V3)"
-                  ],
-                  [
-                    "Negative",
-                    "Subject + won't have + Past Participle (V3)"
-                  ],
-                  [
-                    "Question",
-                    "Will + Subject + have + Past Participle (V3)?"
-                  ]
+                  ["Positive", "Subject + will have + Past Participle (V3)"],
+                  ["Negative", "Subject + won't have + Past Participle (V3)"],
+                  ["Question", "Will + Subject + have + Past Participle (V3)?"]
                 ]
               }
             }
@@ -1431,23 +1170,11 @@
               },
               "table": {
                 "title": "Future Perfect Continuous Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive",
-                    "Subject + will have been + Verb-ing"
-                  ],
-                  [
-                    "Negative",
-                    "Subject + won't have been + Verb-ing"
-                  ],
-                  [
-                    "Question",
-                    "Will + Subject + have been + Verb-ing?"
-                  ]
+                  ["Positive", "Subject + will have been + Verb-ing"],
+                  ["Negative", "Subject + won't have been + Verb-ing"],
+                  ["Question", "Will + Subject + have been + Verb-ing?"]
                 ]
               }
             }
@@ -1517,8 +1244,7 @@
                 "Incorrect: You will sees. -> Correct: You will see.",
                 "Incorrect: The child is going to cried. -> Correct: The child is going to cry."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1586,8 +1312,7 @@
                 "Incorrect: The river are going. -> Correct: The river is going.",
                 "Incorrect: The children is going. -> Correct: The children are going."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1598,6 +1323,19 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Future Tense Introduction",
+      "url": "https://youtu.be/kSo9BYCAVEk?si=7p3sehWWU03ydWzK"
+    },
+    {
+      "title": "All types of future tense",
+      "url": "https://youtu.be/sK1SPkLZz2Q?si=qel3M45wbMmuDczY"
+    },
+    {
+      "title": "Examples of Future Tense",
+      "url": "https://youtu.be/sK1SPkLZz2Q?si=qel3M45wbMmuDczY"
+    }
   ]
 }
-

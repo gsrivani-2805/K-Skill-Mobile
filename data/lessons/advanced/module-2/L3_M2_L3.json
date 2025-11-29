@@ -176,11 +176,26 @@
                 "title": "Comparison Words",
                 "headers": ["Word/Phrase", "Example Sentence"],
                 "rows": [
-                  ["Similarly", "Villages often have strong communities. Similarly, small towns can be very close-knit."],
-                  ["Likewise", "Reading a book is a good habit. Likewise, writing a diary is beneficial."],
-                  ["Also", "Farming is a common occupation in rural areas. Weaving is also a traditional job."],
-                  ["Both", "Both bicycles and motorcycles are useful for short distances."],
-                  ["In the same way", "A tractor helps a farmer. In the same way, a computer helps a student."]
+                  [
+                    "Similarly",
+                    "Villages often have strong communities. Similarly, small towns can be very close-knit."
+                  ],
+                  [
+                    "Likewise",
+                    "Reading a book is a good habit. Likewise, writing a diary is beneficial."
+                  ],
+                  [
+                    "Also",
+                    "Farming is a common occupation in rural areas. Weaving is also a traditional job."
+                  ],
+                  [
+                    "Both",
+                    "Both bicycles and motorcycles are useful for short distances."
+                  ],
+                  [
+                    "In the same way",
+                    "A tractor helps a farmer. In the same way, a computer helps a student."
+                  ]
                 ]
               }
             }
@@ -232,11 +247,26 @@
                 "title": "Contrast Words",
                 "headers": ["Word/Phrase", "Example Sentence"],
                 "rows": [
-                  ["However", "Buses are cheap. However, they can be very crowded."],
-                  ["On the other hand", "A dog is a very social animal. On the other hand, a cat is more independent."],
-                  ["In contrast", "Summer is very hot. In contrast, winter is cold."],
-                  ["While / Whereas", "While a farmer grows food, a doctor treats sick people."],
-                  ["Unlike", "Unlike a small shop, a supermarket sells thousands of different items."]
+                  [
+                    "However",
+                    "Buses are cheap. However, they can be very crowded."
+                  ],
+                  [
+                    "On the other hand",
+                    "A dog is a very social animal. On the other hand, a cat is more independent."
+                  ],
+                  [
+                    "In contrast",
+                    "Summer is very hot. In contrast, winter is cold."
+                  ],
+                  [
+                    "While / Whereas",
+                    "While a farmer grows food, a doctor treats sick people."
+                  ],
+                  [
+                    "Unlike",
+                    "Unlike a small shop, a supermarket sells thousands of different items."
+                  ]
                 ]
               }
             }
@@ -270,6 +300,15 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Compare and Contrast Essay Writing - Part 1",
+      "url": "https://www.youtube.com/watch?v=2m0wWi1UCGk"
+    },
+    {
+      "title": "Compare and Contrast Essay Writing - Part 2",
+      "url": "https://www.youtube.com/watch?v=wlFVscaCRpE"
+    }
   ]
 }
-

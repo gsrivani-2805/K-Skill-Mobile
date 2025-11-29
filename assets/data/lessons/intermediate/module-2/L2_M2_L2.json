@@ -252,8 +252,7 @@
                 "I need some sugar for my tea.",
                 "She ate the whole plate of food."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -427,8 +426,7 @@
                 "Either of the two wells has clean water.",
                 "Neither story was true."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -511,39 +509,15 @@
               },
               "table": {
                 "title": "Common Comparative Adjectives",
-                "headers": [
-                  "Adjective",
-                  "Comparative"
-                ],
+                "headers": ["Adjective", "Comparative"],
                 "rows": [
-                  [
-                    "tall",
-                    "taller"
-                  ],
-                  [
-                    "big",
-                    "bigger"
-                  ],
-                  [
-                    "happy",
-                    "happier"
-                  ],
-                  [
-                    "beautiful",
-                    "more beautiful"
-                  ],
-                  [
-                    "good",
-                    "better"
-                  ],
-                  [
-                    "bad",
-                    "worse"
-                  ],
-                  [
-                    "far",
-                    "farther / further"
-                  ]
+                  ["tall", "taller"],
+                  ["big", "bigger"],
+                  ["happy", "happier"],
+                  ["beautiful", "more beautiful"],
+                  ["good", "better"],
+                  ["bad", "worse"],
+                  ["far", "farther / further"]
                 ]
               }
             }
@@ -623,43 +597,18 @@
                 "It was the happiest day of my life.",
                 "The Ganges is one of the longest rivers."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Common Superlative Adjectives",
-                "headers": [
-                  "Adjective",
-                  "Superlative"
-                ],
+                "headers": ["Adjective", "Superlative"],
                 "rows": [
-                  [
-                    "tall",
-                    "tallest"
-                  ],
-                  [
-                    "big",
-                    "biggest"
-                  ],
-                  [
-                    "happy",
-                    "happiest"
-                  ],
-                  [
-                    "beautiful",
-                    "most beautiful"
-                  ],
-                  [
-                    "good",
-                    "best"
-                  ],
-                  [
-                    "bad",
-                    "worst"
-                  ],
-                  [
-                    "far",
-                    "farthest / furthest"
-                  ]
+                  ["tall", "tallest"],
+                  ["big", "biggest"],
+                  ["happy", "happiest"],
+                  ["beautiful", "most beautiful"],
+                  ["good", "best"],
+                  ["bad", "worst"],
+                  ["far", "farthest / furthest"]
                 ]
               }
             }
@@ -667,6 +616,39 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Adjectives",
+      "url": "https://youtu.be/hifcUYaACzI?si=Fyx3xMsUxFZZAnnr"
+    },
+    {
+      "title": "Position of Adjectives",
+      "url": "https://youtu.be/74lkAF1s-IU?si=WY60SCxNI-4hD6Mh"
+    },
+    {
+      "title": "Quantitative words",
+      "url": "https://youtu.be/sAoUvgD9DJA?si=e8K180URN28cbMiW"
+    },
+    {
+      "title": "Demonstrative Words",
+      "url": "https://youtu.be/_JWWVfwrTNw?si=U9DUpzdlpXnPV4rt"
+    },
+    {
+      "title": "Possessive Adjective",
+      "url": "https://youtu.be/-S9mU-Ue_0k?si=xX-WbcVOfPZccK9o"
+    },
+    {
+      "title": "Interrogative Adjectives",
+      "url": "https://youtu.be/dGxXe1CjdYY?si=eqBYk_gvNIXb_qwY"
+    },
+    {
+      "title": "Distributive Adjectives",
+      "url": "https://youtu.be/G8zXP0vTPQU?si=fncJZP-LmBONqLE5"
+    },
+    {
+      "title": "Comparative Adjectives",
+      "url": "https://youtu.be/f1oSnDjMcWc?si=b6OCcy90kRSQXecU"
+    }
   ]
 }
-

@@ -255,8 +255,7 @@
                 "This part is exciting.",
                 "Events lead to the end here."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -334,8 +333,7 @@
                 "Heroes usually get rewarded.",
                 "The story finishes happily."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -418,8 +416,7 @@
                 "Who helps the hero?",
                 "List all the people in the story."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -504,9 +501,21 @@
                 "title": "Common Character Types in Folk Tales",
                 "headers": ["Type", "Role", "Example"],
                 "rows": [
-                  ["Hero", "The main good person; solves problems", "A brave prince"],
-                  ["Villain", "The bad person; creates problems for the hero", "A wicked witch"],
-                  ["Helper", "Someone who assists the hero in their journey or task", "A wise old man"]
+                  [
+                    "Hero",
+                    "The main good person; solves problems",
+                    "A brave prince"
+                  ],
+                  [
+                    "Villain",
+                    "The bad person; creates problems for the hero",
+                    "A wicked witch"
+                  ],
+                  [
+                    "Helper",
+                    "Someone who assists the hero in their journey or task",
+                    "A wise old man"
+                  ]
                 ]
               }
             }
@@ -591,8 +600,7 @@
                 "The villagers had no water, that was the problem.",
                 "The evil person causes the conflict."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -670,8 +678,7 @@
                 "List the main things that happened.",
                 "Follow the actions step-by-step."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -749,8 +756,7 @@
                 "The village got water again.",
                 "Everyone was safe in the end."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -913,12 +919,25 @@
                 "Family is very important in this culture.",
                 "It reflects village traditions."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
       ]
+    }
+  ],
+  "youtube_resources": [
+    {
+      "title": "What is a Folk tale?",
+      "url": "https://youtu.be/AtLeYV5f3Lg?si=tETnER__JqoSmXDX"
+    },
+    {
+      "title": "What are News Headlines?",
+      "url": "https://youtu.be/sFfljjlB9AM?si=QUCY1KeQlorTISIJ"
+    },
+    {
+      "title": "What are Skimming nad Scanning?",
+      "url": "https://youtu.be/F1wPYHa5nUg?si=Bg8EQo3EV9-EPqKI"
     }
   ]
 }

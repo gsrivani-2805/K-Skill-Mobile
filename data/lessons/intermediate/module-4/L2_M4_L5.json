@@ -167,17 +167,9 @@
               },
               "table": {
                 "title": "Informal Message Format",
-                "headers": [
-                  "Part",
-                  "What to Write",
-                  "Location"
-                ],
+                "headers": ["Part", "What to Write", "Location"],
                 "rows": [
-                  [
-                    "Heading",
-                    "The word 'MESSAGE'",
-                    "Center, at the top"
-                  ],
+                  ["Heading", "The word 'MESSAGE'", "Center, at the top"],
                   [
                     "Date",
                     "Day, Month, Year (e.g., July 18, 2025)",
@@ -203,11 +195,7 @@
                     "Your name or the sender's name",
                     "Left side, at the bottom"
                   ],
-                  [
-                    "Box",
-                    "The entire message",
-                    "Enclosed within a box"
-                  ]
+                  ["Box", "The entire message", "Enclosed within a box"]
                 ]
               }
             }
@@ -407,8 +395,7 @@
                 "The invitation was for a study group.",
                 "We got an invitation for a family event."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -471,8 +458,7 @@
                 "The principal sends information messages on the notice board.",
                 "He wrote an information message about the new farm tools."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -535,8 +521,7 @@
                 "The message asked if someone could bring water.",
                 "He requested to know the time of the meeting."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -599,8 +584,7 @@
                 "I am sorry for the inconvenience.",
                 "He apologized for breaking the tool."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -622,8 +606,7 @@
                 "Draft a message to invite neighbors to a new well inauguration.",
                 "Design a message for a village cleanliness drive."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -640,8 +623,7 @@
                 "Write a message announcing a free eye check-up camp in the village.",
                 "Design a message about new timings for the village library."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -658,8 +640,7 @@
                 "Write a message requesting a neighbour to look after your pet while you are away.",
                 "Design a message asking your teacher for an extra pen."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -676,12 +657,17 @@
                 "Write a message apologizing for being late to school.",
                 "Design a message to apologize for accidentally breaking something belonging to someone else."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
       ]
+    }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Informal letter",
+      "url": "https://youtu.be/P3k148sIiSk?si=EUovnynpfwqxdfLF"
     }
   ]
 }

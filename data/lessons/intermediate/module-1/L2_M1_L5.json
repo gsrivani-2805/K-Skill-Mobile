@@ -671,8 +671,7 @@
                 "Where can I find fresh vegetables?",
                 "Where does your grandfather work?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -787,8 +786,7 @@
                 "When can we start playing?",
                 "When should I call you?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -903,8 +901,7 @@
                 "Who is the village headman?",
                 "Who is making that noise?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1019,8 +1016,7 @@
                 "Why are you so late?",
                 "Why isn't the fan working?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1135,8 +1131,7 @@
                 "How often do you visit the city?",
                 "How long will it take?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1251,8 +1246,7 @@
                 "Which pen is better, this one or that one?",
                 "Which river is longer, Ganga or Yamuna?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -1381,8 +1375,7 @@
                 "The food is not spicy.",
                 "My friends are not coming."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negatives with 'be' verbs",
                 "headers": ["Statement", "Negative"],
@@ -1525,8 +1518,7 @@
                 "The dog did not bark.",
                 "My parents do not allow it."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negatives with 'do', 'does', 'did'",
                 "headers": ["Subject", "Present Negative", "Past Negative"],
@@ -1652,8 +1644,7 @@
                 "She cannot find her book.",
                 "He will not work today."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negatives with Modal Verbs",
                 "headers": ["Statement", "Negative"],
@@ -1778,8 +1769,7 @@
                 "Our village does not have a hospital.",
                 "We do not have a holiday tomorrow."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -1880,18 +1870,41 @@
                 "The food was delicious, wasn't it?",
                 "He doesn't have a brother, does he?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Question Tag Rules",
                 "headers": ["Statement Type", "Tag Verb", "Example"],
                 "rows": [
-                  ["Positive with 'be'", "negative 'be'", "He is tall, isn't he?"],
-                  ["Negative with 'be'", "positive 'be'", "She isn't sad, is she?"],
-                  ["Positive (no aux)", "negative 'do/does/did'", "You like sweets, don't you?"],
-                  ["Negative (no aux)", "positive 'do/does/did'", "He didn't go, did he?"],
-                  ["Positive with Modal", "negative Modal", "We can help, can't we?"],
-                  ["Negative with Modal", "positive Modal", "They won't leave, will they?"],
+                  [
+                    "Positive with 'be'",
+                    "negative 'be'",
+                    "He is tall, isn't he?"
+                  ],
+                  [
+                    "Negative with 'be'",
+                    "positive 'be'",
+                    "She isn't sad, is she?"
+                  ],
+                  [
+                    "Positive (no aux)",
+                    "negative 'do/does/did'",
+                    "You like sweets, don't you?"
+                  ],
+                  [
+                    "Negative (no aux)",
+                    "positive 'do/does/did'",
+                    "He didn't go, did he?"
+                  ],
+                  [
+                    "Positive with Modal",
+                    "negative Modal",
+                    "We can help, can't we?"
+                  ],
+                  [
+                    "Negative with Modal",
+                    "positive Modal",
+                    "They won't leave, will they?"
+                  ],
                   ["'I am'", "'aren't I'", "I am right, aren't I?"]
                 ]
               }
@@ -2033,13 +2046,37 @@
                 "We should leave now, shouldn't we? Yes, we should.",
                 "He won't tell anyone, will he? No, he won't."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Using 'be' verbs (is, am, are, was, were)",
+      "url": "https://youtu.be/fBO7hlX-VEI?si=LhZFuGz5T71ABWJ5"
+    },
+    {
+      "title": "Using 'do', 'does', 'did' for Questions",
+      "url": "https://youtu.be/jWfAqRYtKuI?si=Ld-nlD4r4QT1XNLf"
+    },
+    {
+      "title": "Modal verbs",
+      "url": "https://youtu.be/2kOBaf9VmVE?si=R4cAM6TbgrgyYKYd"
+    },
+    {
+      "title": "WH questions",
+      "url": "https://youtu.be/x_4AjSwTXdc?si=zc5s72Yob89wW-s6"
+    },
+    {
+      "title": "Question tags",
+      "url": "https://youtu.be/1q-zXwcELM8?si=6G7ScUpyE0_EVJ7S"
+    },
+    {
+      "title": "Response for the question tags",
+      "url": "https://youtu.be/rhApkZ7C2gg?si=csa1pWgaLNDygW0Y"
+    }
   ]
 }
-

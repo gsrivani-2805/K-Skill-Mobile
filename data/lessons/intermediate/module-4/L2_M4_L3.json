@@ -146,10 +146,7 @@
               },
               "table": {
                 "title": "Typical Diary Entry Structure",
-                "headers": [
-                  "Part",
-                  "What to Write"
-                ],
+                "headers": ["Part", "What to Write"],
                 "rows": [
                   [
                     "Date & Day",
@@ -171,10 +168,7 @@
                     "Closing (Optional)",
                     "Like 'Good night,' or 'Until tomorrow.' [1]"
                   ],
-                  [
-                    "Name/Signature (Optional)",
-                    "Your name or initials. [1, 4]"
-                  ]
+                  ["Name/Signature (Optional)", "Your name or initials. [1, 4]"]
                 ]
               }
             }
@@ -259,8 +253,7 @@
                 "The local fair started today.",
                 "I helped my younger brother with his homework."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -438,71 +431,23 @@
               },
               "table": {
                 "title": "Common Verbs in Simple Past Tense",
-                "headers": [
-                  "Present Tense",
-                  "Simple Past Tense"
-                ],
+                "headers": ["Present Tense", "Simple Past Tense"],
                 "rows": [
-                  [
-                    "is/am/are",
-                    "was/were"
-                  ],
-                  [
-                    "do/does",
-                    "did"
-                  ],
-                  [
-                    "have/has",
-                    "had"
-                  ],
-                  [
-                    "make",
-                    "made"
-                  ],
-                  [
-                    "get",
-                    "got"
-                  ],
-                  [
-                    "come",
-                    "came"
-                  ],
-                  [
-                    "take",
-                    "took"
-                  ],
-                  [
-                    "give",
-                    "gave"
-                  ],
-                  [
-                    "tell",
-                    "told"
-                  ],
-                  [
-                    "find",
-                    "found"
-                  ],
-                  [
-                    "say",
-                    "said"
-                  ],
-                  [
-                    "know",
-                    "knew"
-                  ],
-                  [
-                    "see",
-                    "saw"
-                  ],
-                  [
-                    "write",
-                    "wrote"
-                  ],
-                  [
-                    "run",
-                    "ran"
-                  ]
+                  ["is/am/are", "was/were"],
+                  ["do/does", "did"],
+                  ["have/has", "had"],
+                  ["make", "made"],
+                  ["get", "got"],
+                  ["come", "came"],
+                  ["take", "took"],
+                  ["give", "gave"],
+                  ["tell", "told"],
+                  ["find", "found"],
+                  ["say", "said"],
+                  ["know", "knew"],
+                  ["see", "saw"],
+                  ["write", "wrote"],
+                  ["run", "ran"]
                 ]
               }
             }
@@ -677,8 +622,7 @@
                 "She was **optimistic** about her future.",
                 "I was **thrilled** to meet the district collector."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -761,8 +705,7 @@
                 "Her voice sounded **sorrowful**.",
                 "I felt **regretful** for not helping my friend."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -845,8 +788,7 @@
                 "The crowd became **agitated** by the long wait.",
                 "I felt **livid** when my crops were destroyed by hail."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -929,8 +871,7 @@
                 "He felt **panicked** when he lost his way.",
                 "We were **alarmed** by the sound of the approaching wild elephants."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -948,8 +889,7 @@
               "usage_examples": [
                 "July 17, 2025, Thursday\nDear Diary,\nToday was a good day at school. We had a new English lesson. Our teacher taught us about different kinds of sentences. I understood it well. After school, I played kho-kho with my friends. I was happy because our team won. Then I went home and helped my mother. I felt tired but also good about the day.\nGood night,\n[Your Name]"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -962,8 +902,7 @@
               "usage_examples": [
                 "July 16, 2025, Wednesday\nDear Diary,\nThis morning, I woke up early and went to the farm with my father. We worked in the paddy fields. The sun was very hot, and I felt tired. But it was important work. We planted many saplings. In the evening, my father praised my hard work. I felt proud and happy. I hope the harvest will be good this year.\n[Your Name]"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -985,12 +924,17 @@
                 "Did you face any challenges, and how did you feel about them?",
                 "Who did you meet today, and how was your interaction?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
       ]
+    }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Diary Writing",
+      "url": "https://youtu.be/fTJSl6bw3qk?si=nMKynJuYL9t3iuUg"
     }
   ]
 }

@@ -175,27 +175,12 @@
               },
               "table": {
                 "title": "Positive Sentence Structure: I, You, We, They",
-                "headers": [
-                  "Subject",
-                  "Verb (Base Form)"
-                ],
+                "headers": ["Subject", "Verb (Base Form)"],
                 "rows": [
-                  [
-                    "I",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "eat"
-                  ],
-                  [
-                    "We",
-                    "study"
-                  ],
-                  [
-                    "They",
-                    "sleep"
-                  ]
+                  ["I", "go"],
+                  ["You", "eat"],
+                  ["We", "study"],
+                  ["They", "sleep"]
                 ]
               }
             }
@@ -268,27 +253,14 @@
                 "It sounds like thunder.",
                 "The bird flies high."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Positive Sentence Structure: He, She, It",
-                "headers": [
-                  "Subject",
-                  "Verb (+s/es)"
-                ],
+                "headers": ["Subject", "Verb (+s/es)"],
                 "rows": [
-                  [
-                    "He",
-                    "goes"
-                  ],
-                  [
-                    "She",
-                    "eats"
-                  ],
-                  [
-                    "It",
-                    "studies"
-                  ]
+                  ["He", "goes"],
+                  ["She", "eats"],
+                  ["It", "studies"]
                 ]
               }
             }
@@ -365,15 +337,10 @@
                 "She says hello to everyone.",
                 "It often buzzes near the light."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Spelling Rules for -s / -es Endings",
-                "headers": [
-                  "Verb Ending",
-                  "Rule",
-                  "Example (He/She/It)"
-                ],
+                "headers": ["Verb Ending", "Rule", "Example (He/She/It)"],
                 "rows": [
                   [
                     "-ch, -sh, -x, -s, -ss, -z, -o",
@@ -385,11 +352,7 @@
                     "Change -y to -ies",
                     "study -> studies, cry -> cries"
                   ],
-                  [
-                    "Vowel + -y",
-                    "Add -s",
-                    "play -> plays, enjoy -> enjoys"
-                  ]
+                  ["Vowel + -y", "Add -s", "play -> plays, enjoy -> enjoys"]
                 ]
               }
             }
@@ -467,8 +430,7 @@
                 "I don't play chess.",
                 "You don't speak Hindi."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negative Sentence Structure: I, You, We, They",
                 "headers": [
@@ -478,30 +440,10 @@
                   "Main Verb (Base Form)"
                 ],
                 "rows": [
-                  [
-                    "I",
-                    "do",
-                    "not (don't)",
-                    "go"
-                  ],
-                  [
-                    "You",
-                    "do",
-                    "not (don't)",
-                    "eat"
-                  ],
-                  [
-                    "We",
-                    "do",
-                    "not (don't)",
-                    "study"
-                  ],
-                  [
-                    "They",
-                    "do",
-                    "not (don't)",
-                    "sleep"
-                  ]
+                  ["I", "do", "not (don't)", "go"],
+                  ["You", "do", "not (don't)", "eat"],
+                  ["We", "do", "not (don't)", "study"],
+                  ["They", "do", "not (don't)", "sleep"]
                 ]
               }
             }
@@ -574,8 +516,7 @@
                 "The engine doesn't start.",
                 "He doesn't like sweets."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Negative Sentence Structure: He, She, It",
                 "headers": [
@@ -585,24 +526,9 @@
                   "Main Verb (Base Form)"
                 ],
                 "rows": [
-                  [
-                    "He",
-                    "does",
-                    "not (doesn't)",
-                    "go"
-                  ],
-                  [
-                    "She",
-                    "does",
-                    "not (doesn't)",
-                    "eat"
-                  ],
-                  [
-                    "It",
-                    "does",
-                    "not (doesn't)",
-                    "study"
-                  ]
+                  ["He", "does", "not (doesn't)", "go"],
+                  ["She", "does", "not (doesn't)", "eat"],
+                  ["It", "does", "not (doesn't)", "study"]
                 ]
               }
             }
@@ -680,8 +606,7 @@
                 "Do you eat rice for dinner?",
                 "Do I seem happy?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Question Sentence Structure: I, You, We, They",
                 "headers": [
@@ -691,30 +616,10 @@
                   "Rest of Sentence?"
                 ],
                 "rows": [
-                  [
-                    "Do",
-                    "I",
-                    "go",
-                    "to school?"
-                  ],
-                  [
-                    "Do",
-                    "you",
-                    "eat",
-                    "mangoes?"
-                  ],
-                  [
-                    "Do",
-                    "we",
-                    "study",
-                    "English?"
-                  ],
-                  [
-                    "Do",
-                    "they",
-                    "sleep",
-                    "early?"
-                  ]
+                  ["Do", "I", "go", "to school?"],
+                  ["Do", "you", "eat", "mangoes?"],
+                  ["Do", "we", "study", "English?"],
+                  ["Do", "they", "sleep", "early?"]
                 ]
               }
             }
@@ -787,8 +692,7 @@
                 "Does the farmer sell his crops?",
                 "Does he know the way?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "Question Sentence Structure: He, She, It",
                 "headers": [
@@ -798,24 +702,9 @@
                   "Rest of Sentence?"
                 ],
                 "rows": [
-                  [
-                    "Does",
-                    "he",
-                    "go",
-                    "to school?"
-                  ],
-                  [
-                    "Does",
-                    "she",
-                    "eat",
-                    "mangoes?"
-                  ],
-                  [
-                    "Does",
-                    "it",
-                    "study",
-                    "well?"
-                  ]
+                  ["Does", "he", "go", "to school?"],
+                  ["Does", "she", "eat", "mangoes?"],
+                  ["Does", "it", "study", "well?"]
                 ]
               }
             }
@@ -893,8 +782,7 @@
                 "We watch the sunset from the hill.",
                 "He never forgets his duties."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -970,8 +858,7 @@
                 "The human body needs water.",
                 "The well is deep."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1039,8 +926,7 @@
                 "Our school trip is next month.",
                 "The post office opens at 9 AM."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1108,8 +994,7 @@
                 "You plant the sapling.",
                 "You count the money."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1186,8 +1071,7 @@
                 "Incorrect: He always come late. -> Correct: He always comes late.",
                 "Incorrect: The teacher explain well. -> Correct: The teacher explains well."
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1263,8 +1147,7 @@
                 "Incorrect: The child doesn't cries. -> Correct: The child doesn't cry.",
                 "Incorrect: Do I eats too much? -> Correct: Do I eat too much?"
               ],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1379,23 +1262,11 @@
               },
               "table": {
                 "title": "Present Continuous Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive",
-                    "Subject + am/is/are + Verb-ing"
-                  ],
-                  [
-                    "Negative",
-                    "Subject + am/is/are + not + Verb-ing"
-                  ],
-                  [
-                    "Question",
-                    "Am/Is/Are + Subject + Verb-ing?"
-                  ]
+                  ["Positive", "Subject + am/is/are + Verb-ing"],
+                  ["Negative", "Subject + am/is/are + not + Verb-ing"],
+                  ["Question", "Am/Is/Are + Subject + Verb-ing?"]
                 ]
               }
             }
@@ -1425,8 +1296,7 @@
                 }
               ],
               "usage_examples": [],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1535,16 +1405,8 @@
                   "Past Participle (V3)"
                 ],
                 "rows": [
-                  [
-                    "I / You / We / They",
-                    "have",
-                    "seen, eaten, gone"
-                  ],
-                  [
-                    "He / She / It",
-                    "has",
-                    "seen, eaten, gone"
-                  ]
+                  ["I / You / We / They", "have", "seen, eaten, gone"],
+                  ["He / She / It", "has", "seen, eaten, gone"]
                 ]
               }
             }
@@ -1574,8 +1436,7 @@
                 }
               ],
               "usage_examples": [],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1677,23 +1538,11 @@
               },
               "table": {
                 "title": "Present Perfect Continuous Sentence Structure",
-                "headers": [
-                  "Type",
-                  "Structure"
-                ],
+                "headers": ["Type", "Structure"],
                 "rows": [
-                  [
-                    "Positive",
-                    "Subject + have/has + been + Verb-ing"
-                  ],
-                  [
-                    "Negative",
-                    "Subject + have/has + not + been + Verb-ing"
-                  ],
-                  [
-                    "Question",
-                    "Have/Has + Subject + been + Verb-ing?"
-                  ]
+                  ["Positive", "Subject + have/has + been + Verb-ing"],
+                  ["Negative", "Subject + have/has + not + been + Verb-ing"],
+                  ["Question", "Have/Has + Subject + been + Verb-ing?"]
                 ]
               }
             }
@@ -1723,8 +1572,7 @@
                 }
               ],
               "usage_examples": [],
-              "media": {
-              },
+              "media": {},
               "table": {
                 "title": "",
                 "headers": [],
@@ -1735,6 +1583,39 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Simple present tense types and exmaples",
+      "url": "https://youtu.be/_TUKYWPuW4g?si=FNRJRPLzF3pAHH-D"
+    },
+    {
+      "title": "Examples of the simple tense",
+      "url": "https://youtu.be/nvVdIJ0las0?si=mUEtZEirjlEGdEGU"
+    },
+    {
+      "title": "Singular and plurals",
+      "url": "https://youtu.be/WlZUY9hhYk0?si=OjGgLwfn6TDcHnMi"
+    },
+    {
+      "title": "When to the simple present tense",
+      "url": "https://youtu.be/7Oqk_UZKNF0?si=VUyUtKvfZxI8XstL"
+    },
+    {
+      "title": "Present Continuous Tense",
+      "url": "https://youtu.be/QqxdZzOorAU?si=WjfrasctYkxl0tK6"
+    },
+    {
+      "title": "Examples",
+      "url": "https://youtu.be/xUE0pH_OQig?si=D938lt3A2_ZhpXPG"
+    },
+    {
+      "title": "Present Perfect Tense",
+      "url": "https://youtu.be/553eeL1Dvho?si=CpzN0VprOtEdQYzx"
+    },
+    {
+      "title": "Present Continuous Tense",
+      "url": "https://youtu.be/iCzJN0g5NHQ?si=HGPuoXTGAP55Uf_0"
+    }
   ]
 }
-

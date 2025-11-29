@@ -321,8 +321,7 @@
                 "I'm glad to hear your news.",
                 "I'm excited about your new puppy."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -515,8 +514,7 @@
                 "Always write a comma after the closing phrase.",
                 "I chose 'All the best,' for my school friend."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -579,8 +577,7 @@
                 "My signature shows who the letter is from.",
                 "It's like saying 'from me'."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -596,11 +593,7 @@
               },
               "table": {
                 "title": "Informal Letter Format",
-                "headers": [
-                  "Part of Letter",
-                  "What to Write",
-                  "Placement"
-                ],
+                "headers": ["Part of Letter", "What to Write", "Placement"],
                 "rows": [
                   [
                     "Sender's Address",
@@ -796,8 +789,7 @@
                 "I wrote about my daily chores at home.",
                 "I tried to make it as personal as possible."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -975,8 +967,7 @@
                 "When will you visit our village again?",
                 "Did you enjoy your vacation?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1039,8 +1030,7 @@
                 "It sounds like you had a great time at the fair.",
                 "I hope your mother feels better soon."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -1128,8 +1118,7 @@
                 "How are you and your family?",
                 "What have you been up to?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1212,8 +1201,7 @@
                 "Keep in touch!",
                 "See you soon in the village."
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
@@ -1231,8 +1219,7 @@
               "usage_examples": [
                 "Village Post Office,\nNear Banyan Tree,\nRampur - 456789,\nBihar.\n\nJuly 18, 2025\n\nDear Rahul,\n\nHow are you? I hope this letter finds you and your family well. It feels like ages since we last met, and I wanted to tell you about what’s happening here in our village.\n\nLife here is good. The monsoon rains have been good this year, and our paddy fields are looking green and beautiful. Father says the harvest will be great. Yesterday, we had a small village fair. It was fun! There were many stalls with sweets and toys, and a puppet show. I bought a small flute for my younger sister. She was so happy.\n\nI also helped my mother with the farming work for a few days. It was hard work under the hot sun, but it felt good to help. I also saw a new type of bird near the river. It had blue feathers and sang a beautiful song. I wish you were here to see it.\n\nWhat about you? How is your new school in the city? Are you making new friends? I hope you are enjoying your studies. Did you visit your grandparents this summer? Do write back and tell me everything.\n\nWell, that’s all for now. I hope to see you during the Diwali holidays. Give my regards to your parents.\n\nWith love,\n\nSunil"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1245,8 +1232,7 @@
               "usage_examples": [
                 "House No. 12,\nGandhi Nagar,\nShahpur - 789012,\nUttar Pradesh.\n\nJuly 18, 2025\n\nDear Priya,\n\nHope you are doing well! I'm so excited to tell you about the upcoming Village Harvest Festival next month. You remember how much fun we had last year, right? I really hope you can come this time too.\n\nThe festival starts on August 15th and will last for three days. There will be traditional dances, folk songs, and delicious food stalls with local dishes. This year, they are also planning a bullock cart race! It will be very exciting. My grandmother is making her special laddus, and you know how much you love them.\n\nMy parents would be very happy if you could stay with us. We can visit the temple, swim in the clean river, and play hide-and-seek in the fields, just like old times. All our old friends from school will also be here. It would be wonderful to see everyone together.\n\nPlease try your best to come. Let me know when you can arrive so I can tell my parents. I am eagerly waiting for your reply.\n\nLots of love,\n\nAnjali"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         },
@@ -1268,12 +1254,17 @@
                 "What new animal did you see around your house or farm?",
                 "Imagine your friend is sitting next to you; what would you tell them first?"
               ],
-              "media": {
-              }
+              "media": {}
             }
           ]
         }
       ]
+    }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Letter to a friend",
+      "url": "https://youtu.be/ctCaLQDWs1Q?si=BRer9G_DRFrifZAb"
     }
   ]
 }

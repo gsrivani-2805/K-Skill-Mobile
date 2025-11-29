@@ -414,12 +414,36 @@
                 "title": "Common Roots and Word Families",
                 "headers": ["Root", "Meaning", "Example Words"],
                 "rows": [
-                  ["port", "to carry", "transport, import, export, portable, support"],
-                  ["spect", "to see, look", "inspect, respect, spectator, spectacle, perspective"],
-                  ["struct", "to build", "construct, structure, instruct, destruction"],
-                  ["dict", "to say, speak", "dictate, predict, contradict, dictionary, verdict"],
-                  ["vis/vid", "to see", "visible, video, evidence, television, revise"],
-                  ["form", "to shape", "formation, reform, uniform, transform, conform"]
+                  [
+                    "port",
+                    "to carry",
+                    "transport, import, export, portable, support"
+                  ],
+                  [
+                    "spect",
+                    "to see, look",
+                    "inspect, respect, spectator, spectacle, perspective"
+                  ],
+                  [
+                    "struct",
+                    "to build",
+                    "construct, structure, instruct, destruction"
+                  ],
+                  [
+                    "dict",
+                    "to say, speak",
+                    "dictate, predict, contradict, dictionary, verdict"
+                  ],
+                  [
+                    "vis/vid",
+                    "to see",
+                    "visible, video, evidence, television, revise"
+                  ],
+                  [
+                    "form",
+                    "to shape",
+                    "formation, reform, uniform, transform, conform"
+                  ]
                 ]
               }
             }
@@ -427,7 +451,19 @@
         }
       ]
     }
+  ],
+  "youtube_resources": [
+    {
+      "title": "Preffixes",
+      "url": "https://youtu.be/9O4jGeSAByE?si=eScIJr1Uk98xqgcn"
+    },
+    {
+      "title": "Suffixes",
+      "url": "https://youtu.be/MpfdDEdPCkw?si=FJlcmFC6jWMaK_5_"
+    },
+    {
+      "title": "Root words",
+      "url": "https://youtu.be/JGEI5a5KSgk?si=6aVOn_S8rYmWnrxx"
+    }
   ]
 }
-
-
