@@ -24,9 +24,8 @@ class _SpeakingPracticeState extends State<SpeakingPractice>
   String _userSpeech = '';
   String _currentResponse = '';
   List<Map<String, String>> _conversationHistory = [];
-
-  String _accumulatedSpeech = '';
-  String _lastFinalResult = '';
+  String _stableText = "";
+  DateTime _lastUpdateTime = DateTime.now();
 
   static final String _geminiApiKey = ApiConfig.geminiApiKey;
 
@@ -109,43 +108,65 @@ class _SpeakingPracticeState extends State<SpeakingPractice>
     setState(() {
       _isListening = true;
       _userSpeech = '';
-      _accumulatedSpeech = '';
-      _lastFinalResult = '';
+
+      _stableText = "";
+      _lastUpdateTime = DateTime.now();
     });
 
     await _speech.listen(
-      onResult: (val) {
-        setState(() {
-          if (val.finalResult) {
-            final newText = val.recognizedWords.trim();
-            if (newText.isNotEmpty && newText != _lastFinalResult) {
-              _lastFinalResult = newText;
-              _accumulatedSpeech = _accumulatedSpeech.isEmpty
-                  ? newText
-                  : '$_accumulatedSpeech $newText';
-              _userSpeech = _accumulatedSpeech;
-            }
-          } else {
-            _userSpeech = val.recognizedWords.trim();
-          }
-        });
-      },
-      pauseFor: const Duration(seconds: 5),
-      partialResults: true,
+      listenMode: stt.ListenMode.dictation,
+      partialResults: false,
       cancelOnError: true,
-      listenMode: stt.ListenMode.confirmation,
       localeId: 'en_US',
+      onResult: (val) {
+        final current = val.recognizedWords.trim();
+        final now = DateTime.now();
+
+        // Debounce: ignore too-fast duplicate signals
+        if (now.difference(_lastUpdateTime).inMilliseconds < 250) return;
+        _lastUpdateTime = now;
+
+        // Ignore empty values
+        if (current.isEmpty) return;
+
+        String lowerCurrent = current.toLowerCase();
+        String lowerStable = _stableText.toLowerCase();
+
+        // If transcript is unchanged → ignore
+        if (lowerCurrent == lowerStable) return;
+
+        // Speech recognizer sends whole sentence repeatedly
+        if (lowerCurrent.startsWith(lowerStable)) {
+          // extract only the new part
+          final newPart = lowerCurrent.substring(lowerStable.length).trim();
+
+          if (newPart.isNotEmpty) {
+            setState(() {
+              _stableText = (_stableText + " " + newPart).trim();
+              _userSpeech = _stableText;
+            });
+          }
+        }
+        // mismatch → overwrite (rare fallback)
+        else {
+          setState(() {
+            _stableText = lowerCurrent;
+            _userSpeech = lowerCurrent;
+          });
+        }
+      },
     );
   }
 
   void _stopListening() {
-    setState(() => _isListening = false);
     _speech.stop();
-    _pulseController.stop();
+    setState(() => _isListening = false);
 
-    if (_userSpeech.trim().isNotEmpty) {
-      _processUserInput(_userSpeech);
+    if (_stableText.trim().isNotEmpty) {
+      _processUserInput(_stableText);
     }
+
+    _pulseController.stop();
   }
 
   Future<String> _generateLLMResponse(String userInput) async {
@@ -247,8 +268,6 @@ Format your response as:
 
       setState(() {
         _userSpeech = '';
-        _accumulatedSpeech = '';
-        _lastFinalResult = '';
       });
     } catch (e) {
       setState(() {
@@ -266,8 +285,6 @@ Format your response as:
       _currentResponse =
           'Hello! I\'m your English tutor. Let\'s practice speaking together!';
       _userSpeech = '';
-      _accumulatedSpeech = '';
-      _lastFinalResult = '';
     });
 
     await _speakText(
@@ -283,8 +300,6 @@ Format your response as:
       _isSpeaking = false;
       _currentResponse = 'Session ended. Tap "Start Session" to begin again.';
       _userSpeech = '';
-      _accumulatedSpeech = '';
-      _lastFinalResult = '';
       _conversationHistory.clear();
     });
 

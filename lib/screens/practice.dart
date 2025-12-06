@@ -36,6 +36,8 @@ class _PracticeScreenState extends State<PracticeScreen> {
   final TextEditingController _listeningController = TextEditingController();
   String userTypedText = '';
   bool _showListeningResult = false;
+  String _lastStableText = "";
+  DateTime _lastUpdate = DateTime.now();
 
   static const baseUrl = ApiConfig.baseUrl;
 
@@ -428,11 +430,7 @@ class _PracticeScreenState extends State<PracticeScreen> {
     });
   }
 
-  // String _accumulatedSpeech = '';
-  // late String _lastFinalResult = '';
-
   Future<void> startListening() async {
-    // 1. Check mic permission
     var status = await Permission.microphone.request();
     if (!status.isGranted) {
       ScaffoldMessenger.of(context).showSnackBar(
@@ -441,7 +439,6 @@ class _PracticeScreenState extends State<PracticeScreen> {
       return;
     }
 
-    // 2. Initialize speech service
     bool available = await speech.initialize(
       onStatus: (status) {
         debugPrint('Speech status: $status');
@@ -455,7 +452,6 @@ class _PracticeScreenState extends State<PracticeScreen> {
       },
     );
 
-    // 3. If not available – show message
     if (!available) {
       ScaffoldMessenger.of(context).showSnackBar(
         const SnackBar(content: Text('Speech recognition not available')),
@@ -463,71 +459,58 @@ class _PracticeScreenState extends State<PracticeScreen> {
       return;
     }
 
-    // 4. Start listening
-    setState(() => isListening = true);
+    setState(() {
+      isListening = true;
+      spokenText = "";
+      _lastStableText = "";
+      _lastUpdate = DateTime.now();
+    });
+
     speech.listen(
+      listenMode: stt.ListenMode.dictation,
+      partialResults: false,
       onResult: (result) {
-        setState(() => spokenText = result.recognizedWords);
+        final current = result.recognizedWords.trim();
+
+        // Ignore if flutter web sends the SAME sentence twice
+        if (current == _lastStableText) return;
+
+        // Debounce (avoid processing too fast)
+        if (DateTime.now().difference(_lastUpdate).inMilliseconds < 300) return;
+
+        _lastUpdate = DateTime.now();
+
+        // Only append NEW text beyond previous transcript
+        String cleanedCurrent = current.toLowerCase();
+        String cleanedLast = _lastStableText.toLowerCase();
+
+        if (cleanedCurrent.startsWith(cleanedLast)) {
+          // Only add new part
+          String newPart = cleanedCurrent.substring(cleanedLast.length).trim();
+
+          if (newPart.isNotEmpty) {
+            setState(() {
+              spokenText = (_lastStableText + " " + newPart).trim();
+              _lastStableText = spokenText;
+            });
+          }
+        } else {
+          // If mismatch, overwrite (rare browser glitch)
+          setState(() {
+            spokenText = cleanedCurrent;
+            _lastStableText = cleanedCurrent;
+          });
+        }
       },
     );
   }
 
-  // Future<void> startListening() async {
-  //   bool available = await speech.initialize(
-  //     onStatus: (status) {
-  //       debugPrint('Speech status: $status');
-  //       if (status == 'notListening' && isListening) {
-  //         setState(() => isListening = false);
-  //       }
-  //     },
-  //     onError: (error) {
-  //       debugPrint('Speech error: $error');
-  //       setState(() => isListening = false);
-  //     },
-  //   );
-
-  //   if (!available) {
-  //     ScaffoldMessenger.of(context).showSnackBar(
-  //       const SnackBar(content: Text('Speech recognition not available')),
-  //     );
-  //     return;
-  //   }
-
-  //   setState(() {
-  //     isListening = true;
-  //     spokenText = '';
-  //     _accumulatedSpeech = '';
-  //     _lastFinalResult = '';
-  //   });
-
-  //   await speech.listen(
-  //     onResult: (val) {
-  //       setState(() {
-  //         if (val.finalResult) {
-  //           final newText = val.recognizedWords.trim();
-  //           if (newText.isNotEmpty && newText != _lastFinalResult) {
-  //             _lastFinalResult = newText;
-  //             _accumulatedSpeech = _accumulatedSpeech.isEmpty
-  //                 ? newText
-  //                 : '$_accumulatedSpeech $newText';
-  //             spokenText = _accumulatedSpeech;
-  //           }
-  //         } else {
-  //           spokenText = val.recognizedWords.trim();
-  //         }
-  //       });
-  //     },
-  //     pauseFor: const Duration(seconds: 5),
-  //     partialResults: true,
-  //     cancelOnError: true,
-  //     listenMode: stt.ListenMode.confirmation,
-  //     localeId: 'en_US',
-  //   );
-  // }
-
   void stopListening() {
-    setState(() => isListening = false);
     speech.stop();
+    setState(() {
+      isListening = false;
+      _lastUpdate = DateTime.now();
+    });
   }
 
   double calculateSimilarity(String original, String spoken) {
