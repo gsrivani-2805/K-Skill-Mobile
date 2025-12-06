@@ -2,7 +2,7 @@
 
 **K-Skill** is a mobile learning app designed to help rural government school students (Classes 8–10) learn **spoken English** through structured lessons, interactive practice, assessments, and fun activities.
 
-🌐 Web Version: [K-Skill Web](https://k-skill-mobile.vercel.app)
+🌐 Web Version: [K-Skill Web](https://k-skill.vercel.app)
 
 ---
 
